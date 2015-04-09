@@ -23,7 +23,7 @@
     <link REL="Shortcut icon" HREF="../cs/ENGInE/img/favicon.ico" type="image/x-icon">
     <link REL="Shortcut icon" HREF="../cs/ENGInE/img/favicon.png" type="image/x-icon">
     <link REL="Shortcut icon" HREF="../cs/ENGInE/img/favicon.gif" type="image/x-icon">
-    <link href="<?=base_url('assets/css/grouped.css')?>" type="text/css" rel="stylesheet">
+    <link href="<?=base_url('assets/css/ep2_grouped.css')?>" type="text/css" rel="stylesheet">
     <link href="<?=base_url('assets/css/ep2_header_footer.css')?>" type="text/css" rel="stylesheet">
     <script src="<?=base_url('assets/js/modernizr-2.5.3.min.js')?>"></script>
     <script src="<?=base_url('assets/js/EngineJSGlobals.js')?>"></script>
