@@ -106,10 +106,24 @@ $route['Autoturisme/Noul-Ford-Tourneo-Courier/ExperientaLaVolan'] = 'autoturisme
 $route['Autoturisme/Noul-Ford-Tourneo-Courier/Design'] = 'autoturisme/noul_tourneo_courier/design';
 $route['Autoturisme/Noul-Ford-Tourneo-Courier'] = 'autoturisme/noul_tourneo_courier/index';
 
+$route['VehiculeComerciale/Prezentare'] = 'vehicule-comerciale/prezentare/index';
+
+$route['VehiculeComerciale/Noua_familie_Transit'] = 'vehicule-comerciale/noua_familie_transit/index';
+
 $route['VehiculeComerciale/Transit-Courier/Design'] = 'vehicule-comerciale/transit_courier/design';
 $route['VehiculeComerciale/Transit-Courier'] = 'vehicule-comerciale/transit_courier/index';
 
+$route['VehiculeComerciale/TransitConnect'] = 'vehicule-comerciale/transit_connect/index';
+
 $route['Promotii/FiestaRedBlack'] = 'promotii/fiesta_red_black/index';
+$route['Promotii/Rabla2015'] = 'promotii/rabla/index';
+$route['Promotii/PromotieLansareFordFocus'] = 'promotii/focus/index';
+$route['Promotii/NoulMondeo'] = 'promotii/noul_mondeo/index';
+$route['Promotii/PrimaMasina'] = 'promotii/prima_masina/index';
+$route['Promotii/ProgramulPrimaMasina'] = 'promotii/programul_prima_masina/index';
+$route['Promotii/TradeIn'] = 'promotii/trade_in/index';
+$route['Promotii/CaravanaTransit'] = 'promotii/caravana_transit/index';
+$route['Promotii/Oferta_Speciala_TransitCourier'] = 'promotii/oferta_transit_courier/index';
 
 $route['Autoturisme'] = 'xyz';
 
