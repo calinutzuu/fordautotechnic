@@ -7,91 +7,91 @@
 /*FBolaji - NEW Font metrics form webtype */
 @font-face {
 font-family: "FordAntennaRegular";
-src: url("/cs/ENGInE/font/FordAntennaRegular/FordAntenna-Regular.eot");
-src: url("/cs/ENGInE/font/FordAntennaRegular/FordAntenna-Regular.eot?") format("embedded-opentype"),
-url("/cs/ENGInE/font/FordAntennaRegular/FordAntenna-Regular.woff") format("woff"),
-url("/cs/ENGInE/font/FordAntennaRegular/FordAntenna-Regular.ttf") format("truetype"),
-url('/cs/ENGInE/font/FordAntennaRegular/FordAntenna-Regular.svg') format('svg');
+src: url("/assets/fonts/FordAntennaRegular/FordAntenna-Regular.eot");
+src: url("/assets/fonts/FordAntennaRegular/FordAntenna-Regular.eot?") format("embedded-opentype"),
+url("/assets/fonts/FordAntennaRegular/FordAntenna-Regular.woff") format("woff"),
+url("/assets/fonts/FordAntennaRegular/FordAntenna-Regular.ttf") format("truetype"),
+url('/assets/fonts/FordAntennaRegular/FordAntenna-Regular.svg') format('svg');
 font-style: normal;
 font-weight: normal;
 }
 @font-face {
 font-family: "FordAntennaBold";
-src: url("/cs/ENGInE/font/FordAntennaBold/FordAntenna-Bold.eot");
-src: url("/cs/ENGInE/font/FordAntennaBold/FordAntenna-Bold.eot?") format("embedded-opentype"),
-url("/cs/ENGInE/font/FordAntennaBold/FordAntenna-Bold.woff") format("woff"),
-url("/cs/ENGInE/font/FordAntennaBold/FordAntenna-Bold.ttf") format("truetype"),
-url('/cs/ENGInE/font/FordAntennaBold/FordAntenna-Bold.svg') format('svg');
+src: url("/assets/fonts/FordAntennaBold/FordAntenna-Bold.eot");
+src: url("/assets/fonts/FordAntennaBold/FordAntenna-Bold.eot?") format("embedded-opentype"),
+url("/assets/fonts/FordAntennaBold/FordAntenna-Bold.woff") format("woff"),
+url("/assets/fonts/FordAntennaBold/FordAntenna-Bold.ttf") format("truetype"),
+url('/assets/fonts/FordAntennaBold/FordAntenna-Bold.svg') format('svg');
 font-style: normal;
 font-weight: bold;
 }
 @font-face {
 font-family: "FordAntennaBlack";
-src: url("/cs/ENGInE/font/FordAntennaBlack/FordAntenna-Black.eot");
-src: url("/cs/ENGInE/font/FordAntennaBlack/FordAntenna-Black.eot?") format("embedded-opentype"),
-url("/cs/ENGInE/font/FordAntennaBlack/FordAntenna-Black.woff") format("woff"),
-url("/cs/ENGInE/font/FordAntennaBlack/FordAntenna-Black.ttf") format("truetype"),
-url('/cs/ENGInE/font/FordAntennaBlack/FordAntenna-Black.svg') format('svg');
+src: url("/assets/fonts/FordAntennaBlack/FordAntenna-Black.eot");
+src: url("/assets/fonts/FordAntennaBlack/FordAntenna-Black.eot?") format("embedded-opentype"),
+url("/assets/fonts/FordAntennaBlack/FordAntenna-Black.woff") format("woff"),
+url("/assets/fonts/FordAntennaBlack/FordAntenna-Black.ttf") format("truetype"),
+url('/assets/fonts/FordAntennaBlack/FordAntenna-Black.svg') format('svg');
 font-style: normal;
 font-weight: normal;
 }
 @font-face {
 font-family: "FordAntennaLight";
-src: url("/cs/ENGInE/font/FordAntennaLight/FordAntenna-Light.eot");
-src: url("/cs/ENGInE/font/FordAntennaLight/FordAntenna-Light.eot?") format("embedded-opentype"),
-url("/cs/ENGInE/font/FordAntennaLight/FordAntenna-Light.woff") format("woff"),
-url("/cs/ENGInE/font/FordAntennaLight/FordAntenna-Light.ttf") format("truetype"),
-url('/cs/ENGInE/font/FordAntennaLight/FordAntenna-Light.svg') format('svg');
+src: url("/assets/fonts/FordAntennaLight/FordAntenna-Light.eot");
+src: url("/assets/fonts/FordAntennaLight/FordAntenna-Light.eot?") format("embedded-opentype"),
+url("/assets/fonts/FordAntennaLight/FordAntenna-Light.woff") format("woff"),
+url("/assets/fonts/FordAntennaLight/FordAntenna-Light.ttf") format("truetype"),
+url('/assets/fonts/FordAntennaLight/FordAntenna-Light.svg') format('svg');
 font-style: normal;
 font-weight: normal;
 }
 @font-face {
 font-family: "FordAntennaExtraLight";
-src: url("/cs/ENGInE/font/FordAntennaExtraLight/FordAntenna-ExtraLight.eot");
-src: url("/cs/ENGInE/font/FordAntennaExtraLight/FordAntenna-ExtraLight.eot?") format("embedded-opentype"),
-url("/cs/ENGInE/font/FordAntennaExtraLight/FordAntenna-ExtraLight.woff") format("woff"),
-url("/cs/ENGInE/font/FordAntennaExtraLight/FordAntenna-ExtraLight.ttf") format("truetype"),
-url('/cs/ENGInE/font/FordAntennaExtraLight/FordAntenna-ExtraLight.svg') format('svg');
+src: url("/assets/fonts/FordAntennaExtraLight/FordAntenna-ExtraLight.eot");
+src: url("/assets/fonts/FordAntennaExtraLight/FordAntenna-ExtraLight.eot?") format("embedded-opentype"),
+url("/assets/fonts/FordAntennaExtraLight/FordAntenna-ExtraLight.woff") format("woff"),
+url("/assets/fonts/FordAntennaExtraLight/FordAntenna-ExtraLight.ttf") format("truetype"),
+url('/assets/fonts/FordAntennaExtraLight/FordAntenna-ExtraLight.svg') format('svg');
 font-style: normal;
 font-weight: normal;
 }
 @font-face {
 font-family: "FordAntennaCond";
-src: url("/cs/ENGInE/font/FordAntennaCond/FordAntenna-Cond.eot");
-src: url("/cs/ENGInE/font/FordAntennaCond/FordAntenna-Cond.eot?") format("embedded-opentype"),
-url("/cs/ENGInE/font/FordAntennaCond/FordAntenna-Cond.woff") format("woff"),
-url("/cs/ENGInE/font/FordAntennaCond/FordAntenna-Cond.ttf") format("truetype"),
-url('/cs/ENGInE/font/FordAntennaCond/FordAntenna-Cond.svg') format('svg');
+src: url("/assets/fonts/FordAntennaCond/FordAntenna-Cond.eot");
+src: url("/assets/fonts/FordAntennaCond/FordAntenna-Cond.eot?") format("embedded-opentype"),
+url("/assets/fonts/FordAntennaCond/FordAntenna-Cond.woff") format("woff"),
+url("/assets/fonts/FordAntennaCond/FordAntenna-Cond.ttf") format("truetype"),
+url('/assets/fonts/FordAntennaCond/FordAntenna-Cond.svg') format('svg');
 font-style: normal;
 font-weight: normal;
 }
 @font-face {
 font-family: "FordAntennaCondMedium";
-src: url("/cs/ENGInE/font/FordAntennaCondMed/FordAntenna-CondMed.eot");
-src: url("/cs/ENGInE/font/FordAntennaCondMed/FordAntenna-CondMed.eot?") format("embedded-opentype"),
-url("/cs/ENGInE/font/FordAntennaCondMed/FordAntenna-CondMed.woff") format("woff"),
-url("/cs/ENGInE/font/FordAntennaCondMed/FordAntenna-CondMed.ttf") format("truetype"),
-url('/cs/ENGInE/font/FordAntennaCondMed/FordAntenna-CondMed.svg') format('svg');
+src: url("/assets/fonts/FordAntennaCondMed/FordAntenna-CondMed.eot");
+src: url("/assets/fonts/FordAntennaCondMed/FordAntenna-CondMed.eot?") format("embedded-opentype"),
+url("/assets/fonts/FordAntennaCondMed/FordAntenna-CondMed.woff") format("woff"),
+url("/assets/fonts/FordAntennaCondMed/FordAntenna-CondMed.ttf") format("truetype"),
+url('/assets/fonts/FordAntennaCondMed/FordAntenna-CondMed.svg') format('svg');
 font-style: normal;
 font-weight: normal;
 }
 @font-face {
 font-family: "FordAntennaCondBold";
-src: url("/cs/ENGInE/font/FordAntennaCondBold/FordAntenna-CondBold.eot");
-src: url("/cs/ENGInE/font/FordAntennaCondBold/FordAntenna-CondBold.eot?") format("embedded-opentype"),
-url("/cs/ENGInE/font/FordAntennaCondBold/FordAntenna-CondBold.woff") format("woff"),
-url("/cs/ENGInE/font/FordAntennaCondBold/FordAntenna-CondBold.ttf") format("truetype"),
-url('/cs/ENGInE/font/FordAntennaCondBold/FordAntenna-CondBold.svg') format('svg');
+src: url("/assets/fonts/FordAntennaCondBold/FordAntenna-CondBold.eot");
+src: url("/assets/fonts/FordAntennaCondBold/FordAntenna-CondBold.eot?") format("embedded-opentype"),
+url("/assets/fonts/FordAntennaCondBold/FordAntenna-CondBold.woff") format("woff"),
+url("/assets/fonts/FordAntennaCondBold/FordAntenna-CondBold.ttf") format("truetype"),
+url('/assets/fonts/FordAntennaCondBold/FordAntenna-CondBold.svg') format('svg');
 font-style: normal;
 font-weight: bold;
 }
 @font-face {
 font-family: 'FordAntennaThin';
-src:  url('/cs/ENGInE/font/fordantenna-thin-webfont.eot');
+src:  url('/assets/fonts/fordantenna-thin-webfont.eot');
 src:  local('FordAntennaThin'), 
-url("/cs/ENGInE/font/fordantenna-thin-webfont.eot?") format("embedded-opentype"), 
-url("/cs/ENGInE/font/fordantenna-thin-webfont.woff") format("woff"), 
-url("/cs/ENGInE/font/fordantenna-thin-webfont.ttf") format("truetype");
+url("/assets/fonts/fordantenna-thin-webfont.eot?") format("embedded-opentype"), 
+url("/assets/fonts/fordantenna-thin-webfont.woff") format("woff"), 
+url("/assets/fonts/fordantenna-thin-webfont.ttf") format("truetype");
 font-weight: normal;
 font-style: normal;
 }
@@ -349,7 +349,7 @@ font-weight: bold;
 }
 .loader {
 background:
-url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=loader)
+url(/assets/img/loader.gif)
 no-repeat scroll center 10px #FFFFFF;
 /*border: 1px solid #CCCCCC;*/
 border-radius: 5px 5px 5px 5px;
@@ -427,7 +427,7 @@ font-size: 12px;
 font-weight: normal;*/
 }
 #wrapper>header {
-background: url(/cs/EP2/img/background/header_bg.png) repeat-x
+background: url(/assets/img/header_bg.png) repeat-x
 transparent;
 height: 65px;
 position: relative;
@@ -449,7 +449,7 @@ z-index:9999;
 }
 #wrapper footer {
 background:
-url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=footer_tiles)
+url(/assets/img/footer_tiles.png)
 repeat 0 0 #1F1F1F;
 padding-left:0px;
 padding-right:0px;
@@ -664,7 +664,7 @@ background-position: 0px -15px;
 background-position: 0px -12px;
 }
 .sbeLinks .flyout {
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=sbe_flyout_tiles) no-repeat left bottom transparent;
+background: url(/assets/img/sbe_flyout_tiles.png) no-repeat left bottom transparent;
 max-height: 190px;
 left: -99999px;
 padding: 0 3px 5px;
@@ -680,7 +680,7 @@ padding: 0;
 }
 .sbeLinks .flyout>dl>dt,.sbeLinks .flyout>dl>dd:first-child {
 background:
-url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=stiching_tile)
+url(/assets/img/stiching_tile.png)
 repeat-x 1px 1px;
 }
 .sbeLinks .flyout dt,.sbeLinks .flyout>dl>dd:first-child {
@@ -749,7 +749,7 @@ text-indent: -99999px;
 z-index: 1000;
 }
 #sections>li {
-background: url(/cs/EP2/img/link_break.png) no-repeat 0 12px transparent;
+background: url(/assets/img/link_break.png) no-repeat 0 12px transparent;
 float: left;
 height: 37px;
 padding: 3px 0 0 3px;
@@ -783,12 +783,12 @@ text-transform: uppercase;
 letter-spacing: 0.025em;
 }
 #sections>li.levelOne.focused:hover {
-background: url(/cs/EP2/img/link_break_hover.png) no-repeat left top;
+background: url(/assets/img/link_break_hover.png) no-repeat left top;
 height: 37px;
 z-index: 500;
 }
 #sections li.levelOne.focused>a {
-background: url(/cs/EP2/img/link_break_right_hover.png) no-repeat right
+background: url(/assets/img/link_break_right_hover.png) no-repeat right
 top #fff;
 }
 #sections>li>a:hover span,#sections>li>a:focus span,#sections>li.levelOne.focused>a:focus span,#sections>li.levelOne.focused>a:hover
@@ -799,7 +799,7 @@ border-radius: 3px 3px 3px 3px;
 color: #fff;
 }
 #sections>li>a>span.sepRight {
-background: url(/cs/EP2/img/link_break.png) no-repeat 0 12px transparent
+background: url(/assets/img/link_break.png) no-repeat 0 12px transparent
 ;
 height: 40px;
 margin: 0;
@@ -812,7 +812,7 @@ width: 1px;
 #sections>li>a:hover>span.sepRight,#sections>li>a:focus>span.sepRight,#sections>li.levelOne.focused:hover>a>span.sepRight,#sections>li.levelOne.fo
 cused:focus>a>span.sepRight,#sections>li.levelOne:hover>a>span.sepRight,#sections>li.levelOne:focus>a>span.sepRight
 {
-background: url(/cs/EP2/img/link_break.png) no-repeat 0 12px #fff;
+background: url(/assets/img/link_break.png) no-repeat 0 12px #fff;
 display: none;
 height: 40px;
 margin: 0;
@@ -846,24 +846,24 @@ width: 200px;
 }
 .doormat > .innerWrap {
 /*background:
-url(/cs/EP2/img/background/doormat_primaryLink_separator.png)
+url(/assets/img/doormat_primaryLink_separator.png)
 no-repeat 145px bottom;*/
 float: left;
 min-height:420px;
 overflow: hidden;
 }
 .doormat > .innerWrap > .wrapperTabContent{
-/*background-image: url(/cs/EP2/img/background/doormat_seperator_left.png),url(/cs/EP2/img/background/doormat_seperator_right.png);
+/*background-image: url(/assets/img/doormat_seperator_left.png),url(/assets/img/doormat_seperator_right.png);
 background-position: top left, top right;
 background-repeat: no-repeat;*/
-background: url(/cs/EP2/img/background/doormat_seperator_right.png) no-repeat top right;
+background: url(/assets/img/doormat_seperator_right.png) no-repeat top right;
 float: left;
 min-width: 340px;
 min-height:300px;
 margin:-12px 0px 0px -11px;
 }
 .doormat > .innerWrap > .pvnp-gradient{
-background: url(/cs/EP2/img/background/doormat_seperator_left.png) no-repeat top left;
+background: url(/assets/img/doormat_seperator_left.png) no-repeat top left;
 float: left;
 margin-left: 20px;
 margin-top: -12px;
@@ -874,7 +874,7 @@ width: 32px;
 .lt-ie9 .doormat > .innerWrap > .wrapperTabContent{margin-top: -16px;}
 #sections > li > .doormat{left: -10px;width:800px;}
 .doormat .cv-vehicle-disclaimer{
-background: url(/cs/EP2/img/background/doormat_footer_bg.png) no-repeat 0 0;
+background: url(/assets/img/doormat_footer_bg.png) no-repeat 0 0;
 color: #425968;
 font-family: 'FordAntennaRegular',Arial,Verdana,Tahoma,Helvetica,sans-serif;
 font-size: 10px;
@@ -887,7 +887,7 @@ position: static;
 margin-top: 20px;
 }
 #sections li.levelOne.focused > a {
-background: url("/cs/EP2/img/link_break_right_hover.png") no-repeat scroll right top #FFFFFF;
+background: url("/assets/img/link_break_right_hover.png") no-repeat scroll right top #FFFFFF;
 }   
 #sections > li > a:hover span, #sections > li > a:focus span, 
 #sections > li.levelOne.focused > a:focus span, 
@@ -941,7 +941,7 @@ float: left;
 margin-top:5px;
 }
 .lt-ie9 .doormatContent.fl:before {
-content: url(/cs/EP2/img/background/doormat_primaryLink_separator.png)
+content: url(/assets/img/doormat_primaryLink_separator.png)
 no-repeat 0 5px;
 filter: alpha(opacity = 50);
 filter: progid : DXImageTransform.Microsoft.Alpha ( opacity = 0.5 );
@@ -953,7 +953,7 @@ width: 300px;
 }
 .doormatContent.fr {
 background:
-url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=doormat_model_sep)
+url(/assets/img/doormat_model_sep.jpg)
 no-repeat -86px 64px transparent;
 width: 448px;
 padding-left: 45px;
@@ -1015,7 +1015,7 @@ height:191px;
 width:340px;
 }
 .miscellaneousFooter {
-background: url(/cs/EP2/img/background/doormat_footer_bg.png) no-repeat
+background: url(/assets/img/doormat_footer_bg.png) no-repeat
 0 0;
 padding: 10px 0px;
 bottom: 0;
@@ -1034,7 +1034,7 @@ width: 100%;
 margin-left:-10px;
 }
 .miscellaneousFooter .content {
-background: url(/cs/EP2/img/background/doormat_footer_separator.png)
+background: url(/assets/img/doormat_footer_separator.png)
 no-repeat right top;
 float: left;
 /*      margin-top:3px;     */
@@ -1102,7 +1102,7 @@ width:240px;
 .pvHeroWrapper .content{padding:0px 10px 15px 10px !important;}
 .pvTertiaryWrapper .content{padding:0px 10px 5px 10px !important;}
 .pvTertiaryWrapper .content:first-child{
-background:url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=dp_separator) no-repeat right top transparent;
+background:url(/assets/img/dp_separator.png) no-repeat right top transparent;
 padding-top:15px !important;
 }
 .pvHeroWrapper .miscellaneousFooter a{display: table}
@@ -1351,7 +1351,7 @@ text-align: center;
 width: 980px;
 }
 a>.partners {
-background-image: url("/cs/EP2/img/partner_logo.png");
+background-image: url("/assets/img/partner_logo.png");
 background-repeat: no-repeat;
 color: #ccc;
 display: block;
@@ -1364,13 +1364,13 @@ background-position: 0px -18px;
 }
 .dashRuler {
 border-bottom: 1px dashed #545454;
-/*background: url(/cs/EP2/img/background/footer_horizontal_divider.png) no-repeat 0 0; */
+/*background: url(/assets/img/footer_horizontal_divider.png) no-repeat 0 0; */
 float: left;
 width: 100%;
 }
 #footerLinks {
 background:
-url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=stiching_tile")
+url("/assets/img/stiching_tile.png")
 repeat-x scroll 1px top transparent;
 padding-top:10px;
 }
@@ -1395,7 +1395,7 @@ color: #2D96CD;
 text-decoration: underline;
 }
 .footerDisclaimer {
-background: url("/cs/EP2/img/background/footer_disclaimer_bg.png")
+background: url("/assets/img/footer_disclaimer_bg.png")
 repeat-y scroll 0 0 transparent;
 border-bottom: 1px solid #545454;
 border-radius: 3px 3px 3px 3px;
@@ -1433,7 +1433,7 @@ letter-spacing: 0.025em;
 }
 .btnLink {
 background:
-url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=btn_cta_right)
+url(/assets/img/btn_cta_right.png)
 no-repeat top right;
 }
 .btnLink02 {
@@ -1446,17 +1446,17 @@ padding-right: 32px;
 }
 .btnLink.light {
 background:
-url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=btn_ctagrey_right)
+url(/assets/img/btn_ctagrey_right.png)
 no-repeat top right;
 }
 .btnLink.light02 {
 background:
-url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=btn_ctagrey_right)
+url(/assets/img/btn_ctagrey_right.png)
 no-repeat top right;
 }
 .btnLink a,.teaserBox .btnLink a {
 background:
-url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=btn_cta_left)
+url(/assets/img/btn_cta_left.png)
 no-repeat top left;
 color: #fff;
 height: 31px;
@@ -1465,7 +1465,7 @@ line-height: 32px;
 .btnLink02 a {
 /* inserted dsuliv5 18-Oct-2012 */
 background:
-url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=btn_bp_left) no-repeat top left;
+url(/assets/img/btn_bp_left.png) no-repeat top left;
 display: block;
 padding-left: 15px;
 /*
@@ -1478,13 +1478,13 @@ padding-right: 0;
 }
 .btnLink.light a {
 background:
-url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=btn_ctagrey_left)
+url(/assets/img/btn_ctagrey_left.png)
 no-repeat top left;
 color: #425968;
 }
 .btnLink.light02 a {
 background:
-url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=btn_bpgrey_left)
+url(/assets/img/btn_bpgrey_left.png)
 no-repeat top left;
 color: #425968;
 }
@@ -1526,7 +1526,7 @@ background-position: bottom right;
 color:#2D96CD;
 }
 .btnLink02 a span {
-background: url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=btn_bp_right") no-repeat right top scroll transparent;
+background: url("/assets/img/btn_bp_right.png") no-repeat right top scroll transparent;
 color: #FFFFFF;
 display: block;
 line-height: 31px;
@@ -1534,13 +1534,13 @@ margin-right: -8px;
 padding-right: 32px;
 }
 .sbtnLink {
-background: url(/cs/EP2/img/btn_greyish_right_2.png) no-repeat right
+background: url(/assets/img/btn_greyish_right_2.png) no-repeat right
 center;
 padding: 0 5px 0 0px;
 }
 .sbtnLink a {
 color: #425968;
-background: url(/cs/EP2/img/btn_greyish_left_2.png) no-repeat left;
+background: url(/assets/img/btn_greyish_left_2.png) no-repeat left;
 font-size: 11px;
 height: 23px;
 line-height: 21px;
@@ -1650,7 +1650,7 @@ z-index: 100;
 left: 0;
 }
 .breadCrumb ul {
-background: url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=breadcrumb_gradient") no-repeat scroll left bottom
+background: url("/assets/img/breadcrumb_gradient.png") no-repeat scroll left bottom
 transparent;
 float: left;
 height: 44px;
@@ -1670,7 +1670,7 @@ text-transform: uppercase;
 }
 .breadCrumb li span,.breadCrumb li.home a {
 background-image:
-url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=icon_sprite);
+url(/assets/img/icon_sprite.png);
 }
 .breadCrumb li span {
 background-position: 0 -121px;
@@ -1766,12 +1766,12 @@ position: relative;
 z-index: 100000;
 }
 .searchBox .leftcap {
-background: url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=left_search_bg") no-repeat 0 -35px transparent;
+background: url("/assets/img/left_search_bg.png") no-repeat 0 -35px transparent;
 float:left;
 height:auto;
 }
 .searchBox .leftcap label {
-background: url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=main_search_bg") repeat 0px -35px transparent;
+background: url("/assets/img/main_search_bg.png") repeat 0px -35px transparent;
 margin-left: 10px;
 color: #000;
 height: 31px;
@@ -1793,7 +1793,7 @@ width: 299px;
 z-index: 5000;
 }
 .searchBox input[type="submit"] {
-background: url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=icon_search_bg") no-repeat 0 -35px transparent;
+background: url("/assets/img/icon_search_bg.png") no-repeat 0 -35px transparent;
 border: medium none;
 border-radius: 0 0 0 0;
 color: #FFFFFF;
@@ -1832,7 +1832,7 @@ margin-left: 10px;
 }
 .js .searchBox:hover .leftcap label,
 .searchBox.expand .leftcap label {
-background: url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=main_search_bg") repeat 10px -35px transparent;
+background: url("/assets/img/main_search_bg.png") repeat 10px -35px transparent;
 }
 .js .searchBox:hover input[type="submit"],
 .js .searchBox:focus input[type="submit"],
@@ -1845,7 +1845,7 @@ position: relative;
 z-index: 100000;
 }
 .searchBox label {
-background: url(/cs/EP2/img/search_bg.png) no-repeat 0 0px;
+background: url(/assets/img/search_bg.png) no-repeat 0 0px;
 color: #000;
 height: 31px;
 margin: 0px;
@@ -1853,12 +1853,12 @@ padding: 0px;
 }
 .searchBox label:hover,.searchBox label.notEmpty
 .searchBox label.notEmpty:hover {
-background: url(/cs/EP2/img/search_bg_hover.png) no-repeat 0 0px
+background: url(/assets/img/search_bg_hover.png) no-repeat 0 0px
 transparent;
 cursor: pointer;
 }
 html.no-js .searchBox label,.searchBox label.expand {
-background: url(/cs/EP2/img/search_bg_expand.png) no-repeat 0 0px;
+background: url(/assets/img/search_bg_expand.png) no-repeat 0 0px;
 }
 input[type="search"] {
 background: none repeat scroll 0 0 transparent;
@@ -1880,7 +1880,7 @@ html.no-js .searchBox label input[type="search"],
 width: 299px;
 }
 .searchBox input[type="submit"] {
-background: url(/cs/EP2/img/icon_search.png) no-repeat 0 0px;
+background: url(/assets/img/icon_search.png) no-repeat 0 0px;
 border: medium none;
 border-radius: 0 0 0 0;
 color: #FFFFFF;
@@ -2049,10 +2049,10 @@ color: #425968;
 }
 .innerBox >.blockSlate {
 /* background-color: #425968; */
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=bg_homepage_cta_blue) repeat 0 0 transparent;
+background: url(/assets/img/bg_homepage_cta_blue.png) repeat 0 0 transparent;
 }
 .innerBox > .blockTransparent{
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=bg_homepage_cta) repeat 0 0 transparent;
+background: url(/assets/img/bg_homepage_cta.png) repeat 0 0 transparent;
 }
 /*.videoObj .innerBox, .flashObj .innerBox{
 background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=bg_homepage_cta) repeat 0 0 transparent;
@@ -2110,7 +2110,7 @@ z-index: 600;
 }
 #nextPrevBtn > a, 
 .nextPrevBtn > a {
-background-image: url(/cs/EP2/img/carousel/carousel_arrows.png);
+background-image: url(/assets/img/carousel_arrows.png);
 background-repeat: no-repeat;
 z-index: 999;
 }
@@ -2151,7 +2151,7 @@ width: 100%;
 z-index: 600;
 }
 .indicatorRightCurve {
-background: url(/cs/EP2/img/carousel/indicator_bg_right_curve.png)
+background: url(/assets/img/indicator_bg_right_curve.png)
 no-repeat right 0 transparent;
 display: inline-block;
 height: 20px;
@@ -2159,7 +2159,7 @@ padding-right: 9px;
 width: auto;
 }
 .indicator {
-background: url(/cs/EP2/img/carousel/indicator_bg.png) no-repeat 0 0;
+background: url(/assets/img/indicator_bg.png) no-repeat 0 0;
 display: inline-block;
 height: 20px;
 margin: 0 auto;
@@ -2168,7 +2168,7 @@ text-align: center;
 width: auto;
 }
 .indicator>a {
-background-image: url(/cs/EP2/img/carousel/indicator_dot.png);
+background-image: url(/assets/img/indicator_dot.png);
 background-repeat: no-repeat;
 background-position: -2px 0;
 color: #FFFFFF;
@@ -2188,7 +2188,7 @@ background-position: -2px -12px;
 margin-left: 0px;
 }
 .grid_3.exploreRange {
-/*background: url(/cs/EP2/img/background/explore_teaser_bg.gif) repeat-x bottom left;*/
+/*background: url(/assets/img/explore_teaser_bg.gif) repeat-x bottom left;*/
 /*padding: 12px 8px 12px;*/
 padding: 10px 0;
 width: 980px;
@@ -2395,7 +2395,7 @@ background: #333;
 /** BUILD and PRICE plus generic styles **/
 #bp {
 background:
-url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=bg_buildandprice_landing)
+url(/assets/img/bg_buildandprice_landing.png)
 no-repeat center 0px transparent;
 }
 #bp #wrapper .mainContent {
@@ -2428,7 +2428,7 @@ width: 150px;
 text-align: right;
 }
 #buildandprice .grid_1>.pageTitle {
-background: url(/cs/EP2/img/background/doormat_model_separator.png)
+background: url(/assets/img/doormat_model_separator.png)
 no-repeat -20px 0px;
 position: absolute;
 top: 0;
@@ -2496,7 +2496,7 @@ overflow: hidden;
 }
 .genericListPanel>nav {
 background:
-url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=white_greyish_bg03)
+url(/assets/img/white_greyish_bg03.png)
 repeat 0 0 #c8c8c8;
 width: 100%;
 }
@@ -2606,7 +2606,7 @@ right: 10px;
 top: 75px;
 }
 #buildandprice .paginate {
-background: url(/cs/EP2/img/background/white_separator_bg.gif) no-repeat
+background: url(/assets/img/white_separator_bg.gif) no-repeat
 center top;
 bottom: -40px;
 height: 30px;
@@ -2631,7 +2631,7 @@ width: 164px;
 left: -1px;
 }
 .leftControl .inner {
-background: url(/cs/EP2/img/background/left_control_bg.png) top no-repeat;
+background: url(/assets/img/left_control_bg.png) top no-repeat;
 max-height: 100%;
 padding: 24px 20px 0 20px;
 overflow-y: hidden;
@@ -2639,7 +2639,7 @@ width: 144px;
 margin-left: -10px;
 }
 .leftControl .bottomTip {
-background: url(/cs/EP2/img/background/left_control_bottom_bg.png) no-repeat 0 0 transparent;
+background: url(/assets/img/left_control_bottom_bg.png) no-repeat 0 0 transparent;
 display: inline-block;
 height: 31px;
 width: 186px;
@@ -3123,7 +3123,7 @@ text-shadow: none !important;
 }
 .tabs li.selected > a, 
 .tabs li.selected:hover > a {
-background: #fff url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=selected_tab_indicator) no-repeat center 23px;
+background: #fff url(/assets/img/selected_tab_indicator.png) no-repeat center 23px;
 height: 40px;
 color: #3b3b3b;
 filter: '';
@@ -3310,12 +3310,12 @@ z-index: 999;
 text-indent: -9999em;
 }
 #builderPage .tabOptions .prevOptions{
-background:url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=tab_left_arrow") no-repeat left top;
+background:url("/assets/img/tab_left_arrow.gif") no-repeat left top;
 border-radius:5px 0 0 5px;
 left: -1px; 
 }
 #builderPage .tabOptions .nextOptions{
-background:url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=tab_right_arrow") no-repeat right top;
+background:url("/assets/img/tab_right_arrow.gif") no-repeat right top;
 border-radius: 0 5px 5px 0;
 right: 0px;
 }
@@ -3431,7 +3431,7 @@ rgba(0, 0, 0, .2);
 rgba(0, 0, 0, .2);
 }
 .tertiary-link {
-background: url(/cs/EP2/img/background/cta_blue_right_chevron.png)
+background: url(/assets/img/cta_blue_right_chevron.png)
 center left no-repeat;
 padding: 0 0 0 23px;
 margin:0 0 0 2px;
@@ -3444,14 +3444,14 @@ height: 24px;
 letter-spacing: 0.025em;
 }
 .tertiary-link:hover {
-background-image:url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=icon_sprite");
+background-image:url("/assets/img/icon_sprite.png");
 background-position: -28px -28px;
 color: #425968;
 }
 /*** ICONS ****/
 a .whiteArrowRight {
 float: right;
-background-image: url(/cs/EP2/img/arrows.png);
+background-image: url(/assets/img/arrows.png);
 background-position: 0px 0px;
 background-repeat: no-repeat;
 height: 10px;
@@ -3464,7 +3464,7 @@ background-position: 0px -10px;
 }
 .icon,.btn {
 background-image:
-url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=icon_sprite)
+url(/assets/img/icon_sprite.png)
 ;
 background-repeat: no-repeat;
 background-color: transparent;
@@ -3472,7 +3472,7 @@ display: inline-block;
 float: left;
 }
 .btn {
-background-image: url(/cs/EP2/img/btn_sprite.png);
+background-image: url(/assets/img/btn_sprite.png);
 }
 .ctaLink {
 margin-left: 0px;
@@ -3775,14 +3775,14 @@ font: 9px FordAntenna, Arial, Helvetica, sans-serif;
 text-decoration:underline;
 }
 .midContent a.btnLink{
-background: url("/cs/ENGInE/img/cookie_legislation_btright.png") no-repeat right 0 transparent;
+background: url("/assets/img/cookie_legislation_btright.png") no-repeat right 0 transparent;
 display: block;
 height: 25px;
 padding: 0 2px;
 text-decoration: none;
 }
 .midContent a.btnLink span{
-background: url("/cs/ENGInE/img/cookie_legislation_btleft.png") no-repeat 0 0 transparent;
+background: url("/assets/img/cookie_legislation_btleft.png") no-repeat 0 0 transparent;
 color: #FFFFFF;font: 9px FordAntenna,Arial,Helvetica,sans-serif;
 display: block;
 height: 21px;
@@ -3790,7 +3790,7 @@ margin-right: 9px;padding-top: 4px;padding-left: 7px;text-shadow: 0 0 2px #00000
 #000000, 0 0 4px #000000, 0 0 4px #000000, 0 0 4px #000000, 0 0 4px #000000;
 }
 .cookieAlertBox .bottom{
-background: url("/cs/ENGInE/img/cookie_legislation_bgbo.png") repeat-x transparent;
+background: url("/assets/img/cookie_legislation_bgbo.png") repeat-x transparent;
 height:5px;
 position: relative;
 width: 196px;
@@ -3919,13 +3919,13 @@ margin-top:17%;
 cursor: pointer;
 }
 .mejs-overlay-button {
-background: url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=icon_sprite") no-repeat scroll -257px -563px transparent;
+background: url("/assets/img/icon_sprite.png") no-repeat scroll -257px -563px transparent;
 height: 40px;
 margin: 0 auto;
 width: 83px;
 }
 .no-svg .mejs-overlay-button {
-background-image: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=bigplaypng);
+background-image: url(/assets/img/bigplaypng.png);
 }
 .mejs-overlay:hover .mejs-overlay-button {
 background-position: -257px -813px ;
@@ -3969,7 +3969,7 @@ margin: 0;
 padding: 0;
 bottom: 68px;
 left: 0;
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=video_controls_bg) no-repeat;
+background: url(/assets/img/video_controls_bg.png) no-repeat;
 /*background: rgba(0, 0, 0, 0.7);
 background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgba(50,50,50,0.7)), to(rgba(0,0,0,0.7)));
 background: -webkit-linear-gradient(top, rgba(50,50,50,0.7), rgba(0,0,0,0.7));
@@ -4208,7 +4208,7 @@ background: -ms-linear-gradient(top, rgba(255,255,255,0.9), rgba(200,200,200,0.8
 background: linear-gradient(rgba(255,255,255,0.9), rgba(200,200,200,0.8));*/
 }
 .mejs-controls .mejs-time-rail .mejs-time-handle {
-background: url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=volume_control_icon") no-repeat scroll -42px 5px transparent;
+background: url("/assets/img/volume_control_icon.png") no-repeat scroll -42px 5px transparent;
 cursor: pointer;
 visibility:hidden;
 height: 27px;
@@ -4304,7 +4304,7 @@ position: relative;
 display: none;
 height: 98px;
 width: 7px;
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=volume_control_icon) no-repeat;
+background: url(/assets/img/volume_control_icon.png) no-repeat;
 /*background: rgba(50, 50, 50, 0.7);
 -webkit-border-radius: 0;
 -moz-border-radius: 0;
@@ -4351,7 +4351,7 @@ position: absolute;
 left: 5px;
 top: 0px;
 width: 8px;
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=volume_control_icon) no-repeat scroll -42px 0px transparent;
+background: url(/assets/img/volume_control_icon.png) no-repeat scroll -42px 0px transparent;
 padding-top:4px;
 height: 22px;
 /*background: #ddd;
@@ -4737,39 +4737,39 @@ border:0;
 outline:0;
 }*/
 body#default {
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=background_common_v2&site=EP2COM_ENGInE) repeat-y center 0 transparent;
+background: url(/assets/img/background_common_v2.jpg) repeat-y center 0 transparent;
 /*ORIGINAL*/
 /*background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=background_common&site=EP2COM_ENGInE) repeat-y center 0 transparent;*/
 }
 body#pv_xaxis {
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=background_pv_xaxis&site=EP2COM_ENGInE) no-repeat center 0 transparent;
+background: url(/assets/img/background_pv_xaxis.jpg) no-repeat center 0 transparent;
 }
 body#pv_xaxis_detailed {
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=background_pv_xaxis_detailed&site=EP2COM_ENGInE) repeat-y center 0 transparent;
+background: url(/assets/img/background_pv_xaxis_detailed.jpg) repeat-y center 0 transparent;
 }
 body#pv_yaxis {
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=background_pv_yaxis&site=EP2COM_ENGInE) repeat-y center 0 transparent;
+background: url(/assets/img/background_pv_yaxis&site.jpg) repeat-y center 0 transparent;
 }
 body#pv_yaxis_detailed {
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=background_pv_yaxis_detailed&site=EP2COM_ENGInE) repeat-y center 0 transparent;
+background: url(/assets/img/background_pv_yaxis_detailed.jpg) repeat-y center 0 transparent;
 }
 body#cv_xaxis {
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=background_cv_xaxis&site=EP2COM_ENGInE) repeat-y center 0 transparent;
+background: url(/assets/img/background_cv_xaxis.jpg) repeat-y center 0 transparent;
 }
 body#cv_xaxis_detailed {
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=background_cv_xaxis_detailed&site=EP2COM_ENGInE) repeat-y center 0 transparent;
+background: url(/assets/img/background_cv_xaxis_detailed.jpg) repeat-y center 0 transparent;
 }
 body#cv_yaxis {
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=background_cv_yaxis&site=EP2COM_ENGInE) repeat-y center 0 transparent;
+background: url(/assets/img/background_cv_yaxis.jpg) repeat-y center 0 transparent;
 }
 body#cv_yaxis_detailed {
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=background_cv_yaxis_detailed&site=EP2COM_ENGInE) repeat-y center 0 transparent;
+background: url(/assets/img/background_cv_yaxis_detailed.jpg) repeat-y center 0 transparent;
 }
 body#bnp_cv_xaxis {
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=background_bnp_cv_xaxis&site=EP2COM_ENGInE) repeat-y center 0 transparent;
+background: url(/assets/img/background_bnp_cv_xaxis.jpg) repeat-y center 0 transparent;
 }
 body#bnp_pv_xaxis  {
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=background_bnp_pv_xaxis&site=EP2COM_ENGInE) repeat-y center 0 transparent;
+background: url(/assets/img/background_bnp_pv_xaxis.jpg) repeat-y center 0 transparent;
 }
 #detailsPanel.bstylesPanelAll,
 #detailsPanel.colorPanelAll,
@@ -4806,7 +4806,7 @@ body {
 line-height: 1.4;
 }
 .moreInfo{
-background : url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=ic_moreInfo) no-repeat 0 0;
+background : url(/assets/img/ic_moreInfo.png) no-repeat 0 0;
 display: inline-block;
 float: left;
 height: 18px;
@@ -4815,7 +4815,7 @@ margin-top: -2px;
 width: 19px;
 }
 .moreInfoRight{
-background : url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=ic_moreInfo) no-repeat 0 0;
+background : url(/assets/img/ic_moreInfo.png) no-repeat 0 0;
 display: inline-block;
 //float: left;
 height: 18px;
@@ -4842,11 +4842,11 @@ padding-right: 5px;
 .icon.save{margin: 6px 4px 5px 0; width: 12px;}
 .icon.share{margin: 4px 0 0;}
 .sbtnLink {
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=btn_greyish_right_2) no-repeat right center transparent;
+background: url(/assets/img/btn_greyish_right_2.png) no-repeat right center transparent;
 display: inline-block;
 }
 .sbtnLink a {
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=btn_greyish_left_2) no-repeat left center transparent;
+background: url(/assets/img/btn_greyish_left_2.png) no-repeat left center transparent;
 line-height: 22px;
 }
 #builderPage .viewSelected{
@@ -4913,7 +4913,7 @@ margin-bottom:10px;
 }
 /*tooltips*/
 .tooltip{
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=tooltipbg) repeat-x 0 0 #000;
+background: url(/assets/img/tooltipbg.jpg) repeat-x 0 0 #000;
 border-radius: 5px 5px 5px 5px;
 -moz-border-radius: 5px 5px 5px 5px;
 -webkit-border-radius: 5px 5px 5px 5px;
@@ -4936,7 +4936,7 @@ max-height: 150px;
 background:none;
 }
 .tooltip .arrow{
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=tooltip_arrow_sprite) no-repeat 0 0;
+background: url(/assets/img/tooltip_arrow_sprite.png) no-repeat 0 0;
 display: block;
 height: 11px;
 padding: 0;
@@ -4953,7 +4953,7 @@ input::-webkit-inner-spin-button {
 -webkit-appearance: textfield;
 margin: 0;
 }
-#bp .breadCrumb{background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=bg_breadcrumb_greyish) no-repeat left bottom; height:35px;min-width:300px;}
+#bp .breadCrumb{background: url(/assets/img/bg_breadcrumb_greyish.png) no-repeat left bottom; height:35px;min-width:300px;}
 #bp .breadCrumb ul{background:none; margin-top: 5px;}
 #buildandprice{/*min-height:615px;*/ min-height:690px; width:100%;position:relative;}
 #cvBuildPriceV2 #buildandprice{min-height:400px;}
@@ -5055,7 +5055,7 @@ max-width: 700px;
 width:700px;
 }
 /*#buildandprice .content_sep{
-background: url(/cs/EP2/img/xaxis/xaxis_seperator.png) no-repeat bottom center;
+background: url(/assets/img/xaxis/xaxis_seperator.png) no-repeat bottom center;
 bottom: 55px;
 height: 32px;
 left: 245px;
@@ -5073,7 +5073,7 @@ text-align:center;
 }
 /*#bpAnchoredBtn.btn-link-wrapper,
 #buildandprice #nameplateAnchoredBtn.btn-link-wrapper {
-background: url("/cs/EP2/img/xaxis/xaxis_seperator.png") no-repeat scroll center top rgba(255, 255, 255, 0.016);
+background: url("/assets/img/xaxis/xaxis_seperator.png") no-repeat scroll center top rgba(255, 255, 255, 0.016);
 padding-left: 0;
 padding-top: 18px;
 }*/
@@ -5217,7 +5217,7 @@ min-width: 16px;
 vertical-align: middle;
 }
 .leftControl .icon-span span {
-background:url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=icon_sprite") no-repeat -254px -414px;
+background:url("/assets/img/icon_sprite.png") no-repeat -254px -414px;
 height: 12px;
 width: 16px;
 display: block;
@@ -5339,7 +5339,7 @@ color: #909BB0;
 .genericListPanel{min-height: 260px;}
 .lt-ie9 #builderPage .genericListPanel{filter: alpha(opacity = 0);}
 .genericListPanel > nav {
-background: url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=white_greyish_bg03") no-repeat scroll left top #E6E6E6;
+background: url("/assets/img/white_greyish_bg03.png") no-repeat scroll left top #E6E6E6;
 max-height:42px!important;
 width: 100%;
 }
@@ -5414,7 +5414,7 @@ top: 60px;
 }
 #buildandprice .paginate,
 .separatorDiv{
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=white_greyish_sep) no-repeat center top;
+background: url(/assets/img/white_greyish_sep.gif) no-repeat center top;
 }
 #buildandprice .indicatorRightCurve, #buildandprice  .indicator{
 background: none repeat scroll 0 0 transparent;
@@ -5426,7 +5426,7 @@ background-position: -2px -37px;
 background-position: -2px -25px;
 }
 #buildandprice .paginate{
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=white_greyish_sep) no-repeat center top;
+background: url(/assets/img/white_greyish_sep.gif) no-repeat center top;
 /* bottom: 0;
 position: absolute;*/
 text-align: center;
@@ -5440,7 +5440,7 @@ padding-top: 15px;
 .carFeatures .standardRate,
 .carFeatures .promo,
 .carFeatures .recommend{
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=feature_sprite) no-repeat 1px -1px transparent;
+background: url(/assets/img/feature_sprite.png) no-repeat 1px -1px transparent;
 color: #969696;
 font-family: Arial,Verdana,Tahoma,Helvetica,sans-serif;
 font-size: 10px;
@@ -5479,7 +5479,7 @@ right: -1px;
 #buildandprice .modelContainer .thumbMask,
 #buildandprice .bodyStyleContainer */
 #buildandprice .thumbMask{
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=bg_thumbMask) no-repeat;
+background: url(/assets/img/bg_thumbMask.png) no-repeat;
 position:absolute;
 height:83px;
 width:148px;
@@ -5488,7 +5488,7 @@ left:0;
 z-index:10;
 }
 .lt-ie9 #buildandprice .thumbMask{
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=bg_thumbMask) no-repeat;
+background: url(/assets/img/bg_thumbMask.png) no-repeat;
 }
 /*#buildandprice  .modelContainer .thumbMask,
 #buildandprice .bodyStyleContainer .thumbMask,
@@ -5499,7 +5499,7 @@ width:100%;
 }*/
 #buildandprice .selectAsset,
 .carFeatures .selectAsset{
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=feature_sprite) no-repeat 0px -52px transparent;
+background: url(/assets/img/feature_sprite.png) no-repeat 0px -52px transparent;
 top: 5px;
 height: 24px;
 position: absolute;
@@ -5511,7 +5511,7 @@ top: 52px;
 }*/
 #buildandprice .selectedFeature .selectAsset,
 #buildandprice .allFeatureChecked .selectAsset{
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=feature_sprite) no-repeat 0px -76px transparent;
+background: url(/assets/img/feature_sprite.png) no-repeat 0px -76px transparent;
 }
 #buildandprice .selectedFeature img{
 -webkit-box-shadow: 0 5px 9px #A9A6A6; /* webkit browser*/
@@ -5701,7 +5701,7 @@ font-size: 10px;
 #buildandprice .genericListPanel .disclaimer,
 #buildandprice .summaryContent .disclaimer,
 .spec-row .disclaimer{
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=white_greyish_sep) no-repeat center top;
+background: url(/assets/img/white_greyish_sep.gif) no-repeat center top;
 color: #435A69;
 font-size: 10px;
 font-family:'FordAntenna',Arial,Verdana,Tahoma,Helvetica,sans-serif;
@@ -5886,7 +5886,7 @@ height: inherit;
 position: relative;}
 .heroAngleSwitcherRight,
 .heroAngleSwitcherLeft{
-/*background: url(/cs/EP2/img/carousel/carousel_arrows.png) no-repeat 0 -51px transparent;*/
+/*background: url(/assets/img/carousel_arrows.png) no-repeat 0 -51px transparent;*/
 background:url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=icon_angleview) no-repeat 0 0px;   
 cursor: pointer;
 height:28px;
@@ -6085,7 +6085,7 @@ position: relative;
 }
 span.removeFeature,
 span.addFeature{
-background : url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=feature_sprite) no-repeat -61px -66px transparent;
+background : url(/assets/img/feature_sprite.png) no-repeat -61px -66px transparent;
 bottom: 0;
 display: inline-block;
 height: 33px;
@@ -6142,7 +6142,7 @@ width:200px;
 }
 .summaryContent aside{background:none;}
 .summaryContent .block380{
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=shred) repeat-x 0px bottom #FAFAFA;
+background: url(/assets/img/shred.png) repeat-x 0px bottom #FAFAFA;
 border-bottom: none;
 border-bottom-left-radius: none;
 border-bottom-right-radius: none;
@@ -6319,11 +6319,11 @@ margin-bottom:0px;
 width:100%;
 }
 .dashedLines{
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=dashed) no-repeat 0 0;
+background: url(/assets/img/dashed.png) no-repeat 0 0;
 padding-top: 20px;
 }
 .summaryContent .shreddedBottom{
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=shred) no-repeat left bottom;
+background: url(/assets/img/shred.png) no-repeat left bottom;
 }
 .summaryContent dt,
 .summaryContent dd{
@@ -6442,7 +6442,7 @@ margin-top:11px;
 }
 #buildandprice .tooltip,
 #overlayBlock .tooltip{
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=tooltip_bg) repeat-x 0 0 #000;
+background: url(/assets/img/tooltip_bg.png) repeat-x 0 0 #000;
 min-height: 42px;
 padding-left: 10px;
 width: 115px;
@@ -6853,12 +6853,12 @@ float:right;
 /* loading messages */
 .loader-container {
 display: table-cell;
-background:url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=ajaxLoadingBG) no-repeat scroll center;
+background:url(/assets/img/ajaxLoadingBG.png) no-repeat scroll center;
 z-index: 99999;
 text-align:center;
 }
 .loader-image {
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=ajaxLoadSpinnerStage) no-repeat scroll center;
+background: url(/assets/img/ajaxLoadSpinnerStage.gif) no-repeat scroll center;
 z-index: 999999;
 width: 618px;
 height: 374px;
@@ -6918,7 +6918,7 @@ font-size: 15px;
 padding: 10% 10px;
 }
 #orgPriceBlock .moreInfo, #discountPriceBlock .moreInfo, #additionalPriceBlock .moreInfo{
-background : url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=ic_moreInfo) no-repeat 0 0;
+background : url(/assets/img/ic_moreInfo.png) no-repeat 0 0;
 float:none;
 margin-top: -2px;
 height:20px;
@@ -7193,7 +7193,7 @@ width:169px;
 }
 /* Next Steps Block */
 #LHMNextSteps .arrowIcon{
-background : url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=nextstepsarrow") no-repeat -8px 0px;
+background : url("/assets/img/nextstepsarrow.png") no-repeat -8px 0px;
 display: inline-block;
 float:right;
 height: 13px;
@@ -7201,7 +7201,7 @@ margin-left: 0px;
 width: 7px;
 }
 #LHMNextSteps.selected .arrowIcon{
-background : url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=nextstepsarrow") no-repeat 0 0;
+background : url("/assets/img/nextstepsarrow.png") no-repeat 0 0;
 }
 .leftControl .inner .nextStepsBlock{
 display:none;
@@ -7340,7 +7340,7 @@ float:left;
 }
 .seriesList > .listDiv {
 float:left;
-background-image: url(/cs/EP2/img/yaxis/seperator-bg.png);
+background-image: url(/assets/img/yaxis/seperator-bg.png);
 background-repeat:no-repeat;
 background-position:top left;
 width:980px;
@@ -7365,7 +7365,7 @@ height:98px !important;
 float:left;
 width:192px;
 min-height:159px;
-background-image: url(/cs/EP2/img/yaxis/divider-series.png);
+background-image: url(/assets/img/divider-series.png);
 background-repeat:no-repeat;
 background-position: right bottom;
 padding-top:15px;
@@ -7388,7 +7388,7 @@ color:#425968;
 .listDiv .details {
 float:left;
 width:275px;
-background-image: url(/cs/EP2/img/yaxis/divider-series.png);
+background-image: url(/assets/img/divider-series.png);
 background-repeat:no-repeat;
 background-position:right;
 margin:0px 15px 10px 0px;
@@ -7419,12 +7419,12 @@ color:#5d5d5d;
 width:252px;
 line-height:18px;
 padding-left:15px;
-background:url(/cs/EP2/img/yaxis/dot.jpg) no-repeat 0 5px;
+background:url(/assets/img/dot.jpg) no-repeat 0 5px;
 }
 .listDiv .details .more {
 float:left;
 width:236px;
-background-image: url(/cs/EP2/img/yaxis/line.jpg);
+background-image: url(/assets/img/line.jpg);
 background-repeat:no-repeat;
 background-position:top;
 margin:10px 0px 0px 0px;
@@ -7460,7 +7460,7 @@ height:185px;
 overflow:hidden;
 }
 .details .down-arrow {
-background:url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=read-arrow") no-repeat scroll 0 -40px transparent;
+background:url("/assets/img/read-arrow.png") no-repeat scroll 0 -40px transparent;
 padding-left:15px;
 font-family:Arial;
 font-size:11px;
@@ -7476,7 +7476,7 @@ background-position:0 -23px;
 border-bottom:2px solid #2D96CD;
 }
 .details .up-arrow {
-background:url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=read-arrow") no-repeat scroll 0 5px transparent;
+background:url("/assets/img/read-arrow.png") no-repeat scroll 0 5px transparent;
 padding-left:15px;
 font-family:Arial;
 font-size:11px;
@@ -7534,7 +7534,7 @@ position:absolute;
 bottom:0px;
 }
 .js .series_offers {
-background-image:url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=view_all_offers_line");
+background-image:url("/assets/img/view_all_offers_line.png");
 background-position:top left;
 background-repeat:no-repeat;
 width:200px;
@@ -7587,7 +7587,7 @@ top: 468px;
 z-index: 9999;
 }
 .idf-tooltip {
-background: url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=tooltip_bg") repeat-x scroll 0 0 #000000;
+background: url("/assets/img/tooltip_bg.png") repeat-x scroll 0 0 #000000;
 border-radius: 5px 5px 5px 5px;
 box-shadow: 0 1px 13px 0 #000000;
 color: #FFFFFF;
@@ -7604,7 +7604,7 @@ top: -95%;
 width: auto;
 }
 .idf-tooltip .arrow{
-background: url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=tooltip_arrow_sprite") no-repeat scroll 0 0 transparent;
+background: url("/assets/img/tooltip_arrow_sprite.png") no-repeat scroll 0 0 transparent;
 display: block;
 height: 11px;
 padding: 0;
@@ -7620,16 +7620,16 @@ width: 13px;
 display:block;
 }
 .dropdown-shadow {
-background:url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=dropdown_shadow") repeat-y scroll left bottom transparent;
+background:url("/assets/img/dropdown_shadow.png") repeat-y scroll left bottom transparent;
 width:187px;
 }
 .carousel-indicator .left.inactive-arrow{
 cursor:default;
-background: url("/cs/EP2/img/carousel/small_carousel_arrows.png") no-repeat scroll left top transparent;
+background: url("/assets/img/small_carousel_arrows.png") no-repeat scroll left top transparent;
 }
 .carousel-indicator .right.inactive-arrow{
 cursor:default;
-background: url("/cs/EP2/img/carousel/small_carousel_arrows.png") no-repeat scroll left bottom transparent;
+background: url("/assets/img/small_carousel_arrows.png") no-repeat scroll left bottom transparent;
 }
 .no-boxshadow .box-shadow {
 box-shadow: -1px 1px 1px 1px rgba(0, 0, 0, 0.2), 1px 1px 1px 1px rgba(0, 0, 0, 0.2);
@@ -7658,7 +7658,7 @@ width: 187px;
 z-index: -1;
 position:relative;
 top:-2px;
-background:url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=dropdown_shadow_btm") no-repeat scroll left bottom transparent;
+background:url("/assets/img/dropdown_shadow_btm.png") no-repeat scroll left bottom transparent;
 padding-bottom:8px;
 }
 .dropdown .dropdown-container {
@@ -7667,7 +7667,7 @@ float: left;
 margin-left: 3px;
 width: 187px;
 z-index: -1;
-background:url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=dropdown_shadow_btm") no-repeat scroll left bottom transparent;
+background:url("/assets/img/dropdown_shadow_btm.png") no-repeat scroll left bottom transparent;
 padding-bottom:8px;
 }
 .view_models {
@@ -7688,7 +7688,7 @@ outline:none;
 display:none;
 }
 .js .dropdown .dropdown-heading {
-background:url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=drop_arrow") no-repeat scroll right top transparent;
+background:url("/assets/img/drop_arrow.png") no-repeat scroll right top transparent;
 height:29px;
 z-index:10;
 min-width:200px;
@@ -7701,7 +7701,7 @@ margin-top:-1px;
 background-position:right bottom;
 }
 .dropdown .dropdown-heading a {
-background:url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=drop_bg") no-repeat scroll left center;
+background:url("/assets/img/drop_bg.png") no-repeat scroll left center;
 display:block;
 margin-right:28px;
 padding-left:5px;
@@ -7738,24 +7738,24 @@ border-right:1px solid #FFFFFF;
 border-left:1px solid #FFFFFF;
 }
 .dropdown ul li {
-background: url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=dropmenu_bg") no-repeat scroll left top #FFFFFF;
+background: url("/assets/img/dropmenu_bg.jpg") no-repeat scroll left top #FFFFFF;
 height: 40px;
 margin: 0;
 border-left:1px solid #fff;
 border-right:1px solid #fff;
 }
 .js .dropdown ul li {
-background: url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=dropmenu_bg") no-repeat scroll left top #FFFFFF;
+background: url("/assets/img/dropmenu_bg.jpg") no-repeat scroll left top #FFFFFF;
 margin: 0;
 }
 .dropdown .dropdown-container ul .selected {
-background:#425968 url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=dropdown_tick") no-repeat scroll right top;
+background:#425968 url("/assets/img/dropdown_tick.png") no-repeat scroll right top;
 margin: 0;
 border-bottom:1px solid #FFFFFF;
 border-top:1px solid #FFFFFF;
 }
 .js .dropdown .dropdown-container ul .selected {
-background:#425968 url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=dropdown_tick") no-repeat scroll right top;
+background:#425968 url("/assets/img/dropdown_tick.png") no-repeat scroll right top;
 margin: 0;
 border-right:1px solid #FFFFFF;
 border-left:1px solid #FFFFFF;
@@ -7790,7 +7790,7 @@ font-weight:normal;
 font-size:12px;
 }
 .dropdown-container .up-scroll {
-background: url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=dropmenu_bg") no-repeat scroll left top #FFFFFF;
+background: url("/assets/img/dropmenu_bg.jpg") no-repeat scroll left top #FFFFFF;
 height: 20px;
 padding: 15px 5px 5px 74px;
 width: 97px;
@@ -7800,19 +7800,19 @@ z-index:100;
 margin-left:5px;
 }
 .dropdown-container .up-scroll .arrow {
-background:url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=dropdown-up-scroll") no-repeat scroll right top #FFFFFF;
+background:url("/assets/img/dropdown-up-scroll.png") no-repeat scroll right top #FFFFFF;
 height:12px;
 width:20px;
 display:block;
 }
 .dropdown-container .up-scroll .arrow:hover {
-background:url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=dropdown-up-scroll") no-repeat scroll left top #FFFFFF;
+background:url("/assets/img/dropdown-up-scroll.png") no-repeat scroll left top #FFFFFF;
 height:12px;
 width:20px;
 display:block;
 }
 .dropdown-container .down-scroll {
-background: url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=dropmenu_bg") no-repeat scroll left top #FFFFFF;
+background: url("/assets/img/dropmenu_bg.jpg") no-repeat scroll left top #FFFFFF;
 height: 20px;
 padding: 15px 5px 5px 74px;
 margin-left:5px;
@@ -7822,33 +7822,33 @@ display:none;
 z-index:100;
 }
 .dropdown-container .down-scroll .arrow {
-background:url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=dropdown-up-scroll") no-repeat scroll right bottom #FFFFFF;
+background:url("/assets/img/dropdown-up-scroll.png") no-repeat scroll right bottom #FFFFFF;
 height:12px;
 width:20px;
 display:block;
 }
 .dropdown-container .down-scroll .arrow:hover {
-background:url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=dropdown-up-scroll") no-repeat scroll left bottom #FFFFFF;
+background:url("/assets/img/dropdown-up-scroll.png") no-repeat scroll left bottom #FFFFFF;
 height:12px;
 width:20px;
 display:block;
 }
 .dropdown-container .up-scroll .disable-arrow {
-background:url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=dropdown-up-scroll") no-repeat scroll right top #FFFFFF;
+background:url("/assets/img/dropdown-up-scroll.png") no-repeat scroll right top #FFFFFF;
 height:12px;
 width:20px;
 display:block;
 cursor:default;
 }
 .dropdown-container .down-scroll .disable-arrow {
-background:url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=dropdown-up-scroll") no-repeat scroll right bottom #FFFFFF;
+background:url("/assets/img/dropdown-up-scroll.png") no-repeat scroll right bottom #FFFFFF;
 height:12px;
 width:20px;
 display:block;
 cursor:default;
 }
 .dropdown-container .bottom-shadow{
-background:url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=dropdown_shadow") repeat-y scroll left bottom;
+background:url("/assets/img/dropdown_shadow.png") repeat-y scroll left bottom;
 float:left;
 width:187px;
 }
@@ -7868,7 +7868,7 @@ text-align:center;
 display:block;
 }
 .overlay-icon {
-background:url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=promo-hover-overlay") no-repeat center center;
+background:url("/assets/img/promo-hover-overlay.png") no-repeat center center;
 width:57px;
 height:44px;
 position:absolute;
@@ -7876,7 +7876,7 @@ top:23px;
 left:52px;
 }
 .link-icon {
-background:url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=promo-hover-link") no-repeat center center;
+background:url("/assets/img/promo-hover-link.png") no-repeat center center;
 width:57px;
 height:44px;
 position:absolute;
@@ -8123,7 +8123,7 @@ margin: 0 auto;
 position: relative;
 height: 539px;
 font-size: 0px;
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=xaxis_background) repeat-x;
+background: url(/assets/img/xaxis_background.png) repeat-x;
 }
 .js .x-axis-wrapper {
 overflow-x: hidden;
@@ -8132,7 +8132,7 @@ overflow-x: hidden;
 display: none;
 }
 .x-axis-wrapper > .pointer{
-background:url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=bg_thumbMask) repeat;
+background:url(/assets/img/bg_thumbMask.png) repeat;
 color: #CCCCCC;
 font-size: 0;
 height: 55%;
@@ -8152,7 +8152,7 @@ right: -222px;
 text-align: right;
 }
 .x-axis-wrapper > .pointer > span{
-background: url(/cs/EP2/img/carousel/carousel_arrows.png) bottom left no-repeat;
+background: url(/assets/img/carousel_arrows.png) bottom left no-repeat;
 width:31px;
 height:51px;
 position: absolute;
@@ -8296,7 +8296,7 @@ border-radius: 50px 0 0 50px;
 }
 .name-plate-text-background{
 background: rgba(255, 255, 255, .015)
-/*url(/cs/EP2/img/xaxis/xaxis_seperator.png) no-repeat bottom center;*/
+/*url(/assets/img/xaxis/xaxis_seperator.png) no-repeat bottom center;*/
 padding-bottom:40px;
 }
 .name-plate-text {
@@ -8355,7 +8355,7 @@ z-index:10;
 margin-left:0;
 }
 #cv-xAxis #nameplateAnchoredBtn.btn-link-wrapper {
-background: url("/cs/EP2/img/xaxis/xaxis_seperator.png") no-repeat scroll center top rgba(255, 255, 255, 0.016);
+background: url("/assets/img/xaxis_seperator.png") no-repeat scroll center top rgba(255, 255, 255, 0.016);
 padding-left: 0;
 padding-top: 18px;
 }
@@ -8463,7 +8463,7 @@ background-position: -2px -37px;
 background-position: -2px -25px;
 }
 .x-axis-wrapper .content_sep{
-background: url(/cs/EP2/img/xaxis/xaxis_seperator.png) no-repeat bottom center;
+background: url(/assets/img/xaxis_seperator.png) no-repeat bottom center;
 bottom: 55px;
 height: 32px;
 left: 245px;
@@ -8635,7 +8635,7 @@ top: -12px;
 z-index:99;
 left: 50%;
 margin-left: -12px;
-background:url(/cs/EP2/img/background/vehicle_selector_rollover_icon.png) no-repeat top left !important;
+background:url(/assets/img/vehicle_selector_rollover_icon.png) no-repeat top left !important;
 -webkit-transition: opacity .35s ease-in-out .2s;
 -moz-transition: opacity .35s ease-in-out .2s;
 -o-transition: opacity .35s ease-in-out .2s;
@@ -8650,7 +8650,7 @@ display: none;
 }
 .idf .actionable,
 .vehicle-selector .actionable-play {
-background-image: url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=icon_sprite");
+background-image: url("/assets/img/icon_sprite.png");
 background-position: -287px -774px !important;
 display: block;
 height: 20px;
@@ -8958,7 +8958,7 @@ display: block;
 position: absolute;
 width: 9px;
 height: 14px;
-background: url(/cs/EP2/img/carousel/small_carousel_arrows.png)
+background: url(/assets/img/small_carousel_arrows.png)
 no-repeat top left;
 top: 50%;
 margin-top: -7px;
@@ -8972,13 +8972,13 @@ background-position: bottom left;
 }
 .carousel-pointer.right:hover {
 background-image:
-url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=icon_sprite")
+url("/assets/img/icon_sprite.png")
 ;
 background-position: -255px -231px;
 }
 .carousel-pointer.left:hover {
 background-image:
-url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=icon_sprite")
+url("/assets/img/icon_sprite.png")
 ;
 background-position: -235px -231px;
 }
@@ -8990,7 +8990,7 @@ position: relative;
 display: block;
 }
 .nameplate-tab-content .tab-wrapper {
-background: url(/cs/EP2/img/background/nameplate_tabs_background.png) no-repeat bottom left;
+background: url(/assets/img/nameplate_tabs_background.png) no-repeat bottom left;
 overflow: hidden;
 }
 /*  Ends */    
@@ -9000,7 +9000,7 @@ overflow: hidden;
 overflow-x:hidden;
 }
 .xaxis-bandaid.build-bandaid #wrapper {
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=xaxis_background) 0 22px repeat-x;
+background: url(/assets/img/xaxis_background.png) 0 22px repeat-x;
 overflow-x:hidden;
 }
 .xaxis-bandaid .x-axis-wrapper {
@@ -9389,7 +9389,7 @@ background-image: url("/cs/ENGInE/img/mdc_inter_icon.gif");
 background-image: url("/cs/ENGInE/img/mdc_360_icon.gif");
 }
 .more-link {
-background-image: url("http://www.ford.co.uk/cs/ENGInE/img/arrow_blue.gif");
+background-image: url("/assets/img/arrow_blue.gif");
 background-position: 0 2px;
 background-repeat: no-repeat;
 font-weight: bold;
@@ -9492,7 +9492,7 @@ height: 100%;
 display: none;
 }
 .selector-options li.selected > i {
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=dropdown_tick) no-repeat top right;
+background: url(/assets/img/dropdown_tick.png) no-repeat top right;
 width: 28px;
 height: 28px;
 display: block;
@@ -9531,7 +9531,7 @@ box-sizing: border-box;
 -moz-box-sizing: border-box;
 color: #425968;
 -webkit-box-sizing: border-box;
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=bg_rollover_trans) repeat 0 0;
+background: url(/assets/img/bg_rollover_trans.png) repeat 0 0;
 padding: 0px 0px 0px 40px;
 font-family: FordAntennaBlack;
 font-size: 12px;
@@ -10045,7 +10045,7 @@ position:relative;
 background:none; 
 }
 .mid-page-content a:hover .fv-overlay-icon {
-background: url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=promo-hover-overlay") no-repeat scroll center center transparent;
+background: url("/assets/img/promo-hover-overlay.png") no-repeat scroll center center transparent;
 position: absolute;
 right: 15px;
 top: 15px;
@@ -10515,7 +10515,7 @@ top:12px;
 }
 .conflict-icon {
 background-color: transparent;
-background-image: url("http://wwwdev3.engine.ford.com/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=icon_sprite");
+background-image: url("/assets/img/icon_sprite.png");
 background-repeat: no-repeat;
 position: absolute;
 background-position: -229px -385px;
@@ -10557,7 +10557,7 @@ user-select:none;
 display:none;
 }
 .genericListPanel .toggle-show-all{
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=feature_sprite) no-repeat 0px -52px transparent;
+background: url(/assets/img/feature_sprite.png) no-repeat 0px -52px transparent;
 height: 24px;
 display:inline-block;
 margin-right: 8px;
@@ -10565,7 +10565,7 @@ width: 24px;
 vertical-align:middle;
 }
 .genericListPanel .toggle-show-all.selected {
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=feature_sprite) no-repeat 0px -76px transparent;
+background: url(/assets/img/feature_sprite.png) no-repeat 0px -76px transparent;
 }
 .print-summary-btn {
 position: absolute;
@@ -10785,7 +10785,7 @@ margin: 100px 0 0 350px;
 .display-none{display:none;}
 .conflict-icon {
 background-color: transparent;
-background-image: url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=icon_sprite");
+background-image: url("/assets/img/icon_sprite.png");
 background-repeat: no-repeat;
 position: absolute;
 background-position: -229px -385px;
@@ -10905,7 +10905,7 @@ padding-bottom:20px;
 #cvBuildPriceV2 #featuresPanel .smallHeading{overflow:hidden;margin-bottom:32px;}
 .hero-angle-switcher-right,
 .hero-angle-switcher-left{
-background: url(/cs/EP2/img/carousel/carousel_arrows.png) no-repeat 0 -51px transparent;
+background: url(/assets/img/carousel_arrows.png) no-repeat 0 -51px transparent;
 cursor: pointer;
 height:51px;
 position:absolute;
@@ -10968,7 +10968,7 @@ padding-bottom:10px;
 margin-bottom:20px;
 }
 .print-summaryspecification-container .title-block{ line-height:35px;
-background: url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=ps-title-bg") no-repeat scroll right bottom transparent;
+background: url("/assets/img/ps-title-bg.jpg") no-repeat scroll right bottom transparent;
 padding-bottom: 20px;}
 .ps-body{background:none; line-height:1.6 !important}
 .print-summaryspecification-container .lock-up-container{ margin-bottom:25px;}
@@ -11181,7 +11181,7 @@ overflow:hidden;
 float:left;
 margin: 0 0 0 0;
 z-index:5;
-background: url('/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=gofurther_nav_wrapper') 0 0 no-repeat;
+background: url('/assets/img/gofurther_nav_wrapper.png') 0 0 no-repeat;
 }
 #container_main .nav-wrapper ul {
 list-style-type:none;
@@ -11197,7 +11197,7 @@ height:77px;
 display:none;
 position:absolute;
 z-index:5;
-background: url('/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=gofurther_arrow_animation') 0 0 no-repeat;
+background: url('/assets/img/gofurther_arrow_animation.gif') 0 0 no-repeat;
 }
 #container_main.barrelscroll .nav-wrapper:hover .arrow_controls {
 display:block;
@@ -11242,7 +11242,7 @@ padding-right:15px;
 .barrelscroll .nav-wrapper ul li.current {
 margin-left:25px;
 padding:0 0 5px 20px;
-background: url('/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=gofurther_white_arrow') 0 4px no-repeat;
+background: url('/assets/img/gofurther_white_arrow.png') 0 4px no-repeat;
 color:#fff;
 -webkit-transform:scale(1.15);
 -moz-transform:scale(1.15);
@@ -11320,14 +11320,14 @@ position:relative;
 .controls {display:none;position:absolute;top:90px;width:100%;}
 .media:hover .controls {display:inline;}
 .barrelscroll .media a.prev {
-background: url('/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=gofurther_bg_direction') 0 0 no-repeat;
+background: url('/assets/img/gofurther_bg_direction.png') 0 0 no-repeat;
 width:26px;
 height:26px;
 position:absolute;
 left:10px;
 }
 .barrelscroll .media a.next {
-background: url('/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=gofurther_bg_direction') -31px 0 no-repeat;
+background: url('/assets/img/gofurther_bg_direction.png') -31px 0 no-repeat;
 width:26px;
 height:26px;
 position:absolute;
@@ -11383,7 +11383,7 @@ text-align:center;
 margin:15px 0;
 }
 #container_main.barrelscroll .media .carousel-pagination li {
-background: url('/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=gofurther_pagination') 0 0px no-repeat;
+background: url('/assets/img/gofurther_pagination.png') 0 0px no-repeat;
 width:14px;
 height:14px;
 display:inline-block;
@@ -11414,7 +11414,7 @@ background: #fff;
 }
 #container_main.barrelscroll .disclaimer-copy a.close {
 float:right;
-background: url('/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=gofurther_close_small_grey') 0 0 no-repeat;
+background: url('/assets/img/gofurther_close_small_grey.png') 0 0 no-repeat;
 width:10px;
 height:10px;
 }

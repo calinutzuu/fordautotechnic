@@ -118,7 +118,12 @@
             <div class="mdp2" id="mdpImageControl" >
                 <table>
                     <tr>
-
+                        <td id="mdp2Fullscreen">
+                            <a href="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214488775501&amp;blobkey=id" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214488775501&amp;blobkey=id', 'Fiesta+Red+%26+Black');
+if(typeof(sford)=='object') omnitureMDPFullScreen('1205082171224'); return false;" >
+                                Fullscreen
+                            </a>
+                        </td>
                         <td id="mdp2Description" style="width:50%">
                             <a id="mdpCaption">
                                 Fiesta Red &amp; Black

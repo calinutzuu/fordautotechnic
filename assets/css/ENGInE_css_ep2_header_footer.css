@@ -330,7 +330,7 @@ font-weight: bold;
 }
 .loader {
 background:
-url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=loader)
+url(/assets/img/loader.gif)
 no-repeat scroll center 10px #FFFFFF;
 /*border: 1px solid #CCCCCC;*/
 border-radius: 5px 5px 5px 5px;
@@ -466,7 +466,7 @@ background-position: 0px -12px;
 }
 .sbeLinks .flyout {
 background:
-url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=sbe_flyout_tiles)
+url(/assets/img/sbe_flyout_tiles.png)
 no-repeat left bottom transparent;
 max-height: 190px;
 left: -99999px;
@@ -483,7 +483,7 @@ padding: 0;
 }
 .sbeLinks .flyout>dl>dt,.sbeLinks .flyout>dl>dd:first-child {
 background:
-url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=stiching_tile)
+url(/assets/img/stiching_tile.png)
 repeat-x 1px 1px;
 }
 .sbeLinks .flyout dt,.sbeLinks .flyout>dl>dd:first-child {
@@ -548,7 +548,7 @@ text-indent: -99999px;
 z-index: 1000;
 }
 #sections>li {
-background: url(/cs/EP2/img/link_break.png) no-repeat 0 12px transparent;
+background: url(/assets/img/link_break.png) no-repeat 0 12px transparent;
 float: left;
 height: 37px;
 padding: 3px 0 0 3px;
@@ -582,12 +582,12 @@ text-transform: uppercase;
 letter-spacing: 0.025em;
 }
 #sections>li.levelOne.focused:hover {
-background: url(/cs/EP2/img/link_break_hover.png) no-repeat left top;
+background: url(/assets/img/link_break_hover.png) no-repeat left top;
 height: 37px;
 z-index: 500;
 }
 #sections li.levelOne.focused>a {
-background: url(/cs/EP2/img/link_break_right_hover.png) no-repeat right
+background: url(/assets/img/link_break_right_hover.png) no-repeat right
 top #fff;
 }
 #sections>li>a:hover span,#sections>li>a:focus span,#sections>li.levelOne.focused>a:focus span,#sections>li.levelOne.focused>a:hover
@@ -598,7 +598,7 @@ border-radius: 3px 3px 3px 3px;
 color: #fff;
 }
 #sections>li>a>span.sepRight {
-background: url(/cs/EP2/img/link_break.png) no-repeat 0 12px transparent;
+background: url(/assets/img/link_break.png) no-repeat 0 12px transparent;
 height: 40px;
 margin: 0;
 padding: 0;
@@ -609,7 +609,7 @@ width: 1px;
 }
 #sections>li>a:hover>span.sepRight,#sections>li>a:focus>span.sepRight,#sections>li.levelOne.focused:hover>a>span.sepRight,#sections>li.levelOne.focused:focus>a>span.sepRight,#sections>li.levelOne:hover>a>span.sepRight,#sections>li.levelOne:focus>a>span.sepRight
 {
-background: url(/cs/EP2/img/link_break.png) no-repeat 0 12px #fff;
+background: url(/assets/img/link_break.png) no-repeat 0 12px #fff;
 display: none;
 height: 40px;
 margin: 0;
@@ -653,14 +653,14 @@ min-height: 330px;
 overflow: hidden;
 }
 .doormat > .innerWrap > .wrapperTabContent{
-background: url(/cs/EP2/img/background/doormat_seperator_right.png) no-repeat top right;
+background: url(/assets/img/background/doormat_seperator_right.png) no-repeat top right;
 float: left;
 min-width: 340px;
 min-height:300px;
 margin: -12px 0px 0px -11px;
 }
 .doormat > .innerWrap > .pvnp-gradient{
-background: url(/cs/EP2/img/background/doormat_seperator_left.png) no-repeat top left;
+background: url(/assets/img/background/doormat_seperator_left.png) no-repeat top left;
 float: left;
 margin-left: 20px;
 margin-top: -12px;
@@ -706,7 +706,7 @@ float: left;
 margin-top:5px;
 }
 .lt-ie9 .doormatContent.fl:before {
-content: url(/cs/EP2/img/background/doormat_primaryLink_separator.png)
+content: url(/assets/img/background/doormat_primaryLink_separator.png)
 no-repeat 0 5px;
 filter: alpha(opacity = 50);
 filter: progid : DXImageTransform.Microsoft.Alpha ( opacity = 0.5 );
@@ -718,7 +718,7 @@ width: 300px;
 }
 .doormatContent.fr {
 background:
-url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=doormat_model_sep)
+url(/assets/img/doormat_model_sep.jpg)
 no-repeat -86px 64px transparent;
 width: 448px;
 padding-left: 45px;
@@ -775,7 +775,7 @@ height:191px;
 width:340px;
 }
 .miscellaneousFooter {
-background: url(/cs/EP2/img/background/doormat_footer_bg.png) no-repeat
+background: url(/assets/img/background/doormat_footer_bg.png) no-repeat
 0 0;
 padding: 10px 0px;
 bottom: 0;
@@ -794,7 +794,7 @@ width: 100%;
 margin-left:-10px;
 }
 .miscellaneousFooter .content {
-background: url(/cs/EP2/img/background/doormat_footer_separator.png)
+background: url(/assets/img/background/doormat_footer_separator.png)
 no-repeat right top;
 float: left;
 /*      margin-top:3px;     */
@@ -862,7 +862,7 @@ width:240px;
 .pvHeroWrapper .content{padding:0px 10px 15px 10px !important;}
 .pvTertiaryWrapper .content{padding:0px 10px 5px 10px !important;}
 .pvTertiaryWrapper .content:first-child{
-background:url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=dp_separator") no-repeat scroll right top transparent;
+background:url("/assets/img/dp_separator.png") no-repeat scroll right top transparent;
 padding-top:15px !important;
 }
 .pvHeroWrapper .miscellaneousFooter a{display: table}
@@ -889,7 +889,7 @@ color: #425968;
 background-position: -29px -33px;
 }
 .tertiary-link {
-background: url(/cs/EP2/img/background/cta_blue_right_chevron.png)
+background: url(/assets/img/background/cta_blue_right_chevron.png)
 center left no-repeat;
 padding: 0 0 0 23px;
 margin:0 0 0 2px;
@@ -902,7 +902,7 @@ height: 24px;
 letter-spacing: 0.025em;
 }
 .tertiary-link:hover {
-background-image:url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=icon_sprite");
+background-image:url("/assets/img/icon_sprite.png");
 background-position: -28px -28px;
 color: #425968;
 }
@@ -955,12 +955,12 @@ position: relative;
 z-index: 100000;
 }
 .searchBox .leftcap {
-background: url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=left_search_bg") no-repeat 0 -35px transparent;
+background: url("/assets/img/left_search_bg.png") no-repeat 0 -35px transparent;
 float:left;
 height:auto;
 }
 .searchBox .leftcap label {
-background: url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=main_search_bg") repeat 0px -35px transparent;
+background: url("/assets/img/main_search_bg.png") repeat 0px -35px transparent;
 margin-left: 10px;
 color: #000;
 height: 31px;
@@ -982,7 +982,7 @@ width: 299px;
 z-index: 5000;
 }
 .searchBox input[type="submit"] {
-background: url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=icon_search_bg") no-repeat 0 -35px transparent;
+background: url("/assets/img/icon_search_bg.png") no-repeat 0 -35px transparent;
 border: medium none;
 border-radius: 0 0 0 0;
 color: #FFFFFF;
@@ -991,12 +991,12 @@ text-indent: -99999px;
 width: 46px;
 }
 .js .searchBox .leftcap {
-/* background: url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=left_search_bg") no-repeat 0 0 transparent; */
+/* background: url("/assets/img/left_search_bg.png") no-repeat 0 0 transparent; */
 float:left;
 height:auto;
 }
 .js .searchBox .leftcap label {
-/* background: url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=main_search_bg") repeat 10px 0 transparent; */
+/* background: url("/assets/img/main_search_bg.png") repeat 10px 0 transparent; */
 margin-left: 10px;
 }
 .js .searchBox input#s.searchField,
@@ -1006,7 +1006,7 @@ margin-left:0;
 width: 94px;
 }
 .js .searchBox input[type="submit"] {
-/* background: url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=icon_search_bg") no-repeat 0 0 transparent; */
+/* background: url("/assets/img/icon_search_bg.png") no-repeat 0 0 transparent; */
 border: medium none;
 border-radius: 0 0 0 0;
 color: #FFFFFF;
@@ -1021,7 +1021,7 @@ margin-left: 10px;
 }
 .js .searchBox:hover .leftcap label,
 .searchBox.expand .leftcap label {
-background: url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=main_search_bg") repeat 10px -35px transparent;
+background: url("/assets/img/main_search_bg.png") repeat 10px -35px transparent;
 }
 .js .searchBox:hover input[type="submit"],
 .js .searchBox:focus input[type="submit"],
@@ -1144,7 +1144,7 @@ text-align: center;
 width: 980px;
 }
 a>.partners {
-background-image: url("/cs/EP2/img/partner_logo.png");
+background-image: url("/assets/img/partner_logo.png");
 background-repeat: no-repeat;
 color: #ccc;
 display: block;
@@ -1157,13 +1157,13 @@ background-position: 0px -18px;
 }
 .dashRuler {
 border-bottom: 1px dashed #545454;
-/*background: url(/cs/EP2/img/background/footer_horizontal_divider.png) no-repeat 0 0; */
+/*background: url(/assets/img/background/footer_horizontal_divider.png) no-repeat 0 0; */
 float: left;
 width: 100%;
 }
 #footerLinks {
 background:
-url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=stiching_tile")
+url("/assets/img/stiching_tile.png")
 repeat-x scroll 1px top transparent;
 padding-top:10px;
 padding-bottom:10px;
@@ -1189,7 +1189,7 @@ color: #2D96CD;
 text-decoration: underline;
 }
 .footerDisclaimer {
-background: url("/cs/EP2/img/background/footer_disclaimer_bg.png")
+background: url("/assets/img/background/footer_disclaimer_bg.png")
 repeat-y scroll 0 0 transparent;
 border-bottom: 1px solid #545454;
 border-radius: 3px 3px 3px 3px;
@@ -1481,7 +1481,7 @@ color: #fff;
 margin-left: 160px;
 }
 .list-content ul.navigation-grid-items{
-background: url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=cv_nav_sep) no-repeat 0px 5px;
+background: url(/assets/img/cv_nav_sep.jpg) no-repeat 0px 5px; // image error?!?
 position:static;
 padding-bottom:20px;
 display:none;
@@ -1697,7 +1697,7 @@ text-shadow: 0 0 2px #000000, 0 0 4px #000000, 0 0 4px #000000, 0 0 4px #000000,
 top: 28px;
 }
 .top > .closeBtn{
-background : url("/cs/ENGInE/img/cookie_legislation_btclose.gif") no-repeat;
+background : url("/assets/img/cookie_legislation_btclose.gif") no-repeat;
 height:15px;
 position: absolute;
 right: 6px;
@@ -1733,14 +1733,14 @@ font: 9px FordAntenna, Arial, Helvetica, sans-serif;
 text-decoration:underline;
 }
 .midContent a.btnLink{
-background: url("/cs/ENGInE/img/cookie_legislation_btright.png") no-repeat right 0 transparent;
+background: url("/assets/img/cookie_legislation_btright.png") no-repeat right 0 transparent;
 display: block;
 height: 25px;
 padding: 0 2px;
 text-decoration: none;
 }
 .midContent a.btnLink span{
-background: url("/cs/ENGInE/img/cookie_legislation_btleft.png") no-repeat 0 0 transparent;
+background: url("/assets/img/cookie_legislation_btleft.png") no-repeat 0 0 transparent;
 color: #FFFFFF;font: 9px FordAntenna,Arial,Helvetica,sans-serif;
 display: block;
 height: 21px;
@@ -1748,7 +1748,7 @@ margin-right: 9px;padding-top: 4px;padding-left: 7px;text-shadow: 0 0 2px #00000
 #000000, 0 0 4px #000000, 0 0 4px #000000, 0 0 4px #000000, 0 0 4px #000000;
 }
 .cookieAlertBox .bottom{
-background: url("/cs/ENGInE/img/cookie_legislation_bgbo.png") repeat-x transparent;
+background: url("/assets/img/cookie_legislation_bgbo.png") repeat-x transparent;
 height:5px;
 position: relative;
 width: 196px;
