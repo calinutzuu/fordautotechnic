@@ -106,7 +106,10 @@ $route['Autoturisme/Noul-Ford-Tourneo-Courier/ExperientaLaVolan'] = 'autoturisme
 $route['Autoturisme/Noul-Ford-Tourneo-Courier/Design'] = 'autoturisme/noul_tourneo_courier/design';
 $route['Autoturisme/Noul-Ford-Tourneo-Courier'] = 'autoturisme/noul_tourneo_courier/index';
 
+$route['VehiculeComerciale/Transit-Courier/Design'] = 'vehicule-comerciale/transit_courier/design';
 $route['VehiculeComerciale/Transit-Courier'] = 'vehicule-comerciale/transit_courier/index';
+
+$route['Promotii/FiestaRedBlack'] = 'promotii/fiesta_red_black/index';
 
 $route['Autoturisme'] = 'xyz';
 

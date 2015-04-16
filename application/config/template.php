@@ -56,7 +56,7 @@ $config['title_separator'] = ' | ';
 |
 */
 
-$config['layout'] = 'default_before';
+$config['layout'] = 'default';
 
 /*
 |--------------------------------------------------------------------------

@@ -1,11 +1,3 @@
-<script type="text/javascript">
-    // mobile sniffer
-    ForceRedirectUserAgents = 'android,iphone,blackberry';
-    ForceRedirectUserAgentsBypass = 'Win64,Win32';
-    ForceRedirectMinWidth = '480';
-    MobileHomePageRedirectURL = 'http:\/\/m.ford.ro';
-    MobileRedirectURL = MobileHomePageRedirectURL + '_Old/Autoturisme/C-MAX';
-</script>
 <div id="xAxis-detailed">
     <nav class="breadCrumb" role="navigation">
         <ul itemprop="breadcrumb">
