@@ -615,6 +615,3 @@ if(typeof(sford)=='object')omnitureViewPhoto('1205054436612'); return false;"
 </div>
 </div>
 </div>
-<!-- Footer -->
-<!-- <Start> -->
-</div>

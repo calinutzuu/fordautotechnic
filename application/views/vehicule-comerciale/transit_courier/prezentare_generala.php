@@ -33,6 +33,8 @@
                             <li class=''>
                                 <a href='/VehiculeComerciale/Transit-Courier'>Noul Transit Courier</a></li>
                             <li class=''>
+                                <a href='/VehiculeComerciale/TransitConnect'>Noul Transit Connect</a></li>
+                            <li class=''>
                                 <a href='/VehiculeComerciale/NoulTransitCustom'>Noul Transit Custom</a></li>
                             <li class=''>
                                 <a href='/VehiculeComerciale/Transit-Autosasiu'>Noul Transit Auto&#351;asiu</a></li>
@@ -48,62 +50,57 @@
                         </div>
                     </div>
                 </li>
-                <li><p>Noul Transit Connect</p></li>
+                <li><p>Noul Transit Courier</p></li>
             </ul>
             <div class="navdivider"></div>
             <ul id="nextSteps" class="nextSteps">
-                <li id='menu1205049501194' class=''>
-                    <a href='/VehiculeComerciale/TransitConnect/PrezentareGenerala'>Prezentare Generala</a>
+                <li id='menu1205075514590' class=''>
+                    <a href='/VehiculeComerciale/Transit-Courier/Oferta_Speciala_TransitCourier'>Ofert&#259; special&#259; Transit Courier</a>
                     <script type="text/javascript">
-                        document.id('menu1205049501194').addClass("navnextSteps");
+                        document.id('menu1205075514590').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205049526855' class=''>
-                    <a href='/VehiculeComerciale/TransitConnect/Design'>Design</a>
+                <li class="selected"><p>Prezentare general&#259;</p></li>
+                <li id='menu1205071921583' class=''>
+                    <a href='/VehiculeComerciale/Transit-Courier/Design'>Design</a>
                     <script type="text/javascript">
-                        document.id('menu1205049526855').addClass("navnextSteps");
+                        document.id('menu1205071921583').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205049502576' class=''>
-                    <a href='/VehiculeComerciale/TransitConnect/ExperientaLaVolan'>Experien&#355;a La Volan</a>
+                <li id='menu1205071926525' class=''>
+                    <a href='/VehiculeComerciale/Transit-Courier/ExperientaLaVolan'>Experien&#355;a la volan</a>
                     <script type="text/javascript">
-                        document.id('menu1205049502576').addClass("navnextSteps");
+                        document.id('menu1205071926525').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205049528173' class=''>
-                    <a href='/VehiculeComerciale/TransitConnect/Utilitate'>Utilitate</a>
+                <li id='menu1205071925495' class=''>
+                    <a href='/VehiculeComerciale/Transit-Courier/UtilitateSiCosturi'>Utilitate &#351;i costuri</a>
                     <script type="text/javascript">
-                        document.id('menu1205049528173').addClass("navnextSteps");
+                        document.id('menu1205071925495').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205049499754' class=''>
-                    <a href='/VehiculeComerciale/TransitConnect/PerformantaSiEficienta'>Performan&#355;&#259; &#351;i eficien&#355;&#259;</a>
+                <li id='menu1205071930736' class=''>
+                    <a href='/VehiculeComerciale/Transit-Courier/Performanta'>Performan&#355;&#259; &#351;i eficien&#355;&#259;</a>
                     <script type="text/javascript">
-                        document.id('menu1205049499754').addClass("navnextSteps");
+                        document.id('menu1205071930736').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205049505913' class=''>
-                    <a href='/VehiculeComerciale/TransitConnect/SigurantaSiSecuritate'>Siguran&#355;&#259; &#351;i securitate</a>
+                <li id='menu1205071926328' class=''>
+                    <a href='/VehiculeComerciale/Transit-Courier/Siguranta'>Siguran&#355;&#259; &#351;i securitate</a>
                     <script type="text/javascript">
-                        document.id('menu1205049505913').addClass("navnextSteps");
+                        document.id('menu1205071926328').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205049511169' class=''>
-                    <a href='/VehiculeComerciale/TransitConnect/VarianteDeCaroserie'>Variante de caroserie</a>
+                <li id='menu1205071925368' class=''>
+                    <a href='/VehiculeComerciale/Transit-Courier/StiluriDeCaroserie'>Stiluri de caroserie</a>
                     <script type="text/javascript">
-                        document.id('menu1205049511169').addClass("navnextSteps");
+                        document.id('menu1205071925368').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205049516207' class=''>
-                    <a href='/VehiculeComerciale/TransitConnect/Modele'>Modele</a>
+                <li id='menu1205071924791' class=''>
+                    <a href='/VehiculeComerciale/Transit-Courier/Modele'>Modele</a>
                     <script type="text/javascript">
-                        document.id('menu1205049516207').addClass("navnextSteps");
-                    </script>
-                </li>
-                <li id='menu1205049669501' class=''>
-                    <a href='/VehiculeComerciale/TransitConnect/PreturiSiBrosuri'>Liste de pe&#355;uri &#351;i bro&#351;uri</a>
-                    <script type="text/javascript">
-                        document.id('menu1205049669501').addClass("navnextSteps");
+                        document.id('menu1205071924791').addClass("navnextSteps");
                     </script>
                 </li>
             </ul>
@@ -111,14 +108,6 @@
         </div>
     </div>
     <div class="left_item">
-        <!--<START_SSP001 >-->
-        <div class="skyscraper_promo">
-        </div>
-        <!--<END_SSP001 >-->
-        <!--<START_SSP001 >-->
-        <div class="skyscraper_promo">
-        </div>
-        <!--<END_SSP001 >-->
     </div>
 </div>
 <!-- <End> -->
@@ -136,20 +125,21 @@
                 });
             </script>
             <div id="mdp">
-                <img src='/assets/img/transit_connect/1214458028214.jpg' alt='Transit Courier' onclick="omnitureViewPhoto()">
+                <img src='/assets/img/transit_courier/1214480005475.jpg' alt='Transit Courier'
+                     onclick="omnitureViewPhoto()">
             </div>
             <div class="mdp2" id="mdpImageControl" style="display:none">
                 <table>
                     <tr>
                         <td id="mdp2Fullscreen">
-                            <a href="" onclick="engine.media.mdp.onFullScreen('', 'Noul+Transit+Connect');
-if(typeof(sford)=='object') omnitureMDPFullScreen('1205049518034'); return false;" >
+                            <a href="" onclick="engine.media.mdp.onFullScreen('', 'Exterior+360');
+if(typeof(sford)=='object') omnitureMDPFullScreen('1205071924819'); return false;" >
                                 Fullscreen
                             </a>
                         </td>
                         <td id="mdp2Description" style="width:50%">
                             <a id="mdpCaption">
-                                Noul Transit Connect
+                                Exterior 360
                             </a>
                         </td>
                         <td id="mdp2Right">
@@ -178,10 +168,10 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205049518034'); return false
     </div>
     <div id="container_center">
         <div class="center_item">
-            <div class="btoArticleTitle">NOUL <b>TRANSIT CONNECT</b></div>
+            <div class="btoArticleTitle">NOUL FORD TRANSIT COURIER</div>
             <div class="btoArticleText">
                 <div class="btoArticleAbstract">
-                    <p>Fiecare Transit este construit cu un scop, iar noul Transit Connect nu face nici el excepţie.<br> <br> Puternică, practică şi fiabilă, această utilitară oferă spaţiu de &icirc;ncărcare generos: 3,0 metri cubi pentru versiunea L1 (ampatament scurt) şi 3,7 metri cubi pentru versiunea L2 (ampatament lung), cu p&acirc;nă la circa 1.000 kg de marfă.<br> <br> Un perete despărţitor ingenios, prin care se poate &icirc;ncărca, vă permite, de asemenea, să transportaţi &icirc;n siguranţă, &icirc;n interiorul utilitarei, ţevi, scări şi alte &icirc;ncărcături lungi de p&acirc;nă la 3,0 m &icirc;n versiunea L1 şi de p&acirc;nă la 3,4 m &icirc;n versiunea L2. <br> <br> O gamă de motoare pe benzină şi diesel avansate, combinate cu transmisii manuale cu cinci sau şase trepte de viteză sau cu o transmisie automată cu şase trepte de viteză, asigură niveluri ridicate de putere şi cuplu, precum şi o eficienţă excepţională a combustibilului: de la doar 4,0 L/100 km cu emisii de CO<sub>2</sub> nu mai mari de 105 g/km. <br> <br> Tehnologiile avansate vă menţin conectat, vă distrează şi vă oferă siguranţă şi protecţie. Acestea includ: SYNC cu comenzi vocale, care efectuează şi preia apelurile şi poate chiar să citească cu voce tare mesajele text primite, atunci c&acirc;nd &icirc;i cereți; și tehnologia Active City Stop, care detectează dacă o coliziune la viteză redusă este iminentă şi fr&acirc;nează automat.<br> <br> Cu un scaun dublu, flexibil, pentru pasagerii din faţă, care vă permite să transportaţi p&acirc;nă la trei persoane &icirc;n modelul utilitară, şi versiuni de utilitară cu cabină dublă şi Kombi capabile să transporte p&acirc;nă la şapte persoane, aveţi, de asemenea, posibilitatea de a lua cu dumneavoastră la fiecare lucrare o &icirc;ntreagă echipă, precum şi materialele şi echipamentele necesare realizării lucrării.</p> <p>Aflaţi mai multe despre noul Transit Connect şi descoperiţi <a HREF="/VehiculeComerciale/TransitConnect/Design" >designul</a> , <a HREF="/VehiculeComerciale/TransitConnect/ExperientaLaVolan" >experienţa la volan</a>, <a HREF="/VehiculeComerciale/TransitConnect/Utilitate" >utilitatea şi costurile</a>, <a HREF="/VehiculeComerciale/TransitConnect/PerformantaSiEficienta" >performanţa şi eficienţa</a>, <a HREF="/VehiculeComerciale/TransitConnect/SigurantaSiSecuritate" >siguranţa şi securitatea</a>, <a HREF="/VehiculeComerciale/TransitConnect/VarianteDeCaroserie" >stilurile de caroserie şi capacitatea</a>, precum şi <a HREF="/VehiculeComerciale/TransitConnect/Modele" >modelele disponibile</a>. <br> <br> <em><font size="1">Dat fiind faptul că aceasta este o prezentare generală a Ford Transit Connect, unele dintre dotările menţionate pot fi opţiuni standard pentru &icirc;ntreaga gamă, &icirc;n timp ce altele pot fi dotări opţionale sau pot fi disponibile numai pentru anumite modele. Vă rugăm să consultați ghidul de produs sau să contactații cel mai apropiat <a HREF="/SBE/Ford/Dealeri/DealeriFord" CONTENTEDITABLE="false" >dealer</a> autorizat Ford. </font></em></p>
+                    <div>Capabil, fiabil şi foarte eficient din punct de vedere al consumului de combustibil, la fel ca toate utilitarele Transit. Confortabil, plăcut la condus şi plin de tehnologii inteligente, precum un autoturism Ford. Acesta este noul Transit Courier.<br> <br> Forma compactă a utilitarei o face să aibă o manevrabilitate superioară şi, mulţumită unuia dintre cele mai bune diametre de bracaj din clasa sa, puteţi negocia cu uşurinţă străzile &icirc;nguste şi spaţiile de parcare str&acirc;mte.<br> <br> Nu vă lăsaţi &icirc;nsă păcălit de postura mică a noului Transit Courier; o suprafaţă de &icirc;ncărcare de 2,3 metri cubi vă oferă cu 10% mai mult volum de &icirc;ncărcare dec&acirc;t alte vehicule din aceeaşi clasă. Optaţi pentru peretele despărțitor pliant cu scaun pentru pasager care poate fi &bdquo;pliat și cobor&acirc;t&rdquo; și veţi beneficia, de asemenea, de o lungime de &icirc;ncărcare de top &icirc;n clasa sa, de 2,59 m. <br><br>Şi indiferent de c&acirc;te ori va trebui să opriţi, nu o veţi face prea des pentru a alimenta. Acest lucru se &icirc;nt&acirc;mplă deoarece motorul pe benzină premiat EcoBoost de 1,0 l şi motoarele avansate diesel Duratorq de 1,5 l şi 1,6 l asigură o economie de combustibil remarcabilă şi un nivel redus al emisiilor: p&acirc;nă la 3,7 L/100 km (76,3 mpg) şi doar 97 g/km cu sistemul Auto-Stop-Start şi sistemul de limitare a vitezei la 100 km/h. <br> <br> Tehnologii avansate, inclusiv cameră video pentru vizualizare spate, senzori de distanţă la parcare şi Asistenţă la pornirea &icirc;n rampă (şi multe altele), sunt prevăzute pentru a face fiecare deplasare &icirc;n parte c&acirc;t mai sigură, uşoară şi fără probleme posibil. Toate acestea &icirc;n timp ce Ford SYNC cu comandă vocală vă eliberează, oferindu-vă posibilitatea de a prelua şi de a efectua apeluri telefonice &icirc;n modul hands-free. Mai mult, sistemul vă va citi cu voce tare chiar şi mesajele text pe care le primiţi.* <br> <br> Aflaţi mai multe despre noul Transit Courier și descoperiți <a HREF="/VehiculeComerciale/Transit-Courier/Design" >designul</a>, <a HREF="/VehiculeComerciale/Transit-Courier/ExperientaLaVolan" >experiența de condus</a>,  <a HREF="/VehiculeComerciale/Transit-Courier/UtilitateSiCosturi" >utilitatea și costurile</a>,  <a HREF="/VehiculeComerciale/Transit-Courier/Performanta" >performanța și eficiența</a>, <a HREF="/VehiculeComerciale/Transit-Courier/Siguranta" >siguranța și protecția</a>, <a HREF="/VehiculeComerciale/Transit-Courier/StiluriDeCaroserie" >stilurile de caroserie și capacitatea</a>, precum și <a HREF="/VehiculeComerciale/Transit-Courier/Modele" >modelele disponibile</a>.<br> <br> *Sub rezerva compatibilităţii telefonului.</div>
                 </div>
             </div>
         </div>

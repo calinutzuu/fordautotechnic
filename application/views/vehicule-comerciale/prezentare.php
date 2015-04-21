@@ -570,6 +570,3 @@
     </div>
 </div>
 </div>
-<!-- Footer -->
-<!-- <Start> -->
-</div>

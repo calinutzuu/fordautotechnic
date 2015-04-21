@@ -33,6 +33,8 @@
                             <li class=''>
                                 <a href='/VehiculeComerciale/Transit-Courier'>Noul Transit Courier</a></li>
                             <li class=''>
+                                <a href='/VehiculeComerciale/TransitConnect'>Noul Transit Connect</a></li>
+                            <li class=''>
                                 <a href='/VehiculeComerciale/NoulTransitCustom'>Noul Transit Custom</a></li>
                             <li class=''>
                                 <a href='/VehiculeComerciale/Transit-Autosasiu'>Noul Transit Auto&#351;asiu</a></li>
@@ -100,25 +102,12 @@
                         document.id('menu1205049516207').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205049669501' class=''>
-                    <a href='/VehiculeComerciale/TransitConnect/PreturiSiBrosuri'>Liste de pe&#355;uri &#351;i bro&#351;uri</a>
-                    <script type="text/javascript">
-                        document.id('menu1205049669501').addClass("navnextSteps");
-                    </script>
-                </li>
+                <li class="selected"><p>Liste de pe&#355;uri &#351;i bro&#351;uri</p></li>
             </ul>
             <div class="navbottom"></div>
         </div>
     </div>
     <div class="left_item">
-        <!--<START_SSP001 >-->
-        <div class="skyscraper_promo">
-        </div>
-        <!--<END_SSP001 >-->
-        <!--<START_SSP001 >-->
-        <div class="skyscraper_promo">
-        </div>
-        <!--<END_SSP001 >-->
     </div>
 </div>
 <!-- <End> -->
@@ -136,20 +125,20 @@
                 });
             </script>
             <div id="mdp">
-                <img src='/assets/img/transit_connect/1214458028214.jpg' alt='Transit Courier' onclick="omnitureViewPhoto()">
+                <img src='/assets/img/transit_connect/1214457972779.jpg' alt='Găsiţi modelul potrivit pentru afacerea dumneavoastră' onclick="omnitureViewPhoto()">
             </div>
-            <div class="mdp2" id="mdpImageControl" style="display:none">
+            <div class="mdp2" id="mdpImageControl" >
                 <table>
                     <tr>
                         <td id="mdp2Fullscreen">
-                            <a href="" onclick="engine.media.mdp.onFullScreen('', 'Noul+Transit+Connect');
-if(typeof(sford)=='object') omnitureMDPFullScreen('1205049518034'); return false;" >
+                            <a href="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214457972780&amp;blobkey=id" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214457972780&amp;blobkey=id', 'G%C4%83si%C5%A3i+modelul+potrivit+pentru+afacerea+dumneavoastr%C4%83');
+if(typeof(sford)=='object') omnitureMDPFullScreen('1205049525208'); return false;" >
                                 Fullscreen
                             </a>
                         </td>
                         <td id="mdp2Description" style="width:50%">
                             <a id="mdpCaption">
-                                Noul Transit Connect
+                                G&#259;si&#355;i modelul potrivit pentru afacerea dumneav...
                             </a>
                         </td>
                         <td id="mdp2Right">
@@ -163,7 +152,7 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205049518034'); return false
             // msukhia1: wrong way, right way would be to publish an event
             // but it would reload initial flash;
             function mdpOnLoad() {
-                engine.media.lockup.doshow('none');
+                engine.media.lockup.doshow('');
             }
             if(window.addEventListener) {
                 window.addEventListener("load", mdpOnLoad, false);
@@ -178,10 +167,15 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205049518034'); return false
     </div>
     <div id="container_center">
         <div class="center_item">
-            <div class="btoArticleTitle">NOUL <b>TRANSIT CONNECT</b></div>
+            <div class="btoArticleTitle">Un model pentru fiecare afacere</div>
             <div class="btoArticleText">
                 <div class="btoArticleAbstract">
-                    <p>Fiecare Transit este construit cu un scop, iar noul Transit Connect nu face nici el excepţie.<br> <br> Puternică, practică şi fiabilă, această utilitară oferă spaţiu de &icirc;ncărcare generos: 3,0 metri cubi pentru versiunea L1 (ampatament scurt) şi 3,7 metri cubi pentru versiunea L2 (ampatament lung), cu p&acirc;nă la circa 1.000 kg de marfă.<br> <br> Un perete despărţitor ingenios, prin care se poate &icirc;ncărca, vă permite, de asemenea, să transportaţi &icirc;n siguranţă, &icirc;n interiorul utilitarei, ţevi, scări şi alte &icirc;ncărcături lungi de p&acirc;nă la 3,0 m &icirc;n versiunea L1 şi de p&acirc;nă la 3,4 m &icirc;n versiunea L2. <br> <br> O gamă de motoare pe benzină şi diesel avansate, combinate cu transmisii manuale cu cinci sau şase trepte de viteză sau cu o transmisie automată cu şase trepte de viteză, asigură niveluri ridicate de putere şi cuplu, precum şi o eficienţă excepţională a combustibilului: de la doar 4,0 L/100 km cu emisii de CO<sub>2</sub> nu mai mari de 105 g/km. <br> <br> Tehnologiile avansate vă menţin conectat, vă distrează şi vă oferă siguranţă şi protecţie. Acestea includ: SYNC cu comenzi vocale, care efectuează şi preia apelurile şi poate chiar să citească cu voce tare mesajele text primite, atunci c&acirc;nd &icirc;i cereți; și tehnologia Active City Stop, care detectează dacă o coliziune la viteză redusă este iminentă şi fr&acirc;nează automat.<br> <br> Cu un scaun dublu, flexibil, pentru pasagerii din faţă, care vă permite să transportaţi p&acirc;nă la trei persoane &icirc;n modelul utilitară, şi versiuni de utilitară cu cabină dublă şi Kombi capabile să transporte p&acirc;nă la şapte persoane, aveţi, de asemenea, posibilitatea de a lua cu dumneavoastră la fiecare lucrare o &icirc;ntreagă echipă, precum şi materialele şi echipamentele necesare realizării lucrării.</p> <p>Aflaţi mai multe despre noul Transit Connect şi descoperiţi <a HREF="/VehiculeComerciale/TransitConnect/Design" >designul</a> , <a HREF="/VehiculeComerciale/TransitConnect/ExperientaLaVolan" >experienţa la volan</a>, <a HREF="/VehiculeComerciale/TransitConnect/Utilitate" >utilitatea şi costurile</a>, <a HREF="/VehiculeComerciale/TransitConnect/PerformantaSiEficienta" >performanţa şi eficienţa</a>, <a HREF="/VehiculeComerciale/TransitConnect/SigurantaSiSecuritate" >siguranţa şi securitatea</a>, <a HREF="/VehiculeComerciale/TransitConnect/VarianteDeCaroserie" >stilurile de caroserie şi capacitatea</a>, precum şi <a HREF="/VehiculeComerciale/TransitConnect/Modele" >modelele disponibile</a>. <br> <br> <em><font size="1">Dat fiind faptul că aceasta este o prezentare generală a Ford Transit Connect, unele dintre dotările menţionate pot fi opţiuni standard pentru &icirc;ntreaga gamă, &icirc;n timp ce altele pot fi dotări opţionale sau pot fi disponibile numai pentru anumite modele. Vă rugăm să consultați ghidul de produs sau să contactații cel mai apropiat <a HREF="/SBE/Ford/Dealeri/DealeriFord" CONTENTEDITABLE="false" >dealer</a> autorizat Ford. </font></em></p>
+                    <p>Dacă vă interesează un anumit model, consultaţi ofertele noastre actuale. Sau vizitaţi cel mai apropiat <a HREF="/SBE/Ford/Dealeri/DealeriFord" CONTENTEDITABLE="false" >dealer</a> pentru cele mai bune oferte disponibile. </p>
+                    <p><a TITLE="Listă de prețuri Noul Ford Transit Connect (251 KB)" HREF="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheadervalue1=attachment%3Bfilename%3D%22Lista+de+preturi+Noul+Ford+Transit+Connect.pdf%22&amp;blobheadervalue2=abinary%3Bcharset%3DUTF-8&amp;blobheadername1=Content-Disposition&amp;blobheadername2=MDT-Type&amp;blobheader=application%2Fpdf&amp;blobwhere=1214477438079&amp;blobkey=id" CLASS="download" onClick="if (typeof sford == 'object') omnitureLinkDownloadClick('brand:pricelist download:confirm:<nameplate>','event15,event43','','event:pricelist:pdf','download pricelist','pdf download','',false,'ford transit connect','2014','commercial-trucks');" >Descărcaţi lista completă de preţuri (PDF)</a> <br>
+                        <br>
+                        <a TITLE="Brosura Transit Connect 2013 (5,52 MB)" HREF="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheadervalue1=attachment%3Bfilename%3D%22Brosura+Transit+Connect+2013.pdf%22&amp;blobheadervalue2=abinary%3Bcharset%3DUTF-8&amp;blobheadername1=Content-Disposition&amp;blobheadername2=MDT-Type&amp;blobheader=application%2Fpdf&amp;blobwhere=1214455334745&amp;blobkey=id" CLASS="download" onClick="if (typeof sford == 'object') omnitureLinkDownloadClick('brand:brochure download:<nameplate>','event15,event43','brochure:anonymous:pdf','event: brochure:pdf','download','brochure download','brochure:anonymous:pdf',false,'ford transit connect','2014','commercial-trucks');" >Descărcaţi broşura noului Transit Connect</a> </p>
+                    <p>Fişierul &icirc;n format PDF a fost creat pentru a vă permite să vizualizaţi şi să tipăriţi fişiere fără a avea nevoie de programul &icirc;n care au fost create iniţial. Adobe&trade; vă pune la dispoziţie o aplicaţie software gratuită (Acrobat Reader) care vă permite să lucraţi cu aceste fişiere. Dacă aţi instalat deja această aplicaţie pe computerul dumneavoastră, &icirc;n mod normal o puteţi găsi la &quot;Programe&quot;, &icirc;n &quot;Meniul Start&quot;. &Icirc;n caz contrar, accesaţi link-ul de mai jos pentru a o descărca. </p>
+                    <p><a target="_blank" href="http://get.adobe.com/reader/">Descarcă Acrobat Reader de pe situl adobe.com</a> </p>
                 </div>
             </div>
         </div>
