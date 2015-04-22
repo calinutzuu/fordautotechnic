@@ -132,9 +132,18 @@ $route['VehiculeComerciale/TransitConnect/Design'] = 'vehicule-comerciale/transi
 $route['VehiculeComerciale/TransitConnect/PrezentareGenerala'] = 'vehicule-comerciale/transit_connect/prezentare_generala';
 $route['VehiculeComerciale/TransitConnect'] = 'vehicule-comerciale/transit_connect/index';
 
+$route['VehiculeComerciale/NoulTransitCustom/ListaPreturi'] = 'vehicule-comerciale/transit_custom/lista';
+$route['VehiculeComerciale/NoulTransitCustom/Modele'] = 'vehicule-comerciale/transit_custom/modele';
+$route['VehiculeComerciale/NoulTransitCustom/VarianteDeCaroserie'] = 'vehicule-comerciale/transit_custom/variante_de_caroserie';
+$route['VehiculeComerciale/NoulTransitCustom/Siguranta'] = 'vehicule-comerciale/transit_custom/siguranta';
+$route['VehiculeComerciale/NoulTransitCustom/PerformantaSiEficienta'] = 'vehicule-comerciale/transit_custom/performanta';
+$route['VehiculeComerciale/NoulTransitCustom/Utilitate'] = 'vehicule-comerciale/transit_custom/utilitate_si_costuri';
 $route['VehiculeComerciale/NoulTransitCustom/ExperientaLaVolan'] = 'vehicule-comerciale/transit_custom/experienta_la_volan';
 $route['VehiculeComerciale/NoulTransitCustom/Design'] = 'vehicule-comerciale/transit_custom/design';
 $route['VehiculeComerciale/NoulTransitCustom'] = 'vehicule-comerciale/transit_custom/index';
+
+$route['VehiculeComerciale/Transit2014/Design'] = 'vehicule-comerciale/noul_ford_transit/design';
+$route['VehiculeComerciale/Transit2014'] = 'vehicule-comerciale/noul_ford_transit/index';
 
 $route['Promotii/FiestaRedBlack'] = 'promotii/fiesta_red_black/index';
 $route['Promotii/Rabla2015'] = 'promotii/rabla/index';
