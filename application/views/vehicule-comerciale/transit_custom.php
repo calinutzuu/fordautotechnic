@@ -128,43 +128,7 @@
             });
         </script>
         <div id="mdp">
-            <object id="flash_1205030523479" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="780" height="439">
-                <param name="allowFullScreen" value="true">
-                <param name="movie"		value="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214442882216&#38;blobkey=id" />
-                <param name="Play" value='True' >
-                <param name="loop"		value="True" />
-                <param name="quality"	value="" />
-                <param name="align"		value="" />
-                <param name="salign"	value="" />
-                <param name="BgColor"	value="" />
-                <param name="scale"		value="" />
-                <param name="menu"		value="" />
-                <param name="wmode"		value="Transparent" />
-                <param name="base"		value="" />
-                <param name="flashvars"	value="locale=ro-ro&car=TransitCustom2013&year=2013&assetdomain=http://www.fordeumicrosites.com/engine-cms/assets/productoverviews/" />
-                <!--[if !IE]>-->
-                <object id="flash_1205030523479" type="application/x-shockwave-flash" data="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214442882216&#38;blobkey=id" width="780" height="439">
-                    <param name="allowFullScreen" value="true">
-                    <param name="Play" value='True' >
-                    <param name="loop"		value="True" />
-                    <param name="quality"	value="" />
-                    <param name="align"		value="" />
-                    <param name="salign"	value="" />
-                    <param name="BgColor"	value="" />
-                    <param name="scale"		value="" />
-                    <param name="menu"		value="" />
-                    <param name="wmode"		value="Transparent" />
-                    <param name="base"		value="" />
-                    <param name="flashvars"	value="locale=ro-ro&car=TransitCustom2013&year=2013&assetdomain=http://www.fordeumicrosites.com/engine-cms/assets/productoverviews/" />
-                    <!--<![endif]-->
-                    <img src="/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobwhere=1214442882215&blobkey=id" width="780" height="439" alt="" border="0" />
-                    <script type="text/javascript">
-                        var noFlash = true;
-                    </script>
-                    <!--[if !IE]>-->
-                </object>
-                <!--<![endif]-->
-            </object>
+            <img src='/assets/img/transit_custom/1214437666726.jpg' alt='Transit Courier' onclick="omnitureViewPhoto()">
         </div>
         <div class="mdp2" id="mdpImageControl" style="display:none">
             <table>
@@ -248,9 +212,7 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205030523479'); return false
                 </div>
 <span class="mdc001Span">
 <a id='mdc1429509271066_1205030523479'
-   class="mdc001Selected"
-   href="/VehiculeComerciale/NoulTransitCustom/mdp=f1205030523479"
-   onclick="engine.Publisher.publish( 'mdc001', 'SELECT_MEDIA',
+
 {type: 'flash' , 
 id: '1205030523479', 
 caption: 'Noul Transit Custom', 
@@ -260,15 +222,14 @@ subst: '1214442882215'});
 if(typeof(sford)=='object')omnitureViewPhoto('1205030523479'); return false;"
         >
 <span class="mdc001InternalSpan">
-<img src="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214442882217&amp;blobkey=id" alt="Noul Transit Custom" class="mdc001Img" border="0" >
+<img src="/assets/img/transit_custom/1214442882217.jpg" alt="Noul Transit Custom" class="mdc001Img" border="0" >
 </span>
-    <img class="mdc001Icon" src="/cs/ENGInE/img/mdc_inter_icon.gif" alt="icon" border="0" >
+
 </a>
 </span>
 <span class="mdc001Span">
 <a id='mdc1429509271066_1214435524195'
-   href="/VehiculeComerciale/NoulTransitCustom/mdp=t1205022333656"
-   onclick="engine.Publisher.publish( 'mdc001', 'SELECT_MEDIA',
+
 {type: 'flash360' , 
 id: '1214435524195', 
 caption: 'Transit Custom L1 \/ vedere 360\u02DA', 
@@ -278,9 +239,9 @@ subst: '1214435524196'});
 if(typeof(sford)=='object')omnitureViewPhoto('1205022333656'); return false;"
         >
 <span class="mdc001InternalSpan">
-<img src="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214435524197&amp;blobkey=id" alt="Transit Custom L1 / vedere 360&#730;" class="mdc001Img" border="0" >
+<img src="/assets/img/transit_custom/1214435524197.jpg" alt="Transit Custom L1 / vedere 360&#730;" class="mdc001Img" border="0" >
 </span>
-    <img class="mdc001Icon" src="/cs/ENGInE/img/mdc_360_icon.gif" alt="icon" border="0" >
+
 </a>
 </span>
                 <script type="text/javascript">

@@ -10,6 +10,14 @@ class transit_custom extends CI_Controller
             ->build('vehicule-comerciale/transit_custom');
     }
 
+    public function prezentare()
+    {
+        $this->template
+            ->set_layout('vehicule_comerciale')
+            ->title('Noul Transit Custom - Prezentare Generala', 'Ford AutoTechnic')
+            ->build('vehicule-comerciale/transit_custom/prezentare');
+    }
+
     public function design()
     {
         $this->template

@@ -229,6 +229,3 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205077905786'); return false
         </div>
     </div>
 </div>
-<!-- Footer -->
-<!-- <Start> -->
-</div>

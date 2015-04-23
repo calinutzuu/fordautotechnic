@@ -140,10 +140,39 @@ $route['VehiculeComerciale/NoulTransitCustom/PerformantaSiEficienta'] = 'vehicul
 $route['VehiculeComerciale/NoulTransitCustom/Utilitate'] = 'vehicule-comerciale/transit_custom/utilitate_si_costuri';
 $route['VehiculeComerciale/NoulTransitCustom/ExperientaLaVolan'] = 'vehicule-comerciale/transit_custom/experienta_la_volan';
 $route['VehiculeComerciale/NoulTransitCustom/Design'] = 'vehicule-comerciale/transit_custom/design';
+$route['VehiculeComerciale/NoulTransitCustom/Prezentare'] = 'vehicule-comerciale/transit_custom/prezentare';
 $route['VehiculeComerciale/NoulTransitCustom'] = 'vehicule-comerciale/transit_custom/index';
 
+$route['VehiculeComerciale/Transit2014/Modele'] = 'vehicule-comerciale/noul_ford_transit/modele';
+$route['VehiculeComerciale/Transit2014/StiluriDeCaroserie'] = 'vehicule-comerciale/noul_ford_transit/stiluri_de_caroserie';
+$route['VehiculeComerciale/Transit2014/Siguranta'] = 'vehicule-comerciale/noul_ford_transit/siguranta';
+$route['VehiculeComerciale/Transit2014/Performanta'] = 'vehicule-comerciale/noul_ford_transit/performanta';
+$route['VehiculeComerciale/Transit2014/Costuri'] = 'vehicule-comerciale/noul_ford_transit/utilitate';
+$route['VehiculeComerciale/Transit2014/ExperientaLaVolan'] = 'vehicule-comerciale/noul_ford_transit/experienta_la_volan';
 $route['VehiculeComerciale/Transit2014/Design'] = 'vehicule-comerciale/noul_ford_transit/design';
 $route['VehiculeComerciale/Transit2014'] = 'vehicule-comerciale/noul_ford_transit/index';
+
+$route['VehiculeComerciale/NouaFamilieTourneo'] = 'vehicule-comerciale/noua_familie_tourneo/index';
+
+$route['VehiculeComerciale/NoulTourneoCustom/ListaPreturi'] = 'vehicule-comerciale/noul_tourneo_custom/lista';
+$route['VehiculeComerciale/NoulTourneoCustom/Modele'] = 'vehicule-comerciale/noul_tourneo_custom/modele';
+$route['VehiculeComerciale/NoulTourneoCustom/VarianteDeCaroserie'] = 'vehicule-comerciale/noul_tourneo_custom/variante_de_caroserie';
+$route['VehiculeComerciale/NoulTourneoCustom/Siguranta'] = 'vehicule-comerciale/noul_tourneo_custom/siguranta';
+$route['VehiculeComerciale/NoulTourneoCustom/PerformantaSiEficienta'] = 'vehicule-comerciale/noul_tourneo_custom/performanta';
+$route['VehiculeComerciale/NoulTourneoCustom/ExperientaLaVolan'] = 'vehicule-comerciale/noul_tourneo_custom/experienta_la_volan';
+$route['VehiculeComerciale/NoulTourneoCustom/Design'] = 'vehicule-comerciale/noul_tourneo_custom/design';
+$route['VehiculeComerciale/NoulTourneoCustom/Prezentare'] = 'vehicule-comerciale/noul_tourneo_custom/prezentare_generala';
+$route['VehiculeComerciale/NoulTourneoCustom'] = 'vehicule-comerciale/noul_tourneo_custom/index';
+
+$route['VehiculeComerciale/NoulRanger/MaterialeDescarcabile'] = 'vehicule-comerciale/noul_ranger/materiale';
+$route['VehiculeComerciale/NoulRanger/Caroserie'] = 'vehicule-comerciale/noul_ranger/caroserie';
+$route['VehiculeComerciale/NoulRanger/Siguranta'] = 'vehicule-comerciale/noul_ranger/siguranta';
+$route['VehiculeComerciale/NoulRanger/PerformantaSiEficienta'] = 'vehicule-comerciale/noul_ranger/performanta';
+$route['VehiculeComerciale/NoulRanger/Utilitate'] = 'vehicule-comerciale/noul_ranger/utilitate';
+$route['VehiculeComerciale/NoulRanger/ExperientaCondusului'] = 'vehicule-comerciale/noul_ranger/experienta_condusului';
+$route['VehiculeComerciale/NoulRanger/Design'] = 'vehicule-comerciale/noul_ranger/design';
+$route['VehiculeComerciale/NoulRanger/Prezentare'] = 'vehicule-comerciale/noul_ranger/prezentare';
+$route['VehiculeComerciale/NoulRanger'] = 'vehicule-comerciale/noul_ranger/index';
 
 $route['Promotii/FiestaRedBlack'] = 'promotii/fiesta_red_black/index';
 $route['Promotii/Rabla2015'] = 'promotii/rabla/index';
