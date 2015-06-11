@@ -184,6 +184,45 @@ $route['Promotii/TradeIn'] = 'promotii/trade_in/index';
 $route['Promotii/CaravanaTransit'] = 'promotii/caravana_transit/index';
 $route['Promotii/Oferta_Speciala_TransitCourier'] = 'promotii/oferta_transit_courier/index';
 
+$route['Promotii/PromotiiService/BlueOval'] = 'promotii/promotii_service/inlocuire_blue_oval';
+$route['Promotii/PromotiiService/PromotiiAccesorii'] = 'promotii/promotii_service/promotii_accesorii';
+$route['Promotii/PromotiiService/PromotiiMotorcraft-utilitare'] = 'promotii/promotii_service/promotii_motorcraft_utilitare';
+$route['Promotii/PromotiiService/PromotiiMotorcraft'] = 'promotii/promotii_service/promotii_motorcraft_autoturisme';
+$route['Promotii/PromotiiService'] = 'promotii/promotii_service/index';
+
+$route['FordLeasing/leasingoperational'] = 'ford_leasing/leasing_operational/index';
+$route['FordLeasing/leasingfinanciar'] = 'ford_leasing/leasing_financiar/index';
+$route['FordLeasing/creditauto'] = 'ford_leasing/credit_auto/index';
+$route['FordLeasing/Overview'] = 'ford_leasing/overview/index';
+
+$route['FordFleet'] = 'flote/flote/index';
+
+$route['FordService/IntrebariFrecvente'] = 'ford_service/intrebari_frecvente/index';
+$route['FordService/E10'] = 'ford_service/e_10/index';
+$route['FordService/SYNC-and-Bluetooth-Support/SYNC_AppLink_Catalogul'] = 'ford_service/ford_sync_bluetooth/sync_applink';
+$route['FordService/SYNC-and-Bluetooth-Support/Ford_SYNC_1.1_cu_AppLink'] = 'ford_service/ford_sync_bluetooth/ford_sync_1_1';
+$route['FordService/SYNC-and-Bluetooth-Support/Ford_SYNC_1.0'] = 'ford_service/ford_sync_bluetooth/ford_sync_1';
+$route['FordService/SYNC-and-Bluetooth-Support/Bluetooth_cu_comanda_vocala'] = 'ford_service/ford_sync_bluetooth/bluetooth_comanda_vocala';
+$route['FordService/SYNC-and-Bluetooth-Support/Prezentare'] = 'ford_service/ford_sync_bluetooth/prezentare';
+$route['FordService/SYNC-and-Bluetooth-Support'] = 'ford_service/ford_sync_bluetooth/index';
+$route['FordService/FordSYNC'] = 'ford_service/ford_sync/index';
+$route['FordService/Ford-Lifestyle-Collection'] = 'ford_service/ford_lifestyle/index';
+$route['FordService/AccidenteSiReparatii'] = 'ford_service/accidente_si_reparatii/index';
+$route['FordService/FordAsistenta12'] = 'ford_service/ford_asistenta_12/index';
+$route['FordService/GarantiiSiRevizii/ReviziiFordService'] = 'ford_service/garantii/revizii_ford_service';
+$route['FordService/GarantiiSiRevizii/FordGarantia12'] = 'ford_service/garantii/ford_garantia_12';
+$route['FordService/GarantiiSiRevizii/FordProtect'] = 'ford_service/garantii/ford_protect';
+$route['FordService/GarantiiSiRevizii/GarantieAutovehiculeNoi/ReparatiiNeacoperite'] = 'ford_service/garantii/reparatii_neacoperite';
+$route['FordService/GarantiiSiRevizii/GarantieAutovehiculeNoi'] = 'ford_service/garantii/garantie_autovehicule_noi';
+$route['FordService/GarantiiSiRevizii'] = 'ford_service/garantii/index';
+$route['FordService/Service'] = 'ford_service/service/index';
+$route['FordService/Accesorii'] = 'ford_service/accesorii/index';
+$route['FordService/FordServiceApp'] = 'ford_service/ford_service_app/index';
+$route['FordService/BlueService'] = 'ford_service/blue_service/index';
+$route['FordService/Prezentare'] = 'ford_service/prezentare_generala/index';
+
+$route['Business_Service_Club'] = 'bussines_service_club/bussines_service_club/index';
+
 $route['Autoturisme'] = 'xyz';
 
 
