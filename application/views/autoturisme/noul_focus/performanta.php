@@ -235,11 +235,11 @@
 <div class="tab-wrapper">
     <nav class="tabs" id="primaryTabs">
         <ul>
-            <li><a href="/Autoturisme/NoulFocus/#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/NoulFocus/PromotieLansare">Ofert&#259; special&#259; de lansare Ford Focus</a>
-            </li>
             <li><a href="/Autoturisme/NoulFocus/PrezentareGenerala#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/NoulFocus/PrezentareGenerala">Prezentare general&#259;</a>
             </li>
             <li><a href="/Autoturisme/NoulFocus/Design#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/NoulFocus/Design">Design</a>
+            </li>
+            <li><a href="/Autoturisme/NoulFocus/PreturisiPromotii#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/NoulFocus/PreturisiPromotii">PRE&#354;URI &#350;I PROMO&#354;II</a>
             </li>
             <li class="selected"><a href="/Autoturisme/NoulFocus/PerformantaSiEficienta#primaryTabs" data-ajaxlink="/Autoturisme/NoulFocus/PerformantaSiEficienta">Performan&#355;&#259; &#351;i eficien&#355;&#259;</a>
             </li>
@@ -253,8 +253,6 @@
     <ul>
         <li><a href="/Autoturisme/NoulFocus/SigurantaSiSecuritate"
                 >Siguran&#355;&#259; &#351;i securitate</a></li>
-        <li><a href="/Autoturisme/NoulFocus/ListaDePreturi"
-                >List&#259; de pre&#355;uri &#351;i bro&#351;uri</a></li>
     </ul>
     <aside class="sub-nav-heading">
         <div>Mai multe...</div>

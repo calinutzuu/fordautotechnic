@@ -223,11 +223,6 @@
                 Vreau să fiu informat(ă)</a>
         </dd>
         <dd>
-            <a class='sbe om_fo_ff_SBET ' href="/SBE/TestDrive">
-                <span style="background-image: url('<?=base_url('/assets/img/1214483776887.png')?>')"</span>
-                Înscrie-te la test drive</a>
-        </dd>
-        <dd>
             <a class='sbe om_fo_ff_li expand' href="/SBE/Ford">
                 <span style="background-image: url('<?=base_url('assets/img/blob/1214484914450.png')?>')"></span>
                 DEALERI FORD</a>

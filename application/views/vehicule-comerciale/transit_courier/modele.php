@@ -255,7 +255,7 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205071925275'); return false
     <div class="tab001_top_left"></div>
     <div
             id="tab001-tab-0"
-            class="tab001_item first selected_first selected "
+            class="tab001_item first unselected_first unselected"
             style="text-align:center;">
         <table cellpadding="0" cellspacing="0" border="0" title="Transit Courier">
             <thead>
@@ -263,36 +263,7 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205071925275'); return false
                 <td class="tab001_header_arrow"><a href="/VehiculeComerciale/Transit-Courier/Modele/tabid=tab0" class="tab_anchor"></a></td>
                 <td class="tab001_header_label" valign="middle" style="height:41px;vertical-align:middle;">
                     <!-- 	TD 8174 jhe method has been called from here to escape special characters -->
-                    <a
-                            href="/VehiculeComerciale/Transit-Courier/Modele/tabid=tab0"
-                            onclick="tab001SelectTab('0');
-if(typeof(sford)=='object')setOmnitureTabName('Transit Courier');
-return false;"
-                            onmouseover="tab001HoverTab('0', true);"
-                            onmouseout="tab001HoverTab('0', false);"
-                            class="tab_anchor">Transit Courier</a></td>
-            </tr>
-            </thead>
-        </table>
-    </div>
-    <div
-            id="tab001-tab-1"
-            class="tab001_item last unselected_last unselected "
-            style="text-align:center;">
-        <table cellpadding="0" cellspacing="0" border="0" title="Transit Courier Trend">
-            <thead>
-            <tr>
-                <td class="tab001_header_arrow"><a href="/VehiculeComerciale/Transit-Courier/Modele/tabid=tab1" class="tab_anchor"></a></td>
-                <td class="tab001_header_label" valign="middle" style="height:41px;vertical-align:middle;">
-                    <!-- 	TD 8174 jhe method has been called from here to escape special characters -->
-                    <a
-                            href="/VehiculeComerciale/Transit-Courier/Modele/tabid=tab1"
-                            onclick="tab001SelectTab('1');
-if(typeof(sford)=='object')setOmnitureTabName('Transit Courier Trend');
-return false;"
-                            onmouseover="tab001HoverTab('1', true);"
-                            onmouseout="tab001HoverTab('1', false);"
-                            class="tab_anchor">Transit Courier Trend</a></td>
+                    <a href="#" class="tab_anchor">Transit Courier</a></td>
             </tr>
             </thead>
         </table>
@@ -400,7 +371,34 @@ return false;"
         </div>
     </div>
 </div>
-<div id="tab001-contentpane-1" class="tab001-pane-unselected">
+</div>
+</div>
+<div class="tab001_footer"><!-- CLOSES THE BOTTOM OF THE CONTENT --></div>
+</div>
+<br>
+<div id="tab001_container">
+<div class="tab001_header">
+    <div class="tab001_top_left"></div>
+    <div
+            id="tab001-tab-1"
+            class="tab001_item first unselected_first unselected"
+            style="text-align:center;">
+        <table cellpadding="0" cellspacing="0" border="0" title="Transit Courier Trend">
+            <thead>
+            <tr>
+                <td class="tab001_header_arrow"><a href="/VehiculeComerciale/Transit-Courier/Modele/tabid=tab1" class="tab_anchor"></a></td>
+                <td class="tab001_header_label" valign="middle" style="height:41px;vertical-align:middle;">
+                    <!-- 	TD 8174 jhe method has been called from here to escape special characters -->
+                    <a href="#" class="tab_anchor">Transit Courier Trend</a></td>
+            </tr>
+            </thead>
+        </table>
+    </div>
+</div><!-- END OF HEADER -->
+<div class="tab001_divider"></div>
+<div class="tab001_content_container">
+<div class="tab001_content">
+<div id="tab001-contentpane-1" class="tab001-pane-selected">
     <div class='tab001_TabReco_ShowBTI001Collection' >
         <div class="BTIRow">
             <div class="BTIOneItem">
@@ -420,13 +418,13 @@ return false;"
                 <div class="BTIImage">
                     <div class="imgZoom">
 
-                            <img
-                                    src="/assets/img/transit_courier/1214480060191.jpg"
-                                    border="0" width="97"
-                                    height="97"
-                                    alt="Transit Courier Trend - exterior"
-                                    title="Transit Courier Trend - exterior"
-                                    style="border: solid 1px #999999;">
+                        <img
+                                src="/assets/img/transit_courier/1214480060191.jpg"
+                                border="0" width="97"
+                                height="97"
+                                alt="Transit Courier Trend - exterior"
+                                title="Transit Courier Trend - exterior"
+                                style="border: solid 1px #999999;">
                         </a>
                         <div>
                             <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214480060190&#38;blobkey=id" target="_blank" id="izid45684381205071925976" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214480060190&#38;blobkey=id','image','Transit Courier Trend - exterior','Închide'); return false;"></a>
@@ -464,13 +462,13 @@ return false;"
                 <div class="BTIImage">
                     <div class="imgZoom">
 
-                            <img
-                                    src="/assets/img/transit_courier/1214480059646.jpg"
-                                    border="0" width="97"
-                                    height="97"
-                                    alt="Transit Courier Trend - interior"
-                                    title="Transit Courier Trend - interior"
-                                    style="border: solid 1px #999999;">
+                        <img
+                                src="/assets/img/transit_courier/1214480059646.jpg"
+                                border="0" width="97"
+                                height="97"
+                                alt="Transit Courier Trend - interior"
+                                title="Transit Courier Trend - interior"
+                                style="border: solid 1px #999999;">
                         </a>
                         <div>
                             <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214480059645&#38;blobkey=id" target="_blank" id="izid88712301205071930747" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214480059645&#38;blobkey=id','image','Transit Courier Trend - interior','Închide'); return false;"></a>

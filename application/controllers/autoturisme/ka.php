@@ -9,6 +9,13 @@ class Ka extends CI_Controller
             ->build('autoturisme/ka');
     }
 
+    public function prezentare()
+    {
+        $this->template
+            ->title('Ford Ka - Prezentare Generala', 'Ford AutoTechnic')
+            ->build('autoturisme/ka/prezentare');
+    }
+
     public function design_interior()
     {
         $this->template
@@ -30,5 +37,18 @@ class Ka extends CI_Controller
             ->build('autoturisme/ka/materiale_descarcabile');
     }
 
+    public function preturi_si_promotii()
+    {
+        $this->template
+            ->title('Ford Ka - Preturi si Promotii', 'Ford AutoTechnic')
+            ->build('autoturisme/ka/preturi_si_promotii');
+    }
+
+    public function culori_si_tapiterie()
+    {
+        $this->template
+            ->title('Ford Ka - Culori si tapiterie', 'Ford AutoTechnic')
+            ->build('autoturisme/ka/culori_si_tapiterie');
+    }
 }
 

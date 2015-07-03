@@ -74,7 +74,7 @@ class Transit_Courier extends CI_Controller
             ->build('vehicule-comerciale/transit_courier/stiluri_de_caroserie');
     }
 
-    public function Modele()
+    public function modele()
     {
         $this->template
             ->set_layout('vehicule_comerciale')

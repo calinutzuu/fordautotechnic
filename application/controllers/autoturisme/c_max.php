@@ -1,61 +1,40 @@
 <?php if (!defined('BASEPATH')) exit('No direct script access allowed');
 
-class C_MAX extends CI_Controller
+class c_max extends CI_Controller
 {
     public function index()
     {
         $this->template
-            ->title('Ford C-Max Grand C-Max', 'Ford AutoTechnic')
+            ->title('Noul Ford C-Max', 'Ford AutoTechnic')
             ->build('autoturisme/c_max');
     }
 
-    public function design_exterior()
+    public function prezentare()
     {
         $this->template
-            ->title('Ford C-Max Grand C-Max - Design Exterior', 'Ford AutoTechnic')
-            ->build('autoturisme/c_max/design_exterior');
+            ->title('Noul Ford C-Max - Prezentare generala', 'Ford AutoTechnic')
+            ->build('autoturisme/c_max/prezentare');
     }
 
-    public function design_interior()
+    public function preturi_si_promotii()
     {
         $this->template
-            ->title('Ford C-Max Grand C-Max - Design Interior', 'Ford AutoTechnic')
-            ->build('autoturisme/c_max/design_interior');
+            ->title('Noul Ford C-Max - Preturi si promotii', 'Ford AutoTechnic')
+            ->build('autoturisme/c_max/preturi_si_promotii');
     }
 
-        public function materiale_descarcabile()
+    public function design()
     {
         $this->template
-            ->title('Ford C-Max Grand C-Max - Materiale Descarcabile', 'Ford AutoTechnic')
-            ->build('autoturisme/c_max/materiale_descarcabile');
+            ->title('Noul Ford C-Max - Design', 'Ford AutoTechnic')
+            ->build('autoturisme/c_max/design');
     }
 
-    public function tehnologii()
+    public function caracteristici()
     {
         $this->template
-            ->title('Ford C-Max Grand C-Max - Tehnologii', 'Ford AutoTechnic')
-            ->build('autoturisme/c_max/tehnologii');
-    }
-
-    public function siguranta_si_securitate()
-    {
-        $this->template
-            ->title('Ford C-Max Grand C-Max - Siguranta si Securitate', 'Ford AutoTechnic')
-            ->build('autoturisme/c_max/siguranta_si_securitate');
-    }
-
-    public function performanta()
-    {
-        $this->template
-            ->title('Ford C-Max Grand C-Max - Performanta', 'Ford AutoTechnic')
-            ->build('autoturisme/c_max/performanta');
-    }
-
-    public function culori_si_tapiterie()
-    {
-        $this->template
-            ->title('Ford C-Max Grand C-Max - Culori si Tapiterie', 'Ford AutoTechnic')
-            ->build('autoturisme/c_max/culori_si_tapiterie');
+            ->title('Noul Ford C-Max - Caracteristici', 'Ford AutoTechnic')
+            ->build('autoturisme/c_max/caracteristici');
     }
 }
 

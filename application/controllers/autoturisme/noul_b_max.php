@@ -4,10 +4,16 @@ class Noul_b_max extends CI_Controller
 {
     public function index()
     {
-        $this->template
-            ->title('Ingeniosul Ford B-MAX', 'Ford AutoTehnic')
-            ->build('autoturisme/noul_b_max');
+        $this->prezentare();
     }
+
+    public function prezentare()
+    {
+        $this->template
+            ->title('Ingeniosul Ford B-MAX - Prezentare Generala', 'Ford AutoTehnic')
+            ->build('autoturisme/noul_b_max/prezentare');
+    }
+
     public function design()
     {
         $this->template
@@ -20,6 +26,13 @@ class Noul_b_max extends CI_Controller
         $this->template
             ->title('Ingeniosul Ford B-MAX - Experien&#355;a la volan', 'Ford AutoTechnic')
             ->build('autoturisme/noul_b_max/experienta_la_volan');
+    }
+
+    public function preturi_si_promotii()
+    {
+        $this->template
+            ->title('Ingeniosul Ford B-MAX - Preturi si promotii', 'Ford AutoTechnic')
+            ->build('autoturisme/noul_b_max/preturi_si_promotii');
     }
 
     public function performanta()

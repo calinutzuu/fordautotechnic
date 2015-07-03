@@ -6,19 +6,21 @@
     MobileHomePageRedirectURL = 'http:\/\/m.ford.ro';
 </script>
 <div id="xAxis-detailed">
-    <nav class="breadCrumb" role="navigation">
+    <nav class="breadCrumb visuallyhidden" role="navigation">
         <ul itemprop="breadcrumb">
-            <li class="home"><a href="/" class="om_bc_li" title="Pagina principal&#259;">Pagina principal&#259;</a><span></span></li><li><a href="/Autoturisme" class="om_bc_li">
+            <li class="home"><a href="/" data-selenium="breadcrumb_home" class="om_bc_li" title="Pagina principal&#259;">Pagina principal&#259;</a><span></span></li><li data-selenium="breadcrumb_cars"><a href="/Autoturisme" class="om_bc_li">
             Autoturisme
-        </a><span></span></li><li>Focus </li></ul>
+        </a><span></span></li><li data-selenium="breadcrumb_nameplate">Focus </li></ul>
     </nav>
     <script>
         var vehicleimagepackpresid = '1205072254052';
         var vehicleimagepackyear = 'NONE';
-        var googleAdServerNameplateId = 'AUTHORED';
-        var googleAdServerNameplateName = 'TBD';
     </script>
     <div class="fblike-locale">ro_RO</div>
+    <script>
+        var googleAdServerNameplateId = 'AUTHORED';
+        var googleAdServerNameplateName = 'Focus ';
+    </script>
     <script type= "text/javascript">
         var extend = function(obj, extObj) {
             if (arguments.length > 2) {
@@ -32,7 +34,7 @@
             }
             return obj;
         };
-        var bootstrapVehicleData = {"vehicles":[{"strIntroToFord": " Noul","brand": "Ford ","vehicleType": "PV","catalogId": "NONE","nameplate": "Focus ","labelAvailableFrom": "&nbsp;","formattedCurrency": "","nameplateText": "Cu un exterior complet restilizat, mai sculptat, \u015Fi cu un spa\u0163iu \u00EEn cabin\u0103 mai avansat \u015Fi mai sofisticat ca niciodat\u0103, acesta este cel mai rafinat Focus de p\u00E2n\u0103 acum.","imagePack": false,"hideVehicleImage": false,"images": [],"backgroundImagePath": ["/assets/img/noul_focus/1214481762939.jpg","null","null"],"disclaimerTextColor": [null,null,null],"current": true,"cid": "1205072239086","cta": [{"linkTitle": "DESCARC\u0102 BRO\u015EUR\u0102 ","linkURL": "\/SBE\/Brosura\/DescarcaBrosura","linkType": "primary","linkTarget": "_blank","omid": "va"},{"linkTitle": "\u00CENSCRIE-TE LA TEST DRIVE ","linkURL": "\/SBE\/TestDrive?shopcode=AUTHORED","linkType": "tertiary","linkTarget": "_blank","omid": "tr"},{"linkTitle": "VREAU SĂ FIU INFORMAT(Ă) ","linkURL": "/SBE/VreauSaFiuInformata","linkType": "tertiary","linkTarget": "","omid": "tr"}],"social": {"facebook": "https://facebook.com","facebookPage": "fordromania"},"disclaimer": "Modelul prezentat este un Focus","seriesCode": "AUTHORED","uscCode": "AUTHORED","presId": "1205072254052","promos": [{"imagePath": "/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobwhere=1214484913013&blobkey=id","overlay": false,"link": "/cs/ContentServer?pagename=RORO4_ENGINE/EP2/common/promo/M48_PromoBlock&c=Promo_C&cid=1205072268044","text": "Ofertă specială de lansare"}],"idf": {"options":[{"dataOverlay": {"mediaType":"Image","height":"435","width":"780"},"iconURL":"/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobheader=image%2Fjpg&blobwhere=1214481906810&blobkey=id","link":"/cs/ContentServer?cid=1205072236108&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE","videoSrc":[{"src1":""},{"src2":""}],"youtubeClose":"","tooltipText":"Ford Focus"}]}}]} || {};
+        var bootstrapVehicleData = {"vehicles":[{"strIntroToFord": " Noul","brand": "Ford ","vehicleType": "PV","catalogId": "NONE","nameplate": "Focus ","labelAvailableFrom": "&nbsp;","formattedCurrency": "","nameplateText": "Cu un exterior complet restilizat, mai sculptat, \u015Fi cu un spa\u0163iu \u00EEn cabin\u0103 mai avansat \u015Fi mai sofisticat ca niciodat\u0103, acesta este cel mai rafinat Focus de p\u00E2n\u0103 acum.","imagePack": false,"hideVehicleImage": false,"images": [],"backgroundImagePath": ["/assets/img/noul_focus/1214481762939.jpg","null","null"],"disclaimerTextColor": [null,null,null],"current": true,"cid": "1205072239086","cta": [{"linkTitle": "DESCARC\u0102 BRO\u015EUR\u0102 ","linkURL": "\/SBE\/Brosura\/DescarcaBrosura","linkType": "primary","linkTarget": "_blank","omid": "va"},{"linkTitle": "\u00CENSCRIE-TE LA TEST DRIVE ","linkURL": "\/SBE\/TestDrive?shopcode=AUTHORED","linkType": "tertiary","linkTarget": "_blank","omid": "tr"},{"linkTitle": "VREAU SĂ FIU INFORMAT(Ă) ","linkURL": "/SBE/VreauSaFiuInformata","linkType": "tertiary","linkTarget": "","omid": "tr"}],"social": {"facebook": "https://facebook.com","facebookPage": "fordromania"},"disclaimer": "Modelul prezentat este un Focus","seriesCode": "AUTHORED","uscCode": "AUTHORED","presId": "1205072254052","promos": [{"imagePath": "/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobwhere=1214492080351&blobkey=id","overlay": false,"link": "/cs/ContentServer?pagename=RORO4_ENGINE/EP2/common/promo/M48_PromoBlock&c=Promo_C&cid=1205086715239","text": "Prima Maşină de la Ford"}],"idf": {"options":[{"dataOverlay": {"mediaType":"Image","height":"435","width":"780"},"iconURL":"/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobheader=image%2Fjpg&blobwhere=1214481906810&blobkey=id","link":"/cs/ContentServer?cid=1205072236108&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE","videoSrc":[{"src1":""},{"src2":""}],"youtubeClose":"","tooltipText":"Ford Focus"}]}}]} || {};
         var retrieveUserOptions = JSON.parse( localStorage.getItem('userSelection')) || {};
         //FranciB: injecting and changing user selected angle image trigger by mid page tabs and on page reload.
         //In order to stop the flickering between the default image and selected angle image in the centre stage.
@@ -215,19 +217,19 @@
     <div id="promo-carousel-timer">7500</div>
     <div class="slide-wrapper">
         <article class="slate slide">
-            <a href='/Promotii/PromotieLansareFordFocus'>
+            <a href='/Autoturisme/NoulFocus/PreturisiPromotii'>
 <span class="active-promo-rover">
 <span class="bg-opacity"></span>
 <span class="link-icon"></span>
 </span>
-                <img src="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpg&amp;blobwhere=1214484913013&amp;blobkey=id" alt="Ford Focus">
-                <p class="promo-carousel-text"><span class="promo-carousel-bold">Ofertă specială de lansare</span></p></a>
+                <img src="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpg&amp;blobwhere=1214492080351&amp;blobkey=id" alt="Ford Focus">
+                <p class="promo-carousel-text"><span class="promo-carousel-bold">Prima Maşină de la Ford</span></p></a>
         </article>
     </div>
 </section>
 <section id="non-js-promoCarousel" class="non-js-promo-carousel box-shadow">
     <div class="slide-wrapper">
-        <p class="promo-carousel-text"><a href="/cs/ContentServer?pagename=RORO4_ENGINE/EP2/common/promo/M48_PromoBlock&amp;c=Promo_C&amp;cid=Ofertă specială de lansare" target="_blank">Ford Focus</a></p>
+        <p class="promo-carousel-text"><a href="/cs/ContentServer?pagename=RORO4_ENGINE/EP2/common/promo/M48_PromoBlock&amp;c=Promo_C&amp;cid=Prima Maşină de la Ford" target="_blank">Ford Focus</a></p>
     </div>
 </section>
 <script type="text/javascript"> var nameplateTabErrorMsg = 'Ne pare r&#259;u, momentan nu putem s&#259; &icirc;nc&#259;rc&#259;m con&#539;inutul pe care l-a&#539;i solicitat. &Icirc;ncerca&#539;i din nou, mai t&acirc;rziu.'; </script>
@@ -235,11 +237,11 @@
     <div class="tab-wrapper">
         <nav class="tabs" id="primaryTabs">
             <ul>
-                <li><a href="/Autoturisme/NoulFocus/#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/NoulFocus/PromotieLansare">Ofert&#259; special&#259; de lansare Ford Focus</a>
-                </li>
                 <li class="selected"><a href="/Autoturisme/NoulFocus/PrezentareGenerala#primaryTabs" data-ajaxlink="/Autoturisme/NoulFocus/PrezentareGenerala">Prezentare general&#259;</a>
                 </li>
                 <li><a href="/Autoturisme/NoulFocus/Design#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/NoulFocus/Design">Design</a>
+                </li>
+                <li><a href="/Autoturisme/NoulFocus/PreturisiPromotii#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/NoulFocus/PreturisiPromotii">PRE&#354;URI &#350;I PROMO&#354;II</a>
                 </li>
                 <li><a href="/Autoturisme/NoulFocus/PerformantaSiEficienta#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/NoulFocus/PerformantaSiEficienta">Performan&#355;&#259; &#351;i eficien&#355;&#259;</a>
                 </li>
@@ -253,8 +255,6 @@
         <ul>
             <li><a href="/Autoturisme/NoulFocus/SigurantaSiSecuritate"
                     >Siguran&#355;&#259; &#351;i securitate</a></li>
-            <li><a href="/Autoturisme/NoulFocus/ListaDePreturi"
-                    >List&#259; de pre&#355;uri &#351;i bro&#351;uri</a></li>
         </ul>
         <aside class="sub-nav-heading">
             <div>Mai multe...</div>
@@ -269,7 +269,17 @@
                 </header>
                 <div class="bto-body">
                     <div class="abstract">
-                        <div>Cu un exterior complet restilizat, mai sculptat, şi cu un spaţiu &icirc;n cabină mai avansat şi mai sofisticat ca niciodată, acesta este cel mai rafinat Focus de p&acirc;nă acum. <br> <br> Acest model din generația următoare integrează, de asemenea, o gamă largă de noi tehnologii remarcabile. De exemplu, Ford SYNC 2 cu comandă vocală şi ecran tactil de 8&rdquo; &icirc;ţi permite să controlezi &icirc;n mod intuitiv sistemele de navigaţie, divertisment şi climatizare ale maşinii, doar cu ajutorul vocii. Sistemul de asistenţă activă la parcare a fost &icirc;mbunătăţit pentru a-ţi uşura parcările paralele, c&acirc;t şi pe cele perpendiculare. <br> <br> O gamă largă de motoare pe benzină şi diesel de ultimă generaţie &icirc;ţi oferă echilibrul perfect dintre putere şi economie de combustibil, iar transmisia PowerShift avansată şi schimbările treptelor de viteză cu un schimbător cu padele maximizează performanţa şi eficienţa. <br> <br> Află mai multe despre <a HREF="/Autoturisme/NoulFocus/ExperientaLaVolan" ><u>experienţa condusului</u></a>, nivelurile de <a HREF="/Autoturisme/NoulFocus/PerformantaSiEficienta" ><u>performanţă şi eficienţă</u></a>, dotările de siguranţă şi <a HREF="/Autoturisme/NoulFocus/Design" ><u>designul</u></a> noului Focus.</div>
+                        <div><strong>Ford Focus Trend 1.0, EcoBoost 100 CP, la 12.500 Euro* (TVA inclus)!</strong></div>
+                        </br>
+                        <div>Cu un exterior complet restilizat, mai sculptural, şi cu un spaţiu &icirc;n cabină mai avansat şi mai sofisticat ca niciodată, acesta este cel mai rafinat Focus de p&acirc;nă acum. <br>
+                            <br>
+                            Acest model din generația următoare integrează, de asemenea, o gamă largă de noi tehnologii remarcabile. De exemplu, Ford SYNC 2 cu comandă vocală şi ecran tactil de 8&rdquo; &icirc;ţi permite să controlezi &icirc;n mod intuitiv sistemele de navigaţie, divertisment şi climatizare ale maşinii, doar cu ajutorul vocii. Sistemul de asistenţă activă la parcare a fost &icirc;mbunătăţit pentru a-ţi uşura parcările paralele, c&acirc;t şi pe cele perpendiculare. <br>
+                            <br>
+                            O gamă largă de motoare pe benzină şi diesel de ultimă generaţie &icirc;ţi oferă echilibrul perfect dintre putere şi economie de combustibil, iar transmisia PowerShift avansată şi schimbările treptelor de viteză cu un schimbător cu padele maximizează performanţa şi eficienţa. <br>
+                            <br>
+                            Află mai multe despre <a HREF="/Autoturisme/NoulFocus/ExperientaLaVolan" ><u>experienţa condusului</u></a>, nivelurile de <a HREF="/Autoturisme/NoulFocus/PerformantaSiEficienta" ><u>performanţă şi eficienţă</u></a>, dotările de siguranţă şi<u> </u><a HREF="/Autoturisme/NoulFocus/Design" ><u>designul</u></a> noului Focus.</div>
+                        <div><br>
+                            *Preţul exprimat include TVA și este valabil pentru Ford Focus, Trend, 5 uşi, 1.0 EcoBoost100 CP (Euro VI, consum mixt 4.6 l/100 km, emisii CO<sub>2</sub> (g/km): 105), şi cuprinde contravaloarea tichetului Remat. Ofertă supusă unor termene și condiţii, valabilă &icirc;n limita stocului disponibil, la dealerii Ford participanţi la promoţie.</div>
                     </div>
                     <div class="body">
                     </div>
@@ -302,6 +312,5 @@
     </div>
 </section>
 <!-- nosc comp -->
-<script src="/cs/ContentServer?pagename=ENGInE/script/messaging/core"></script>
-<script id="TagIT.load" src='/cs/ContentServer?pagename=RORO4_ENGINE/script/packager&c=Page&cid=1205072239076&location=load&isMobile=false&require=main' defer></script>
+
 </div>

@@ -2765,7 +2765,7 @@ z-index: 99999999;
 }
 #overlayBlock header {
 background:
-url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=white_greyish_bg02")
+url("/assets/img/background/white_greyish_bg02.png")
 no-repeat 0 0 transparent;
 height: 90px;
 background-color: #fff;
@@ -3951,7 +3951,7 @@ background: linear-gradient(rgba(50,50,50,0.9), rgba(0,0,0,0.9));*/
 display: block;
 width: 32px;
 height: 32px;
-background: transparent url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=ajax-loader) 50% 50% no-repeat;
+background: transparent url(/assets/img/background/ajax-loader.gif) 50% 50% no-repeat;
 }
 /*
 #hpCarousel .no-svg .mejs-overlay-button,
@@ -4984,11 +4984,11 @@ line-height: 0.85;
 padding:0;
 margin:5px 0 0 0;
 }
-#buildandprice .bpNameplateSlider header{background: url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=xaxis_background") repeat-x  0 -1px; min-height:70px;width: 980px;}
+#buildandprice .bpNameplateSlider header{background: url("/assets/img/background/xaxis_background.png") repeat-x  0 -1px; min-height:70px;width: 980px;}
 #buildandprice .bpNameplateSlider .introTxt{font-size: 12px; padding:0;margin:10px 0;text-transform: uppercase;}
 #buildandprice .bpNameplateSlider .x-axis-wrapper .x-axis{margin-left:237px;}
 #buildandprice .bpNameplateSlider .x-axis > li {padding-top:30px;width:500px;height:359px;}
-#buildandprice .bpNameplateSlider .x-axis-wrapper {background: url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=xaxis_background") repeat-x scroll 0 -45px transparent;height:494px;}
+#buildandprice .bpNameplateSlider .x-axis-wrapper {background: url("/assets/img/background/xaxis_background.png") repeat-x scroll 0 -45px transparent;height:494px;}
 #buildandprice .bpNameplateSlider .x-axis-wrapper #pager{bottom: 12px;}
 /*#buildandprice.bpNameplateSlider .x-axis-wrapper > .pointer {
 position: absolute;
@@ -5588,7 +5588,7 @@ margin-top: 2px;
 position: static;
 }
 #buildandprice .showAllFeatures.allFeatureChecked > .selectAsset {
-background: url("/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=feature_sprite") no-repeat scroll 0 -75px transparent;
+background: url("/assets/img/feature_sprite.png") no-repeat scroll 0 -75px transparent;
 }
 /*#buildandprice .carDetails label.ui-state-default .ui-button-text{display:inline-block; position: absolute; bottom:0px; width:18px;height:18px;}*/
 /* CV in PV BnP */
@@ -5887,7 +5887,7 @@ position: relative;}
 .heroAngleSwitcherRight,
 .heroAngleSwitcherLeft{
 /*background: url(/assets/img/carousel_arrows.png) no-repeat 0 -51px transparent;*/
-background:url(/cs/ContentServer?pagename=ENGInE/EP2/common/GetImageByName&imageName=icon_angleview) no-repeat 0 0px;   
+background:url(/assets/img/icon_angleview.png) no-repeat 0 0px;
 cursor: pointer;
 height:28px;
 position:static;
@@ -9060,46 +9060,46 @@ padding-top: 14px;
 #cv-xAxis-detailed .nameplate-tab-content .tab-wrapper{
 height: 30px;
 }*/
-#xAxis-detailed #primaryTabs.tabs,
-#cv-xAxis-detailed #primaryTabs.tabs{
+#xAxis-detailed #_primaryTabs_.tabs,
+#cv-xAxis-detailed #_primaryTabs_.tabs{
 height: 34px;
 margin: 0 auto 0;
 }
-#xAxis-detailed #primaryTabs.tabs ul,
-#cv-xAxis-detailed #primaryTabs.tabs ul{
+#xAxis-detailed #_primaryTabs_.tabs ul,
+#cv-xAxis-detailed #_primaryTabs_.tabs ul{
 display: inline-block
 }
-#xAxis-detailed #primaryTabs.tabs li,
-#cv-xAxis-detailed #primaryTabs.tabs li{
+#xAxis-detailed #_primaryTabs_.tabs li,
+#cv-xAxis-detailed #_primaryTabs_.tabs li{
 border-bottom:none;
 height:auto;
 }
-#xAxis-detailed #primaryTabs.tabs li a,
-#cv-xAxis-detailed #primaryTabs.tabs li a{
+#xAxis-detailed #_primaryTabs_.tabs li a,
+#cv-xAxis-detailed #_primaryTabs_.tabs li a{
 display: table-cell;
 height: 22px;
 vertical-align: middle;
 }
-#xAxis-detailed #primaryTabs.tabs li.selected > a,
-#xAxis-detailed #primaryTabs.tabs li.selected:hover > a,
-#cv-xAxis-detailed #primaryTabs.tabs li.selected > a,
-#cv-xAxis-detailed #primaryTabs.tabs li.selected:hover > a{
+#xAxis-detailed #_primaryTabs_.tabs li.selected > a,
+#xAxis-detailed #_primaryTabs_.tabs li.selected:hover > a,
+#cv-xAxis-detailed #_primaryTabs_.tabs li.selected > a,
+#cv-xAxis-detailed #_primaryTabs_.tabs li.selected:hover > a{
 background-position: center 29px;
 height: 32px;
 padding-bottom: 3px;
 }
-#xAxis-detailed #primaryTabs.tabs li.selected,
-#xAxis-detailed #primaryTabs.tabs li.selected:hover{
+#xAxis-detailed #_primaryTabs_.tabs li.selected,
+#xAxis-detailed #_primaryTabs_.tabs li.selected:hover{
 margin: -7px 0 0;
 padding: 0 10px;
 z-index:0;
 }
-#cv-xAxis-detailed #primaryTabs.tabs li.selected,
-#cv-xAxis-detailed #primaryTabs.tabs li.selected:hover{
+#cv-xAxis-detailed #_primaryTabs_.tabs li.selected,
+#cv-xAxis-detailed #_primaryTabs_.tabs li.selected:hover{
 margin-top: -7px;
 z-index:0;
 }
-#xAxis-detailed #primaryTabs.tabs li.selected > a{
+#xAxis-detailed #_primaryTabs_.tabs li.selected > a{
 background-position: center 29px;
 }
 #tabs.nameplate-main-content {
@@ -9676,8 +9676,8 @@ padding-top:0px;
 }    
 .tab-wrapper.sticky-tab-menu .tabs li.selected, 
 .tab-wrapper.sticky-tab-menu .tabs li.selected:hover,
-#xAxis-detailed .tab-wrapper.sticky-tab-menu #primaryTabs.tabs li.selected,
-#xAxis-detailed .tab-wrapper.sticky-tab-menu #primaryTabs.tabs li.selected:hover{
+#xAxis-detailed .tab-wrapper.sticky-tab-menu #_primaryTabs_.tabs li.selected,
+#xAxis-detailed .tab-wrapper.sticky-tab-menu #_primaryTabs_.tabs li.selected:hover{
 background: none repeat scroll 0 0 #fff;
 border-radius: 0;
 box-shadow: none;
@@ -9686,8 +9686,8 @@ margin: 0;
 }
 .tab-wrapper.sticky-tab-menu .tabs li.selected > a, 
 .tab-wrapper.sticky-tab-menu .tabs li.selected:hover > a, 
-#xAxis-detailed .tab-wrapper.sticky-tab-menu #primaryTabs.tabs li.selected > a,
-#xAxis-detailed .tab-wrapper.sticky-tab-menu #primaryTabs.tabs li.selected:hover > a{
+#xAxis-detailed .tab-wrapper.sticky-tab-menu #_primaryTabs_.tabs li.selected > a,
+#xAxis-detailed .tab-wrapper.sticky-tab-menu #_primaryTabs_.tabs li.selected:hover > a{
 background-position: center 22px;
 padding-bottom: 0;
 padding-top: 0;   

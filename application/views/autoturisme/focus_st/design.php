@@ -216,15 +216,15 @@
 <div class="tab-wrapper">
     <nav class="tabs" id="primaryTabs">
         <ul>
-            <li><a href="/Autoturisme/Focus-ST/#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/Focus-ST/Prezentare">Prezentare general&#259;</a>
+            <li><a href="/Autoturisme/Focus-ST/Prezentare#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/Focus-ST/Prezentare">Prezentare general&#259;</a>
             </li>
             <li class="selected"><a href="/Autoturisme/Focus-ST/Design#primaryTabs" data-ajaxlink="/Autoturisme/Focus-ST/Design">Design</a>
             </li>
             <li><a href="/Autoturisme/Focus-ST/ExperientaLaVolan#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/Focus-ST/ExperientaLaVolan">Experien&#355;a la volan</a>
             </li>
-            <li><a href="/Autoturisme/Focus-ST/Performanta#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/Focus-ST/PerformantaSiEficienta">Performan&#355;&#259; &#351;i eficien&#355;&#259;</a>
+            <li><a href="/Autoturisme/Focus-ST/PreturisiPromotii#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/Focus-ST/PreturisiPromotii">PRE&#354;URI &#350;I PROMO&#354;II</a>
             </li>
-            <li><a href="/Autoturisme/Focus-ST/Siguranta#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/Focus-ST/Siguranta">Siguran&#355;&#259;</a>
+            <li><a href="/Autoturisme/Focus-ST/PerformantaSiEficienta#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/Focus-ST/PerformantaSiEficienta">Performan&#355;&#259; &#351;i eficien&#355;&#259;</a>
             </li>
             <li><a href="#" id="moreTab">Mai multe...</a><span></span></li>
         </ul>
@@ -232,8 +232,8 @@
 </div>
 <nav class="sub-nav ">
     <ul>
-        <li><a href="/Autoturisme/Focus-ST/ListaPreturi"
-                >List&#259; de pre&#539;uri</a></li>
+        <li><a href="/Autoturisme/Focus-ST/Siguranta"
+                >Siguran&#355;&#259;</a></li>
     </ul>
     <aside class="sub-nav-heading">
         <div>Mai multe...</div>

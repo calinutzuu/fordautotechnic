@@ -44,7 +44,7 @@
     <div id="fb-root"></div>
     <section class="x-axis-wrapper" id="vvmWrapper">
         <a class="js-ajax pointer left om_pv_xa_le" href="#" role="toolbar"><span></span></a>
-        <a class="js-ajax pointer right om_pv_xa_ri" href="#" role="toolbar"><span></span></a>
+
         <div itemscope itemtype="http://schema.org/ImageObject">
             <ul class="nameplate x-axis" id="vvmRoot">
                 <li class="default-nameplate-vehicle" style="background-image:url()">
@@ -219,15 +219,20 @@
 <div class="tab-wrapper">
     <nav class="tabs" id="primaryTabs">
         <ul>
-            <li><a href="/Autoturisme/Ka/Prezentare#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/Ka/Prezentare">Prezentare general&#259;</a>
+            <li><a href="/Autoturisme/Ka/Prezentare#primaryTabs"
+                                    data-ajaxlink="/Autoturisme/Ka/Prezentare">Prezentare general&#259;</a>
             </li>
-            <li><a href="/Autoturisme/Ka/Designinterior#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/Ka/Designinterior">Design interior</a>
+            <li><a href="/Autoturisme/Ka/Designinterior#primaryTabs" class="om_mt_ti"
+                   data-ajaxlink="/Autoturisme/Ka/Designinterior">Design interior</a>
             </li>
-            <li class="selected"><a href="/Autoturisme/Ka/Designexterior#primaryTabs" data-ajaxlink="/Autoturisme/Ka/Designexterior">Design exterior</a>
+            <li class="selected"><a href="/Autoturisme/Ka/Designexterior#primaryTabs" class="om_mt_ti"
+                   data-ajaxlink="/Autoturisme/Ka/Designexterior">Design exterior</a>
             </li>
-            <li><a href="/Autoturisme/Ka/MaterialeDescarcabile#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/Ka/MaterialeDescarcabile">Materiale Desc&#259;rcabile</a>
+            <li><a href="/Autoturisme/Ka/PreturisiPromotii#primaryTabs" class="om_mt_ti"
+                   data-ajaxlink="/Autoturisme/Ka/PreturisiPromotii">PRE&#354;URI &#350;I PROMO&#354;II</a>
             </li>
-            <li><a href="/Autoturisme/Ka/Preturi#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/Ka/Preturi">Lista de pre&#355;uri</a>
+            <li><a href="/Autoturisme/Ka/MaterialeDescarcabile#primaryTabs" class="om_mt_ti"
+                   data-ajaxlink="/Autoturisme/Ka/MaterialeDescarcabile">Materiale Desc&#259;rcabile</a>
             </li>
             <li><a href="#" id="moreTab">Mai multe...</a><span></span></li>
         </ul>

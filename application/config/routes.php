@@ -40,6 +40,7 @@
 
 $route['default_controller'] = 'home';
 $route['404_override'] = '';
+$route['Autoturisme/NoulMustang/PrezentareGenerala'] = 'autoturisme/noul_mustang/prezentare';
 $route['Autoturisme/NoulMustang/SigurantaSiSecuritate'] = 'autoturisme/noul_mustang/siguranta_si_securitate';
 $route['Autoturisme/NoulMustang/Performanta'] = 'autoturisme/noul_mustang/performanta';
 $route['Autoturisme/NoulMustang/ExperientaLaVolan'] = 'autoturisme/noul_mustang/experienta_la_volan';
@@ -47,45 +48,60 @@ $route['Autoturisme/NoulMustang/Design'] = 'autoturisme/noul_mustang/design';
 $route['Autoturisme/NoulMustang'] = 'autoturisme/noul_mustang/index';
 
 $route['Autoturisme/NoulB-MAX/Siguranta'] = 'autoturisme/noul_b_max/siguranta';
-$route['Autoturisme/NoulB-MAX/Performanta'] = 'autoturisme/noul_b_max/performanta';
+$route['Autoturisme/NoulB-MAX/PerformantaSiEficienta'] = 'autoturisme/noul_b_max/performanta';
+$route['Autoturisme/NoulB-MAX/PreturisiPromotii'] = 'autoturisme/noul_b_max/preturi_si_promotii';
 $route['Autoturisme/NoulB-MAX/ExperientaLaVolan'] = 'autoturisme/noul_b_max/experienta_la_volan';
 $route['Autoturisme/NoulB-MAX/Design'] = 'autoturisme/noul_b_max/design';
+$route['Autoturisme/NoulB-MAX/Prezentare'] = 'autoturisme/noul_b_max/prezentare';
 $route['Autoturisme/NoulB-MAX'] = 'autoturisme/noul_b_max/index';
 
+$route['Autoturisme/Ka/Culorisitapiterie'] = 'autoturisme/ka/culori_si_tapiterie';
+$route['Autoturisme/Ka/PreturisiPromotii'] = 'autoturisme/ka/preturi_si_promotii';
 $route['Autoturisme/Ka/MaterialeDescarcabile'] = 'autoturisme/ka/materiale_descarcabile';
 $route['Autoturisme/Ka/Designexterior'] = 'autoturisme/ka/design_exterior';
 $route['Autoturisme/Ka/Designinterior'] = 'autoturisme/ka/design_interior';
+$route['Autoturisme/Ka/Prezentare'] = 'autoturisme/ka/prezentare';
 $route['Autoturisme/Ka'] = 'autoturisme/ka/index';
 
-$route['Autoturisme/NouaFiesta/SigurantaSiSecuritate'] = 'autoturisme/noua_fiesta/siguranta_si_securitate';
-$route['Autoturisme/NouaFiesta/Performanta'] = 'autoturisme/noua_fiesta/performanta';
+$route['Autoturisme/NouaFiesta/Siguranta'] = 'autoturisme/noua_fiesta/siguranta_si_securitate';
+$route['Autoturisme/NouaFiesta/PerformantaSiEficienta'] = 'autoturisme/noua_fiesta/performanta';
+$route['Autoturisme/NouaFiesta/PreturisiPromotii'] = 'autoturisme/noua_fiesta/preturi_si_promotii';
 $route['Autoturisme/NouaFiesta/ExperientaLaVolan'] = 'autoturisme/noua_fiesta/experienta_la_volan';
 $route['Autoturisme/NouaFiesta/Design'] = 'autoturisme/noua_fiesta/design';
+$route['Autoturisme/NouaFiesta/Prezentare'] = 'autoturisme/noua_fiesta/prezentare';
 $route['Autoturisme/NouaFiesta'] = 'autoturisme/noua_fiesta/index';
 
-$route['Autoturisme/FiestaST'] = 'autoturisme/fiesta_st/index';
+$route['Autoturisme/Fiesta-ST'] = 'autoturisme/fiesta_st/index';
 
 $route['Autoturisme/NoulFocus/SigurantaSiSecuritate'] = 'autoturisme/noul_focus/siguranta_si_securitate';
 $route['Autoturisme/NoulFocus/ExperientaLaVolan'] = 'autoturisme/noul_focus/experienta_la_volan';
-$route['Autoturisme/NoulFocus/Performanta'] = 'autoturisme/noul_focus/performanta';
+$route['Autoturisme/NoulFocus/PerformantaSiEficienta'] = 'autoturisme/noul_focus/performanta';
 $route['Autoturisme/NoulFocus/Design'] = 'autoturisme/noul_focus/design';
+$route['Autoturisme/NoulFocus/PreturisiPromotii'] = 'autoturisme/noul_focus/preturi_si_promotii';
 $route['Autoturisme/NoulFocus/PrezentareGenerala'] = 'autoturisme/noul_focus/prezentare_generala';
 $route['Autoturisme/NoulFocus'] = 'autoturisme/noul_focus/index';
 
 $route['Autoturisme/Focus-ST/Siguranta'] = 'autoturisme/focus_st/siguranta';
-$route['Autoturisme/Focus-ST/Performanta'] = 'autoturisme/focus_st/performanta';
+$route['Autoturisme/Focus-ST/PerformantaSiEficienta'] = 'autoturisme/focus_st/performanta';
+$route['Autoturisme/Focus-ST/PreturisiPromotii'] = 'autoturisme/focus_st/preturi_si_promotii';
 $route['Autoturisme/Focus-ST/ExperientaLaVolan'] = 'autoturisme/focus_st/experienta_la_volan';
+$route['Autoturisme/Focus-ST/Prezentare'] = 'autoturisme/focus_st/prezentare_generala';
 $route['Autoturisme/Focus-ST/Design'] = 'autoturisme/focus_st/design';
 $route['Autoturisme/Focus-ST'] = 'autoturisme/focus_st/index';
 
-$route['Autoturisme/C-MAX/CuloriSiTapiterie'] = 'autoturisme/c_max/culori_si_tapiterie';
-$route['Autoturisme/C-MAX/Performanta'] = 'autoturisme/c_max/performanta';
-$route['Autoturisme/C-MAX/SigurantaSiSecuritate'] = 'autoturisme/c_max/siguranta_si_securitate';
-$route['Autoturisme/C-MAX/Tehnologii'] = 'autoturisme/c_max/tehnologii';
-$route['Autoturisme/C-MAX/MaterialeDescarcabile'] = 'autoturisme/c_max/materiale_descarcabile';
-$route['Autoturisme/C-MAX/DesignInterior'] = 'autoturisme/c_max/design_interior';
-$route['Autoturisme/C-MAX/DesignExterior'] = 'autoturisme/c_max/design_exterior';
-$route['Autoturisme/C-MAX'] = 'autoturisme/c_max/index';
+$route['Autoturisme/NoulC-MAX/Caracteristici'] = 'autoturisme/c_max/caracteristici';
+$route['Autoturisme/NoulC-MAX/Design'] = 'autoturisme/c_max/design';
+$route['Autoturisme/NoulC-MAX/PreturiSiPromotii'] = 'autoturisme/c_max/preturi_si_promotii';
+$route['Autoturisme/NoulC-MAX/Info'] = 'autoturisme/c_max/prezentare';
+$route['Autoturisme/NoulC-MAX'] = 'autoturisme/c_max/index';
+
+$route['Autoturisme/Kuga/Siguranta'] = 'autoturisme/kuga/siguranta';
+$route['Autoturisme/Kuga/PerformantaSiEficienta'] = 'autoturisme/kuga/performanta_si_eficienta';
+$route['Autoturisme/Kuga/PreturisiPromotii'] = 'autoturisme/kuga/preturi_si_promotii';
+$route['Autoturisme/Kuga/ExperientaLaVolan'] = 'autoturisme/kuga/experienta_la_volan';
+$route['Autoturisme/Kuga/Prezentare'] = 'autoturisme/kuga/prezentare';
+$route['Autoturisme/Kuga/Design'] = 'autoturisme/kuga/design';
+$route['Autoturisme/Kuga'] = 'autoturisme/kuga/index';
 
 $route['Autoturisme/Mondeo/Siguranta'] = 'autoturisme/mondeo/siguranta';
 $route['Autoturisme/Mondeo/ExperientaLaVolan'] = 'autoturisme/mondeo/experienta_la_volan';
@@ -111,6 +127,8 @@ $route['VehiculeComerciale/Prezentare'] = 'vehicule-comerciale/prezentare/index'
 $route['VehiculeComerciale/Noua_familie_Transit'] = 'vehicule-comerciale/noua_familie_transit/index';
 
 $route['VehiculeComerciale/Transit-Courier/Modele'] = 'vehicule-comerciale/transit_courier/modele';
+$route['VehiculeComerciale/Transit-Courier/Modele/Transit-Courier'] = 'vehicule-comerciale/transit_courier/modele_tc';
+$route['VehiculeComerciale/Transit-Courier/Modele/Transit-Courier-Trend'] = 'vehicule-comerciale/transit_courier/modele_tct';
 $route['VehiculeComerciale/Transit-Courier/StiluriDeCaroserie'] = 'vehicule-comerciale/transit_courier/stiluri_de_caroserie';
 $route['VehiculeComerciale/Transit-Courier/Siguranta'] = 'vehicule-comerciale/transit_courier/siguranta';
 $route['VehiculeComerciale/Transit-Courier/Performanta'] = 'vehicule-comerciale/transit_courier/performanta';

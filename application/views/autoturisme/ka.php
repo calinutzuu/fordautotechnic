@@ -44,21 +44,21 @@
     <div id="fb-root"></div>
     <section class="x-axis-wrapper" id="vvmWrapper">
         <a class="js-ajax pointer left om_pv_xa_le" href="#" role="toolbar"><span></span></a>
-        <a class="js-ajax pointer right om_pv_xa_ri" href="#" role="toolbar"><span></span></a>
-        <div itemscope itemtype="http://schema.org/ImageObject">
-            <ul class="nameplate x-axis" id="vvmRoot">
-                <li class="default-nameplate-vehicle" style="background-image:url()">
-                    <div class="layered-nameplate-image">
-                        <div class="image-holder">
-                        </div>
-                    </div>
-                    <aside class="nameplate-disclaimer ">
-                        Modelul prezentat este un Ka Titanium. Imagine cu titlul de prezentare.
-                    </aside>
-                </li>
-            </ul>
-            <div itemscope itemtype="http://schema.org/Product" id="nameplateDetails" class="nameplate-vehicle">
-                <!--the text description-->
+        <!--  <a class="js-ajax pointer right om_pv_xa_ri" href="#" role="toolbar"><span></span></a> -->
+          <div itemscope itemtype="http://schema.org/ImageObject">
+              <ul class="nameplate x-axis" id="vvmRoot">
+                  <li class="default-nameplate-vehicle" style="background-image:url()">
+                      <div class="layered-nameplate-image">
+                          <div class="image-holder">
+                          </div>
+                      </div>
+                      <aside class="nameplate-disclaimer ">
+                          Modelul prezentat este un Ka Titanium. Imagine cu titlul de prezentare.
+                      </aside>
+                  </li>
+              </ul>
+              <div itemscope itemtype="http://schema.org/Product" id="nameplateDetails" class="nameplate-vehicle">
+                  <!--the text description-->
                 <div class="name-plate-text">
                     <p class="intro"> </p>
                     <h1 class="bigHeading">
@@ -219,16 +219,15 @@
 <div class="tab-wrapper">
     <nav class="tabs" id="primaryTabs">
         <ul>
-            <li class="selected">
-                <a href="#primaryTabs">Prezentare general&#259;</a>
+            <li class="selected"><a href="/Autoturisme/Ka/Prezentare#primaryTabs" data-ajaxlink="/Autoturisme/Ka/Prezentare">Prezentare general&#259;</a>
             </li>
-            <li><a href="/Autoturisme/Ka/Designinterior#primaryTabs">Design interior</a>
+            <li><a href="/Autoturisme/Ka/Designinterior#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/Ka/Designinterior">Design interior</a>
             </li>
-            <li><a href="/Autoturisme/Ka/Designexterior#primaryTabs">Design exterior</a>
+            <li><a href="/Autoturisme/Ka/Designexterior#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/Ka/Designexterior">Design exterior</a>
             </li>
-            <li><a href="/Autoturisme/Ka/MaterialeDescarcabile#primaryTabs">Materiale Desc&#259;rcabile</a>
+            <li><a href="/Autoturisme/Ka/PreturisiPromotii#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/Ka/PreturisiPromotii">PRE&#354;URI &#350;I PROMO&#354;II</a>
             </li>
-            <li><a href="/Autoturisme/Ka/Preturi#primaryTabs">Lista de pre&#355;uri</a>
+            <li><a href="/Autoturisme/Ka/MaterialeDescarcabile#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/Ka/MaterialeDescarcabile">Materiale Desc&#259;rcabile</a>
             </li>
             <li><a href="#" id="moreTab">Mai multe...</a><span></span></li>
         </ul>
@@ -248,15 +247,11 @@
 <section class="bto-wrapper">
     <article class="bto-item">
         <header class="bto-title">
-            <h1>Îndrăzneţul FORD <b>KA</b></h1>
+            <h1>Îndrăznetul FORD <b>KA</b></h1>
         </header>
         <div class="bto-body">
             <div class="abstract">
-                <p>Original, prietenos şi fantastic de condus, Ka stabileşte standardele pentru maşinile mici. Liniile continue, proporţiile robuste şi noile culori ale caroseriei completează perfect designul special din interior.</p>
-                <p>&nbsp;</p>
-                <p>De asemenea, la Ford Ka există opţiunea celei mai economice motorizari, cu nivel scăzut al emisiilor.</p>
-                <p>&nbsp;</p>
-                <p><span style="FONT-SIZE: 9pt; COLOR: #333333; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><em>Dat fiind faptul că aceasta este o prezentare generală a Ford Ka, unele dintre dotările menţionate pot fi opţiuni standard pentru întreaga gamă, în timp ce altele pot fi dotări opţionale sau pot fi disponibile numai pentru anumite modele. Te rugăm să consulţi ghidul de produs sau sa contactezi cel mai apropiat <a HREF="_Old/Dealeri" CONTENTEDITABLE="false" >dealer</a> autorizat Ford.</em></span></p>
+                <p><strong>Ford Ka Trend 1,2 l, 69 CP, la 6.650 Euro* (TVA inclus)!</strong></p> <p>Original, prietenos şi fantastic de condus, Ka stabileşte standardele pentru maşinile mici. Liniile continue, proporţiile robuste şi noile culori ale caroseriei completează perfect designul special din interior.</p> <p>&nbsp;</p> <p>De asemenea, la Ford Ka există opţiunea celei mai economice motorizări, cu nivel scăzut al emisiilor.</p> <p>&nbsp;</p> <p><span style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: #333333; FONT-SIZE: 9pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><em>Dat fiind faptul că aceasta este o prezentare generală a Ford Ka, unele dintre dotările menţionate pot fi opţiuni standard pentru &icirc;ntreaga gamă, &icirc;n timp ce altele pot fi dotări opţionale sau pot fi disponibile numai pentru anumite modele. Te rugăm să consulţi ghidul de produs sau sa contactezi cel mai apropiat <a HREF="_Old/Dealeri" CONTENTEDITABLE="false" >dealer</a> autorizat Ford.</em></span></p> <div><span style="font-size: x-small;">*Preţul exprimat include TVA și este valabil pentru Ford Ka, Trend, 3 uşi, 1.2l benzină, 69 CP (Euro VI, consum mixt 4.9 l/100 km, emisii CO<sub>2</sub> (g/km): 115),  şi cuprinde contravaloarea tichetului Remat. Ofertă supusă unor termene și condiţii, valabilă &icirc;n limita stocului disponibil, la dealerii Ford participanţi la promoţie.</span></div>
             </div>
             <div class="body">
             </div>

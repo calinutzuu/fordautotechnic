@@ -9,6 +9,13 @@ class Noul_mustang extends CI_Controller
             ->build('autoturisme/noul_mustang');
     }
 
+    public function prezentare()
+    {
+        $this->template
+            ->title('Noul Ford Mustang 2015 - Prezentare Generala', 'Ford AutoTechnic')
+            ->build('autoturisme/noul_mustang/prezentare');
+    }
+
     public function design()
     {
         $this->template

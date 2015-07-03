@@ -293,7 +293,7 @@
                                 <article class="content-column left">
                                     <div class="img-column">
                                         <img src="/assets/img/mustang/1214486428602.jpg"
-                                            alt="Motor EcoBoost 2,3L"/>
+                                             alt="Motor EcoBoost 2,3L"/>
                                     </div>
                                     <div class="content">
                                         <h3 class="bigHeading02">
@@ -330,7 +330,7 @@
                                     </div>
                                     <div class="img-column">
                                         <img src="/assets/img/mustang/1214486429520.jpg"
-                                         alt="Motor EcoBoost V8 - 5,0L"/>
+                                             alt="Motor EcoBoost V8 - 5,0L"/>
                                     </div>
                                 </article>
                                 <article class='three-column'>

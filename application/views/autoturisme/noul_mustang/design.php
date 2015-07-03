@@ -3,15 +3,15 @@
     ForceRedirectUserAgents = 'android,iphone,blackberry';
     ForceRedirectUserAgentsBypass = 'Win64,Win32';
     ForceRedirectMinWidth = '480';
-    MobileHomePageRedirectURL = 'Design.html\/\/m.ford.ro';
+    MobileHomePageRedirectURL = 'Design\/\/m.ford.ro';
 </script>
 <div id="xAxis-detailed">
     <nav class="breadCrumb" role="navigation">
         <ul itemprop="breadcrumb">
-            <li class="home"><a href="../../index.html" class="om_bc_li" title="Pagina principal&#259;">Pagina
+            <li class="home"><a href="../../index" class="om_bc_li" title="Pagina principal&#259;">Pagina
                 principal&#259;</a><span></span>
             </li>
-            <li><a href="../../Autoturisme.html" class="om_bc_li">
+            <li><a href="../../Autoturisme" class="om_bc_li">
                 Autoturisme
             </a><span></span></li>
             <li>Mustang</li>
@@ -240,7 +240,7 @@
 <ul>
 <!--  isBtfTab true -->
 <!--  tabUrl /cs/ContentServer?cid=1205078755780&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE -->
-<li><a href="PrezentareGenerala.html#primaryTabs" class=" "
+<li><a href="PrezentareGenerala#primaryTabs" class=" "
        data-ajaxlink="/cs/ContentServer?cid=1205078755780&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE">Prezentare
     generala</a>
     <!-- secondary tabs -->
@@ -249,7 +249,7 @@
 <!--  isBtfTab  -->
 <!--  tabUrl /cs/ContentServer?cid=1205078755780&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205078755473&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE -->
 <!-- IntoID ::: articleAssetId -->
-<li class="selected"><a href="Design.html#primaryTabs"
+<li class="selected"><a href="/Design#primaryTabs"
                         data-ajaxlink="/cs/ContentServer?cid=1205078755780&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205078755473&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE">Design</a>
 <!--This is where the main content for the selected tab will go -->
 <!-- secondary tabs -->
@@ -560,22 +560,21 @@
 </li>
 <!--  isBtfTab  -->
 <!--  tabUrl /cs/ContentServer?cid=1205078755780&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205078756747&amp;tabName=ExperientaLaVolan&amp;c=Page&amp;site=RORO4_ENGINE -->
-<li><a href="ExperientaLaVolan.html#primaryTabs" class=" "
-       data-ajaxlink="/cs/ContentServer?cid=1205078755780&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205078756747&amp;tabName=ExperientaLaVolan&amp;c=Page&amp;site=RORO4_ENGINE">Experienta
-    la volan</a>
+<li><a href="/Autoturisme/NoulMustang/ExperientaLaVolan#primaryTabs" class=" "
+       data-ajaxlink="/Autoturisme/NoulMustang/ExperientaLaVolan">Experien&#539;a la volan</a>
     <!-- secondary tabs -->
     <!--  midPageTabId : 1205078755484 -->
 </li>
 <!--  isBtfTab  -->
 <!--  tabUrl /cs/ContentServer?cid=1205078755780&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205078751605&amp;tabName=Performanta&amp;c=Page&amp;site=RORO4_ENGINE -->
-<li><a href="Performanta.html#primaryTabs" class=" "
-       data-ajaxlink="/cs/ContentServer?cid=1205078755780&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205078751605&amp;tabName=Performanta&amp;c=Page&amp;site=RORO4_ENGINE">Performanta</a>
+<li><a href="/Autoturisme/NoulMustang/Performanta#primaryTabs" class=" "
+       data-ajaxlink="/Autoturisme/NoulMustang/PerformantaSiEficienta">Performan&#355;&#259; &#351;i  eficien&#355;&#259;</a>
     <!-- secondary tabs -->
     <!--  midPageTabId : 1205078752041 -->
 </li>
 <!--  isBtfTab  -->
 <!--  tabUrl /cs/ContentServer?cid=1205078755780&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205078754606&amp;tabName=SigurantaSiSecuritate&amp;c=Page&amp;site=RORO4_ENGINE -->
-<li><a href="SigurantaSiSecuritate.html#primaryTabs" class=" "
+<li><a href="/Autoturisme/NoulMustang/SigurantaSiSecuritate#primaryTabs" class=" "
        data-ajaxlink="/cs/ContentServer?cid=1205078755780&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205078754606&amp;tabName=SigurantaSiSecuritate&amp;c=Page&amp;site=RORO4_ENGINE">Siguranta
     si securitate</a>
     <!-- secondary tabs -->

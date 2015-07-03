@@ -58,28 +58,28 @@
 <h2 class="navTitle">Navigare site Ford</h2>
 <ul id="sections" role="menu">
 <li class="levelOne" role="menuitem" data-nav="pv">
-<a role="link" class="mainTopNav om_he_pv_li" href="../Autoturisme.html"><span>Autoturisme</span></a>
+<a role="link" class="mainTopNav om_he_pv_li" href="#"><span>Autoturisme</span></a>
 
 <div class="doormat">
 <div class="innerWrap">
 <a class="skip om_he_cv_sk" href="#cVehicles">Salt la vehicule comerciale</a>
 <!-- Displaying market nameplates  -->
 <ul class="subMenu" role="menu">
-    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="NoulMustang.html">Mustang</a></li>
-    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="NoulB-MAX.html">B-MAX</a></li>
-    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="Ka.html">Ka</a></li>
-    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="NouaFiesta.html">Fiesta</a></li>
-    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="Fiesta-ST.html">Fiesta ST</a></li>
-    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="NoulFocus.html">Noul Focus</a></li>
-    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="Focus-ST.html">Focus ST</a></li>
-    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="C-MAX.html">C-MAX &#351;i GRAND C-MAX</a>
+    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Autoturisme/NoulMustang">Mustang</a></li>
+    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Autoturisme/NoulB-MAX">B-MAX</a></li>
+    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Autoturisme/Ka">Ka</a></li>
+    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Autoturisme/NouaFiesta">Fiesta</a></li>
+    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Autoturisme/Fiesta-ST">Fiesta ST</a></li>
+    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Autoturisme/NoulFocus">Noul Focus</a></li>
+    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Autoturisme/Focus-ST">Focus ST</a></li>
+    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Autoturisme/NoulC-MAX">Noul C-MAX</a>
     </li>
-    <li role="menuitem" class=""><a role="link" class="om_he_pv_np selected" href="Kuga.html">Kuga</a></li>
+    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Autoturisme/Kuga">Kuga</a></li>
     <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="http://vignale.ford.ro/">Vignale</a></li>
-    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="Mondeo.html">Noul Mondeo</a></li>
-    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="NoulTourneoConnect.html">Tourneo Connect </a>
+    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Autoturisme/Mondeo">Noul Mondeo</a></li>
+    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Autoturisme/NoulTourneoConnect">Tourneo Connect </a>
     </li>
-    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="Noul-Ford-Tourneo-Courier.html">Tourneo
+    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Autoturisme/Noul-Ford-Tourneo-Courier">Tourneo
         Courier</a></li>
 </ul>
 <div class="pvnp-gradient"></div>
@@ -88,12 +88,12 @@
         <section class="doormatContent fl">
             <h2 class="bigHeading"><span class="mark">Ford</span> Mustang</h2>
             <figure>
-                <a href="NoulMustang.html" class="om_he_pv_np"><img
+                <a href="/Autoturisme/NoulMustang" class="om_he_pv_np"><img
                         src="/assets/img/1214486098890.png"
                         role="presentation" alt="Mustang"></a>
                 <!--Rendering the CTA Button-->
                 <div class="btnLink">
-                    <a title="" href="NoulMustang.html" class="om_he_pv_np">DETALII DESPRE ACEST MODEL</a>
+                    <a title="" href="/Autoturisme/NoulMustang" class="om_he_pv_np">DETALII DESPRE ACEST MODEL</a>
                 </div>
             </figure>
         </section>
@@ -102,12 +102,12 @@
         <section class="doormatContent fl">
             <h2 class="bigHeading"><span class="mark">Ford</span> B-MAX</h2>
             <figure>
-                <a href="NoulB-MAX.html" class="om_he_pv_np"><img
+                <a href="NoulB-MAX" class="om_he_pv_np"><img
                         src="/assets/img/resize340xrou004yyrj55j6j(a)(a)jia_1_0.png"
                         role="presentation" alt="B-MAX"></a>
                 <!--Rendering the CTA Button-->
                 <div class="btnLink">
-                    <a title="" href="NoulB-MAX.html" class="om_he_pv_np">DETALII DESPRE ACEST MODEL</a>
+                    <a title="" href="NoulB-MAX" class="om_he_pv_np">DETALII DESPRE ACEST MODEL</a>
                 </div>
             </figure>
         </section>
@@ -116,12 +116,12 @@
         <section class="doormatContent fl">
             <h2 class="bigHeading"><span class="mark">Ford</span> Ka</h2>
             <figure>
-                <a href="Ka.html" class="om_he_pv_np"><img
+                <a href="Ka" class="om_he_pv_np"><img
                         src="/assets/img/resize340xrou00gyypbd3dd8(a)(a)cda_1_0.png"
                         role="presentation" alt="Ka"></a>
                 <!--Rendering the CTA Button-->
                 <div class="btnLink">
-                    <a title="" href="Ka.html" class="om_he_pv_np">DETALII DESPRE ACEST MODEL</a>
+                    <a title="" href="Ka" class="om_he_pv_np">DETALII DESPRE ACEST MODEL</a>
                 </div>
             </figure>
         </section>
@@ -130,12 +130,12 @@
         <section class="doormatContent fl">
             <h2 class="bigHeading"><span class="mark">Ford</span> Fiesta</h2>
             <figure>
-                <a href="NouaFiesta.html" class="om_he_pv_np"><img
+                <a href="NouaFiesta" class="om_he_pv_np"><img
                         src="/assets/img/resize340xrou00cyyvr838w5(a)(a)9nj_1_0.png"
                         role="presentation" alt="Fiesta"></a>
                 <!--Rendering the CTA Button-->
                 <div class="btnLink">
-                    <a title="" href="NouaFiesta.html" class="om_he_pv_np">DETALII DESPRE ACEST MODEL</a>
+                    <a title="" href="NouaFiesta" class="om_he_pv_np">DETALII DESPRE ACEST MODEL</a>
                 </div>
             </figure>
         </section>
@@ -144,12 +144,12 @@
         <section class="doormatContent fl">
             <h2 class="bigHeading"><span class="mark">Ford</span> Fiesta ST</h2>
             <figure>
-                <a href="Fiesta-ST.html" class="om_he_pv_np"><img
+                <a href="Fiesta-ST" class="om_he_pv_np"><img
                         src="/assets/img/1214480083856.png"
                         role="presentation" alt="Fiesta ST"></a>
                 <!--Rendering the CTA Button-->
                 <div class="btnLink">
-                    <a title="" href="Fiesta-ST.html" class="om_he_pv_np">DETALII DESPRE ACEST MODEL</a>
+                    <a title="" href="Fiesta-ST" class="om_he_pv_np">DETALII DESPRE ACEST MODEL</a>
                 </div>
             </figure>
         </section>
@@ -158,12 +158,12 @@
         <section class="doormatContent fl">
             <h2 class="bigHeading"><span class="mark">Ford </span> Focus</h2>
             <figure>
-                <a href="NoulFocus.html" class="om_he_pv_np"><img
+                <a href="NoulFocus" class="om_he_pv_np"><img
                         src="/assets/img/1214484915144.png"
                         role="presentation" alt="Noul Focus"></a>
                 <!--Rendering the CTA Button-->
                 <div class="btnLink">
-                    <a title="" href="NoulFocus.html" class="om_he_pv_np">DETALII DESPRE ACEST MODEL</a>
+                    <a title="" href="NoulFocus" class="om_he_pv_np">DETALII DESPRE ACEST MODEL</a>
                 </div>
             </figure>
         </section>
@@ -172,12 +172,12 @@
         <section class="doormatContent fl">
             <h2 class="bigHeading"><span class="mark">Ford</span> Focus ST</h2>
             <figure>
-                <a href="Focus-ST.html" class="om_he_pv_np"><img
+                <a href="Focus-ST" class="om_he_pv_np"><img
                         src="/assets/img/1214480083880.png"
                         role="presentation" alt="Focus ST"></a>
                 <!--Rendering the CTA Button-->
                 <div class="btnLink">
-                    <a title="" href="Focus-ST.html" class="om_he_pv_np">DETALII DESPRE ACEST MODEL</a>
+                    <a title="" href="Focus-ST" class="om_he_pv_np">DETALII DESPRE ACEST MODEL</a>
                 </div>
             </figure>
         </section>
@@ -186,12 +186,12 @@
         <section class="doormatContent fl">
             <h2 class="bigHeading"><span class="mark">Ford</span> C-MAX &#351;i GRAND C-MAX</h2>
             <figure>
-                <a href="C-MAX.html" class="om_he_pv_np"><img
+                <a href="NoulC-MAX" class="om_he_pv_np"><img
                         src="/assets/img/resize340xrou009yywb9bd9d(a)(a)w9e_1_0.png"
-                        role="presentation" alt="C-MAX &#351;i GRAND C-MAX"></a>
+                        role="presentation" alt="Noul C-MAX"></a>
                 <!--Rendering the CTA Button-->
                 <div class="btnLink">
-                    <a title="" href="C-MAX.html" class="om_he_pv_np">DETALII DESPRE ACEST MODEL</a>
+                    <a title="" href="NoulC-MAX" class="om_he_pv_np">DETALII DESPRE ACEST MODEL</a>
                 </div>
             </figure>
         </section>
@@ -354,12 +354,16 @@
 
     <div class="flyout">
         <ul class="subMenu" role="menu">
-            <li role="menuitem"><a href="http://www.ford.ro/TehnologiiFord/FordSYNC" class="om_he_ac_li">Ford SYNC</a></li>
-            <li role="menuitem"><a href="http://www.ford.ro/TehnologiiFord/Ford-SYNC-with-AppLink" class="om_he_ac_li">Ford SYNC
+            <li role="menuitem"><a href="http://www.ford.ro/TehnologiiFord/FordSYNC" class="om_he_ac_li">Ford SYNC</a>
+            </li>
+            <li role="menuitem"><a href="http://www.ford.ro/TehnologiiFord/Ford-SYNC-with-AppLink" class="om_he_ac_li">Ford
+                SYNC
                 with AppLink</a></li>
-            <li role="menuitem"><a href="http://www.ford.ro/TehnologiiFord/Euro_NCAP_Advanced" class="om_he_ac_li">Euro NCAP
+            <li role="menuitem"><a href="http://www.ford.ro/TehnologiiFord/Euro_NCAP_Advanced" class="om_he_ac_li">Euro
+                NCAP
                 Advanced</a></li>
-            <li role="menuitem"><a href="http://www.ford.ro/TehnologiiFord/Go_Further" class="om_he_ac_li">Go Further</a></li>
+            <li role="menuitem"><a href="http://www.ford.ro/TehnologiiFord/Go_Further" class="om_he_ac_li">Go
+                Further</a></li>
         </ul>
     </div>
 </li>

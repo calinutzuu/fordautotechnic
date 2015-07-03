@@ -9,6 +9,13 @@ class Noua_Fiesta extends CI_Controller
             ->build('autoturisme/noua_fiesta');
     }
 
+    public function prezentare()
+    {
+        $this->template
+            ->title('Noua Fiesta', 'Ford AutoTechnic')
+            ->build('autoturisme/noua_fiesta/prezentare');
+    }
+
     public function design()
     {
         $this->template
@@ -21,6 +28,13 @@ class Noua_Fiesta extends CI_Controller
         $this->template
             ->title('Noua Fiesta - Experien&#355;a la volan', 'Ford AutoTechnic')
             ->build('autoturisme/noua_fiesta/experienta_la_volan');
+    }
+
+    public function preturi_si_promotii()
+    {
+        $this->template
+            ->title('Noua Fiesta - Preturi si promotii', 'Ford AutoTechnic')
+            ->build('autoturisme/noua_fiesta/preturi_si_promotii');
     }
 
     public function performanta()

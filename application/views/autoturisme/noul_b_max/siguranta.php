@@ -225,25 +225,15 @@
             </li>
             <li><a href="/Autoturisme/NoulB-MAX/ExperientaLaVolan#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/NoulB-MAX/ExperientaLaVolan">Experien&#539;a la volan</a>
             </li>
+            <li ><a href="/Autoturisme/NoulB-MAX/PreturisiPromotii#primaryTabs" data-ajaxlink="/Autoturisme/NoulB-MAX/PreturisiPromotii">PRE&#354;URI &#350;I PROMO&#354;II</a>
+            </li>
             <li><a href="/Autoturisme/NoulB-MAX/PerformantaSiEficienta#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/NoulB-MAX/PerformantaSiEficienta">Performan&#355;&#259; &#351;i eficien&#355;&#259;</a>
             </li>
-            <li class="selected"><a href="/Autoturisme/NoulB-MAX/Siguranta#primaryTabs" data-ajaxlink="/Autoturisme/NoulB-MAX/Siguranta">Siguran&#539;&#259;</a>
-            </li>
-            <li><a href="#" id="moreTab">Mai multe...</a><span></span></li>
+            <li class="selected"><a href="/Autoturisme/NoulB-MAX/Siguranta">Siguran&#539;&#259;</a></li>
         </ul>
     </nav>
 </div>
-<nav class="sub-nav ">
-    <ul>
-        <li><a href="/Autoturisme/NoulB-MAX/MaterialeDescarcabile"
-                >Materiale Desc&#259;rcabile</a></li>
-        <li><a href="/Autoturisme/NoulB-MAX/ListaPreturi"
-                >List&#259; de pre&#539;uri</a></li>
-    </ul>
-    <aside class="sub-nav-heading">
-        <div>Mai multe...</div>
-    </aside>
-</nav>
+
 <!--This is where the main content for the selected tab will go -->
 <article class="nameplate-main-content" id="tabs">
 <section class="bto-wrapper">

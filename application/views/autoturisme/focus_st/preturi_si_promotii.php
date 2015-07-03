@@ -3,28 +3,28 @@
     ForceRedirectUserAgents = 'android,iphone,blackberry';
     ForceRedirectUserAgentsBypass = 'Win64,Win32';
     ForceRedirectMinWidth = '480';
-    MobileHomePageRedirectURL = 'NoulB-MAX.html\/\/m.ford.ro';
-    MobileRedirectURL = MobileHomePageRedirectURL + '_Old/NoulB-MAX';
+    MobileHomePageRedirectURL = 'http:\/\/m.ford.ro';
 </script>
 <div id="xAxis-detailed">
-    <nav class="breadCrumb" role="navigation">
+    <nav class="breadCrumb visuallyhidden" role="navigation">
         <ul itemprop="breadcrumb">
-            <li class="home">
-                <a href="/" class="om_bc_li" title="Pagina principal&#259;">Pagina principal&#259;</a>
-            </li>
-            <li>
-                <a href="/Autoturisme" class="om_bc_li">Autoturisme</a>
-            </li>
-            <li>B-MAX</li>
+            <li class="home"><a href="/" data-selenium="breadcrumb_home" class="om_bc_li"
+                                title="Pagina principal&#259;">Pagina principal&#259;</a><span></span></li>
+            <li data-selenium="breadcrumb_cars"><a href="/Autoturisme" class="om_bc_li">
+                Autoturisme
+            </a><span></span></li>
+            <li data-selenium="breadcrumb_nameplate">Focus ST</li>
         </ul>
     </nav>
     <script>
-        var vehicleimagepackpresid = '1205035169292';
-        var vehicleimagepackyear = 'YYR';
-        var googleAdServerNameplateId = '004';
-        var googleAdServerNameplateName = 'B-Max';
+        var vehicleimagepackpresid = '1205035165459';
+        var vehicleimagepackyear = 'NONE';
     </script>
     <div class="fblike-locale">ro_RO</div>
+    <script>
+        var googleAdServerNameplateId = 'AUTHORED';
+        var googleAdServerNameplateName = 'Focus ST';
+    </script>
     <script type="text/javascript">
         var extend = function (obj, extObj) {
             if (arguments.length > 2) {
@@ -39,16 +39,15 @@
             return obj;
         };
         var bootstrapVehicleData = {"vehicles":[
-            {"strIntroToFord":" ", "brand":"Ford", "vehicleType":"PV", "catalogId":"9323", "nameplate":"B-MAX", "labelAvailableFrom":"De la", "formattedCurrency":"16.150 RON", "nameplateText":"Datorit\u0103 sistemului ingenios de deschidere al u\u0219ilor, ai acces mult mai u\u0219or \u00EEn habitaclul ma\u0219inii \u0219i un interior extrem de rafinat \u0219i spa\u021Bios.", "imagePack":true, "hideVehicleImage":false, "images":["/assets/img/b_max/B-MAX_LHD_BurnishedGlow_Front_00001.jpg"], "backgroundImagePath":["/assets/img/b_max/B-MAX_LHD_BurnishedGlow_Front_00001.jpg","null", "null"], "disclaimerTextColor":[null, null, null], "current":true, "cid":"1205005696537", "cta":[
-                {"linkTitle":"MODELE B-MAX", "linkURL":"/Autoturisme/NoulB-MAX/Modele", "linkType":"primary", "linkTarget":"", "omid":"va"},
-                {"linkTitle":"DESCARC\u0102 BRO\u015EUR\u0102 ", "linkURL":"\/SBE\/Brosura\/DescarcaBrosura", "linkType":"tertiary", "linkTarget":"_blank", "omid":"tr"},
-                {"linkTitle":"\u00CENSCRIE-TE LA TEST DRIVE ", "linkURL":"\/SBE\/TestDrive", "linkType":"tertiary", "linkTarget":"_blank", "omid":"tr"},
+            {"strIntroToFord":" ", "brand":"Ford", "vehicleType":"PV", "catalogId":"NONE", "nameplate":"Focus ST", "labelAvailableFrom":"&nbsp;", "formattedCurrency":"", "nameplateText":"Noul Focus ST este o ma\u015Fina de \u00EEnalt\u0103 performan\u0163\u0103 care, \u00EEn acela\u015Fi timp, transform\u0103 condusul de zi cu zi \u00EEntr-o adev\u0103rat\u0103 pl\u0103cere.", "imagePack":false, "hideVehicleImage":false, "images":[], "backgroundImagePath":["/assets/img/focus_st/1214480083822.jpg", "null", "null"], "disclaimerTextColor":[null, null, null], "current":true, "cid":"1205018010103", "cta":[
+                {"linkTitle":"DESCARC\u0102 BRO\u015EUR\u0102 ", "linkURL":"\/SBE\/Brosura\/DescarcaBrosura", "linkType":"primary", "linkTarget":"_blank", "omid":"va"},
+                {"linkTitle":"\u00CENSCRIE-TE LA TEST DRIVE ", "linkURL":"\/SBE\/TestDrive?shopcode=AUTHORED", "linkType":"tertiary", "linkTarget":"_blank", "omid":"tr"},
                 {"linkTitle":"VREAU SĂ FIU INFORMAT(Ă) ", "linkURL":"/SBE/VreauSaFiuInformata", "linkType":"tertiary", "linkTarget":"", "omid":"tr"}
-            ], "social":{"facebook":"https://facebook.com", "facebookPage":"fordromania"}, "disclaimer":"Modelul prezentat este un B-MAX Titanium. Imagine cu titlul de prezentare.", "seriesCode":"J6J", "uscCode":"004", "supportSelector":"true", "supportSeries":"true", "presId":"1205035169292", "promos":[], "idf":{"options":[
-                {"dataOverlay":{"mediaType":"Flash", "height":"439", "width":"780"}, "iconURL":"/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobheader=image%2Fjpg&blobwhere=1214480084155&blobkey=id", "link":"/cs/ContentServer?cid=1205020320463&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Flash_C&amp;site=RORO4_ENGINE", "videoSrc":[
+            ], "social":{"facebook":"https://facebook.com", "facebookPage":"fordromania"}, "disclaimer":"Modelul prezentat este un Focus ST", "seriesCode":"AUTHORED", "uscCode":"AUTHORED", "presId":"1205035165459", "promos":[], "idf":{"options":[
+                {"dataOverlay":{"mediaType":"Flash", "height":"439", "width":"780"}, "iconURL":"/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobheader=image%2Fjpg&blobwhere=1214480084230&blobkey=id", "link":"/cs/ContentServer?cid=1205018009552&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Flash_C&amp;site=RORO4_ENGINE", "videoSrc":[
                     {"src1":""},
                     {"src2":""}
-                ], "youtubeClose":"", "tooltipText":"Ford B-MAX"}
+                ], "youtubeClose":"", "tooltipText":"Focus ST"}
             ]}}
         ]} || {};
         var retrieveUserOptions = JSON.parse(localStorage.getItem('userSelection')) || {};
@@ -60,18 +59,16 @@
     </script>
     <div id="fb-root"></div>
     <section class="x-axis-wrapper" id="vvmWrapper">
-        <a class="js-ajax pointer left om_pv_xa_le" href="#" role="toolbar"><span></span></a>
-        <a class="js-ajax pointer right om_pv_xa_ri" href="#" role="toolbar"><span></span></a>
-
         <div itemscope itemtype="http://schema.org/ImageObject">
             <ul class="nameplate x-axis" id="vvmRoot">
-                <li class="default-nameplate-vehicle" style="background-image:url()">
+                <li class="default-nameplate-vehicle"
+                    style="background-image:url(/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobheader=image%2Fjpg&blobwhere=1214480083822&blobkey=id)">
                     <div class="layered-nameplate-image">
                         <div class="image-holder">
                         </div>
                     </div>
                     <aside class="nameplate-disclaimer ">
-                        Modelul prezentat este un B-MAX Titanium. Imagine cu titlul de prezentare.
+                        Modelul prezentat este un Focus ST
                     </aside>
                 </li>
             </ul>
@@ -83,13 +80,13 @@
                     <h1 class="bigHeading">
                         <span itemprop="model" itemscope itemtype="http://schema.org/Organization"
                               class="mark">Ford</span>
-                        <span itemprop="member" class="nameplate boldTxt">B-MAX</span>
+                        <span itemprop="member" class="nameplate boldTxt">Focus ST</span>
                     </h1>
                     <!--The price-->
                     <!--The blurb-->
                     <p class="blurb">
-                        Datorită sistemului ingenios de deschidere al ușilor, ai acces mult mai ușor în habitaclul
-                        mașinii și un interior extrem de rafinat și spațios.
+                        Noul Focus ST este o maşina de &icirc;naltă performanţă care, &icirc;n acelaşi timp, transformă
+                        condusul de zi cu zi &icirc;ntr-o adevărată plăcere.
                     </p>
                 </div>
             </div>
@@ -251,83 +248,100 @@
     <div class="tab-wrapper">
         <nav class="tabs" id="primaryTabs">
             <ul>
-                <li class="selected">
-                    <a href="#primaryTabs">Prezentare general&#259;</a>
+                <li><a href="/Autoturisme/Focus-ST/Prezentare#primaryTabs" class="om_mt_ti"
+                       data-ajaxlink="/Autoturisme/Focus-ST/Prezentare">Prezentare general&#259;</a>
                 </li>
-                <li><a href="/Autoturisme/NoulB-MAX/Design#primaryTabs">Design</a> </li>
-                <li><a href="/Autoturisme/NoulB-MAX/ExperientaLaVolan#primaryTabs">Experienta la volan</a></li>
-                <li><a href="/Autoturisme/NoulB-MAX/Performanta#primaryTabs">Performanta</a></li>
-                <li><a href="/Autoturisme/NoulB-MAX/Siguranta#primaryTabs">Siguranta si securitate</a>
+                <li><a href="/Autoturisme/Focus-ST/Design#primaryTabs" class="om_mt_ti"
+                       data-ajaxlink="/Autoturisme/Focus-ST/Design">Design</a>
                 </li>
+                <li><a href="/Autoturisme/Focus-ST/ExperientaLaVolan#primaryTabs" class="om_mt_ti"
+                       data-ajaxlink="/Autoturisme/Focus-ST/ExperientaLaVolan">Experien&#355;a la volan</a>
+                </li>
+                <li class="selected"><a href="/Autoturisme/Focus-ST/PreturisiPromotii#primaryTabs"
+                                        data-ajaxlink="/Autoturisme/Focus-ST/PreturisiPromotii">PRE&#354;URI &#350;I
+                    PROMO&#354;II</a>
+                </li>
+                <li><a href="/Autoturisme/Focus-ST/PerformantaSiEficienta#primaryTabs" class="om_mt_ti"
+                       data-ajaxlink="/Autoturisme/Focus-ST/PerformantaSiEficienta">Performan&#355;&#259; &#351;i
+                    eficien&#355;&#259;</a>
+                </li>
+                <li><a href="#" id="moreTab">Mai multe...</a><span></span></li>
             </ul>
         </nav>
-        <article class="nameplate-main-content" id="tabs">
+    </div>
+    <nav class="sub-nav ">
+        <ul>
+            <li><a href="/Autoturisme/Focus-ST/Siguranta"
+                    >Siguran&#355;&#259;</a></li>
+        </ul>
+        <aside class="sub-nav-heading">
+            <div>Mai multe...</div>
+        </aside>
+    </nav>
+    <!--This is where the main content for the selected tab will go -->
+    <article class="nameplate-main-content" id="tabs">
         <section class="bto-wrapper">
             <article class="bto-item">
                 <header class="bto-title">
-                    <h1>Ingeniosul FORD <b>B-MAX</b></h1>
+                    <h1>PRETURI SI PROMOTII</h1>
                 </header>
                 <div class="bto-body">
                     <div class="abstract">
-                        Ford B-MAX a fost special conceput pentru șoferul contemporan, care profită din plin de toate
-                        posibilitățile unei vieți moderne. Cu toate că este o mașină compactă, ingeniosul sistem de
-                        acces &icirc;n habitaclu &icirc;ți oferă o deschidere de 1,5 metri către un interior spațios,
-                        rafinat și de calitate premium. <br>
-                        <br>
-                        Alături de designul unic, B-MAX are o multitudine de tehnologii care fac din condus o adevărată
-                        plăcere, un lucru simplu și eficient. De exemplu, sistemul Active City Stop reduce riscul sau
-                        consecintele unei coliziuni cu vehiculul aflat in fata in conditii de trafic lent, activ&acirc;nd
-                        automat fr&acirc;nele &icirc;n locul tău, la nevoie.Cu Ford SYNC<sup>&reg;</sup> &icirc;ți
-                        controlezi muzica și telefonul prin simple comenzi vocale &ndash; SYNC<sup>&reg;</sup> poate
-                        chiar să-ți citească mesajele prin boxele mașinii &ndash; totul pentru ca tu să poți conduce
-                        atent la drum și cu m&acirc;inile pe volan. Iar revoluționarul motor EcoBoost de 1,0 litru, pe
-                        benzină, produce puterea unui motor convenţional de 1,6, &icirc;nsă oferă cel mai bun consum din
-                        clasa lui. <br>
-                        <br>
-                        Află mai multe despre ingeniosul Ford B-MAX &icirc;n paginile de <a HREF="NoulB-MAX/Design.html"
-                                                                                            CONTENTEDITABLE="false">design</a>,
-                        <a HREF="NoulB-MAX/ExperientaLaVolan.html" CONTENTEDITABLE="false">experiența la volan</a>, <a
-                            HREF="NoulB-MAX/PerformantaSiEficienta.html" CONTENTEDITABLE="false">performanță și
-                        eficiență</a> și <a HREF="NoulB-MAX/Siguranta.html" CONTENTEDITABLE="false">siguranță</a>.
+                        <div>Află detalii despre promoţiile aflate &icirc;n derulare sau descarcă listele de preţuri
+                            pentru FORD FOCUS ST.
+                        </div>
                     </div>
                     <div class="body">
                     </div>
                 </div>
             </article>
         </section>
+        <!-- isBtfTab : from MidPageTabs false -->
+        <div class="tab-wrapper">
+            <nav class="tabs" id="inner-tabs">
+                <ul>
+                    <li><a href='#tab1' class='omt_'>Preturi</a></li>
+                </ul>
+            </nav>
+        </div>
+        <!-- BEGIN [MidPageTabs] -->
+        <div class="innertab-wrapper">
+            <!--<div id='tab1' class="mp-tab-wrapper">
+            <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Preturi</a></h2> -->
+            <div id='tab1' class="tab-content" style="display:none;">
+                <section class="bto-wrapper">
+                    <article class="bto-item">
+                        <header class="bto-title">
+                            <h1>Lista de preţuri</h1>
+                        </header>
+                        <div class="bto-body">
+                            <div class="abstract">
+<span>
+<div>Dacă te interesează un anumit model, consultă ofertele noastre actuale. Sau vizitează cel mai apropiat dealer
+    pentru cele mai bune oferte disponibile.
+</div>
+<div><br>
+    <a TITLE="Listă de prețuri Ford Focus ST (1,76 MB)"
+       HREF="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobheadervalue1=attachment%3Bfilename%3D%22Lista+de+preturi+Ford+Focus+ST.pdf%22&blobheadervalue2=abinary%3Bcharset%3DUTF-8&blobheadername1=Content-Disposition&blobheadername2=MDT-Type&blobheader=application%2Fpdf&blobwhere=1214491131416&blobkey=id"
+       CLASS="download"
+       onClick="if (typeof sford == 'object') omnitureLinkDownloadClick('brand:pricelist download:confirm:<nameplate>','event15,event43','','event:pricelist:pdf','download pricelist','pdf download','',false,'ford focus st','2012','car');">Descarcă
+        lista de preţuri Focus ST</a>.
+</div>
+<br>
+Fişierul &icirc;n format PDF a fost creat pentru a-ţi permite să vizualizezi şi să tipăreşti fişiere fără a avea nevoie de programul &icirc;n care au fost create iniţial. Adobe&trade; &icirc;ţi pune la dispoziţie o aplicaţie software gratuită (Acrobat Reader) care &icirc;ţi permite să lucrezi cu aceste fişiere. Dacă ai instalat deja această aplicaţie pe computerul tău, &icirc;n mod normal o poţi găsi la &quot;Programe&quot;, &icirc;n &quot;Meniul Start&quot;. &Icirc;n caz contrar, acceseză link-ul de mai jos pentru a o descărca. <br>
+<a href="http://get.adobe.com/reader/%20">Descarcă Acrobat Reader de pe situl adobe.com</a></span>
+                            </div>
+                            <div class="body">
+                            </div>
+                        </div>
+                    </article>
+                </section>
+            </div>
+            <!--</div>-->
+        </div>
+        <!-- END [MidPageTabs] -->
     </article>
-    <div style="width:100%; height:auto; padding:0px 0px 5px">
-        <script>
-            var addthis_preconfig_variables = {};
-            addthis_preconfig_variables["ui_language"] = "ro";
-            addthis_preconfig_variables["services_compact"] = "print,favorites,facebook,twitter,delicious,stumbleupon,more";
-            addthis_preconfig_variables["services_expanded"] = "print,favorites,facebook,twitter,delicious,stumbleupon,tumblr,blogger,digg,google,linkedin,reddit,wordpress,";
-            addthis_preconfig_variables["services_exclude"] = "hotmail,gmail,email,aolmail,yahoomailemail";
-            addthis_preconfig_variables["services_custom"] = {
-                name:"Ford",
-                url:"http://www.ford.ro={{URL}}&title={{TITLE}}",
-                icon:"http://www.ford.com/icon.jpg"
-            };
-            addthis_preconfig_variables["ui_hover_direction"] = "1";
-        </script>
-        <!-- AddThis Button BEGIN -->
-        <script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
-        <a class='addthis_button' href="http://www.addthis.com/bookmark.php?v=250&amp;username=engineps">
-            <img src="../cs/BlobServer539f.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214384086466&amp;blobkey=id"
-                 border="0" alt="Adaugă" title="Adaugă" height='24' width='186'/>
-        </a>
-        <script type="text/javascript"
-                src='../../s7.addthis.com/js/250/addthis_widget0608.js?username=engineps'></script>
-        <script type="text/javascript">
-            var addthis_config = addthis_preconfig_variables;
-            var addthis_localize = {share_caption:'Marchează şi partajează', favorites:'Favorite', print:'Printează', more:'Mai multe'};
-        </script>
-        <!-- AddThis Button END -->
-    </div>
 </section>
 <!-- nosc comp -->
-<script src="../cs/ContentServer3a7e?pagename=ENGInE/script/messaging/core"></script>
-<script id="TagIT.load"
-        src='../cs/ContentServere803?pagename=RORO4_ENGINE/script/packager&amp;c=Page&amp;cid=1205005696537&amp;location=load&amp;isMobile=false&amp;require=main'
-        defer></script>
+
 </div>

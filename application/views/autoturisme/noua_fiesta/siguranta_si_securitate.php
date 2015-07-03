@@ -224,18 +224,18 @@
             </li>
             <li><a href="/Autoturisme/NouaFiesta/ExperientaLaVolan#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/NouaFiesta/ExperientaLaVolan">Experien&#539;a la volan</a>
             </li>
+            <li><a href="/Autoturisme/NouaFiesta/PreturisiPromotii#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/NouaFiesta/PreturisiPromotii">PRE&#354;URI &#350;I PROMO&#354;II</a>
+            </li>
             <li><a href="/Autoturisme/NouaFiesta/PerformantaSiEficienta#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/NouaFiesta/PerformantaSiEficienta">Performan&#355;&#259; &#351;i eficien&#355;&#259;</a>
             </li>
-            <li class="selected"><a href="/Autoturisme/NouaFiesta/Siguranta#primaryTabs" data-ajaxlink="/Autoturisme/NouaFiesta/Siguranta">Siguran&#355;&#259; &#351;i securitate</a>
-            </li>
-            <li><a href="#" id="moreTab">Mai multe...</a><span></span></li>
+            <li class="selected" id="moreTab"><a href="#">Mai multe...</a><span></span></li>
         </ul>
     </nav>
 </div>
-<nav class="sub-nav ">
+<nav class="sub-nav open">
     <ul>
-        <li><a href="/Autoturisme/NouaFiesta/PreturiSiBrosuri"
-                >Liste de pre&#355;uri &#351;i bro&#351;uri</a></li>
+        <li class="selected"><a href="/Autoturisme/NouaFiesta/Siguranta" class="om_mt_ti"
+                >Siguran&#355;&#259; &#351;i securitate</a></li>
     </ul>
     <aside class="sub-nav-heading">
         <div>Mai multe...</div>

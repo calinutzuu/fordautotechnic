@@ -11,10 +11,32 @@
 if (typeof define != 'function') {
 var define = function (a,b,c) {return c;}; 	
 }
+if (!Object.keys) {
+Object.keys = function(o) {
+var k = [];
+for (var i in o) {
+if (o.hasOwnProperty(i)) {
+k.push(i);
+}
+}
+return k;
+};
+}
+if ( typeof Function.getPrototypeOf !== "function" ) {
+if ( typeof "string".__proto__ === "object" ) {
+Function.getPrototypeOf = function(o){
+return o.__proto__;
+};
+} else {
+Function.getPrototypeOf = function(o){
+return o.constructor.prototype;
+};
+}
+}
 define('core/core',['main'], (function () {
 "use strict";
 /*console = typeof console === 'undefined' ? {} : console;*/
-var TagManager, MessageQueue, RootObject;
+var TagManager, MessageQueue, RootObject, CacheManager, RestManager;
 var MQ = "MQ-";
 var LogLevel = {
 TRACE : "trace", 
@@ -60,22 +82,36 @@ var started = function () {
 };	
 var getDataProvider = function () {
 };
+var stateChange = function () {
+};
+var hasMethod = function (prop) {
+if ( typeof "string".__proto__ === "object" ) {
+return typeof this.__proto__[prop] === "function";
+} else {
+return constructor.prototype.hasOwnProperty(prop);
+}
+};
 return {
 constructor : constructor,
 initialize : initialize,
 load : load,
 click : click,
 started : started,
-getDataProvider : getDataProvider
+stateChange : stateChange,
+getDataProvider : getDataProvider,
+hasMethod : hasMethod
 };
 };
 MessageQueue = objectifier("MessageQueue",{
 constructor: function () {
-this.queueMode = false;
+this.queueMode = true;
 this.MQ = [];
 },
+makeEventName : function (eventName) {
+return eventName.replace(" ", "_").replace(".", "||");
+},		
 broadcast: function (element, event, data) {
-event = event.replace(" ", "_");
+event = this.makeEventName(event);
 if (this.queueMode) {
 this.MQ.push({
 event: MQ + event,
@@ -99,7 +135,8 @@ jQuery(element).trigger(MQ + event, [data]);
 }
 },
 listen : function (elements, event, callback, isDelegate) {
-event = event.replace(" ", "_");
+event = this.makeEventName(event);
+//event = event.replace(" ", "_").replace(".", "||");
 if (isDelegate) {
 jQuery(document).delegate(elements, MQ + event, callback);
 } else {
@@ -108,6 +145,7 @@ jQuery(elements).bind(MQ + event, callback);
 this.log(LogLevel.DEBUG,"Listening for " + MQ + event);
 },
 remove: function (elements, event, callback) {
+event = this.makeEventName(event);
 if (callback) {
 jQuery(elements).unbind(MQ + event, callback);
 } else {
@@ -122,8 +160,10 @@ resume: function () {
 var len;
 for (var i = 0, len = this.MQ.length; i < len; i++) {
 var q = this.MQ[i];
+this.log(LogLevel.DEBUG,"Unqueued " + q.event);
 jQuery(q.element).trigger(q.event, [q.data]);
 }
+this.MQ = [];
 this.queueMode = false;
 },
 log : function (level, s) {
@@ -146,6 +186,80 @@ else if (level=="trace") console.debug(s);
 else if (level=="debug") console.debug(s);
 else if (level=="error") console.error(s);
 }
+var remdebug = read("remdebug");
+if (typeof remdebug != null && remdebug == "true") {
+$.fx.off = true;
+}
+}
+});
+CacheManager = objectifier("CacheManager", {
+constructor : function () {
+},
+getCacheKey : function () {
+},
+set : function () {
+},
+get : function () {
+}
+});
+RestManager = objectifier("RestManager", {
+constructor : function ( ) {
+this.services = {};
+},
+add : function ( serviceString ) {
+var service = {};
+service.dataType = "json";
+var s = serviceString.split("~");
+service.version = s[0].substring(3, s[0].length);
+service.sd = s[1].split("#");
+service.name = service.sd[0];
+service.scope = service.sd[1];
+service.parameters = service.sd[2];
+service.returnValues = service.sd[3];
+s = service.parameters.split("\^");
+service.key = s[0];
+service.field = s[1];			
+service.data = {};
+this.services[service.name] = service;
+},
+contains : function (serviceString) {
+if (typeof this.services[this.getServiceName(serviceString)] == "object") return true;
+return false;
+},
+getServiceName : function (serviceString) {
+var service = {};
+service.dataType = "json";
+var s = serviceString.split("~");
+service.version = s[0].substring(3, s[0].length);
+service.sd = s[1].split("#");
+service.name = service.sd[0];
+service.scope = service.sd[1];
+service.parameters = service.sd[2];
+service.returnValues = service.sd[3];			
+return service.name;
+},
+getService : function (serviceString) {
+var serviceName = this.getServiceName(serviceString);
+return this.services[serviceName];
+},
+load : function ( serviceString ) {
+var service = this.getService(serviceString);
+jQuery.ajax({cache:false, async:false, url:"/cs/ContentServer?pagename=WEBA_ENGInE/service/Rest/v" + service.version + "/" + service.name}).done( function (jsonData) {
+// TODO: only support for a global load, still some hardcodes.
+var d = jsonData[service.name]; 
+for (var i = 0; i < d.length; i++) {
+service.data[d[i][service.key]] = d[i];
+}
+TK.log(LogLevel.DEBUG, d.length + " elements loaded from " + service.name);											
+}.bind(this));
+},
+set : function () {
+},
+get : function ( serviceString, key ) {
+var serviceName = this.getServiceName(serviceString);
+var service = this.services[serviceName];
+var test = service.data[key][service.returnValues];
+return test;
 }
 });
 TagManager = objectifier("TagManager",{
@@ -154,12 +268,10 @@ this.tags = [];
 this.providers = [];
 this.eventHandlers = [];
 },
+getObjectRef : function (obj, s) {
+return s.split(".").reduce(function(o, ref) { return o[ref] }, obj);
+},
 replacePlaceholders : function (property, data, forceLc) {
-/* GUX WA
-for (var d in data) {
-property = property.replace("<" + d + ">", data[d]);
-}
-*/
 for (var d in data) {
 if (typeof data[d] == "string" && forceLc) { 
 property = property.replace("<" + d + ">", data[d].toLowerCase());
@@ -189,8 +301,8 @@ tokens = [property];
 //2.	`nameplate`
 var tlen = tokens.length;
 for (var t = 0; t<tlen; t++) {
-// REALLY weird chromium bug - need to reset the pattern - TODO: try with a real RegExp object
-//var pattern = /\[?<([a-z][a-z0-9\s\(\).]*)[^>]*>\]?/gi;
+// REALLY weird chromium bug - need to reset the pattern - TODO: issue with the global flag
+//var pattern = /\[?<([a-z][a-z0-9\s\(\).]*)[^>]*>\]?/gi; - 
 var pattern = /<([a-z][a-z0-9\s\(\).]*)[^>]*>/gi;
 var matches;
 //var matches = pattern.exec(tokens[t]);
@@ -202,8 +314,18 @@ for (var i = 0; i < matches.length; i++) {
 if (matches[i].substring(0,1) == '<') {
 var p = matches[i].substring(1, matches[i].length-1);
 try {
+// check for json
+//"JSA100~nameplates~modelYear~{config.model}"
+if (p.lastIndexOf("JSA",0) === 0) {
+// JSON
+TK.log(LogLevel.DEBUG, p);
+if (! TK.RestManager.contains(p)) {
+TK.RestManager.add(p);
+TK.RestManager.load(p);
+}
+property = property.replace("<" + p + ">", TK.RestManager.get(p, this.getObjectRef(data, TK.RestManager.getService(p).field)));
+} else if (typeof eval("data." + p) != 'undefined') {
 // specific data is prioritized
-if (typeof eval("data." + p) != 'undefined') {
 //property = property.replace(matches[i], eval("data." + p)).toLowerCase();
 // GUX WE.
 if (forceLc) {
@@ -243,13 +365,13 @@ return property;
 },
 bootstrap: function(provider, data) {
 var inst = this.providers[provider];
-if (inst.__proto__.hasOwnProperty("started")) {
+if (inst.hasMethod("started")) {
 inst["started"](data);
 } 			
 if (data.events != undefined) {
 for (var i = 0; i < data.events.length; i++) {
 //Object.keys(data.events[i])[0]
-var key = Object.keys(data.events[i])[0].replace(" ", "_");
+var key = TK.makeEventName(Object.keys(data.events[i])[0]);
 this.tags[key] = data.events[i][Object.keys(data.events[i])[0]];
 if (this.tags[key].hasOwnProperty("_default")) {
 if (typeof this.providers[provider]["pageload"] != "undefined") {
@@ -285,7 +407,31 @@ TK.log(LogLevel.ERROR,"ERR:EVENTTYPE_NOT_SPECIFIED");
 }
 },
 stateChange : function(provider, data) {
-this.bootstrap (provider, data);
+var inst = this.providers[provider];
+if (inst) {
+if (inst.hasOwnProperty("stateChange")) {
+inst["stateChange"](data);
+}
+} else {
+TK.listen(document.body, "stateChange", function (e, data) {
+var inst = TK.TagManager.providers[data["provider"]];
+if (inst) {
+inst["stateChange"](data);
+} else TK.log(LogLevel.ERROR,"ERR:PROVIDER_UNAVAILABLE_STATE_CHANGE " + data["provider"]);
+}, true);
+data["provider"] = provider;
+TK.broadcast(document.body, 'stateChange', data);		
+}
+//this.bootstrap (provider, data);
+// fire the provider's state change with the data payload
+/*
+TK.listen(document.body, "stateChange", function (provider, data) {
+//TK.TagManager.invokeProviders(e, data);
+TK.TagManager.bootstrap (provider, data);
+}, true);
+TK.broadcast(document.body, 'stateChange', provider,data);			
+//			this.bootstrap (provider, data);
+*/
 }, 		
 get : function(tag) {
 return this.tags[provider][tag];
@@ -300,13 +446,14 @@ TK.TagManager.bootstrap(provider, data);
 }
 },
 invokeProviders : function (event, data) {
+//TK.resume();
 var eventName = event.type.substr(MQ.length);
 try {
 for (var p in this.providers) {
 var inst = this.providers[p];
 if (inst[eventName] != undefined) {
 var def = this.providers[p][eventName];
-if (inst.__proto__.hasOwnProperty(def["_event"])) {
+if (inst.hasMethod(def["_event"])) {
 inst[def["_event"]](event, def, data);
 } else {
 TK.log(LogLevel.ERROR,"ERR:METHOD_UNSUPPORTED_BY_PROVIDER [" + def["_event"] + "]");
@@ -325,6 +472,8 @@ TK.log(LogLevel.ERROR, e);
 window.TK = new MessageQueue();
 window.TK.LogLevel = LogLevel;	
 window.TK.TagManager = new TagManager();
+window.TK.CacheManager = new CacheManager();
+window.TK.RestManager = new RestManager();
 window.TK.ProviderBase = ProviderBase;
 }())
 );

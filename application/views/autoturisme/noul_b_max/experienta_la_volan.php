@@ -221,29 +221,19 @@
         <ul>
             <li><a href="/Autoturisme/NoulB-MAX/Prezentare#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/NoulB-MAX/Prezentare">Prezentare general&#259;</a>
             </li>
-            <li><a href="/Autoturisme/NoulB-MAX/Design#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/NoulB-MAX/Design">Design</a>
+            <li ><a href="/Autoturisme/NoulB-MAX/Design#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/NoulB-MAX/Design">Design</a>
             </li>
-            <li class="selected"><a href="/Autoturisme/NoulB-MAX/ExperientaLaVolan#primaryTabs" data-ajaxlink="/Autoturisme/NoulB-MAX/ExperientaLaVolan">Experien&#539;a la volan</a>
+            <li class="selected"><a href="/Autoturisme/NoulB-MAX/ExperientaLaVolan#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/NoulB-MAX/ExperientaLaVolan">Experien&#539;a la volan</a>
+            </li>
+            <li><a href="/Autoturisme/NoulB-MAX/PreturisiPromotii#primaryTabs" data-ajaxlink="/Autoturisme/NoulB-MAX/PreturisiPromotii">PRE&#354;URI &#350;I PROMO&#354;II</a>
             </li>
             <li><a href="/Autoturisme/NoulB-MAX/PerformantaSiEficienta#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/NoulB-MAX/PerformantaSiEficienta">Performan&#355;&#259; &#351;i eficien&#355;&#259;</a>
             </li>
-            <li><a href="/Autoturisme/NoulB-MAX/Siguranta#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/NoulB-MAX/Siguranta">Siguran&#539;&#259;</a>
-            </li>
-            <li><a href="#" id="moreTab">Mai multe...</a><span></span></li>
+            <li><a href="/Autoturisme/NoulB-MAX/Siguranta">Siguran&#539;&#259;</a></li>
         </ul>
     </nav>
 </div>
-<nav class="sub-nav ">
-    <ul>
-        <li><a href="/Autoturisme/NoulB-MAX/MaterialeDescarcabile"
-                >Materiale Desc&#259;rcabile</a></li>
-        <li><a href="/Autoturisme/NoulB-MAX/ListaPreturi"
-                >List&#259; de pre&#539;uri</a></li>
-    </ul>
-    <aside class="sub-nav-heading">
-        <div>Mai multe...</div>
-    </aside>
-</nav>
+
 <!--This is where the main content for the selected tab will go -->
 <article class="nameplate-main-content" id="tabs">
 <section class="bto-wrapper">
@@ -729,9 +719,6 @@
     </script>
     <!-- AddThis Button BEGIN -->
     <script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
-    <a class='addthis_button' href="http://www.addthis.com/bookmark.php?v=250&amp;username=engineps">
-        <img src="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214384086466&#38;blobkey=id" border="0" alt="Adaugă" title="Adaugă"  height = '24'  width = '186' />
-    </a>
     <script type="text/javascript" src='http://s7.addthis.com/js/250/addthis_widget.js?username=engineps'></script>
     <script type="text/javascript">
         var addthis_config = addthis_preconfig_variables;

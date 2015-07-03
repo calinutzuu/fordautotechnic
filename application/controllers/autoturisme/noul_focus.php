@@ -16,6 +16,13 @@
                 ->build('autoturisme/noul_focus/prezentare_generala');
         }
 
+        public function preturi_si_promotii()
+        {
+            $this->template
+                ->title('Noul Focus - Preturi si promotii', 'Ford AutoTechnic')
+                ->build('autoturisme/noul_focus/preturi_si_promotii');
+        }
+
         public function design()
         {
             $this->template

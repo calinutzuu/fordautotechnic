@@ -9,6 +9,13 @@ class Focus_ST extends CI_Controller
             ->build('autoturisme/focus_st');
     }
 
+    public function prezentare_generala()
+    {
+        $this->template
+            ->title('Ford Focus ST - Prezentare generala', 'Ford AutoTechnic')
+            ->build('autoturisme/focus_st/prezentare_generala');
+    }
+
     public function design()
     {
         $this->template
@@ -21,6 +28,13 @@ class Focus_ST extends CI_Controller
         $this->template
             ->title('Ford Focus ST - Experien&#355;a la volan', 'Ford AutoTechnic')
             ->build('autoturisme/focus_st/experienta_la_volan');
+    }
+
+    public function preturi_si_promotii()
+    {
+        $this->template
+            ->title('Ford Focus ST - Preturi si promotii', 'Ford AutoTechnic')
+            ->build('autoturisme/focus_st/preturi_si_promotii');
     }
 
     public function performanta()
