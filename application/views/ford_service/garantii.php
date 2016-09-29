@@ -114,43 +114,7 @@
             });
         </script>
         <div id="mdp">
-            <object id="flash_1204961325269" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="780" height="439">
-                <param name="allowFullScreen" value="true">
-                <param name="movie"		value="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214411953338&#38;blobkey=id" />
-                <param name="Play" value='True' >
-                <param name="loop"		value="True" />
-                <param name="quality"	value="" />
-                <param name="align"		value="" />
-                <param name="salign"	value="" />
-                <param name="BgColor"	value="" />
-                <param name="scale"		value="" />
-                <param name="menu"		value="False" />
-                <param name="wmode"		value="Transparent" />
-                <param name="base"		value="" />
-                <param name="flashvars"	value="" />
-                <!--[if !IE]>-->
-                <object id="flash_1204961325269" type="application/x-shockwave-flash" data="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214411953338&#38;blobkey=id" width="780" height="439">
-                    <param name="allowFullScreen" value="true">
-                    <param name="Play" value='True' >
-                    <param name="loop"		value="True" />
-                    <param name="quality"	value="" />
-                    <param name="align"		value="" />
-                    <param name="salign"	value="" />
-                    <param name="BgColor"	value="" />
-                    <param name="scale"		value="" />
-                    <param name="menu"		value="False" />
-                    <param name="wmode"		value="Transparent" />
-                    <param name="base"		value="" />
-                    <param name="flashvars"	value="" />
-                    <!--<![endif]-->
-                    <img src="/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobwhere=1214411953337&blobkey=id" width="780" height="439" alt="" border="0" />
-                    <script type="text/javascript">
-                        var noFlash = true;
-                    </script>
-                    <!--[if !IE]>-->
-                </object>
-                <!--<![endif]-->
-            </object>
+            <img src='/assets/img/service/1214411953337.jpg' >
         </div>
         <div class="mdp2" id="mdpImageControl" style="display:none">
             <table>
@@ -242,7 +206,7 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1204961325269'); return false
                     <div class="BTIImage">
                         <div class="imgNonZoom">
                             <img
-                                    src="/assets/img/service/1214403343967.jpg"
+                                    src="/assets/img/service/1214562130296.jpg"
                                     border="0" width="97"
                                     height="97"
                                     alt="Garanţie extinsă "
@@ -332,7 +296,7 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1204961325269'); return false
     <div class="center_item">
         <!--<START_MPP001 >-->
         <div class="mid_page_promo">
-            <a href='http://www.ford.ro/Garantii/FordGarantia12?S3path=INT_Promo_Image_Garantia12_jos'  target="_self" >
+            <a href='/FordService/GarantiiSiRevizii/FordGarantia12'  target="_self" >
                 <img src="/assets/img/service/1214411068434.jpg" border="0" alt="Programul FordGaranţia12" title="Programul FordGaranţia12"  height = '90'  width = '560' />
             </a>
         </div>

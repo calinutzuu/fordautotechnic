@@ -54,12 +54,7 @@
             </ul>
             <div class="navdivider"></div>
             <ul id="nextSteps" class="nextSteps">
-                <li id='menu1205075514590' class=''>
-                    <a href='/VehiculeComerciale/Transit-Courier/Oferta_Speciala_TransitCourier'>Ofert&#259; special&#259; Transit Courier</a>
-                    <script type="text/javascript">
-                        document.id('menu1205075514590').addClass("navnextSteps");
-                    </script>
-                </li>
+
                 <li id='menu1205071929541' class=''>
                     <a href='/VehiculeComerciale/Transit-Courier/PrezentareGenerala'>Prezentare general&#259;</a>
                     <script type="text/javascript">
@@ -275,28 +270,7 @@ return false;"
             </thead>
         </table>
     </div>
-    <div
-            id="tab001-tab-1"
-            class="tab001_item last unselected_last unselected "
-            style="text-align:center;">
-        <table cellpadding="0" cellspacing="0" border="0" title="Confort">
-            <thead>
-            <tr>
-                <td class="tab001_header_arrow"><a href="/VehiculeComerciale/Transit-Courier/ExperientaLaVolan/tabid=tab1" class="tab_anchor"></a></td>
-                <td class="tab001_header_label" valign="middle" style="height:41px;vertical-align:middle;">
-                    <!-- 	TD 8174 jhe method has been called from here to escape special characters -->
-                    <a
-                            href="/VehiculeComerciale/Transit-Courier/ExperientaLaVolan/tabid=tab1"
-                            onclick="tab001SelectTab('1');
-if(typeof(sford)=='object')setOmnitureTabName('Confort');
-return false;"
-                            onmouseover="tab001HoverTab('1', true);"
-                            onmouseout="tab001HoverTab('1', false);"
-                            class="tab_anchor">Confort</a></td>
-            </tr>
-            </thead>
-        </table>
-    </div>
+
 </div><!-- END OF HEADER -->
 <div class="tab001_divider"></div>
 <div class="tab001_content_container">
@@ -413,6 +387,243 @@ return false;"
                 <div class='BTIarticleBody'>
                     <div class='BTIarticleText'>
                         <div>Tempomatul prevăzut cu dispozitivul ajustabil de limitare a vitezei vă ajută să vă menţineţi utilitara &icirc;n limita de viteză prestabilită de către dumneavoastră. Pe l&acirc;ngă faptul că vă ajută să economisiţi combustibil, sistemul poate minimiza, de asemenea, posibilitatea ca dumneavoastră să depăşiţi limita de viteză. Desigur, tempomatul vă permite, de asemenea, să stabiliţi o viteză pe care ulterior o menţine pentru a vă oferi un condus mai relaxat &icirc;n timpul călătoriilor lungi pe autostradă.</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="BTIRow">
+            <div class="BTIOneItem">
+                <div class="BTIarticleTitle">
+                    Confort
+                </div>
+                <div class='BTIarticleBody'>
+                    <div class='BTIarticleText'>
+                        <div>Prin combinarea designului inteligent şi contemporan cu tehnologiile dezvoltate pentru a vă satisface nevoile, noul Transit Courier este atât un vehicul comercial eficient, cât şi un adevărat birou practic şi confortabil pe roţi.</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="BTIRow">
+            <div class="BTIOneItem">
+                <div class="BTIImage">
+                    <div class="imgZoom">
+
+                        <img
+                            src="/assets/img/transit_courier/1214480059498.jpg"
+                            border="0" width="97"
+                            height="97"
+                            alt="Doc MyFord"
+                            title="Doc MyFord"
+                            style="border: solid 1px #999999;">
+
+                    </div>
+                </div>
+                <div class="BTIarticleTitle">
+                    Un loc sigur pentru toate dispozitivele dumneavoastră
+                </div>
+                <div class='BTIarticleBody'>
+                    <div class='BTIarticleText'>
+                        <div>Docul MyFord este conceput pentru a vă ține dispozitivul de navigare prin satelit, smartphone-ul sau playerul MP3 și este prevăzut cu un un port USB.</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="BTIRow">
+            <div class="BTIOneItem">
+                <div class="BTIImage">
+                    <div class="imgZoom">
+
+                        <img
+                            src="/assets/img/transit_courier/1214480060265.jpg"
+                            border="0" width="97"
+                            height="97"
+                            alt="Opţiuni de depozitare inovatoare"
+                            title="Opţiuni de depozitare inovatoare"
+                            style="border: solid 1px #999999;">
+
+                    </div>
+                </div>
+                <div class="BTIarticleTitle">
+                    Depozitare sensibilă şi sigură
+                </div>
+                <div class='BTIarticleBody'>
+                    <div class='BTIarticleText'>
+                        <div>Ca orice loc de muncă bun, utilitara dumneavoastră este plină de compartimente de depozitare inteligente. Consola centrală include spaţiu pentru dosare A4, pentru a le avea mereu la îndemână. Pentru un plus de securitate, puteţi pune un laptop în compartimentul de sub scaun, pentru a-l feri de privirile indiscrete. Chiar şi panourile uşilor din faţă utilizează spaţiul în mod excelent, incluzând un suport pentru sticle de 1,5 litri şi 20 oz. în fiecare uşă, precum şi un suport util pentru fise pe partea pasagerului.</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="BTIRow">
+            <div class="BTIOneItem">
+                <div class="BTIImage">
+                    <div class="imgZoom">
+
+                        <img
+                            src="/assets/img/transit_courier/1214480066190.jpg"
+                            border="0" width="97"
+                            height="97"
+                            alt="Cel mai mare confort pentru șofer din clasa sa"
+                            title="Cel mai mare confort pentru șofer din clasa sa"
+                            style="border: solid 1px #999999;">
+
+                    </div>
+                </div>
+                <div class="BTIarticleTitle">
+                    Confortabil tot anul
+                </div>
+                <div class='BTIarticleBody'>
+                    <div class='BTIarticleText'>
+                        <div>Dimineţi cu gheaţă, zile caniculare de vară…. utilitara dumneavoastră vă va oferi întotdeauna un mediu de lucru plăcut. Cu ajutorul dotării opţionale – Sistemul de climatizare automată (EATC), selectați pur şi simplu temperatura interioară dorită iar sistemul o va menţine cu ajutorul sistemului avansat de climatizare. Perne de scaun încălzite sunt, de asemenea, disponibile ca opţiune pentru ambele scaune din faţă.</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="BTIRow">
+            <div class="BTIOneItem">
+                <div class="BTIImage">
+                    <div class="imgZoom">
+
+                        <img
+                            src="/assets/img/transit_courier/1214480058831.jpg"
+                            border="0" width="97"
+                            height="97"
+                            alt="Parbriz încălzit Quickclear"
+                            title="Parbriz încălzit Quickclear"
+                            style="border: solid 1px #999999;">
+
+                    </div>
+                </div>
+                <div class="BTIarticleTitle">
+                    Curăţaţi parbrizul rapid cu Quickclear
+                </div>
+                <div class='BTIarticleBody'>
+                    <div class='BTIarticleText'>
+                        <div>Această dotare inteligentă este creată pentru a vă permite să porniți rapid în dimineţile geroase. Nu trebuie decât să atingeţi un buton şi filamente extrem de subţiri se supraîncălzesc pentru a curăţa parbrizul de gheaţă, ceaţă şi abur, precum şi pentru a ajuta la dezgheţarea ştergătoarelor. Sistemul acţionează în câteva secunde, chiar şi la temperaturi negative.</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="BTIRow">
+            <div class="BTIOneItem">
+                <div class="BTIImage">
+                    <div class="imgZoom">
+
+                        <img
+                            src="/assets/img/transit_courier/1214480058537.jpg"
+                            border="0" width="97"
+                            height="97"
+                            alt="Sistemul de alimentare Ford Easy-Fuel"
+                            title="Sistemul de alimentare Ford Easy-Fuel"
+                            style="border: solid 1px #999999;">
+
+                    </div>
+                </div>
+                <div class="BTIarticleTitle">
+                    Ford Easy-Fuel, pentru alimentări fără probleme
+                </div>
+                <div class='BTIarticleBody'>
+                    <div class='BTIarticleText'>
+                        <div>Acesta face să fie practic imposibilă alimentarea greşită a autoutilitarei, deoarece duza pompei pur şi simplu nu se va potrivi. Şi pentru că Easy-Fuel este un sistem fără buşon, nu veţi mai avea de-a face niciodată cu un buşon murdar.</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="BTIRow">
+            <div class="BTIOneItem">
+                <div class="BTIImage">
+                    <div class="imgZoom">
+
+                        <img
+                            src="/assets/img/transit_courier/1214480060487.jpg"
+                            border="0" width="97"
+                            height="97"
+                            alt="Spaţiu de depozitare de dimensiune A4 în biroul mobil"
+                            title="Spaţiu de depozitare de dimensiune A4 în biroul mobil"
+                            style="border: solid 1px #999999;">
+
+                    </div>
+                </div>
+                <div class="BTIarticleTitle">
+                    Utilitara dumneavoastră: biroul dumneavoastră
+                </div>
+                <div class='BTIarticleBody'>
+                    <div class='BTIarticleText'>
+                        <div>Cu conectivitate mobilă încorporată în noul Transit Courier, nu a fost niciodată mai simplu să vă desfăşuraţi activitatea oriunde v-aţi afla. Astfel, cabina încorporează caracteristici proiectate pentru a vă ajuta să aveţi tot ce vă trebuie la îndemână. Dispuneţi de una sau două prize de 12 V, intrare auxiliară şi conectivitate USB, plus suporturi pentru pahare, spaţiu pentru un laptop sau dosare de dimensiune A4 şi o tavă de depozitare sub scaun.</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="BTIRow">
+            <div class="BTIOneItem">
+                <div class="BTIImage">
+                    <div class="imgZoom">
+
+                        <img
+                            src="/assets/img/transit_courier/1214480056832.jpg"
+                            border="0" width="97"
+                            height="97"
+                            alt="Ştergătoare automate pentru geamuri"
+                            title="Ştergătoare automate pentru geamuri"
+                            style="border: solid 1px #999999;">
+
+                    </div>
+                </div>
+                <div class="BTIarticleTitle">
+                    Ştergătoare care se reglează automat, în funcţie de ploaie
+                </div>
+                <div class='BTIarticleBody'>
+                    <div class='BTIarticleText'>
+                        <div>Ştergătoarele de parbriz cu senzor de ploaie se activează în secunda în care detectează stropi de apă pe parbrizul autovehiculului, iar apoi îşi reglează viteza pentru a face faţă oricăror condiţii meteo. Puteţi alege unul dintre cele şase niveluri de sensibilitate, care determină cât de multă umiditate trebuie să se acumuleze înainte ca ştergătoarele să intre în acţiune pentru a o îndepărta. Ştergătoarele cu senzor de ploaie sunt disponibile ca dotare opţională cu farurile automate (a se vedea mai jos)</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="BTIRow">
+            <div class="BTIOneItem">
+                <div class="BTIImage">
+                    <div class="imgZoom">
+
+                        <img
+                            src="/assets/img/transit_courier/1214480060635.jpg"
+                            border="0" width="97"
+                            height="97"
+                            alt="Faruri automate"
+                            title="Faruri automate"
+                            style="border: solid 1px #999999;">
+
+                    </div>
+                </div>
+                <div class="BTIarticleTitle">
+                    Faruri care se aprind automat atunci când este necesar
+                </div>
+                <div class='BTIarticleBody'>
+                    <div class='BTIarticleText'>
+                        <div>Noul Transit Courier este prevăzut cu senzori care detectează lumina când începe să se întunece sau la schimbarea bruscă a condiţiilor de iluminare. De exemplu, când intraţi într-un tunel. Atunci se activează farurile cu acţionare automată, care pot simplifica şi mări nivelul de siguranţă al condusului. Farurile automate sunt disponibile ca dotare opţională cu ştergătoarele cu senzor de ploaie.</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="BTIRow">
+            <div class="BTIOneItem">
+                <div class="BTIImage">
+                    <div class="imgZoom">
+
+                        <img
+                            src="/assets/img/transit_courier/1214480059424.jpg"
+                            border="0" width="97"
+                            height="97"
+                            alt="Sistem audio"
+                            title="Sistem audio"
+                            style="border: solid 1px #999999;">
+
+                    </div>
+                </div>
+                <div class="BTIarticleTitle">
+                    Coloana sonoră perfectă pentru fiecare deplasare
+                </div>
+                <div class='BTIarticleBody'>
+                    <div class='BTIarticleText'>
+                        <div>Cu opt Pachete de divertisment în maşină disponibile, toate cu radio AM/FM şi conectivitate USB/auxiliară, nu veţi duce niciodată lipsă de muzică, ştiri sau cele mai recente actualizări despre trafic. Boxele frontale ale tuturor sistemelor ICE, cu excepţia unităţilor de radio cu conexiune proprie ICE dispuse foarte jos pe panoul de bord (pachetele 1 şi 2), sun proiectate sub forma unui sistem premium, împărţit în boxe tweeter şi woofer. Boxele tweeter sunt amplasate pe stâlpul „A” pentru a oferi o calitate superioară a sunetului.</div>
                     </div>
                 </div>
             </div>

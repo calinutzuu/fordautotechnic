@@ -22,7 +22,7 @@ class ford_sync_bluetooth extends CI_Controller
     {
         $this->template
             ->set_layout('promotii')
-            ->title('Ford Service - Bluetooth cu Comanda Vocala ', 'Ford AutoTechnic')
+            ->title('Bluetooth_cu_comanda_vocala ', 'Ford AutoTechnic')
             ->build('ford_service/ford_sync_bluetooth/bluetooth_comanda_vocala');
     }
 
@@ -30,7 +30,7 @@ class ford_sync_bluetooth extends CI_Controller
     {
         $this->template
             ->set_layout('promotii')
-            ->title('Ford Service - Ford Sync 1 ', 'Ford AutoTechnic')
+            ->title('Ford_SYNC_1 ', 'Ford AutoTechnic')
             ->build('ford_service/ford_sync_bluetooth/ford_sync_1');
     }
 
@@ -48,6 +48,14 @@ class ford_sync_bluetooth extends CI_Controller
             ->set_layout('promotii')
             ->title('Ford Service - Catalogul de aplicatii Ford ', 'Ford AutoTechnic')
             ->build('ford_service/ford_sync_bluetooth/sync_applink');
+    }
+
+    public function ford_sync2()
+    {
+        $this->template
+            ->set_layout('promotii')
+            ->title('FordSYNC2 ', 'Ford AutoTechnic')
+            ->build('ford_service/ford_sync_bluetooth/ford_sync2');
     }
 
 }

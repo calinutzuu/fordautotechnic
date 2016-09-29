@@ -154,10 +154,79 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205055254153'); return false
     <div id="container_center">
         <div class="center_item">
             <div class="btoArticleTitle">Uită de griji, cu pachetul complet de revizii</div>
-            <div class="btoArticleText">
-                <div class="btoArticleAbstract">
-                    <div>Uită de grija reviziilor sau a altor operațiuni costisitoare. Pachetul de revizii Ford Service te ajută să ai mereu mașina &icirc;n stare bună de funcționare, te scutește de cumpăratul pieselor de schimb sau de timpul pierdut &icirc;n căutarea celui mai avantajos service auto. <br> <br> Ford Service te aşteaptă cu prețuri speciale la noile Pachete de Revizii, create &icirc;n funcție de model, pentru o anumită perioadă, numar de &icirc;ntreţineri de rutină şi kilometraj.<br> Alege-l pe cel potivit:</div><table width="100%" cellspacing="1" cellpadding="1" border="1">     <tbody>         <tr>             <td width="20%" align="center"><strong>Model</strong></td>             <td width="20%" align="center"><strong>Revizii oferite</strong></td>             <td width="35%" align="center"><strong>Pe o perioadă de 5 ani sau limită de kilometri:</strong></td>             <td width="25%" align="center"><strong>Pret cu TVA (Euro)</strong></td>         </tr>         <tr>             <td>Ka</td>             <td align="center" rowspan="3">4</td>             <td align="center" rowspan="3">80.000 Km</td>             <td align="center" rowspan="3">682</td>         </tr>         <tr>             <td>Fiesta</td>         </tr>         <tr>             <td>B-MAX</td>         </tr>         <tr>             <td>C-MAX</td>             <td align="center" rowspan="2">4</td>             <td align="center" rowspan="2">80.000 Km</td>             <td align="center" rowspan="2">744</td>         </tr>         <tr>             <td>Focus</td>         </tr>         <tr>             <td>Kuga</td>             <td align="center" rowspan="4">4</td>             <td align="center" rowspan="4">80.000 Km</td>             <td align="center" rowspan="4">930</td>         </tr>         <tr>             <td>Mondeo</td>         </tr>         <tr>             <td>Galaxy</td>         </tr>         <tr>             <td>S-MAX</td>         </tr>         <tr>             <td>Transit Connect</td>             <td align="center">4</td>             <td align="center">100.000 Km<br>             120.000 Km pentru modelul 2013</td>             <td align="center">930</td>         </tr>         <tr>             <td>Transit Custom</td>             <td align="center" rowspan="2">2</td>             <td align="center" rowspan="2">100.000 Km</td>             <td align="center" rowspan="2">372</td>         </tr>         <tr>             <td>Transit</td>         </tr>         <tr>             <td>Ranger</td>             <td align="center">3</td>             <td align="center">90.000 Km</td>             <td align="center">868</td>         </tr>     </tbody> </table> <div><br> <br> Pentru mai multe detalii, poţi <a TITLE="Termeni si conditii Pachete de Revizii (54,6 KB)" HREF="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheadervalue1=attachment%3Bfilename%3D%22Termeni+si+conditii+Pachete+de+Revizii.pdf%22&amp;blobheadervalue2=abinary%3Bcharset%3DUTF-8&amp;blobheadername1=Content-Disposition&amp;blobheadername2=MDT-Type&amp;blobheader=application%2Fpdf&amp;blobwhere=1214463158833&amp;blobkey=id" CLASS="download" onClick="if (typeof sford == 'object') omnitureLinkDownloadClick('owner:pdf download:vehicle checklist','','','','','pdf download','',false,'blank value','blank','blank value');" >descărca de aici</a> termenii și condițiile noului pachet de servicii, sau poţi contacta <a TITLE="Termeni si conditii Pachete de Revizii (54,6 KB)" HREF="/SBE/Ford/Dealeri/DealeriFord" CONTENTEDITABLE="false" >dealerul tău Ford</a>.</div>
-                </div>
+            <div class="btoArticleAbstract">
+                <div>Uită de grija reviziilor sau a altor operațiuni costisitoare. Pachetul de revizii Ford Service te ajută să ai mereu mașina &icirc;n stare bună de funcționare, te scutește de cumpăratul pieselor de schimb sau de timpul pierdut &icirc;n căutarea celui mai avantajos service auto. <br>
+                    <br>
+                    Ford Service te aşteaptă cu prețuri speciale la noile Pachete de Revizii, create &icirc;n funcție de model, pentru o anumită perioadă, numar de &icirc;ntreţineri de rutină şi kilometraj.<br>
+                    Alege-l pe cel potivit:<br><br></div>
+                <table width="100%" cellspacing="1" cellpadding="0" bordercolor="#FFFFFF" border="1" style="border-collapse: collapse; border-color: rgb(255, 255, 255); border-width: 1px;">
+                    <tbody>
+                    <tr height="50">
+                        <td width="20%" style="text-align: center;vertical-align: middle;background-color:#42596B; border-collapse: collapse; border-color: rgb(255, 255, 255); border-width: 1px;"><strong><font color="#FFFFFF">Model</font></strong></td>
+                        <td width="20%" style="text-align: center;vertical-align: middle;background-color:#42596B; border-collapse: collapse; border-color: rgb(255, 255, 255); border-width: 1px;"><strong><font color="#FFFFFF">Revizii oferite</font></strong></td>
+                        <td width="35%" style="text-align: center;vertical-align: middle;background-color:#42596B; border-collapse: collapse; border-color: rgb(255, 255, 255); border-width: 1px;"><strong><font color="#FFFFFF">Pe o perioadă de 5 ani sau limită de kilometri:</font></strong></td>
+                        <td width="25%" style="text-align: center;vertical-align: middle;background-color:#42596B; border-collapse: collapse; border-color: rgb(255, 255, 255); border-width: 1px;"><strong><font color="#FFFFFF">Pret cu TVA (Euro)</font></strong></td>
+                    </tr>
+                    <tr height="30">
+                        <td style="text-align: left;vertical-align: middle;background-color:#ededed; border-color: rgb(255, 255, 255); border-width: 1px;">&nbsp; Ka</td>
+                        <td style="text-align: center;vertical-align: middle;background-color:#ededed; border-color: rgb(255, 255, 255); border-width: 1px;" rowspan="3">4</td>
+                        <td align="center" rowspan="3" style="text-align: center;vertical-align: middle;background-color:#ededed; border-color: rgb(255, 255, 255); border-width: 1px;">80.000 Km</td>
+                        <td align="center" style="text-align: center;vertical-align: middle;background-color:#ededed; border-color: rgb(255, 255, 255); border-width: 1px;" rowspan="3">682</td>
+                    </tr>
+                    <tr height="30">
+                        <td style="text-align: left;vertical-align: middle;background-color:#ededed; border-color: rgb(255, 255, 255); border-width: 1px;">&nbsp; Fiesta</td>
+                    </tr>
+                    <tr height="30">
+                        <td style="text-align: left;vertical-align: middle;background-color:#ededed; border-color: rgb(255, 255, 255); border-width: 1px;">&nbsp; B-MAX</td>
+                    </tr>
+                    <tr height="30">
+                        <td style="text-align: left;vertical-align: middle;">&nbsp; C-MAX</td>
+                        <td rowspan="2" style="text-align: center;vertical-align: middle;">4</td>
+                        <td rowspan="2" style="text-align: center;vertical-align: middle;">80.000 Km</td>
+                        <td rowspan="2" style="text-align: center;vertical-align: middle;">744</td>
+                    </tr>
+                    <tr height="30">
+                        <td style="text-align: left;vertical-align: middle;">&nbsp; Focus</td>
+                    </tr>
+                    <tr height="30">
+                        <td style="text-align: left;vertical-align: middle;background-color:#ededed; border-color: rgb(255, 255, 255); border-width: 1px;">&nbsp; Kuga</td>
+                        <td align="center" style="text-align: center;vertical-align: middle;background-color:#ededed; border-color: rgb(255, 255, 255); border-width: 1px;" rowspan="4">4</td>
+                        <td align="center" style="text-align: center;vertical-align: middle;background-color:#ededed; border-color: rgb(255, 255, 255); border-width: 1px;" rowspan="4">80.000 Km</td>
+                        <td align="center" style="text-align: center;vertical-align: middle;background-color:#ededed; border-color: rgb(255, 255, 255); border-width: 1px;" rowspan="4">930</td>
+                    </tr>
+                    <tr height="30">
+                        <td style="text-align: left;vertical-align: middle;background-color:#ededed; border-color: rgb(255, 255, 255); border-width: 1px;">&nbsp; Mondeo &le; 2014</td>
+                    </tr>
+                    <tr height="30">
+                        <td style="text-align: left;vertical-align: middle;background-color:#ededed; border-color: rgb(255, 255, 255); border-width: 1px;">&nbsp; Galaxy</td>
+                    </tr>
+                    <tr height="30">
+                        <td style="text-align: left;vertical-align: middle;background-color:#ededed; border-color: rgb(255, 255, 255); border-width: 1px;">&nbsp; S-MAX</td>
+                    </tr>
+                    <tr height="60">
+                        <td style="text-align: left;vertical-align: middle;">&nbsp; Transit Connect</td>
+                        <td style="text-align: center;vertical-align: middle;">4</td>
+                        <td style="text-align: center;vertical-align: middle;">100.000 Km<br>
+                            120.000 Km pentru modelul 2013</td>
+                        <td style="text-align: center;vertical-align: middle;">930</td>
+                    </tr>
+                    <tr height="30">
+                        <td style="text-align: left;vertical-align: middle;background-color:#ededed; border-color: rgb(255, 255, 255); border-width: 1px;">&nbsp; Transit Custom</td>
+                        <td align="center" rowspan="2" style="text-align: center;vertical-align: middle;background-color:#ededed; border-color: rgb(255, 255, 255); border-width: 1px;">2</td>
+                        <td align="center" rowspan="2" style="text-align: center;vertical-align: middle;background-color:#ededed; border-color: rgb(255, 255, 255); border-width: 1px;">100.000 Km</td>
+                        <td align="center" rowspan="2" style="text-align: center;vertical-align: middle;background-color:#ededed; border-color: rgb(255, 255, 255); border-width: 1px;">372</td>
+                    </tr>
+                    <tr height="30">
+                        <td style="text-align: left;vertical-align: middle;background-color:#ededed; border-color: rgb(255, 255, 255); border-width: 1px;">&nbsp; Transit</td>
+                    </tr>
+                    <tr height="30">
+                        <td style="text-align: left;vertical-align: middle;">&nbsp; Ranger</td>
+                        <td style="text-align: center;vertical-align: middle;">3</td>
+                        <td style="text-align: center;vertical-align: middle;">90.000 Km</td>
+                        <td style="text-align: center;vertical-align: middle;">868</td>
+                    </tr>
+                    </tbody>
+                </table>
             </div>
         </div>
         <div class="center_item">

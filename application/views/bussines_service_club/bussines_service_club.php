@@ -43,7 +43,7 @@
             <table>
                 <tr>
                     <td id="mdp2Fullscreen">
-                        <a href="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214437291836&amp;blobkey=id" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214437291836&amp;blobkey=id', 'Ford+Business+Service+Club');
+                        <a href="#" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214437291836&amp;blobkey=id', 'Ford+Business+Service+Club');
 if(typeof(sford)=='object') omnitureMDPFullScreen('1205025069541'); return false;" >
                             Fullscreen
                         </a>

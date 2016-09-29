@@ -85,18 +85,7 @@
                         document.id('menu1205022343958').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205022341731' class=''>
-                    <a href='/VehiculeComerciale/NoulTourneoCustom/Modele'>Modele</a>
-                    <script type="text/javascript">
-                        document.id('menu1205022341731').addClass("navnextSteps");
-                    </script>
-                </li>
-                <li id='menu1205022342948' class=''>
-                    <a href='/VehiculeComerciale/NoulTourneoCustom/ListaPreturi'>List&#259; de pre&#539;uri </a>
-                    <script type="text/javascript">
-                        document.id('menu1205022342948').addClass("navnextSteps");
-                    </script>
-                </li>
+
             </ul>
             <div class="navbottom"></div>
         </div>
@@ -125,7 +114,7 @@
             <table>
                 <tr>
                     <td id="mdp2Fullscreen">
-                        <a href="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214435531378&amp;blobkey=id" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214435531378&amp;blobkey=id', 'Tourneo+Custom+design+nou');
+                        <a href="" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214435531378&amp;blobkey=id', 'Tourneo+Custom+design+nou');
 if(typeof(sford)=='object') omnitureMDPFullScreen('1205022345132'); return false;" >
                             Fullscreen
                         </a>
@@ -271,7 +260,7 @@ return false;"
     </div>
     <div
             id="tab001-tab-1"
-            class="tab001_item last unselected_last unselected "
+            class="tab001_item first selected_first selected"
             style="text-align:center;">
         <table cellpadding="0" cellspacing="0" border="0" title="Confort">
             <thead>
@@ -319,7 +308,7 @@ return false;"
                                     style="border: solid 1px #999999;">
                         </a>
                         <div>
-                            <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435531866&#38;blobkey=id" target="_blank" id="izid508171205022346022" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435531866&#38;blobkey=id','image','Camera mers inapoi','Închide'); return false;"></a>
+                            <a href="" class="imgZoom_png"></a>
                         </div>
                     </div>
                 </div>
@@ -347,8 +336,7 @@ return false;"
                                     style="border: solid 1px #999999;">
                         </a>
                         <div>
-                            <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435527957&#38;blobkey=id" target="_blank" id="izid33342511205022342354" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435527957&#38;blobkey=id','image','Senzori de parcare','Închide'); return false;"></a>
-                        </div>
+                            <a href="" class="imgZoom_png"></a>                        </div>
                     </div>
                 </div>
                 <div class="BTIarticleTitle">
@@ -375,8 +363,7 @@ return false;"
                                     style="border: solid 1px #999999;">
                         </a>
                         <div>
-                            <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435531439&#38;blobkey=id" target="_blank" id="izid46775011205022345219" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435531439&#38;blobkey=id','image','Manevrare usoara noaptea','Închide'); return false;"></a>
-                        </div>
+                            <a href="" class="imgZoom_png"></a>                        </div>
                     </div>
                 </div>
                 <div class="BTIarticleTitle">
@@ -403,8 +390,7 @@ return false;"
                                     style="border: solid 1px #999999;">
                         </a>
                         <div>
-                            <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435528811&#38;blobkey=id" target="_blank" id="izid98342361205022343972" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435528811&#38;blobkey=id','image','Limitator de viteza','Închide'); return false;"></a>
-                        </div>
+                            <a href="" class="imgZoom_png"></a>                        </div>
                     </div>
                 </div>
                 <div class="BTIarticleTitle">
@@ -419,7 +405,7 @@ return false;"
         </div>
     </div>
 </div>
-<div id="tab001-contentpane-1" class="tab001-pane-unselected">
+<div id="tab001-contentpane-0" class="tab001-pane-selected">
 <div class="tab001_TabTop_IntroText" >
     <div class="btoArticleTitle"></div>
     <div class="btoArticleText">
@@ -443,8 +429,7 @@ return false;"
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435531744&#38;blobkey=id" target="_blank" id="izid11428871205022345753" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435531744&#38;blobkey=id','image','Configurare flexibila','Închide'); return false;"></a>
-                </div>
+                    <a href="" class="imgZoom_png"></a>                </div>
             </div>
         </div>
         <div class="BTIarticleTitle">
@@ -473,8 +458,7 @@ return false;"
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435529055&#38;blobkey=id" target="_blank" id="izid22066151205022344530" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435529055&#38;blobkey=id','image','Ford SYNC hands-free','Închide'); return false;"></a>
-                </div>
+                    <a href="" class="imgZoom_png"></a>                </div>
             </div>
         </div>
         <div class="BTIarticleTitle">
@@ -505,8 +489,7 @@ return false;"
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435528750&#38;blobkey=id" target="_blank" id="izid46674711205022343864" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435528750&#38;blobkey=id','image','Portbagaj exterior','Închide'); return false;"></a>
-                </div>
+                    <a href="" class="imgZoom_png"></a>                </div>
             </div>
         </div>
         <div class="BTIarticleTitle">
@@ -533,8 +516,7 @@ return false;"
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435528384&#38;blobkey=id" target="_blank" id="izid42986331205022343204" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435528384&#38;blobkey=id','image','Scaune incalzite','Închide'); return false;"></a>
-                </div>
+                    <a href="" class="imgZoom_png"></a>                </div>
             </div>
         </div>
         <div class="BTIarticleTitle">
@@ -561,8 +543,7 @@ return false;"
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435528994&#38;blobkey=id" target="_blank" id="izid4116771205022344343" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435528994&#38;blobkey=id','image','Usi glisante','Închide'); return false;"></a>
-                </div>
+                    <a href="" class="imgZoom_png"></a>                </div>
             </div>
         </div>
         <div class="BTIarticleTitle">
@@ -589,8 +570,7 @@ return false;"
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435528140&#38;blobkey=id" target="_blank" id="izid24176751205022342704" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435528140&#38;blobkey=id','image','Spatii de depozitare','Închide'); return false;"></a>
-                </div>
+                    <a href="" class="imgZoom_png"></a>                </div>
             </div>
         </div>
         <div class="BTIarticleTitle">
@@ -617,8 +597,7 @@ return false;"
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435528018&#38;blobkey=id" target="_blank" id="izid31541651205022342494" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435528018&#38;blobkey=id','image','Sistem multimedia','Închide'); return false;"></a>
-                </div>
+                    <a href="" class="imgZoom_png"></a>                </div>
             </div>
         </div>
         <div class="BTIarticleTitle">
@@ -645,8 +624,7 @@ return false;"
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435528933&#38;blobkey=id" target="_blank" id="izid89109771205022344247" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435528933&#38;blobkey=id','image','Senzori de ploaie','Închide'); return false;"></a>
-                </div>
+                    <a href="" class="imgZoom_png"></a>                </div>
             </div>
         </div>
         <div class="BTIarticleTitle">
@@ -673,8 +651,7 @@ return false;"
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435534942&#38;blobkey=id" target="_blank" id="izid36111151205022341841" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435534942&#38;blobkey=id','image','Faruri automate','Închide'); return false;"></a>
-                </div>
+                    <a href="" class="imgZoom_png"></a>                </div>
             </div>
         </div>
         <div class="BTIarticleTitle">
@@ -701,8 +678,7 @@ return false;"
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435531988&#38;blobkey=id" target="_blank" id="izid36852971205022346214" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435531988&#38;blobkey=id','image','Parbriz incalzit','Închide'); return false;"></a>
-                </div>
+                    <a href="" class="imgZoom_png"></a>                </div>
             </div>
         </div>
         <div class="BTIarticleTitle">
@@ -729,8 +705,7 @@ return false;"
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435529238&#38;blobkey=id" target="_blank" id="izid19314251205022344820" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435529238&#38;blobkey=id','image','Buson combustibil','Închide'); return false;"></a>
-                </div>
+                    <a href="" class="imgZoom_png"></a>                </div>
             </div>
         </div>
         <div class="BTIarticleTitle">
@@ -757,8 +732,7 @@ return false;"
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435534698&#38;blobkey=id" target="_blank" id="izid41984151205022341341" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435534698&#38;blobkey=id','image','Oglinzi rabatabile','Închide'); return false;"></a>
-                </div>
+                    <a href="" class="imgZoom_png"></a>                </div>
             </div>
         </div>
         <div class="BTIarticleTitle">
@@ -777,7 +751,7 @@ return false;"
             <div class="">
 
                     <img
-                            src="/assets/img/noul_tourneo_custom/1214435528690."
+                            src="/assets/img/noul_tourneo_custom/1214435528690.jpg"
                             border="0" width="97"
                             height="97"
                             alt="Tourneo Custom - far"
@@ -785,8 +759,7 @@ return false;"
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435528689&#38;blobkey=id" target="_blank" id="izid8175871205022343677" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435528689&#38;blobkey=id','image','Tourneo Custom - far','Închide'); return false;"></a>
-                </div>
+                    <a href="" class="imgZoom_png"></a>                </div>
             </div>
         </div>
         <div class="BTIarticleTitle">

@@ -54,12 +54,7 @@
             </ul>
             <div class="navdivider"></div>
             <ul id="nextSteps" class="nextSteps">
-                <li id='menu1205075514590' class=''>
-                    <a href='/VehiculeComerciale/Transit-Courier/Oferta_Speciala_TransitCourier'>Ofert&#259; special&#259; Transit Courier</a>
-                    <script type="text/javascript">
-                        document.id('menu1205075514590').addClass("navnextSteps");
-                    </script>
-                </li>
+
                 <li id='menu1205071929541' class=''>
                     <a href='/VehiculeComerciale/Transit-Courier/PrezentareGenerala'>Prezentare general&#259;</a>
                     <script type="text/javascript">
@@ -131,7 +126,7 @@
             <table>
                 <tr>
                     <td id="mdp2Fullscreen">
-                        <a href="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214480058462&amp;blobkey=id" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214480058462&amp;blobkey=id', 'Practic%2C+rezistent%2C+costuri+generale+reduse');
+                        <a href="#" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214480058462&amp;blobkey=id', 'Practic%2C+rezistent%2C+costuri+generale+reduse');
 if(typeof(sford)=='object') omnitureMDPFullScreen('1205071924630'); return false;" >
                             Fullscreen
                         </a>
@@ -275,28 +270,7 @@ return false;"
             </thead>
         </table>
     </div>
-    <div
-            id="tab001-tab-1"
-            class="tab001_item last unselected_last unselected "
-            style="text-align:center;">
-        <table cellpadding="0" cellspacing="0" border="0" title="Costuri de întreţinere">
-            <thead>
-            <tr>
-                <td class="tab001_header_arrow"><a href="/VehiculeComerciale/Transit-Courier/UtilitateSiCosturi/tabid=tab1" class="tab_anchor"></a></td>
-                <td class="tab001_header_label" valign="middle" style="height:41px;vertical-align:middle;">
-                    <!-- 	TD 8174 jhe method has been called from here to escape special characters -->
-                    <a
-                            href="/VehiculeComerciale/Transit-Courier/UtilitateSiCosturi/tabid=tab1"
-                            onclick="tab001SelectTab('1');
-if(typeof(sford)=='object')setOmnitureTabName('Costuri de &icirc;ntre&#355;inere');
-return false;"
-                            onmouseover="tab001HoverTab('1', true);"
-                            onmouseout="tab001HoverTab('1', false);"
-                            class="tab_anchor">Costuri de întreţinere</a></td>
-            </tr>
-            </thead>
-        </table>
-    </div>
+
 </div><!-- END OF HEADER -->
 <div class="tab001_divider"></div>
 <div class="tab001_content_container">
@@ -425,127 +399,128 @@ return false;"
                 </div>
             </div>
         </div>
-    </div>
-</div>
-<div id="tab001-contentpane-1" class="tab001-pane-unselected">
-    <div class="tab001_TabTop_IntroText" >
-        <div class="btoArticleTitle"></div>
-        <div class="btoArticleText">
-            <div class="btoArticleAbstract">
-                <div>Designul bine gândit ajută la menţinerea costurilor la minimum. O bară de protecţie spate din mai multe piese, protecţia laterală a caroseriei şi lămpile faţă şi spate amplasate strategic, de exemplu, ajută la prevenirea sau minimizarea daunelor rezultate în urma unui accident. Aceasta înseamnă mai puţin timp şi mai puţini bani pierduţi cu reparaţiile, fapt ce poate reduce, de asemenea, poliţa de asigurare. Calitatea superioară a construcţiei, plus piesele şi componentele rezistente la uzură, vă ajută, de asemenea, să reduceţi timpul de inactivitate şi să economisiţi bani, deoarece au ca rezultat intervale de service lungi.</div>
+        <br> <br><br>
+
+        <div class="tab001_TabTop_IntroText" >
+            <div class="btoArticleTitle"> Costuri de intretinere</div>
+            <div class="btoArticleText">
+                <div class="btoArticleAbstract">
+                    <div>Designul bine gândit ajută la menţinerea costurilor la minimum. O bară de protecţie spate din mai multe piese, protecţia laterală a caroseriei şi lămpile faţă şi spate amplasate strategic, de exemplu, ajută la prevenirea sau minimizarea daunelor rezultate în urma unui accident. Aceasta înseamnă mai puţin timp şi mai puţini bani pierduţi cu reparaţiile, fapt ce poate reduce, de asemenea, poliţa de asigurare. Calitatea superioară a construcţiei, plus piesele şi componentele rezistente la uzură, vă ajută, de asemenea, să reduceţi timpul de inactivitate şi să economisiţi bani, deoarece au ca rezultat intervale de service lungi.</div>
+                </div>
             </div>
         </div>
-    </div>
-    <div class='tab001_TabReco_ShowBTI001Collection' >
-        <div class="BTIRow">
-            <div class="BTIOneItem">
-                <div class="BTIImage">
-                    <div class="imgZoom">
+        <div class='tab001_TabReco_ShowBTI001Collection' >
+            <div class="BTIRow">
+                <div class="BTIOneItem">
+                    <div class="BTIImage">
+                        <div class="imgZoom">
 
                             <img
-                                    src="/assets/img/transit_courier/1214480059794.jpg"
-                                    border="0" width="97"
-                                    height="97"
-                                    alt="Teste riguroase"
-                                    title="Teste riguroase"
-                                    style="border: solid 1px #999999;">
-                        </a>
-                        <div>
-                            <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214480059793&#38;blobkey=id" target="_blank" id="izid48757311205071931016" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214480059793&#38;blobkey=id','image','Teste riguroase','Închide'); return false;"></a>
+                                src="/assets/img/transit_courier/1214480059794.jpg"
+                                border="0" width="97"
+                                height="97"
+                                alt="Teste riguroase"
+                                title="Teste riguroase"
+                                style="border: solid 1px #999999;">
+                            </a>
+                            <div>
+                                <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214480059793&#38;blobkey=id" target="_blank" id="izid48757311205071931016" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214480059793&#38;blobkey=id','image','Teste riguroase','Închide'); return false;"></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="BTIarticleTitle">
+                        Testat cu rigurozitate
+                    </div>
+                    <div class='BTIarticleBody'>
+                        <div class='BTIarticleText'>
+                            <div>Toate materialele din interiorul cabinei au fost supuse unei testări extensive, pentru a asigura rezistenţă maximă. Un nivel redus de uzură înseamnă că vehiculul dumneavoastră îşi păstrează aspectul inteligent şi profesional mai mult timp, ajutând, de asemenea, la menţinerea valorii de revânzare.</div>
                         </div>
                     </div>
                 </div>
-                <div class="BTIarticleTitle">
-                    Testat cu rigurozitate
-                </div>
-                <div class='BTIarticleBody'>
-                    <div class='BTIarticleText'>
-                        <div>Toate materialele din interiorul cabinei au fost supuse unei testări extensive, pentru a asigura rezistenţă maximă. Un nivel redus de uzură înseamnă că vehiculul dumneavoastră îşi păstrează aspectul inteligent şi profesional mai mult timp, ajutând, de asemenea, la menţinerea valorii de revânzare.</div>
-                    </div>
-                </div>
             </div>
-        </div>
-        <div class="BTIRow">
-            <div class="BTIOneItem">
-                <div class="BTIImage">
-                    <div class="imgZoom">
+            <div class="BTIRow">
+                <div class="BTIOneItem">
+                    <div class="BTIImage">
+                        <div class="imgZoom">
 
                             <img
-                                    src="/assets/img/transit_courier/1214480061448.jpg"
-                                    border="0" width="97"
-                                    height="97"
-                                    alt="Bară de protecţie spate din mai multe piese"
-                                    title="Bară de protecţie spate din mai multe piese"
-                                    style="border: solid 1px #999999;">
-                        </a>
-                        <div>
-                            <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214480061447&#38;blobkey=id" target="_blank" id="izid417081205071928179" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214480061447&#38;blobkey=id','image','Bar\u0103 de protec\u0163ie spate din mai multe piese','Închide'); return false;"></a>
+                                src="/assets/img/transit_courier/1214480061448.jpg"
+                                border="0" width="97"
+                                height="97"
+                                alt="Bară de protecţie spate din mai multe piese"
+                                title="Bară de protecţie spate din mai multe piese"
+                                style="border: solid 1px #999999;">
+                            </a>
+                            <div>
+                                <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214480061447&#38;blobkey=id" target="_blank" id="izid417081205071928179" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214480061447&#38;blobkey=id','image','Bar\u0103 de protec\u0163ie spate din mai multe piese','Închide'); return false;"></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="BTIarticleTitle">
+                        Bară de protecţie din mai multe piese pentru reparaţii uşoare
+                    </div>
+                    <div class='BTIarticleBody'>
+                        <div class='BTIarticleText'>
+                            <div>Spre deosebire de alte utilitare din clasa sa, nu este nevoie să înlocuiţi întreaga bară de protecţie a noului Transit Courier în cazul în care a fost lovită la unul dintre capete. Şi aceasta deoarece un design ingenios din 3 secţiuni face ca piesele individuale să poată fi înlocuite după nevoie, pentru reparaţii cu un cost redus.</div>
                         </div>
                     </div>
                 </div>
-                <div class="BTIarticleTitle">
-                    Bară de protecţie din mai multe piese pentru reparaţii uşoare
-                </div>
-                <div class='BTIarticleBody'>
-                    <div class='BTIarticleText'>
-                        <div>Spre deosebire de alte utilitare din clasa sa, nu este nevoie să înlocuiţi întreaga bară de protecţie a noului Transit Courier în cazul în care a fost lovită la unul dintre capete. Şi aceasta deoarece un design ingenios din 3 secţiuni face ca piesele individuale să poată fi înlocuite după nevoie, pentru reparaţii cu un cost redus.</div>
-                    </div>
-                </div>
             </div>
-        </div>
-        <div class="BTIRow">
-            <div class="BTIOneItem">
-                <div class="BTIImage">
-                    <div class="imgZoom">
+            <div class="BTIRow">
+                <div class="BTIOneItem">
+                    <div class="BTIImage">
+                        <div class="imgZoom">
 
                             <img
-                                    src="/assets/img/transit_courier/1214480057054.jpg"
-                                    border="0" width="97"
-                                    height="97"
-                                    alt="Intervale de service"
-                                    title="Intervale de service"
-                                    style="border: solid 1px #999999;">
-                        </a>
-                        <div>
-                            <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214480057053&#38;blobkey=id" target="_blank" id="izid70928301205071922174" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214480057053&#38;blobkey=id','image','Intervale de service','Închide'); return false;"></a>
+                                src="/assets/img/transit_courier/1214480057054.jpg"
+                                border="0" width="97"
+                                height="97"
+                                alt="Intervale de service"
+                                title="Intervale de service"
+                                style="border: solid 1px #999999;">
+                            </a>
+                            <div>
+                                <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214480057053&#38;blobkey=id" target="_blank" id="izid70928301205071922174" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214480057053&#38;blobkey=id','image','Intervale de service','Închide'); return false;"></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="BTIarticleTitle">
+                        Intervale de service lungi pentru mai puţin timp în afara drumului
+                    </div>
+                    <div class='BTIarticleBody'>
+                        <div class='BTIarticleText'>
+                            <div>Fiecare piesă şi componentă a noului Transit Courier este proiectată să maximizeze rezistenţa şi să funcţioneze mai mult fără să necesite întreţinere. De aceea, intervalele de service sunt stabilite la 30.000 de km sau la 1 an.</div>
                         </div>
                     </div>
                 </div>
-                <div class="BTIarticleTitle">
-                    Intervale de service lungi pentru mai puţin timp în afara drumului
-                </div>
-                <div class='BTIarticleBody'>
-                    <div class='BTIarticleText'>
-                        <div>Fiecare piesă şi componentă a noului Transit Courier este proiectată să maximizeze rezistenţa şi să funcţioneze mai mult fără să necesite întreţinere. De aceea, intervalele de service sunt stabilite la 30.000 de km sau la 1 an.</div>
-                    </div>
-                </div>
             </div>
-        </div>
-        <div class="BTIRow">
-            <div class="BTIOneItem">
-                <div class="BTIImage">
-                    <div class="imgNonZoom">
-                        <img
+            <div class="BTIRow">
+                <div class="BTIOneItem">
+                    <div class="BTIImage">
+                        <div class="imgNonZoom">
+                            <img
                                 src="/assets/img/transit_courier/1214480060413.jpg"
                                 border="0" width="97"
                                 height="97"
                                 alt="Ford Transit Center"
                                 title="Ford Transit Center"
                                 style="border: solid 1px #999999;">
+                        </div>
                     </div>
-                </div>
-                <div class="BTIarticleTitle">
-                    Asistenţă de specialitate de la Ford Transit Center
-                </div>
-                <div class='BTIarticleBody'>
-                    <div class='BTIarticleText'>
-                        <div>Indiferent dacă deţineţi o singură utilitară sau administraţi o întreagă flotă, vă puteţi baza pe ajutorul oferit de Centrele Ford Transit. Aceste centre de specialitate dispun de echipe dedicate de experţi în vânzări şi tehnicieni instruiţi şi au la sediile lor exemplare din cele mai noi vehicule pentru a vi le prezenta. De asemenea, sunt echipate corespunzător pentru a întreţine vehicule comerciale Ford, executând rapid şi fără probleme lucrările de service de care aveţi nevoie, şi asta nu doar în timpul programului de lucru.</div>
+                    <div class="BTIarticleTitle">
+                        Asistenţă de specialitate de la Ford Transit Center
+                    </div>
+                    <div class='BTIarticleBody'>
+                        <div class='BTIarticleText'>
+                            <div>Indiferent dacă deţineţi o singură utilitară sau administraţi o întreagă flotă, vă puteţi baza pe ajutorul oferit de Centrele Ford Transit. Aceste centre de specialitate dispun de echipe dedicate de experţi în vânzări şi tehnicieni instruiţi şi au la sediile lor exemplare din cele mai noi vehicule pentru a vi le prezenta. De asemenea, sunt echipate corespunzător pentru a întreţine vehicule comerciale Ford, executând rapid şi fără probleme lucrările de service de care aveţi nevoie, şi asta nu doar în timpul programului de lucru.</div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
+
 </div>
 </div>
 <div class="tab001_footer"><!-- CLOSES THE BOTTOM OF THE CONTENT --></div>

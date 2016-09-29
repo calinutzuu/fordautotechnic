@@ -109,12 +109,7 @@
                     </script>
                 </li>
                 <li class="selected"><p>Modele</p></li>
-                <li id='menu1205049669501' class=''>
-                    <a href='/VehiculeComerciale/TransitConnect/PreturiSiBrosuri'>Liste de pe&#355;uri &#351;i bro&#351;uri</a>
-                    <script type="text/javascript">
-                        document.id('menu1205049669501').addClass("navnextSteps");
-                    </script>
-                </li>
+
             </ul>
             <div class="navbottom"></div>
         </div>
@@ -144,7 +139,7 @@
             <table>
                 <tr>
                     <td id="mdp2Fullscreen">
-                        <a href="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214457972780&amp;blobkey=id"
+                        <a href="#"
                            onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214457972780&amp;blobkey=id', 'G%C4%83si%C5%A3i+modelul+potrivit+pentru+afacerea+dumneavoastr%C4%83');
 if(typeof(sford)=='object') omnitureMDPFullScreen('1205049525208'); return false;">
                             Fullscreen
@@ -300,52 +295,7 @@ return false;"
             </thead>
         </table>
     </div>
-    <div
-            id="tab001-tab-1"
-            class="tab001_item  unselected "
-            style="text-align:center;">
-        <table cellpadding="0" cellspacing="0" border="0" title="ECOnetic">
-            <thead>
-            <tr>
-                <td class="tab001_header_arrow"><a href="/VehiculeComerciale/TransitConnect/Modele/tabid=tab1"
-                                                   class="tab_anchor"></a></td>
-                <td class="tab001_header_label" valign="middle" style="height:41px;vertical-align:middle;">
-                    <!-- 	TD 8174 jhe method has been called from here to escape special characters -->
-                    <a
-                            href="/VehiculeComerciale/TransitConnect/Modele/tabid=tab1"
-                            onclick="tab001SelectTab('1');
-if(typeof(sford)=='object')setOmnitureTabName('ECOnetic');
-return false;"
-                            onmouseover="tab001HoverTab('1', true);"
-                            onmouseout="tab001HoverTab('1', false);"
-                            class="tab_anchor">ECOnetic</a></td>
-            </tr>
-            </thead>
-        </table>
-    </div>
-    <div
-            id="tab001-tab-2"
-            class="tab001_item last unselected_last unselected "
-            style="text-align:center;">
-        <table cellpadding="0" cellspacing="0" border="0" title="Trend">
-            <thead>
-            <tr>
-                <td class="tab001_header_arrow"><a href="/VehiculeComerciale/TransitConnect/Modele/tabid=tab2"
-                                                   class="tab_anchor"></a></td>
-                <td class="tab001_header_label" valign="middle" style="height:41px;vertical-align:middle;">
-                    <!-- 	TD 8174 jhe method has been called from here to escape special characters -->
-                    <a
-                            href="/VehiculeComerciale/TransitConnect/Modele/tabid=tab2"
-                            onclick="tab001SelectTab('2');
-if(typeof(sford)=='object')setOmnitureTabName('Trend');
-return false;"
-                            onmouseover="tab001HoverTab('2', true);"
-                            onmouseout="tab001HoverTab('2', false);"
-                            class="tab_anchor">Trend</a></td>
-            </tr>
-            </thead>
-        </table>
-    </div>
+
 </div>
 <!-- END OF HEADER -->
 <div class="tab001_divider"></div>
@@ -395,8 +345,8 @@ caption: 'Exterior Transit Connect',
 alt: 'Exterior Transit Connect', 
 zoomId: '1214457973236', 
 subst: '1214457973235'}); 					
-return false;"
-                                >
+return false;"     >
+
 <span class="IGGInternalSpan">
 <img src='/assets/img/transit_connect/1214457973243.jpg' alt="Exterior Transit Connect" class="IGGImg" border="0">
 </span>
@@ -408,17 +358,7 @@ return false;"
                 <div class="IGGHSpacer">&nbsp;</div>
                 <div class="IGGPos">
                     <div class="IGGImg">
-                        <a href="/VehiculeComerciale/TransitConnect/Modele/mdp=i1205049498234"
-                           id="igg1429513075566_1214457973159"
-                           onclick="engine.Publisher.publish( 'IGGtemplate2', 'SELECT_MEDIA',
-{type: 'image' , 
-id: '1214457973159',
-caption: 'Interior Transit Connect', 
-alt: 'Interior Transit Connect', 
-zoomId: '1214457973160', 
-subst: '1214457973159'}); 					
-return false;"
-                                >
+                        <a href="#>
 <span class="IGGInternalSpan">
 <img src='/assets/img/transit_connect/1214457973167.jpg'
      alt="Interior Transit Connect" class="IGGImg" border="0">
@@ -443,7 +383,7 @@ return false;"
         <!--<END_IGG001 >-->
     </div>
 </div>
-<div id="tab001-contentpane-1" class="tab001-pane-unselected">
+<div id="tab001-contentpane-0" class="tab001-pane-selected">
     <div class='tab001_TabReco_ShowBTI001Collection'>
         <div class="BTIRow">
             <div class="BTIOneItem">
@@ -536,7 +476,7 @@ return false;"
         <!--<END_IGG001 >-->
     </div>
 </div>
-<div id="tab001-contentpane-2" class="tab001-pane-unselected">
+<div id="tab001-contentpane-0" class="tab001-pane-selected">
     <div class='tab001_TabReco_ShowBTI001Collection'>
         <div class="BTIRow">
             <div class="BTIOneItem">

@@ -54,12 +54,7 @@
             </ul>
             <div class="navdivider"></div>
             <ul id="nextSteps" class="nextSteps">
-                <li id='menu1205075514590' class=''>
-                    <a href='/VehiculeComerciale/Transit-Courier/Oferta_Speciala_TransitCourier'>Ofert&#259; special&#259; Transit Courier</a>
-                    <script type="text/javascript">
-                        document.id('menu1205075514590').addClass("navnextSteps");
-                    </script>
-                </li>
+
                 <li id='menu1205071929541' class=''>
                     <a href='/VehiculeComerciale/Transit-Courier/PrezentareGenerala'>Prezentare general&#259;</a>
                     <script type="text/javascript">
@@ -131,7 +126,7 @@
             <table>
                 <tr>
                     <td id="mdp2Fullscreen">
-                        <a href="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214480059275&amp;blobkey=id" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214480059275&amp;blobkey=id', 'Utilitara+ideal%C4%83+pentru+dumneavoastr%C4%83');
+                        <a href="#" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214480059275&amp;blobkey=id', 'Utilitara+ideal%C4%83+pentru+dumneavoastr%C4%83');
 if(typeof(sford)=='object') omnitureMDPFullScreen('1205071929119'); return false;" >
                             Fullscreen
                         </a>
@@ -270,33 +265,12 @@ if(typeof(sford)=='object')setOmnitureTabName('Van');
 return false;"
                                 onmouseover="tab001HoverTab('0', true);"
                                 onmouseout="tab001HoverTab('0', false);"
-                                class="tab_anchor">Van</a></td>
+                                class="tab_anchor"></a></td>
                 </tr>
                 </thead>
             </table>
         </div>
-        <div
-                id="tab001-tab-1"
-                class="tab001_item last unselected_last unselected "
-                style="text-align:center;">
-            <table cellpadding="0" cellspacing="0" border="0" title="Kombi">
-                <thead>
-                <tr>
-                    <td class="tab001_header_arrow"><a href="/VehiculeComerciale/Transit-Courier/StiluriDeCaroserie/tabid=tab1" class="tab_anchor"></a></td>
-                    <td class="tab001_header_label" valign="middle" style="height:41px;vertical-align:middle;">
-                        <!-- 	TD 8174 jhe method has been called from here to escape special characters -->
-                        <a
-                                href="/VehiculeComerciale/Transit-Courier/StiluriDeCaroserie/tabid=tab1"
-                                onclick="tab001SelectTab('1');
-if(typeof(sford)=='object')setOmnitureTabName('Kombi');
-return false;"
-                                onmouseover="tab001HoverTab('1', true);"
-                                onmouseout="tab001HoverTab('1', false);"
-                                class="tab_anchor">Kombi</a></td>
-                </tr>
-                </thead>
-            </table>
-        </div>
+
     </div><!-- END OF HEADER -->
     <div class="tab001_divider"></div>
     <div class="tab001_content_container">
@@ -317,7 +291,7 @@ return false;"
                                                 style="border: solid 1px #999999;">
                                     </a>
                                     <div>
-                                        <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214480058978&#38;blobkey=id" target="_blank" id="izid88776531205071928342" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214480058978&#38;blobkey=id','image','Van','Închide'); return false;"></a>
+                                        <a href="#" target="_blank" id="izid88776531205071928342" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214480058978&#38;blobkey=id','image','Van','Închide'); return false;"></a>
                                     </div>
                                 </div>
                             </div>
@@ -349,6 +323,52 @@ return false;"
                             </div>
                         </div>
                     </div>
+                    <div class="BTIRow">
+                        <div class="BTIOneItem">
+                            <div class="BTIImage">
+                                <div class="imgZoom">
+
+                                    <img
+                                        src="/assets/img/transit_courier/1214480056758.jpg"
+                                        border="0" width="97"
+                                        height="97"
+                                        alt="Kombi"
+                                        title="Kombi"
+                                        style="border: solid 1px #999999;">
+                                    </a>
+                                    <div>
+                                        <a href="#" target="_blank" id="izid72937231205071921594" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214480056757&#38;blobkey=id','image','Kombi','Închide'); return false;"></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="BTIarticleTitle">
+                                Kombi
+                            </div>
+                            <div class='BTIarticleBody'>
+                                <div class='BTIarticleText'>
+                                    <div>
+                                        <table>
+                                            <tbody>
+                                            <tr>
+                                                <td style="border: 0px; text-align: justify;">
+                                                    <ul>
+                                                        <li>Lungime totală: 4.157 mm</li>
+                                                        <li>&Icirc;nălțime plafon: 1.742 mm</li>
+                                                        <li>Volum compartiment de &icirc;ncărcare: 1,02 metri cubi (SAE) cu scaunele ridicate, 1,9 cu al doilea r&acirc;nd de scaune rabatate</li>
+                                                        <li>&Icirc;ncărcare prin peretele despărţitor: 1,2 m cu al doilea r&acirc;nd rabatat</li>
+                                                        <li>Sarcină utilă max aprox.: 580 kg</li>
+                                                        <li>Greutate brută a vehiculului (GVM): 1.795 kg</li>
+                                                        <li>Scaune: cinci</li>
+                                                    </ul>
+                                                </td>
+                                            </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
             <div id="tab001-contentpane-1" class="tab001-pane-unselected">
@@ -356,7 +376,7 @@ return false;"
                     <div class="BTIRow">
                         <div class="BTIOneItem">
                             <div class="BTIImage">
-                                <div class="imgZoom">
+                                <div class="#">
 
                                         <img
                                                 src="/assets/img/transit_courier/1214480056758.jpg"

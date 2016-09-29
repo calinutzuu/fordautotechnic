@@ -161,7 +161,7 @@
             });
         </script>
         <div id="mdp">
-            <img src='/assets/img/service/1214403343966.jpg' alt='Garanţie extinsă ' onclick="omnitureViewPhoto()">
+            <img src='/assets/img/service/1214562130294.jpg' alt='Garanţie extinsă ' onclick="omnitureViewPhoto()">
         </div>
         <div class="mdp2" id="mdpImageControl" >
             <table>
@@ -203,10 +203,14 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1204961311233'); return false
 </div>
 <div id="container_center">
     <div class="center_item">
-        <div class="btoArticleTitle">FordProtect – Garanţie Extinsă</div>
+        <div class="btoArticleTitle">Lăsaţi-vă în grija noastră</div>
         <div class="btoArticleText">
             <div class="btoArticleAbstract">
-                <div>Ai achiziţionat o maşină nouă Ford? Atunci ai garanţie de bază timp de 2 ani. Iar dacă vrei sa ai o garanţie prelungită, Ford &icirc;ţi oferă garanţia extinsă Ford<strong>Protect</strong> cu acoperire &icirc;n peste 32 de ţări europene.</div>
+                <div>Atunci când vă cumpărați o mașină nouă Ford, veți avea opțiunea să va protejați autovehiculul și să vă extindeți acoperirea
+                    Asistenței Rutiere Ford prin Planul de Garanție Extinsă - Ford Protect - cu condiția să faceți acest înainte de prima revizie.
+                    <br> <br>
+                    Vrem să obțineți mai mult de la autovehicului dumneavoastră Ford? Planurile Ford Protect sunt concepute pentru a vă ajuta
+                    să faceți exact asta.</div>
             </div>
         </div>
     </div>
@@ -218,11 +222,20 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1204961311233'); return false
         <div class="BTIRow">
             <div class="BTIOneItem">
                 <div class="BTIarticleTitle">
-                    Pachete FordProtect
+                    BENEFICII
                 </div>
                 <div class='BTIarticleBody'>
                     <div class='BTIarticleText'>
-                        <div><ul><li>4 ani, (2 ani Garanţie Standard + 2 ani Garanţie Extinsă &icirc;n limita a 150.000 km)</li><li>4 ani, (2 ani Garanţie Standard + 2 ani Garanţie Extinsă &icirc;n limita a 200.000 km)</li><li>5 ani, (2 ani Garanţie Standard + 3 ani Garanţie Extinsă &icirc;n limita a 100.000 km)</li><li>5 ani, (2 ani Garanţie Standard + 3 ani Garanţie Extinsă &icirc;n limita a 150.000 km)</li><li>6 ani, (2 ani Garanţie Standard + 4 ani Garanţie Extinsă &icirc;n limita a 100.000 km)</li></ul></div><div><a TITLE="Lista de preturi FordProtect (111 KB)" HREF="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheadervalue1=attachment%3Bfilename%3D%22Lista+de+preturi+FordProtect.pdf%22&amp;blobheadervalue2=abinary%3Bcharset%3DUTF-8&amp;blobheadername1=Content-Disposition&amp;blobheadername2=MDT-Type&amp;blobheader=application%2Fpdf&amp;blobwhere=1214486156972&amp;blobkey=id" CLASS="download" onClick="if (typeof sford == 'object') omnitureLinkDownloadClick('owner:pdf download:warranty service','','','','','pdf download','',false,'blank value','blank','blank value');" ><u><strong>Descarcă de aici</strong></u></a> lista de preţuri pentru programele Ford<strong>Protect</strong>: <br><br><em>*Garantia Extinsă Ford<strong>Protect</strong> acoperă aceleaşi componente ca şi in garanţia de bază cu urmatoarele exceptii: elemente supuse uzurii normale; piesele de schimb utilizate in cadrul reviziilor periodice; reparatii de caroserie si vopsitorie; geamuri; elemente de tapiserie precum si accesorii interioare sau exterioare; consumabile sau elemente supuse uzurii normale şi accentuate precum şi distrugerea accidentală a: caroseriei, vopsea, geamuri, scaune, ornamente interioare, sistemul de evacuare, plăcuţe de fr&acirc;nă, discuri de fr&acirc;nă, tamburi fr&acirc;nă, suspensia McPherson, bujii, siguranţe, amortizoare, ştergătoare, baterii, filtre de aer, , filtre de polen, filtre de ulei, filtre carburant, baterii autovehicul, roţi/anvelope, becuri, curele, disc ambreiaj. </em></div>
+                        <div><ul><li>
+                                    Istoric și Valoare Adăugată
+                                    <br> <br>
+                                    Pentru o sumă unică, vă puteți bucura de garanție extinsă pentru până la cinci ani de la data livrării noului tău Ford. Nu numai că scăpați de orice grijă referitoare la reparații dar, Ford Protect poate spori și valoarea de revânzare a mașinii. Istoricul de reparații Ford poate facilita revânzare și spori valoarea vehiculului dumneavoastră. Întrebați dealerul Ford pentru detalii complete.
+                                 </li>  <br>
+                                <li> Asistență Rutieră
+                                     <br> <br>
+                                    Prin achiziționarea oricărui Plan Ford Protect vă extindeți și Asistența Rutieră Ford, gratuit, în perioada acoperită de garanție. În cazul în care mașina are o problemă, la domiciliu sau pe drum, în România sau oriunde în Europa, tot ce trebuie să faceți este să sunați și vă vom trimite pe cineva pentru a vă ajuta să pormiți din nou la drum.
+
+                                 <br><br><em> *Garantia Extinsă FordProtect acoperă aceleaşi componente ca şi in garanţia de bază cu urmatoarele exceptii: elemente supuse uzurii normale; piesele de schimb utilizate in cadrul reviziilor periodice; reparatii de caroserie si vopsitorie; geamuri; elemente de tapiserie precum si accesorii interioare sau exterioare; consumabile sau elemente supuse uzurii normale şi accentuate precum şi distrugerea accidentală a: caroseriei, vopsea, geamuri, scaune, ornamente interioare, sistemul de evacuare, plăcuţe de frână, discuri de frână, tamburi frână, suspensia McPherson, bujii, siguranţe, amortizoare, ştergătoare, baterii, filtre de aer, , filtre de polen, filtre de ulei, filtre carburant, baterii autovehicul, roţi/anvelope, becuri, curele, disc ambreiaj. </em></div>
                     </div>
                 </div>
             </div>
@@ -259,7 +272,7 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1204961311233'); return false
         <script type="text/javascript" src='http://s7.addthis.com/js/250/addthis_widget.js?username=engineps'></script>
         <script type="text/javascript">
             var addthis_config = addthis_preconfig_variables;
-            var addthis_localize = {share_caption:'Marchează şi partajează',favorites:'Favorite',print:'Printează',more:'Mai multe'};
+            var addthis_localize = {share_caption:'Marcheaz? ?i partajeaz?',favorites:'Favorite',print:'Printeaz?',more:'Mai multe'};
         </script>
         <!-- AddThis Button END -->
     </div>

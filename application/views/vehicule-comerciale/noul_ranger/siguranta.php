@@ -72,12 +72,7 @@
                         document.id('menu1205008754585').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205008756328' class=''>
-                    <a href='/VehiculeComerciale/NoulRanger/Utilitate'>Utilitate</a>
-                    <script type="text/javascript">
-                        document.id('menu1205008756328').addClass("navnextSteps");
-                    </script>
-                </li>
+
                 <li id='menu1205008749291' class=''>
                     <a href='/VehiculeComerciale/NoulRanger/PerformantaSiEficienta'>Performan&#355;&#259; &#351;i eficien&#355;&#259;</a>
                     <script type="text/javascript">
@@ -119,7 +114,7 @@
             });
         </script>
         <div id="mdp">
-            <img src='/assets/img/noul_ranger/1214423959488.jpg' alt='Caroserie rezistentă pentru protecţie maximă' onclick="omnitureViewPhoto()">
+            <img src='/assets/img/noul_ranger/1214554703276.jpg' alt='Caroserie rezistentă pentru protecţie maximă' onclick="omnitureViewPhoto()">
         </div>
         <div class="mdp2" id="mdpImageControl" >
             <table>
@@ -164,8 +159,12 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205008752188'); return false
     <div class="btoArticleTitle"></div>
     <div class="btoArticleText">
         <div class="btoArticleAbstract">
-            <h1 style="color:#425968; font-famlily:FordAntennaRegular,Arial,Verdana,Tahoma,Helvetica,sans-serif; font-size:2.2em; line-height:100%;">Primul pick-up care oferă o siguranţă de 5 stele</h1>
-            Noul Ranger este dotat cu cel mai bun pachet de siguranţă din clasa sa, acesta incluz&acirc;nd totul, de la airbaguri standard pentru şofer şi pasager, airbaguri laterale şi tip cortină şi un airbag pentru genunchii şoferului, p&acirc;nă la un Program de control electronic al stabilităţii (ESP) avansat. De aceea este primul pick-up care a obţinut o evaluare de 5 stele din partea Euro NCAP. Pachetul său de securitate este la fel de cuprinzător.
+            <h1 style="color:#425968; font-famlily:FordAntennaRegular,Arial,Verdana,Tahoma,Helvetica,sans-serif; font-size:2.2em; line-height:100%;">SIGURANTA SI SECURITATE INCORPORATE</h1>
+            Celula de siguranta consolidata a noului Ranger este dotata cu protectia linistitoare data de airbagurile standard pentru sofer si pasager,
+            airbaguri laterale si tip cortina si un airbag pentru genunchii soferului.
+<br><br>
+            Un sistem complex de control electronic al stabilitatii va ajuta sa nu pierdeti controlul. Un sistem de alarma de ultima generatie este
+            disponibil pentru a te proteja impotriva furtului vehiculului.
         </div>
     </div>
 </div>
@@ -270,48 +269,19 @@ return false;"
             </thead>
         </table>
     </div>
-    <div
-            id="tab001-tab-1"
-            class="tab001_item last unselected_last unselected "
-            style="text-align:center;">
-        <table cellpadding="0" cellspacing="0" border="0" title="Protecţie">
-            <thead>
-            <tr>
-                <td class="tab001_header_arrow"><a href="/VehiculeComerciale/NoulRanger/Siguranta/tabid=tab1" class="tab_anchor"></a></td>
-                <td class="tab001_header_label" valign="middle" style="height:41px;vertical-align:middle;">
-                    <!-- 	TD 8174 jhe method has been called from here to escape special characters -->
-                    <a
-                            href="/VehiculeComerciale/NoulRanger/Siguranta/tabid=tab1"
-                            onclick="tab001SelectTab('1');
-if(typeof(sford)=='object')setOmnitureTabName('Protec&#355;ie');
-return false;"
-                            onmouseover="tab001HoverTab('1', true);"
-                            onmouseout="tab001HoverTab('1', false);"
-                            class="tab_anchor">Protecţie</a></td>
-            </tr>
-            </thead>
-        </table>
-    </div>
+
 </div><!-- END OF HEADER -->
 <div class="tab001_divider"></div>
 <div class="tab001_content_container">
 <div class="tab001_content">
 <div id="tab001-contentpane-0" class="tab001-pane-selected">
-<div class="tab001_TabTop_IntroText" >
-    <div class="btoArticleTitle"></div>
-    <div class="btoArticleText">
-        <div class="btoArticleAbstract">
-            Noul Ranger a fost supus unor teste dure, &icirc;n cele mai ostile medii din &icirc;ntreaga lume. După ce a reuşit să treacă prin noroi, apă, zăpadă şi nisip, &icirc;n noul Ranger veţi fi &icirc;n siguranţă şi veţi deţine controlul, practic, &icirc;n orice situaţie.
-        </div>
-    </div>
-</div>
 <div class='tab001_TabReco_ShowBTI001Collection' >
 <div class="BTIRow">
     <div class="BTIOneItem">
         <div class="BTIImage">
             <div class="imgNonZoom">
                 <img
-                        src="/assets/img/noul_ranger/1214423962338.jpg"
+                        src="/assets/img/noul_ranger/1214544819293.jpg"
                         border="0" width="97"
                         height="97"
                         alt="Euro NCAP"
@@ -320,13 +290,15 @@ return false;"
             </div>
         </div>
         <div class="BTIarticleTitle">
-            Cel mai bun pachet de siguranţă din clasa sa
+            Ford SYNC 2 cu Asistenta de urgenta
         </div>
         <div class='BTIarticleBody'>
             <div class='BTIarticleText'>
-                Noul Ranger dispune de un pachet cuprinzător de dotări de siguranţă, de la Programul Electronic de Stabilitate (ESP) p&acirc;nă la funcţia de reamintire pentru centura de siguranţă. Nu e, de aceea, deloc de mirare că este primul pick-up din lume care a primit un punctaj de 5 stele la Euro NCAP.
+                Un aspect important al tehnologiei Ford SYNC 2 este Asistenta de urgenta*. Aceasta caracteristica ce iti poate salva viata este conceputa pentru a te asista la efectuarea unui apel de urgenta si poate furniza serviciilor de urgenta informatii despre locatia vehiculului tau, in propria ta limba.
+                Daca este cazul, poti alege sa intrerupi apelul sau sa discuti personal, daca este necesar. Extrem de important, sistemul va furniza informatii vitale, precum coordonatele GPS, chiar si atunci cand ti-ai pierdut cunostinta.
             </div>
         </div>
+        <span style="font-size: x-small;">*Asistenta de urgenta Ford functioneaza in peste 30 de tari din Europa. Aceasta caracteristica functioneaza atunci cand este conectata cu un telefon mobil compatibil pe care il ai la tine, in momentul in care un airbag este declansat (cu exceptia airbagurilor pentru genunchi) sau atunci cand un senzor care inregistreaza o coliziune intrerupe pompa de combustibil. Functia de mesagerie si Asistenta de urgenta nu sunt acceptate in toate limbile europene.</span>
     </div>
 </div>
 <div class="BTIRow">
@@ -335,7 +307,7 @@ return false;"
             <div class="">
 
                     <img
-                            src="/assets/img/noul_ranger/1214423958815.jpg"
+                            src="/assets/img/noul_ranger/1214544816626.jpg"
                             border="0" width="97"
                             height="97"
                             alt="Programul Electronic de Stabilitate"
@@ -348,11 +320,13 @@ return false;"
             </div>
         </div>
         <div class="BTIarticleTitle">
-            Menţineţi controlul indiferent de condiţii
+            Mentinerea in siguranta pe banda de rulare a remorcii
         </div>
         <div class='BTIarticleBody'>
             <div class='BTIarticleText'>
-                Programul Electronic de Stabilitate (ESP) detectează orice deviere de la traiectoria selectată şi corectează, &icirc;n mod automat, poziţia maşinii pe stradă, ajut&acirc;ndu-vă s să păstraţi controlul indiferent de condiţiile de rulare. Mai jos veţi descoperi beneficiile aduse de principalele tehnologii avansate de condus, care fac parte din ESP:
+                Functia de Asistenta la stabilizarea remorcii (TSA) detecteaza „serpuirea” sau balansarea remorcii si reduce viteza vehiculului
+                pentru a contribui la rezolvarea problemei, facand ca remorcarea sa fie mai controlata. Sistemul incetineste vehiculul, reducand
+                cuplul motorului si crescand treptat presiunea franelor pe roti.
             </div>
         </div>
     </div>
@@ -363,7 +337,7 @@ return false;"
             <div class="">
 
                     <img
-                            src="/assets/img/noul_ranger/1214423958878.jpg"
+                            src="/assets/img/noul_ranger/1214544822234.jpg"
                             border="0" width="97"
                             height="97"
                             alt="Ford Ranger"
@@ -380,7 +354,9 @@ return false;"
         </div>
         <div class='BTIarticleBody'>
             <div class='BTIarticleText'>
-                Sistemul de control al coborârii în pantă (Hill Descent Control - HDC) vă oferă un control sporit la coborârile abrupte, fie pe asfalt, fie offroad.
+                Functia de Control la coborarea in panta (HDC) are scopul de a regla viteza la coborarea pantelor in
+                conditii off-road fara sa fie nevoie sa atingeti pedala de frana sau de acceleratie si functioneaza
+                inclusiv la deplasarea in marsarier.
             </div>
         </div>
     </div>
@@ -391,7 +367,7 @@ return false;"
             <div class="">
 
                     <img
-                            src="/assets/img/noul_ranger/1214423960299.jpg"
+                            src="/assets/img/noul_ranger/1214544822150.jpg"
                             border="0" width="97"
                             height="97"
                             alt="Ford Ranger"
@@ -404,11 +380,14 @@ return false;"
             </div>
         </div>
         <div class="BTIarticleTitle">
-            Un plus de control în cazul pornirilor în rampă
+            Controlul electronic al stabilitatii te ajuta sa mentii controlul asupra autovehiculului, indiferent de conditii
         </div>
         <div class='BTIarticleBody'>
             <div class='BTIarticleText'>
-                Sistemul de asistenţă la pornirea &icirc;n rampă (Hill Start Assist - HSA) &icirc;mpiedică maşina să alunece &icirc;n spate la pornirile &icirc;n rampă, aplic&acirc;nd fr&acirc;na p&acirc;nă c&acirc;nd apăsaţi pedala de acceleraţie.
+                Controlul electronic al stabilitatii (ESC) monitorizeaza in mod constant deplasarea masinii, detecteaza orice
+                abateri de la traseul ales (daca vehiculul incepe sa patineze, de exemplu) si te ajuta automat la corectarea
+                pozitiei de drum. Sistemul este creat pentru a te ajuta sa mentii controlul asupra vehiculului si, in plus,
+                te poate ajuta sa reduci distanta de franare in caz de urgenta.
             </div>
         </div>
     </div>
@@ -419,7 +398,7 @@ return false;"
             <div class="">
 
                     <img
-                            src="/assets/img/noul_ranger/1214423962698.jpg"
+                            src="/assets/img/noul_ranger/1214544821039.jpg"
                             border="0" width="97"
                             height="97"
                             alt="Ford Ranger"
@@ -432,58 +411,27 @@ return false;"
             </div>
         </div>
         <div class="BTIarticleTitle">
-            Menţinerea în siguranţă pe banda de rulare a remorcii
+            Protectie continua impotriva rasturnarii
         </div>
         <div class='BTIarticleBody'>
             <div class='BTIarticleText'>
-                Sistemul de stabilizare a remorcii (Trailer Sway Mitigation - TSM) detectează pierderea stabilităţii remorcii şi reduce automat viteza maşinii, p&acirc;nă la nivelul necesar pentru ca remorca să se stabilizeze. Astfel, tractarea este mai sigură. Decelerarea este obţinută prin reducerea cuplului şi aplicarea treptată a fr&acirc;nelor simultan, pe toate cele patru roţi.
+                Reducerea efectului de rasturnare (ROM) monitorizeaza vehiculul si detecteaza conditiile de deplasare periculoase ce ar
+                putea duce la rasturnarea masinii. In acel moment, sistemul declanseaza ESC pentru a interveni ca sa controleze viteza
+                si sa redobandeasca stabilitatea.
             </div>
         </div>
     </div>
 </div>
-<div class="BTIRow">
-    <div class="BTIOneItem">
-        <div class="BTIarticleTitle">
-            Caracteristici de control care se adaptează în funcţie de încărcătură
-        </div>
-        <div class='BTIarticleBody'>
-            <div class='BTIarticleText'>
-                Sistemul de control adaptiv al sarcinii (LAC) ajustează Programul de control electronic al stabilităţii &icirc;n funcţie de starea Ranger-ului, &icirc;ncărcat sau ne&icirc;ncărcat, reacţion&acirc;nd &icirc;n mod inteligent la datele primite de la volan. Acest lucru asigură control şi stabilitate &icirc;n toate condiţiile de &icirc;ncărcare.
-            </div>
-        </div>
-    </div>
-</div>
-<div class="BTIRow">
-    <div class="BTIOneItem">
-        <div class="BTIarticleTitle">
-            Un avertisment în spate, atunci când frânaţi brusc
-        </div>
-        <div class='BTIarticleBody'>
-            <div class='BTIarticleText'>
-                Iluminarea la fr&acirc;narea de urgenţă (EBL).
-            </div>
-        </div>
-    </div>
-</div>
-<div class="BTIRow">
-    <div class="BTIOneItem">
-        <div class="BTIarticleTitle">
-            Protecţie continuă împotriva răsturnării
-        </div>
-        <div class='BTIarticleBody'>
-            <div class='BTIarticleText'>
-                Reducerea efectului de răsturnare.
-            </div>
-        </div>
-    </div>
-</div>
+
+
+
 <div class="BTIRow">
     <div class="BTIOneItem">
         <div class="BTIImage">
             <div class="">
 
                     <img
-                            src="/assets/img/noul_ranger/1214423962158.jpg"
+                            src="/assets/img/noul_ranger/1214544822570.jpg"
                             border="0" width="97"
                             height="97"
                             alt="Ford Ranger"
@@ -496,11 +444,13 @@ return false;"
             </div>
         </div>
         <div class="BTIarticleTitle">
-            Aderenţă maximă cu efort minim
+            Un plus de control in cazul pornirilor in rampa
         </div>
         <div class='BTIarticleBody'>
             <div class='BTIarticleText'>
-                Sistemul de control al tracţiunii (TCS) al noului Ranger.
+                Pornirea asistata in panta (HSA) impiedica temporar rularea in spate sau in fata atunci cand pornesti din panta.
+                Sistemul functioneaza prin mentinerea presiunii la nivelul sistemului de fanare pentru un interval suplimentar
+                de 2,5 secunde, asigurandu-va mai mult timp si control atunci cand mutati piciorul de pe pedala de frana pe cea de acceleratie.
             </div>
         </div>
     </div>
@@ -511,7 +461,7 @@ return false;"
             <div class="">
 
                     <img
-                            src="/assets/img/noul_ranger/1214423959490.jpg"
+                            src="/assets/img/noul_ranger/1214544817126.jpg"
                             border="0" width="97"
                             height="97"
                             alt="Caroserie rezistentă pentru protecţie maximă"
@@ -524,11 +474,13 @@ return false;"
             </div>
         </div>
         <div class="BTIarticleTitle">
-            O caroserie mai rezistentă pentru protecţie maximă
+            Aderenta maxima cu efort minim
         </div>
         <div class='BTIarticleBody'>
             <div class='BTIarticleText'>
-                Tehnicile superioare de construcţie, folosite pentru caroseria noului Ranger, oferă un plus de siguranţă pentru ocupanţi, forţa coliziunii fiind deviată dinspre habtiaclu. &Icirc;n plus, podeaua mai &icirc;naltă şi barele laterale oferă protecţie suplimentară &icirc;n caz de impact lateral.
+                Un sistem avansat de control al tractiunii (TCS) elimina alunecarea in exces a rotilor si asigura cea mai buna aderenta,
+                performanta si stabilitate, atunci cand ai mai mare nevoie. Sistemul monitorizeaza incontinuu si ajusteaza puterea livrata
+                rotilor individuale ale vehiculului, asigurand contact si aderenta maxime atunci cand accelerezi.
             </div>
         </div>
     </div>
@@ -539,7 +491,7 @@ return false;"
             <div class="">
 
                     <img
-                            src="/assets/img/noul_ranger/1214423961707.jpg"
+                            src="/assets/img/noul_ranger/1214544820538.jpg"
                             border="0" width="97"
                             height="97"
                             alt="Ford Ranger XLT"
@@ -552,11 +504,13 @@ return false;"
             </div>
         </div>
         <div class="BTIarticleTitle">
-            Sisteme avansate pentru o frânare mai controlată
+            Caracteristici de control care se adapteaza in functie de incarcatura
         </div>
         <div class='BTIarticleBody'>
             <div class='BTIarticleText'>
-                Sistemul avansat de fr&acirc;nare al noului Ranger, care combină distribuţia electronică a forţei de fr&acirc;nare (EBD) cu ABS-ul, asigură o fr&acirc;nare mai sigură şi mai eficientă, păstr&acirc;nd şi manevrabilitatea maşinii  - esenţială atunci c&acirc;nd sunteţi nevoit să fr&acirc;naţi &icirc;n curbă. Acest sistem reduce şi distanţele de fr&acirc;nare, indiferent de condiţiile de drum.
+                Sistemul de Control adaptiv al incarcaturii (LAC) ajusteaza sistemul de Control electronic al stabilitatii in
+                functie de greutatea totala pe care o transporta noul Ranger. Acest lucru asigura control si stabilitate,
+                indiferent daca masina este goala sau complet incarcata.
             </div>
         </div>
     </div>
@@ -567,7 +521,7 @@ return false;"
             <div class="">
 
                     <img
-                            src="/assets/img/noul_ranger/1214423962818.jpg"
+                            src="/assets/img/noul_ranger/1214544820871.jpg"
                             border="0" width="97"
                             height="97"
                             alt="Ford Ranger - Airbaguri pasageri"
@@ -580,11 +534,14 @@ return false;"
             </div>
         </div>
         <div class="BTIarticleTitle">
-            Airbaguri menite să vă protejeze din orice unghi
+            Putere suplimentara pentru franare de urgenta
         </div>
         <div class='BTIarticleBody'>
             <div class='BTIarticleText'>
-                Noul Ranger este echipat, &icirc;ncă din varianta standard, cu airbaguri pentru şofer şi pasager. Sunt disponibile, de asemenea, airbaguri cortină şi pentru torace, precum şi un airbag pentru genunchi. Airbagurile laterale tip cortină protejează &icirc;mpotriva impacturilor laterale, la nivelul capului, &icirc;n timp ce airbagurile pentru torace protejează &icirc;n special &icirc;n caz de impact lateral la nivelul uşii.
+                Sistemul de asistenta la franarea de urgenta (EBA) ajuta vehiculul sa atinga eficienta maxima de franare in cazul unei
+                situatii de urgenta. Sistemul detecteaza presiunea aplicata de sofer pe pedala de frana si creste automat aceasta presiune,
+                daca este cazul. Sistemul Lumina de franare de urgenta (EBL) aprinde intermitent luminile de frana pentru a avertiza ceilalti
+                soferi atunci cand franati puternic.
             </div>
         </div>
     </div>
@@ -595,7 +552,7 @@ return false;"
             <div class="">
 
                     <img
-                            src="/assets/img/noul_ranger/1214423959061.jpg"
+                            src="/assets/img/noul_ranger/1214544819210.jpg"
                             border="0" width="97"
                             height="97"
                             alt="Tehnologie avansată pentru centuri de siguranţă"
@@ -608,11 +565,13 @@ return false;"
             </div>
         </div>
         <div class="BTIarticleTitle">
-            Tehnologie avansată pentru centuri de siguranţă mai eficiente
+            Sistemele de siguranta coordonate se activeaza intr-o fractiune de secunda
         </div>
         <div class='BTIarticleBody'>
             <div class='BTIarticleText'>
-                Cele două scaune din faţă, precum şi cele trei din spate, &icirc;n versiunea Double Cab, sunt echipate cu centuri de siguranţă. Cele pentru locurile din faţă sunt pretensionate, pentru a menţine corpul mai ferm &icirc;n scaun şi a mări eficienţa airbagurilor.
+                Pe langa celula de siguranta rigida, completata de airbagurile standard, pachetul Sistem de Protectie
+                Inteligent (IPS) al noului Ranger include, de asemenea, dispozitive de pretensionare a centurilor de siguranta si o
+                coloana de directie si pedale care se retrag pentru a reduce riscul de accidentare in cazul unui impact.
             </div>
         </div>
     </div>
@@ -623,7 +582,7 @@ return false;"
             <div class="">
 
                     <img
-                            src="/assets/img/noul_ranger/1214423962818.jpg"
+                            src="/assets/img/noul_ranger/1214544822318.jpg"
                             border="0" width="97"
                             height="97"
                             alt="Ford Ranger - Airbaguri pasageri"
@@ -636,11 +595,13 @@ return false;"
             </div>
         </div>
         <div class="BTIarticleTitle">
-            Prevenirea vătămării de către airbagul pentru pasager
+            Te avertizeaza daca pneurile pierd presiune
         </div>
         <div class='BTIarticleBody'>
             <div class='BTIarticleText'>
-                Dezactivarea airbagului pentru pasager.
+                Intotdeauna este important sa mentii presiunea corecta in pneuri, pentru a te ajuta sa economisesti combustibil,
+                sa protejezipneurile si sa fii in siguranta. De aceea, senzorii monitorizeaza constant fiecare roata si te alerteaza
+                daca apare o problema, astfel incat sa poti trage pe dreapta, sa verifici si sa umfli pneul sau sa schimbi roata.
             </div>
         </div>
     </div>
@@ -651,7 +612,7 @@ return false;"
             <div class="">
 
                     <img
-                            src="/assets/img/noul_ranger/1214423960239.jpg"
+                            src="/assets/img/noul_ranger/1214544820704.jpg"
                             border="0" width="97"
                             height="97"
                             alt="Ford Ranger - scaune faţă ajustabile"
@@ -664,71 +625,16 @@ return false;"
             </div>
         </div>
         <div class="BTIarticleTitle">
-            Sistem de reamintire pentru utilizarea centurii de siguranţă, pentru un plus de siguranţă
+            Protejarea si securizarea vehiculului impotriva furtului
         </div>
         <div class='BTIarticleBody'>
             <div class='BTIarticleText'>
-                Sistemul emite un avertisment sonor şi luminos, în cazul în care vehiculul se află în mişcare iar centura şoferului sau a pasagerului nu este cuplată.
+                Un sistem sofisticat de alarma si imobilizare Thatcham (categoria 1) are scopul de a descuraja hotii si de a-i impiedica sa va fure masina daca reusesc sa patrunda cu forta.
             </div>
         </div>
     </div>
 </div>
-<div class="BTIRow">
-    <div class="BTIOneItem">
-        <div class="BTIImage">
-            <div class="">
 
-                    <img
-                            src="/assets/img/noul_ranger/1214423960737.jpg"
-                            border="0" width="97"
-                            height="97"
-                            alt="Spaţiu pentru picioare"
-                            title="Spaţiu pentru picioare"
-                            style="border: solid 1px #999999;">
-                </a>
-                <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423960736&#38;blobkey=id" target="_blank" id="izid25752071205008758054" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423960736&#38;blobkey=id','image','Spa\u0163iu pentru picioare','Închide'); return false;"></a>
-                </div>
-            </div>
-        </div>
-        <div class="BTIarticleTitle">
-            Scaune mai sigure pentru micii pasageri
-        </div>
-        <div class='BTIarticleBody'>
-            <div class='BTIarticleText'>
-                Siguranţa, confortul şi protecţia copiilor dumneavoastră sunt esenţiale. De aceea, veţi găsi sistemele de prindere ISOFIX pentru fixarea scaunelor pentru copii disponibile ca dotare standard. Aceste sisteme de prindere includ un dispozitiv pentru ancorare de tetieră, care reduce semnificativ riscul de leziuni la nivelul capului &icirc;n timpul unui accident.
-            </div>
-        </div>
-    </div>
-</div>
-<div class="BTIRow">
-    <div class="BTIOneItem">
-        <div class="BTIImage">
-            <div class="">
-
-                    <img
-                            src="/assets/img/noul_ranger/1214423960617.jpg"
-                            border="0" width="97"
-                            height="97"
-                            alt="Ford Ranger - Interior"
-                            title="Ford Ranger - Interior"
-                            style="border: solid 1px #999999;">
-                </a>
-                <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423960616&#38;blobkey=id" target="_blank" id="izid38650711205008757323" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423960616&#38;blobkey=id','image','Ford Ranger - Interior','Închide'); return false;"></a>
-                </div>
-            </div>
-        </div>
-        <div class="BTIarticleTitle">
-            Coloana de direcţie retractabilă ajută la prevenirea vătămării şoferului
-        </div>
-        <div class='BTIarticleBody'>
-            <div class='BTIarticleText'>
-                Coloana de direcţie retractabilă se fragmentează şi se retrage &icirc;n caz de impact frontal, reduc&acirc;nd considerabil riscul de rănire a şoferului.
-            </div>
-        </div>
-    </div>
-</div>
 </div>
 </div>
 <div id="tab001-contentpane-1" class="tab001-pane-unselected">

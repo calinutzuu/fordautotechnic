@@ -72,12 +72,7 @@
                         document.id('menu1205008754585').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205008756328' class=''>
-                    <a href='/VehiculeComerciale/NoulRanger/Utilitate'>Utilitate</a>
-                    <script type="text/javascript">
-                        document.id('menu1205008756328').addClass("navnextSteps");
-                    </script>
-                </li>
+
                 <li class="selected"><p>Performan&#355;&#259; &#351;i eficien&#355;&#259;</p></li>
                 <li id='menu1205008758597' class=''>
                     <a href='/VehiculeComerciale/NoulRanger/Siguranta'>Siguran&#355;&#259; &#351;i protec&#355;ie</a>
@@ -119,7 +114,7 @@
             });
         </script>
         <div id="mdp">
-            <img src='/assets/img/noul_ranger/1214423958678.jpg' alt='Ford Ranger' onclick="omnitureViewPhoto()">
+            <img src='/assets/img/noul_ranger/1214554703276.jpg' alt='Ford Ranger' onclick="omnitureViewPhoto()">
         </div>
         <div class="mdp2" id="mdpImageControl" >
             <table>
@@ -164,10 +159,8 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205008754976'); return false
     <div class="btoArticleTitle"></div>
     <div class="btoArticleText">
         <div class="btoArticleAbstract">
-            <h1 style="color:#425968; font-famlily:FordAntennaRegular,Arial,Verdana,Tahoma,Helvetica,sans-serif; font-size:2.2em; line-height:100%;">Noi niveluri de putere şi de economie</h1>
-            Noul Ranger dispune de o gamă nouă şi &icirc;mbunătăţită de motoare, care dezvoltă mai multă putere şi au un consum de combustibil mai redus. Pe l&acirc;ngă nivelurile superioare ale economiei de combustibil beneficiaţi şi de niveluri de emisii mai scăzute: vehiculul are acum un nivel al emisiilor de CO2 de numai 192 g/Km.  <br>
-            <br>
-            Aflaţi mai multe despre noile motoare şi despre alte &icirc;mbunătăţiri tehnice care au ca rezultat performanţe şi eficienţă sporite.
+            <h1 style="color:#425968; font-famlily:FordAntennaRegular,Arial,Verdana,Tahoma,Helvetica,sans-serif; font-size:2.2em; line-height:100%;">SPORESTE PUTEAREA CU TEHNOLOGIE DE MOTORIZARE AVANSATA</h1>
+            Concepute si construite sa functioneze in combinatie cu sistemul 4WD selectabil, o intreaga gama motoare superioare asigura performanta si eficienta, putere si rafinament.
         </div>
     </div>
 </div>
@@ -267,55 +260,12 @@ if(typeof(sford)=='object')setOmnitureTabName('Putere');
 return false;"
                             onmouseover="tab001HoverTab('0', true);"
                             onmouseout="tab001HoverTab('0', false);"
-                            class="tab_anchor">Putere</a></td>
+                            class="tab_anchor"></a></td>
             </tr>
             </thead>
         </table>
     </div>
-    <div
-            id="tab001-tab-1"
-            class="tab001_item  unselected "
-            style="text-align:center;">
-        <table cellpadding="0" cellspacing="0" border="0" title="Manevrabilitate">
-            <thead>
-            <tr>
-                <td class="tab001_header_arrow"><a href="/VehiculeComerciale/NoulRanger/PerformantaSiEficienta/tabid=tab1" class="tab_anchor"></a></td>
-                <td class="tab001_header_label" valign="middle" style="height:41px;vertical-align:middle;">
-                    <!-- 	TD 8174 jhe method has been called from here to escape special characters -->
-                    <a
-                            href="/VehiculeComerciale/NoulRanger/PerformantaSiEficienta/tabid=tab1"
-                            onclick="tab001SelectTab('1');
-if(typeof(sford)=='object')setOmnitureTabName('Manevrabilitate');
-return false;"
-                            onmouseover="tab001HoverTab('1', true);"
-                            onmouseout="tab001HoverTab('1', false);"
-                            class="tab_anchor">Manevrabilitate</a></td>
-            </tr>
-            </thead>
-        </table>
-    </div>
-    <div
-            id="tab001-tab-2"
-            class="tab001_item last unselected_last unselected "
-            style="text-align:center;">
-        <table cellpadding="0" cellspacing="0" border="0" title="Economie">
-            <thead>
-            <tr>
-                <td class="tab001_header_arrow"><a href="/VehiculeComerciale/NoulRanger/PerformantaSiEficienta/tabid=tab2" class="tab_anchor"></a></td>
-                <td class="tab001_header_label" valign="middle" style="height:41px;vertical-align:middle;">
-                    <!-- 	TD 8174 jhe method has been called from here to escape special characters -->
-                    <a
-                            href="/VehiculeComerciale/NoulRanger/PerformantaSiEficienta/tabid=tab2"
-                            onclick="tab001SelectTab('2');
-if(typeof(sford)=='object')setOmnitureTabName('Economie');
-return false;"
-                            onmouseover="tab001HoverTab('2', true);"
-                            onmouseout="tab001HoverTab('2', false);"
-                            class="tab_anchor">Economie</a></td>
-            </tr>
-            </thead>
-        </table>
-    </div>
+
 </div><!-- END OF HEADER -->
 <div class="tab001_divider"></div>
 <div class="tab001_content_container">
@@ -323,11 +273,7 @@ return false;"
 <div id="tab001-contentpane-0" class="tab001-pane-selected">
     <div class="tab001_TabTop_IntroText" >
         <div class="btoArticleTitle"></div>
-        <div class="btoArticleText">
-            <div class="btoArticleAbstract">
-                Pentru a face faţă &icirc;ncărcăturilor grele şi pentru a se descurca perfect pe terenuri dificile, noul Ranger trebuie să poată dezvolta un cuplu ridicat. Motoarele şi transmisiile din noua gamă pot asigura acest cuplu oric&acirc;nd aveţi nevoie.
-            </div>
-        </div>
+
     </div>
     <div class='tab001_TabReco_ShowBTI001Collection' >
         <div class="BTIRow">
@@ -353,7 +299,13 @@ return false;"
                 </div>
                 <div class='BTIarticleBody'>
                     <div class='BTIarticleText'>
-                        &Icirc;n timp ce motorul TDCi (diesel) de 3,2 litri şi 200 CP asigură un cuplu de p&acirc;nă la 470 Nm, motoarele cu putere superioară utilizează un Turbocompresor cu geometrie variabilă (VGT), care controlează puterea şi cuplul generate. Acesta &icirc;mbunătăţeşte pornirea şi vă oferă cel mai ridicat cuplu din clasa sa la viteze reduse, chiar şi dacă nu atingeţi pedala de acceleraţie &ndash; minimiz&acirc;nd consumul de combustibil şi nivelul emisiilor.
+                        Motorul diesel TDCI Duratorq de 2,2l si-a dovedit performanta, forta si fiabilitatea pe teren si a fost acum imbunatatit, oferind un plus de putere si economie.
+<br><br>
+                        Alege intre 130 PS cu transmisie manuala cu 6 trepte de viteza si 160 PS cu transmisie manuala cu 6 trepte de viteza sau cu transmisie automata cu 6 trepte de viteza.
+<br><br>
+                        Iti trebuie si mai multa putere? Opteaza atunci pentru motorul diesel Duratorq TDCi de 3,2l, cu 200 PS si un cuplu de 470 Nm la dispozitia ta.
+<br><br>
+                        O impresionanta economie de combustibil si emisii scazute sunt asigurate incepand de la o valoare de consum de 6,5 l/100 km (43.5 mpg) si, respectiv, emisii de 171 g/km CO2 (160PS 4x4 cu transmisie manuala in 6 trepte si 3,15 FDR).
                     </div>
                 </div>
             </div>
@@ -377,11 +329,72 @@ return false;"
                     </div>
                 </div>
                 <div class="BTIarticleTitle">
-                    Noile transmisii cu 6 trepte de viteză economisesc combustibil şi reduc emisiile
+                    Transmisie manuala sau automata
                 </div>
                 <div class='BTIarticleBody'>
                     <div class='BTIarticleText'>
-                        Ranger este disponibil cu o cutie nouă de viteze, cu şase trepte şi schimbare manuală; aceasta oferă o trecere lină &icirc;ntre viteze şi reduce pierderile de putere, fiind proiectată special pentru noile motorizări diesel. Noua transmisie reduce emisiile şi consumul de combustibil, oferind, &icirc;n acelaşi timp, o experienţă mai relaxantă. Puteţi alege, de asemenea, o cutie de viteze automată, ale cărei reglaje de precizie oferă schimbarea rapidă dar fină a vitezelor şi un consum de combustibil ameliorat.
+                        Exista doua optiuni de transmisie diferite. O cutie de viteze manuala in 6 trepte, care schimba treptele cu precizie, si o cutie
+                        automata lina cu 6 trepte si puncte de schimbare a vitezei reglate cu grija.
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="BTIRow">
+            <div class="BTIOneItem">
+                <div class="BTIImage">
+                    <div class="">
+
+                        <img
+                            src="/assets/img/noul_ranger/1214544820289.jpg"
+                            border="0" width="97"
+                            height="97"
+                            alt="Cutie de viteză"
+                            title="Cutie de viteză"
+                            style="border: solid 1px #999999;">
+                        </a>
+                        <div>
+                            <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423962757&#38;blobkey=id" target="_blank" id="izid75971531205008751566" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423962757&#38;blobkey=id','image','Cutie de vitez\u0103','Închide'); return false;"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="BTIarticleTitle">
+                    Folosesti mai putin combustibil cu functia Auto-Start-Stop
+                </div>
+                <div class='BTIarticleBody'>
+                    <div class='BTIarticleText'>
+                        Atunci cand te opresti la semafor sau cand astepti intr-o coloana, aceasta tehnologie poate opri automat motorul,
+                        asigurand insa alimentarea sistemelor esentiale. De indata ce esti gata sa pleci de pe loc, apasa pe pedala de
+                        ambreiaj si selecteaza prima treapta de viteza, iar sistemul porneste din nou motorul. In orase, sistemul Auto-Start-Stop
+                        poate reduce consumul de combustibil cu pana la 10% (mediu urban).
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="BTIRow">
+            <div class="BTIOneItem">
+                <div class="BTIImage">
+                    <div class="">
+
+                        <img
+                            src="/assets/img/noul_ranger/1214544817043.jpg"
+                            border="0" width="97"
+                            height="97"
+                            alt="Cutie de viteză"
+                            title="Cutie de viteză"
+                            style="border: solid 1px #999999;">
+                        </a>
+                        <div>
+                            <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423962757&#38;blobkey=id" target="_blank" id="izid75971531205008751566" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423962757&#38;blobkey=id','image','Cutie de vitez\u0103','Închide'); return false;"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="BTIarticleTitle">
+                    Si mai multe optiuni
+                </div>
+                <div class='BTIarticleBody'>
+                    <div class='BTIarticleText'>
+                        Nevoile individuale variaza. Pentru prima data la un Ranger, aii posibilitatea sa alegi raporturi de axe pentru motorul Duratorq TDCi de 2,2l si 160 PS cu transmisie manuala. Acest lucru iti permite sa stabilesti prioritatea intre economia de combustibil (raport standard) si putere de tractiune (raport optional) *.
                     </div>
                 </div>
             </div>
@@ -421,9 +434,15 @@ return false;"
                 </div>
                 <div class='BTIarticleBody'>
                     <div class='BTIarticleText'>
-                        Noul sistem de direcţie, cu pinion şi cremalieră, se traduce &icirc;ntr-o manevrabilitate mai bună şi o precizie mai mare. Sistemul este proiectat pentru o manevrabilitate sporită la viteze mici, de exemplu atunci c&acirc;nd parcaţi sau c&acirc;nd negociaţi un teren accidentat. Plaja de mişcare a direcţiei este acoperită &icirc;n 3,5 rotaţii ale volanului, la fel ca la autoturismele mici, iar raza de bracaj este de numai 12,7 m.
+                        Noul sistem de direcţie, cu pinion şi cremalieră, se traduce &icirc;ntr-o manevrabilitate mai bună şi o precizie mai mare.
+                        Sistemul este proiectat pentru o manevrabilitate sporită la viteze mici, de exemplu atunci c&acirc;nd parcaţi sau c&acirc;nd
+                        negociaţi un teren accidentat. Plaja de mişcare a direcţiei este acoperită &icirc;n 3,5 rotaţii ale volanului, la fel ca la
+                        autoturismele mici, iar raza de bracaj este de numai 12,7 m.
+
+                    *in functie de piata pe care este disponibil vehiculul
                     </div>
-                </div>
+                      </div>
+
             </div>
         </div>
         <div class="BTIRow">

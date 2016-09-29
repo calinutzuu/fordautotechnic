@@ -101,12 +101,7 @@
                         document.id('menu1205054477326').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205054462361' class=''>
-                    <a href='/VehiculeComerciale/Transit2014/Modele'>Modele &#537;i dot&#259;ri op&#539;ionale</a>
-                    <script type="text/javascript">
-                        document.id('menu1205054462361').addClass("navnextSteps");
-                    </script>
-                </li>
+
             </ul>
             <div class="navbottom"></div>
         </div>
@@ -291,7 +286,7 @@ return false;"
     </div>
     <div
             id="tab001-tab-1"
-            class="tab001_item  unselected "
+            class="tab001_item first selected_first selected "
             style="text-align:center;">
         <table cellpadding="0" cellspacing="0" border="0" title="Interior">
             <thead>
@@ -313,7 +308,7 @@ return false;"
         </table>
     </div>
     <div
-            id="tab001-tab-2"
+            id="tab001_item first selected_first selected"
             class="tab001_item last unselected_last unselected "
             style="text-align:center;">
         <table cellpadding="0" cellspacing="0" border="0" title="Culori">
@@ -450,7 +445,7 @@ return false;"
         <!--<END_IGG001 >-->
     </div>
 </div>
-<div id="tab001-contentpane-1" class="tab001-pane-unselected">
+<div id="tab001-contentpane-0" class="tab001-pane-selected">
     <div class="tab001_TabTop_IntroText">
         <div class="btoArticleTitle"></div>
         <div class="btoArticleText">
@@ -547,7 +542,7 @@ return false;"
         <!--<END_IGG001 >-->
     </div>
 </div>
-<div id="tab001-contentpane-2" class="tab001-pane-unselected">
+<div id="tab001-contentpane-0" class="tab001-pane-selected">
 <div class="tab001_TabTop_IntroText">
     <div class="btoArticleTitle"></div>
     <div class="btoArticleText">
@@ -603,10 +598,10 @@ return false;"
         <div class="IGGImg">
 
 <span class="IGGInternalSpan">
-<img src='/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214462072273&amp;blobkey=id'
+<img src='/assets/img/noul_ford_transit/1214462072273.jpg'
      alt="Frozen White" class="IGGImg" border="0">
 </span>
-                <img class="IGGIcon" src="/cs/ENGInE/img/mdc_photo_icon.gif" alt="Image_C icon" border="0">
+
             </a>
         </div>
         <div class="IGGText">Frozen White</div>

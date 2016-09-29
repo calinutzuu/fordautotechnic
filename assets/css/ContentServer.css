@@ -7,81 +7,81 @@ History:
 /*FBolaji - NEW Font from webtype */
 @font-face {
 font-family: "FordAntennaRegular";
-src: url("/cs/ENGInE/font/FordAntennaRegular/FordAntenna-Regular.eot");
-src: url("/cs/ENGInE/font/FordAntennaRegular/FordAntenna-Regular.eot?") format("embedded-opentype"),
-url("/cs/ENGInE/font/FordAntennaRegular/FordAntenna-Regular.woff") format("woff"),
-url("/cs/ENGInE/font/FordAntennaRegular/FordAntenna-Regular.ttf") format("truetype"),
-url('/cs/ENGInE/font/FordAntennaRegular/FordAntenna-Regular.svg') format('svg');
+src: url("/assets/fonts/FordAntennaRegular/FordAntenna-Regular.eot");
+src: url("/assets/fonts/FordAntennaRegular/FordAntenna-Regular.eot?") format("embedded-opentype"),
+url("/assets/fonts/FordAntennaRegular/FordAntenna-Regular.woff") format("woff"),
+url("/assets/fonts/FordAntennaRegular/FordAntenna-Regular.ttf") format("truetype"),
+url('/assets/fonts/FordAntennaRegular/FordAntenna-Regular.svg') format('svg');
 font-style: normal;
 font-weight: normal;
 }
 @font-face {
 font-family: "FordAntennaBold";
-src: url("/cs/ENGInE/font/FordAntennaBold/FordAntenna-Bold.eot");
-src: url("/cs/ENGInE/font/FordAntennaBold/FordAntenna-Bold.eot?") format("embedded-opentype"),
-url("/cs/ENGInE/font/FordAntennaBold/FordAntenna-Bold.woff") format("woff"),
-url("/cs/ENGInE/font/FordAntennaBold/FordAntenna-Bold.ttf") format("truetype"),
-url('/cs/ENGInE/font/FordAntennaBold/FordAntenna-Bold.svg') format('svg');
+src: url("/assets/fonts/FordAntennaBold/FordAntenna-Bold.eot");
+src: url("/assets/fonts/FordAntennaBold/FordAntenna-Bold.eot?") format("embedded-opentype"),
+url("/assets/fonts/FordAntennaBold/FordAntenna-Bold.woff") format("woff"),
+url("/assets/fonts/FordAntennaBold/FordAntenna-Bold.ttf") format("truetype"),
+url('/assets/fonts/FordAntennaBold/FordAntenna-Bold.svg') format('svg');
 font-style: normal;
 font-weight: bold;
 }
 @font-face {
 font-family: "FordAntennaBlack";
-src: url("/cs/ENGInE/font/FordAntennaBlack/FordAntenna-Black.eot");
-src: url("/cs/ENGInE/font/FordAntennaBlack/FordAntenna-Black.eot?") format("embedded-opentype"),
-url("/cs/ENGInE/font/FordAntennaBlack/FordAntenna-Black.woff") format("woff"),
-url("/cs/ENGInE/font/FordAntennaBlack/FordAntenna-Black.ttf") format("truetype"),
-url('/cs/ENGInE/font/FordAntennaBlack/FordAntenna-Black.svg') format('svg');
+src: url("/assets/fonts/FordAntennaBlack/FordAntenna-Black.eot");
+src: url("/assets/fonts/FordAntennaBlack/FordAntenna-Black.eot?") format("embedded-opentype"),
+url("/assets/fonts/FordAntennaBlack/FordAntenna-Black.woff") format("woff"),
+url("/assets/fonts/FordAntennaBlack/FordAntenna-Black.ttf") format("truetype"),
+url('/assets/fonts/FordAntennaBlack/FordAntenna-Black.svg') format('svg');
 font-style: normal;
 font-weight: normal;
 }
 @font-face {
 font-family: "FordAntennaLight";
-src: url("/cs/ENGInE/font/FordAntennaLight/FordAntenna-Light.eot");
-src: url("/cs/ENGInE/font/FordAntennaLight/FordAntenna-Light.eot?") format("embedded-opentype"),
-url("/cs/ENGInE/font/FordAntennaLight/FordAntenna-Light.woff") format("woff"),
-url("/cs/ENGInE/font/FordAntennaLight/FordAntenna-Light.ttf") format("truetype"),
-url('/cs/ENGInE/font/FordAntennaLight/FordAntenna-Light.svg') format('svg');
+src: url("/assets/fonts/FordAntennaLight/FordAntenna-Light.eot");
+src: url("/assets/fonts/FordAntennaLight/FordAntenna-Light.eot?") format("embedded-opentype"),
+url("/assets/fonts/FordAntennaLight/FordAntenna-Light.woff") format("woff"),
+url("/assets/fonts/FordAntennaLight/FordAntenna-Light.ttf") format("truetype"),
+url('/assets/fonts/FordAntennaLight/FordAntenna-Light.svg') format('svg');
 font-style: normal;
 font-weight: normal;
 }
 @font-face {
 font-family: "FordAntennaExtraLight";
-src: url("/cs/ENGInE/font/FordAntennaExtraLight/FordAntenna-ExtraLight.eot");
-src: url("/cs/ENGInE/font/FordAntennaExtraLight/FordAntenna-ExtraLight.eot?") format("embedded-opentype"),
-url("/cs/ENGInE/font/FordAntennaExtraLight/FordAntenna-ExtraLight.woff") format("woff"),
-url("/cs/ENGInE/font/FordAntennaExtraLight/FordAntenna-ExtraLight.ttf") format("truetype"),
-url('/cs/ENGInE/font/FordAntennaExtraLight/FordAntenna-ExtraLight.svg') format('svg');
+src: url("/assets/fonts/FordAntennaExtraLight/FordAntenna-ExtraLight.eot");
+src: url("/assets/fonts/FordAntennaExtraLight/FordAntenna-ExtraLight.eot?") format("embedded-opentype"),
+url("/assets/fonts/FordAntennaExtraLight/FordAntenna-ExtraLight.woff") format("woff"),
+url("/assets/fonts/FordAntennaExtraLight/FordAntenna-ExtraLight.ttf") format("truetype"),
+url('/assets/fonts/FordAntennaExtraLight/FordAntenna-ExtraLight.svg') format('svg');
 font-style: normal;
 font-weight: normal;
 }
 @font-face {
 font-family: "FordAntennaCond";
-src: url("/cs/ENGInE/font/FordAntennaCond/FordAntenna-Cond.eot");
-src: url("/cs/ENGInE/font/FordAntennaCond/FordAntenna-Cond.eot?") format("embedded-opentype"),
-url("/cs/ENGInE/font/FordAntennaCond/FordAntenna-Cond.woff") format("woff"),
-url("/cs/ENGInE/font/FordAntennaCond/FordAntenna-Cond.ttf") format("truetype"),
-url('/cs/ENGInE/font/FordAntennaCond/FordAntenna-Cond.svg') format('svg');
+src: url("/assets/fonts/FordAntennaCond/FordAntenna-Cond.eot");
+src: url("/assets/fonts/FordAntennaCond/FordAntenna-Cond.eot?") format("embedded-opentype"),
+url("/assets/fonts/FordAntennaCond/FordAntenna-Cond.woff") format("woff"),
+url("/assets/fonts/FordAntennaCond/FordAntenna-Cond.ttf") format("truetype"),
+url('/assets/fonts/FordAntennaCond/FordAntenna-Cond.svg') format('svg');
 font-style: normal;
 font-weight: normal;
 }
 @font-face {
 font-family: "FordAntennaCondMedium";
-src: url("/cs/ENGInE/font/FordAntennaCondMed/FordAntenna-CondMed.eot");
-src: url("/cs/ENGInE/font/FordAntennaCondMed/FordAntenna-CondMed.eot?") format("embedded-opentype"),
-url("/cs/ENGInE/font/FordAntennaCondMed/FordAntenna-CondMed.woff") format("woff"),
-url("/cs/ENGInE/font/FordAntennaCondMed/FordAntenna-CondMed.ttf") format("truetype"),
-url('/cs/ENGInE/font/FordAntennaCondMed/FordAntenna-CondMed.svg') format('svg');
+src: url("/assets/fonts/FordAntennaCondMed/FordAntenna-CondMed.eot");
+src: url("/assets/fonts/FordAntennaCondMed/FordAntenna-CondMed.eot?") format("embedded-opentype"),
+url("/assets/fonts/FordAntennaCondMed/FordAntenna-CondMed.woff") format("woff"),
+url("/assets/fonts/FordAntennaCondMed/FordAntenna-CondMed.ttf") format("truetype"),
+url('/assets/fonts/FordAntennaCondMed/FordAntenna-CondMed.svg') format('svg');
 font-style: normal;
 font-weight: normal;
 }
 @font-face {
 font-family: "FordAntennaCondBold";
-src: url("/cs/ENGInE/font/FordAntennaCondBold/FordAntenna-CondBold.eot");
-src: url("/cs/ENGInE/font/FordAntennaCondBold/FordAntenna-CondBold.eot?") format("embedded-opentype"),
-url("/cs/ENGInE/font/FordAntennaCondBold/FordAntenna-CondBold.woff") format("woff"),
-url("/cs/ENGInE/font/FordAntennaCondBold/FordAntenna-CondBold.ttf") format("truetype"),
-url('/cs/ENGInE/font/FordAntennaCondBold/FordAntenna-CondBold.svg') format('svg');
+src: url("/assets/fonts/FordAntennaCondBold/FordAntenna-CondBold.eot");
+src: url("/assets/fonts/FordAntennaCondBold/FordAntenna-CondBold.eot?") format("embedded-opentype"),
+url("/assets/fonts/FordAntennaCondBold/FordAntenna-CondBold.woff") format("woff"),
+url("/assets/fonts/FordAntennaCondBold/FordAntenna-CondBold.ttf") format("truetype"),
+url('/assets/fonts/FordAntennaCondBold/FordAntenna-CondBold.svg') format('svg');
 font-style: normal;
 font-weight: bold;
 }
@@ -548,7 +548,7 @@ text-indent: -99999px;
 z-index: 1000;
 }
 #sections>li {
-background: url(/cs/EP2/img/link_break.png) no-repeat 0 12px transparent;
+background: url(/assets/img/link_break.png) no-repeat 0 12px transparent;
 float: left;
 height: 37px;
 padding: 3px 0 0 3px;
@@ -582,12 +582,12 @@ text-transform: uppercase;
 letter-spacing: 0.025em;
 }
 #sections>li.levelOne.focused:hover {
-background: url(/cs/EP2/img/link_break_hover.png) no-repeat left top;
+background: url(/assets/img/link_break_hover.png) no-repeat left top;
 height: 37px;
 z-index: 500;
 }
 #sections li.levelOne.focused>a {
-background: url(/cs/EP2/img/link_break_right_hover.png) no-repeat right
+background: url(/assets/img/link_break_right_hover.png) no-repeat right
 top #fff;
 }
 #sections>li>a:hover span,#sections>li>a:focus span,#sections>li.levelOne.focused>a:focus span,#sections>li.levelOne.focused>a:hover
@@ -598,7 +598,7 @@ border-radius: 3px 3px 3px 3px;
 color: #fff;
 }
 #sections>li>a>span.sepRight {
-background: url(/cs/EP2/img/link_break.png) no-repeat 0 12px transparent;
+background: url(/assets/img/link_break.png) no-repeat 0 12px transparent;
 height: 40px;
 margin: 0;
 padding: 0;
@@ -609,7 +609,7 @@ width: 1px;
 }
 #sections>li>a:hover>span.sepRight,#sections>li>a:focus>span.sepRight,#sections>li.levelOne.focused:hover>a>span.sepRight,#sections>li.levelOne.focused:focus>a>span.sepRight,#sections>li.levelOne:hover>a>span.sepRight,#sections>li.levelOne:focus>a>span.sepRight
 {
-background: url(/cs/EP2/img/link_break.png) no-repeat 0 12px #fff;
+background: url(/assets/img/link_break.png) no-repeat 0 12px #fff;
 display: none;
 height: 40px;
 margin: 0;
@@ -653,14 +653,14 @@ min-height: 330px;
 overflow: hidden;
 }
 .doormat > .innerWrap > .wrapperTabContent{
-background: url(/cs/EP2/img/background/doormat_seperator_right.png) no-repeat top right;
+background: url(/assets/img/background/doormat_seperator_right.png) no-repeat top right;
 float: left;
 min-width: 340px;
 min-height:300px;
 margin: -12px 0px 0px -11px;
 }
 .doormat > .innerWrap > .pvnp-gradient{
-background: url(/cs/EP2/img/background/doormat_seperator_left.png) no-repeat top left;
+background: url(/assets/img/background/doormat_seperator_left.png) no-repeat top left;
 float: left;
 margin-left: 20px;
 margin-top: -12px;
@@ -706,7 +706,7 @@ float: left;
 margin-top:5px;
 }
 .lt-ie9 .doormatContent.fl:before {
-content: url(/cs/EP2/img/background/doormat_primaryLink_separator.png)
+content: url(/assets/img/background/doormat_primaryLink_separator.png)
 no-repeat 0 5px;
 filter: alpha(opacity = 50);
 filter: progid : DXImageTransform.Microsoft.Alpha ( opacity = 0.5 );
@@ -775,7 +775,7 @@ height:191px;
 width:340px;
 }
 .miscellaneousFooter {
-background: url(/cs/EP2/img/background/doormat_footer_bg.png) no-repeat
+background: url(/assets/img/background/doormat_footer_bg.png) no-repeat
 0 0;
 padding: 10px 0px;
 bottom: 0;
@@ -794,7 +794,7 @@ width: 100%;
 margin-left:-10px;
 }
 .miscellaneousFooter .content {
-background: url(/cs/EP2/img/background/doormat_footer_separator.png)
+background: url(/assets/img/background/doormat_footer_separator.png)
 no-repeat right top;
 float: left;
 /*      margin-top:3px;     */
@@ -889,7 +889,7 @@ color: #425968;
 background-position: -29px -33px;
 }
 .tertiary-link {
-background: url(/cs/EP2/img/background/cta_blue_right_chevron.png)
+background: url(/assets/img/background/cta_blue_right_chevron.png)
 center left no-repeat;
 padding: 0 0 0 23px;
 margin:0 0 0 2px;
@@ -1144,7 +1144,7 @@ text-align: center;
 width: 980px;
 }
 a>.partners {
-background-image: url("/cs/EP2/img/partner_logo.png");
+background-image: url("/assets/img/partner_logo.png");
 background-repeat: no-repeat;
 color: #ccc;
 display: block;
@@ -1157,7 +1157,7 @@ background-position: 0px -18px;
 }
 .dashRuler {
 border-bottom: 1px dashed #545454;
-/*background: url(/cs/EP2/img/background/footer_horizontal_divider.png) no-repeat 0 0; */
+/*background: url(/assets/img/background/footer_horizontal_divider.png) no-repeat 0 0; */
 float: left;
 width: 100%;
 }
@@ -1189,7 +1189,7 @@ color: #2D96CD;
 text-decoration: underline;
 }
 .footerDisclaimer {
-background: url("/cs/EP2/img/background/footer_disclaimer_bg.png")
+background: url("/assets/img/background/footer_disclaimer_bg.png")
 repeat-y scroll 0 0 transparent;
 border-bottom: 1px solid #545454;
 border-radius: 3px 3px 3px 3px;
@@ -1219,7 +1219,7 @@ min-width: 980px;
 width: 100%;
 }
 #wrapper>header {
-background: url(/cs/EP2/img/background/header_bg.png) repeat-x
+background: url(/assets/img/background/header_bg.png) repeat-x
 transparent;
 height: 65px;
 position: relative;

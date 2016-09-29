@@ -100,12 +100,7 @@
                         document.id('menu1205049516207').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205049669501' class=''>
-                    <a href='/VehiculeComerciale/TransitConnect/PreturiSiBrosuri'>Liste de pe&#355;uri &#351;i bro&#351;uri</a>
-                    <script type="text/javascript">
-                        document.id('menu1205049669501').addClass("navnextSteps");
-                    </script>
-                </li>
+
             </ul>
             <div class="navbottom"></div>
         </div>

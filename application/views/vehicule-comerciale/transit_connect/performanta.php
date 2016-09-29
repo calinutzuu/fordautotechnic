@@ -97,12 +97,7 @@
                         document.id('menu1205049516207').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205049669501' class=''>
-                    <a href='/VehiculeComerciale/TransitConnect/PreturiSiBrosuri'>Liste de pe&#355;uri &#351;i bro&#351;uri</a>
-                    <script type="text/javascript">
-                        document.id('menu1205049669501').addClass("navnextSteps");
-                    </script>
-                </li>
+
             </ul>
             <div class="navbottom"></div>
         </div>
@@ -131,7 +126,7 @@
             <table>
                 <tr>
                     <td id="mdp2Fullscreen">
-                        <a href="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214457970722&amp;blobkey=id" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214457970722&amp;blobkey=id', 'Puternic+%C5%9Fi+eficient');
+                        <a href="#"engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214457970722&amp;blobkey=id', 'Puternic+%C5%9Fi+eficient');
 if(typeof(sford)=='object') omnitureMDPFullScreen('1205049507171'); return false;" >
                             Fullscreen
                         </a>
@@ -278,7 +273,7 @@ return false;"
     </div>
     <div
             id="tab001-tab-1"
-            class="tab001_item last unselected_last unselected "
+            class="tab001_item first selected_first selected"
             style="text-align:center;">
         <table cellpadding="0" cellspacing="0" border="0" title="Eficienţă">
             <thead>
@@ -318,7 +313,7 @@ return false;"
                                             style="border: solid 1px #999999;">
                                 </a>
                                 <div>
-                                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214457972324&#38;blobkey=id" target="_blank" id="izid43103281205049516377" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214457972324&#38;blobkey=id','image','Motor Ford EcoBoost','Închide'); return false;"></a>
+                                    <a href="#"class="imgZoom_png" ></a>
                                 </div>
                             </div>
                         </div>
@@ -346,8 +341,7 @@ return false;"
                                             style="border: solid 1px #999999;">
                                 </a>
                                 <div>
-                                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214457971254&#38;blobkey=id" target="_blank" id="izid86741861205049511183" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214457971254&#38;blobkey=id','image','Motoare diesel Ford Duratorq','Închide'); return false;"></a>
-                                </div>
+                                    <a href="#"class="imgZoom_png" ></a>                                </div>
                             </div>
                         </div>
                         <div class="BTIarticleTitle">
@@ -362,7 +356,7 @@ return false;"
                 </div>
             </div>
         </div>
-        <div id="tab001-contentpane-1" class="tab001-pane-unselected">
+        <div id="tab001-contentpane-0" class="tab001-pane-selected">
             <div class='tab001_TabReco_ShowBTI001Collection' >
                 <div class="BTIRow">
                     <div class="BTIOneItem">
@@ -378,8 +372,7 @@ return false;"
                                             style="border: solid 1px #999999;">
                                 </a>
                                 <div>
-                                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214457971025&#38;blobkey=id" target="_blank" id="izid74031601205049510090" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214457971025&#38;blobkey=id','image','Folosi\u0163i mai pu\u0163in combustibil cu func\u0163ia Auto-Start-Stop','Închide'); return false;"></a>
-                                </div>
+                                    <a href="#"class="imgZoom_png" ></a>                                </div>
                             </div>
                         </div>
                         <div class="BTIarticleTitle">
@@ -406,8 +399,7 @@ return false;"
                                             style="border: solid 1px #999999;">
                                 </a>
                                 <div>
-                                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214457972171&#38;blobkey=id" target="_blank" id="izid60804181205049513894" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214457972171&#38;blobkey=id','image','Sistemul Ford Eco Mode','Închide'); return false;"></a>
-                                </div>
+                                    <a href="#"class="imgZoom_png" ></a>                                </div>
                             </div>
                         </div>
                         <div class="BTIarticleTitle">
@@ -434,8 +426,7 @@ return false;"
                                             style="border: solid 1px #999999;">
                                 </a>
                                 <div>
-                                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214457970873&#38;blobkey=id" target="_blank" id="izid30235641205049507945" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214457970873&#38;blobkey=id','image','Sistem activ cu obturator pentru gril\u0103','Închide'); return false;"></a>
-                                </div>
+                                    <a href="#"class="imgZoom_png" ></a>                                 </div>
                             </div>
                         </div>
                         <div class="BTIarticleTitle">

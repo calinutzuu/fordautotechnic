@@ -54,12 +54,7 @@
             </ul>
             <div class="navdivider"></div>
             <ul id="nextSteps" class="nextSteps">
-                <li id='menu1205075514590' class=''>
-                    <a href='/VehiculeComerciale/Transit-Courier/Oferta_Speciala_TransitCourier'>Ofert&#259; special&#259; Transit Courier</a>
-                    <script type="text/javascript">
-                        document.id('menu1205075514590').addClass("navnextSteps");
-                    </script>
-                </li>
+
                 <li class="selected"><p>Prezentare general&#259;</p></li>
                 <li id='menu1205071921583' class=''>
                     <a href='/VehiculeComerciale/Transit-Courier/Design'>Design</a>

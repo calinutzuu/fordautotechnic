@@ -85,18 +85,13 @@
                     </script>
                 </li>
                 <li class="selected"><p>Variante de caroserie</p></li>
-                <li id='menu1205022341731' class=''>
+             <!--   <li id='menu1205022341731' class=''>
                     <a href='/VehiculeComerciale/NoulTourneoCustom/Modele'>Modele</a>
                     <script type="text/javascript">
                         document.id('menu1205022341731').addClass("navnextSteps");
                     </script>
-                </li>
-                <li id='menu1205022342948' class=''>
-                    <a href='/VehiculeComerciale/NoulTourneoCustom/ListaPreturi'>List&#259; de pre&#539;uri </a>
-                    <script type="text/javascript">
-                        document.id('menu1205022342948').addClass("navnextSteps");
-                    </script>
-                </li>
+                </li>  -->
+
             </ul>
             <div class="navbottom"></div>
         </div>
@@ -125,7 +120,7 @@
             <table>
                 <tr>
                     <td id="mdp2Fullscreen">
-                        <a href="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214435534637&amp;blobkey=id" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214435534637&amp;blobkey=id', 'Tourneo+Custom+8%2F9+locuri');
+                        <a href="#" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214435534637&amp;blobkey=id', 'Tourneo+Custom+8%2F9+locuri');
 if(typeof(sford)=='object') omnitureMDPFullScreen('1205022341245'); return false;" >
                             Fullscreen
                         </a>
@@ -277,7 +272,7 @@ return false;"
         </div>
         <div
                 id="tab001-tab-1"
-                class="tab001_item last unselected_last unselected "
+                class="tab001_item first selected_first selected"
                 style="text-align:center;">
             <table cellpadding="0" cellspacing="0" border="0" title="L2 (Ampatament lung)">
                 <thead>
@@ -317,11 +312,11 @@ return false;"
                                                 style="border: solid 1px #999999;">
                                     </a>
                                     <div>
-                                        <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435534637&#38;blobkey=id" target="_blank" id="izid98515911205022341245" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435534637&#38;blobkey=id','image','Tourneo Custom 8\/9 locuri','Închide'); return false;"></a>
+                                        <a href="#" class="imgZoom_png"></a>
                                     </div>
                                 </div>
                             </div>
-                            <div class="BTIarticleTitle">
+                            <div class="BTIarticleTitle">Ampatament Scurt (L1)
                             </div>
                             <div class='BTIarticleBody'>
                                 <div class='BTIarticleText'>
@@ -346,11 +341,10 @@ return false;"
                                                 style="border: solid 1px #999999;">
                                     </a>
                                     <div>
-                                        <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435534881&#38;blobkey=id" target="_blank" id="izid81232651205022341745" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435534881&#38;blobkey=id','image','Tourneo Custom 8\/9 locuri','Închide'); return false;"></a>
-                                    </div>
+                                        <a href="#" class="imgZoom_png"></a>                                    </div>
                                 </div>
                             </div>
-                            <div class="BTIarticleTitle">
+                            <div class="BTIarticleTitle">Ampatament Scurt (L1)
                             </div>
                             <div class='BTIarticleBody'>
                                 <div class='BTIarticleText'>
@@ -362,7 +356,7 @@ return false;"
                     </div>
                 </div>
             </div>
-            <div id="tab001-contentpane-1" class="tab001-pane-unselected">
+            <div id="tab001-contentpane-0" class="tab001-pane-selected">
                 <div class='tab001_TabReco_ShowBTI001Collection' >
                     <div class="BTIRow">
                         <div class="BTIOneItem">
@@ -378,11 +372,10 @@ return false;"
                                                 style="border: solid 1px #999999;">
                                     </a>
                                     <div>
-                                        <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435534271&#38;blobkey=id" target="_blank" id="izid29081061205022340491" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435534271&#38;blobkey=id','image','Tourneo Custom 8\/9 locuri','Închide'); return false;"></a>
-                                    </div>
+                                        <a href="#" class="imgZoom_png"></a>                                    </div>
                                 </div>
                             </div>
-                            <div class="BTIarticleTitle">
+                            <div class="BTIarticleTitle">Ampatament Lung (L2)
                             </div>
                             <div class='BTIarticleBody'>
                                 <div class='BTIarticleText'>
@@ -407,11 +400,10 @@ return false;"
                                                 style="border: solid 1px #999999;">
                                     </a>
                                     <div>
-                                        <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435528872&#38;blobkey=id" target="_blank" id="izid83672031205022344151" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214435528872&#38;blobkey=id','image','Tourneo Custom 8\/9 locuri','Închide'); return false;"></a>
-                                    </div>
+                                        <a href="#" class="imgZoom_png"></a>                                    </div>
                                 </div>
                             </div>
-                            <div class="BTIarticleTitle">
+                            <div class="BTIarticleTitle">Ampatament Lung (L2)
                             </div>
                             <div class='BTIarticleBody'>
                                 <div class='BTIarticleText'>

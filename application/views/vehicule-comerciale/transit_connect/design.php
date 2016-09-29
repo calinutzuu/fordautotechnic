@@ -109,12 +109,7 @@
                         document.id('menu1205049516207').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205049669501' class=''>
-                    <a href='/VehiculeComerciale/TransitConnect/PreturiSiBrosuri'>Liste de pe&#355;uri &#351;i bro&#351;uri</a>
-                    <script type="text/javascript">
-                        document.id('menu1205049669501').addClass("navnextSteps");
-                    </script>
-                </li>
+
             </ul>
             <div class="navbottom"></div>
         </div>
@@ -297,7 +292,7 @@ return false;"
     </div>
     <div
             id="tab001-tab-1"
-            class="tab001_item  unselected "
+            class="tab001_item first selected_first selected"
             style="text-align:center;">
         <table cellpadding="0" cellspacing="0" border="0" title="Interior">
             <thead>
@@ -320,7 +315,7 @@ return false;"
     </div>
     <div
             id="tab001-tab-2"
-            class="tab001_item last unselected_last unselected "
+            class="tab001_item first selected_first selected "
             style="text-align:center;">
         <table cellpadding="0" cellspacing="0" border="0" title="Culori">
             <thead>
@@ -425,27 +420,27 @@ return false;"
         <!--<END_IGG001 >-->
     </div>
 </div>
-<div id="tab001-contentpane-1" class="tab001-pane-unselected">
+<div id="tab001-contentpane-0" class="tab001-pane-selected">
     <div class="tab001_TabTop_IntroText">
         <div class="btoArticleTitle"></div>
         <div class="btoArticleText">
             <div class="btoArticleAbstract">
-                Construit pentru a fi practic şi rezistent, modelat pentru a oferi cel mai mare confort şi cele mai bune
-                condiţii de relaxare posibile: interiorul stilat, asemănător unui autoturism, este proiectat ergonomic,
-                pentru a plasa la îndemână fiecare comandă şi compartiment de stocare.
+                Construit pentru a fi practic şi rezistent, modelat pentru a oferi cel mai mare confort şi
+                cele mai bune condiţii de relaxare posibile: interiorul stilat, asemănător unui autoturism,
+                este proiectat ergonomic, pentru a plasa la îndemână fiecare comandă şi compartiment de stocare.
             </div>
         </div>
     </div>
     <div class='tab001_TabReco_IGGtemplate2'>
         <!--<START_IGG001 >-->
-        <div id="igg1429512187942" class="IGGWrapper">
+        <div id="igg1429512187622" class="IGGWrapper">
             <div class="IGGRow">
                 <div class="IGGPos">
                     <div class="IGGImg">
 
 <span class="IGGInternalSpan">
 <img src='/assets/img/transit_connect/1214458028298.jpg'
-     alt="Noul Transit Connect - interior" class="IGGImg" border="0">
+     alt="Noul Transit Connect - exterior" class="IGGImg" border="0">
 </span>
 
                         </a>
@@ -455,25 +450,15 @@ return false;"
                 <div class="IGGHSpacer">&nbsp;</div>
                 <div class="IGGPos">
                     <div class="IGGImg">
-                        <a href="/VehiculeComerciale/TransitConnect/Design/mdp=i1205049509970"
-                           id="igg1429512187942_1214458024759"
-                           onclick="engine.Publisher.publish( 'IGGtemplate2', 'SELECT_MEDIA',
-{type: 'image' , 
-id: '1214458024759',
-caption: 'Practic \u015Fi rezistent', 
-alt: 'Practic \u015Fi rezistent', 
-zoomId: '1214458024760', 
-subst: '1214458024759'}); 					
-return false;"
-                                >
+
 <span class="IGGInternalSpan">
 <img src='/assets/img/transit_connect/1214458024767.jpg'
-     alt="Practic &#351;i rezistent" class="IGGImg" border="0">
+     alt="Practic &#351;i func&#355;ional" class="IGGImg" border="0">
 </span>
 
                         </a>
                     </div>
-                    <div class="IGGText">Practic &#351;i rezistent</div>
+                    <div class="IGGText">Practic şi rezistent</div>
                 </div>
                 <div class="IGGHSpacer">&nbsp;</div>
                 <div class="IGGPos">
@@ -481,14 +466,23 @@ return false;"
 
 <span class="IGGInternalSpan">
 <img src='/assets/img/transit_connect/1214458024690.jpg'
-     alt="Interior asem&#259;n&#259;tor unui autoturism" class="IGGImg" border="0">
+     alt="Stil &icirc;ndr&#259;zne&#355; &#351;i contemporan" class="IGGImg" border="0">
 </span>
+
                         </a>
                     </div>
-                    <div class="IGGText">Interior asem&#259;n&#259;tor unui autoturism</div>
+                    <div class="IGGText">Interior asemănător unui autoturism</div>
                 </div>
                 <div class="IGGHSpacer">&nbsp;</div>
-                <div class="IGGPos">&nbsp;</div>
+                <div class="IGGPos">
+                    <div class="IGGImg">
+
+
+
+                        </a>
+                    </div>
+                    <div class="IGGText"></div>
+                </div>
                 <div class="IGGSpacer">&nbsp;</div>
             </div>
         </div>
@@ -496,12 +490,12 @@ return false;"
             if (typeof engine == 'undefined') engine = new Object();
             if (typeof engine.flash == 'undefined') engine.flash = new Object();
             // Register this igg control (no need to escape, id has special chars)
-            engine.media.igg.register('igg1429512187942');
+            engine.media.igg.register('igg1429512187622');
         </script>
         <!--<END_IGG001 >-->
     </div>
 </div>
-<div id="tab001-contentpane-2" class="tab001-pane-unselected">
+<div id="tab001-contentpane-0" class="tab001-pane-selected">
     <div class="tab001_TabTop_IntroText">
         <div class="btoArticleTitle"></div>
         <div class="btoArticleText">
@@ -544,17 +538,7 @@ return false;"
                 <div class="IGGHSpacer">&nbsp;</div>
                 <div class="IGGPos">
                     <div class="IGGImg">
-                        <a href="/VehiculeComerciale/TransitConnect/Design/mdp=i1205049504849"
-                           id="igg1429512188314_1214458027634"
-                           onclick="engine.Publisher.publish( 'IGGtemplate2', 'SELECT_MEDIA',
-{type: 'image' , 
-id: '1214458027634',
-caption: 'Panther Black', 
-alt: 'Ford Transit Connect Panther Black', 
-zoomId: '1214458027635', 
-subst: '1214458027634'}); 					
-return false;"
-                                >
+
 <span class="IGGInternalSpan">
 <img src='/assets/img/transit_connect/1214458027642.jpg'
      alt="Ford Transit Connect Panther Black" class="IGGImg" border="0">
@@ -608,17 +592,7 @@ return false;"
                 <div class="IGGHSpacer">&nbsp;</div>
                 <div class="IGGPos">
                     <div class="IGGImg">
-                        <a href="/VehiculeComerciale/TransitConnect/Design/mdp=i1205049505536"
-                           id="igg1429512188314_1214458026478"
-                           onclick="engine.Publisher.publish( 'IGGtemplate2', 'SELECT_MEDIA',
-{type: 'image' , 
-id: '1214458026478',
-caption: 'Moondust Silver', 
-alt: 'Moondust Silver', 
-zoomId: '1214458026479', 
-subst: '1214458026478'}); 					
-return false;"
-                                >
+
 <span class="IGGInternalSpan">
 <img src='/assets/img/transit_connect/1214458026486.jpg'
      alt="Moondust Silver" class="IGGImg" border="0">

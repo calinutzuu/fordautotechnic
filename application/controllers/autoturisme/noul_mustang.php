@@ -16,31 +16,24 @@ class Noul_mustang extends CI_Controller
             ->build('autoturisme/noul_mustang/prezentare');
     }
 
-    public function design()
-    {
-        $this->template
-            ->title('Noul Mustang 2015 - Design', 'Ford AutoTechnic')
-            ->build('autoturisme/noul_mustang/design');
-    }
-
-    public function experienta_la_volan()
+    public function preturi_si_promotii()
     {
         $this->template
             ->title('Noul Mustang 2015 - Experien&#355;a la volan', 'Ford AutoTechnic')
-            ->build('autoturisme/noul_mustang/experienta_la_volan');
+            ->build('autoturisme/noul_mustang/preturi_si_promotii');
     }
 
-    public function performanta()
+    public function galerie()
     {
         $this->template
             ->title('Noul Mustang 2015 - Performanta', 'Ford AutoTechnic')
-            ->build('autoturisme/noul_mustang/performanta');
+            ->build('autoturisme/noul_mustang/galerie');
     }
-    public function siguranta_si_securitate()
+    public function caracteristici()
     {
         $this->template
             ->title('Noul Mustang 2015 - Siguranta si securitate', 'Ford AutoTechnic')
-            ->build('autoturisme/noul_mustang/siguranta_si_securitate');
+            ->build('autoturisme/noul_mustang/caracteristici');
     }
 }
 

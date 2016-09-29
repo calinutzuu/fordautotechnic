@@ -97,12 +97,7 @@
                         document.id('menu1205049516207').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205049669501' class=''>
-                    <a href='/VehiculeComerciale/TransitConnect/PreturiSiBrosuri'>Liste de pe&#355;uri &#351;i bro&#351;uri</a>
-                    <script type="text/javascript">
-                        document.id('menu1205049669501').addClass("navnextSteps");
-                    </script>
-                </li>
+                <
             </ul>
             <div class="navbottom"></div>
         </div>
@@ -131,7 +126,7 @@
             <table>
                 <tr>
                     <td id="mdp2Fullscreen">
-                        <a href="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214457972247&amp;blobkey=id" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214457972247&amp;blobkey=id', 'Utilitar%C4%83+Transit+Connect+L1+%28Ampatament+scurt%29');
+                        <a href="#" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214457972247&amp;blobkey=id', 'Utilitar%C4%83+Transit+Connect+L1+%28Ampatament+scurt%29');
 if(typeof(sford)=='object') omnitureMDPFullScreen('1205049516096'); return false;" >
                             Fullscreen
                         </a>
@@ -277,7 +272,7 @@ return false;"
     </div>
     <div
             id="tab001-tab-1"
-            class="tab001_item  unselected "
+            class="tab001_item first selected_first selected "
             style="text-align:center;">
         <table cellpadding="0" cellspacing="0" border="0" title="Double Cab Van">
             <thead>
@@ -299,7 +294,7 @@ return false;"
     </div>
     <div
             id="tab001-tab-2"
-            class="tab001_item last unselected_last unselected "
+            class="tab001_item first selected_first selected "
             style="text-align:center;">
         <table cellpadding="0" cellspacing="0" border="0" title="Kombi">
             <thead>
@@ -347,7 +342,7 @@ return false;"
                                     style="border: solid 1px #999999;">
                         </a>
                         <div>
-                            <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214457972247&#38;blobkey=id" target="_blank" id="izid92889171205049516096" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214457972247&#38;blobkey=id','image','Utilitar\u0103 Transit Connect L1 (Ampatament scurt)','Închide'); return false;"></a>
+                            <a href="#" class="imgZoom_png"></a>
                         </div>
                     </div>
                 </div>
@@ -383,8 +378,7 @@ return false;"
                                     style="border: solid 1px #999999;">
                         </a>
                         <div>
-                            <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214457973540&#38;blobkey=id" target="_blank" id="izid55394891205049500962" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214457973540&#38;blobkey=id','image','Utilitar\u0103 Transit Connect L2 (Ampatament lung)','Închide'); return false;"></a>
-                        </div>
+                            <a href="#" class="imgZoom_png"></a>                        </div>
                     </div>
                 </div>
                 <div class="BTIarticleTitle">
@@ -409,9 +403,9 @@ return false;"
         </div>
     </div>
 </div>
-<div id="tab001-contentpane-1" class="tab001-pane-unselected">
+<div id="tab001-contentpane-0" class="tab001-pane-selected">
     <div class="tab001_TabTop_IntroText" >
-        <div class="btoArticleTitle"></div>
+        <div class="btoArticleTitle">Double Cab Van</div>
         <div class="btoArticleText">
             <div class="btoArticleAbstract">
                 Pe l&acirc;ngă cele două scaune din r&acirc;ndul din faţă, utilitara cu cabină dublă are un r&acirc;nd suplimentar de trei scaune, &icirc;n spatele acestora. Un perete despărţitor fix, cu geam, separă &icirc;n siguranţă cel de-al doilea r&acirc;nd de scaune de spaţiul de &icirc;ncărcare.
@@ -433,8 +427,7 @@ return false;"
                                     style="border: solid 1px #999999;">
                         </a>
                         <div>
-                            <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214457972018&#38;blobkey=id" target="_blank" id="izid88816501205049513659" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214457972018&#38;blobkey=id','image','Utilitar\u0103 Transit Connect cu cabin\u0103 dubl\u0103 L1 (Ampatament scurt)','Închide'); return false;"></a>
-                        </div>
+                            <a href="#" class="imgZoom_png"></a>                        </div>
                     </div>
                 </div>
                 <div class="BTIarticleTitle">
@@ -467,8 +460,7 @@ return false;"
                                     style="border: solid 1px #999999;">
                         </a>
                         <div>
-                            <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214457971101&#38;blobkey=id" target="_blank" id="izid779011205049510348" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214457971101&#38;blobkey=id','image','Utilitar\u0103 Transit Connect cu cabin\u0103 dubl\u0103 L2 (Ampatament lung)','Închide'); return false;"></a>
-                        </div>
+                            <a href="#" class="imgZoom_png"></a>                        </div>
                     </div>
                 </div>
                 <div class="BTIarticleTitle">
@@ -489,9 +481,9 @@ return false;"
         </div>
     </div>
 </div>
-<div id="tab001-contentpane-2" class="tab001-pane-unselected">
+<div id="tab001-contentpane-0" class="tab001-pane-selected">
     <div class="tab001_TabTop_IntroText" >
-        <div class="btoArticleTitle"></div>
+        <div class="btoArticleTitle"> Kombi</div>
         <div class="btoArticleText">
             <div class="btoArticleAbstract">
                 Noul Transit Connect Kombi &icirc;ncorporează un sistem de scaune spate flexibile. Scaunele de la modelele L1 cu cinci locuri şi L2 cu şapte locuri oferă un nivel ridicat de flexibilitate &icirc;ntre spaţiul de &icirc;ncărcare şi spaţiul pentru pasageri, maximiz&acirc;nd spaţiul şi opţiunile de utilizare a acestuia. <br>
@@ -519,8 +511,7 @@ return false;"
                                     style="border: solid 1px #999999;">
                         </a>
                         <div>
-                            <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214457971178&#38;blobkey=id" target="_blank" id="izid96323311205049511038" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214457971178&#38;blobkey=id','image','Transit Connect Kombi L1 (Ampatament scurt)','Închide'); return false;"></a>
-                        </div>
+                            <a href="#" class="imgZoom_png"></a>                        </div>
                     </div>
                 </div>
                 <div class="BTIarticleTitle">
@@ -552,8 +543,7 @@ return false;"
                                     style="border: solid 1px #999999;">
                         </a>
                         <div>
-                            <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214457972704&#38;blobkey=id" target="_blank" id="izid25122951205049522677" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214457972704&#38;blobkey=id','image','Transit Connect Kombi L2 (Ampatament lung)','Închide'); return false;"></a>
-                        </div>
+                            <a href="#" class="imgZoom_png"></a>                        </div>
                     </div>
                 </div>
                 <div class="BTIarticleTitle">

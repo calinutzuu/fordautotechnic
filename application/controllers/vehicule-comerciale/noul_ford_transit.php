@@ -10,6 +10,14 @@ class noul_ford_transit extends CI_Controller
             ->build('vehicule-comerciale/noul_ford_transit');
     }
 
+    public function prezentare_generala()
+    {
+        $this->template
+            ->set_layout('vehicule_comerciale')
+            ->title('Noul Ford Transit - Prezentare', 'Ford AutoTechnic')
+            ->build('vehicule-comerciale/noul_ford_transit/prezentare_generala');
+    }
+
     public function design()
     {
         $this->template

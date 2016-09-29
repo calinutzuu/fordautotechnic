@@ -67,12 +67,7 @@
                     </script>
                 </li>
                 <li class="selected"><p>Experien&#355;a condusului</p></li>
-                <li id='menu1205008756328' class=''>
-                    <a href='/VehiculeComerciale/NoulRanger/Utilitate'>Utilitate</a>
-                    <script type="text/javascript">
-                        document.id('menu1205008756328').addClass("navnextSteps");
-                    </script>
-                </li>
+
                 <li id='menu1205008749291' class=''>
                     <a href='/VehiculeComerciale/NoulRanger/PerformantaSiEficienta'>Performan&#355;&#259; &#351;i eficien&#355;&#259;</a>
                     <script type="text/javascript">
@@ -119,13 +114,13 @@
             });
         </script>
         <div id="mdp">
-            <img src='/assets/img/noul_ranger/1214423962636.jpg' alt='Ford Ranger Wildtrak în culoarea Orange' onclick="omnitureViewPhoto()">
+            <img src='/assets/img/noul_ranger/1214554703276.jpg' alt='Ford Ranger Wildtrak în culoarea Orange' onclick="omnitureViewPhoto()">
         </div>
         <div class="mdp2" id="mdpImageControl" >
             <table>
                 <tr>
                     <td id="mdp2Fullscreen">
-                        <a href="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214423962637&amp;blobkey=id" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214423962637&amp;blobkey=id', 'Ford+Ranger+Wildtrak+%C3%AEn+culoarea+Orange');
+                        <a href="#" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214423962637&amp;blobkey=id', 'Ford+Ranger+Wildtrak+%C3%AEn+culoarea+Orange');
 if(typeof(sford)=='object') omnitureMDPFullScreen('1205008751376'); return false;" >
                             Fullscreen
                         </a>
@@ -270,50 +265,7 @@ return false;"
             </thead>
         </table>
     </div>
-    <div
-            id="tab001-tab-1"
-            class="tab001_item  unselected "
-            style="text-align:center;">
-        <table cellpadding="0" cellspacing="0" border="0" title="Confort">
-            <thead>
-            <tr>
-                <td class="tab001_header_arrow"><a href="/VehiculeComerciale/NoulRanger/ExperientaCondusului/tabid=tab1" class="tab_anchor"></a></td>
-                <td class="tab001_header_label" valign="middle" style="height:41px;vertical-align:middle;">
-                    <!-- 	TD 8174 jhe method has been called from here to escape special characters -->
-                    <a
-                            href="/VehiculeComerciale/NoulRanger/ExperientaCondusului/tabid=tab1"
-                            onclick="tab001SelectTab('1');
-if(typeof(sford)=='object')setOmnitureTabName('Confort');
-return false;"
-                            onmouseover="tab001HoverTab('1', true);"
-                            onmouseout="tab001HoverTab('1', false);"
-                            class="tab_anchor">Confort</a></td>
-            </tr>
-            </thead>
-        </table>
-    </div>
-    <div
-            id="tab001-tab-2"
-            class="tab001_item last unselected_last unselected "
-            style="text-align:center;">
-        <table cellpadding="0" cellspacing="0" border="0" title="Comoditate">
-            <thead>
-            <tr>
-                <td class="tab001_header_arrow"><a href="/VehiculeComerciale/NoulRanger/ExperientaCondusului/tabid=tab2" class="tab_anchor"></a></td>
-                <td class="tab001_header_label" valign="middle" style="height:41px;vertical-align:middle;">
-                    <!-- 	TD 8174 jhe method has been called from here to escape special characters -->
-                    <a
-                            href="/VehiculeComerciale/NoulRanger/ExperientaCondusului/tabid=tab2"
-                            onclick="tab001SelectTab('2');
-if(typeof(sford)=='object')setOmnitureTabName('Comoditate');
-return false;"
-                            onmouseover="tab001HoverTab('2', true);"
-                            onmouseout="tab001HoverTab('2', false);"
-                            class="tab_anchor">Comoditate</a></td>
-            </tr>
-            </thead>
-        </table>
-    </div>
+
 </div><!-- END OF HEADER -->
 <div class="tab001_divider"></div>
 <div class="tab001_content_container">
@@ -326,24 +278,27 @@ return false;"
             <div class="">
 
                     <img
-                            src="/assets/img/noul_ranger/1214423962638.jpg"
+                            src="/assets/img/noul_ranger/1214544819459.jpg"
                             border="0" width="97"
                             height="97"
-                            alt="Ford Ranger Wildtrak în culoarea Orange"
-                            title="Ford Ranger Wildtrak în culoarea Orange"
+
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423962637&#38;blobkey=id" target="_blank" id="izid2030601205008751376" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423962637&#38;blobkey=id','image','Ford Ranger Wildtrak \u00EEn culoarea Orange','Închide'); return false;"></a>
+                    <a></a>
                 </div>
             </div>
         </div>
         <div class="BTIarticleTitle">
-            Tracţiunea 4x4 selectabilă vă permite să vă adaptaţi oricărui tip de teren
+            Tehnologie controlata vocal
         </div>
         <div class='BTIarticleBody'>
             <div class='BTIarticleText'>
-                Faptul că Ranger are  gardă la sol de 230 mm &icirc;l ajută, de asemenea, să depăşească majoritatea condiţiilor dificile.
+                Ford SYNC 2 iti permite sa controlezii muzica, telefonul, sistemul de navigatie si climatizarea cu ajutorul unor comenzi vocale simple si intuitive sau prin intermediul ecranului tactil color de 8”.<br><br>
+
+                Poti chiar sa soliciti o lista cu restaurantele locale rostind, pur si simplu, „I'm hungry” sau poti accesa Ghidul Michelin pentru a te ajuta sa alegi si sa faci rezervarea.<br><br>
+
+                Conectivitatea Wi-Fi este disponibila prin intermediul hotspot-urilor, cu un modem USB. Iar Asistenta de urgenta Ford te poate ajuta automat sa apelezi serviciile de urgenta in cazul unui accident.
             </div>
         </div>
     </div>
@@ -354,7 +309,7 @@ return false;"
             <div class="">
 
                     <img
-                            src="/assets/img/noul_ranger/1214423959183.jpg"
+                            src="/assets/img/noul_ranger/1214544818878.jpg"
                             border="0" width="97"
                             height="97"
                             alt="Noul Ford Ranger"
@@ -362,18 +317,20 @@ return false;"
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423959182&#38;blobkey=id" target="_blank" id="izid74756521205008749305" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423959182&#38;blobkey=id','image','Noul Ford Ranger','Închide'); return false;"></a>
+                    <a></a>
                 </div>
             </div>
         </div>
         <div class="BTIarticleTitle">
-            Noul Ranger se adaptează la stilul dumneavoastră de condus
+            Tempomat care se poate adapta automat
         </div>
         <div class='BTIarticleBody'>
             <div class='BTIarticleText'>
-                Transmisia automată inteligentă cu software de recunoaştere a şoferului vă asigură o experienţă de condus personalizată, &icirc;n funcţie de modul selectat. De exemplu: economic, performanţă, sport, urcare, cobor&acirc;re şi tractare, precum şi 4x4 &icirc;n treapta de viteză superioară sau inferioară.  <br>
-                <br>
-                Software-ul &bdquo;memorează&rdquo; stilul de condus al şoferului şi &icirc;l adaptează la utilizarea transmisiei. Astfel, un stil de condus relaxat va avea ca rezultat mai mult rafinament şi economie de combustibil, &icirc;n timp ce un stil de condus mai entuziast va fi recompensat cu reacţii mai rapide şi o senzaţie sport mai accentuată.
+                TCu ajutorul tehnologiei Tempomat adaptiv, alegi viteza cu care doresti sa te deplasezi, iar sistemul o va mentine constanta.<br>
+
+                Daca senzorul radar incorporat detecteaza un vehicul in fata, acesta va incetini masina pentru a mentine o distanta prestabilita.
+
+                De indata ce drumul din fata este liber, sistemul va accelera din nou pana la viteza aleasa.
             </div>
         </div>
     </div>
@@ -384,24 +341,26 @@ return false;"
             <div class="">
 
                     <img
-                            src="/assets/img/noul_ranger/1214423962098.jpg"
+                            src="/assets/img/noul_ranger/1214544820955.jpg"
                             border="0" width="97"
                             height="97"
-                            alt="Ford Ranger - Oglinda retrovizoare"
-                            title="Ford Ranger - Oglinda retrovizoare"
+                            alt="Noul Ford Ranger"
+                            title="Noul Ford Ranger"
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423962097&#38;blobkey=id" target="_blank" id="izid56794131205008750259" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423962097&#38;blobkey=id','image','Ford Ranger - Oglinda retrovizoare','Închide'); return false;"></a>
+                    <a></a>
                 </div>
             </div>
         </div>
         <div class="BTIarticleTitle">
-            Deplasare în marşarier mai sigură şi mai uşoară cu ajutorul unei camere video pentru vizualizare spate
+            Sistemul de Avertizare frontala, cu privirea mereu inainte
         </div>
         <div class='BTIarticleBody'>
             <div class='BTIarticleText'>
-                Dotare standard pe Wildtrak, camera video pentru vizualizare spate opţională afişează imaginea din spatele vehiculului pe un ecran &icirc;ncorporat &icirc;n oglinda retrovizoare. Aceasta poate face ca deplasarea &icirc;n marşarier să fie mult mai uşoară şi mai sigură şi afişează bara de remorcare pentru a merge &icirc;n marşarier mai uşor p&acirc;nă la o remorcă.
+                Acest sistem te poate avertiza daca simte pericolul unei coliziuni cu masina din fata si te poate ajuta sa eviti un accident.* Radarul din partea din fata a noului Ranger detecteaza vehiculele mai lente care se deplaseaza in aceeasi directie si emite o avertizare vizuala si sonora daca distanta se reduce rapid. Daca nu reactionezi si te apropii in continuare de celalalt vehicul, nou Ranger pre-incarca si sporeste sensibilitatea servofranei, facand ca franele sa aplice o forta mai mare si sa te opresti mai repede, chiar daca apesi incet pedala de frana.
+<br><br>
+                * Acest sistem este conceput ca sistem de asistenta la conducere. Menirea lui nu este sa inlocuiasca atentia si judecata soferului, si nici necesitatea de a actiona frana.Sistemul NU activeaza franele automat. Neapasarea pedalei de frana pentru a activa franele poate avea ca efect o coliziune.
             </div>
         </div>
     </div>
@@ -412,24 +371,119 @@ return false;"
             <div class="">
 
                     <img
-                            src="/assets/img/noul_ranger/1214423961461.jpg"
+                            src="/assets/img/noul_ranger/1214544820621.jpg"
                             border="0" width="97"
                             height="97"
-                            alt="Ford Ranger - Senzori de parcare"
-                            title="Ford Ranger - Senzori de parcare"
+                            alt="Noul Ford Ranger"
+                            title="Noul Ford Ranger"
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423961460&#38;blobkey=id" target="_blank" id="izid27307701205008755931" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423961460&#38;blobkey=id','image','Ford Ranger - Senzori de parcare','Închide'); return false;"></a>
+                    <a></a>
                 </div>
             </div>
         </div>
         <div class="BTIarticleTitle">
-            Senzori care facilitează procedura de parcare
+            4x4 selectabil pentru orice teren
         </div>
         <div class='BTIarticleBody'>
             <div class='BTIarticleText'>
-                Atunci c&acirc;nd Ranger-ul se deplasează &icirc;n marşarier (fără remorcă), radioul emite un avertisment sonor dacă un obiect se află la mai puţin de 1,8 m &icirc;n spatele vehiculului. Frecvenţa semnalelor sonore emise arată c&acirc;t de aproape este obiectul, făc&acirc;ndu-l mai uşor de evitat. (Verificaţi disponibilitatea modelelor.)
+                Alege 4x2 pentru deplasarea obisnuita, 4x4 Gama superioara pentru conditii de carosabil prost si macadam, si 4x4 Gama inferioara pentru teren extrem de dificil.
+                Utilizarea comutatorului electronic din mers (optional) iti permite sa comuti intre 4x2 si 4x4 Gama superioara in timp ce te deplasezi.
+            </div>
+        </div>
+    </div>
+</div>
+<br>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIImage">
+            <div class="">
+
+                    <img
+                            src="/assets/img/noul_ranger/1214544822402.jpg"
+                            border="0" width="97"
+                            height="97"
+                            alt="Noul Ford Ranger"
+                            title="Noul Ford Ranger"
+                            style="border: solid 1px #999999;">
+                </a>
+                <div>
+                    <a></a>
+                </div>
+            </div>
+        </div>
+        <div class="BTIarticleTitle">
+            Un sistem avansat care te ajuta sa pastrezi banda de rulare
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                Sistemul de mentinere a benzii de rulare utilizeaza o camera orientata in fata, pentru a detecta daca ai iesit in mod accidental de pe banda ta de deplasare.
+                Sistemul de avertizare la parasirea benzii te avertizeaza apoi printr-o vibratie a volanului si prin afisarea unui indicator de avertizare vizuala.
+                Daca reactionezi mai greu sau nu reactionezi deloc, Sistemul de asistenta la pastrarea benzii iti poate oferi asistenta cu cuplul de directie, pentru a te
+                ajuta sa revii pe banda corecta. Tehnologia este conceputa pentru drumurile cu mai multe benzi pe sens (cum sunt autostrazile), asadar se dezactiveaza automat
+                la viteze mai mici de 65 km/h sau poate fi dezactivata manual.
+            </div>
+        </div>
+    </div>
+</div>
+<br>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIImage">
+            <div class="">
+
+                    <img
+                            src="/assets/img/noul_ranger/1214544816875.jpg"
+                            border="0" width="97"
+                            height="97"
+                            alt="Noul Ford Ranger"
+                            title="Noul Ford Ranger"
+                            style="border: solid 1px #999999;">
+                </a>
+                <div>
+                    <a href="#" target="_blank" id="izid2065191205008755722" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423961400&#38;blobkey=id','image','Ford Ranger - Computer de bord','Închide'); return false;"></a>
+                </div>
+            </div>
+        </div>
+        <div class="BTIarticleTitle">
+            Vede semnele de circulatie pe care le-ai putea rata
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                Indiferent daca semnele sunt pe marginea drumului sau deasupra acestuia, permanente sau temporare, sistemul de Recunoastere a indicatoarelor rutiere le poate identifica.
+                O pictograma cu semnul respectiv de limitare a vitezei sau de interzicere a depasirii apare pe panoul de bord si se schimba de fiecare data cand patrunzi intr-o zona cu
+                o limita noua. Sistemul de Recunoastere a indicatoarelor rutiere este disponibil ca dotare optionala impreuna cu sistemul de mentinere a benzii.
+            </div>
+        </div>
+    </div>
+</div>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIImage">
+            <div class="">
+
+                <img
+                    src="/assets/img/noul_ranger/1214544817292.jpg"
+                    border="0" width="97"
+                    height="97"
+                    alt="Noul Ford Ranger"
+                    title="Noul Ford Ranger"
+                    style="border: solid 1px #999999;">
+                </a>
+                <div>
+                    <a href="#" target="_blank" id="izid2065191205008755722" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423961400&#38;blobkey=id','image','Ford Ranger - Computer de bord','Închide'); return false;"></a>
+                </div>
+            </div>
+        </div>
+        <div class="BTIarticleTitle">
+            Faza lunga automata. Te ajuta sa vezi, fara a-i orbi pe ceilalti soferi
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                O functie utila pentru deplasarile pe timp de noapte, faza lunga automata comuta temporar la faza scurta atunci cand detecteaza trafic din sens opus sau un alt autovehicul in fata,
+                pentru a nu-i orbi pe ceilalti soferi. Ulterior, aceasta revine automat la faza lunga, asigurand vizibilitate maxima. Faza lunga automata este disponibila ca dotare optionala impreuna
+                cu sistemul de mentinere a benzii..
             </div>
         </div>
     </div>
@@ -440,24 +494,68 @@ return false;"
             <div class="">
 
                     <img
-                            src="/assets/img/noul_ranger/1214423960373.jpg"
+                            src="/assets/img/noul_ranger/1214544818459.jpg"
                             border="0" width="97"
                             height="97"
-                            alt="Ford Ranger - Planşă de bord"
-                            title="Ford Ranger - Planşă de bord"
+                            alt="Noul Ford Ranger"
+                            title="Noul Ford Ranger"
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423960372&#38;blobkey=id" target="_blank" id="izid42985771205008756662" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423960372&#38;blobkey=id','image','Ford Ranger - Plan\u015F\u0103 de bord','Închide'); return false;"></a>
+                    <a href="#" target="_blank" id="izid63829111205008756783" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423960432&#38;blobkey=id','image','Ford Ranger - Naviga\u0163ia prin satelit','Închide'); return false;"></a>
                 </div>
             </div>
         </div>
         <div class="BTIarticleTitle">
-            Tempomatul face ca deplasările lungi să fie mai relaxante
+            Sistem de avertizare a soferului. E timpul pentru o pauza?
         </div>
         <div class='BTIarticleBody'>
             <div class='BTIarticleText'>
-                Este suficient să reglaţi viteza dorită cu ajutorul comenzilor de pe volan, iar tempomatul va face din călătoriile lungi o experienţă mult mai puţin obositoare.
+                Sistemul de avertizare a soferului monitorizeaza constant stilul personal de condus si este conceput sa detecteze orice variatie cauzata de oboseala.
+                Daca sistemul detecteaza ca devii mai putin vigilent, o pictograma de avertizare apare pe afisaj, sugerandu-ti sa iei o pauza.
+            </div>
+        </div>
+    </div>
+</div>
+
+<br><br><br>
+<div class='BTIarticleBody'>
+    <div class='BTIarticleText'>
+        <h3>CONFORT SI UTILITATE
+            <br>  <br>
+            DOTARI SI FUNCTII CARE TE AJUTA SI TE ASISTA. SI FAC VIATA MAI USOARA</h3>
+        De la sisteme care te ajuta sa parchezi si sa mergi cu spatele mai usor, la functii care te tin la curent, te ajuta sa ajungi la destinatie si te incalzesc.
+
+        In noul Ranger, fiecare tehnologie remarcabila are un rost in lumea reala.
+    </div>
+</div>
+<br><br>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIImage">
+            <div class="">
+
+                <img
+                    src="/assets/img/noul_ranger/1214544820372.jpg"
+                    border="0" width="97"
+                    height="97"
+                    alt="Noul Ford Ranger"
+                    title="Noul Ford Ranger"
+                    style="border: solid 1px #999999;">
+                </a>
+                <div>
+                    <a href="#" target="_blank" id="izid63829111205008756783" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423960432&#38;blobkey=id','image','Ford Ranger - Naviga\u0163ia prin satelit','Închide'); return false;"></a>
+                </div>
+            </div>
+        </div>
+        <div class="BTIarticleTitle">
+            SYNC 2
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                Cu Ford SYNC2, poti prelua cu usurinta controlul asupra unor functii esentiale, cum sunt muzica, apelurile telefonice, sistemul de navigatie si
+                climatizarea, cu ajutorul vocii sau prin intermediul ecranului tactil color de 8”. Bucura-te de divertisment sonor prin radio,
+                CD player, conexiune USB sau flux audio prin Bluetooth.
             </div>
         </div>
     </div>
@@ -467,25 +565,58 @@ return false;"
         <div class="BTIImage">
             <div class="">
 
-                    <img
-                            src="/assets/img/noul_ranger/1214423961401.jpg"
-                            border="0" width="97"
-                            height="97"
-                            alt="Ford Ranger - Computer de bord"
-                            title="Ford Ranger - Computer de bord"
-                            style="border: solid 1px #999999;">
+                <img
+                    src="/assets/img/noul_ranger/1214544816460.jpg"
+                    border="0" width="97"
+                    height="97"
+                    alt="Noul Ford Ranger"
+                    title="Noul Ford Ranger"
+                    style="border: solid 1px #999999;">
                 </a>
                 <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423961400&#38;blobkey=id" target="_blank" id="izid2065191205008755722" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423961400&#38;blobkey=id','image','Ford Ranger - Computer de bord','Închide'); return false;"></a>
+                    <a href="#" target="_blank" id="izid63829111205008756783" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423960432&#38;blobkey=id','image','Ford Ranger - Naviga\u0163ia prin satelit','Închide'); return false;"></a>
                 </div>
             </div>
         </div>
         <div class="BTIarticleTitle">
-            Un computer de bord vă oferă date utile legate de călătorie
+            Marsarier mai simplu, deoarece poti vedea ce se afla in spate
         </div>
         <div class='BTIarticleBody'>
             <div class='BTIarticleText'>
-                Aflaţi tot ce aveţi nevoie să ştiţi: kilometri parcurşi, consum, viteză, temperatura aerului exterior. Informaţiile furnizate de computerul de bord includ şi distanţa pe care o mai aveţi de parcurs p&acirc;nă la terminarea combustibilului, unu lucru foarte util de ştiut, &icirc;n special &icirc;n călătoriile lungi sau atunci c&acirc;nd vă aflaţi &icirc;n zone mai puţin circulate.
+                Stalpi opritori, garduri, ziduri joase… camera video pentru vizualizare spate se activeaza automat atunci
+                cand selectezii marsarierul si iti arata tot ce se afla in spatele autovehiculului, pe un ecran* de 8" integrat
+                in consola centrala. Sistemul afiseaza, de asemenea, ghidaje virtuale pentru a te ajuta sa parchezi si in cele mai inguste spatii.
+
+            </div>
+        </div><sup>*la vehiculele dotate si cu Ford SYNC2</sup>
+    </div>
+</div>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIImage">
+            <div class="">
+
+                <img
+                    src="/assets/img/noul_ranger/1214544818372.jpg"
+                    border="0" width="97"
+                    height="97"
+                    alt="Noul Ford Ranger"
+                    title="Noul Ford Ranger"
+                    style="border: solid 1px #999999;">
+                </a>
+                <div>
+                    <a href="#" target="_blank" id="izid63829111205008756783" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423960432&#38;blobkey=id','image','Ford Ranger - Naviga\u0163ia prin satelit','Închide'); return false;"></a>
+                </div>
+            </div>
+        </div>
+        <div class="BTIarticleTitle">
+            Senzori care faciliteaza procedura de parcare
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                Senzorii optionali pentru distanta la parcare te ajuta sa determini distanta dintre vehicul si orice fel de obstacol din fata sau din spate.
+                Atunci cand detecteaza un obiect, senzorii emit o avertizare sonora care se intensifica cu cat va apropiati mai mult de obstacol.
+
             </div>
         </div>
     </div>
@@ -495,29 +626,277 @@ return false;"
         <div class="BTIImage">
             <div class="">
 
-                    <img
-                            src="/assets/img/noul_ranger/1214423960433.jpg"
-                            border="0" width="97"
-                            height="97"
-                            alt="Ford Ranger - Navigaţia prin satelit"
-                            title="Ford Ranger - Navigaţia prin satelit"
-                            style="border: solid 1px #999999;">
+                <img
+                    src="/assets/img/noul_ranger/1214544816294.jpg"
+                    border="0" width="97"
+                    height="97"
+                    alt="Noul Ford Ranger"
+                    title="Noul Ford Ranger"
+                    style="border: solid 1px #999999;">
                 </a>
                 <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423960432&#38;blobkey=id" target="_blank" id="izid63829111205008756783" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423960432&#38;blobkey=id','image','Ford Ranger - Naviga\u0163ia prin satelit','Închide'); return false;"></a>
+                    <a href="#" target="_blank" id="izid63829111205008756783" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423960432&#38;blobkey=id','image','Ford Ranger - Naviga\u0163ia prin satelit','Închide'); return false;"></a>
                 </div>
             </div>
         </div>
         <div class="BTIarticleTitle">
-            Navigaţia prin satelit încorporată în panoul de bord se asigură că ajungeţi unde v-aţi propus
+            Informatii esentiale despre calatorie
         </div>
         <div class='BTIarticleBody'>
             <div class='BTIarticleText'>
-                Este suficient să precizezi destinaţia, folosind butoanele incorporate, şi vei primi indicaţii vizuale şi sonore, precum şi informaţii despre locaţia curentă şi zona &icirc;n care te afli. Sistemul de navigaţie prin satelit este integrat &icirc;n sistemul audio, pentru un plus de securitate.
+                Computerul de bord iti ofera detalii si cifre utile in legatura cu distanta parcursa, consumul de combustibil,
+                viteza si temperatura aerului din exterior. De asemenea, acesta precizeaza „distanta pana la golire”: un calcul
+                estimativ al distantei pe care o poti parcurge cu combustibilul ramas in rezervor. Aceasta informatie este utila
+                in special in timpul calatoriilor lungi sau daca urmeaza sa te deplasezi intr-un loc izolat.
+
             </div>
         </div>
     </div>
 </div>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIImage">
+            <div class="">
+
+                <img
+                    src="/assets/img/noul_ranger/1214544815962.jpg"
+                    border="0" width="97"
+                    height="97"
+                    alt="Noul Ford Ranger"
+                    title="Noul Ford Ranger"
+                    style="border: solid 1px #999999;">
+                </a>
+                <div>
+                    <a href="#" target="_blank" id="izid63829111205008756783" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423960432&#38;blobkey=id','image','Ford Ranger - Naviga\u0163ia prin satelit','Închide'); return false;"></a>
+                </div>
+            </div>
+        </div>
+        <div class="BTIarticleTitle">
+            Navigatia prin satelit te ajuta sa ajungi unde ti-ai propus
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                Un sistem de navigatie integrat, cu ecran color de 8" permite introducerea fara dificultate a destinatiei si cautarea punctelor de interes prin comenzi vocale.
+
+            </div>
+        </div>
+    </div>
+</div>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIImage">
+            <div class="">
+
+                <img
+                    src="/assets/img/noul_ranger/1214544816709.jpg"
+                    border="0" width="97"
+                    height="97"
+                    alt="Noul Ford Ranger"
+                    title="Noul Ford Ranger"
+                    style="border: solid 1px #999999;">
+                </a>
+                <div>
+                    <a href="#" target="_blank" id="izid63829111205008756783" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423960432&#38;blobkey=id','image','Ford Ranger - Naviga\u0163ia prin satelit','Închide'); return false;"></a>
+                </div>
+            </div>
+        </div>
+        <div class="BTIarticleTitle">
+            Mereu temperatura ideala
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                Gratie sistemului de climatizare automata cu zona dubla de control poti seta temperaturi separate pentru sectiunile cabinei destinate soferului si pasagerului.
+
+            </div>
+        </div>
+    </div>
+</div>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIImage">
+            <div class="">
+
+                <img
+                    src="/assets/img/noul_ranger/1214544818544.jpg"
+                    border="0" width="97"
+                    height="97"
+                    alt="Noul Ford Ranger"
+                    title="Noul Ford Ranger"
+                    style="border: solid 1px #999999;">
+                </a>
+                <div>
+                    <a href="#" target="_blank" id="izid63829111205008756783" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423960432&#38;blobkey=id','image','Ford Ranger - Naviga\u0163ia prin satelit','Închide'); return false;"></a>
+                </div>
+            </div>
+        </div>
+        <div class="BTIarticleTitle">
+            Ford Easy-Fuel, pentru alimentari fara probleme
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                Acesta face sa fie practic imposibila alimentarea gresita a noului Ranger, deoarece duza pompei pur si simplu nu se potriveste. Si pentru ca Easy-Fuel este un sistem fara buson, nu o sa mai ai de-a face niciodata cu un buson murdar.
+
+            </div>
+        </div>
+    </div>
+</div>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIImage">
+            <div class="">
+
+                <img
+                    src="/assets/img/noul_ranger/1214544816377.jpg"
+                    border="0" width="97"
+                    height="97"
+                    alt="Noul Ford Ranger"
+                    title="Noul Ford Ranger"
+                    style="border: solid 1px #999999;">
+                </a>
+                <div>
+                    <a href="#" target="_blank" id="izid63829111205008756783" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423960432&#38;blobkey=id','image','Ford Ranger - Naviga\u0163ia prin satelit','Închide'); return false;"></a>
+                </div>
+            </div>
+        </div>
+        <div class="BTIarticleTitle">
+            Stergatoare care se regleaza automat, in functie de ploaie
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                Seteaza unul dintre cele sase niveluri de sensibilitate pentru stergatoarele cu senzori de ploaie ale vehiculului,
+                iar acestea vor porni automat cand apar precipitatii. Acestea isi regleaza singure viteza, in functie de intensitatea precipitatiilor.
+
+            </div>
+        </div>
+    </div>
+</div>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIImage">
+            <div class="">
+
+                <img
+                    src="/assets/img/noul_ranger/1214544822653.jpg"
+                    border="0" width="97"
+                    height="97"
+                    alt="Noul Ford Ranger"
+                    title="Noul Ford Ranger"
+                    style="border: solid 1px #999999;">
+                </a>
+                <div>
+                    <a href="#" target="_blank" id="izid63829111205008756783" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423960432&#38;blobkey=id','image','Ford Ranger - Naviga\u0163ia prin satelit','Închide'); return false;"></a>
+                </div>
+            </div>
+        </div>
+        <div class="BTIarticleTitle">
+            Faruri care se aprind automat atunci cand este necesar
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                Noul Ranger este prevazut cu senzori care detecteaza scaderea intensitatii luminii in amurg sau la schimbarea brusca a
+                conditiilor de iluminare. De exemplu, cand intri intr-un tunel. Atunci se activeaza farurile cu actionare automata,
+                ceea ce poate sa usureze condusul, dar sa si creasca nivelul de siguranta.
+
+            </div>
+        </div>
+    </div>
+</div>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIImage">
+            <div class="">
+
+                <img
+                    src="/assets/img/noul_ranger/1214544818628.jpg"
+                    border="0" width="97"
+                    height="97"
+                    alt="Noul Ford Ranger"
+                    title="Noul Ford Ranger"
+                    style="border: solid 1px #999999;">
+                </a>
+                <div>
+                    <a href="#" target="_blank" id="izid63829111205008756783" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423960432&#38;blobkey=id','image','Ford Ranger - Naviga\u0163ia prin satelit','Închide'); return false;"></a>
+                </div>
+            </div>
+        </div>
+        <div class="BTIarticleTitle">
+            Curata parbrizul rapid cu Quickclear
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                Aceasta dotare inteligenta este creata pentru a permite sa pornesti rapid in diminetile geroase.
+                Trebuie doar sa apesi pe un buton, iar sistemul poate sa dezghete parbrizul in cateva secunde, chiar si la temperaturi negative.
+
+            </div>
+        </div>
+    </div>
+</div>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIImage">
+            <div class="">
+
+                <img
+                    src="/assets/img/noul_ranger/1214544816709.jpg"
+                    border="0" width="97"
+                    height="97"
+                    alt="Noul Ford Ranger"
+                    title="Noul Ford Ranger"
+                    style="border: solid 1px #999999;">
+                </a>
+                <div>
+                    <a href="#" target="_blank" id="izid63829111205008756783" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423960432&#38;blobkey=id','image','Ford Ranger - Naviga\u0163ia prin satelit','Închide'); return false;"></a>
+                </div>
+            </div>
+        </div>
+        <div class="BTIarticleTitle">
+            Oglinzi laterale care se pliaza singure spre interior, ferindu-se de eventuale deteriorari
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                Este usor sa deteriorezi oglinzile laterale atunci cand intri sau iesi din spatii stramte sau
+                cand esti parcat pe o strada ingusta. Oglinzile laterale pliabile electriec te pot ajuta sa eviti acest lucru,
+                pliindu-se catre interior la atingerea unui buton.
+
+            </div>
+        </div>
+    </div>
+</div>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIImage">
+            <div class="">
+
+                <img
+                    src="/assets/img/noul_ranger/1214544816543.jpg"
+                    border="0" width="97"
+                    height="97"
+                    alt="Noul Ford Ranger"
+                    title="Noul Ford Ranger"
+                    style="border: solid 1px #999999;">
+                </a>
+                <div>
+                    <a href="#" target="_blank" id="izid63829111205008756783" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423960432&#38;blobkey=id','image','Ford Ranger - Naviga\u0163ia prin satelit','Închide'); return false;"></a>
+                </div>
+            </div>
+        </div>
+        <div class="BTIarticleTitle">
+            Multe spatii de depozitare la indemana
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                Fiecare varianta de cabina are o multime de locuri de depozitare ingenioase. De exemplu, varianta cu
+                cabina dubla are doua zone mari de depozitare sub scaunele din spate. Sunt disponibile trei console
+                centrale (scurta, lunga si lunga cu o sectiune racita de sistemul de aer conditionat), in functie de
+                tipul de cabina. Acestea contin compartimente de depozitare pentru alimente, precum si suporturi
+                pentru pahar si sticla, tavi pentru obiecte mici si spatiu pentru telefonul mobil. Torpedoul ofera
+                un volum urias de 11,9 litri, in el putand sa incapa un laptop de 15”, o umbrela stransa si multe altele.
+
+            </div>
+        </div>
+    </div>
+</div>
+
 </div>
 </div>
 <div id="tab001-contentpane-1" class="tab001-pane-unselected">
@@ -544,7 +923,7 @@ return false;"
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423959304&#38;blobkey=id" target="_blank" id="izid62629321205008749528" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423959304&#38;blobkey=id','image','Ford Ranger - Climatizare automata cu doua zone','Închide'); return false;"></a>
+                    <a href="#" target="_blank" id="izid62629321205008749528" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423959304&#38;blobkey=id','image','Ford Ranger - Climatizare automata cu doua zone','Închide'); return false;"></a>
                 </div>
             </div>
         </div>
@@ -572,7 +951,7 @@ return false;"
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423960736&#38;blobkey=id" target="_blank" id="izid25752071205008758054" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423960736&#38;blobkey=id','image','Spa\u0163iu pentru picioare','Închide'); return false;"></a>
+                    <a href="#" target="_blank" id="izid25752071205008758054" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423960736&#38;blobkey=id','image','Spa\u0163iu pentru picioare','Închide'); return false;"></a>
                 </div>
             </div>
         </div>
@@ -600,7 +979,7 @@ return false;"
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423958251&#38;blobkey=id" target="_blank" id="izid55521421205008754313" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423958251&#38;blobkey=id','image','Ford Ranger - Interior','Închide'); return false;"></a>
+                    <a href="#" target="_blank" id="izid55521421205008754313" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423958251&#38;blobkey=id','image','Ford Ranger - Interior','Închide'); return false;"></a>
                 </div>
             </div>
         </div>
@@ -628,7 +1007,7 @@ return false;"
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423957710&#38;blobkey=id" target="_blank" id="izid9667491205008753316" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423957710&#38;blobkey=id','image','Ford Ranger - Plan\u015F\u0103 de bord','Închide'); return false;"></a>
+                    <a href="#" target="_blank" id="izid9667491205008753316" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423957710&#38;blobkey=id','image','Ford Ranger - Plan\u015F\u0103 de bord','Închide'); return false;"></a>
                 </div>
             </div>
         </div>
@@ -656,7 +1035,7 @@ return false;"
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423960238&#38;blobkey=id" target="_blank" id="izid81177301205008756342" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423960238&#38;blobkey=id','image','Ford Ranger - scaune fa\u0163\u0103 ajustabile','Închide'); return false;"></a>
+                    <a href="#" target="_blank" id="izid81177301205008756342" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423960238&#38;blobkey=id','image','Ford Ranger - scaune fa\u0163\u0103 ajustabile','Închide'); return false;"></a>
                 </div>
             </div>
         </div>
@@ -686,7 +1065,7 @@ return false;"
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423960736&#38;blobkey=id" target="_blank" id="izid25752071205008758054" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423960736&#38;blobkey=id','image','Spa\u0163iu pentru picioare','Închide'); return false;"></a>
+                    <a href="#" target="_blank" id="izid25752071205008758054" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423960736&#38;blobkey=id','image','Spa\u0163iu pentru picioare','Închide'); return false;"></a>
                 </div>
             </div>
         </div>
@@ -718,7 +1097,7 @@ return false;"
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423958938&#38;blobkey=id" target="_blank" id="izid50536951205008748731" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423958938&#38;blobkey=id','image','Ford Ranger - sisteme de divertisment','Închide'); return false;"></a>
+                    <a href="#" target="_blank" id="izid50536951205008748731" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423958938&#38;blobkey=id','image','Ford Ranger - sisteme de divertisment','Închide'); return false;"></a>
                 </div>
             </div>
         </div>
@@ -746,7 +1125,7 @@ return false;"
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423962035&#38;blobkey=id" target="_blank" id="izid24423351205008750044" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423962035&#38;blobkey=id','image','Ford Ranger - Cabin\u0103 proiectat\u0103 intuitiv','Închide'); return false;"></a>
+                    <a href="#" target="_blank" id="izid24423351205008750044" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423962035&#38;blobkey=id','image','Ford Ranger - Cabin\u0103 proiectat\u0103 intuitiv','Închide'); return false;"></a>
                 </div>
             </div>
         </div>
@@ -774,7 +1153,7 @@ return false;"
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423958311&#38;blobkey=id" target="_blank" id="izid97311001205008754408" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423958311&#38;blobkey=id','image','Ford Ranger Limited cu tapi\u0163erie de piele','Închide'); return false;"></a>
+                    <a href="#" target="_blank" id="izid97311001205008754408" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423958311&#38;blobkey=id','image','Ford Ranger Limited cu tapi\u0163erie de piele','Închide'); return false;"></a>
                 </div>
             </div>
         </div>
@@ -802,7 +1181,7 @@ return false;"
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423958251&#38;blobkey=id" target="_blank" id="izid55521421205008754313" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423958251&#38;blobkey=id','image','Ford Ranger - Interior','Închide'); return false;"></a>
+                    <a href="#" target="_blank" id="izid55521421205008754313" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423958251&#38;blobkey=id','image','Ford Ranger - Interior','Închide'); return false;"></a>
                 </div>
             </div>
         </div>
@@ -842,7 +1221,7 @@ return false;"
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423962457&#38;blobkey=id" target="_blank" id="izid22370191205008751122" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423962457&#38;blobkey=id','image','Ford Ranger - Bluetooth\u00AE','Închide'); return false;"></a>
+                    <a href="#" target="_blank" id="izid22370191205008751122" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423962457&#38;blobkey=id','image','Ford Ranger - Bluetooth\u00AE','Închide'); return false;"></a>
                 </div>
             </div>
         </div>
@@ -870,7 +1249,7 @@ return false;"
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423961520&#38;blobkey=id" target="_blank" id="izid159201205008756059" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423961520&#38;blobkey=id','image','Ford Ranger Easy-fuel','Închide'); return false;"></a>
+                    <a href="#" target="_blank" id="izid159201205008756059" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423961520&#38;blobkey=id','image','Ford Ranger Easy-fuel','Închide'); return false;"></a>
                 </div>
             </div>
         </div>
@@ -898,7 +1277,7 @@ return false;"
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
-                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423961580&#38;blobkey=id" target="_blank" id="izid43832511205008758502" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423961580&#38;blobkey=id','image','Ford Ranger - Sterg\u0103toare cu reglare automat\u0103','Închide'); return false;"></a>
+                    <a href="#" target="_blank" id="izid43832511205008758502" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423961580&#38;blobkey=id','image','Ford Ranger - Sterg\u0103toare cu reglare automat\u0103','Închide'); return false;"></a>
                 </div>
             </div>
         </div>

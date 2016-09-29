@@ -433,8 +433,8 @@ return false;"
                             src="/assets/img/noul_ranger/1214423962396.jpg"
                             border="0" width="97"
                             height="97"
-                            alt="Ford Ranger - benă"
-                            title="Ford Ranger - benă"
+                            alt="Ford Ranger - ben?"
+                            title="Ford Ranger - ben?"
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
@@ -443,11 +443,11 @@ return false;"
             </div>
         </div>
         <div class="BTIarticleTitle">
-            Compartimentul de încărcare versatil, cu încuietoare, vă asigură liniştea necesară
+            Compartimentul de înc?rcare versatil, cu încuietoare, v? asigur? lini?tea necesar?
         </div>
         <div class='BTIarticleBody'>
             <div class='BTIarticleText'>
-                Bena noului Ranger poate transporta Euro paleţi, uneltele de care aveţi nevoie, sau tot ce este necesar pentru un sf&acirc;rşit de săptăm&acirc;nă la munte cu cortul. Oferă o serie de măsuri de siguranţă pentru &icirc;ncărcătură, toate fiind conform standardelor DIN. Aceste măsuri de siguranţă includ c&acirc;rlige de fixare, suport integrat pentru &icirc;ncărcătură, şi (pe anumite versiuni ale modelului) inele exterioare de ancorare. Pentru şi mai multă siguranţă, uşa benei poate fi &icirc;ncuiată şi descuiată manual.
+                Bena noului Ranger poate transporta Euro pale?i, uneltele de care ave?i nevoie, sau tot ce este necesar pentru un sf&acirc;r?it de s?pt?m&acirc;n? la munte cu cortul. Ofer? o serie de m?suri de siguran?? pentru &icirc;nc?rc?tur?, toate fiind conform standardelor DIN. Aceste m?suri de siguran?? includ c&acirc;rlige de fixare, suport integrat pentru &icirc;nc?rc?tur?, ?i (pe anumite versiuni ale modelului) inele exterioare de ancorare. Pentru ?i mai mult? siguran??, u?a benei poate fi &icirc;ncuiat? ?i descuiat? manual.
             </div>
         </div>
     </div>
@@ -471,11 +471,11 @@ return false;"
             </div>
         </div>
         <div class="BTIarticleTitle">
-            Cârlige de fixare solide pentru încărcături mai sigure
+            Cârlige de fixare solide pentru înc?rc?turi mai sigure
         </div>
         <div class='BTIarticleBody'>
             <div class='BTIarticleText'>
-                Pentru a vă ajuta să transportaţi &icirc;ncărcătura &icirc;n deplină siguranţă, aceste c&acirc;rlige de fixare sunt plasate la interiorul sau exteriorul benei şi numărul acestora variază &icirc;n funcţie de tipul cabinei. Toate sunt conform standardelor DIN.
+                Pentru a v? ajuta s? transporta?i &icirc;nc?rc?tura &icirc;n deplin? siguran??, aceste c&acirc;rlige de fixare sunt plasate la interiorul sau exteriorul benei ?i num?rul acestora variaz? &icirc;n func?ie de tipul cabinei. Toate sunt conform standardelor DIN.
             </div>
         </div>
     </div>
@@ -499,11 +499,11 @@ return false;"
             </div>
         </div>
         <div class="BTIarticleTitle">
-            Oblonul rulabil, cu încuietoare, fixează şi protejează marfa
+            Oblonul rulabil, cu încuietoare, fixeaz? ?i protejeaz? marfa
         </div>
         <div class='BTIarticleBody'>
             <div class='BTIarticleText'>
-                Disponibil pe versiunile Wildtrack, această dotare oferă un plus de siguranţă &icirc;ncărcăturii din benă.
+                Disponibil pe versiunile Wildtrack, aceast? dotare ofer? un plus de siguran?? &icirc;nc?rc?turii din ben?.
             </div>
         </div>
     </div>
@@ -517,8 +517,8 @@ return false;"
                             src="/assets/img/noul_ranger/1214423958013.jpg"
                             border="0" width="97"
                             height="97"
-                            alt="Priză 12 V"
-                            title="Priză 12 V"
+                            alt="Priz? 12 V"
+                            title="Priz? 12 V"
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
@@ -527,11 +527,11 @@ return false;"
             </div>
         </div>
         <div class="BTIarticleTitle">
-            Priză de alimentare de 12 volţi, amplasată convenabil
+            Priz? de alimentare de 12 vol?i, amplasat? convenabil
         </div>
         <div class='BTIarticleBody'>
             <div class='BTIarticleText'>
-                Standard pe versiunile XLT, Limited şi Wildtrack, acolo unde există o podea cu şanţuri, priza este situată foarte la &icirc;ndem&acirc;nă &icirc;n benă, pentru a putea pune &icirc;n funcţiune un frigider sau alte aparate electrocasnice.
+                Standard pe versiunile XLT, Limited ?i Wildtrack, acolo unde exist? o podea cu ?an?uri, priza este situat? foarte la &icirc;ndem&acirc;n? &icirc;n ben?, pentru a putea pune &icirc;n func?iune un frigider sau alte aparate electrocasnice.
             </div>
         </div>
     </div>
@@ -555,11 +555,11 @@ return false;"
             </div>
         </div>
         <div class="BTIarticleTitle">
-            Sistem de organizare al mărfii pentru încărcături de toate dimensiunile
+            Sistem de organizare al m?rfii pentru înc?rc?turi de toate dimensiunile
         </div>
         <div class='BTIarticleBody'>
             <div class='BTIarticleText'>
-                Sistemul are două balustrade (situate de ambele părţi ale benei), cu două cleme ajustabile pe fiecare parte. Acestea pot fi ajustate şi mutate de-a lungul benei pentru a se potrivi mărimii &icirc;ncărcăturii.
+                Sistemul are dou? balustrade (situate de ambele p?r?i ale benei), cu dou? cleme ajustabile pe fiecare parte. Acestea pot fi ajustate ?i mutate de-a lungul benei pentru a se potrivi m?rimii &icirc;nc?rc?turii.
             </div>
         </div>
     </div>
@@ -573,8 +573,8 @@ return false;"
                             src="/assets/img/noul_ranger/1214423961914.jpg"
                             border="0" width="97"
                             height="97"
-                            alt="Platformă de siguranţă pentru încărcătură "
-                            title="Platformă de siguranţă pentru încărcătură "
+                            alt="Platform? de siguran?? pentru înc?rc?tur? "
+                            title="Platform? de siguran?? pentru înc?rc?tur? "
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
@@ -583,11 +583,11 @@ return false;"
             </div>
         </div>
         <div class="BTIarticleTitle">
-            Platformă de siguranţă integrată pentru încărcătură
+            Platform? de siguran?? integrat? pentru înc?rc?tur?
         </div>
         <div class='BTIarticleBody'>
             <div class='BTIarticleText'>
-                Pentru a vă asigura că totul este prins corespunzător, balustrada benei este nu numai mai &icirc;naltă, dar are de asemenea &icirc;ncorporate c&acirc;rlige de fixare, un suport integrat pentru &icirc;ncărcătură şi două glisiere mobile, pentru obiectele lungi, montate &icirc;n spatele benei. (Verificaţi ce versiuni au această dotare disponibilă).
+                Pentru a v? asigura c? totul este prins corespunz?tor, balustrada benei este nu numai mai &icirc;nalt?, dar are de asemenea &icirc;ncorporate c&acirc;rlige de fixare, un suport integrat pentru &icirc;nc?rc?tur? ?i dou? glisiere mobile, pentru obiectele lungi, montate &icirc;n spatele benei. (Verifica?i ce versiuni au aceast? dotare disponibil?).
             </div>
         </div>
     </div>
@@ -601,8 +601,8 @@ return false;"
                             src="/assets/img/noul_ranger/1214423961341.jpg"
                             border="0" width="97"
                             height="97"
-                            alt="Ford Ranger - Benă integrată"
-                            title="Ford Ranger - Benă integrată"
+                            alt="Ford Ranger - Ben? integrat?"
+                            title="Ford Ranger - Ben? integrat?"
                             style="border: solid 1px #999999;">
                 </a>
                 <div>
@@ -611,11 +611,11 @@ return false;"
             </div>
         </div>
         <div class="BTIarticleTitle">
-            Design îmbunătăţit al benei integrate
+            Design îmbun?t??it al benei integrate
         </div>
         <div class='BTIarticleBody'>
             <div class='BTIarticleText'>
-                Fiecare cabină dispune de o benă individualizată care se arcuieşte uşor pe plafon pentru a se integra perfect cu cabina. Aceasta accentuează designul robust al noului Ranger.
+                Fiecare cabin? dispune de o ben? individualizat? care se arcuie?te u?or pe plafon pentru a se integra perfect cu cabina. Aceasta accentueaz? designul robust al noului Ranger.
             </div>
         </div>
     </div>

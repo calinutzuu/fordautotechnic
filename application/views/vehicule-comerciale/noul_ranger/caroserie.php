@@ -72,12 +72,7 @@
                         document.id('menu1205008754585').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205008756328' class=''>
-                    <a href='/VehiculeComerciale/NoulRanger/Utilitate'>Utilitate</a>
-                    <script type="text/javascript">
-                        document.id('menu1205008756328').addClass("navnextSteps");
-                    </script>
-                </li>
+
                 <li id='menu1205008749291' class=''>
                     <a href='/VehiculeComerciale/NoulRanger/PerformantaSiEficienta'>Performan&#355;&#259; &#351;i eficien&#355;&#259;</a>
                     <script type="text/javascript">
@@ -119,7 +114,7 @@
             });
         </script>
         <div id="mdp">
-            <img src='/assets/img/noul_ranger/1214423959366.jpg' alt='Ford Ranger tipuri de cabina' onclick="omnitureViewPhoto()">
+            <img src='/assets/img/noul_ranger/1214554703276.jpg' alt='Ford Ranger tipuri de cabina' onclick="omnitureViewPhoto()">
         </div>
         <div class="mdp2" id="mdpImageControl" >
             <table>
@@ -326,7 +321,7 @@ return false;"
                             <div class="">
 
                                     <img
-                                            src="/assets/img/noul_ranger/1214423957651.jpg"
+                                            src="/assets/img/noul_ranger/1214544819625.jpg"
                                             border="0" width="97"
                                             height="97"
                                             alt="Ford Ranger XL"
@@ -339,15 +334,18 @@ return false;"
                             </div>
                         </div>
                         <div class="BTIarticleTitle">
-                            Cabină simplă
+                            Cabina simpla
                         </div>
                         <div class='BTIarticleBody'>
                             <div class='BTIarticleText'>
-                                Cabina simplă &icirc;n două uşi oferă un spaţiu excepţional şi foarte practic cu o capacitate deosebită de depozitare.  <br>
-                                <ul>
-                                    <li>Pick-up cu 2 uşi şi 2 scaune</li>
-                                    <li>Benă 2280 x 1456 mm</li>
-                                    <li>Sarcina utilă maximă: 1336 kg (1182 kg cu 4x2)</li>
+                                Cabina simpla cu doua usi ofera un spatiu foarte practic,
+                                cu capacitati remarcabile privind spatiul de incarcare.
+
+                                 <ul>
+                                    <li>Varianta de cabina cu doua usi, cu locuri pentru pana la doi ocupanti.</li>
+                                    <li>Compartiment de incarcare 2.317 x 1.560 mm</li>
+                                    <li>Sarcina utila bruta* de maximum 1403kg (1117 kg pe 4x2)</li>
+                                    <span style="font-size: x-small;">*Sarcina utila bruta este in functie de modelul selectat si disponibilitatea in tara ta</span>
                                 </ul>
                             </div>
                         </div>
@@ -355,16 +353,80 @@ return false;"
                 </div>
                 <div class="BTIRow">
                     <div class="BTIOneItem">
+                        <div class="BTIImage">
+                            <div class="">
+
+                                <img
+                                    src="/assets/img/noul_ranger/1214544819542.jpg"
+                                    border="0" width="97"
+                                    height="97"
+                                    alt="Ford Ranger XL"
+                                    title="Ford Ranger XL"
+                                    style="border: solid 1px #999999;">
+                                </a>
+                                <div>
+                                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423957650&#38;blobkey=id" target="_blank" id="izid26059431205008753221" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423957650&#38;blobkey=id','image','Ford Ranger XL','Închide'); return false;"></a>
+                                </div>
+                            </div>
+                        </div>
                         <div class="BTIarticleTitle">
-                            Autoşasiu
+                            Cabina dubla
                         </div>
                         <div class='BTIarticleBody'>
                             <div class='BTIarticleText'>
-                                Noul Ranger cu autoşasiu dispune de o cabină robustă, din oţel ranforsat care poate fi cu uşurinţă adaptată pentru a permite să se potrivească diverselor tipuri de caroserii.
+                                Cabina dubla Ranger este prevazuta cu patru usi standard.
+                                Aceasta ofera un mediu spatios, similar autoturismelor,
+                                pentru pana la cinci persoane, usile mai mari asigurand
+                                acces usor pentru pasagerii din spate. Acestia se bucura,
+                                de asemenea, de spatiu generos pentru picioare.
+
+                                <ul> <br><br>
+                                    <li>Varianta de cabina cu patru usi, cu locuri pentru pana la cinci ocupanti..</li>
+                                    <li>Compartiment de incarcare 1549 x 1560 mm</li>
+                                    <li>SSarcina utila bruta* de maximum 1258 kg</li>
+                                    <span style="font-size: x-small;">*Sarcina utila bruta este in functie de modelul selectat si disponibilitatea in tara ta</span>
+                                </ul>
                             </div>
                         </div>
                     </div>
                 </div>
+                <div class="BTIRow">
+                    <div class="BTIOneItem">
+                        <div class="BTIImage">
+                            <div class="">
+
+                                <img
+                                    src="/assets/img/noul_ranger/1214544820455.jpg"
+                                    border="0" width="97"
+                                    height="97"
+                                    alt="Ford Ranger XL"
+                                    title="Ford Ranger XL"
+                                    style="border: solid 1px #999999;">
+                                </a>
+                                <div>
+                                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423957650&#38;blobkey=id" target="_blank" id="izid26059431205008753221" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214423957650&#38;blobkey=id','image','Ford Ranger XL','Închide'); return false;"></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="BTIarticleTitle">
+                            Cabina Super
+                        </div>
+                        <div class='BTIarticleBody'>
+                            <div class='BTIarticleText'>
+                                Cabina Super are doua usi fata conventionale si doua panouri spate cu deschidere inversa, oferind acces simplu in partea din spate a cabinei si la spatiul din spatele locurilor din fata. Acest model de cabina dispune de locuri pentru pasageri ocazionali in spate, cu depozitare sigura si accesibila in cabina, inclusiv doua compartimente acoperite in podea.
+
+                                <ul> <br>
+                                    <li>Varianta de cabina cu patru usi, cu usi spate cu deschidere inversa si locuri pentru pana la patru ocupanti.</li>
+                                    <li>Compartiment de incarcare 1.847 x 1.560 mm</li>
+                                    <li>Sarcina utila bruta* de maximum 1241 kg (1.070 kg pe 4x2)</li>
+                                    <span style="font-size: x-small;">*Sarcina utila bruta este in functie de modelul selectat si disponibilitatea in tara ta</span>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
             </div>
         </div>
         <div id="tab001-contentpane-1" class="tab001-pane-unselected">

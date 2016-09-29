@@ -54,12 +54,7 @@
             </ul>
             <div class="navdivider"></div>
             <ul id="nextSteps" class="nextSteps">
-                <li id='menu1205075514590' class=''>
-                    <a href='/VehiculeComerciale/Transit-Courier/Oferta_Speciala_TransitCourier'>Ofert&#259; special&#259; Transit Courier</a>
-                    <script type="text/javascript">
-                        document.id('menu1205075514590').addClass("navnextSteps");
-                    </script>
-                </li>
+
                 <li id='menu1205071929541' class=''>
                     <a href='/VehiculeComerciale/Transit-Courier/PrezentareGenerala'>Prezentare general&#259;</a>
                     <script type="text/javascript">
@@ -131,7 +126,7 @@
             <table>
                 <tr>
                     <td id="mdp2Fullscreen">
-                        <a href="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214480058684&amp;blobkey=id" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214480058684&amp;blobkey=id', 'Un+model+pentru+fiecare+afacere');
+                        <a href="#" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214480058684&amp;blobkey=id', 'Un+model+pentru+fiecare+afacere');
 if(typeof(sford)=='object') omnitureMDPFullScreen('1205071925275'); return false;" >
                             Fullscreen
                         </a>

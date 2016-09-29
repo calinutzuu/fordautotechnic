@@ -52,12 +52,7 @@
             </ul>
             <div class="navdivider"></div>
             <ul id="nextSteps" class="nextSteps">
-                <li id='menu1205075514590' class=''>
-                    <a href='/VehiculeComerciale/Transit-Courier/Oferta_Speciala_TransitCourier'>Ofert&#259; special&#259; Transit Courier</a>
-                    <script type="text/javascript">
-                        document.id('menu1205075514590').addClass("navnextSteps");
-                    </script>
-                </li>
+
                 <li id='menu1205071929541' class=''>
                     <a href='/VehiculeComerciale/Transit-Courier/PrezentareGenerala'>Prezentare general&#259;</a>
                     <script type="text/javascript">
@@ -134,7 +129,7 @@
                 <table>
                     <tr>
                         <td id="mdp2Fullscreen">
-                            <a href="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214480972613&amp;blobkey=id" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214480972613&amp;blobkey=id', 'Transit+Courier');
+                            <a href="#" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214480972613&amp;blobkey=id', 'Transit+Courier');
 if(typeof(sford)=='object') omnitureMDPFullScreen('1205073958053'); return false;" >
                                 Fullscreen
                             </a>
@@ -170,10 +165,20 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205073958053'); return false
     </div>
     <div id="container_center">
         <div class="center_item">
-            <div class="btoArticleTitle">NOUL TRANSIT COURIER te ajută să economiseşti din mers!</div>
+            <div class="btoArticleTitle">NOUL FORD TRANSIT COURIER</div>
             <div class="btoArticleText">
                 <div class="btoArticleAbstract">
-                    <div>Afacerea ta este importantă pentru noi; tocmai de aceea, te invităm să descoperi avantajele noului Ford Transit Courier, cu cel mai bun consum din clasă. <br> <br> &Icirc;n plus, vei descoperi &icirc;n Transit Courier o autotutilitară pe care o conduci cu plăcere, mulţumită noilor tehnologii care &icirc;ţi fac viaţa mai uşoară şi, nu &icirc;n ultimul r&acirc;nd, sporesc siguranţa condusului. <br> <br> Beneficiaza de eficienţă sporită a investiţiei &icirc;n parcul auto: &icirc;ţi oferim noul Ford Transit Courier la doar <strong>9.900 Euro*</strong>! Contactează cel mai apropiat <a HREF="/SBE/Ford/Dealeri/DealeriFord" >dealer</a> pentru a rezerva un test drive şi pentru a afla detalii suplimentare despre ofertă. <br> <em><br> * Masina din imagine este cu titlu de prezentare. Pretul exprimat nu contine TVA. Oferta este valabila &icirc;n limita stocului disponibil, pentru noul Ford Transit Courier, echipare Base cu optiune AC, 1.0 l EcoBoost, 100, Euro 5, consum mixt(l/km): 5.4, emisii CO<sub>2</sub>(g/km): 124.  </em></div>
+                    <div>Capabil, fiabil şi foarte eficient din punct de vedere al consumului de combustibil, la fel ca toate utilitarele Transit. Confortabil, plăcut la condus şi plin de tehnologii inteligente, precum un autoturism Ford. Acesta este noul Transit Courier.
+<br><br>
+                        Forma compactă a utilitarei o face să aibă o manevrabilitate superioară şi, mulţumită unuia dintre cele mai bune diametre de bracaj din clasa sa, puteţi negocia cu uşurinţă străzile înguste şi spaţiile de parcare strâmte.
+                        <br><br>
+                        Nu vă lăsaţi însă păcălit de postura mică a noului Transit Courier; o suprafaţă de încărcare de 2,3 metri cubi vă oferă cu 10% mai mult volum de încărcare decât alte vehicule din aceeaşi clasă. Optaţi pentru peretele despărțitor pliant cu scaun pentru pasager care poate fi „pliat și coborât” și veţi beneficia, de asemenea, de o lungime de încărcare de top în clasa sa, de 2,59 m.
+                        <br><br>
+                        Şi indiferent de câte ori va trebui să opriţi, nu o veţi face prea des pentru a alimenta. Acest lucru se întâmplă deoarece motorul pe benzină premiat EcoBoost de 1,0 l şi motoarele avansate diesel Duratorq de 1,5 l şi 1,6 l asigură o economie de combustibil remarcabilă şi un nivel redus al emisiilor: până la 3,7 L/100 km (76,3 mpg) şi doar 97 g/km cu sistemul Auto-Stop-Start şi sistemul de limitare a vitezei la 100 km/h.
+                        <br><br>
+                        Tehnologii avansate, inclusiv cameră video pentru vizualizare spate, senzori de distanţă la parcare şi Asistenţă la pornirea în rampă (şi multe altele), sunt prevăzute pentru a face fiecare deplasare în parte cât mai sigură, uşoară şi fără probleme posibil. Toate acestea în timp ce Ford SYNC cu comandă vocală vă eliberează, oferindu-vă posibilitatea de a prelua şi de a efectua apeluri telefonice în modul hands-free. Mai mult, sistemul vă va citi cu voce tare chiar şi mesajele text pe care le primiţi.* </div>
+                    <br><br>
+                    *Sub rezerva compatibilităţii telefonului.
                 </div>
             </div>
         </div>

@@ -70,12 +70,7 @@
                         document.id('menu1205008754585').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205008756328' class=''>
-                    <a href='/VehiculeComerciale/NoulRanger/Utilitate'>Utilitate</a>
-                    <script type="text/javascript">
-                        document.id('menu1205008756328').addClass("navnextSteps");
-                    </script>
-                </li>
+
                 <li id='menu1205008749291' class=''>
                     <a href='/VehiculeComerciale/NoulRanger/PerformantaSiEficienta'>Performan&#355;&#259; &#351;i eficien&#355;&#259;</a>
                     <script type="text/javascript">
@@ -122,7 +117,7 @@
                 });
             </script>
             <div id="mdp">
-                <img src='/assets/img/noul_ranger/1214423961850.jpg' alt='Noul Ford Ranger' onclick="omnitureViewPhoto()">
+                <img src='/assets/img/noul_ranger/1214554703276.jpg' alt='Noul Ford Ranger' onclick="omnitureViewPhoto()">
             </div>
             <div class="mdp2" id="mdpImageControl" >
                 <table>

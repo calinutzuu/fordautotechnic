@@ -40,12 +40,37 @@
 
 $route['default_controller'] = 'home';
 $route['404_override'] = '';
+$route['Autoturisme/ka-plus/Prezentare'] = 'autoturisme/ka_plus/prezentare';
+$route['Autoturisme/ka-plus/Galerie'] = 'autoturisme/ka_plus/galerie';
+$route['Autoturisme/ka-plus/Dotari'] = 'autoturisme/ka_plus/dotari';
+$route['Autoturisme/ka-plus'] = 'autoturisme/ka_plus/index';
+
 $route['Autoturisme/NoulMustang/PrezentareGenerala'] = 'autoturisme/noul_mustang/prezentare';
-$route['Autoturisme/NoulMustang/SigurantaSiSecuritate'] = 'autoturisme/noul_mustang/siguranta_si_securitate';
-$route['Autoturisme/NoulMustang/Performanta'] = 'autoturisme/noul_mustang/performanta';
-$route['Autoturisme/NoulMustang/ExperientaLaVolan'] = 'autoturisme/noul_mustang/experienta_la_volan';
-$route['Autoturisme/NoulMustang/Design'] = 'autoturisme/noul_mustang/design';
+$route['Autoturisme/NoulMustang/PreturisiPromotii'] = 'autoturisme/noul_mustang/preturi_si_promotii';
+$route['Autoturisme/NoulMustang/Galerie'] = 'autoturisme/noul_mustang/galerie';
+$route['Autoturisme/NoulMustang/Caracteristici'] = 'autoturisme/noul_mustang/caracteristici';
 $route['Autoturisme/NoulMustang'] = 'autoturisme/noul_mustang/index';
+
+$route['Autoturisme/Noul-S-MAX/PrezentareGenerala'] = 'autoturisme/noul_s_max/prezentare';
+$route['Autoturisme/Noul-S-MAX/Preturi-si-promotii'] = 'autoturisme/noul_s_max/preturi_si_promotii';
+$route['Autoturisme/Noul-S-MAX/Design'] = 'autoturisme/noul_s_max/design';
+$route['Autoturisme/Noul-S-MAX/Caracteristici'] = 'autoturisme/noul_s_max/caracteristici';
+$route['Autoturisme/Noul-S-MAX/S-MAX-Vignale'] = 'autoturisme/noul_s_max/s_max_vignale';
+$route['Autoturisme/Noul-S-MAX'] = 'autoturisme/noul_s_max/index';
+
+$route['Autoturisme/Noul-FordEdge/PrezentareGenerala'] = 'autoturisme/noul_edge/prezentare';
+$route['Autoturisme/Noul-FordEdge/Preturi-si-promotii'] = 'autoturisme/noul_edge/preturi_si_promotii';
+$route['Autoturisme/Noul-FordEdge/Design'] = 'autoturisme/noul_edge/design';
+$route['Autoturisme/Noul-FordEdge/Caracteristici'] = 'autoturisme/noul_edge/caracteristici';
+$route['Autoturisme/Noul-FordEdge/Edge-Vignale'] = 'autoturisme/noul_edge/edge_vignale';
+$route['Autoturisme/Noul-FordEdge/Models'] = 'autoturisme/noul_edge/models';
+$route['Autoturisme/Noul-FordEdge'] = 'autoturisme/noul_edge/index';
+
+$route['Autoturisme/NoulGalaxy/PrezentareGenerala'] = 'autoturisme/noul_galaxy/prezentare';
+$route['Autoturisme/NoulGalaxy/Preturi-si-promotii'] = 'autoturisme/noul_galaxy/preturi_si_promotii';
+$route['Autoturisme/NoulGalaxy/Design'] = 'autoturisme/noul_galaxy/design';
+$route['Autoturisme/NoulGalaxy/Caracteristici'] = 'autoturisme/noul_galaxy/caracteristici';
+$route['Autoturisme/NoulGalaxy'] = 'autoturisme/noul_galaxy/index';
 
 $route['Autoturisme/NoulB-MAX/Siguranta'] = 'autoturisme/noul_b_max/siguranta';
 $route['Autoturisme/NoulB-MAX/PerformantaSiEficienta'] = 'autoturisme/noul_b_max/performanta';
@@ -55,6 +80,12 @@ $route['Autoturisme/NoulB-MAX/Design'] = 'autoturisme/noul_b_max/design';
 $route['Autoturisme/NoulB-MAX/Prezentare'] = 'autoturisme/noul_b_max/prezentare';
 $route['Autoturisme/NoulB-MAX'] = 'autoturisme/noul_b_max/index';
 
+$route['Autoturisme/Noul-EcoSport/Caracteristici'] = 'autoturisme/noul_ecosport/caracteristici';
+$route['Autoturisme/Noul-EcoSport/Design'] = 'autoturisme/noul_ecosport/design';
+$route['Autoturisme/Noul-EcoSport/PreturiSiPromotii'] = 'autoturisme/noul_ecosport/preturi_si_promotii';
+$route['Autoturisme/Noul-EcoSport/PrezentareGenerala'] = 'autoturisme/noul_ecosport/prezentare_generala';
+$route['Autoturisme/Noul-EcoSport'] = 'autoturisme/noul_ecosport/index';
+
 $route['Autoturisme/Ka/Culorisitapiterie'] = 'autoturisme/ka/culori_si_tapiterie';
 $route['Autoturisme/Ka/PreturisiPromotii'] = 'autoturisme/ka/preturi_si_promotii';
 $route['Autoturisme/Ka/MaterialeDescarcabile'] = 'autoturisme/ka/materiale_descarcabile';
@@ -63,31 +94,31 @@ $route['Autoturisme/Ka/Designinterior'] = 'autoturisme/ka/design_interior';
 $route['Autoturisme/Ka/Prezentare'] = 'autoturisme/ka/prezentare';
 $route['Autoturisme/Ka'] = 'autoturisme/ka/index';
 
-$route['Autoturisme/NouaFiesta/Siguranta'] = 'autoturisme/noua_fiesta/siguranta_si_securitate';
-$route['Autoturisme/NouaFiesta/PerformantaSiEficienta'] = 'autoturisme/noua_fiesta/performanta';
-$route['Autoturisme/NouaFiesta/PreturisiPromotii'] = 'autoturisme/noua_fiesta/preturi_si_promotii';
-$route['Autoturisme/NouaFiesta/ExperientaLaVolan'] = 'autoturisme/noua_fiesta/experienta_la_volan';
-$route['Autoturisme/NouaFiesta/Design'] = 'autoturisme/noua_fiesta/design';
-$route['Autoturisme/NouaFiesta/Prezentare'] = 'autoturisme/noua_fiesta/prezentare';
-$route['Autoturisme/NouaFiesta'] = 'autoturisme/noua_fiesta/index';
+$route['Autoturisme/NouaFiesta/PreturiSiPromotii'] = 'autoturisme/fiesta/preturi_si_promotii';
+$route['Autoturisme/NouaFiesta/Accesorii'] = 'autoturisme/fiesta/accesorii';
+$route['Autoturisme/NouaFiesta/Caracteristici'] = 'autoturisme/fiesta/caracteristici';
+$route['Autoturisme/NouaFiesta/Prezentare-Generala'] = 'autoturisme/fiesta/prezentare';
+$route['Autoturisme/NouaFiesta'] = 'autoturisme/fiesta/index';
 
 $route['Autoturisme/Fiesta-ST'] = 'autoturisme/fiesta_st/index';
 
-$route['Autoturisme/NoulFocus/SigurantaSiSecuritate'] = 'autoturisme/noul_focus/siguranta_si_securitate';
-$route['Autoturisme/NoulFocus/ExperientaLaVolan'] = 'autoturisme/noul_focus/experienta_la_volan';
-$route['Autoturisme/NoulFocus/PerformantaSiEficienta'] = 'autoturisme/noul_focus/performanta';
-$route['Autoturisme/NoulFocus/Design'] = 'autoturisme/noul_focus/design';
-$route['Autoturisme/NoulFocus/PreturisiPromotii'] = 'autoturisme/noul_focus/preturi_si_promotii';
-$route['Autoturisme/NoulFocus/PrezentareGenerala'] = 'autoturisme/noul_focus/prezentare_generala';
-$route['Autoturisme/NoulFocus'] = 'autoturisme/noul_focus/index';
+$route['Autoturisme/FocusRS/Accesorii'] = 'autoturisme/focus_rs/accesorii';
+$route['Autoturisme/FocusRS/Caracteristici'] = 'autoturisme/focus_rs/caracteristici';
+$route['Autoturisme/FocusRS/Design'] = 'autoturisme/focus_rs/design';
+$route['Autoturisme/FocusRS/PreturiSiPromotii'] = 'autoturisme/focus_rs/preturi_si_promotii';
+$route['Autoturisme/FocusRS/PrezentareGenerala'] = 'autoturisme/focus_rs/prezentare_generala';
+$route['Autoturisme/FocusRS'] = 'autoturisme/focus_rs/index';
 
-$route['Autoturisme/Focus-ST/Siguranta'] = 'autoturisme/focus_st/siguranta';
-$route['Autoturisme/Focus-ST/PerformantaSiEficienta'] = 'autoturisme/focus_st/performanta';
-$route['Autoturisme/Focus-ST/PreturisiPromotii'] = 'autoturisme/focus_st/preturi_si_promotii';
-$route['Autoturisme/Focus-ST/ExperientaLaVolan'] = 'autoturisme/focus_st/experienta_la_volan';
-$route['Autoturisme/Focus-ST/Prezentare'] = 'autoturisme/focus_st/prezentare_generala';
-$route['Autoturisme/Focus-ST/Design'] = 'autoturisme/focus_st/design';
-$route['Autoturisme/Focus-ST'] = 'autoturisme/focus_st/index';
+$route['Autoturisme/NewFocusST/Caracteristici'] = 'autoturisme/focus_st/caracteristici';
+$route['Autoturisme/NewFocusST/Design'] = 'autoturisme/focus_st/design';
+$route['Autoturisme/NewFocusST/PrezentareGenerala'] = 'autoturisme/focus_st/prezentare';
+$route['Autoturisme/NewFocusST'] = 'autoturisme/focus_st/index';
+
+$route['Autoturisme/Focus/Caracteristici'] = 'autoturisme/focus/caracteristici';
+$route['Autoturisme/Focus/Design'] = 'autoturisme/focus/design';
+$route['Autoturisme/Focus/PreturisiPromotii'] = 'autoturisme/focus/preturi_si_promotii';
+$route['Autoturisme/Focus/PrezentareGenerala'] = 'autoturisme/focus/prezentare_generala';
+$route['Autoturisme/Focus'] = 'autoturisme/focus/index';
 
 $route['Autoturisme/NoulC-MAX/Caracteristici'] = 'autoturisme/c_max/caracteristici';
 $route['Autoturisme/NoulC-MAX/Design'] = 'autoturisme/c_max/design';
@@ -97,7 +128,7 @@ $route['Autoturisme/NoulC-MAX'] = 'autoturisme/c_max/index';
 
 $route['Autoturisme/Kuga/Siguranta'] = 'autoturisme/kuga/siguranta';
 $route['Autoturisme/Kuga/PerformantaSiEficienta'] = 'autoturisme/kuga/performanta_si_eficienta';
-$route['Autoturisme/Kuga/PreturisiPromotii'] = 'autoturisme/kuga/preturi_si_promotii';
+$route['Autoturisme/Kuga/PreturiSiPromotii'] = 'autoturisme/kuga/preturi_si_promotii';
 $route['Autoturisme/Kuga/ExperientaLaVolan'] = 'autoturisme/kuga/experienta_la_volan';
 $route['Autoturisme/Kuga/Prezentare'] = 'autoturisme/kuga/prezentare';
 $route['Autoturisme/Kuga/Design'] = 'autoturisme/kuga/design';
@@ -168,6 +199,7 @@ $route['VehiculeComerciale/Transit2014/Performanta'] = 'vehicule-comerciale/noul
 $route['VehiculeComerciale/Transit2014/Costuri'] = 'vehicule-comerciale/noul_ford_transit/utilitate';
 $route['VehiculeComerciale/Transit2014/ExperientaLaVolan'] = 'vehicule-comerciale/noul_ford_transit/experienta_la_volan';
 $route['VehiculeComerciale/Transit2014/Design'] = 'vehicule-comerciale/noul_ford_transit/design';
+$route['VehiculeComerciale/Transit2014/PrezentareGenerala'] = 'vehicule-comerciale/noul_ford_transit/prezentare_generala';
 $route['VehiculeComerciale/Transit2014'] = 'vehicule-comerciale/noul_ford_transit/index';
 
 $route['VehiculeComerciale/NouaFamilieTourneo'] = 'vehicule-comerciale/noua_familie_tourneo/index';
@@ -192,6 +224,31 @@ $route['VehiculeComerciale/NoulRanger/Design'] = 'vehicule-comerciale/noul_range
 $route['VehiculeComerciale/NoulRanger/Prezentare'] = 'vehicule-comerciale/noul_ranger/prezentare';
 $route['VehiculeComerciale/NoulRanger'] = 'vehicule-comerciale/noul_ranger/index';
 
+$route['Promotii/Autoturisme'] = 'promotii/autoturisme/index';
+$route['Promotii/Autoturisme/NoulKAPlus'] = 'promotii/autoturisme/noul_ka_plus';
+$route['Promotii/Autoturisme/NoulFordEdge'] = 'promotii/autoturisme/noul_ford_edge';
+$route['Promotii/Autoturisme/KugaSummerEdition'] = 'promotii/autoturisme/kuga_summer';
+$route['Promotii/Autoturisme/BusinessWeeks'] = 'promotii/autoturisme/business_weeks';
+
+$route['Promotii/Autoturisme/Ecobonus'] = 'promotii/autoturisme/ecobonus';
+$route['Promotii/Autoturisme/Ecobonus/OfertaFiesta'] = 'promotii/autoturisme/oferta_fiesta_e';
+$route['Promotii/Autoturisme/Ecobonus/OfertaBMAX'] = 'promotii/autoturisme/oferta_bmax_e';
+$route['Promotii/Autoturisme/Ecobonus/OfertaFocus'] = 'promotii/autoturisme/oferta_focus_e';
+$route['Promotii/Autoturisme/Ecobonus/OfertaMondeo'] = 'promotii/autoturisme/oferta_mondeo_e';
+$route['Promotii/Autoturisme/Ecobonus/OfertaEcoSport'] = 'promotii/autoturisme/oferta_ecosport_e';
+$route['Promotii/Autoturisme/Ecobonus/Procedura'] = 'promotii/autoturisme/procedura';
+$route['Promotii/Autoturisme/Ecobonus/WeekendulInovatiei'] = 'promotii/autoturisme/weekendul_inovatiei';
+
+$route['Promotii/Autoturisme/Rabla'] = 'promotii/autoturisme/rabla_p';
+$route['Promotii/Autoturisme/Rabla/OfertaFiesta'] = 'promotii/autoturisme/oferta_fiesta';
+$route['Promotii/Autoturisme/Rabla/OfertaBMAX'] = 'promotii/autoturisme/oferta_bmax';
+$route['Promotii/Autoturisme/Rabla/OfertaFocus'] = 'promotii/autoturisme/oferta_focus';
+$route['Promotii/Autoturisme/Rabla/OfertaMondeo'] = 'promotii/autoturisme/oferta_mondeo';
+$route['Promotii/Autoturisme/Rabla/OfertaEcoSport'] = 'promotii/autoturisme/oferta_ecosport';
+
+$route['Promotii/comerciale'] = 'promotii/comerciale/index';
+$route['Promotii/comerciale/NoulRanger'] = 'promotii/comerciale/noul_ranger';
+
 $route['Promotii/FiestaRedBlack'] = 'promotii/fiesta_red_black/index';
 $route['Promotii/Rabla2015'] = 'promotii/rabla/index';
 $route['Promotii/PromotieLansareFordFocus'] = 'promotii/focus/index';
@@ -201,6 +258,7 @@ $route['Promotii/ProgramulPrimaMasina'] = 'promotii/programul_prima_masina/index
 $route['Promotii/TradeIn'] = 'promotii/trade_in/index';
 $route['Promotii/CaravanaTransit'] = 'promotii/caravana_transit/index';
 $route['Promotii/Oferta_Speciala_TransitCourier'] = 'promotii/oferta_transit_courier/index';
+
 
 $route['Promotii/PromotiiService/BlueOval'] = 'promotii/promotii_service/inlocuire_blue_oval';
 $route['Promotii/PromotiiService/PromotiiAccesorii'] = 'promotii/promotii_service/promotii_accesorii';
@@ -215,31 +273,59 @@ $route['FordLeasing/Overview'] = 'ford_leasing/overview/index';
 
 $route['FordFleet'] = 'flote/flote/index';
 
-$route['FordService/IntrebariFrecvente'] = 'ford_service/intrebari_frecvente/index';
-$route['FordService/E10'] = 'ford_service/e_10/index';
-$route['FordService/SYNC-and-Bluetooth-Support/SYNC_AppLink_Catalogul'] = 'ford_service/ford_sync_bluetooth/sync_applink';
-$route['FordService/SYNC-and-Bluetooth-Support/Ford_SYNC_1.1_cu_AppLink'] = 'ford_service/ford_sync_bluetooth/ford_sync_1_1';
-$route['FordService/SYNC-and-Bluetooth-Support/Ford_SYNC_1.0'] = 'ford_service/ford_sync_bluetooth/ford_sync_1';
-$route['FordService/SYNC-and-Bluetooth-Support/Bluetooth_cu_comanda_vocala'] = 'ford_service/ford_sync_bluetooth/bluetooth_comanda_vocala';
-$route['FordService/SYNC-and-Bluetooth-Support/Prezentare'] = 'ford_service/ford_sync_bluetooth/prezentare';
-$route['FordService/SYNC-and-Bluetooth-Support'] = 'ford_service/ford_sync_bluetooth/index';
+$route['Tehnologie'] = 'tehnologie/prezentare/index';
+
+$route['FordService/Motorcraft/Reparatii/Baterie'] = 'ford_service/motorcraft/baterie/index';
+$route['FordService/Motorcraft/Reparatii/AerConditionat'] = 'ford_service/motorcraft/aer_conditionat/index';
+$route['FordService/Motorcraft/Reparatii/Suspensii'] = 'ford_service/motorcraft/suspensii/index';
+$route['FordService/Motorcraft/Reparatii/Antigel'] = 'ford_service/motorcraft/antigel/index';
+$route['FordService/Motorcraft/Reparatii/CureaDeDistributie'] = 'ford_service/motorcraft/curea/index';
+$route['FordService/Motorcraft/Reparatii/Stergatoare'] = 'ford_service/motorcraft/stergatoare/index';
+$route['FordService/Motorcraft/Reparatii/Ambreiaje'] = 'ford_service/motorcraft/ambreiaje/index';
+$route['FordService/Motorcraft/Reparatii/Frane'] = 'ford_service/motorcraft/frane/index';
+$route['FordService/Motorcraft/Reparatii'] = 'ford_service/motorcraft/reparatii/index';
+$route['FordService/Motorcraft/Pre-verificareITP'] = 'ford_service/motorcraft/preitp/index';
+$route['FordService/Motorcraft/Anvelope/Transit'] = 'ford_service/motorcraft/transit/index';
+$route['FordService/Motorcraft/Anvelope/Kuga'] = 'ford_service/motorcraft/kuga/index';
+$route['FordService/Motorcraft/Anvelope/Mondeo'] = 'ford_service/motorcraft/mondeo/index';
+$route['FordService/Motorcraft/Anvelope/C-MAX'] = 'ford_service/motorcraft/c_max/index';
+$route['FordService/Motorcraft/Anvelope/Focus'] = 'ford_service/motorcraft/focus/index';
+$route['FordService/Motorcraft/Anvelope/Fusion'] = 'ford_service/motorcraft/fusion/index';
+$route['FordService/Motorcraft/Anvelope/Fiesta'] = 'ford_service/motorcraft/fiesta/index';
+$route['FordService/Motorcraft/Anvelope/Ka'] = 'ford_service/motorcraft/ka/index';
+$route['FordService/Motorcraft/Anvelope'] = 'ford_service/motorcraft/anvelope/index';
+$route['FordService/Motorcraft/Service'] = 'ford_service/motorcraft/service/index';
+$route['FordService/Motorcraft'] = 'ford_service/motorcraft/index';
+$route['FordService/Accesorii'] = 'ford_service/accesorii_a/index';
+
+
+$route['FordService/FordSYNCBluetooth/FordSYNC2'] = 'ford_service/ford_sync_bluetooth/ford_sync2/index';
+$route['FordService/FordSYNCBluetooth/SYNC_AppLink_Catalogul'] = 'ford_service/ford_sync_bluetooth/sync_applink/index';
+$route['FordService/FordSYNCBluetooth/Prezentare'] = 'ford_service/ford_sync_bluetooth/prezentare/index';
+$route['FordService/FordSYNCBluetooth/Bluetooth_cu_comanda_vocala'] = 'ford_service/ford_sync_bluetooth/bluetooth_comanda_vocala/index';
+$route['FordService/FordSYNCBluetooth/Ford_SYNC_1'] = 'ford_service/ford_sync_bluetooth/ford_sync_1/index';
+$route['FordService/FordSYNCBluetooth/Ford_SYNC_1.2'] = 'ford_service/ford_sync_bluetooth/ford_sync_1_1/index';
+$route['FordService/FordSYNCBluetooth'] = 'ford_service/ford_sync_bluetooth/index';
+$route['FordService/Ford-SYNC-cu-AppLink'] = 'ford_service/ford_sync_app/index';
 $route['FordService/FordSYNC'] = 'ford_service/ford_sync/index';
 $route['FordService/Ford-Lifestyle-Collection'] = 'ford_service/ford_lifestyle/index';
 $route['FordService/AccidenteSiReparatii'] = 'ford_service/accidente_si_reparatii/index';
 $route['FordService/FordAsistenta12'] = 'ford_service/ford_asistenta_12/index';
-$route['FordService/GarantiiSiRevizii/ReviziiFordService'] = 'ford_service/garantii/revizii_ford_service';
-$route['FordService/GarantiiSiRevizii/FordGarantia12'] = 'ford_service/garantii/ford_garantia_12';
-$route['FordService/GarantiiSiRevizii/FordProtect'] = 'ford_service/garantii/ford_protect';
-$route['FordService/GarantiiSiRevizii/GarantieAutovehiculeNoi/ReparatiiNeacoperite'] = 'ford_service/garantii/reparatii_neacoperite';
-$route['FordService/GarantiiSiRevizii/GarantieAutovehiculeNoi'] = 'ford_service/garantii/garantie_autovehicule_noi';
+$route['FordService/Euro_NCAP_Advanced'] = 'ford_service/euro_ncap/index';
+$route['FordService/E10'] = 'ford_service/e_10/index';
+$route['FordService/IntrebariFrecvente'] = 'ford_service/intrebari/index';
+$route['FordService/Refrigerant_R134a'] = 'ford_service/refrigerant/index';
+
+$route['FordService/GarantiiSiRevizii/GarantieAutovehiculeNoi'] = 'ford_service/garantii/garantie_autovehicule_noi/index';
+$route['FordService/GarantiiSiRevizii/ReviziiFordService'] = 'ford_service/garantii/revizii_ford_service/index';
+$route['FordService/GarantiiSiRevizii/FordGarantia12'] = 'ford_service/garantii/ford_garantia_12/index';
+$route['FordService/GarantiiSiRevizii/FordProtect'] = 'ford_service/garantii/ford_protect/index';
 $route['FordService/GarantiiSiRevizii'] = 'ford_service/garantii/index';
 $route['FordService/Service'] = 'ford_service/service/index';
-$route['FordService/Accesorii'] = 'ford_service/accesorii/index';
-$route['FordService/FordServiceApp'] = 'ford_service/ford_service_app/index';
-$route['FordService/BlueService'] = 'ford_service/blue_service/index';
-$route['FordService/Prezentare'] = 'ford_service/prezentare_generala/index';
+$route['FordService/FordServiceApp'] = 'ford_service/service_app/index';
 
 $route['Business_Service_Club'] = 'bussines_service_club/bussines_service_club/index';
+$route['Contact'] = 'contact/contact/index';
 
 $route['Autoturisme'] = 'xyz';
 

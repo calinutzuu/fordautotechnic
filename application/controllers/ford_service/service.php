@@ -6,7 +6,7 @@ class service extends CI_Controller
     {
         $this->template
             ->set_layout('promotii')
-            ->title('Ford Service - Service', 'Ford AutoTechnic')
+            ->title('FordService', 'Ford AutoTechnic')
             ->build('ford_service/service');
     }
 }

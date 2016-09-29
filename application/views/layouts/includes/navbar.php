@@ -9,51 +9,10 @@
 <div id="logo">
     <h1 class="bigHeading visuallyhidden">Ford</h1>
     <a href="/">
-        <img src='<?=base_url('assets/img/logo.png')?>' role="presentation" alt="Ford">
+        <img src='<?=base_url('assets/img/logo_a.png')?>' role="presentation" alt="Ford">
     </a>
 </div>
-<nav id="sbe" class="sbeLinks" role="navigation">
-    <h2 class="navTitle">Navigare site Ford</h2>
-    <ul class="sbeNav" role="list">
-        <li role="listitem"><a role="link" class="sbe om_he_sb_SBEI" href="../SBE/VreauSaFiuInformata.html"><span
-                style="background-image:url('/assets/img/1214481759413.png.')"></span>Vreau
-            să fiu informat(ă)</a>
-        </li>
-        <li role="listitem"><a role="link" class="sbe om_he_sb_SBET" href="../SBE/TestDrive.html"><span
-                style="background-image:url('/assets/img/1214483776887.png')"></span>Înscrie-te
-            la test drive</a>
-        </li>
-        <li role="listitem" class='levelOne'><a role="link" class="sbe om_he_sb" href="#"><span
-                style="background-image:url('/assets/img/1214484914450.png')"></span>DEALERI
-            FORD</a>
 
-            <div class="flyout">
-                <dl role="tree">
-                    <dd role="treeitem">
-                        <a href='../SBE/Ford/DealeriFord.html' class="om_he_sb_SBED">Dealeri Ford</a>
-                    </dd>
-                    <dd role="treeitem"><a href='../FordFleet.html' class="om_he_sb">Ford Fleet Partner</a></dd>
-                </dl>
-            </div>
-        </li>
-        <li role="listitem" class='levelOne'><a role="link" class="sbe om_he_sb" href="#"><span
-                style="background-image:url('/assets/img/1214485115013.png')"></span>BROŞURI</a>
-
-            <div class="flyout">
-                <dl role="tree">
-                    <dd role="treeitem"><a href='../SBE/Brosura/VeziBrosuri.html' class="om_he_sb_SBEB">Vezi
-                        broşurile</a></dd>
-                    <dd role="treeitem"><a href='../SBE/Brosura/DescarcaBrosura.html' class="om_he_sb_SBEB">Descarcă o
-                        broşură</a></dd>
-                </dl>
-            </div>
-        </li>
-        <li role="listitem"><a role="link" class="sbe om_he_sb" href="../TehnologiiFord/Go_Further.html"><span
-                style="background-image:url('/assets/img/1214485115013.png')"></span>Go
-            Further</a>
-        </li>
-    </ul>
-</nav>
 <nav id="mainTopNav" role="navigation">
 <h2 class="navTitle">Navigare site Ford</h2>
 <ul id="sections" role="menu">
@@ -65,294 +24,132 @@
 <a class="skip om_he_cv_sk" href="#cVehicles">Salt la vehicule comerciale</a>
 <!-- Displaying market nameplates  -->
 <ul class="subMenu" role="menu">
-    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Autoturisme/NoulMustang">Mustang</a></li>
-    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Autoturisme/NoulB-MAX">B-MAX</a></li>
-    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Autoturisme/Ka">Ka</a></li>
-    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Autoturisme/NouaFiesta">Fiesta</a></li>
-    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Autoturisme/Fiesta-ST">Fiesta ST</a></li>
-    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Autoturisme/NoulFocus">Noul Focus</a></li>
-    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Autoturisme/Focus-ST">Focus ST</a></li>
-    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Autoturisme/NoulC-MAX">Noul C-MAX</a>
+    <li role="menuitem" class=""><a role="link" data-selenium="doormat_car_selection Ka+"
+                                    class="om_he_pv_np " href="/Autoturisme/ka-plus">Ka+</a>
     </li>
-    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Autoturisme/Kuga">Kuga</a></li>
-    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="http://vignale.ford.ro/">Vignale</a></li>
-    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Autoturisme/Mondeo">Noul Mondeo</a></li>
-    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Autoturisme/NoulTourneoConnect">Tourneo Connect </a>
+    <li role="menuitem" class=""><a role="link" data-selenium="doormat_car_selection Fiesta"
+                                    class="om_he_pv_np "
+                                    href="/Autoturisme/Fiesta">Fiesta</a></li>
+    <li role="menuitem" class=""><a role="link" data-selenium="doormat_car_selection B-MAX"
+                                    class="om_he_pv_np "
+                                    href="/Autoturisme/NoulB-MAX">B-MAX</a></li>
+    <li role="menuitem" class=""><a role="link"
+                                    data-selenium="doormat_car_selection EcoSport"
+                                    class="om_he_pv_np " href="/Autoturisme/Noul-EcoSport">EcoSport</a>
     </li>
-    <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Autoturisme/Noul-Ford-Tourneo-Courier">Tourneo
-        Courier</a></li>
+    <li role="menuitem" class=""><a role="link" data-selenium="doormat_car_selection Focus"
+                                    class="om_he_pv_np " href="/Autoturisme/Focus">Focus</a>
+    </li>
+    <li role="menuitem" class=""><a role="link"
+                                    data-selenium="doormat_car_selection Focus ST"
+                                    class="om_he_pv_np " href="/Autoturisme/NewFocusST">Focus
+            ST</a></li>
+    <li role="menuitem" class=""><a role="link"
+                                    data-selenium="doormat_car_selection Focus RS"
+                                    class="om_he_pv_np " href="/Autoturisme/FocusRS">Focus
+            RS</a></li>
+    <li role="menuitem" class=""><a role="link"
+                                    data-selenium="doormat_car_selection Noul C-MAX"
+                                    class="om_he_pv_np " href="/Autoturisme/NoulC-MAX">Noul
+            C-MAX</a></li>
+    <li role="menuitem" class=""><a role="link" data-selenium="doormat_car_selection Kuga"
+                                    class="om_he_pv_np " href="/Autoturisme/Kuga">Kuga</a>
+    </li>
+    <li role="menuitem" class=""><a role="link"
+                                    data-selenium="doormat_car_selection Noul Mondeo"
+                                    class="om_he_pv_np " href="/Autoturisme/Mondeo">Noul
+            Mondeo</a></li>
+    <li role="menuitem" class="branded vignale"><a role="link"
+                                                   data-selenium="doormat_car_selection Mondeo Vignale"
+                                                   class="om_he_pv_np "
+                                                   href="http://vignale.ford.ro/ro-RO/Mondeo/">Mondeo
+            Vignale</a></li>
+    <li role="menuitem" class=""><a role="link"
+                                    data-selenium="doormat_car_selection Mustang"
+                                    class="om_he_pv_np " href="/Autoturisme/NoulMustang">Mustang</a>
+    </li>
+    <li role="menuitem" class=""><a role="link"
+                                    data-selenium="doormat_car_selection Noul S-MAX"
+                                    class="om_he_pv_np " href="/Autoturisme/Noul-S-MAX">Noul
+            S-MAX</a></li>
+    <li role="menuitem" class="branded vignale"><a role="link"
+                                                   data-selenium="doormat_car_selection S-MAX Vignale"
+                                                   class="om_he_pv_np "
+                                                   href="http://vignale.ford.ro/ro-RO/smax/">S-MAX
+            Vignale</a></li>
+    <li role="menuitem" class=""><a role="link"
+                                    data-selenium="doormat_car_selection Noul Edge"
+                                    class="om_he_pv_np " href="/Autoturisme/Noul-FordEdge">Noul
+            Edge</a></li>
+    <li role="menuitem" class=""><a role="link"
+                                    data-selenium="doormat_car_selection Noul Galaxy"
+                                    class="om_he_pv_np " href="/Autoturisme/NoulGalaxy">Noul
+            Galaxy</a></li>
+    <li role="menuitem" class=""><a role="link"
+                                    data-selenium="doormat_car_selection Tourneo Connect "
+                                    class="om_he_pv_np "
+                                    href="/Autoturisme/NoulTourneoConnect">Tourneo
+            Connect </a></li>
+    <li role="menuitem" class=""><a role="link"
+                                    data-selenium="doormat_car_selection Tourneo Courier"
+                                    class="om_he_pv_np "
+                                    href="/Autoturisme/Noul-Ford-Tourneo-Courier">Tourneo
+            Courier</a></li>
+    <li role="menuitem" class=""><a role="link"
+                                    data-selenium="doormat_car_selection Noul Ford GT"
+                                    class="om_he_pv_np " href="https://www.fordgt.com/ro_ro/performance/gt/">Noul
+            Ford GT</a></li>
+ <!--   <li role="menuitem" class=""><a role="link"
+                                    data-selenium="doormat_car_selection Vehicule viitoare"
+                                    class="om_he_pv_np " href="/Autoturisme/FutureVehicles">Vehicule
+            viitoare</a></li>  -->
 </ul>
 <div class="pvnp-gradient"></div>
-<div class="wrapperTabContent">
-    <div class="tabContent" id="Mustang" role="tabpanel" style="display:none;">
-        <section class="doormatContent fl">
-            <h2 class="bigHeading"><span class="mark">Ford</span> Mustang</h2>
-            <figure>
-                <a href="/Autoturisme/NoulMustang" class="om_he_pv_np"><img
-                        src="/assets/img/1214486098890.png"
-                        role="presentation" alt="Mustang"></a>
-                <!--Rendering the CTA Button-->
-                <div class="btnLink">
-                    <a title="" href="/Autoturisme/NoulMustang" class="om_he_pv_np">DETALII DESPRE ACEST MODEL</a>
-                </div>
-            </figure>
-        </section>
-    </div>
-    <div class="tabContent" id="BMAX" role="tabpanel" style="display:none;">
-        <section class="doormatContent fl">
-            <h2 class="bigHeading"><span class="mark">Ford</span> B-MAX</h2>
-            <figure>
-                <a href="NoulB-MAX" class="om_he_pv_np"><img
-                        src="/assets/img/resize340xrou004yyrj55j6j(a)(a)jia_1_0.png"
-                        role="presentation" alt="B-MAX"></a>
-                <!--Rendering the CTA Button-->
-                <div class="btnLink">
-                    <a title="" href="NoulB-MAX" class="om_he_pv_np">DETALII DESPRE ACEST MODEL</a>
-                </div>
-            </figure>
-        </section>
-    </div>
-    <div class="tabContent" id="Ka" role="tabpanel" style="display:none;">
-        <section class="doormatContent fl">
-            <h2 class="bigHeading"><span class="mark">Ford</span> Ka</h2>
-            <figure>
-                <a href="Ka" class="om_he_pv_np"><img
-                        src="/assets/img/resize340xrou00gyypbd3dd8(a)(a)cda_1_0.png"
-                        role="presentation" alt="Ka"></a>
-                <!--Rendering the CTA Button-->
-                <div class="btnLink">
-                    <a title="" href="Ka" class="om_he_pv_np">DETALII DESPRE ACEST MODEL</a>
-                </div>
-            </figure>
-        </section>
-    </div>
-    <div class="tabContent" id="Fiesta" role="tabpanel" style="display:none;">
-        <section class="doormatContent fl">
-            <h2 class="bigHeading"><span class="mark">Ford</span> Fiesta</h2>
-            <figure>
-                <a href="NouaFiesta" class="om_he_pv_np"><img
-                        src="/assets/img/resize340xrou00cyyvr838w5(a)(a)9nj_1_0.png"
-                        role="presentation" alt="Fiesta"></a>
-                <!--Rendering the CTA Button-->
-                <div class="btnLink">
-                    <a title="" href="NouaFiesta" class="om_he_pv_np">DETALII DESPRE ACEST MODEL</a>
-                </div>
-            </figure>
-        </section>
-    </div>
-    <div class="tabContent" id="FiestaST" role="tabpanel" style="display:none;">
-        <section class="doormatContent fl">
-            <h2 class="bigHeading"><span class="mark">Ford</span> Fiesta ST</h2>
-            <figure>
-                <a href="Fiesta-ST" class="om_he_pv_np"><img
-                        src="/assets/img/1214480083856.png"
-                        role="presentation" alt="Fiesta ST"></a>
-                <!--Rendering the CTA Button-->
-                <div class="btnLink">
-                    <a title="" href="Fiesta-ST" class="om_he_pv_np">DETALII DESPRE ACEST MODEL</a>
-                </div>
-            </figure>
-        </section>
-    </div>
-    <div class="tabContent" id="NoulFocus" role="tabpanel" style="display:none;">
-        <section class="doormatContent fl">
-            <h2 class="bigHeading"><span class="mark">Ford </span> Focus</h2>
-            <figure>
-                <a href="NoulFocus" class="om_he_pv_np"><img
-                        src="/assets/img/1214484915144.png"
-                        role="presentation" alt="Noul Focus"></a>
-                <!--Rendering the CTA Button-->
-                <div class="btnLink">
-                    <a title="" href="NoulFocus" class="om_he_pv_np">DETALII DESPRE ACEST MODEL</a>
-                </div>
-            </figure>
-        </section>
-    </div>
-    <div class="tabContent" id="FocusST" role="tabpanel" style="display:none;">
-        <section class="doormatContent fl">
-            <h2 class="bigHeading"><span class="mark">Ford</span> Focus ST</h2>
-            <figure>
-                <a href="Focus-ST" class="om_he_pv_np"><img
-                        src="/assets/img/1214480083880.png"
-                        role="presentation" alt="Focus ST"></a>
-                <!--Rendering the CTA Button-->
-                <div class="btnLink">
-                    <a title="" href="Focus-ST" class="om_he_pv_np">DETALII DESPRE ACEST MODEL</a>
-                </div>
-            </figure>
-        </section>
-    </div>
-    <div class="tabContent" id="CMAX351iGRANDCMAX" role="tabpanel" style="display:none;">
-        <section class="doormatContent fl">
-            <h2 class="bigHeading"><span class="mark">Ford</span> C-MAX &#351;i GRAND C-MAX</h2>
-            <figure>
-                <a href="NoulC-MAX" class="om_he_pv_np"><img
-                        src="/assets/img/resize340xrou009yywb9bd9d(a)(a)w9e_1_0.png"
-                        role="presentation" alt="Noul C-MAX"></a>
-                <!--Rendering the CTA Button-->
-                <div class="btnLink">
-                    <a title="" href="NoulC-MAX" class="om_he_pv_np">DETALII DESPRE ACEST MODEL</a>
-                </div>
-            </figure>
-        </section>
-    </div>
-    <div class="tabContent" id="Kuga" role="tabpanel" style="display:none;">
-        <section class="doormatContent fl">
-            <h2 class="bigHeading"><span class="mark">Ford</span> Kuga</h2>
-            <figure>
-                <a href="Kuga.html" class="om_he_pv_np"><img
-                        src="/assets/img/resize340xrou00oyyw7sa7tk(a)(a)7x2_1_0.png"
-                        role="presentation" alt="Kuga"></a>
-                <!--Rendering the CTA Button-->
-                <div class="btnLink">
-                    <a title="" href="Kuga.html" class="om_he_pv_np">DETALII DESPRE ACEST MODEL</a>
-                </div>
-            </figure>
-        </section>
-    </div>
-    <div class="tabContent" id="Vignale" role="tabpanel" style="display:none;">
-        <section class="doormatContent fl">
-            <h2 class="bigHeading"><span class="mark">Ford</span> Vignale</h2>
-            <figure>
-                <a href="http://vignale.ford.ro/" class="om_he_pv_np"><img
-                        src="../cs/BlobServer87c0.png?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobwhere=1214480718508&amp;blobkey=id"
-                        role="presentation" alt="Vignale"></a>
-                <!--Rendering the CTA Button-->
-                <div class="btnLink">
-                    <a title="" href="http://vignale.ford.ro/" class="om_he_pv_np">DESCOPERIŢI VIGNALE</a>
-                </div>
-            </figure>
-        </section>
-    </div>
-    <div class="tabContent" id="NoulMondeo" role="tabpanel" style="display:none;">
-        <section class="doormatContent fl">
-            <h2 class="bigHeading"><span class="mark">Ford</span> Mondeo</h2>
-            <figure>
-                <a href="Mondeo.html" class="om_he_pv_np"><img
-                        src="/assets/img/resize340xrou00ryyyr05r3d(a)(a)rja_1_0.png"
-                        role="presentation" alt="Noul Mondeo"></a>
-                <!--Rendering the CTA Button-->
-                <div class="btnLink">
-                    <a title="" href="Mondeo.html" class="om_he_pv_np">DETALII DESPRE ACEST MODEL</a>
-                </div>
-            </figure>
-        </section>
-    </div>
-    <div class="tabContent" id="TourneoConnect" role="tabpanel" style="display:none;">
-        <section class="doormatContent fl">
-            <h2 class="bigHeading"><span class="mark">Ford</span> Tourneo Connect </h2>
-            <figure>
-                <a href="NoulTourneoConnect.html" class="om_he_pv_np"><img
-                        src="/assets/img/1214480717122.png"
-                        role="presentation" alt="Tourneo Connect "></a>
-                <!--Rendering the CTA Button-->
-                <div class="btnLink">
-                    <a title="" href="NoulTourneoConnect.html" class="om_he_pv_np">DETALII DESPRE ACEST MODEL</a>
-                </div>
-            </figure>
-        </section>
-    </div>
-    <div class="tabContent" id="TourneoCourier" role="tabpanel" style="display:none;">
-        <section class="doormatContent fl">
-            <h2 class="bigHeading"><span class="mark">Ford</span> Tourneo Courier</h2>
-            <figure>
-                <a href="Noul-Ford-Tourneo-Courier.html" class="om_he_pv_np"><img
-                        src="/assets/img/1214484933412.png"
-                        role="presentation" alt="Tourneo Courier"></a>
-                <!--Rendering the CTA Button-->
-                <div class="btnLink">
-                    <a title="" href="Noul-Ford-Tourneo-Courier.html" class="om_he_pv_np">DETALII DESPRE ACEST MODEL</a>
-                </div>
-            </figure>
-        </section>
-    </div>
-</div>
-<!-- Displaying 3 additional market specified links  -->
-<div class="pvNavLinkWrapper">
-    <div class="pvHeroWrapper">
-        <aside class="miscellaneousFooter  x-axis-footer footer-length-2">
-        </aside>
-    </div>
-    <!-- Displaying Tertiary Block Links -->
-    <div class="pvTertiaryWrapper">
-        <aside class="miscellaneousFooter  x-axis-footer footer-length-2">
-            <div class="content slate">
-                <a class="tertiary-link om_ca_tl_1" href="../SBE/VreauSaFiuInformata.html">Vreau să fiu informat(ă)</a>
-            </div>
-            <div class="content slate">
-                <a class="tertiary-link om_ca_tl_2" href="../TehnologiiFord/Go_Further.html">Go Further</a>
-            </div>
-        </aside>
-    </div>
-</div>
+
+
 </div>
 </div>
 </li>
 <li class="levelOne" role="menuitem" data-nav="generic">
-    <a role="link" href="../VehiculeComerciale/Prezentare.html" class="om_he_at_li"><span>Vehicule comerciale</span></a>
+    <a role="link" href="/VehiculeComerciale/Prezentare" class="om_he_at_li"><span>Vehicule comerciale</span></a>
 
     <div class="flyout">
         <ul class="subMenu" role="menu">
-            <li role="menuitem"><a href="../VehiculeComerciale/Prezentare.html" class="om_he_ac_li">Prezentare</a></li>
-            <li role="menuitem"><a href="../VehiculeComerciale/Noua_familie_Transit.html" class="om_he_ac_li">Noua
-                familie Transit</a></li>
-            <li role="menuitem"><a href="../VehiculeComerciale/Transit-Courier.html" class="om_he_ac_li">Noul Transit
+            <li role="menuitem"><a href="/VehiculeComerciale/Transit-Courier" class="om_he_ac_li"> Transit
                 Courier</a></li>
-            <li role="menuitem"><a href="../VehiculeComerciale/TransitConnect.html" class="om_he_ac_li">Noul Transit
+            <li role="menuitem"><a href="/VehiculeComerciale/TransitConnect" class="om_he_ac_li"> Transit
                 Connect</a></li>
-            <li role="menuitem"><a href="../VehiculeComerciale/NoulTransitCustom.html" class="om_he_ac_li">Noul Transit
+            <li role="menuitem"><a href="/VehiculeComerciale/NoulTransitCustom" class="om_he_ac_li"> Transit
                 Custom</a></li>
-            <li role="menuitem"><a href="../VehiculeComerciale/Transit2014.html" class="om_he_ac_li">Noul Ford
+            <li role="menuitem"><a href="/VehiculeComerciale/Transit2014" class="om_he_ac_li">
                 Transit</a></li>
-            <li role="menuitem"><a href="../VehiculeComerciale/Transit.html" class="om_he_ac_li">Transit</a></li>
-            <li role="menuitem"><a href="../VehiculeComerciale/TransitMinibus.html" class="om_he_ac_li">Transit
-                Minibus</a></li>
-            <li role="menuitem"><a href="../VehiculeComerciale/TransitAutosasiu.html" class="om_he_ac_li">Transit
-                Autoşasiu</a></li>
-            <li role="menuitem"><a href="../VehiculeComerciale/NouaFamilieTourneo.html" class="om_he_ac_li">Noua familie
-                Tourneo</a></li>
-            <li role="menuitem"><a href="../VehiculeComerciale/NoulTourneoCustom.html" class="om_he_ac_li">Noul Tourneo
-                Custom</a></li>
-            <li role="menuitem"><a href="../VehiculeComerciale/NoulRanger.html" class="om_he_ac_li">Noul Ranger</a></li>
+            <li role="menuitem"><a href="/VehiculeComerciale/NoulTourneoCustom" class="om_he_ac_li">Tourneo
+                    Custom</a></li>
+            <li role="menuitem"><a href="#" class="om_he_ac_li">Transit
+                Autosasiu</a></li>
+            <li role="menuitem"><a href="/VehiculeComerciale/NoulRanger" class="om_he_ac_li">Noul Ranger</a></li>
         </ul>
     </div>
 </li>
 <li class="levelOne" role="menuitem" data-nav="generic">
-    <a role="link" href="../Promotii/FiestaRedBlack.html" class="om_he_at_li"><span>Promoţii</span></a>
+    <a role="link" href=".." class="om_he_at_li"><span>Promotii</span></a>
 
     <div class="flyout">
         <ul class="subMenu" role="menu">
-            <li role="menuitem"><a href="../Promotii/FiestaRedBlack.html" class="om_he_ac_li">Fiesta Red & Black</a>
-            </li>
-            <li role="menuitem"><a href="../Promotii/KugaWinterEdition.html" class="om_he_ac_li">Kuga Winter Edition</a>
-            </li>
-            <li role="menuitem"><a href="../Promotii/PromotieLansareFordFocus.html" class="om_he_ac_li">Ofertă specială
-                de lansare Ford Focus</a></li>
-            <li role="menuitem"><a href="../Promotii/NoulMondeo.html" class="om_he_ac_li">Ofertă specială de lansare
-                Ford Mondeo</a></li>
-            <li role="menuitem"><a href="../Promotii/InfoMondeo.html" class="om_he_ac_li">Află totul despre noul
-                Mondeo</a></li>
-            <li role="menuitem"><a href="../Promotii/PrimaMasina.html" class="om_he_ac_li">Programul Naţional Ford Prima
-                Maşină</a></li>
-            <li role="menuitem"><a href="../Promotii/ProgramulPrimaMasina.html" class="om_he_ac_li">Înscrie-te în
-                programul Prima Maşină!</a></li>
-            <li role="menuitem"><a href="../Promotii/TradeIn.html" class="om_he_ac_li">Programul Național Ford Trade
-                In</a></li>
-            <li role="menuitem"><a href="../Promotii/PromotiiService.html" class="om_he_ac_li">Promoţii service</a></li>
-            <li role="menuitem"><a href="../Promotii/CaravanaTransit.html" class="om_he_ac_li">Caravana Ford Transit</a>
-            </li>
-            <li role="menuitem"><a href="../Promotii/Oferta_Speciala_TransitCourier.html" class="om_he_ac_li">Ofertă
-                specială Transit Courier</a></li>
+            <li role="menuitem"><a href="/Promotii/Autoturisme" class="om_he_ac_li">Promoţii autoturisme</a></li>
+            <li role="menuitem"><a href="/Promotii/comerciale" class="om_he_ac_li">Promoții vehicule comerciale</a></li>
+            <li role="menuitem"><a href="/FordService/Motorcraft" class="om_he_ac_li">Promoţii service</a></li>
+        <!--    <li role="menuitem"><a href="../Promotii/promotii-accesorii" class="om_he_ac_li">Promoţii accesorii</a></li> -->
         </ul>
     </div>
 </li>
 <li class="levelOne" role="menuitem" data-nav="generic">
-    <a role="link" href="../FordLeasing.html" class="om_he_at_li"><span>Finanţare</span></a>
+    <a role="link" href="/FordLeasing/Overview" class="om_he_at_li"><span>Finantare</span></a>
 </li>
 <li class="levelOne" role="menuitem" data-nav="generic">
-    <a role="link" href="http://www.ford.ro/TehnologiiFord/Go_Further" class="om_he_at_li"><span>Tehnologii Ford</span></a>
+    <a role="link" href="/Tehnologie/Prezentare" class="om_he_at_li"><span>Tehnologii Ford</span></a>
 
-    <div class="flyout">
+    <!-- <div class="flyout">
         <ul class="subMenu" role="menu">
             <li role="menuitem"><a href="http://www.ford.ro/TehnologiiFord/FordSYNC" class="om_he_ac_li">Ford SYNC</a>
             </li>
@@ -365,45 +162,38 @@
             <li role="menuitem"><a href="http://www.ford.ro/TehnologiiFord/Go_Further" class="om_he_ac_li">Go
                 Further</a></li>
         </ul>
-    </div>
+    </div> -->
 </li>
 <li class="levelOne" role="menuitem" data-nav="generic">
-    <a role="link" href="../FordFleet.html" class="om_he_at_li"><span>Flote</span></a>
+    <a role="link" href="/FordFleet" class="om_he_at_li"><span>Flote</span></a>
 </li>
 <li class="levelOne" role="menuitem" data-nav="generic">
-    <a role="link" href="../Business_Service_Club.html" class="om_he_at_li"><span>Business Service Club</span></a>
+    <a role="link" href="/Business_Service_Club" class="om_he_at_li"><span>Business Service Club</span></a>
 </li>
 <li class="levelOne" role="menuitem" data-nav="generic">
-    <a role="link" href="../FordService/Prezentare.html" class="om_he_at_li"><span>Service</span></a>
+    <a role="link" href="/FordService/Motorcraft" class="om_he_at_li"><span>Service</span></a>
 
     <div class="flyout">
         <ul class="subMenu" role="menu">
-            <li role="menuitem"><a href="../FordService/Prezentare.html" class="om_he_ac_li">Prezentare generală</a>
-            </li>
-            <li role="menuitem"><a href="../FordService/PromotiiService.html" class="om_he_ac_li">Promoţii service</a>
-            </li>
-            <li role="menuitem"><a href="../FordService/BlueService.html" class="om_he_ac_li">Ford BlueService</a></li>
-            <li role="menuitem"><a href="../FordService/Accesorii.html" class="om_he_ac_li">Accesorii</a></li>
-            <li role="menuitem"><a href="../FordService/Service.html" class="om_he_ac_li">Service</a></li>
-            <li role="menuitem"><a href="../FordService/GarantiiSiRevizii.html" class="om_he_ac_li">Garanţii şi revizii
-                Ford</a></li>
-            <li role="menuitem"><a href="../FordService/FordAsistenta12.html" class="om_he_ac_li">FordAsistenta 12</a>
-            </li>
-            <li role="menuitem"><a href="../FordService/AccidenteSiReparatii.html" class="om_he_ac_li">Accidente şi
-                reparaţii</a></li>
-            <li role="menuitem"><a href="../FordService/ManualeDeUtilizare.html" class="om_he_ac_li">Manuale de
-                utilizare</a></li>
-            <li role="menuitem"><a href="../FordService/Ford-Lifestyle-Collection.html" class="om_he_ac_li">Ford
-                Lifestyle Collection</a></li>
-            <li role="menuitem"><a href="../FordService/FordSYNC.html" class="om_he_ac_li">Ford SYNC</a></li>
-            <li role="menuitem"><a href="../FordService/SYNC-and-Bluetooth-Support.html" class="om_he_ac_li">Ford SYNC
-                and Bluetooth® support</a></li>
-            <li role="menuitem"><a href="../FordService/E10.html" class="om_he_ac_li">Combustibil E10</a></li>
-            <li role="menuitem"><a href="../FordService/IntrebariFrecvente.html" class="om_he_ac_li">Întrebări
-                frecvente</a></li>
+            <li role="menuitem"><a href="/FordService/Motorcraft" class="om_he_ac_li">Ford Motorcraft</a></li>
+            <li role="menuitem"><a href="/FordService/FordServiceApp" class="om_he_ac_li">Ford Service App</a></li>
+            <li role="menuitem"><a href="/FordService/Accesorii" class="om_he_ac_li">Accesorii</a></li>
+            <li role="menuitem"><a href="/FordService/Service" class="om_he_ac_li">Service</a></li>
+            <li role="menuitem"><a href="/FordService/GarantiiSiRevizii" class="om_he_ac_li">Garanţii şi revizii Ford</a></li>
+            <li role="menuitem"><a href="/FordService/FordAsistenta12" class="om_he_ac_li">FordAsistenta 12</a></li>
+            <li role="menuitem"><a href="/FordService/AccidenteSiReparatii" class="om_he_ac_li">Accidente şi reparaţii</a></li>
+            <li role="menuitem"><a href="/FordService/Ford-Lifestyle-Collection" class="om_he_ac_li">Ford Lifestyle Collection</a></li>
+            <li role="menuitem"><a href="/FordService/FordSYNC" class="om_he_ac_li">Ford SYNC</a></li>
+            <li role="menuitem"><a href="/FordService/Ford-SYNC-cu-AppLink" class="om_he_ac_li">Ford SYNC cu AppLink</a></li>
+            <li role="menuitem"><a href="/FordService/FordSYNCBluetooth" class="om_he_ac_li">Ford SYNC cu Bluetooth</a></li>
+            <li role="menuitem"><a href="/FordService/Euro_NCAP_Advanced" class="om_he_ac_li">Euro NCAP Advanced</a></li>
+            <li role="menuitem"><a href="/FordService/E10" class="om_he_ac_li">Combustibil E10</a></li>
+            <li role="menuitem"><a href="/FordService/IntrebariFrecvente" class="om_he_ac_li">Întrebări frecvente</a></li>
+            <li role="menuitem"><a href="/FordService/Refrigerant_R134a" class="om_he_ac_li">Refrigerant R134a</a></li>
         </ul>
     </div>
 </li>
+
 </ul>
 </nav>
 <!--  TODO : breadcrumb navigation, viewAs and search field html fragment goes here  -->
@@ -416,7 +206,7 @@
                     <label for="s" class="fl">
                         <span class="visuallyhidden">Search</span>
                         <input class="searchField" type="search" name="s" id="s"
-                               placeholder="Introducere termen de căutare" value="" maxlength="250" autocomplete="off"/>
+                               placeholder="Introducere termen de c?utare" value="" maxlength="250" autocomplete="off"/>
                     </label>
                 </div>
                 <input type="hidden" name="pagename" value="RORO4_ENGINE/LayoutSearchResults_EP2"/>

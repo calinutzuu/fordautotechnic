@@ -21,7 +21,7 @@
             <div id="navAnchor"></div>
             <ul id="currentContext" class="currentContext">
                 <li id='menu1204961326806' class=''>
-                    <a href='/VehiculeComerciale'>Vehicule comerciale</a>
+                    <a href=''>Vehicule comerciale</a>
                     <div id="navsubmenu" class="navsubmenu">
                         <div class="navsubmenutop">
                         </div>
@@ -70,12 +70,12 @@
                         document.id('menu1205008754585').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205008756328' class=''>
+             <!--   <li id='menu1205008756328' class=''>
                     <a href='/VehiculeComerciale/NoulRanger/Utilitate'>Utilitate</a>
                     <script type="text/javascript">
                         document.id('menu1205008756328').addClass("navnextSteps");
                     </script>
-                </li>
+                </li>  -->
                 <li id='menu1205008749291' class=''>
                     <a href='/VehiculeComerciale/NoulRanger/PerformantaSiEficienta'>Performan&#355;&#259; &#351;i eficien&#355;&#259;</a>
                     <script type="text/javascript">
@@ -122,7 +122,7 @@
                 });
             </script>
             <div id="mdp">
-                <img src='/assets/img/noul_ranger/1214423961850.jpg' alt='Noul Ford Ranger' onclick="omnitureViewPhoto()">
+                <img src='/assets/img/noul_ranger/1214554703276.jpg' alt='Noul Ford Ranger' onclick="omnitureViewPhoto()">
             </div>
             <div class="mdp2" id="mdpImageControl" >
                 <table>
@@ -166,11 +166,64 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205010360551'); return false
         <div class="center_item">
             <div class="btoArticleTitle">NOUL FORD RANGER</div>
             <div class="btoArticleText">
-                <div class="btoArticleAbstract">
-                    <div>Noul Ford Ranger a fost testat fără pic de milă &ndash; &icirc;n unele dintre cele mai ostile medii, la temperaturi extreme şi pe cele mai dure tipuri de teren din lume. <br> <br> Ranger a fost testat, de asemenea, şi de o parte dintre cei mai severi arbitri din lume &ndash; cei din juriul &bdquo;Pick-up-ul Internaţional al Anului 2013&rdquo;. Aceştia &ndash; jurnalişti de top din domeniul auto, din &icirc;ntreaga lume &ndash; au acordat, &icirc;n unanimitatea, mai multe puncte noului Ranger dec&acirc;t punctajul cumulat al ocupanţilor locurilor 2 şi 3.  <br> <br> Arbitrii au fost impresionaţi, fără &icirc;ndoială, de plusul de putere oferit de noua gamă de motoare diesel Duratorq &ndash; putere care vă permite să transportaţi o sarcină utilă de p&acirc;nă la 1.340 kg şi să remorcaţi p&acirc;nă la 3.350 kg. &Icirc;n acelaşi timp, noile motorizări oferă un consum ameliorat şi respect sunt conforme cu standardele Euro V &icirc;n materie de emisii.  <br> <br> Noul Ranger este, de asemenea, primul pick-up care a obţinut o evaluare a siguranţei de 5 stele din partea organizaţiei Euro NCAP. Aflaţi mai multe despre <a HREF="/VehiculeComerciale/NoulRanger/Siguranta" CONTENTEDITABLE="false" >nivelurile de siguranţă</a>, <a HREF="/VehiculeComerciale/NoulRanger/ExperientaCondusului" CONTENTEDITABLE="false" >experienţa condusului</a>, <a HREF="/VehiculeComerciale/NoulRanger/PerformantaSiEficienta" CONTENTEDITABLE="false" >performanţa şi eficienţa</a>, <a HREF="/VehiculeComerciale/NoulRanger/Utilitate" CONTENTEDITABLE="false" >utilitatea</a> şi <a HREF="/VehiculeComerciale/NoulRanger/Design" CONTENTEDITABLE="false" >designul</a> noului Ranger. <br> <br> <a HREF="/SBE/TestDrive" CONTENTEDITABLE="false" >Rezervaţi un test drive</a>. Şi convingeţi-vă singur de calităţile de lider ale noului Ranger.</div>
+                <div class="abstract">
+                    <div>Ford Ranger si-a construit reputatia ca pick-up pentru orice destinatie si incarcatura. <br>
+                        <br>
+                        Noul Ranger este proiectat sa confirme acest renume, printr-o serie de imbunatatiri ale designului,
+                        prestatiilor si tehnologiei.<br>
+                        <br>
+                        Calitatile practice dovedite sunt dublate de performante de exceptie si eficienta consumului de combustibil,
+                        o gama de tehnologii remarcabile si un stil ultra-modern.
+
+                        <section class="bti-wrapper">&nbsp;&nbsp;
+                            <article class="bti-item">
+                                <div class="bti-image">
+                                    <a href="/cs/ContentServer?cid=1205108693765&amp;pagename=RORO4_ENGINE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2Ftabs%2FExtremeImageZoom&amp;browserWidth=%25_browserWidth_%25&amp;c=Image_C&amp;browserHeight=%25_browserHeight_%25" class="js-overlay om_pv_xa_vo" data-media-overlay='{"mediaType":"xZoom","height":439, "width":780}'>
+                                        <img alt="Ford Ranger in apa" title="Ford Ranger in apa" src="/assets/img/noul_ranger/1214544821223.jpg">
+                                    </a>
+                                    <div class="icon-wrapper">
+                                        <a title="Zoom image" class="icon-zoom om_pv_xa_vo js-overlay" data-media-overlay='{"mediaType":"xZoom","height":439, "width":780}' href="/cs/ContentServer?cid=1205108693765&amp;pagename=RORO4_ENGINE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2Ftabs%2FExtremeImageZoom&amp;browserWidth=%25_browserWidth_%25&amp;c=Image_C&amp;browserHeight=%25_browserHeight_%25"></a>
+                                    </div>
+                                </div>
+                                <header class="bti-title">Constructie solida</header>
+                                <div class="bti-body">
+                                    <div class="abstract">
+                                        <div>Avand capacitatea sa transporte 1.403 kg*, sa tracteze pana la 3.500 kg** si sa treaca prin apa adanca de pana la 800 mm, noul Ranger este mai mult decat capabil.<br>
+                                            <br>
+                                            E un vehicul care nu te lasa nici in cele mai aspre conditii, pe care te poti baza la cele mai dure solicitari si in care poti avea incredere ca iti ofera o experienta fantastica la volan, zi de zi.</div>
+                                        <div><br>
+                                            <sup>*Sarcina utila bruta este in functie de modelul selectat si disponibilitatea in tara ta</sup> <br>
+                                            <br>
+                                            <sup>**Vehicule 4x4 de 160 PS/200 PS cu carlig de remorcare si remorca cu sistem franare</sup><br><br></div>
+                                    </div>
+                                </div>
+                            </article>
+                        </section>
+                        <section class="bti-wrapper">
+                            <article class="bti-item">
+                                <div class="bti-image">
+                                    <a href="/cs/ContentServer?cid=1205108694427&amp;pagename=RORO4_ENGINE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2Ftabs%2FExtremeImageZoom&amp;browserWidth=%25_browserWidth_%25&amp;c=Image_C&amp;browserHeight=%25_browserHeight_%25" class="js-overlay om_pv_xa_vo" data-media-overlay='{"mediaType":"xZoom","height":439, "width":780}'>
+                                        <img alt="Ford Ranger" title="Ford Ranger" src="/assets/img/noul_ranger/1214544821812.jpg">
+                                    </a>
+                                    <div class="icon-wrapper">
+                                        <a title="Zoom image" class="icon-zoom om_pv_xa_vo js-overlay" data-media-overlay='{"mediaType":"xZoom","height":439, "width":780}' href="/cs/ContentServer?cid=1205108694427&amp;pagename=RORO4_ENGINE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2Ftabs%2FExtremeImageZoom&amp;browserWidth=%25_browserWidth_%25&amp;c=Image_C&amp;browserHeight=%25_browserHeight_%25"></a>
+                                    </div>
+                                </div>
+                                <header class="bti-title">Dotare inteligenta</header>
+                                <div class="bti-body">
+                                    <div class="abstract">
+                                        <div>Tehnologie de control vocal si tactil cu Ford SYNC2, dotat cu ecran color de 8". Tempomat adaptiv cu avertizare frontala, sistem de Mentinere a benzii, sistem de Recunoastere a indicatoarelor rutiere si Avertizarea soferului: toate acestea sunt dotari noi, disponibile pe un vehicul cu specificatii deja foarte bune.<br>
+                                            <br>
+                                            Imbunatatirile aduse motorului si sistemului de transmisie, printre care se numara Auto Start Stop si noi raporturi de transmisie finale, la care se adauga un nou sistem de servodirectie electric, contribuie la o economie remarcabila a consumului de combustibil si emisii de CO2  incepand de la 6,5l/100km (43.5mpg) si, respectiv, 171g/km, transformand noul Ranger intr-o alegere perfecta pentru afaceri si agrement, munca si divertisment.</div>
+                                    </div>
+                                </div>
+                            </article>
+                        </section>
+                    </div>
                 </div>
             </div>
         </div>
+
         <div class="center_item">
         </div>
         <div class="center_item">
@@ -213,4 +266,5 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205010360551'); return false
         <div class="right_item">
         </div>
     </div>
+
 </div>

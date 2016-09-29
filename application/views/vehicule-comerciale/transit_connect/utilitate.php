@@ -97,12 +97,7 @@
                         document.id('menu1205049516207').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205049669501' class=''>
-                    <a href='/VehiculeComerciale/TransitConnect/PreturiSiBrosuri'>Liste de pe&#355;uri &#351;i bro&#351;uri</a>
-                    <script type="text/javascript">
-                        document.id('menu1205049669501').addClass("navnextSteps");
-                    </script>
-                </li>
+
             </ul>
             <div class="navbottom"></div>
         </div>
@@ -131,14 +126,14 @@
             <table>
                 <tr>
                     <td id="mdp2Fullscreen">
-                        <a href="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214458026951&amp;blobkey=id" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214458026951&amp;blobkey=id', 'Practic%2C+muncitor+%C5%9Fi+u%C8%99or+de+%C3%AEntre%C5%A3inut');
+                        <a href="#" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214458026951&amp;blobkey=id', 'Practic%2C+muncitor+%C5%9Fi+u%C8%99or+de+%C3%AEntre%C5%A3inut');
 if(typeof(sford)=='object') omnitureMDPFullScreen('1205049501075'); return false;" >
                             Fullscreen
                         </a>
                     </td>
                     <td id="mdp2Description" style="width:50%">
                         <a id="mdpCaption">
-                            Practic, muncitor &#351;i u&#537;or de &icirc;ntre&#355;inut
+                            Practic, muncitor si usor de intretinut
                         </a>
                     </td>
                     <td id="mdp2Right">
@@ -167,7 +162,7 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205049501075'); return false
 </div>
 <div id="container_center">
 <div class="center_item">
-    <div class="btoArticleTitle">Practic, muncitor şi ușor de întreţinut</div>
+    <div class="btoArticleTitle">Practic, muncitor si usor de intretinut</div>
     <div class="btoArticleText">
         <div class="btoArticleAbstract">
             Noul Transit Connect oferă spaţiu de &icirc;ncărcare flexibil de p&acirc;nă la 3,7 metri cubi (4,4 metri cubi c&acirc;nd este utilizat spaţiul de &icirc;ncărcare flexibil faţă) şi o sarcină utilă de 1.000 kg. Caracteristicile ingenioase şi utile ajută la protejarea mărfii şi a vehiculului de condiţiile dificile specifice activităţii dumneavoastră. Şi pentru că utilitara este construită cu respectarea unor standarde stricte pentru vehicule comerciale, nu numai că este făcută să dureze, este proiectată să minimizeze costul de deţinere. Multe caracteristici şi tehnologii sunt disponibile pentru versiunile L1 (ampatament scurt) şi L2 (ampatament lung), &icirc;nsă puteţi compara diferenţele practice &icirc;n secţiunea <a href="http://wwwedu-ro.engine.ford.com/VehiculeComerciale/TransitConnect/VarianteDeCaroserie">Variante de caroserie</a>.
@@ -277,7 +272,7 @@ return false;"
     </div>
     <div
             id="tab001-tab-1"
-            class="tab001_item last unselected_last unselected "
+            class="tab001_item first selected_first selected "
             style="text-align:center;">
         <table cellpadding="0" cellspacing="0" border="0" title="Costuri de întreţinere">
             <thead>
@@ -325,7 +320,7 @@ return false;"
                                     style="border: solid 1px #999999;">
                         </a>
                         <div>
-                            <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214458027103&#38;blobkey=id" target="_blank" id="izid95403101205049502590" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214458027103&#38;blobkey=id','image','Ford Transit Connect - perete desp\u0103r\u0163itor prin care se poate \u00EEnc\u0103rca','Închide'); return false;"></a>
+                            <a href="#" class="imgZoom_png" ></a>
                         </div>
                     </div>
                 </div>
@@ -353,7 +348,7 @@ return false;"
                                     style="border: solid 1px #999999;">
                         </a>
                         <div>
-                            <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214458025066&#38;blobkey=id" target="_blank" id="izid31956861205049513547" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214458025066&#38;blobkey=id','image','Scaun dublu pentru pasager fa\u0163\u0103','Închide'); return false;"></a>
+                            <a href="#" class="imgZoom_png" > </a>
                         </div>
                     </div>
                 </div>
@@ -381,8 +376,7 @@ return false;"
                                     style="border: solid 1px #999999;">
                         </a>
                         <div>
-                            <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214458025218&#38;blobkey=id" target="_blank" id="izid34944321205049518316" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214458025218&#38;blobkey=id','image','Puncte de ancorare a m\u0103rfii','Închide'); return false;"></a>
-                        </div>
+                            <a href="#" class="imgZoom_png" > </a>                        </div>
                     </div>
                 </div>
                 <div class="BTIarticleTitle">
@@ -409,8 +403,7 @@ return false;"
                                     style="border: solid 1px #999999;">
                         </a>
                         <div>
-                            <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214458027864&#38;blobkey=id" target="_blank" id="izid48772061205049528371" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214458027864&#38;blobkey=id','image','Iluminarea zonei de marf\u0103','Închide'); return false;"></a>
-                        </div>
+                            <a href="#" class="imgZoom_png" > </a>                        </div>
                     </div>
                 </div>
                 <div class="BTIarticleTitle">
@@ -453,7 +446,7 @@ return false;"
         </div>
     </div>
 </div>
-<div id="tab001-contentpane-1" class="tab001-pane-unselected">
+<div id="tab001-contentpane-0" class="tab001-pane-selected">
     <div class='tab001_TabReco_ShowBTI001Collection' >
         <div class="BTIRow">
             <div class="BTIOneItem">
@@ -469,8 +462,7 @@ return false;"
                                     style="border: solid 1px #999999;">
                         </a>
                         <div>
-                            <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214458025294&#38;blobkey=id" target="_blank" id="izid25749621205049519552" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214458025294&#38;blobkey=id','image','Intervale de service la 1 an','Închide'); return false;"></a>
-                        </div>
+                            <a href="#" class="imgZoom_png" > </a>                        </div>
                     </div>
                 </div>
                 <div class="BTIarticleTitle">
@@ -497,8 +489,7 @@ return false;"
                                     style="border: solid 1px #999999;">
                         </a>
                         <div>
-                            <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214458027179&#38;blobkey=id" target="_blank" id="izid31136651205049502856" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214458027179&#38;blobkey=id','image','Garan\u0163ie de 12 ani \u00EEmpotriva perfor\u0103rii','Închide'); return false;"></a>
-                        </div>
+                            <a href="#" class="imgZoom_png" > </a>                        </div>
                     </div>
                 </div>
                 <div class="BTIarticleTitle">

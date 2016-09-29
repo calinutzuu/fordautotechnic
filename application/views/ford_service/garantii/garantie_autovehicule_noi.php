@@ -154,7 +154,7 @@
             });
         </script>
         <div id="mdp">
-            <img src='/assets/img/service/1214403343966.jpg' alt='Garanţie extinsă ' onclick="omnitureViewPhoto()">
+            <img src='/assets/img/service/1214562130294.jpg' alt='Garanţie extinsă ' onclick="omnitureViewPhoto()">
         </div>
         <div class="mdp2" id="mdpImageControl" >
             <table>

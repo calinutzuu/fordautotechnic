@@ -125,7 +125,7 @@
             <table>
                 <tr>
                     <td id="mdp2Fullscreen">
-                        <a href="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214462069848&amp;blobkey=id" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214462069848&amp;blobkey=id', 'Alege%C5%A3i+modelul+potrivit+pentru+dumneavoastr%C4%83');
+                        <a href="#" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214462069848&amp;blobkey=id', 'Alege%C5%A3i+modelul+potrivit+pentru+dumneavoastr%C4%83');
 if(typeof(sford)=='object') omnitureMDPFullScreen('1205054477814'); return false;" >
                             Fullscreen
                         </a>

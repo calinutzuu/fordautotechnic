@@ -88,18 +88,8 @@
                         document.id('menu1205022343958').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205022341731' class=''>
-                    <a href='/VehiculeComerciale/NoulTourneoCustom/Modele'>Modele</a>
-                    <script type="text/javascript">
-                        document.id('menu1205022341731').addClass("navnextSteps");
-                    </script>
-                </li>
-                <li id='menu1205022342948' class=''>
-                    <a href='/VehiculeComerciale/NoulTourneoCustom/ListaPreturi'>List&#259; de pre&#539;uri </a>
-                    <script type="text/javascript">
-                        document.id('menu1205022342948').addClass("navnextSteps");
-                    </script>
-                </li>
+
+
             </ul>
             <div class="navbottom"></div>
         </div>

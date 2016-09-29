@@ -344,58 +344,9 @@
                         <header class="bto-title">
                             <h1>FORD B-MAX – Ingenios şi avantajos</h1>
                         </header>
-                        <div class="bto-body">
+                        <div class="bti-body">
                             <div class="abstract">
-                                <div>Efervescenţa urbană se trăiește mai ușor c&acirc;nd ai un sistem ingenios de acces
-                                    in habitaclu: sistemul Ford Easy Access System &icirc;ţi oferă o deschidere a
-                                    portierelor de 1,5 metri, mulţumită construcţiei inovatoare cu montantul central
-                                    integrat &icirc;n portieră. &Icirc;n acelaşi timp, acest sistem se traduce
-                                    şi &icirc;n posibilitatea de a deschide ușile larg, chiar și &icirc;ntr-o parcare
-                                    aglomerată. <br> <br> Ingenios prin design, dar și prin tehnologii, B-MAX dispune de
-                                    o multitudine de dotări gata să &icirc;ți susțină plăcerea de a conduce:<br> <br>
-                                    <ul>
-                                        <li>Geamuri faţă şi spate şi oglinzi acţionate electric</li>
-                                        <li>Ford Easy Access Door System</li>
-                                        <li>Ford MyKey</li>
-                                        <li>Volan &icirc;mbracat &icirc;n piele</li>
-                                        <li>Sistem de asistenţă la urcarea &icirc;n rampa</li>
-                                        <li>Sistem de control avansat al cuplului motor</li>
-                                        <li>Sistem Ford ECOMode</li>
-                                    </ul>
-                                    <div>Acum, poți profita de oferta specială: <strong>B-MAX Trend 1.0, EcoBoost 100
-                                        CP, la 11.200 Euro* (TVA inclus)!</strong><br> <br> &Icirc;n plus, poţi
-                                        beneficia de finanţare prin programul <strong>Prima Maşină de la Ford</strong>.
-                                        După ce am creat &icirc;n premieră pentru Rom&acirc;nia programul Prima Maşină
-                                        de la Ford, l-am dus şi mai departe, pentru a-l face mai ofertant ca niciodata!
-                                        Principalele avantaje de care poţi beneficia sunt:<br> <br>
-                                        <ul>
-                                            <li><strong>Dob&acirc;ndă fixă de 4.57 %**</strong>, pe &icirc;ntreaga
-                                                perioadă de finanţare
-                                            </li>
-                                            <li><strong>Aprobare &icirc;n 2 ore</strong>, &icirc;n showroom-urile Ford;
-                                            </li>
-                                            <li>Perioadă de finanţare &icirc;ntre <strong>6 - 60 de luni</strong>;</li>
-                                            <li>Avans minimum 5%</li>
-                                            <li>Varsta eligibilă: &icirc;ntre <strong>18 şi 70 ani;</strong></li>
-                                        </ul>
-                                        <br> Contactează acum cel mai apropiat <a HREF="/SBE/Ford/Dealeri/DealeriFord">dealer</a>
-                                        pentru un test drive şi detalii suplimentare!<br> <br> <span
-                                                style="font-size: x-small;"><em>*Preţul exprimat include TVA și este
-                                            valabil pentru Ford B-MAX, Trend, 5 uşi, 1.0 EcoBoost100 CP (Euro VI, consum
-                                            mixt 5.1 l/100 km, emisii CO<sub>2 </sub>(g/km): 119), şi cuprinde
-                                            contravaloarea tichetului Remat. Ofertă supusă unor termene și condiţii,
-                                            valabilă &icirc;n limita stocului disponibil, la dealerii Ford participanţi
-                                            la promoţie.<br> <br> ** Pentru un autoturism in valoare de 50.400 lei (cu
-                                            TVA), avans 2.520 lei (minim 5%), valoarea totala a creditului va fi de
-                                            47.880 lei pe 60 luni: rata anuala a dobanzii (fixa) 4,57%, comision de
-                                            analiza dosar 0 lei, comision lunar de administrare credit 0 lei, valoarea
-                                            ratei lunare (pentru rate egale) 894,2 lei, valoarea totala platibila 53.650
-                                            lei, DAE 4,67%. In calculul ratei lunare nu s-a inclus asigurarea optionala
-                                            de viata si asigurarea CASCO. In cazul in care se opteaza pentru asigurarea
-                                            (facultativa) de viata, rata lunara devine 967,5 lei.</em></span></div>
-                                </div>
-                            </div>
-                            <div class="body">
+                                <p>Beneficiezi de un bonus de 1.500 &euro;, la casarea masinii vechi, si ajungi sa ai un avantaj client de 4.350 &euro;<br> <br> Afla mai multe <u><a HREF="/Promotii/Autoturisme/Ecobonus/OfertaBMAX" >aici</a></u></p>
                             </div>
                         </div>
                     </article>

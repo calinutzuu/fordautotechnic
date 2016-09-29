@@ -34,14 +34,9 @@
             <div class="navdivider"></div>
             <ul id="nextSteps" class="nextSteps">
                 <li class="selected"><p>Prezentare</p></li>
-                <li id='menu1205054435547' class=''>
-                    <a href='/VehiculeComerciale/Noua_familie_Transit'>Noua familie Transit</a>
-                    <script type="text/javascript">
-                        document.id('menu1205054435547').addClass("navnextSteps");
-                    </script>
-                </li>
+
                 <li id='menu1205071929551' class=''>
-                    <a href='/VehiculeComerciale/Transit-Courier'>Noul Transit Courier</a>
+                    <a href='/VehiculeComerciale/Transit-Courier'>Transit Courier</a>
 
                     <div id="navsubmenu" class="navsubmenu">
                         <div class="navsubmenutop">
@@ -78,7 +73,7 @@
                     </div>
                 </li>
                 <li id='menu1205049501206' class=''>
-                    <a href='/VehiculeComerciale/TransitConnect'>Noul Transit Connect</a>
+                    <a href='/VehiculeComerciale/TransitConnect'>Transit Connect</a>
 
                     <div id="navsubmenu" class="navsubmenu">
                         <div class="navsubmenutop">
@@ -114,7 +109,7 @@
                     </div>
                 </li>
                 <li id='menu1205022331302' class=''>
-                    <a href='/VehiculeComerciale/NoulTransitCustom'>Noul Transit Custom</a>
+                    <a href='/VehiculeComerciale/NoulTransitCustom'>Transit Custom</a>
 
                     <div id="navsubmenu" class="navsubmenu">
                         <div class="navsubmenutop">
@@ -151,7 +146,7 @@
                     </div>
                 </li>
                 <li id='menu1205054470650' class=''>
-                    <a href='/VehiculeComerciale/Transit2014'>Noul Ford Transit</a>
+                    <a href='/VehiculeComerciale/Transit2014'>Ford Transit</a>
 
                     <div id="navsubmenu" class="navsubmenu">
                         <div class="navsubmenutop">
@@ -184,14 +179,9 @@
                         </div>
                     </div>
                 </li>
-                <li id='menu1205032241579' class=''>
-                    <a href='/VehiculeComerciale/NouaFamilieTourneo'>Noua familie Tourneo</a>
-                    <script type="text/javascript">
-                        document.id('menu1205032241579').addClass("navnextSteps");
-                    </script>
-                </li>
+
                 <li id='menu1205022342976' class=''>
-                    <a href='/VehiculeComerciale/NoulTourneoCustom'>Noul Tourneo Custom</a>
+                    <a href='/VehiculeComerciale/NoulTourneoCustom'>Tourneo Custom</a>
 
                     <div id="navsubmenu" class="navsubmenu">
                         <div class="navsubmenutop">
@@ -303,13 +293,12 @@
             </div>
             <div class='BTIarticleBody'>
                 <div class='BTIarticleText'>
-                    Este, de mult timp, sinonim cu &ldquo;vehicul comercial&rdquo;. Acum, Ford Transit Euro 5 devine
-                    sinonim şi cu &ldquo;economie de combustibil&rdquo;!
+                    Noul Ford Transit este cea mai mare utilitară din gamă.
                 </div>
-                <a class="linkText" href='/Transit'><!--  internal link -->
+                <a class="linkText" href='/VehiculeComerciale/Transit2014'><!--  internal link -->
                     <span id='linkText.1204998486985'
                           title="Citeşte mai multe despre Transit ">Mai multe informaţii...</span></a>
-                </span>
+
             </div>
         </div>
         <div class="BTIItemSecond">
@@ -332,7 +321,10 @@
                     <div>Compact şi rezistent, Transit Connect este pus pe treabă. Sub exteriorul stilat şi &icirc;ndrăzneţ
                         se află toate standardele modelului Transit.
                     </div>
-                </div>
+                    <a class="linkText" href='/VehiculeComerciale/TransitConnect'><!--  internal link -->
+                    <span id='linkText.1204998486985'
+                          title="Citeşte mai multe despre Transit ">Mai multe informaţii...</span></a>
+                    </div>
             </div>
         </div>
     </div>
@@ -352,13 +344,16 @@
                 </div>
             </div>
             <div class="BTIarticleTitle">
-                Connect Furgon
+                Transit Courier
             </div>
             <div class='BTIarticleBody'>
                 <div class='BTIarticleText'>
-                    <div>Connect Furgon 5 locuri&nbsp;este vehiculul perfect pentru cei care vor să &icirc;mbine munca
-                        şi distracţia, &icirc;ntr-un confort desăv&acirc;rşit.
+                    <div>Capabil, fiabil şi foarte eficient din punct de vedere al
+                        consumului de combustibil, la fel ca toate utilitarele Transit.
                     </div>
+                    <a class="linkText" href='/VehiculeComerciale/Transit-Courier'><!--  internal link -->
+                    <span id='linkText.1204998486985'
+                          title="Citeşte mai multe despre Transit ">Mai multe informaţii...</span></a>
                 </div>
             </div>
         </div>
@@ -379,13 +374,11 @@
             </div>
             <div class='BTIarticleBody'>
                 <div class='BTIarticleText'>
-                    <div>Trei variante de ampatament; patru variante de lungime; tracţiune faţă, spate sau integrală; o
-                        gamă vastă de motorizări&nbsp;- cu siguranţă veţi găsi modelul cel mai potrivit pentru afacerea
-                        dumneavoastră.
+                    <div>Rezistenţa şi calitatea construcţiei specifice unei camionete. Flexibilitatea unei platforme care permite o mare varietate de conversii.
                     </div>
                 </div>
 
-                <a class="linkText" href='/TransitAutosasiu'><!--  internal link -->
+                <a class="linkText" href='/VehiculeComerciale/TransitAutosasiu'><!--  internal link -->
                     <span id='linkText.1204961283187' title="Citeşte mai multe despre Transit Autoşasiu ">Mai multe informaţii...</span></a>
                 </span>
             </div>
@@ -407,16 +400,15 @@
                 </div>
             </div>
             <div class="BTIarticleTitle">
-                Transit Minibus
+                Tourneo Custom
             </div>
             <div class='BTIarticleBody'>
                 <div class='BTIarticleText'>
-                    <div>Poate transporta 9, 12, 15 sau 17 pasageri &icirc;ntr-un interior spaţios, aerisit, modern şi
-                        sigur.
+                    <div>Tourneo Custom pentru transport ofera suficient loc pentru ca 9 persoane sa calatoreasca in conditii de confort.
                     </div>
                 </div>
 
-                <a class="linkText" href='/TransitMinibus'><!--  internal link -->
+                <a class="linkText" href='/VehiculeComerciale/NoulTourneoCustom'><!--  internal link -->
                     <span id='linkText.1204961287007' title="Citeşte mai multe despre Transit Minibus ">Mai multe informaţii...</span></a>
                 </span>
             </div>
@@ -436,13 +428,11 @@
                 </div>
             </div>
             <div class="BTIarticleTitle">
-                Noul Transit Custom
+               Transit Custom
             </div>
             <div class='BTIarticleBody'>
                 <div class='BTIarticleText'>
-                    Noul Transit Custom stabileşte punctul de referinţă pentru eficienţă şi spaţiu de &icirc;ncărcare,
-                    vă &icirc;mbunătăţeşte productivitatea şi va face o impresie notabilă asupra clienţilor
-                    dumneavoastră.
+                    Noul Transit Custom stabileşte punctul de referinţă pentru eficienţă şi spaţiu de &icirc;ncărcare.
                 </div>
 
                 <a class="linkText" href='/VehiculeComerciale/NoulTransitCustom'><!--  internal link -->
@@ -454,35 +444,8 @@
 </div>
 <div class="BTIRow">
     <div class="BTITwoItems">
+
         <div class="BTIItem">
-            <div class="BTIImage">
-                <div class="imgZoom">
-
-                    <img
-                            src="/assets/img/prezentare/1214435531501.jpg"
-                            border="0" width="97"
-                            height="97"
-                            alt="Tourneo Custom - design"
-                            title="Tourneo Custom - design"
-                            style="border: solid 1px #999999;">
-
-                </div>
-            </div>
-            <div class="BTIarticleTitle">
-                Noul Tourneo Custom
-            </div>
-            <div class='BTIarticleBody'>
-                <div class='BTIarticleText'>
-                    Noul Tourneo Custom ofera spaţiu considerabil şi confort pentru p&acirc;nă la nouă persoane, totul
-                    completat de un design exterior nou şi stilat.
-                </div>
-
-                <a class="linkText" href='/VehiculeComerciale/NoulTourneoCustom'><!--  internal link -->
-                    <span id='linkText.1205023119951' title="Citeşte mai multe despre Noul Tourneo Custom ">Mai multe informaţii...</span></a>
-                </span>
-            </div>
-        </div>
-        <div class="BTIItemSecond">
             <div class="BTIImage">
                 <div class="imgNonZoom">
                     <img
@@ -499,13 +462,13 @@
             </div>
             <div class='BTIarticleBody'>
                 <div class='BTIarticleText'>
-                    Noul Ford Ranger a fost testat fără pic de milă &ndash; aşa că este pregătit pentru orice provocare
-                    la care &icirc;l supuneţi.
+                    Noul Ford Ranger a fost testat fara pic de mila asa ca este pregatit pentru orice provocare
+                    la care il supuneti.
                 </div>
 
                 <a class="linkText" href='/VehiculeComerciale/NoulRanger'><!--  internal link -->
                     <span id='linkText.1204961283875'
-                          title="Citeşte mai multe despre Ranger ">Mai multe informaţii...</span></a>
+                          title="Cite?te mai multe despre Ranger ">Mai multe informaţii...</span></a>
                 </span>
             </div>
         </div>

@@ -20,9 +20,9 @@
     <meta name="description"
           content="Legendar, puternic &amp;#351;i dinamic, cu o prezen&amp;#355;&amp;#259; distinctiv&amp;#259;, nemai&amp;icirc;nt&amp;acirc;lnit&amp;#259; la o alt&amp;#259; ma&amp;#351;in&amp;#259;.">
     <meta name="keywords" content="Mustang, noul mustang, mustang 2015, lansare mustang, ford mustang, mustang S550">
-    <link REL="Shortcut icon" HREF="../cs/ENGInE/img/favicon.ico" type="image/x-icon">
-    <link REL="Shortcut icon" HREF="../cs/ENGInE/img/favicon.png" type="image/x-icon">
-    <link REL="Shortcut icon" HREF="../cs/ENGInE/img/favicon.gif" type="image/x-icon">
+    <link rel="Shortcut icon" href="<?=base_url('assets/img/favicon.ico')?>" type="image/x-icon">
+    <link rel="Shortcut icon" href="<?=base_url('assets/img/favicon.png')?>" type="image/x-icon">
+    <link rel="Shortcut icon" href="<?=base_url('assets/img/favicon.gif')?>" type="image/x-icon">
     <link href="<?=base_url('assets/css/ENGInE_css_GroupedCSS.css')?>" type="text/css" rel="stylesheet">
     <link href="<?=base_url('assets/css/ENGInE_css_ep2_header_footer.css')?>" type="text/css" rel="stylesheet">
     <script src="<?=base_url('assets/js/modernizr-2.5.3.min.js')?>"></script>

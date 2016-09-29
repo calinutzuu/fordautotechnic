@@ -91,12 +91,7 @@
                     </script>
                 </li>
                 <li class="selected"><p>Stiluri de caroserie</p></li>
-                <li id='menu1205054462361' class=''>
-                    <a href='/VehiculeComerciale/Transit2014/Modele'>Modele &#537;i dot&#259;ri op&#539;ionale</a>
-                    <script type="text/javascript">
-                        document.id('menu1205054462361').addClass("navnextSteps");
-                    </script>
-                </li>
+
             </ul>
             <div class="navbottom"></div>
         </div>
@@ -125,7 +120,7 @@
             <table>
                 <tr>
                     <td id="mdp2Fullscreen">
-                        <a href="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214462070003&amp;blobkey=id" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214462070003&amp;blobkey=id', 'O+autoutilitar%C4%83+versatil%C4%83');
+                        <a href="#" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214462070003&amp;blobkey=id', 'O+autoutilitar%C4%83+versatil%C4%83');
 if(typeof(sford)=='object') omnitureMDPFullScreen('1205054455493'); return false;" >
                             Fullscreen
                         </a>
@@ -271,7 +266,7 @@ return false;"
     </div>
     <div
             id="tab001-tab-1"
-            class="tab001_item  unselected "
+            class="tab001_item first selected_first selected"
             style="text-align:center;">
         <table cellpadding="0" cellspacing="0" border="0" title="Double-Cab-In-Van">
             <thead>
@@ -293,7 +288,7 @@ return false;"
     </div>
     <div
             id="tab001-tab-2"
-            class="tab001_item  unselected "
+            class="tab001_item first selected_first selected"
             style="text-align:center;">
         <table cellpadding="0" cellspacing="0" border="0" title="Kombi">
             <thead>
@@ -315,7 +310,7 @@ return false;"
     </div>
     <div
             id="tab001-tab-3"
-            class="tab001_item  unselected "
+            class="tab001_item first selected_first selected"
             style="text-align:center;">
         <table cellpadding="0" cellspacing="0" border="0" title="Autoşasiu">
             <thead>
@@ -337,7 +332,7 @@ return false;"
     </div>
     <div
             id="tab001-tab-4"
-            class="tab001_item last unselected_last unselected "
+            class="tab001_item first selected_first selected"
             style="text-align:center;">
         <table cellpadding="0" cellspacing="0" border="0" title="Bus M2">
             <thead>
@@ -381,7 +376,7 @@ return false;"
                                             style="border: solid 1px #999999;">
                                 </a>
                                 <div>
-                                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214462067553&#38;blobkey=id" target="_blank" id="izid8403641205054466514" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214462067553&#38;blobkey=id','image','Van','Închide'); return false;"></a>
+                                    <a href="#" class="imgZoom_png"></a>
                                 </div>
                             </div>
                         </div>
@@ -401,7 +396,7 @@ return false;"
                 </div>
             </div>
         </div>
-        <div id="tab001-contentpane-1" class="tab001-pane-unselected">
+        <div id="tab001-contentpane-0" class="tab001-pane-selected">
             <div class='tab001_TabReco_ShowBTI001Collection' >
                 <div class="BTIRow">
                     <div class="BTIOneItem">
@@ -420,7 +415,7 @@ return false;"
                 </div>
             </div>
         </div>
-        <div id="tab001-contentpane-2" class="tab001-pane-unselected">
+        <div id="tab001-contentpane-0" class="tab001-pane-selected">
             <div class='tab001_TabReco_ShowBTI001Collection' >
                 <div class="BTIRow">
                     <div class="BTIOneItem">
@@ -456,7 +451,7 @@ return false;"
                 </div>
             </div>
         </div>
-        <div id="tab001-contentpane-3" class="tab001-pane-unselected">
+        <div id="tab001-contentpane-0" class="tab001-pane-selected">
             <div class='tab001_TabReco_ShowBTI001Collection' >
                 <div class="BTIRow">
                     <div class="BTIOneItem">
@@ -500,7 +495,7 @@ return false;"
                 </div>
             </div>
         </div>
-        <div id="tab001-contentpane-4" class="tab001-pane-unselected">
+        <div id="tab001-contentpane-0" class="tab001-pane-selected">
             <div class='tab001_TabReco_ShowBTI001Collection' >
                 <div class="BTIRow">
                     <div class="BTIOneItem">
@@ -516,8 +511,7 @@ return false;"
                                             style="border: solid 1px #999999;">
                                 </a>
                                 <div>
-                                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214462069460&#38;blobkey=id" target="_blank" id="izid64271991205054474181" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214462069460&#38;blobkey=id','image','Bus M2','Închide'); return false;"></a>
-                                </div>
+                                    <a href="#" class="imgZoom_png"></a>                                </div>
                             </div>
                         </div>
                         <div class="BTIarticleTitle">

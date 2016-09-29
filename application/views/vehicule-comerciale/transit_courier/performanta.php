@@ -65,13 +65,7 @@
             </ul>
             <div class="navdivider"></div>
             <ul id="nextSteps" class="nextSteps">
-                <li id='menu1205075514590' class=''>
-                    <a href='/VehiculeComerciale/Transit-Courier/Oferta_Speciala_TransitCourier'>Ofert&#259; special&#259;
-                        Transit Courier</a>
-                    <script type="text/javascript">
-                        document.id('menu1205075514590').addClass("navnextSteps");
-                    </script>
-                </li>
+
                 <li id='menu1205071929541' class=''>
                     <a href='/VehiculeComerciale/Transit-Courier/PrezentareGenerala'>Prezentare general&#259;</a>
                     <script type="text/javascript">
@@ -144,7 +138,7 @@
             <table>
                 <tr>
                     <td id="mdp2Fullscreen">
-                        <a href="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214480058166&amp;blobkey=id"
+                        <a href="#"
                            onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214480058166&amp;blobkey=id', 'Calit%C4%83%C5%A3ile+unui+autoturism+%C3%AEntr-un+vehicul+comercial');
 if(typeof(sford)=='object') omnitureMDPFullScreen('1205071923943'); return false;">
                             Fullscreen
@@ -293,57 +287,12 @@ if(typeof(sford)=='object')setOmnitureTabName('Putere');
 return false;"
                             onmouseover="tab001HoverTab('0', true);"
                             onmouseout="tab001HoverTab('0', false);"
-                            class="tab_anchor">Putere</a></td>
+                            class="tab_anchor">Putere / Economie / Manevrabilitate</a></td>
             </tr>
             </thead>
         </table>
     </div>
-    <div
-            id="tab001-tab-1"
-            class="tab001_item  unselected "
-            style="text-align:center;">
-        <table cellpadding="0" cellspacing="0" border="0" title="Economie">
-            <thead>
-            <tr>
-                <td class="tab001_header_arrow"><a href="/VehiculeComerciale/Transit-Courier/Performanta/tabid=tab1"
-                                                   class="tab_anchor"></a></td>
-                <td class="tab001_header_label" valign="middle" style="height:41px;vertical-align:middle;">
-                    <!-- 	TD 8174 jhe method has been called from here to escape special characters -->
-                    <a
-                            href="/VehiculeComerciale/Transit-Courier/Performanta/tabid=tab1"
-                            onclick="tab001SelectTab('1');
-if(typeof(sford)=='object')setOmnitureTabName('Economie');
-return false;"
-                            onmouseover="tab001HoverTab('1', true);"
-                            onmouseout="tab001HoverTab('1', false);"
-                            class="tab_anchor">Economie</a></td>
-            </tr>
-            </thead>
-        </table>
-    </div>
-    <div
-            id="tab001-tab-2"
-            class="tab001_item last unselected_last unselected "
-            style="text-align:center;">
-        <table cellpadding="0" cellspacing="0" border="0" title="Manevrabilitate">
-            <thead>
-            <tr>
-                <td class="tab001_header_arrow"><a href="/VehiculeComerciale/Transit-Courier/Performanta/tabid=tab2"
-                                                   class="tab_anchor"></a></td>
-                <td class="tab001_header_label" valign="middle" style="height:41px;vertical-align:middle;">
-                    <!-- 	TD 8174 jhe method has been called from here to escape special characters -->
-                    <a
-                            href="/VehiculeComerciale/Transit-Courier/Performanta/tabid=tab2"
-                            onclick="tab001SelectTab('2');
-if(typeof(sford)=='object')setOmnitureTabName('Manevrabilitate');
-return false;"
-                            onmouseover="tab001HoverTab('2', true);"
-                            onmouseout="tab001HoverTab('2', false);"
-                            class="tab_anchor">Manevrabilitate</a></td>
-            </tr>
-            </thead>
-        </table>
-    </div>
+
 </div>
 <!-- END OF HEADER -->
 <div class="tab001_divider"></div>
@@ -422,6 +371,79 @@ return false;"
                                     cu sistem Auto-Start-Stop şi limitator de viteză de 100 km/h (sau 62 mph) emite doar
                                     97 g/km de CO<sub>2</sub>, făc&acirc;ndu-l să fie cel mai bun din clasa sa la acest
                                     capitol.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="BTIRow">
+                    <div class="BTIOneItem">
+                        <div class="BTIImage">
+                            <div class="imgZoom">
+
+                                <img
+                                    src="/assets/img/transit_courier/1214480058905.jpg"
+                                    border="0" width="97"
+                                    height="97"
+                                    alt="Auto Start Stop"
+                                    title="Auto Start Stop"
+                                    style="border: solid 1px #999999;">
+                                </a>
+
+                                <div>
+                                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214480058904&#38;blobkey=id"
+                                       target="_blank" id="izid69094201205071925752" class="imgZoom_png" title='Zoom'
+                                       onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214480058904&#38;blobkey=id','image','Auto Start Stop','Închide'); return false;"></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="BTIarticleTitle">
+                            Folosiţi mai puţin combustibil cu funcţia Auto-Start-Stop
+                        </div>
+                        <div class='BTIarticleBody'>
+                            <div class='BTIarticleText'>
+                                <div>Atunci când utilitara dumneavoastră se opreşte la semafor sau când aşteptaţi într-o
+                                    coloană, această tehnologie opţională poate opri automat motorul (fără a opri însă
+                                    alimentarea sistemelor esenţiale, precum aerul condiţionat, radioul şi Ford SYNC).
+                                    De îndată ce sunteţi gata să plecaţi de pe loc, apăsaţi pe pedala de ambreiaj şi
+                                    selectaţi prima treaptă de viteză, ca de obicei, iar sistemul porneşte din nou
+                                    motorul. Sistemul Auto-Start-Stop este deosebit de eficient în oraşe, unde poate
+                                    reduce consumul de combustibil cu până la 10% (mediu urban).
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="BTIRow">
+                    <div class="BTIOneItem">
+                        <div class="BTIImage">
+                            <div class="imgZoom">
+
+                                <img
+                                    src="/assets/img/transit_courier/1214480057499.jpg"
+                                    border="0" width="97"
+                                    height="97"
+                                    alt="Diametru de bracaj"
+                                    title="Diametru de bracaj"
+                                    style="border: solid 1px #999999;">
+                                </a>
+
+                                <div>
+                                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214480057498&#38;blobkey=id"
+                                       target="_blank" id="izid43431381205071922915" class="imgZoom_png" title='Zoom'
+                                       onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214480057498&#38;blobkey=id','image','Diametru de bracaj','Închide'); return false;"></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="BTIarticleTitle">
+                            Ușurarea fiecărui viraj
+                        </div>
+                        <div class='BTIarticleBody'>
+                            <div class='BTIarticleText'>
+                                <div>Diametrul de bracaj este excepţional de scurt, de doar 10,5 m, și se obține din
+                                    doar 2,6 rotiri ale volanului între cele două puncte de blocare. Astfel, scade
+                                    dificultatea parcării în locuri strâmte și crește manevrabilitatea pe străzile
+                                    înguste.
                                 </div>
                             </div>
                         </div>
