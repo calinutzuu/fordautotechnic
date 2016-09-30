@@ -325,11 +325,9 @@
     </p>
 </header>
 <article class="content-column left">
-    <div class="img-column"><a
-            href="../../cs/ContentServere1f8.html?cid=1205090683925&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-            class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
+    <div class="img-column"> <img
                 src="/assets/img/s_max/1214504430076.jpg"
-                alt="All-Wheel Drive"/><span class="fv-overlay-icon"></span></a></div>
+                alt="All-Wheel Drive"/><span class="fv-overlay-icon"></span></div>
     <div class="content">
         <h3 class="bigHeading02">
             Incredere chiar si in conditii schimbatoare.
@@ -368,10 +366,9 @@
 </article>
 <article class='two-column'>
     <div class="content-block">
-        <a href="../../cs/ContentServereeaf.html?cid=1205090680884&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-           class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+        <img
                 src="/assets/img/s_max/1214513576186.jpg"
-                alt="Front Split View Camera"/><span class="fv-overlay-icon"></span></a>
+                alt="Front Split View Camera"/><span class="fv-overlay-icon"></span>
 
         <h3 class="bigHeading02">
             Vede ce vine, din ambele parti
@@ -387,10 +384,9 @@
         </p>
     </div>
     <div class="content-block last">
-        <a href="../../cs/ContentServer2b5a.html?cid=1205090685133&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-           class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
-                src="../../cs/BlobServerbd0f.jpg?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214513580235&amp;blobkey=id"
-                alt="Active Park Assist system"/><span class="fv-overlay-icon"></span></a>
+        <img
+                src="/assets/img/s_max/1214513580235.jpg"
+                alt="Active Park Assist system"/><span class="fv-overlay-icon"></span>
 
         <h3 class="bigHeading02">
             Intrari si iesiri din parcare fara stres
@@ -408,10 +404,9 @@
 </article>
 <article class='two-column'>
     <div class="content-block">
-        <a href="../../cs/ContentServer9082.html?cid=1205090680286&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-           class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+       <img
                 src="/assets/img/s_max/1214513575854.jpg"
-                alt="Rear view camera"/><span class="fv-overlay-icon"></span></a>
+                alt="Rear view camera"/><span class="fv-overlay-icon"></span>
 
         <h3 class="bigHeading02">
             In marsarier foarte simplu, deoarece poti vedea ce se afla in spate
@@ -426,10 +421,9 @@
         </p>
     </div>
     <div class="content-block last">
-        <a href="../../cs/ContentServer3697.html?cid=1205090683756&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-           class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+        <img
                 src="/assets/img/s_max/1214513579452.jpg"
-                alt="Lane Keeping System"/><span class="fv-overlay-icon"></span></a>
+                alt="Lane Keeping System"/><span class="fv-overlay-icon"></span>
 
         <h3 class="bigHeading02">
             Un sistem avansat care va ajuta sa va pastrati banda
@@ -458,11 +452,9 @@
     </p>
 </header>
 <article class="content-column left">
-    <div class="img-column"><a
-            href="../../cs/ContentServer0820.html?cid=1205090677325&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-            class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
+    <div class="img-column"><img
                 src="/assets/img/s_max/1214504429910.jpg"
-                alt="Panoramic roof"/><span class="fv-overlay-icon"></span></a></div>
+                alt="Panoramic roof"/><span class="fv-overlay-icon"></span></div>
     <div class="content">
         <h3 class="bigHeading02">
             Plafon panoramic pentru un spatiu mai luminos si mai aerisit
@@ -491,18 +483,15 @@
             de temperatura dorite, pasagerii din randurile doi si trei vor putea face si ei acelasi lucru</p>
         </p>
     </div>
-    <div class="img-column"><a
-            href="../../cs/ContentServer9faa.html?cid=1205090677822&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-            class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
+    <div class="img-column"> <img
                 src="/assets/img/s_max/1214513577014.jpg"
-                alt="Climate control"/><span class="fv-overlay-icon"></span></a></div>
+                alt="Climate control"/><span class="fv-overlay-icon"></span></div>
 </article>
 <article class='three-column'>
     <div class="content-block">
-        <a href="../../cs/ContentServer8c1a.html?cid=1205090678752&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-           class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+        <img
                 src="/assets/img/s_max/1214513577605.jpg"
-                alt="Quickclear heated windscreen"/><span class="fv-overlay-icon"></span></a>
+                alt="Quickclear heated windscreen"/><span class="fv-overlay-icon"></span>
 
         <h3 class="bigHeading02">
             Curata parbrizul rapid cu Quickclear
@@ -517,10 +506,9 @@
         </p>
     </div>
     <div class="content-block">
-        <a href="../../cs/ContentServere496.html?cid=1205090679677&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-           class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+        <img
                 src="/assets/img/s_max/1214513578103.jpg"
-                alt="Multi-Contour seats"/><span class="fv-overlay-icon"></span></a>
+                alt="Multi-Contour seats"/><span class="fv-overlay-icon"></span>
 
         <h3 class="bigHeading02">
             Scaune care asigura sprijin suplimentar… si care iti pot oferi si un masaj
@@ -535,10 +523,9 @@
         </p>
     </div>
     <div class="content-block last">
-        <a href="../../cs/ContentServer189c.html?cid=1205090681684&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-           class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+        <img
                 src="/assets/img/s_max/1214504430000.jpg"
-                alt="Flexible seating"/><span class="fv-overlay-icon"></span></a>
+                alt="Flexible seating"/><span class="fv-overlay-icon"></span>
 
         <h3 class="bigHeading02">
             Scaune inteligente, pentru flexibilitate suprema
@@ -565,11 +552,9 @@
     </p>
 </header>
 <article class="content-column left">
-    <div class="img-column"><a
-            href="../../cs/ContentServer64e4.html?cid=1205090676835&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-            class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
+    <div class="img-column"> <img
                 src="/assets/img/s_max/1214513576599.jpg"
-                alt="Intelligent Speed Assist (ISA)"/><span class="fv-overlay-icon"></span></a></div>
+                alt="Intelligent Speed Assist (ISA)"/><span class="fv-overlay-icon"></span></div>
     <div class="content">
         <h3 class="bigHeading02">
             Ajutor pentru a sta sub limita de viteza
@@ -596,18 +581,15 @@
             misti piciorul sub bara de protectie din spate si hayonul se va deschide sau se va inchide automat.</p>
         </p>
     </div>
-    <div class="img-column"><a
-            href="../../cs/ContentServer521d.html?cid=1205090684857&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-            class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
+    <div class="img-column"> <img
                 src="/assets/img/s_max/1214513580058.jpg"
-                alt="Hands-free Liftgate"/><span class="fv-overlay-icon"></span></a></div>
+                alt="Hands-free Liftgate"/><span class="fv-overlay-icon"></span></div>
 </article>
 <article class='two-column'>
     <div class="content-block">
-        <a href="../../cs/ContentServera690.html?cid=1205090677704&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-           class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+        <img
                 src="/assets/img/s_max/1214513576934.jpg"
-                alt="Ford KeyFree System"/><span class="fv-overlay-icon"></span></a>
+                alt="Ford KeyFree System"/><span class="fv-overlay-icon"></span>
 
         <h3 class="bigHeading02">
             Sistemul Key-free inseamna mai putine griji
@@ -620,10 +602,9 @@
         </p>
     </div>
     <div class="content-block last">
-        <a href="../../cs/ContentServer4c5f.html?cid=1205090680172&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-           class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+        <img
                 src="/assets/img/s_max/1214513575771.jpg"
-                alt="Ford Power Starter Button"/><span class="fv-overlay-icon"></span></a>
+                alt="Ford Power Starter Button"/><span class="fv-overlay-icon"></span>
 
         <h3 class="bigHeading02">
             Porneste masina prin simpla atingere a unui buton
@@ -638,10 +619,9 @@
 </article>
 <article class='two-column'>
     <div class="content-block">
-        <a href="../../cs/ContentServer3616.html?cid=1205090680516&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-           class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+        <img
                 src="/assets/img/s_max/1214513575937.jpg"
-                alt="Music system"/><span class="fv-overlay-icon"></span></a>
+                alt="Music system"/><span class="fv-overlay-icon"></span>
 
         <h3 class="bigHeading02">
             Sunet de inalta fidelitate
@@ -655,10 +635,9 @@
         </p>
     </div>
     <div class="content-block last">
-        <a href="../../cs/ContentServer2c4e.html?cid=1205090681218&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-           class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+        <img
                 src="/assets/img/s_max/1214513576352.jpg"
-                alt="Ford SYNC 2"/><span class="fv-overlay-icon"></span></a>
+                alt="Ford SYNC 2"/><span class="fv-overlay-icon"></span>
 
         <h3 class="bigHeading02">
             Ford SYNC 2 Tehnologie hands-free si cu ecran tactil avansata
@@ -744,11 +723,9 @@
         </p>
     </header>
     <article class="content-column left">
-        <div class="img-column"><a
-                href="../../cs/ContentServer5437.html?cid=1205090684734&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
+        <div class="img-column"> <img
                     src="/assets/img/s_max/1214513579797.jpg"
-                    alt="EcoBoost Engine"/><span class="fv-overlay-icon"></span></a></div>
+                    alt="EcoBoost Engine"/><span class="fv-overlay-icon"></span></div>
         <div class="content">
             <h3 class="bigHeading02">
                 EcoBoost: putere si eficienta fara compromisuri
@@ -780,11 +757,9 @@
                 asigura o reducere a emisiilor de CO<sub>2</sub> cu 7%, imbunatatind si economia de combustibil</p>
             </p>
         </div>
-        <div class="img-column"><a
-                href="../../cs/ContentServer5b2b.html?cid=1205090678055&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
+        <div class="img-column"> <img
                     src="/assets/img/s_max/1214513577181.jpg"
-                    alt="Diesel Engine"/><span class="fv-overlay-icon"></span></a></div>
+                    alt="Diesel Engine"/><span class="fv-overlay-icon"></span></div>
     </article>
     <header class="intro-header">
         <h1 class="bigHeading">
@@ -801,10 +776,9 @@
     </header>
     <article class='two-column'>
         <div class="content-block">
-            <a href="../../cs/ContentServer5032.html?cid=1205090684378&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/s_max/1214513579713.jpg"
-                    alt="Transmissions"/><span class="fv-overlay-icon"></span></a>
+                    alt="Transmissions"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Puterea de a alege
@@ -820,10 +794,9 @@
             </p>
         </div>
         <div class="content-block last">
-            <a href="../../cs/ContentServer7294.html?cid=1205090685013&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/s_max/1214513580148.jpg"
-                    alt="Ford PowerShift"/><span class="fv-overlay-icon"></span></a>
+                    alt="Ford PowerShift"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Cutia de viteze Ford PowerShift. Rapiditate si economie de combustibil
@@ -842,10 +815,9 @@
     </article>
     <article class='two-column'>
         <div class="content-block">
-            <a href="../../cs/ContentServer364c.html?cid=1205090684139&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/s_max/1214513579539.jpg"
-                    alt="Paddle Shift"/><span class="fv-overlay-icon"></span></a>
+                    alt="Paddle Shift"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Schimbator cu manete: bucura-te de schimbari rapide ale treptelor de viteza in cazul transmisiei
@@ -862,10 +834,9 @@
             </p>
         </div>
         <div class="content-block last">
-            <a href="../../cs/ContentServer22e0.html?cid=1205090678506&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+           <img
                     src="/assets/img/s_max/1214513577435.jpg"
-                    alt="Suspension"/><span class="fv-overlay-icon"></span></a>
+                    alt="Suspension"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Suspensie avansata, pentru deplasare si manevrabilitate excelente
@@ -894,10 +865,9 @@
     </header>
     <article class='three-column'>
         <div class="content-block">
-            <a href="../../cs/ContentServere456.html?cid=1205090684577&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+           <img
                     src="/assets/img/s_max/1214513579978.jpg"
-                    alt="Ford Eco Mode system"/><span class="fv-overlay-icon"></span></a>
+                    alt="Ford Eco Mode system"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Un sistem de informare inteligent care te ajuta sa conduci mai eficient
@@ -913,10 +883,9 @@
             </p>
         </div>
         <div class="content-block">
-            <a href="../../cs/ContentServer7807.html?cid=1205090680028&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/s_max/1214513578352.jpg"
-                    alt="Auto Start-Stop"/><span class="fv-overlay-icon"></span></a>
+                    alt="Auto Start-Stop"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Foloseste mai putin combustibil cu functia Auto-Start-Stop
@@ -933,10 +902,9 @@
             </p>
         </div>
         <div class="content-block last">
-            <a href="../../cs/ContentServer2ec8.html?cid=1205090679206&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/s_max/1214513577937.jpg"
-                    alt="Smart Regenerative Charging"/><span class="fv-overlay-icon"></span></a>
+                    alt="Smart Regenerative Charging"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Un mod mai eficient de a-ti reincarca bateria
@@ -968,11 +936,9 @@
         </p>
     </header>
     <article class="content-column left">
-        <div class="img-column"><a
-                href="../../cs/ContentServer772f.html?cid=1205090680634&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
+        <div class="img-column"><img
                     src="/assets/img/s_max/1214513576017.jpg"
-                    alt="Pre-Collision Assist with Pedestrian Detection"/><span class="fv-overlay-icon"></span></a>
+                    alt="Pre-Collision Assist with Pedestrian Detection"/><span class="fv-overlay-icon"></span>
         </div>
         <div class="content">
             <h3 class="bigHeading02">
@@ -1006,16 +972,13 @@
                 asemenea, drumul, ajutandu-te sa vezi mai clar in viraje.</p>
             </p>
         </div>
-        <div class="img-column"><a
-                href="../../cs/ContentServer2f3d.html?cid=1205090678388&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
+        <div class="img-column"> <img
                     src="/assets/img/s_max/1214513577349.jpg"
-                    alt="Ford Adaptive Dynamic LED technology"/><span class="fv-overlay-icon"></span></a></div>
+                    alt="Ford Adaptive Dynamic LED technology"/><span class="fv-overlay-icon"></span></div>
     </article>
     <article class='two-column'>
         <div class="content-block">
-            <a href="../../cs/ContentServerd270.html?cid=1205090682274&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/s_max/1214513578697.jpg"
                     alt="Emergency Brake Assist (EBA)"/><span class="fv-overlay-icon"></span>
 
@@ -1032,8 +995,7 @@
             </p>
         </div>
         <div class="content-block last">
-            <a href="../../cs/ContentServere36a.html?cid=1205090682838&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/s_max/1214513579029.jpg"
                     alt="Blind Spot Information System (BLIS)"/><span class="fv-overlay-icon"></span>
 
@@ -1053,10 +1015,9 @@
     </article>
     <article class='two-column'>
         <div class="content-block">
-            <a href="../../cs/ContentServer9b06.html?cid=1205090683283&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+           <img
                     src="/assets/img/s_max/1214513579278.jpg"
-                    alt="Ford 2 with Emergency Assistance"/><span class="fv-overlay-icon"></span></a>
+                    alt="Ford 2 with Emergency Assistance"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Ford SYNC 2 cu Asistenta de urgenta
@@ -1076,10 +1037,9 @@
             </p>
         </div>
         <div class="content-block last">
-            <a href="../../cs/ContentServerb7b3.html?cid=1205090680752&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/s_max/1214513576103.jpg"
-                    alt="Electronic Stability Programme (ESP)"/><span class="fv-overlay-icon"></span></a>
+                    alt="Electronic Stability Programme (ESP)"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Ofera incredere chiar si in conditii dificile
@@ -1101,10 +1061,9 @@
     </article>
     <article class='two-column'>
         <div class="content-block">
-            <a href="../../cs/ContentServere246.html?cid=1205090676717&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/s_max/1214513579887.jpg"
-                    alt="Hill Start Assist"/><span class="fv-overlay-icon"></span></a>
+                    alt="Hill Start Assist"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Un plus de control in cazul pornirilor in rampa
@@ -1120,10 +1079,9 @@
             </p>
         </div>
         <div class="content-block last">
-            <a href="../../cs/ContentServer7e9b.html?cid=1205090681436&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/s_max/1214513576435.jpg"
-                    alt="ISOFIX points"/><span class="fv-overlay-icon"></span></a>
+                    alt="ISOFIX points"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Ajutor pentru mentinerea copiilor in siguranta
@@ -1242,11 +1200,9 @@
         </p>
     </header>
     <article class="content-column left">
-        <div class="img-column"><a
-                href="../../cs/ContentServerf13b.html?cid=1205090679795&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
+        <div class="img-column"> <img
                     src="/assets/img/s_max/1214513578179.jpg"
-                    alt="Perimeter alarm"/><span class="fv-overlay-icon"></span></a></div>
+                    alt="Perimeter alarm"/><span class="fv-overlay-icon"></span></div>
         <div class="content">
             <h3 class="bigHeading02">
                 Protectie cu alarma

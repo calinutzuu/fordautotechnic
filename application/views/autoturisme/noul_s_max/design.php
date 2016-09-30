@@ -330,7 +330,8 @@
         <div class="content-block">
             <img
                     src="/assets/img/s_max/1214513578269.jpg"
-                    alt="Ford S-MAX Exterior Design"/><span class="fv-overlay-icon"></span>
+                    alt="Ford S-MAX Exterior Design"/>
+            <span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
             </h3>
@@ -343,7 +344,10 @@
         <div class="content-block">
             <img
                     src="/assets/img/s_max/1214513577688.jpg"
-                    alt="Ford S-MAX Rear Styling"/><span class="fv-overlay-icon"></span>
+                    alt="Ford S-MAX Rear Styling"/>
+            <span class="fv-overlay-icon">
+
+            </span>
 
             <h3 class="bigHeading02">
             </h3>
@@ -384,7 +388,7 @@
     </article>
 </div>
 <!--  tabTitle : Interior :: btfTabContent : 1205090683422 :: tabContent :  -->
-<!--  <div id='tab2' class="secondary-tab-content">
+  <div id='tab2' class="secondary-tab-content">
     <header class="intro-header">
         <h1 class="bigHeading">
             INTELIGENT SI SOFISTICAT: SIMBOLUL STILULUI
@@ -399,10 +403,9 @@
     </header>
     <article class='three-column'>
         <div class="content-block">
-            <a href="../../cs/ContentServer26ba?cid=1205090677940&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
-                    src="../../cs/BlobServer6ac5.jpg?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214513577104&amp;blobkey=id"
-                    alt="Ford S-MAX Interior Design"/><span class="fv-overlay-icon"></span></a>
+            <img
+                    src="/assets/img/s_max/1214513577104.jpg"
+                    alt="Ford S-MAX Interior Design"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
             </h3>
@@ -413,10 +416,9 @@
             </p>
         </div>
         <div class="content-block">
-            <a href="../../cs/ContentServer3ca3?cid=1205090677210&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
-                    src="../../cs/BlobServer879d.jpg?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214513576855&amp;blobkey=id"
-                    alt="Ford S-MAX Interior Styling"/><span class="fv-overlay-icon"></span></a>
+            <img
+                    src="/assets/img/s_max/1214513576855.jpg"
+                    alt="Ford S-MAX Interior Styling"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
             </h3>
@@ -427,10 +429,9 @@
             </p>
         </div>
         <div class="content-block last">
-            <a href="../../cs/ContentServerfe0e?cid=1205090678980&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
-                    src="../../cs/BlobServer19da.jpg?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214513577771&amp;blobkey=id"
-                    alt="Ford S-MAX Active Park Assist/Interior"/><span class="fv-overlay-icon"></span></a>
+            <img
+                    src="/assets/img/s_max/1214513577771.jpg"
+                    alt="Ford S-MAX Active Park Assist/Interior"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
             </h3>
