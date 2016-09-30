@@ -1,6 +1,6 @@
 <?php if (!defined('BASEPATH')) exit('No direct script access allowed');
 
-class Fiesta extends CI_Controller
+class fiesta extends CI_Controller
 {
     public function index()
     {

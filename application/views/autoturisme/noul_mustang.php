@@ -303,7 +303,7 @@
                             <div id='tab1' class="secondary-tab-content">
                                 <header class="intro-header">
                                     <h1 class="bigHeading">
-                                        NOUL FORD <strong>MUSTANG</strong> <br> O LEGENDA REDEFINITA
+                                        NOUL FORD <strong>MUSTANG</strong> <br><br> O LEGENDA REDEFINITA
                                     </h1>
                                     <span class="highlighter"></span>
 
