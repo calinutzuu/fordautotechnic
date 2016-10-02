@@ -94,11 +94,12 @@ $route['Autoturisme/Ka/Designinterior'] = 'autoturisme/ka/design_interior';
 $route['Autoturisme/Ka/Prezentare'] = 'autoturisme/ka/prezentare';
 $route['Autoturisme/Ka'] = 'autoturisme/ka/index';
 
-$route['Autoturisme/NouaFiesta/PreturiSiPromotii'] = 'autoturisme/fiesta/preturi_si_promotii';
-$route['Autoturisme/NouaFiesta/Accesorii'] = 'autoturisme/fiesta/accesorii';
-$route['Autoturisme/NouaFiesta/Caracteristici'] = 'autoturisme/fiesta/caracteristici';
-$route['Autoturisme/NouaFiesta/Prezentare-Generala'] = 'autoturisme/fiesta/prezentare';
-$route['Autoturisme/NouaFiesta'] = 'autoturisme/fiesta/index';
+$route['Autoturisme/Fiesta/st-line'] = 'autoturisme/fiesta/fiesta_st_line';
+$route['Autoturisme/Fiesta/PreturiSiPromotii'] = 'autoturisme/fiesta/preturi_si_promotii';
+$route['Autoturisme/Fiesta/Accesorii'] = 'autoturisme/fiesta/accesorii';
+$route['Autoturisme/Fiesta/Caracteristici'] = 'autoturisme/fiesta/caracteristici';
+$route['Autoturisme/Fiesta/Prezentare-Generala'] = 'autoturisme/fiesta/prezentare';
+$route['Autoturisme/Fiesta'] = 'autoturisme/fiesta/index';
 
 $route['Autoturisme/Fiesta-ST'] = 'autoturisme/fiesta_st/index';
 
@@ -114,6 +115,7 @@ $route['Autoturisme/NewFocusST/Design'] = 'autoturisme/focus_st/design';
 $route['Autoturisme/NewFocusST/PrezentareGenerala'] = 'autoturisme/focus_st/prezentare';
 $route['Autoturisme/NewFocusST'] = 'autoturisme/focus_st/index';
 
+$route['Autoturisme/Focus/st-line'] = 'autoturisme/focus/stline';
 $route['Autoturisme/Focus/Caracteristici'] = 'autoturisme/focus/caracteristici';
 $route['Autoturisme/Focus/Design'] = 'autoturisme/focus/design';
 $route['Autoturisme/Focus/PreturisiPromotii'] = 'autoturisme/focus/preturi_si_promotii';
@@ -134,8 +136,11 @@ $route['Autoturisme/Kuga/Prezentare'] = 'autoturisme/kuga/prezentare';
 $route['Autoturisme/Kuga/Design'] = 'autoturisme/kuga/design';
 $route['Autoturisme/Kuga'] = 'autoturisme/kuga/index';
 
-$route['Autoturisme/Mondeo/Siguranta'] = 'autoturisme/mondeo/siguranta';
-$route['Autoturisme/Mondeo/ExperientaLaVolan'] = 'autoturisme/mondeo/experienta_la_volan';
+$route['Autoturisme/st-line'] = 'autoturisme/st_line/index';
+
+$route['Autoturisme/Mondeo/Vignale'] = 'autoturisme/mondeo/vignale';
+$route['Autoturisme/Mondeo/Caracteristici'] = 'autoturisme/mondeo/caracteristici';
+$route['Autoturisme/Mondeo/PreturiSiPromotii'] = 'autoturisme/mondeo/preturi_si_promotii';
 $route['Autoturisme/Mondeo/PerformantaSiEficienta'] = 'autoturisme/mondeo/performanta';
 $route['Autoturisme/Mondeo/Design'] = 'autoturisme/mondeo/design';
 $route['Autoturisme/Mondeo'] = 'autoturisme/mondeo/index';
@@ -229,6 +234,7 @@ $route['Promotii/Autoturisme/NoulKAPlus'] = 'promotii/autoturisme/noul_ka_plus';
 $route['Promotii/Autoturisme/NoulFordEdge'] = 'promotii/autoturisme/noul_ford_edge';
 $route['Promotii/Autoturisme/KugaSummerEdition'] = 'promotii/autoturisme/kuga_summer';
 $route['Promotii/Autoturisme/BusinessWeeks'] = 'promotii/autoturisme/business_weeks';
+$route['Promotii/Autoturisme/PromotieFlote'] = 'promotii/autoturisme/promotie_flote';
 
 $route['Promotii/Autoturisme/Ecobonus'] = 'promotii/autoturisme/ecobonus';
 $route['Promotii/Autoturisme/Ecobonus/OfertaFiesta'] = 'promotii/autoturisme/oferta_fiesta_e';
@@ -248,6 +254,7 @@ $route['Promotii/Autoturisme/Rabla/OfertaEcoSport'] = 'promotii/autoturisme/ofer
 
 $route['Promotii/comerciale'] = 'promotii/comerciale/index';
 $route['Promotii/comerciale/NoulRanger'] = 'promotii/comerciale/noul_ranger';
+
 
 $route['Promotii/FiestaRedBlack'] = 'promotii/fiesta_red_black/index';
 $route['Promotii/Rabla2015'] = 'promotii/rabla/index';

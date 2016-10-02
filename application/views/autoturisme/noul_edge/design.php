@@ -275,7 +275,7 @@
 <ul>
 <!--  isBtfTab true -->
 <!--  tabUrl /cs/ContentServer?cid=1205110255040&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE -->
-<li><a href="Prezentare#primaryTabs" class=" "
+<li><a href="/Autoturisme/Noul-FordEdge" class=" "
        data-ajaxlink="/cs/ContentServer?cid=1205110255040&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE">PREZENTARE</a>
     <!-- secondary tabs -->
     <!--  midPageTabId : 1205110253425 -->

@@ -330,7 +330,7 @@
                 <!--  isBtfTab true -->
                 <!--  tabUrl /cs/ContentServer?cid=1205119060175&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE -->
                 <!-- IntoID ::: articleAssetId -->
-                <li class="selected"><a href="Prezentare-Generala#primaryTabs"
+                <li class="selected"><a href="/Autoturisme/Fiesta"
                                         data-ajaxlink="/cs/ContentServer?cid=1205119060175&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE">PREZENTARE
                         GENERALA</a>
                     <!--This is where the main content for the selected tab will go -->

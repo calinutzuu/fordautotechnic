@@ -3,7 +3,7 @@
     ForceRedirectUserAgents = 'android,iphone,blackberry';
     ForceRedirectUserAgentsBypass = 'Win64,Win32';
     ForceRedirectMinWidth = '480';
-    MobileHomePageRedirectURL = 'PrezentareGenerala.html\/\/m.ford.ro';
+    MobileHomePageRedirectURL = 'PrezentareGenerala\/\/m.ford.ro';
 </script>
 <div id="xAxis-detailed">
     <nav class="breadCrumb visuallyhidden" role="navigation">
@@ -448,66 +448,3 @@
 </section>
 <script id="TagIT.load" defer></script>
 </div>
-
-<script src="http://www.ford.ro/cs/ContentServer?pagename=EP2%2fENGInE%2fscript%2fGroupedJS"
-        type="text/javascript"></script>
-<script
-    src="http://www.ford.ro/cs/ContentServer?pagename=ENGInE/EP2/common/GetScript&amp;elements=/EP2/body/cars/xaxis_detailed/xaxisctaview_script"></script>
-<script
-    src="http://www.ford.ro/cs/ContentServer?pagename=ENGInE/EP2/common/GetScript&amp;elements=/EP2/body/cars/xaxis_detailed/selectorinitialization_script"></script>
-<script
-    src="http://www.ford.ro/cs/ContentServer?pagename=ENGInE/EP2/common/GetScript&amp;elements=/EP2/body/cars/xaxis_detailed/selectordefaultconfigmodel_script"></script>
-<script
-    src="http://www.ford.ro/cs/ContentServer?pagename=ENGInE/EP2/common/GetScript&amp;elements=/EP2/body/cars/xaxis_detailed/selectorviewcontroller_script"></script>
-<script
-    src="http://www.ford.ro/cs/ContentServer?pagename=ENGInE/EP2/common/GetScript&amp;elements=/EP2/body/cars/xaxis_detailed/vehicletemplaterenderer_script"></script>
-<script
-    src="http://www.ford.ro/cs/ContentServer?pagename=ENGInE/EP2/common/GetScript&amp;elements=/EP2/body/cars/xaxis_detailed/interiorimagecarouselfacade_script"></script>
-<script
-    src="http://www.ford.ro/cs/ContentServer?pagename=ENGInE/EP2/common/GetScript&amp;elements=/EP2/body/cars/xaxis_detailed/vehicledatacache_script"></script>
-<script
-    src="http://www.ford.ro/cs/ContentServer?pagename=ENGInE/EP2/common/GetScript&amp;elements=/EP2/body/cars/xaxis_detailed/vehiclerollovercontroller_script"></script>
-<script
-    src="http://www.ford.ro/cs/ContentServer?pagename=ENGInE/EP2/common/GetScript&amp;elements=/EP2/body/cars/xaxis_detailed/nameplatecarouselfacade_script"></script>
-<script
-    src="http://www.ford.ro/cs/ContentServer?pagename=ENGInE/EP2/common/GetScript&amp;elements=/EP2/body/cars/xaxis_detailed/nameplatedetailsview_script"></script>
-<script
-    src="http://www.ford.ro/cs/ContentServer?pagename=ENGInE/EP2/common/GetScript&amp;elements=/EP2/body/cars/xaxis_detailed/imagemodels_script"></script>
-<script
-    src="http://www.ford.ro/cs/ContentServer?pagename=ENGInE/EP2/common/GetScript&amp;elements=/EP2/body/cars/xaxis_detailed/xaxis_script"></script>
-<!-- Engine tag - loading 'null::SystemFooter' -->
-<!-- Loading sitesetup -->
-<script> EP2.Globals.siteName = 'RORO4_ENGINE';
-    EP2.Globals.gforceMode = 'LIVE'</script>
-<script type="text/javascript">
-    var EP2 = EP2 || {};
-    EP2.cookieLegislation.trigger();
-    //FB : apply css rule for the footer SBE expandable list
-    EP2.applyCssToFooterSBE = function () {
-        var expandable = $('dd > .expand');
-        var ordinaryLink = $('.listColumn > dl > dd > .sbe');
-        expandable.each(function (i, v) {
-            var findSpan = $(this).find('> span');
-            console.log();
-            if (!findSpan.length) {
-                $(this).append('<span></span>');
-            }
-        });
-        ordinaryLink.each(function (i, v) {
-            var findLink = $(this).find('> span');
-            if (!findLink.length) {
-                $(this).append('<span></span>');
-            }
-        });
-    }();
-</script>
-<!-- Engine tag - loading '/EP2/body/cars/xaxis_detailed/Body::SystemFooter' -->
-<!-- Loading sitesetup -->
-<script>
-    var TagIT = TagIT || {};
-</script>
-<script
-    src='http://www.ford.ro/cs/ContentServer?cid=1&amp;isMobile=false&amp;pagename=RORO4_ENGINE%2Fscript%2Ftagit%2Fassembler&amp;require=NONE&amp;location=load&amp;c=Page'
-    defer></script>
-<script
-    src='http://www.ford.ro/cs/ContentServer?cid=1&amp;isMobile=false&amp;pagename=RORO4_ENGINE%2Fscript%2Ftagit%2Fstatic&amp;require=NONE&amp;location=load&amp;c=Page'></script>

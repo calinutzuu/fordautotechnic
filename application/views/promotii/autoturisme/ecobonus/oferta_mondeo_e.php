@@ -1,6 +1,3 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html>
-
 
 <body
     onload="engine.navigation.init(document.getElementById('currentContext'));engine.navigation.init(document.getElementById('nextSteps'));">
@@ -220,7 +217,7 @@
             if (typeof bookingReferenceNumber != 'undefined') {
                 dataLayer.push({"leadID": bookingReferenceNumber});
             }
-            dataLayer.push({"pageTitle": 'Ford Mondeo avantaj client 5.500 \u20AC cu Ecobonus Ford RO'});
+            dataLayer.push({"pageTitle": 'Ford Mondeo avantaj client 5.000 \u20AC cu Ecobonus | Ford RO'});
             dataLayer.push({"pageCategory": 'ford-brand'});
             if (typeof osb_pageId != 'undefined') {
                 dataLayer.push({"pageID": osb_pageId});
@@ -298,18 +295,18 @@
             <div id="navAnchor"></div>
             <ul id="currentContext" class="currentContext">
                 <li id='menu1204977637197' class=''>
-                    <a href='/Promotii'/>Promo&#355;ii</a>
+                    <a href='http://www.ford.ro/Promotii'/>Promo&#355;ii</a>
                     <div id="navsubmenu" class="navsubmenu">
                         <div class="navsubmenutop">
                         </div>
                         <ul class="navsubmenu">
                             <li class=''>
-                                <a href='/Promotii/comerciale'>Promo&#539;ii vehicule comerciale</a>
+                                <a href='http://www.ford.ro/Promotii/comerciale'>Promo&#539;ii vehicule comerciale</a>
                             </li>
                             <li class=''>
-                                <a href='/Promotii/PromotiiService'>Promo&#355;ii service</a></li>
+                                <a href='http://www.ford.ro/Promotii/PromotiiService'>Promo&#355;ii service</a></li>
                             <li class=''>
-                                <a href='/Promotii/promotii-accesorii'>Promo&#355;ii accesorii</a>
+                                <a href='http://www.ford.ro/Promotii/promotii-accesorii'>Promo&#355;ii accesorii</a>
                             </li>
                         </ul>
                         <div class="navsubmenubottom">
@@ -368,16 +365,17 @@
                         document.id('menu1205111254474').addClass("navnextSteps");
                     </script>
                 </li>
-             <!--   <li id='menu1205119185448' class=''>
-                    <a href='Rezervare'/>Rezervare</a>
-                    <script type="text/javascript">
-                        document.id('menu1205119185448').addClass("navnextSteps");
-                    </script>
-                </li>  -->
+
                 <li id='menu1205123140431' class=''>
                     <a href='Procedura'/>Procedura</a>
                     <script type="text/javascript">
                         document.id('menu1205123140431').addClass("navnextSteps");
+                    </script>
+                </li>
+                <li id='menu1205124415871' class=''>
+                    <a href='WeekendulInovatiei'/>Weekendul Inovatiei</a>
+                    <script type="text/javascript">
+                        document.id('menu1205124415871').addClass("navnextSteps");
                     </script>
                 </li>
             </ul>
@@ -403,15 +401,15 @@
             </script>
             <div id="mdp">
                 <img
-                    src='/assets/img/promotii/1214564411362.jpg'
+                    src='/assets/img/promotii/1214567355837.jpg'
                     alt='mondeo' onclick="omnitureViewPhoto()">
             </div>
             <div class="mdp2" id="mdpImageControl">
                 <table>
                     <tr>
                         <td id="mdp2Fullscreen">
-                            <a href="/assets/img/promotii/1214564411363.jpg"
-                               onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214564411363&amp;blobkey=id', 'mondeo');
+                            <a href="/assets/img/promotii/1214567355837.jpg"
+                               onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214567355838&amp;blobkey=id', 'mondeo');
 if(typeof(sford)=='object') omnitureMDPFullScreen('1205111248026'); return false;">
                                 Fullscreen
                             </a>
@@ -449,7 +447,7 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205111248026'); return false
     </div>
     <div id="container_center">
         <div class="center_item">
-            <div class="btoArticleTitle">Ford Ecobonus - avantaj total client 5.500 € pentru Ford Mondeo!</div>
+            <div class="btoArticleTitle">Ford Ecobonus - avantaj total client 5.000 € pentru Ford Mondeo!</div>
             <div class="btoArticleText">
                 <div class="btoArticleAbstract">
                     <div>Alege o masina pentru tine! Opteaza pentru un model elegant, impunator, ultramodern, cu profil
@@ -457,7 +455,7 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205111248026'); return false
                         Mondeo reactioneaza continuu la ceea ce se intampla in jurul lui, raspunzand permanent la
                         conditiile de drum, la trafic si la propriul tau stil de condus. <br> <strong><br> La casarea
                             masinii vechi, prin programul Ecobonus, beneficiezi de un bonus de 1.500 &euro; si ajungi in
-                            final sa ai un avantaj client de 5.500 &euro;, la achizitionarea unui Ford Mondeo. </strong><br>
+                            final sa ai un avantaj client de 5.000 &euro;, la achizitionarea unui Ford Mondeo. </strong><br>
                         <br> Un model Ford Mondeo cu motor diesel 2.0l 150 CP, cutie manuala cu 6 trepte, are dotari
                         bogate in echiparea standard, printre care:
                     </div>
@@ -483,11 +481,11 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205111248026'); return false
                         <li>scaune fata incalzite, parbriz incalzit;</li>
                         <li>jante aliaj 6.5JX16 cu anvelope 215/60 R16.</li>
                     </ul>
-                    <div><strong>Rezerva acum oferta speciala pentru Ford Mondeo &ndash; click <a HREF="Rezervare">aici</a>!
+                    <div><strong>Rezerva acum oferta speciala pentru Ford Mondeo &ndash; click <a href="Rezervare">aici</a>!
                             <br> <br> Pentru detalii despre procedura de casare si cum poti beneficia de Ecobonus, click
-                            <a HREF="Procedura">aici</a>.<br> <br> Ai nevoie de mai multe informatii? Toate
+                            <a href="Procedura">aici</a>.<br> <br> Ai nevoie de mai multe informatii? Toate
                             detaliile despre Ford Mondeo si oferta speciala iti stau la dispozitie in cel mai apropiat
-                            <a HREF="http://www.ford.ro/SBE/dealeri-ford">showroom Ford</a>! </strong><br> <br> <em>*
+                            <a href="http://www.ford.ro/SBE/dealeri-ford">showroom Ford</a>! </strong><br> <br> <em>*
                             Oferta este supusa unor termeni si conditii, este adresata exclusiv persoanelor fizice si
                             este valabila in limita stocului disponibil la dealerii participanti la program. Oferta
                             prezentata include TVA si este obtinuta dupa includerea cumulativa a: 1. contravalorii
@@ -557,186 +555,3 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205111248026'); return false
 <!-- Footer -->
 <!-- <Start> -->
 </div>
-
-</div>
-<!-- Engine tag - loading 'Layout4_EP2::SystemFooter' -->
-<!-- Loading sitesetup -->
-<!-- 'Layout4_EP2' is calling DoubleClick from 'SystemFooter' -->
-<script>
-    if (typeof isDoubleclickTriggered == 'undefined') {
-        var isDoubleclickTriggered = 'false';
-    }
-    var eusedDevice;
-    if (typeof deviceCheck != 'undefined') {
-        if (deviceCheck == 'mobile') {
-            eusedDevice = "nwp:mobile";
-        } else {
-            eusedDevice = "nwp:desktop";
-        }
-    }
-    var pageTitle = null;
-</script>
-<script type="text/javascript">
-    function getCookie(c_name) {
-        var c_value = document.cookie;
-        var c_start = c_value.indexOf(" " + c_name + "=");
-        if (c_start == -1) {
-            c_start = c_value.indexOf(c_name + "=");
-        }
-        if (c_start == -1) {
-            c_value = null;
-        } else {
-            c_start = c_value.indexOf("=", c_start) + 1;
-            var c_end = c_value.indexOf(";", c_start);
-            if (c_end == -1) {
-                c_end = c_value.length;
-            }
-            c_value = unescape(c_value.substring(c_start, c_end));
-        }
-        return c_value;
-    }
-    function doubleclickeUsedCompare(str) {
-//alert(str);
-    }
-    ;
-    if (isDoubleclickTriggered === 'false') {
-        if (typeof TagIT != 'object' || (typeof TagIT.handlesDoubleClick == 'function' || !TagIT.handlesDoubleClick)) {
-            var isLogin = getCookie("isOwnerAuthenticated");
-            var visitorLoginState;
-            if (isLogin === 'true') {
-                visitorLoginState = 'login';
-            } else {
-                visitorLoginState = 'not login';
-            }
-            var currentURL = document.URL;
-            dataLayer = [];
-            dataLayer.push({"URL": currentURL});
-            dataLayer.push({"visitorLoginState": visitorLoginState});
-            if (navigator && navigator.userAgent) {
-                dataLayer.push({"userAgent": navigator.userAgent});
-            }
-            if (typeof siteID != 'undefined') {
-                dataLayer.push({"siteID": siteID});
-            } else {
-                dataLayer.push({"siteID": '1204961250932'});
-            }
-            countryName = "ford-" + 'ro';
-            dataLayer.push({"country": countryName});
-            if (typeof googleAdServerNameplateId != 'undefined') {
-                dataLayer.push({"nameplateID": googleAdServerNameplateId});
-            }
-            if (typeof controllerCommand != 'undefined') {
-                if (controllerCommand === "VehicleCompare") {
-                    googleAdServerNameplateName = EUSED.Tagging.getCompareList();
-                    dataLayer.push({"nameplateName": googleAdServerNameplateName});
-                } else if (controllerCommand === "VehicleShortlist") {
-                    googleAdServerNameplateName = EUSED.Tagging.getShortlistList();
-                    dataLayer.push({"nameplateName": googleAdServerNameplateName});
-                } else if (controllerCommand === "Search") {
-                    googleAdServerNameplateName = EUSED.Tagging.getSelectedVehicleList();
-                    dataLayer.push({"nameplateName": googleAdServerNameplateName});
-                }
-                else if (controllerCommand === "VehicleDetail" && typeof googleAdServerNameplateName != 'undefined') {
-                    googleAdServerNameplateName = "ford " + googleAdServerNameplateName.toLowerCase();
-                    dataLayer.push({"nameplateName": googleAdServerNameplateName});
-                }
-            }
-            var nameplateName = 'ford mondeo';
-            googleAdServerNameplateName = nameplateName.toLowerCase();
-            dataLayer.push({"nameplateName": googleAdServerNameplateName});
-            if (typeof osbNameplateName != 'undefined') {
-                osbNameplateName = osbNameplateName.toLowerCase();
-                dataLayer.push({"nameplateName": osbNameplateName});
-            }
-            if (typeof bookingReferenceNumber != 'undefined') {
-                dataLayer.push({"leadID": bookingReferenceNumber});
-            }
-            dataLayer.push({"pageTitle": 'Ford Mondeo avantaj client 5.500 \u20AC cu Ecobonus Ford RO'});
-            dataLayer.push({"pageCategory": 'ford-brand'});
-            if (typeof osb_pageId != 'undefined') {
-                dataLayer.push({"pageID": osb_pageId});
-            } else {
-                if (typeof mobile_bnp_pageId != 'undefined') {
-                    dataLayer.push({"pageID": mobile_bnp_pageId});
-                } else if (typeof pageID_eused != 'undefined') {
-                    pageID_eused = "brand:used vehicles:search inventory:" + pageID_eused;
-                    dataLayer.push({"pageID": pageID_eused });
-                } else {
-                    dataLayer.push({"pageID": 'brand:promotions:car:results:eco incentives'});
-                }
-            }
-            dataLayer.push({"language": 'rum'});
-        }
-    }
-</script>
-<!-- Google Tag Manager -->
-<!-- if condition -->
-<noscript>
-    <iframe
-        src="http://www.googletagmanager.com/ns.html?id=GTM-WL5HW9" height="0"
-        width="0" style="display: none; visibility: hidden"></iframe>
-</noscript>
-<script type="text/javascript">
-    if (isDoubleclickTriggered === 'false') {
-        if (typeof TagIT != 'object' || typeof TagIT.handlesDoubleClick != 'function' || !TagIT.handlesDoubleClick()) {
-            (function (w, d, s, l, i) {
-                w[l] = w[l] || [];
-                w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
-                var f = d.getElementsByTagName(s)[0],
-                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
-                j.async = true;
-                j.src =
-                    '../../../../www.googletagmanager.com/gtm5445.html?id=' + i + dl;
-                f.parentNode.insertBefore(j, f);
-            })(window, document, 'script', 'dataLayer', 'GTM-WL5HW9');
-        }
-    }
-    isDoubleclickTriggered = 'true';
-</script>
-<!-- End Google Tag Manager -->
-<script>
-</script>
-<!-- enableiPerceptions is - 'null' -->
-<script src="http://www.ford.ro/cs/ContentServer?pagename=EP2%2fENGInE%2fscript%2fGroupedJS"
-        type="text/javascript"></script>
-<script> EP2.Globals.siteName = 'RORO4_ENGINE';
-    EP2.Globals.gforceMode = 'LIVE'</script>
-<script type="text/javascript">
-    var EP2 = EP2 || {};
-    EP2.cookieLegislation.trigger();
-    //FB : apply css rule for the footer SBE expandable list
-    EP2.applyCssToFooterSBE = function () {
-        var expandable = $('dd > .expand');
-        var ordinaryLink = $('.listColumn > dl > dd > .sbe');
-        expandable.each(function (i, v) {
-            var findSpan = $(this).find('> span');
-            console.log();
-            if (!findSpan.length) {
-                $(this).append('<span></span>');
-            }
-        });
-        ordinaryLink.each(function (i, v) {
-            var findLink = $(this).find('> span');
-            if (!findLink.length) {
-                $(this).append('<span></span>');
-            }
-        });
-    }();
-</script>
-<!-- <End> -->
-<!-- Engine tag - loading 'Layout4_EP2::BodyBottom' -->
-<!-- Loading sitesetup -->
-<script>
-</script>
-<!-- enableiPerceptions is - 'null' -->
-<script>
-    var TagIT = TagIT || {};
-</script>
-<script
-    src='http://www.ford.ro/cs/ContentServer?cid=1&amp;isMobile=false&amp;pagename=RORO4_ENGINE%2Fscript%2Ftagit%2Fassembler&amp;require=NONE&amp;location=load&amp;c=Page'
-    defer></script>
-<script
-    src='http://www.ford.ro/cs/ContentServer?cid=1&amp;isMobile=false&amp;pagename=RORO4_ENGINE%2Fscript%2Ftagit%2Fstatic&amp;require=NONE&amp;location=load&amp;c=Page'></script>
-</body>
-
-</html>

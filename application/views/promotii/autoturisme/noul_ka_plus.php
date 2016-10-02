@@ -303,13 +303,13 @@
                         </div>
                         <ul class="navsubmenu">
                             <li class=''>
-                                <a href='../Autoturisme.php'>Promo&#355;ii autoturisme</a></li>
+                                <a href='../Autoturisme'>Promo&#355;ii autoturisme</a></li>
                             <li class=''>
-                                <a href='../comerciale.html'>Promo&#539;ii vehicule comerciale</a></li>
+                                <a href='../comerciale'>Promo&#539;ii vehicule comerciale</a></li>
                             <li class=''>
                                 <a href='../PromotiiService'>Promo&#355;ii service</a></li>
                             <li class=''>
-                                <a href='../promotii-accesorii.html'>Promo&#355;ii accesorii</a></li>
+                                <a href='../promotii-accesorii'>Promo&#355;ii accesorii</a></li>
                         </ul>
                         <div class="navsubmenubottom">
                         </div>
@@ -320,23 +320,27 @@
             <div class="navdivider"></div>
             <ul id="nextSteps" class="nextSteps">
                 <li id='menu1205110702778' class=''>
-                    <a href='Rabla'/>Rabla</a>
+                    <a href='Ecobonus'/>Ecobonus</a>
                     <div id="navsubmenu" class="navsubmenu">
                         <div class="navsubmenutop">
                         </div>
                         <ul class="navsubmenu">
                             <li class=''>
-                                <a href='Rabla/OfertaFiesta.html'>Oferta Fiesta</a></li>
+                                <a href='Ecobonus/OfertaFiesta'>Oferta Fiesta</a></li>
                             <li class=''>
-                                <a href='Rabla/OfertaBMAX.html'>Oferta B-MAX</a></li>
+                                <a href='Ecobonus/OfertaFocus'>Oferta Focus</a></li>
                             <li class=''>
-                                <a href='Rabla/OfertaFocus.html'>Oferta Focus</a></li>
+                                <a href='Ecobonus/OfertaBMAX'>Oferta B-MAX</a></li>
                             <li class=''>
-                                <a href='Rabla/OfertaMondeo.html'>Oferta Mondeo</a></li>
+                                <a href='Ecobonus/OfertaMondeo'>Oferta Mondeo</a></li>
                             <li class=''>
-                                <a href='Rabla/OfertaEcoSport.html'>Oferta EcoSport</a></li>
+                                <a href='Ecobonus/OfertaEcoSport'>Oferta EcoSport</a></li>
                             <li class=''>
-                                <a href='Rabla/Rezervare.html'>Rezervare</a></li>
+                                <a href='Ecobonus/Rezervare'>Rezervare</a></li>
+                            <li class=''>
+                                <a href='Ecobonus/Procedura'>Procedura</a></li>
+                            <li class=''>
+                                <a href='Ecobonus/WeekendulInovatiei'>Weekendul Inovatiei</a></li>
                         </ul>
                         <div class="navsubmenubottom">
                         </div>
@@ -359,6 +363,12 @@
                     <a href='BusinessWeeks'/>BusinessWeeks</a>
                     <script type="text/javascript">
                         document.id('menu1205113482626').addClass("navnextSteps");
+                    </script>
+                </li>
+                <li id='menu1205122642685' class=''>
+                    <a href='/Promotii/Autoturisme/PromotieFlote'/>Promotie Flote</a>
+                    <script type="text/javascript">
+                        document.id('menu1205122642685').addClass("navnextSteps");
                     </script>
                 </li>
             </ul>

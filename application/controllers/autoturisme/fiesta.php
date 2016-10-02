@@ -34,8 +34,15 @@ class fiesta extends CI_Controller
     public function preturi_si_promotii()
     {
         $this->template
-            ->title('Noua Fiesta - Preturi si promotii', 'Ford AutoTechnic')
+            ->title('Fiesta - Preturi si promotii', 'Ford AutoTechnic')
             ->build('autoturisme/fiesta/preturi_si_promotii');
+    }
+
+    public function fiesta_st_line()
+    {
+        $this->template
+            ->title('Fiesta - ST-Line', 'Ford AutoTechnic')
+            ->build('autoturisme/fiesta/fiesta_st_line');
     }
 
 }

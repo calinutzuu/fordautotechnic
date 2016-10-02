@@ -1,3 +1,4 @@
+
 <script type="text/javascript">
     // mobile sniffer
     ForceRedirectUserAgents = 'android,iphone,blackberry';
@@ -9,9 +10,9 @@
 <div id="xAxis-detailed">
     <nav class="breadCrumb visuallyhidden" role="navigation">
         <ul itemprop="breadcrumb">
-            <li class="home"><a href="../index" data-selenium="breadcrumb_home" class="om_bc_li"
+            <li class="home"><a href="http://www.ford.ro/" data-selenium="breadcrumb_home" class="om_bc_li"
                                 title="Pagina principal&#259;">Pagina principal&#259;</a><span></span></li>
-            <li data-selenium="breadcrumb_cars"><a href="../Autoturisme" class="om_bc_li">
+            <li data-selenium="breadcrumb_cars"><a href="http://www.ford.ro/Autoturisme" class="om_bc_li">
                     Autoturisme
                 </a><span></span></li>
             <li data-selenium="breadcrumb_nameplate">Focus</li>
@@ -113,7 +114,7 @@
         <div itemscope itemtype="http://schema.org/ImageObject">
             <ul class="nameplate x-axis" id="vvmRoot">
                 <li class="default-nameplate-vehicle"
-                    style="background-image:url(../cs/BlobServer9484?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpg&amp;blobwhere=1214481762939&amp;blobkey=id)">
+                    style="background-image:url(http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpg&amp;blobwhere=1214481762939&amp;blobkey=id)">
                     <div class="layered-nameplate-image">
                         <div class="image-holder">
                         </div>
@@ -154,14 +155,14 @@
     </section>
     <!-- bill board -->
     <!-- commented for Release 1604
-    <script type="text/x-handlebars-template" id="billboardTemplate">
-    {{#each vehicles}}
-    {{#if current}}
-    <div style="background:url({{billBoardImagePath}}) no-repeat;"></div>
-    {{/if}}
-    {{/each}}
-    </script>
-    -->
+<script type="text/x-handlebars-template" id="billboardTemplate">
+{{#each vehicles}}
+{{#if current}}
+<div style="background:url({{billBoardImagePath}}) no-repeat;"></div>
+{{/if}}
+{{/each}}
+</script>
+-->
     <!-- VIEW TEMPLATES -->
     <script type="text/x-handlebars-template" id="vehicleTemplate">
         {{#each vehicles}}
@@ -309,24 +310,23 @@
     <div id="promo-carousel-timer">7500</div>
     <div class="slide-wrapper">
         <article class="slate slide">
-            <a href='../Promotii/Autoturisme/Rabla/OfertaFocus'>
+            <a href='http://www.ford.ro/Promotii/Autoturisme/Ecobonus/OfertaFocus'>
 <span class="active-promo-rover">
 <span class="bg-opacity"></span>
 <span class="link-icon"></span>
 </span>
                 <img
-                    src="../cs/BlobServer8329?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpg&amp;blobwhere=1214553887403&amp;blobkey=id"
+                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpg&amp;blobwhere=1214564411460&amp;blobkey=id"
                     alt="Ford Fiesta">
 
-                <p class="promo-carousel-text"><span
-                        class="promo-carousel-bold">Oferta speciala prin programul Ecobonus</span></p></a>
+                <p class="promo-carousel-text"><span class="promo-carousel-bold">Vezi detaliile ofertei</span></p></a>
         </article>
     </div>
 </section>
 <section id="non-js-promoCarousel" class="non-js-promo-carousel box-shadow">
     <div class="slide-wrapper">
         <p class="promo-carousel-text"><a
-                href="../index.html?pagename=RORO4_ENGINE/EP2/common/promo/M48_PromoBlock&amp;c=Promo_C&amp;cid=Oferta%20speciala%20prin%20programul%20rabla!"
+                href="http://www.ford.ro/cs/ContentServer?pagename=RORO4_ENGINE/EP2/common/promo/M48_PromoBlock&amp;c=Promo_C&amp;cid=Vezi%20detaliile%20ofertei"
                 target="_blank">Ford Fiesta</a></p>
     </div>
 </section>
@@ -348,7 +348,7 @@
                 <!--  tabUrl /cs/ContentServer?cid=1205072239086&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE -->
                 <!-- IntoID ::: articleAssetId -->
                 <li class="selected"><a href="Focus/PrezentareGenerala#primaryTabs"
-             data-ajaxlink="/cs/ContentServer?cid=1205072239086&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE">Prezentare
+                                        data-ajaxlink="/cs/ContentServer?cid=1205072239086&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE">Prezentare
                         generala</a>
                     <!--This is where the main content for the selected tab will go -->
                     <!-- secondary tabs -->
@@ -388,25 +388,25 @@
                             <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
                             <!-- BEGIN [MidPageTabs] -->
                             <!--<div id='tab1' class="mp-tab-wrapper">
-                            <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Prezentare</a></h2> -->
+<h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Prezentare</a></h2> -->
                             <!--</div>-->
                             <!-- END [MidPageTabs] -->
                             <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
                             <!-- BEGIN [MidPageTabs] -->
                             <!--<div id='tab1' class="mp-tab-wrapper">
-                            <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Prezentare</a></h2> -->
+<h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Prezentare</a></h2> -->
                             <!--</div>-->
                             <!-- END [MidPageTabs] -->
                             <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
                             <!-- BEGIN [MidPageTabs] -->
                             <!--<div id='tab1' class="mp-tab-wrapper">
-                            <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Prezentare</a></h2> -->
+<h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Prezentare</a></h2> -->
                             <!--</div>-->
                             <!-- END [MidPageTabs] -->
                             <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
                             <!-- BEGIN [MidPageTabs] -->
                             <!--<div id='tab1' class="mp-tab-wrapper">
-                            <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Prezentare</a></h2> -->
+<h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Prezentare</a></h2> -->
                             <!--</div>-->
                             <!-- END [MidPageTabs] -->
                         </div>
@@ -434,6 +434,13 @@
                     <!-- secondary tabs -->
                     <!--  midPageTabId : 1205094681946 -->
                 </li>
+                <!--  isBtfTab  -->
+                <!--  tabUrl /cs/ContentServer?cid=1205072239086&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205123137602&amp;tabName=st-line&amp;c=Page&amp;site=RORO4_ENGINE -->
+                <li><a href="Focus/st-line#primaryTabs" class=" "
+                       data-ajaxlink="/cs/ContentServer?cid=1205072239086&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205123137602&amp;tabName=st-line&amp;c=Page&amp;site=RORO4_ENGINE">ST-Line</a>
+                    <!-- secondary tabs -->
+                    <!--  midPageTabId : 1205123137429 -->
+                </li>
             </ul>
         </nav>
     </div>
@@ -448,7 +455,5 @@
         }
     </script>
 </section>
-<script id="TagIT.load" defer></script>
+<script id="TagIT.load"></script>
 </div>
-
-

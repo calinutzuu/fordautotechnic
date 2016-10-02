@@ -1,87 +1,31 @@
-<!DOCTYPE html>
-<!--[if IE 8]>
-<html class="no-js lt-ie10 lt-ie9" lang="en" xmlns:fb="http://ogp.me/ns/fb#"> <![endif]-->
-<!--[if IE 9]>
-<html class="no-js lt-ie10" lang="en" xmlns:fb="http://ogp.me/ns/fb#"> <![endif]-->
-<!--[if gt IE 9]><!-->
-<html class="no-js" lang="en"> <!--<![endif]-->
-
-
-<body data-carousel="1205102157101" class="overrideBody">
-<script>
-    var TagIT = TagIT || {};
-</script>
-<script>
-    var TagIT = TagIT || {};
-    TagIT.GtmId = 'GTM-WL5HW9';
-</script>
-<noscript>
-    <iframe
-        src="http://www.googletagmanager.com/ns.html?id=GTM-WL5HW9" height="0"
-        width="0" style="display: none; visibility: hidden"></iframe>
-</noscript>
-<script
-    src='../cs/ContentServer9200?pagename=RORO4_ENGINE/script/tagit/assembler&amp;c=Page&amp;cid=1&amp;location=body&amp;isMobile=false&amp;require=NONE'
-    defer></script>
-<script
-    src='../cs/ContentServerd944?cid=1&amp;isMobile=false&amp;pagename=RORO4_ENGINE%2Fscript%2Ftagit%2Fstatic&amp;require=NONE&amp;location=body&amp;c=Page'></script>
-<div id="wrapper">
-<script type="text/javascript">
-    var fw_animationSpeed = 350;
-</script>
-<div id="cookieAlertBoxID" class="cookieAlertBox">
-    <div class="midContent">
-        <div class="cookie-closebtn"><a id="closeBtnID" class="icon closeBtn" href="#" title="Close">Close</a></div>
-        <p>
-
-        <p align="left">Fişierele de tip cookie sunt esenţiale pentru ca dumneavoastră să utilizaţi la maximum site-ul
-            nostru Web. De fapt, aproape toate site-urile Web utilizează acest tip de fişiere. Fişierele de tip cookie
-            stochează preferinţele dumneavoastră şi alte informaţii care ne ajută să ne &icirc;mbunătăţim site-ul Web -
-            dar nu vă faceţi griji, nicio informaţie colectată de pe site-ul nostru nu vă identifică &icirc;n mod
-            personal. Puteţi afla mai multe despre fişierele de tip cookie şi despre cum puteţi să le controlaţi cu
-            ajutorul setărilor dumneavoastră de navigare din Ghidul Ford privind fişierele de tip cookie.</p>
-        <a id="linkID" class="link"
-           href="../Footer/GhidulFordPrivindFisiereleDeTipCookiea41f.html?intcmp=other-nwp-cookies-cookie-alert-link">
-            Aflați mai multe </a>
-        </p>
-    </div>
-</div>
-
-<img src='/assets/img/service/1214524329783.jpg'>
 
 <div class="mainContent">
-<!-- <nav class="breadCrumb" role="navigation">
-    <ul itemprop="breadcrumb">
-        <li class="home"><a href="../index.html" class="om_bc_li">Pagina principală</a><span></span></li>
-        <li><a href="../Tehnologie.html" class="om_bc_li">Tehnologie</a><span></span></li>
-        <li>Toate tehnologiile</li>
-    </ul>
-</nav> -->
 
 <section id="fv-wrapper">
 <section id="carouselize" class="carousel-container carousel"></section>
 <section class="mid-page-content">
+<img
+    src="/assets/img/tehnologii/1214524329783.jpg"
+    alt="Tehnologii"/>
 <div class="tab-content">
 <header class="intro-header">
-    <h1 class="bigHeading">
-        <center>AFLA MAI MULTE DESPRE TEHNOLOGIILE INOVATOARE FORD</center>
+    <h1  class="bigHeading">
+        <h1 align="center"> AFLA MAI MULTE DESPRE TEHNOLOGIILE INOVATOARE FORD</h1>
     </h1>
     <span class="highlighter"></span>
 
     <p class="intro-text">
-
-    <p>
-    <center>Inovatia este parte integrata in ADN-ul Ford. Fortam permanent limitele imposibilului si pe cele
-        ale inventivitatii. <br><br> Fiecare vehicol pe care il producem vine la pachet cu
-        caracteristici utile, design centrat pe sofer si tehnologie inovatoare. Cateva dintre
-        acestea &ndash; precum functiile de Traffic Sign Recognition sau conectivitatea prin SYNC
-        2 &ndash; sunt imediat vizibile. Altele &ndash; precum tehnologia EcoBoost Engine si All-wheel
-        Drive, nu sunt vizibile din start.<br><br> Dar fii linistit de cate ori conduci o masina Ford,
-        in spatele ei este un pachet de tehnologii care asigura o experienta placuta atat pentru tine,
-        cat si pentru pasageri.
-    </center>
+    <div align="center">
+    <p>Inovatia este parte integrata in ADN-ul Ford. Fortam permanent limitele imposibilului si pe cele ale
+        inventivitatii. <br><br> Fiecare vehicol pe care il producem vine la pachet cu caracteristici utile, design
+        centrat pe sofer si tehnologie inovatoare. Cateva dintre acestea &ndash; precum functiile de Traffic Sign
+        Recognition sau conectivitatea prin SYNC 2 &ndash; sunt imediat vizibile. Altele &ndash; precum tehnologia
+        EcoBoost Engine si All-wheel Drive, nu sunt vizibile din start.<br><br> Dar fii linistit de cate ori conduci o
+        masina Ford, in spatele ei este un pachet de tehnologii care asigura o experienta placuta atat pentru tine, cat
+        si pentru pasageri.</p>
     </p>
-    </p>
+    <br><br>
+</div>
 </header>
 <article class="three-column">
     <div class="content-block">
@@ -94,9 +38,8 @@
 
         <p>
 
-        <p><span style="color: rgb(0, 0, 255);"><u><a
-                        HREF="#">Ford SYNC</a></u></span>
-        </p>
+        <p><span style="color: rgb(0, 0, 255);"><u><a HREF="#">Ford
+                        SYNC</a></u></span></p>
         </p>
     </div>
     <div class="content-block">
@@ -109,8 +52,8 @@
 
         <p>
 
-        <p><span style="color: rgb(0, 0, 255);"><u><a HREF="#">Sistemul
-                        de usi cu acces facil</a></u></span></p>
+        <p><span style="color: rgb(0, 0, 255);"><u><a HREF="#">Sistemul de usi cu
+                        acces facil</a></u></span></p>
         </p>
     </div>
     <div class="content-block last">
@@ -123,9 +66,8 @@
 
         <p>
 
-        <p><span style="color: rgb(0, 0, 255);"><u><a
-                        HREF="#">Sistemul de protectie pentru
-                        marginile portierei</a></u></span></p>
+        <p><span style="color: rgb(0, 0, 255);"><u><a HREF="#">Sistemul de
+                        protectie pentru marginile portierei</a></u></span></p>
         </p>
     </div>
 </article>
@@ -140,9 +82,8 @@
 
         <p>
 
-        <p><span style="color: rgb(0, 0, 255);"><u><a
-                        HREF="#">Parbrizul incalzit
-                        Quickclear</a></u></span></p>
+        <p><span style="color: rgb(0, 0, 255);"><u><a HREF="#">Parbrizul
+                        incalzit Quickclear</a></u></span></p>
         </p>
     </div>
     <div class="content-block">
@@ -169,9 +110,8 @@
 
         <p>
 
-        <p><span style="color: rgb(0, 0, 255);"><u><a
-                        HREF="#">Centurile de siguranta
-                        gonflabile</a></u></span></p>
+        <p><span style="color: rgb(0, 0, 255);"><u><a HREF="#">Centurile de
+                        siguranta gonflabile</a></u></span></p>
         </p>
     </div>
 </article>
@@ -186,9 +126,8 @@
 
         <p>
 
-        <p><span style="color: rgb(0, 0, 255);"><u><a
-                        HREF="#">Tehnologia de iluminare
-                        Ford</a></u></span></p>
+        <p><span style="color: rgb(0, 0, 255);"><u><a HREF="#">Tehnologia de
+                        iluminare Ford</a></u></span></p>
         </p>
     </div>
     <div class="content-block">
@@ -201,9 +140,8 @@
 
         <p>
 
-        <p><span style="color: rgb(0, 0, 255);"><u><a
-                        HREF="#">Sistemul inteligent
-                        de tractiune integrala</a></u></span></p>
+        <p><span style="color: rgb(0, 0, 255);"><u><a HREF="#">Sistemul
+                        inteligent de tractiune integrala</a></u></span></p>
         </p>
     </div>
     <div class="content-block last">
@@ -216,8 +154,7 @@
 
         <p>
 
-        <p><span style="color: rgb(0, 0, 255);"><u><a
-                        HREF="#">Vehiculele
+        <p><span style="color: rgb(0, 0, 255);"><u><a HREF="#">Vehiculele
                         electrice si hibride Ford</a></u></span></p>
         </p>
     </div>
@@ -246,8 +183,7 @@
 
         <p>
 
-        <p><span style="color: rgb(0, 0, 255);"><u><a
-                        HREF="#">Limitatorul
+        <p><span style="color: rgb(0, 0, 255);"><u><a HREF="#">Limitatorul
                         inteligent de viteza</a></u></span></p>
         </p>
     </div>
@@ -262,8 +198,8 @@
         <p>
 
         <p><span style="color: rgb(0, 0, 255);"><u><a
-                        HREF="#">Sistemul
-                        Active Park Assist</a></u></span></p>
+                        HREF="#">Sistemul Active Park
+                        Assist</a></u></span></p>
         </p>
     </div>
 </article>
@@ -279,8 +215,8 @@
         <p>
 
         <p><span style="color: rgb(0, 0, 255);"><u><a
-                        HREF="#">Frana
-                        activa cu detectarea pietonilor</a></u></span></p>
+                        HREF="#">Frana activa cu
+                        detectarea pietonilor</a></u></span></p>
         </p>
     </div>
     <div class="content-block">
@@ -293,9 +229,8 @@
 
         <p>
 
-        <p><span style="color: rgb(0, 0, 255);"><u><a
-                        HREF="#">Camera frontala
-                        cu unghi larg</a></u></span></p>
+        <p><span style="color: rgb(0, 0, 255);"><u><a HREF="#">Camera
+                        frontala cu unghi larg</a></u></span></p>
         </p>
     </div>
     <div class="content-block last">
@@ -309,8 +244,8 @@
         <p>
 
         <p><span style="color: rgb(0, 0, 255);"><u><a
-                        HREF="#">Alerta la
-                        intersectarea cu traficul</a></u></span></p>
+                        HREF="#">Alerta la intersectarea
+                        cu traficul</a></u></span></p>
         </p>
     </div>
 </article>
@@ -328,6 +263,327 @@
         <p><u><a HREF="#">Ford EasyFold</a><br></u></p>
         </p>
     </div>
+    <div class="content-block">
+        <img
+            src="/assets/img/tehnologii/1214567357523.jpg"
+            alt="Ford Rear View Camera"/>
+
+        <h3 class="bigHeading02">
+        </h3>
+
+        <p>
+
+        <p><span style="color: rgb(0, 0, 255);"><u><a HREF="#">Camera video
+                        pentru vizualizare spate </a></u></span></p>
+        </p>
+    </div>
+    <div class="content-block last">
+        <img
+            src="/assets/img/tehnologii/1214567357352.jpg"
+            alt="Ford Lane Keeping System"/>
+
+        <h3 class="bigHeading02">
+        </h3>
+
+        <p>
+
+        <p><span style="color: rgb(0, 0, 255);"><u><a HREF="#">Sistemul
+                        de mentinere a benzii de rulare </a></u></span></p>
+        </p>
+    </div>
+</article>
+<article class="three-column">
+    <div class="content-block">
+        <img
+            src="/assets/img/tehnologii/1214567357180.jpg"
+            alt="Ford Blind Spot Information System"/>
+
+        <h3 class="bigHeading02">
+        </h3>
+
+        <p>
+
+        <p><span style="color: rgb(0, 0, 255);"><u><a HREF="#">Sistemul
+                        de asistenta pentru unghiul mort </a></u></span></p>
+        </p>
+    </div>
+    <div class="content-block">
+        <img
+            src="/assets/img/tehnologii/1214567356836.jpg"
+            alt="FordTraffic Sign Recognition System"/>
+
+        <h3 class="bigHeading02">
+        </h3>
+
+        <p>
+
+        <p><span style="color: rgb(0, 0, 255);"><u><a
+                        HREF="#">Sistemul de
+                        recunoastere a indicatoarelor rutiere </a></u></span></p>
+        </p>
+    </div>
+    <div class="content-block last">
+        <img
+            src="/assets/img/tehnologii/1214567355010.jpg"
+            alt="Ford Active City Stop"/>
+
+        <h3 class="bigHeading02">
+        </h3>
+
+        <p>
+
+        <p><span style="color: rgb(0, 0, 255);"><u><a HREF="#">Oprire
+                        activă &icirc;n oraş </a></u></span></p>
+        </p>
+    </div>
+</article>
+<article class="three-column">
+    <div class="content-block">
+        <img
+            src="/assets/img/tehnologii/1214567355176.jpg"
+            alt="Ford Adaptive Cruise Control"/>
+
+        <h3 class="bigHeading02">
+        </h3>
+
+        <p>
+
+        <p><span style="color: rgb(0, 0, 255);"><u><a HREF="#">Tempomat
+                        adaptiv </a></u></span></p>
+        </p>
+    </div>
+    <div class="content-block">
+        <img
+            src="/assets/img/tehnologii/1214567356423.jpg"
+            alt="Ford Adaptive Steering"/>
+
+        <h3 class="bigHeading02">
+        </h3>
+
+        <p>
+
+        <p><span style="color: rgb(0, 0, 255);"><u><a HREF="#">Directie
+                        adaptiva </a></u></span></p>
+        </p>
+    </div>
+    <div class="content-block last">
+        <img
+            src="/assets/img/tehnologii/1214567357266.jpg"
+            alt="Ford Hill Start Assist"/>
+
+        <h3 class="bigHeading02">
+        </h3>
+
+        <p>
+
+        <p><span style="color: rgb(0, 0, 255);"><u><a HREF="#">Asistenta
+                        la pornirea in rampa </a></u></span></p>
+        </p>
+    </div>
+</article>
+<article class="three-column">
+    <div class="content-block">
+        <img
+            src="/assets/img/tehnologii/1214567355262.jpg"
+            alt="Ford Emergency Brake Assist"/>
+
+        <h3 class="bigHeading02">
+        </h3>
+
+        <p>
+
+        <p><span style="color: rgb(0, 0, 255);"><u><a HREF="#">Sistemul
+                        de asistenta la franarea de urgenta </a></u></span></p>
+        </p>
+    </div>
+    <div class="content-block">
+        <img
+            src="/assets/img/tehnologii/1214567360064.jpg"
+            alt="Ford Torque Vectoring Control"/>
+
+        <h3 class="bigHeading02">
+        </h3>
+
+        <p>
+
+        <p><span style="color: rgb(0, 0, 255);"><u><a HREF="#">Sistemul de
+                        control avansat al cuplului motor </a></u></span></p>
+        </p>
+    </div>
+    <div class="content-block last">
+        <img
+            src="/assets/img/tehnologii/1214567355512.jpg"
+            alt="Ford EcoMode"/>
+
+        <h3 class="bigHeading02">
+        </h3>
+
+        <p>
+
+        <p><span style="color: rgb(0, 0, 255);"><u><a HREF="#">EcoMode</a></u></span></p>
+        </p>
+    </div>
+</article>
+<article class="three-column">
+    <div class="content-block">
+        <img
+            src="/assets/img/tehnologii/1214567358120.jpg"
+            alt="Ford Auto Start Stop"/>
+
+        <h3 class="bigHeading02">
+        </h3>
+
+        <p>
+
+        <p><a HREF="#"><u>Auto-Start-Stop</u></a></p>
+        </p>
+    </div>
+    <div class="content-block">
+        <img
+            src="/assets/img/tehnologii/1214567357789.jpg"
+            alt="Ford Electronic Stability Control"/>
+
+        <h3 class="bigHeading02">
+        </h3>
+
+        <p>
+
+        <p><span style="color: rgb(0, 0, 255);"><u><a HREF="#">Sistemul de
+                        control electronic al stabilitatii </a></u></span></p>
+        </p>
+    </div>
+    <div class="content-block last">
+        <img
+            src="/assets/img/tehnologii/1214567353742.jpg"
+            alt="Ford Curve Control"/>
+
+        <h3 class="bigHeading02">
+        </h3>
+
+        <p>
+
+        <p><span style="color: rgb(0, 0, 255);"><u><a HREF="#">Controlul
+                        virajelor </a></u></span></p>
+        </p>
+    </div>
+</article>
+<article class="three-column">
+    <div class="content-block">
+        <img
+            src="/assets/img/tehnologii/1214567355345.jpg"
+            alt="Ford Intelligent Protection System"/>
+
+        <h3 class="bigHeading02">
+        </h3>
+
+        <p>
+
+        <p><span style="color: rgb(0, 0, 255);"><u><a HREF="#">Sistem
+                        inteligent de protectie Ford </a></u></span></p>
+        </p>
+    </div>
+    <div class="content-block">
+        <img
+            src="/assets/img/tehnologii/1214567355595.jpg"
+            alt="Ford MyKey"/>
+
+        <h3 class="bigHeading02">
+        </h3>
+
+        <p>
+
+        <p><span style="color: rgb(0, 0, 255);"><u><a HREF="#">Ford MyKey&reg;</a></u></span>
+        </p>
+        </p>
+    </div>
+    <div class="content-block last">
+        <img
+            src="/assets/img/tehnologii/1214567359878.jpg"
+            alt="Ford Roll Stability Control"/>
+
+        <h3 class="bigHeading02">
+        </h3>
+
+        <p>
+
+        <p><span style="color: rgb(0, 0, 255);"><u><a HREF="#">Sistemul
+                        de reducere a efectului de rasturnare </a></u></span></p>
+        </p>
+    </div>
+</article>
+<article class="three-column">
+    <div class="content-block">
+        <img
+            src="/assets/img/tehnologii/1214567357438.jpg"
+            alt="Ford Tyre Pressure Monitoring System"/>
+
+        <h3 class="bigHeading02">
+        </h3>
+
+        <p>
+
+        <p><span style="color: rgb(0, 0, 255);"><u><a HREF="#">Sistem
+                        de monitorizare a presiunii din pneuri </a></u></span></p>
+        </p>
+    </div>
+    <div class="content-block">
+        <img
+            src="/assets/img/tehnologii/1214567356589.jpg"
+            alt="Ford Active Noise Control"/>
+
+        <h3 class="bigHeading02">
+        </h3>
+
+        <p>
+
+        <p><span style="color: rgb(0, 0, 255);"><u><a HREF="#">Sistemul de control
+                        activ al zgomotului </a></u></span></p>
+        </p>
+    </div>
+    <div class="content-block last">
+        <img
+            src="/assets/img/tehnologii/1214567357872.jpg"
+            alt="Ford Multi Contour Seats"/>
+
+        <h3 class="bigHeading02">
+        </h3>
+
+        <p>
+
+        <p><span style="color: rgb(0, 0, 255);"><u><a HREF="#">Scaune multi-contur cu
+                        functie de masaj Active Motion </a></u></span></p>
+        </p>
+    </div>
+</article>
+<article class="three-column">
+    <div class="content-block">
+        <img
+            src="/assets/img/tehnologii/1214567358286.jpg"
+            alt="Ford Hands-Free Tailgate"/>
+
+        <h3 class="bigHeading02">
+        </h3>
+
+        <p>
+
+        <p><span style="color: rgb(0, 0, 255);"><u><a HREF="#">Sistem hands-free de
+                        deschidere automata a hayonului </a></u></span></p>
+        </p>
+    </div>
+    <div class="content-block">
+        <img
+            src="/assets/img/tehnologii/1214567353826.jpg"
+            alt="Ford Keyless Entry with Power Button"/>
+
+        <h3 class="bigHeading02">
+        </h3>
+
+        <p>
+
+        <p><span style="color: rgb(0, 0, 255);"><u><a HREF="#">Sistem Ford KeyFree cu
+                        buton de pornire Ford Power </a></u></span></p>
+        </p>
+    </div>
 </article>
 </div>
 </section>
@@ -336,7 +592,7 @@
     OM.om_he_pv_tc = { "tag": "pv nav true choice link", "clickType": "o"};</script>
 <!-- OMNITURE ME -->
 <script type="text/javascript"
-        src="../cs/ContentServer1756?cid=1204986890525&amp;pagename=ENGInE%2Ftagging%2FOmnitureScript"></script>
+        src="http://www.ford.ro/cs/ContentServer?cid=1204986890525&amp;pagename=ENGInE%2Ftagging%2FOmnitureScript"></script>
 <script type="text/javascript">var sford = new Object;
     sford.tabName = '';
     sford.pageName = 'brand:technology:overview';
@@ -388,21 +644,21 @@
     function createPath() {
         var currentURL = window.location.href;
         if (!currentURL.indexOf("/cs/ContentServer?") > -1 && !currentURL.indexOf("/cs/Satellite?") > -1) {
-            if (currentURL.indexOf("=") > -1 && currentURL.indexOf("../index.html") > -1 && !currentURL.indexOf("?") > -1) {
+            if (currentURL.indexOf("=") > -1 && currentURL.indexOf("http://www.ford.ro/") > -1 && !currentURL.indexOf("?") > -1) {
                 currentURL = currentURL.substring(0, currentURL.indexOf("="));
-                currentURL = currentURL.substring(0, currentURL.lastIndexOf("../index.html"));
+                currentURL = currentURL.substring(0, currentURL.lastIndexOf("http://www.ford.ro/"));
             }
             if (currentURL.indexOf("?") > -1) {
                 currentURL = currentURL.substring(0, currentURL.indexOf("?"));
-                if (currentURL.indexOf("=") > -1 && currentURL.indexOf("../index.html") > -1) {
+                if (currentURL.indexOf("=") > -1 && currentURL.indexOf("http://www.ford.ro/") > -1) {
                     currentURL = currentURL.substring(0, currentURL.indexOf("="));
-                    currentURL = currentURL.substring(0, currentURL.lastIndexOf("../index.html"));
+                    currentURL = currentURL.substring(0, currentURL.lastIndexOf("http://www.ford.ro/"));
                 }
             }
         }
-//Remove all trailing / 
-        while (currentURL.endsWith("../index.html")) {
-            currentURL = currentURL.substring(0, currentURL.lastIndexOf("../index.html"));
+//Remove all trailing /
+        while (currentURL.endsWith("http://www.ford.ro/")) {
+            currentURL = currentURL.substring(0, currentURL.lastIndexOf("http://www.ford.ro/"));
         }
         return currentURL;
     }
@@ -547,45 +803,3 @@
 <!-- End Google Tag Manager -->
 <script>
 </script>
-<!-- enableiPerceptions is - 'null' -->
-
-</div>
-<script src="../cs/ContentServer5cdb?pagename=EP2%2fENGInE%2fscript%2fGroupedJS" type="text/javascript"></script>
-<script> EP2.Globals.siteName = 'RORO4_ENGINE';
-    EP2.Globals.gforceMode = 'LIVE'</script>
-<script type="text/javascript">
-    var EP2 = EP2 || {};
-    EP2.cookieLegislation.trigger();
-    //FB : apply css rule for the footer SBE expandable list
-    EP2.applyCssToFooterSBE = function () {
-        var expandable = $('dd > .expand');
-        var ordinaryLink = $('.listColumn > dl > dd > .sbe');
-        expandable.each(function (i, v) {
-            var findSpan = $(this).find('> span');
-            console.log();
-            if (!findSpan.length) {
-                $(this).append('<span></span>');
-            }
-        });
-        ordinaryLink.each(function (i, v) {
-            var findLink = $(this).find('> span');
-            if (!findLink.length) {
-                $(this).append('<span></span>');
-            }
-        });
-    }();
-</script>
-<script src="../cs/ContentServer376c.html?pagename=EP2/ENGInE/script/carouselize"></script>
-<script src="../cs/ContentServerfdd4.html?pagename=EP2/ENGInE/script/future-vehicle-tabs"></script>
-<!--  var noEp1Overlay = true; -->
-<script>
-    var TagIT = TagIT || {};
-</script>
-<script
-    src='../cs/ContentServer45dd?cid=1&amp;isMobile=false&amp;pagename=RORO4_ENGINE%2Fscript%2Ftagit%2Fassembler&amp;require=NONE&amp;location=load&amp;c=Page'
-    defer></script>
-<script
-    src='../cs/ContentServerd3e7?cid=1&amp;isMobile=false&amp;pagename=RORO4_ENGINE%2Fscript%2Ftagit%2Fstatic&amp;require=NONE&amp;location=load&amp;c=Page'></script>
-</body>
-
-</html> 

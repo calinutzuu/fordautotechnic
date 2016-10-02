@@ -9,6 +9,13 @@ class Mondeo extends CI_Controller
             ->build('autoturisme/mondeo');
     }
 
+    public function preturi_si_promotii()
+    {
+        $this->template
+            ->title('Mondeo - Preturi si Promotii', 'Ford AutoTechnic')
+            ->build('autoturisme/mondeo/preturi_si_promotii');
+    }
+
     public function design()
     {
         $this->template
@@ -23,18 +30,18 @@ class Mondeo extends CI_Controller
             ->build('autoturisme/mondeo/performanta');
     }
 
-    public function experienta_la_volan()
+    public function caracteristici()
     {
         $this->template
-            ->title('Mondeo - Experien&#355;a la volan', 'Ford AutoTechnic')
-            ->build('autoturisme/mondeo/experienta_la_volan');
+            ->title('Mondeo - Caracteristici', 'Ford AutoTechnic')
+            ->build('autoturisme/mondeo/caracteristici');
     }
 
-    public function siguranta()
+    public function vignale()
     {
         $this->template
-            ->title('Mondeo - Siguranta si securitate', 'Ford AutoTechnic')
-            ->build('autoturisme/mondeo/siguranta');
+            ->title('Mondeo - Vignale', 'Ford AutoTechnic')
+            ->build('autoturisme/mondeo/vignale');
     }
 }
 

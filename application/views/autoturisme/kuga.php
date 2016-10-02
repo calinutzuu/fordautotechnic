@@ -226,7 +226,7 @@
                     </li>
                     <li><a href="/Autoturisme/Kuga/ExperientaLaVolan#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/Kuga/ExperientaLaVolan">Experien&#539;a la volan</a>
                     </li>
-                    <li><a href="/Autoturisme/Kuga/PreturisiPromotii#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/Kuga/PreturisiPromotii">PRE&#354;URI &#350;I PROMO&#354;II</a>
+                    <li><a href="/Promotii/Autoturisme/KugaSummerEdition" class="om_mt_ti"  data-ajaxlink="/Autoturisme/Kuga/PreturisiPromotii">PROMO&#354;II</a>
                     </li>
                     <li><a href="/Autoturisme/Kuga/PerformantaSiEficienta#primaryTabs" class="om_mt_ti"  data-ajaxlink="/Autoturisme/Kuga/PerformantaSiEficienta">Performan&#355;&#259; &#351;i eficien&#355;&#259;</a>
                     </li>

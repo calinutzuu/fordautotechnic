@@ -763,7 +763,7 @@
     </article>
     <header class="intro-header">
         <h1 class="bigHeading">
-            PRINDE BINE VOLANUL <br> SI PREIA CONTROLUL.
+            PRINDE BINE VOLANUL <br><br> SI PREIA CONTROLUL.
         </h1>
         <span class="highlighter"></span>
 

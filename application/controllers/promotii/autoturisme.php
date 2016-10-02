@@ -34,6 +34,14 @@ class Autoturisme extends CI_Controller
             ->build('promotii/autoturisme/kuga_summer');
     }
 
+    public function promotie_flote()
+    {
+        $this->template
+            ->set_layout('promotii')
+            ->title('PromotieFlote', 'Ford AutoTechnic')
+            ->build('promotii/autoturisme/promotie_flote');
+    }
+
     public function business_weeks()
     {
         $this->template

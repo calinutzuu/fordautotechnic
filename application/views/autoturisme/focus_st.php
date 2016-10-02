@@ -322,11 +322,9 @@
                                     </p>
                                 </header>
                                 <article class="content-column left">
-                                    <div class="img-column"><a
-                                            href="/cs/ContentServer?cid=1205116170936&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                                            class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
+                                    <div class="img-column"> <img
                                                 src="/assets/img/focus_st/1214556045300.jpg"
-                                                alt=" "/><span class="fv-overlay-icon"></span></a></div>
+                                                alt=" "/><span class="fv-overlay-icon"></span></div>
                                     <div class="content">
                                         <h3 class="bigHeading02">
                                         </h3>
@@ -353,11 +351,9 @@
                                             intaia oara pe Focus ST) care furnizeaza 185 CP.</p>
                                         </p>
                                     </div>
-                                    <div class="img-column"><a
-                                            href="/cs/ContentServer?cid=1205116175337&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                                            class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
+                                    <div class="img-column"> <img
                                                 src="/assets/img/focus_st/1214556045402.jpg"
-                                                alt=" "/><span class="fv-overlay-icon"></span></a></div>
+                                                alt=" "/><span class="fv-overlay-icon"></span></div>
                                 </article>
                             </div>
                             <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->

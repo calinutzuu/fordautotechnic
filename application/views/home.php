@@ -73,8 +73,8 @@
             </article>
             <!--Image Panel End-->
             <!--Rendering the Image Panel-->
-          <!--  <article role="option">
-                <a class="carImg" href="#img1"><img src="/assets/img/1214553927186.jpg"
+            <article role="option">
+                <a class="carImg" href="#img1"><img src="/assets/img/1214564411726.jpg"
                                                     alt="&lt;span style=&quot;font-size:22px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt;&lt;/span&gt;"
                                                     role="presentation"></a>
 
@@ -92,13 +92,13 @@
 
                         <div class="btnwrapper">
                             <div class="btnLink light">
-                                <a role="button" class="om_ca_in" href="/Promotii/Autoturisme/Rabla">VEZI
+                                <a role="button" class="om_ca_in" href="/Promotii/Autoturisme/PromotieFlote">VEZI
                                     OFERTELE</a>
                             </div>
                         </div>
                     </div>
                 </div>
-            </article>   -->
+            </article>
             <!--Image Panel End-->
             <!--Rendering the Video Panel-->
             <article class="videoObj">

@@ -24,7 +24,7 @@
         <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/Noul-Ford-Tourneo-Courier"> Noul Ford Tourneo Courier</a></h4></dd>
         <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/NoulFordGT"> Noul Ford GT</a></h4></dd>
   <!--  <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/KineticDesign"> Ford kinetic Design</a></h4></dd> -->
-        <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/Tehnologii"> Tehnologii</a></h4></dd>
+  <!--  <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/Tehnologii"> Tehnologii</a></h4></dd> -->
   <!--  <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/mici"> Masini mici</a></h4></dd> -->
   <!--  <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/defamilie"> Masini de familie</a></h4></dd> -->
         <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/st-line"> ST-Line</a></h4></dd>

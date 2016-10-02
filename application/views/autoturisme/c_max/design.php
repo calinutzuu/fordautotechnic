@@ -1,29 +1,34 @@
+<!--<END_EP2_HEADER >-->
 <script type="text/javascript">
     // mobile sniffer
     ForceRedirectUserAgents = 'android,iphone,blackberry';
     ForceRedirectUserAgentsBypass = 'Win64,Win32';
     ForceRedirectMinWidth = '480';
-    MobileHomePageRedirectURL = 'http:\/\/m.ford.ro';
-    MobileRedirectURL = MobileHomePageRedirectURL + '/autoturisme/noul-c-max/prezentare';
+    MobileHomePageRedirectURL = 'Design\/\/m.ford.ro';
+    MobileRedirectURL = MobileHomePageRedirectURL + '/prezentare';
 </script>
 <div id="xAxis-detailed">
     <nav class="breadCrumb visuallyhidden" role="navigation">
         <ul itemprop="breadcrumb">
-            <li class="home"><a href="/" data-selenium="breadcrumb_home" class="om_bc_li" title="Pagina principal&#259;">Pagina principal&#259;</a><span></span></li><li data-selenium="breadcrumb_cars"><a href="/Autoturisme" class="om_bc_li">
-            Autoturisme
-        </a><span></span></li><li data-selenium="breadcrumb_nameplate">C-MAX</li></ul>
+            <li class="home"><a href="http://www.ford.ro/" data-selenium="breadcrumb_home" class="om_bc_li"
+                                title="Pagina principal&#259;">Pagina principal&#259;</a><span></span></li>
+            <li data-selenium="breadcrumb_cars"><a href="http://www.ford.ro/Autoturisme" class="om_bc_li">
+                    Autoturisme
+                </a><span></span></li>
+            <li data-selenium="breadcrumb_nameplate">C-MAX</li>
+        </ul>
     </nav>
     <script>
         var vehicleimagepackpresid = '1205084295775';
         var vehicleimagepackyear = 'NONE';
     </script>
-    <div class="fblike-locale">ro_RO</div>
+    <div class="fblike-locale">en_RO</div>
     <script>
         var googleAdServerNameplateId = 'AUTHORED';
         var googleAdServerNameplateName = 'C-MAX';
     </script>
-    <script type= "text/javascript">
-        var extend = function(obj, extObj) {
+    <script type="text/javascript">
+        var extend = function (obj, extObj) {
             if (arguments.length > 2) {
                 for (var a = 1; a < arguments.length; a++) {
                     extend(obj, arguments[a]);
@@ -35,24 +40,37 @@
             }
             return obj;
         };
-        var bootstrapVehicleData = {"vehicles":[{"strIntroToFord": " Noul","brand": "Ford","vehicleType": "PV","catalogId": "NONE","nameplate": "C-MAX","labelAvailableFrom": "&nbsp;","formattedCurrency": "","nameplateText": "Cu un nou design reproiectat complet, Ford C-MAX cu 5 locuri \u015Fi Grand C-MAX cu 7 locuri reprezint\u0103 combina\u0163ia perfect\u0103 dintre inova\u0163ie, stil \u015Fi flexibilitate.","imagePack": false,"hideVehicleImage": false,"images": [],"backgroundImagePath": ["/assets/img/c_max/1214493076517.jpg","null","null"],"disclaimerTextColor": ["364957",null,null],"current": true,"cid": "1205084251905","cta": [{"linkTitle": "DESCARC\u0102 BRO\u015EUR\u0102 ","linkURL": "\/SBE\/Brosura\/DescarcaBrosura","linkType": "primary","linkTarget": "_blank","omid": "va"},{"linkTitle": "\u00CENSCRIE-TE LA TEST DRIVE ","linkURL": "\/SBE\/TestDrive?shopcode=AUTHORED","linkType": "tertiary","linkTarget": "_blank","omid": "tr"}],"social": {"facebook": "https://facebook.com","facebookPage": "fordromania"},"disclaimer": "Modelul prezentat este Noul C-MAX","seriesCode": "AUTHORED","uscCode": "AUTHORED","presId": "1205084295775","promos": [{"imagePath": "/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobwhere=1214493775450&blobkey=id","overlay": {"height":435, "width":780},"link": "/cs/ContentServer?pagename=RORO4_ENGINE/EP2/common/promo/M48_PromoBlock&c=Promo_C&cid=1205087873310","text": "Promotie de lansare"}],"idf": {"options":[]}}]} || {};
-        var retrieveUserOptions = JSON.parse( localStorage.getItem('userSelection')) || {};
+        var bootstrapVehicleData = {"vehicles": [
+            {"strIntroToFord": " Noul", "selector": {"bodystyles": {"options": [
+                {}
+            ]}, "exteriorImages": {"options": [
+                {}
+            ]}, "interiorImages": {"options": [
+                {}
+            ]}}, "brand": "Ford", "vehicleType": "PV", "catalogId": "NONE", "nameplate": "C-MAX", "labelAvailableFrom": "&nbsp;", "formattedCurrency": "", "nameplateText": "Cu un nou design reproiectat complet, Ford C-MAX cu 5 locuri \u015Fi Grand C-MAX cu 7 locuri reprezint\u0103 combina\u0163ia perfect\u0103 dintre inova\u0163ie, stil \u015Fi flexibilitate.", "imagePack": false, "hideVehicleImage": false, "facebookImagePath": "", "facebookAppId": "facebookAppId", "images": [], "billBoardImagePath": null, "backgroundImagePath": ["/assets/img/c_max/1214493076517.jpg", "null", "null"], "disclaimerTextColor": [null, null, null], "current": true, "cid": "1205084251905", "cta": [
+                {"linkTitle": "DESCARC\u0102 BRO\u015EUR\u0102 ", "linkURL": "\/SBE\/BrosuriSiPreturi", "linkType": "primary", "linkTarget": "_blank", "omid": "va"},
+                {"linkTitle": "\u00CENSCRIE-TE LA TEST DRIVE ", "linkURL": "\/SBE\/TestDrive\/TestDriveAutoturisme?shopcode=AUTHORED&derivcode=AUTHORED", "linkType": "tertiary", "linkTarget": "_blank", "omid": "tr"}
+            ], "social": {"facebook": "https://facebook.com", "facebookPage": "fordromania"}, "disclaimer": "Modelul prezentat este Noul C-MAX", "seriesCode": "AUTHORED", "uscCode": "AUTHORED", "presId": "1205084295775", "promos": [], "idf": {"options": []}}
+        ]} || {};
+        var retrieveUserOptions = JSON.parse(localStorage.getItem('userSelection')) || {};
         //FranciB: injecting and changing user selected angle image trigger by mid page tabs and on page reload.
         //In order to stop the flickering between the default image and selected angle image in the centre stage.
-        if(retrieveUserOptions.selectedImageAngle !== (null || "" || undefined)){
+        if (retrieveUserOptions.selectedImageAngle !== (null || "" || undefined)) {
             bootstrapVehicleData.vehicles[0].images = [retrieveUserOptions.selectedImageAngle];
         }
     </script>
     <div id="fb-root"></div>
+    <!-- commented for Release 1604 <section id="billboard" style="height:0;"></section> -->
     <section class="x-axis-wrapper" id="vvmWrapper">
         <div itemscope itemtype="http://schema.org/ImageObject">
             <ul class="nameplate x-axis" id="vvmRoot">
-                <li class="default-nameplate-vehicle" style="background-image:url(/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobheader=image%2Fjpg&blobwhere=1214493076517&blobkey=id)">
+                <li class="default-nameplate-vehicle"
+                    style="background-image:url(http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpg&amp;blobwhere=1214493076517&amp;blobkey=id)">
                     <div class="layered-nameplate-image">
                         <div class="image-holder">
                         </div>
                     </div>
-                    <aside class="nameplate-disclaimer style=color:#364957">
+                    <aside class="nameplate-disclaimer ">
                         Modelul prezentat este Noul C-MAX
                     </aside>
                 </li>
@@ -61,14 +79,17 @@
                 <!--the text description-->
                 <div class="name-plate-text">
                     <p class="intro"> Noul</p>
+
                     <h1 class="bigHeading">
-                        <span itemprop="model" itemscope itemtype="http://schema.org/Organization" class="mark">Ford</span>
-                        <span itemprop="member" class="nameplate boldTxt">C-MAX</span>
+                        <span data-selenium="XA_namePlate" itemprop="member" class="nameplate boldTxt">C-MAX</span>
+                        <span data-selenium="XA_model" itemprop="model" itemscope
+                              itemtype="http://schema.org/Organization" class="mark">Ford</span>
+                        <!--The price -->
                     </h1>
-                    <!--The price-->
-                    <!--The blurb-->
+                    <!--The blurb -->
                     <p class="blurb">
-                        Cu un nou design reproiectat complet, Ford C-MAX cu 5 locuri şi Grand C-MAX cu 7 locuri reprezintă combinaţia perfectă dintre inovaţie, stil şi flexibilitate.
+                        Cu un nou design reproiectat complet, Ford C-MAX cu 5 locuri şi Grand C-MAX cu 7 locuri
+                        reprezintă combinaţia perfectă dintre inovaţie, stil şi flexibilitate.
                     </p>
                 </div>
             </div>
@@ -82,16 +103,28 @@
                 <article class="slide"></article>
             </div>
         </div>
-        <!-- VIEW TEMPLATES -->
-        <script type="text/x-handlebars-template" id="vehicleTemplate">
-            {{#each vehicles}}
-            <li>
-                <div class="vehicle-background"
-                {{#if current}}
-                style="background:url({{backgroundImagePath.0.}})"
-                {{else}}data-deferred='{"type" :"background", "url" :"{{backgroundImagePath.0.}}"}'
-                {{/if}}
-                ></div>
+    </section>
+    <!-- bill board -->
+    <!-- commented for Release 1604
+    <script type="text/x-handlebars-template" id="billboardTemplate">
+    {{#each vehicles}}
+    {{#if current}}
+    <div style="background:url({{billBoardImagePath}}) no-repeat;"></div>
+    {{/if}}
+    {{/each}}
+    </script>
+    -->
+    <!-- VIEW TEMPLATES -->
+    <script type="text/x-handlebars-template" id="vehicleTemplate">
+        {{#each vehicles}}
+        <li>
+            <div class="vehicle-background"
+            {{#if current}}
+            style="background:url({{backgroundImagePath.0.}})"
+            {{else}}data-deferred='{"type" :"background", "url" :"{{backgroundImagePath.0.}}"}'
+            {{/if}}
+            >
+</div>
 {{#if imagePack}}
 <div class="imagePack">
 {{else}}
@@ -113,17 +146,21 @@
 <script type="text/x-handlebars-template" id="nameplateDetailsTemplate">
     <div class="name-plate-text">
         <p class="intro">{{{strIntroToFord}}}</p>
+
         <h1 class="bigHeading">
-            <span itemprop="model" itemscope itemtype="http://schema.org/Organization" class="mark">{{brand}}</span>
-            <span itemprop="member" class="nameplate boldTxt">{{nameplate}}</span>
+            <span itemprop="model" itemscope itemtype="http://schema.org/Organization" class="mark"
+                  data-selenium="XA_model">{{brand}}</span>
+            <span itemprop="member" class="nameplate boldTxt" data-selenium="XA_namePlate">{{nameplate}}</span>
         </h1>
         <!--The blurb-->
         <p class="blurb">{{nameplateText}}</p>
     </div>
 </script>
 <script type="text/x-handlebars-template" id="selectorTemplate">
-    <a href="{{#if link}}{{link}}{{else}}#{{/if}}" class="vehicle-selector box-shadow{{#if className}} {{className}}-wrapper{{/if}}">
-        <img src="{{#if options}}{{options.0.iconURL}} {{else}} {{#if iconURL}}{{iconURL}} {{else}}{{options.0.imagePath}}{{/if}} {{/if}}"/>
+    <a href="{{#if link}}{{link}}{{else}}#{{/if}}"
+       class="vehicle-selector box-shadow{{#if className}} {{className}}-wrapper{{/if}}">
+        <img
+            src="{{#if options}}{{options.0.iconURL}} {{else}} {{#if iconURL}}{{iconURL}} {{else}}{{options.0.imagePath}}{{/if}} {{/if}}"/>
         {{#if options.0.iconURL}}<span class="actionable-play"></span>{{/if}}
         {{#if options.length}}
         <div class="selector-options {{className}}">
@@ -140,9 +177,11 @@
                     <span class="actionable-play"></span>
                 </li>
                 {{else}}
-                <li tabindex="0" class="{{#if omid}}omv_pv_xd_st_{{omid}}{{/if}}{{#if selected}} selected{{/if}}" {{#if usc}}data-usc-code="{{this.usc}}{{/if}}" data-idx="{{this.idx}}">
+                <li tabindex="0" class="{{#if omid}}omv_pv_xd_st_{{omid}}{{/if}}{{#if selected}} selected{{/if}}"
+                {{#if usc}}data-usc-code="{{this.usc}}{{/if}}" data-idx="{{this.idx}}">
                 <img src="{{this.imagePath}}" alt="{{this.tooltipText}}"/>
-                <span class="tooltip"><span class="arrow left {{../tooltipPlacement}}"></span><span>{{this.tooltipText}}</span></span>
+                <span class="tooltip"><span
+                        class="arrow left {{../tooltipPlacement}}"></span><span>{{this.tooltipText}}</span></span>
                 <i></i>
                 </li>
                 {{/if}}
@@ -155,22 +194,25 @@
         {{/if}}
         <span class="actionable"></span>
         {{#if tooltipText}}
-        <span class="tooltip"><span>{{this.tooltipText}}</span><span class="arrow {{../tooltipPlacement}}"></span></span>
+        <span class="tooltip"><span>{{this.tooltipText}}</span><span
+                class="arrow {{../tooltipPlacement}}"></span></span>
         {{/if}}
     </a>
 </script>
 <script type="text/x-handlebars-template" id="ctaTemplate">
     {{#each this}}
     {{#ifCond linkType '==' 'primary'}}
-    <div class="btnLink box-shadow">
+    <div data-selenium="conf_vehicle_XA" class="btnLink box-shadow">
         {{/ifCond}}
         {{#ifCond linkType '==' 'secondary'}}
-        <div class="btnLink light box-shadow">
+        <div data-selenium="all_models_XA" class="btnLink light box-shadow">
             {{/ifCond}}
             {{#ifCond linkType '==' 'tertiary'}}
             <div class="link-wrapper slate">
                 {{/ifCond}}
-                <a href="{{linkURL}}" class="{{#ifCond linkType '==' 'tertiary'}}tertiary-link {{/ifCond}}om_pv_xd_{{omid}}" {{#ifCond linkTarget '!=' ''}}target="{{linkTarget}}"{{/ifCond}}>{{linkTitle}}</a>
+                <a href="{{linkURL}}"
+                   class="{{#ifCond linkType '==' 'tertiary'}}tertiary-link {{/ifCond}}om_pv_xd_{{omid}}" {{#ifCond
+                linkTarget '!=' ''}}target="{{linkTarget}}"{{/ifCond}}>{{linkTitle}}</a>
             </div>
             {{/each}}
 </script>
@@ -185,6 +227,7 @@
 <span class="{{#if overlay}}overlay-icon{{else}}link-icon{{/if}}"></span>
 </span>
         <img src="{{imagePath}}"/>
+
         <p class=" promo-carousel-text">{{text}}</p>
         </a>
     </article>
@@ -194,7 +237,7 @@
     {{#each options}}
     <article class="slate slide">
         {{#each images}}
-        <img src="{{this}}" alt="{{../tooltipText}}" />
+        <img src="{{this}}" alt="{{../tooltipText}}"/>
         {{/each}}
     </article>
     {{/each}}
@@ -202,71 +245,61 @@
 <script type="text/x-handlebars-template" id="vehicleRolloverTemplate">
     {{#each rollovers}}
     <figure class="vehicle-preview-rollover {{className}}">
-        <img src="{{hoverThumbnail}}" alt="{{nameplate}}." />
+        <img src="{{hoverThumbnail}}" alt="{{nameplate}}."/>
         <span class="nameplate boldTxt">{{nameplate}}</span>
+
         <p><span class="price-label">{{{labelAvailableFrom}}}</span>
             <span itemprop="price" class="price">{{{formattedCurrency}}}</span></p>
     </figure>
     {{/each}}
 </script>
-</section>
 <aside class="fb-xaxis-icon">
-    <div class="fb-like" data-href="http://www.facebook.com/fordromania" data-send="false" data-layout="button_count" data-width="450" data-show-faces="true" data-font="tahoma"></div>
+    <div class="fb-like" data-href="http://www.facebook.com/fordromania" data-send="false" data-layout="button_count"
+         data-width="450" data-show-faces="true" data-font="tahoma"></div>
 </aside>
 <p id="xaxisOverviewDisclaimer" class="disclaimer specific"></p>
-<section id="promoCarousel" class="promo-carousel box-shadow">
-    <div id="promo-carousel-timer">7500</div>
-    <div class="slide-wrapper">
-        <article class="slate slide">
-            <a class="js-overlay om_pv_ppci_1234" data-media-overlay='{"height":439, "width":780}' href='/cs/ContentServer?pagename=RORO4_ENGINE/EP2/common/promo/M48_PromoBlock&amp;c=Promo_C&amp;cid=1205087873310'>
-<span class="active-promo-rover">
-<span class="bg-opacity"></span>
-<span class="overlay-icon"></span>
-</span>
-                <img src="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpg&amp;blobwhere=1214493775450&amp;blobkey=id" alt="Promotie de pre-lansare">
-                <p class="promo-carousel-text"><span class="promo-carousel-bold">Promotie de lansare</span></p></a>
-        </article>
-    </div>
-</section>
-<section id="non-js-promoCarousel" class="non-js-promo-carousel box-shadow">
-    <div class="slide-wrapper">
-        <p class="promo-carousel-text"><a href="/cs/ContentServer?pagename=RORO4_ENGINE/EP2/common/promo/M48_PromoBlock&amp;c=Promo_C&amp;cid=Promotie de lansare" target="_blank">Promotie de pre-lansare</a></p>
-    </div>
-</section>
-<script type="text/javascript"> var nameplateTabErrorMsg = 'Ne pare r&#259;u, momentan nu putem s&#259; &icirc;nc&#259;rc&#259;m con&#539;inutul pe care l-a&#539;i solicitat. &Icirc;ncerca&#539;i din nou, mai t&acirc;rziu.'; </script>
-<section id="primary-tab-content" class="nameplate-tab-content" data-dynamic-tabcontent="true" data-siteterm-backtotop="Back To Top !!!">
+<!-- Promos -->
+<!-- Tabs -->
+<script
+    type="text/javascript"> var nameplateTabErrorMsg = 'Ne pare r&#259;u, momentan nu putem s&#259; &icirc;nc&#259;rc&#259;m con&#539;inutul pe care l-a&#539;i solicitat. &Icirc;ncerca&#539;i din nou, mai t&acirc;rziu.'; </script>
+<!-- Addthis Replacement : Start -->
+<!-- SocialShare END -->
+<script type="text/javascript">
+    var bootstrapsocialshare = {"shareBtn": {"googleplus": {"url": "https:\/\/plus.google.com\/share", "id": ""}, "facebook": {"url": "https:\/\/www.facebook.com\/sharer\/sharer.php", "id": "619904354830748"}, "email": "{}", "twitter": {"url": "https:\/\/twitter.com\/share", "id": ""}}, "emailSubject": "Un model Ford care poate te intereseaza", "subline": "Distribuie prietenilor t&#259;i!", "enable": true, "items": ["facebook", "twitter", "googleplus", "email"], "emailBodyContent": "Salut, ma uitam pe ford.ro si m-am gandit ca, in mod sigur, ti-ar placea acest model: \r\n\r\n\r\n", "headline": "Ai nevoie de o a doua opinie?"};
+</script>
+<!-- Addthis Replacement : End -->
+<section id="primary-tab-content" class="nameplate-tab-content" data-dynamic-tabcontent="true"
+         data-siteterm-backtotop="Back To Top !!!">
     <div class="tab-wrapper">
         <nav class="tabs" id="primaryTabs">
             <ul>
                 <!--  isBtfTab true -->
                 <!--  tabUrl /cs/ContentServer?cid=1205084251905&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE -->
-                <li><a href="/Autoturisme/NoulC-MAX/Info#primaryTabs" class=" "  data-ajaxlink="/cs/ContentServer?cid=1205084251905&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE">Descopera noul C-MAX</a>
-                    <!-- secondary tabs -->
-                    <!--  midPageTabId : 1205087696360 -->
-                </li>
-                <!--  isBtfTab  -->
-                <!--  tabUrl /cs/ContentServer?cid=1205084251905&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205084251895&amp;tabName=Prezentare&amp;c=Page&amp;site=RORO4_ENGINE -->
-                <li><a href="/Autoturisme/NoulC-MAX/Prezentare#primaryTabs" class=" "  data-ajaxlink="/cs/ContentServer?cid=1205084251905&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205084251895&amp;tabName=Prezentare&amp;c=Page&amp;site=RORO4_ENGINE">Prezentare</a>
+                <li><a href="/Autoturisme/NoulC-MAX" class=" "
+                       data-ajaxlink="/cs/ContentServer?cid=1205084251905&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE">Prezentare</a>
                     <!-- secondary tabs -->
                     <!--  midPageTabId : 1205084252043 -->
                 </li>
                 <!--  isBtfTab  -->
                 <!--  tabUrl /cs/ContentServer?cid=1205084251905&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205087862858&amp;tabName=PreturiSiPromotii&amp;c=Page&amp;site=RORO4_ENGINE -->
-                <li><a href="/Autoturisme/NoulC-MAX/PreturiSiPromotii#primaryTabs" class=" "  data-ajaxlink="/cs/ContentServer?cid=1205084251905&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205087862858&amp;tabName=PreturiSiPromotii&amp;c=Page&amp;site=RORO4_ENGINE">Preturi si promotii</a>
+                <li><a href="PreturiSiPromotii#primaryTabs" class=" "
+                       data-ajaxlink="/cs/ContentServer?cid=1205084251905&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205087862858&amp;tabName=PreturiSiPromotii&amp;c=Page&amp;site=RORO4_ENGINE">Preturi
+                        si promotii</a>
                     <!-- secondary tabs -->
                     <!--  midPageTabId : 1205087862917 -->
                 </li>
                 <!--  isBtfTab  -->
                 <!--  tabUrl /cs/ContentServer?cid=1205084251905&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205084252407&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE -->
                 <!-- IntoID ::: articleAssetId -->
-                <li class="selected"><a href="/Autoturisme/NoulC-MAX/Design#primaryTabs" data-ajaxlink="/cs/ContentServer?cid=1205084251905&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205084252407&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE">Design</a>
+                <li class="selected"><a href="Design#primaryTabs"
+                                        data-ajaxlink="/cs/ContentServer?cid=1205084251905&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205084252407&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE">Design</a>
                     <!--This is where the main content for the selected tab will go -->
                     <!-- secondary tabs -->
                     <div class="secondary-tabs tab-content">
                         <nav class="sub-nav">
                             <ul>
-                                <li><a href='#tab1' class='omt_'>Exterior</a></li>
-                                <li><a href='#tab2' class='omt_'>Interior</a></li>
+                                <li><a href='#tab1' class='omt_tabName'>Exterior</a></li>
+                                <li><a href='#tab2' class='omt_tabName'>Interior</a></li>
                             </ul>
                         </nav>
                         <!-- isBtfTab : from MidPageTabs true -->
@@ -278,50 +311,86 @@
                                         CALATORESTE FARA EFORT
                                     </h1>
                                     <span class="highlighter"></span>
+
                                     <p class="intro-text">
-                                    <p>Optimizata, sport, sofisticata: probabil nu chiar cuvintele pe care le-ai asocia de obicei cu o masina de familie, insa noile C-MAX si  Grand C-MAX sunt concepute pentru a fi diferite.<br> <br> Flexibilitatea, utilitatea si eficienta nu au aratat niciodata atat de bine.</p>
+
+                                    <p>Optimizata, sport, sofisticata: probabil nu chiar cuvintele pe care le-ai asocia
+                                        de obicei cu o masina de familie, insa noile C-MAX si Grand C-MAX sunt concepute
+                                        pentru a fi diferite.<br> <br> Flexibilitatea, utilitatea si eficienta nu au
+                                        aratat niciodata atat de bine.</p>
                                     </p>
                                 </header>
                                 <article class='three-column'>
                                     <div class="content-block">
-                                        <a href="/cs/ContentServer?cid=1205084251376&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE" class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img src="/assets/img/c_max/1214492897658.jpg" alt="Stil ultramodern si tehnologie performanta intr-o masina de familie fara compromisuri." /><span class="fv-overlay-icon"></span></a>
+                                       <img
+                                                src="/assets/img/c_max/1214492897658.jpg"
+                                                alt="Stil ultramodern si tehnologie performanta intr-o masina de familie fara compromisuri."/><span
+                                                class="fv-overlay-icon"></span>
+
                                         <h3 class="bigHeading02">
                                         </h3>
+
                                         <p>
+
                                         <p>Exteriorul noului C-MAX</p>
                                         </p>
                                     </div>
                                     <div class="content-block">
-                                        <a href="/cs/ContentServer?cid=1205084253696&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE" class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img src="/assets/img/c_max/1214493076182.jpg" alt="Stilul ultramodern intalneste tehnologia de ultima ora intr-o masina de familie fara compromisuri." /><span class="fv-overlay-icon"></span></a>
+                                        <img
+                                                src="/assets/img/c_max/1214493076182.jpg"
+                                                alt="Stilul ultramodern intalneste tehnologia de ultima ora intr-o masina de familie fara compromisuri."/><span
+                                                class="fv-overlay-icon"></span>
+
                                         <h3 class="bigHeading02">
                                         </h3>
+
                                         <p>
+
                                         <p>Exteriorul noului C-MAX</p>
                                         </p>
                                     </div>
                                     <div class="content-block last">
-                                        <a href="/cs/ContentServer?cid=1205084252272&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE" class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img src="/assets/img/c_max/1214493075747.jpg" alt="Stilul ultramodern intalneste tehnologia de ultima ora intr-o masina de familie fara compromisuri." /><span class="fv-overlay-icon"></span></a>
+                                        <a href="/cs/ContentServer?cid=1205084252272&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
+                                           class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+                                                src="/assets/img/c_max/1214493075747.jpg"
+                                                alt="Stilul ultramodern intalneste tehnologia de ultima ora intr-o masina de familie fara compromisuri."/><span
+                                                class="fv-overlay-icon"></span></a>
+
                                         <h3 class="bigHeading02">
                                         </h3>
+
                                         <p>
+
                                         <p>Exteriorul noului C-MAX</p>
                                         </p>
                                     </div>
                                 </article>
                                 <article class='three-column'>
                                     <div class="content-block">
-                                        <a href="/cs/ContentServer?cid=1205084254041&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE" class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img src="/assets/img/c_max/1214493076443.jpg" alt="Stilul ultramodern intalneste tehnologia de ultima ora intr-o masina de familie fara compromisuri." /><span class="fv-overlay-icon"></span></a>
+                                        <img
+                                                src="/assets/img/c_max/1214493076443.jpg"
+                                                alt="Stilul ultramodern intalneste tehnologia de ultima ora intr-o masina de familie fara compromisuri."/><span
+                                                class="fv-overlay-icon"></span>
+
                                         <h3 class="bigHeading02">
                                         </h3>
+
                                         <p>
+
                                         <p>Exteriorul noului Grand C-MAX</p>
                                         </p>
                                     </div>
                                     <div class="content-block">
-                                        <a href="/cs/ContentServer?cid=1205084251539&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE" class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img src="/assets/img/c_max/1214493075486.jpg" alt="Stil ultramodern si tehnologie performanta intr-o masina de familie fara compromisuri." /><span class="fv-overlay-icon"></span></a>
+                                       <img
+                                                src="/assets/img/c_max/1214493075486.jpg"
+                                                alt="Stil ultramodern si tehnologie performanta intr-o masina de familie fara compromisuri."/><span
+                                                class="fv-overlay-icon"></span>
+
                                         <h3 class="bigHeading02">
                                         </h3>
+
                                         <p>
+
                                         <p>Exteriorul noului Grand&nbsp; C-MAX</p>
                                         </p>
                                     </div>
@@ -334,24 +403,43 @@
                                         IA LOC SI…RELAXEAZA-TE
                                     </h1>
                                     <span class="highlighter"></span>
+
                                     <p class="intro-text">
-                                    <p>Loc deasupra capului, la nivelul picioarelor si al coatelor. Beneficiezi de spatiu din abundenta in interiorul unui C-MAX sau al unui Grand C-MAX. Exista, de asemenea, spatiu suficient pentru toate lucrurile de care ai nevoie in calatoriile tale.<br> <br> Asa ca, ia loc si bucura-te de calatoria intr-o cabina sofisticata, eleganta si bine dotata, care iti pune la indemana in mod intuitiv caracteristici utile si tehnologii remarcabile.</p>
+
+                                    <p>Loc deasupra capului, la nivelul picioarelor si al coatelor. Beneficiezi de
+                                        spatiu din abundenta in interiorul unui C-MAX sau al unui Grand C-MAX. Exista,
+                                        de asemenea, spatiu suficient pentru toate lucrurile de care ai nevoie in
+                                        calatoriile tale.<br> <br> Asa ca, ia loc si bucura-te de calatoria intr-o
+                                        cabina sofisticata, eleganta si bine dotata, care iti pune la indemana in mod
+                                        intuitiv caracteristici utile si tehnologii remarcabile.</p>
                                     </p>
                                 </header>
                                 <article class='three-column'>
                                     <div class="content-block">
-                                        <a href="/cs/ContentServer?cid=1205084251916&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE" class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img src="/assets/img/c_max/1214493075573.jpg" alt="O cabina spatioasa, confortabila si aerisita." /><span class="fv-overlay-icon"></span></a>
+                                        <img
+                                                src="/assets/img/c_max/1214493075573.jpg"
+                                                alt="O cabina spatioasa, confortabila si aerisita."/><span
+                                                class="fv-overlay-icon"></span>
+
                                         <h3 class="bigHeading02">
                                         </h3>
+
                                         <p>
+
                                         <p>Interiorul noului C-MAX</p>
                                         </p>
                                     </div>
                                     <div class="content-block">
-                                        <a href="/cs/ContentServer?cid=1205084252699&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE" class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img src="/assets/img/c_max/1214493076008.jpg" alt="O cabina spatioasa, confortabila si aerisita." /><span class="fv-overlay-icon"></span></a>
+                                       <img
+                                                src="/assets/img/c_max/1214493076008.jpg"
+                                                alt="O cabina spatioasa, confortabila si aerisita."/><span
+                                                class="fv-overlay-icon"></span>
+
                                         <h3 class="bigHeading02">
                                         </h3>
+
                                         <p>
+
                                         <p>Interiorul noului C-MAX</p>
                                         </p>
                                     </div>
@@ -389,7 +477,8 @@
                 </li>
                 <!--  isBtfTab  -->
                 <!--  tabUrl /cs/ContentServer?cid=1205084251905&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205084251715&amp;tabName=Caracteristici&amp;c=Page&amp;site=RORO4_ENGINE -->
-                <li><a href="/Autoturisme/NoulC-MAX/Caracteristici#primaryTabs" class=" "  data-ajaxlink="/cs/ContentServer?cid=1205084251905&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205084251715&amp;tabName=Caracteristici&amp;c=Page&amp;site=RORO4_ENGINE">Caracteristici</a>
+                <li><a href="Caracteristici#primaryTabs" class=" "
+                       data-ajaxlink="/cs/ContentServer?cid=1205084251905&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205084251715&amp;tabName=Caracteristici&amp;c=Page&amp;site=RORO4_ENGINE">Caracteristici</a>
                     <!-- secondary tabs -->
                     <!--  midPageTabId : 1205084252383 -->
                 </li>
@@ -398,7 +487,19 @@
     </div>
     <article class="nameplate-main-content" id="tabs">
     </article>
+    <!-- Bredcrumb Schema implementation for Primary Tabs-->
+    <nav class="breadCrumb" role="navigation" style="display: none">
+        <ul itemscope itemtype="http://schema.org/BreadcrumbList">
+        </ul>
+    </nav>
+    <script class="script.EP2_Tab_Bootstrap">
+        var __links = document.querySelectorAll('.omt_tabName'), i;
+        for (i = 0; i < __links.length; ++i) {
+            __links[i].onclick = function (e) {
+                TK.broadcast(document.body, "pageload", {tabName: e.currentTarget.innerText.toLowerCase()});
+            }
+        }
+    </script>
 </section>
-<!-- nosc comp -->
-
+<script id="TagIT.load"></script>
 </div>

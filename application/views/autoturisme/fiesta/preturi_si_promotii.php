@@ -1,5 +1,4 @@
 
-<!--<END_EP2_HEADER >-->
 <script type="text/javascript">
     // mobile sniffer
     ForceRedirectUserAgents = 'android,iphone,blackberry';
@@ -11,9 +10,9 @@
 <div id="xAxis-detailed">
     <nav class="breadCrumb visuallyhidden" role="navigation">
         <ul itemprop="breadcrumb">
-            <li class="home"><a href="../../index" data-selenium="breadcrumb_home" class="om_bc_li"
+            <li class="home"><a href="#" data-selenium="breadcrumb_home" class="om_bc_li"
                                 title="Pagina principal&#259;">Pagina principal&#259;</a><span></span></li>
-            <li data-selenium="breadcrumb_cars"><a href="../../Autoturisme" class="om_bc_li">
+            <li data-selenium="breadcrumb_cars"><a href="#" class="om_bc_li">
                     Autoturisme
                 </a><span></span></li>
             <li data-selenium="breadcrumb_nameplate">Fiesta</li>
@@ -45,37 +44,37 @@
             {"strIntroToFord": " ", "selector": {"bodystyles": {"options": [
                 {"imagePath": "/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobwhere=1214476782872&blobkey=id", "tooltipText": "3 usi", "usc": "R83", "omid": "bR83", "availableColors": {"options": [
                     {"imagePath": "//www.fordeumedia-f.ford.com/nas/gforcenaslive/colourchip/blazerblue.jpg", "tooltipText": "Blazer Blue", "usc": "9NJ", "omid": "c9NJ"},
-                    {"imagePath": "//www.fordeumedia-a.ford.com/nas/gforcenaslive/colourchip/frozenwhite.jpg", "tooltipText": "Frozen White", "usc": "9NH", "omid": "c9NH"},
-                    {"imagePath": "//www.fordeumedia-c.ford.com/nas/gforcenaslive/colourchip/racered.jpg", "tooltipText": "Race Red", "usc": "9NM", "omid": "c9NM"},
-                    {"imagePath": "//www.fordeumedia-f.ford.com/nas/gforcenaslive/colourchip/pantherblack.jpg", "tooltipText": "Panther Black (Metalizata)", "usc": "9NA", "omid": "c9NA"},
-                    {"imagePath": "//www.fordeumedia-b.ford.com/nas/gforcenaslive/colourchip/moondustsilver.jpg", "tooltipText": "Moondust Silver (Metalizata)", "usc": "9NF", "omid": "c9NF"},
-                    {"imagePath": "//www.fordeumedia-e.ford.com/nas/gforcenaslive/colourchip/hotmustard.jpg", "tooltipText": "Mustard Olive (Metalizata)", "usc": "9NG", "omid": "c9NG"},
-                    {"imagePath": "//www.fordeumedia-a.ford.com/nas/gforcenaslive/colourchip/copperpulse.jpg", "tooltipText": "Copper Pulse (Metalizata)", "usc": "9NP", "omid": "c9NP"},
+                    {"imagePath": "//www.fordeumedia-d.ford.com/nas/gforcenaslive/colourchip/frozenwhite.jpg", "tooltipText": "Frozen White", "usc": "9NH", "omid": "c9NH"},
+                    {"imagePath": "//www.fordeumedia-d.ford.com/nas/gforcenaslive/colourchip/racered.jpg", "tooltipText": "Race Red", "usc": "9NM", "omid": "c9NM"},
+                    {"imagePath": "//www.fordeumedia-c.ford.com/nas/gforcenaslive/colourchip/pantherblack.jpg", "tooltipText": "Panther Black (Metalizata)", "usc": "9NA", "omid": "c9NA"},
+                    {"imagePath": "//www.fordeumedia-f.ford.com/nas/gforcenaslive/colourchip/moondustsilver.jpg", "tooltipText": "Moondust Silver (Metalizata)", "usc": "9NF", "omid": "c9NF"},
+                    {"imagePath": "//www.fordeumedia-d.ford.com/nas/gforcenaslive/colourchip/hotmustard.jpg", "tooltipText": "Mustard Olive (Metalizata)", "usc": "9NG", "omid": "c9NG"},
+                    {"imagePath": "//www.fordeumedia-c.ford.com/nas/gforcenaslive/colourchip/copperpulse.jpg", "tooltipText": "Copper Pulse (Metalizata)", "usc": "9NP", "omid": "c9NP"},
                     {"imagePath": "//www.fordeumedia-a.ford.com/nas/gforcenaslive/colourchip/deepimpactblue.jpg", "tooltipText": "Deep Impact Blue (Metalizata)", "usc": "9NQ", "omid": "c9NQ"},
-                    {"imagePath": "//www.fordeumedia-b.ford.com/nas/gforcenaslive/colourchip/candyblue.jpg", "tooltipText": "Candy Blue (Metalizata)", "usc": "9ND", "omid": "c9ND"}
+                    {"imagePath": "//www.fordeumedia-a.ford.com/nas/gforcenaslive/colourchip/candyblue.jpg", "tooltipText": "Candy Blue (Metalizata)", "usc": "9ND", "omid": "c9ND"}
                 ]}},
                 {"imagePath": "/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobwhere=1214476782886&blobkey=id", "tooltipText": "5 usi", "usc": "R85", "omid": "bR85", "availableColors": {"options": [
-                    {"imagePath": "//www.fordeumedia-a.ford.com/nas/gforcenaslive/colourchip/blazerblue.jpg", "tooltipText": "Blazer Blue", "usc": "9NJ", "omid": "c9NJ"},
+                    {"imagePath": "//www.fordeumedia-f.ford.com/nas/gforcenaslive/colourchip/blazerblue.jpg", "tooltipText": "Blazer Blue", "usc": "9NJ", "omid": "c9NJ"},
                     {"imagePath": "//www.fordeumedia-e.ford.com/nas/gforcenaslive/colourchip/frozenwhite.jpg", "tooltipText": "Frozen White", "usc": "9NH", "omid": "c9NH"},
-                    {"imagePath": "//www.fordeumedia-e.ford.com/nas/gforcenaslive/colourchip/racered.jpg", "tooltipText": "Race Red", "usc": "9NM", "omid": "c9NM"},
+                    {"imagePath": "//www.fordeumedia-f.ford.com/nas/gforcenaslive/colourchip/racered.jpg", "tooltipText": "Race Red", "usc": "9NM", "omid": "c9NM"},
                     {"imagePath": "//www.fordeumedia-f.ford.com/nas/gforcenaslive/colourchip/pantherblack.jpg", "tooltipText": "Panther Black (Metalizata)", "usc": "9NA", "omid": "c9NA"},
                     {"imagePath": "//www.fordeumedia-c.ford.com/nas/gforcenaslive/colourchip/moondustsilver.jpg", "tooltipText": "Moondust Silver (Metalizata)", "usc": "9NF", "omid": "c9NF"},
-                    {"imagePath": "//www.fordeumedia-f.ford.com/nas/gforcenaslive/colourchip/hotmustard.jpg", "tooltipText": "Mustard Olive (Metalizata)", "usc": "9NG", "omid": "c9NG"},
+                    {"imagePath": "//www.fordeumedia-d.ford.com/nas/gforcenaslive/colourchip/hotmustard.jpg", "tooltipText": "Mustard Olive (Metalizata)", "usc": "9NG", "omid": "c9NG"},
                     {"imagePath": "//www.fordeumedia-b.ford.com/nas/gforcenaslive/colourchip/copperpulse.jpg", "tooltipText": "Copper Pulse (Metalizata)", "usc": "9NP", "omid": "c9NP"},
-                    {"imagePath": "//www.fordeumedia-f.ford.com/nas/gforcenaslive/colourchip/deepimpactblue.jpg", "tooltipText": "Deep Impact Blue (Metalizata)", "usc": "9NQ", "omid": "c9NQ"},
-                    {"imagePath": "//www.fordeumedia-c.ford.com/nas/gforcenaslive/colourchip/candyblue.jpg", "tooltipText": "Candy Blue (Metalizata)", "usc": "9ND", "omid": "c9ND"}
+                    {"imagePath": "//www.fordeumedia-a.ford.com/nas/gforcenaslive/colourchip/deepimpactblue.jpg", "tooltipText": "Deep Impact Blue (Metalizata)", "usc": "9NQ", "omid": "c9NQ"},
+                    {"imagePath": "//www.fordeumedia-d.ford.com/nas/gforcenaslive/colourchip/candyblue.jpg", "tooltipText": "Candy Blue (Metalizata)", "usc": "9ND", "omid": "c9ND"}
                 ]}}
             ]}, "exteriorImages": {"options": [
                 {}
             ]}, "interiorImages": {"options": [
                 {}
-            ]}}, "brand": "Ford", "vehicleType": "PV", "catalogId": "11414", "nameplate": "Fiesta", "labelAvailableFrom": "De la", "formattedCurrency": "RON13,550", "nameplateText": "Asemenea unui smartphone nou-nou\u0163, Ford Fiesta \u00EEmbin\u0103 stilul contemporan cu tehnologia de v\u00E2rf.", "imagePack": true, "hideVehicleImage": false, "facebookImagePath": "/cs/Storage/EP2COM_ENGInE/_vip/1205059875759/00C_YYQ/8W5/9NJ/R83/1/0/FiestaTitBlazerBlueLHD3dr_Front_00001.jpg", "facebookAppId": "facebookAppId", "images": ["/cs/Storage/EP2COM_ENGInE/_vip/1205059875759/00C_YYQ/8W5/9NJ/R83/1/0/FiestaTitBlazerBlueLHD3dr_Front_00001.jpg"], "billBoardImagePath": null, "backgroundImagePath": ["null", "null", "null"], "disclaimerTextColor": [null, null, null], "current": true, "cid": "1205119060175", "cta": [
+            ]}}, "brand": "Ford", "vehicleType": "PV", "catalogId": "11414", "nameplate": "Fiesta", "labelAvailableFrom": "De la", "formattedCurrency": "RON13,550", "nameplateText": "Asemenea unui smartphone nou-nou\u0163, Ford Fiesta \u00EEmbin\u0103 stilul contemporan cu tehnologia de v\u00E2rf.", "imagePack": true, "hideVehicleImage": false, "facebookImagePath": "/cs/Storage/EP2COM_ENGInE/_vip/1205059875759/00C_YYQ/8W5/9NJ/R83/1/0/FiestaTitBlazerBlueLHD3dr_Front_00001.jpg", "facebookAppId": "facebookAppId", "images": ["/assets/img/fiesta/FiestaTitBlazerBlueLHD3dr_Front_00001.jpg"], "billBoardImagePath": null, "backgroundImagePath": ["null", "null", "null"], "disclaimerTextColor": [null, null, null], "current": true, "cid": "1205119060175", "cta": [
                 {"linkTitle": "MODELE Fiesta", "linkURL": "/Autoturisme/Fiesta/Modele", "linkType": "primary", "linkTarget": "", "omid": "va"},
                 {"linkTitle": "DESCARC\u0102 BRO\u015EUR\u0102 ", "linkURL": "\/SBE\/BrosuriSiPreturi", "linkType": "tertiary", "linkTarget": "_blank", "omid": "tr"},
                 {"linkTitle": "\u00CENSCRIE-TE LA TEST DRIVE ", "linkURL": "\/SBE\/TestDrive\/TestDriveAutoturisme?shopcode=00C&derivcode=8W5", "linkType": "tertiary", "linkTarget": "_blank", "omid": "tr"},
                 {"linkTitle": "VREAU SĂ FIU INFORMAT(Ă) ", "linkURL": "/SBE/VreauSaFiuInformata", "linkType": "tertiary", "linkTarget": "", "omid": "tr"}
             ], "social": {"facebook": "https://facebook.com", "facebookPage": "fordromania"}, "disclaimer": "Modelul prezentat este un Fiesta Titanium. Imagine cu titlul de prezentare.", "seriesCode": "8W5", "uscCode": "00C", "supportSelector": "true", "supportSeries": "true", "presId": "1205035170415", "promos": [
-                {"imagePath": "/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobwhere=1214553887403&blobkey=id", "overlay": false, "link": "/cs/ContentServer?pagename=RORO4_ENGINE/EP2/common/promo/M48_PromoBlock&c=Promo_C&cid=1205113209680", "text": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vezi detaliile ofertei"}
+                {"imagePath": "/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobwhere=1214564411460&blobkey=id", "overlay": false, "link": "/cs/ContentServer?pagename=RORO4_ENGINE/EP2/common/promo/M48_PromoBlock&c=Promo_C&cid=1205113209680", "text": "Vezi detaliile ofertei"}
             ], "idf": {"options": [
                 {"dataOverlay": {"mediaType": "Flash", "height": "439", "width": "780"}, "iconURL": "/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobheader=image%2Fjpg&blobwhere=1214480084185&blobkey=id", "link": "/cs/ContentServer?cid=1205028944450&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Flash_C&amp;site=RORO4_ENGINE", "videoSrc": [
                     {"src1": ""},
@@ -139,14 +138,14 @@
     </section>
     <!-- bill board -->
     <!-- commented for Release 1604
-    <script type="text/x-handlebars-template" id="billboardTemplate">
-    {{#each vehicles}}
-    {{#if current}}
-    <div style="background:url({{billBoardImagePath}}) no-repeat;"></div>
-    {{/if}}
-    {{/each}}
-    </script>
-    -->
+<script type="text/x-handlebars-template" id="billboardTemplate">
+{{#each vehicles}}
+{{#if current}}
+<div style="background:url({{billBoardImagePath}}) no-repeat;"></div>
+{{/if}}
+{{/each}}
+</script>
+-->
     <!-- VIEW TEMPLATES -->
     <script type="text/x-handlebars-template" id="vehicleTemplate">
         {{#each vehicles}}
@@ -296,24 +295,23 @@
     <div id="promo-carousel-timer">7500</div>
     <div class="slide-wrapper">
         <article class="slate slide">
-            <a href='../../Promotii/Autoturisme/Rabla/OfertaFiesta'>
+            <a href='http://www.ford.ro/Promotii/Autoturisme/Ecobonus/OfertaFiesta'>
 <span class="active-promo-rover">
 <span class="bg-opacity"></span>
 <span class="link-icon"></span>
 </span>
                 <img
-                    src="../../cs/BlobServer8329?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpg&amp;blobwhere=1214553887403&amp;blobkey=id"
+                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpg&amp;blobwhere=1214564411460&amp;blobkey=id"
                     alt="Ford Fiesta">
 
-                <p class="promo-carousel-text"><span class="promo-carousel-bold">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vezi detaliile ofertei</span>
-                </p></a>
+                <p class="promo-carousel-text"><span class="promo-carousel-bold">Vezi detaliile ofertei</span></p></a>
         </article>
     </div>
 </section>
 <section id="non-js-promoCarousel" class="non-js-promo-carousel box-shadow">
     <div class="slide-wrapper">
         <p class="promo-carousel-text"><a
-                href="../../index?pagename=RORO4_ENGINE/EP2/common/promo/M48_PromoBlock&amp;c=Promo_C&amp;cid=%20%20%20%20%20%20Vezi%20detaliile%20ofertei"
+                href="http://www.ford.ro/cs/ContentServer?pagename=RORO4_ENGINE/EP2/common/promo/M48_PromoBlock&amp;c=Promo_C&amp;cid=Vezi%20detaliile%20ofertei"
                 target="_blank">Ford Fiesta</a></p>
     </div>
 </section>
@@ -329,7 +327,7 @@
             <ul>
                 <!--  isBtfTab true -->
                 <!--  tabUrl /cs/ContentServer?cid=1205119060175&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE -->
-                <li><a href="Prezentare-Generala#primaryTabs" class=" "
+                <li><a href="/Autoturisme/Fiesta" class=" "
                        data-ajaxlink="/cs/ContentServer?cid=1205119060175&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE">PREZENTARE
                         GENERALA</a>
                     <!-- secondary tabs -->
@@ -370,16 +368,16 @@
                             <div id='tab1' class="secondary-tab-content">
                                 <header class="intro-header">
                                     <h1 class="bigHeading">
-                                        Oferte speciale prin programul rabla!
+                                        Oferta speciala prin programul Ecobonus
                                     </h1>
                                     <span class="highlighter"></span>
 
                                     <p class="intro-text">
 
-                                    <p>Schimba-ti masina veche cu modelul Ford care se potriveste stilului tau de
-                                        viata &ndash; acum ai preturi speciale pentru achizitia prin programul
-                                        rabla.<br> <br> <u><a HREF="../../Promotii/Autoturisme/Rabla/OfertaFiesta">Click
-                                                Aici</a></u></p>
+                                    <p>Beneficiezi de un bonus de 1.500&nbsp;&euro;, la casarea masinii vechi, si ajungi
+                                        sa ai un avantaj client de 3.750&nbsp;&euro;. <br> <br> Afla mai multe <u><a
+                                                HREF="/Promotii/Autoturisme/Ecobonus/OfertaFiesta">aici</a></u>.
+                                    </p>
                                     </p>
                                 </header>
                             </div>
@@ -394,7 +392,7 @@
                                     <p class="intro-text">
 
                                     <p><a TITLE="Listă de preturi Ford Fiesta (833 KB)"
-                                          HREF="../../cs/Lista_de_preturi_Ford_Fiestaf414.pdf?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheadervalue1=attachment%3Bfilename%3D%22Lista_de_preturi_Ford_Fiesta.pdf%22&amp;blobheadervalue2=abinary%3Bcharset%3DUTF-8&amp;blobheadername1=Content-Disposition&amp;blobheadername2=MDT-Type&amp;blobheader=application%2Fpdf&amp;blobwhere=1214563237966&amp;blobkey=id"
+                                          HREF="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheadervalue1=attachment%3Bfilename%3D%22Lista_de_preturi_Ford_Fiesta.pdf%22&amp;blobheadervalue2=abinary%3Bcharset%3DUTF-8&amp;blobheadername1=Content-Disposition&amp;blobheadername2=MDT-Type&amp;blobheader=application%2Fpdf&amp;blobwhere=1214563237966&amp;blobkey=id"
                                           CLASS="download"
                                           onClick="if (typeof sford == 'object') omnitureLinkDownloadClick('brand:pricelist download:vehicle:confirm:<nameplate>','event15,event43','','event: pricelist:pdf','download pricelist:vehicle','pdf download','',false,'ford fiesta','2013','car');"><u>Descarca
                                                 lista de preturi pentru Ford Fiesta.</u></a><br>
@@ -414,32 +412,39 @@
                             <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
                             <!-- BEGIN [MidPageTabs] -->
                             <!--<div id='tab1' class="mp-tab-wrapper">
-                            <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">PROMOTII</a></h2> -->
+<h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">PROMOTII</a></h2> -->
                             <!--</div>-->
                             <!--<div id='tab2' class="mp-tab-wrapper">
-                            <h2><a href='#tab2' class="mp-tab omt_xd_mt_ti">PRETURI</a></h2> -->
+<h2><a href='#tab2' class="mp-tab omt_xd_mt_ti">PRETURI</a></h2> -->
                             <!--</div>-->
                             <!-- END [MidPageTabs] -->
                             <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
                             <!-- BEGIN [MidPageTabs] -->
                             <!--<div id='tab1' class="mp-tab-wrapper">
-                            <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">PROMOTII</a></h2> -->
+<h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">PROMOTII</a></h2> -->
                             <!--</div>-->
                             <!--<div id='tab2' class="mp-tab-wrapper">
-                            <h2><a href='#tab2' class="mp-tab omt_xd_mt_ti">PRETURI</a></h2> -->
+<h2><a href='#tab2' class="mp-tab omt_xd_mt_ti">PRETURI</a></h2> -->
                             <!--</div>-->
                             <!-- END [MidPageTabs] -->
                             <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
                             <!-- BEGIN [MidPageTabs] -->
                             <!--<div id='tab1' class="mp-tab-wrapper">
-                            <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">PROMOTII</a></h2> -->
+<h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">PROMOTII</a></h2> -->
                             <!--</div>-->
                             <!--<div id='tab2' class="mp-tab-wrapper">
-                            <h2><a href='#tab2' class="mp-tab omt_xd_mt_ti">PRETURI</a></h2> -->
+<h2><a href='#tab2' class="mp-tab omt_xd_mt_ti">PRETURI</a></h2> -->
                             <!--</div>-->
                             <!-- END [MidPageTabs] -->
                         </div>
                     </div>
+                </li>
+                <!--  isBtfTab  -->
+                <!--  tabUrl /cs/ContentServer?cid=1205119060175&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205123138157&amp;tabName=st-line&amp;c=Page&amp;site=RORO4_ENGINE -->
+                <li><a href="st-line#primaryTabs" class=" "
+                       data-ajaxlink="/cs/ContentServer?cid=1205119060175&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205123138157&amp;tabName=st-line&amp;c=Page&amp;site=RORO4_ENGINE">ST-Line</a>
+                    <!-- secondary tabs -->
+                    <!--  midPageTabId : 1205123138087 -->
                 </li>
             </ul>
         </nav>
@@ -460,261 +465,5 @@
         }
     </script>
 </section>
-<script id="TagIT.load" defer></script>
+<script id="TagIT.load"></script>
 </div>
-
-
-<script src="../../cs/ContentServer5cdb?pagename=EP2%2fENGInE%2fscript%2fGroupedJS" type="text/javascript"></script>
-<script
-    src="../../cs/ContentServerc169?pagename=ENGInE/EP2/common/GetScript&amp;elements=/EP2/body/cars/xaxis_detailed/xaxisctaview_script"></script>
-<script
-    src="../../cs/ContentServer1ec6?pagename=ENGInE/EP2/common/GetScript&amp;elements=/EP2/body/cars/xaxis_detailed/selectorinitialization_script"></script>
-<script
-    src="../../cs/ContentServer2cd3?pagename=ENGInE/EP2/common/GetScript&amp;elements=/EP2/body/cars/xaxis_detailed/selectordefaultconfigmodel_script"></script>
-<script
-    src="../../cs/ContentServercc27?pagename=ENGInE/EP2/common/GetScript&amp;elements=/EP2/body/cars/xaxis_detailed/selectorviewcontroller_script"></script>
-<script
-    src="../../cs/ContentServer936b?pagename=ENGInE/EP2/common/GetScript&amp;elements=/EP2/body/cars/xaxis_detailed/vehicletemplaterenderer_script"></script>
-<script
-    src="../../cs/ContentServer528e?pagename=ENGInE/EP2/common/GetScript&amp;elements=/EP2/body/cars/xaxis_detailed/interiorimagecarouselfacade_script"></script>
-<script
-    src="../../cs/ContentServer7197?pagename=ENGInE/EP2/common/GetScript&amp;elements=/EP2/body/cars/xaxis_detailed/vehicledatacache_script"></script>
-<script
-    src="../../cs/ContentServerd52c?pagename=ENGInE/EP2/common/GetScript&amp;elements=/EP2/body/cars/xaxis_detailed/vehiclerollovercontroller_script"></script>
-<script
-    src="../../cs/ContentServerc0f4?pagename=ENGInE/EP2/common/GetScript&amp;elements=/EP2/body/cars/xaxis_detailed/nameplatecarouselfacade_script"></script>
-<script
-    src="../../cs/ContentServer556a?pagename=ENGInE/EP2/common/GetScript&amp;elements=/EP2/body/cars/xaxis_detailed/nameplatedetailsview_script"></script>
-<script
-    src="../../cs/ContentServer6fca?pagename=ENGInE/EP2/common/GetScript&amp;elements=/EP2/body/cars/xaxis_detailed/imagemodels_script"></script>
-<script
-    src="../../cs/ContentServer688d?pagename=ENGInE/EP2/common/GetScript&amp;elements=/EP2/body/cars/xaxis_detailed/xaxis_script"></script>
-<!-- Engine tag - loading 'null::SystemFooter' -->
-<!-- Loading sitesetup -->
-<script> EP2.Globals.siteName = 'RORO4_ENGINE';
-    EP2.Globals.gforceMode = 'LIVE'</script>
-<script type="text/javascript">
-    var EP2 = EP2 || {};
-    EP2.cookieLegislation.trigger();
-    //FB : apply css rule for the footer SBE expandable list
-    EP2.applyCssToFooterSBE = function () {
-        var expandable = $('dd > .expand');
-        var ordinaryLink = $('.listColumn > dl > dd > .sbe');
-        expandable.each(function (i, v) {
-            var findSpan = $(this).find('> span');
-            console.log();
-            if (!findSpan.length) {
-                $(this).append('<span></span>');
-            }
-        });
-        ordinaryLink.each(function (i, v) {
-            var findLink = $(this).find('> span');
-            if (!findLink.length) {
-                $(this).append('<span></span>');
-            }
-        });
-    }();
-</script>
-<!-- Engine tag - loading '/EP2/body/cars/xaxis_detailed/Body::SystemFooter' -->
-<!-- Loading sitesetup -->
-<!-- '/EP2/body/cars/xaxis_detailed/Body' is calling DoubleClick from 'SystemFooter' -->
-<script>
-    if (typeof isDoubleclickTriggered == 'undefined') {
-        var isDoubleclickTriggered = 'false';
-    }
-    var eusedDevice;
-    if (typeof deviceCheck != 'undefined') {
-        if (deviceCheck == 'mobile') {
-            eusedDevice = "nwp:mobile";
-        } else {
-            eusedDevice = "nwp:desktop";
-        }
-    }
-    var pageTitle = null;
-</script>
-<script type="text/javascript">
-    function getCookie(c_name) {
-        var c_value = document.cookie;
-        var c_start = c_value.indexOf(" " + c_name + "=");
-        if (c_start == -1) {
-            c_start = c_value.indexOf(c_name + "=");
-        }
-        if (c_start == -1) {
-            c_value = null;
-        } else {
-            c_start = c_value.indexOf("=", c_start) + 1;
-            var c_end = c_value.indexOf(";", c_start);
-            if (c_end == -1) {
-                c_end = c_value.length;
-            }
-            c_value = unescape(c_value.substring(c_start, c_end));
-        }
-        return c_value;
-    }
-    function doubleclickeUsedCompare(str) {
-//alert(str);
-    }
-    ;
-    if (isDoubleclickTriggered === 'false') {
-        if (typeof TagIT != 'object' || (typeof TagIT.handlesDoubleClick == 'function' || !TagIT.handlesDoubleClick)) {
-            var isLogin = getCookie("isOwnerAuthenticated");
-            var visitorLoginState;
-            if (isLogin === 'true') {
-                visitorLoginState = 'login';
-            } else {
-                visitorLoginState = 'not login';
-            }
-            var currentURL = document.URL;
-            dataLayer = [];
-            dataLayer.push({"URL": currentURL});
-            dataLayer.push({"visitorLoginState": visitorLoginState});
-            if (navigator && navigator.userAgent) {
-                dataLayer.push({"userAgent": navigator.userAgent});
-            }
-            if (typeof siteID != 'undefined') {
-                dataLayer.push({"siteID": siteID});
-            } else {
-                dataLayer.push({"siteID": '1204961250932'});
-            }
-            countryName = "ford-" + 'ro';
-            dataLayer.push({"country": countryName});
-            if (typeof googleAdServerNameplateId != 'undefined') {
-                dataLayer.push({"nameplateID": googleAdServerNameplateId});
-            }
-            if (typeof controllerCommand != 'undefined') {
-                if (controllerCommand === "VehicleCompare") {
-                    googleAdServerNameplateName = EUSED.Tagging.getCompareList();
-                    dataLayer.push({"nameplateName": googleAdServerNameplateName});
-                } else if (controllerCommand === "VehicleShortlist") {
-                    googleAdServerNameplateName = EUSED.Tagging.getShortlistList();
-                    dataLayer.push({"nameplateName": googleAdServerNameplateName});
-                } else if (controllerCommand === "Search") {
-                    googleAdServerNameplateName = EUSED.Tagging.getSelectedVehicleList();
-                    dataLayer.push({"nameplateName": googleAdServerNameplateName});
-                }
-                else if (controllerCommand === "VehicleDetail" && typeof googleAdServerNameplateName != 'undefined') {
-                    googleAdServerNameplateName = "ford " + googleAdServerNameplateName.toLowerCase();
-                    dataLayer.push({"nameplateName": googleAdServerNameplateName});
-                }
-            }
-            var nameplateName = 'ford fiesta';
-            googleAdServerNameplateName = nameplateName.toLowerCase();
-            dataLayer.push({"nameplateName": googleAdServerNameplateName});
-            if (typeof osbNameplateName != 'undefined') {
-                osbNameplateName = osbNameplateName.toLowerCase();
-                dataLayer.push({"nameplateName": osbNameplateName});
-            }
-            if (typeof bookingReferenceNumber != 'undefined') {
-                dataLayer.push({"leadID": bookingReferenceNumber});
-            }
-            dataLayer.push({"pageTitle": 'Preturi si promotii | Ford RO'});
-            dataLayer.push({"pageCategory": 'ford-brand'});
-            if (typeof osb_pageId != 'undefined') {
-                dataLayer.push({"pageID": osb_pageId});
-            } else {
-                if (typeof mobile_bnp_pageId != 'undefined') {
-                    dataLayer.push({"pageID": mobile_bnp_pageId});
-                } else if (typeof pageID_eused != 'undefined') {
-                    pageID_eused = "brand:used vehicles:search inventory:" + pageID_eused;
-                    dataLayer.push({"pageID": pageID_eused });
-                } else {
-                }
-            }
-            dataLayer.push({"language": 'rum'});
-        }
-    }
-</script>
-<!-- Google Tag Manager -->
-<!-- if condition -->
-<noscript>
-    <iframe
-        src="http://www.googletagmanager.com/ns.html?id=GTM-WL5HW9" height="0"
-        width="0" style="display: none; visibility: hidden"></iframe>
-</noscript>
-<script type="text/javascript">
-    if (isDoubleclickTriggered === 'false') {
-        if (typeof TagIT != 'object' || typeof TagIT.handlesDoubleClick != 'function' || !TagIT.handlesDoubleClick()) {
-            (function (w, d, s, l, i) {
-                w[l] = w[l] || [];
-                w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
-                var f = d.getElementsByTagName(s)[0],
-                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
-                j.async = true;
-                j.src =
-                    '../../../www.googletagmanager.com/gtm5445.html?id=' + i + dl;
-                f.parentNode.insertBefore(j, f);
-            })(window, document, 'script', 'dataLayer', 'GTM-WL5HW9');
-        }
-    }
-    isDoubleclickTriggered = 'true';
-</script>
-<!-- End Google Tag Manager -->
-<script>
-</script>
-<!-- enableiPerceptions is - 'null' -->
-<script type='text/javascript'>var OM = OM || {};
-    //ONCLICK 1205060261500om_he_pv_tc
-    OM.om_he_pv_tc = { "tag": "pv nav true choice link", "clickType": "o"};</script>
-<!-- OMNITURE ME -->
-<script type="text/javascript"
-        src="../../cs/ContentServer1756?cid=1204986890525&amp;pagename=ENGInE%2Ftagging%2FOmnitureScript"></script>
-<script type="text/javascript">var sford = new Object;
-    sford.tabName = '';
-    sford.pageName = 'brand:passenger:vehicle:promotions:<tab name>:ford fiesta';
-    sford.dlwasSent = false;
-    sford.eVar11 = 'brand:passenger:vehicle:promotions:<tab name>';
-    sford.hier1 = 'vehicle:promotions:car:ford fiesta:2013';
-    sford.tagViewPhoto = '';
-    sford.tagHighlights = '';
-    sford.tagDownload = '';
-    s.pageName = 'brand:passenger:vehicle:promotions:<tab name>:ford fiesta';
-    s.hier1 = 'vehicle:promotions:car:ford fiesta:2013';
-    s.channel = 'vehicle';
-    s.eVar4 = 'rum';
-    s.prop4 = 'rum';
-    s.eVar11 = 'brand:passenger:vehicle:promotions:<tab name>';
-    s.prop11 = 'brand:passenger:vehicle:promotions:<tab name>';
-    s.eVar12 = '2013';
-    s.prop12 = '2013';
-    sford.my = '2013';
-    s.eVar14 = 'ford-ro';
-    s.prop14 = 'ford-ro';
-    s.eVar15 = 'ford-brand';
-    s.prop15 = 'ford-brand';
-    s.eVar16 = 'ford fiesta';
-    s.prop16 = 'ford fiesta';
-    sford.np = 'ford fiesta';
-    sford.vc = 'car';</script>
-<script type="text/javascript">
-    // <![CDATA[
-    var __dOC = false;
-    if (typeof(sford) == 'object') {
-        s.pageName = s.pageName.replace(":<tab name>", "");
-        s.eVar11 = s.eVar11.replace(":<tab name>", "");
-        s.prop11 = s.eVar11;
-// searchResultPageNumber
-        if (typeof searchResultPageNumber == "string") {
-            sford.searchPagenumber = searchResultPageNumber;
-        }
-    }
-    if (typeof(attachLoadEvent) == 'function') {
-        attachLoadEvent(onPageLoad);
-    } else {
-        $(document).ready(onPageLoad);
-    }
-    // ]]>
-</script>
-<script>
-    var TagIT = TagIT || {};
-</script>
-<script
-    src='../../cs/ContentServer45dd?cid=1&amp;isMobile=false&amp;pagename=RORO4_ENGINE%2Fscript%2Ftagit%2Fassembler&amp;require=NONE&amp;location=load&amp;c=Page'
-    defer></script>
-<script
-    src='../../cs/ContentServerd3e7?cid=1&amp;isMobile=false&amp;pagename=RORO4_ENGINE%2Fscript%2Ftagit%2Fstatic&amp;require=NONE&amp;location=load&amp;c=Page'></script>
-<!-- Engine tag - loading '/EP2/body/cars/xaxis_detailed/Body::BodyBottom' -->
-<!-- Loading sitesetup -->
-<script>
-</script>
-<!-- enableiPerceptions is - 'null' -->
-

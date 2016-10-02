@@ -307,11 +307,9 @@
                                     </p>
                                 </header>
                                 <article class="content-column left">
-                                    <div class="img-column"><a
-                                            href="../../cs/ContentServere1f8?cid=1205090683925&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                                            class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
+                                    <div class="img-column"> <img
                                                 src="/assets/img/s_max/1214504430076.jpg"
-                                                alt="All-Wheel Drive"/><span class="fv-overlay-icon"></span></a></div>
+                                                alt="All-Wheel Drive"/><span class="fv-overlay-icon"></span></div>
                                     <div class="content">
                                         <h3 class="bigHeading02">
                                             Incredere chiar si in conditii schimbatoare.
@@ -345,18 +343,14 @@
                                             magazinele de bricolaj.</p>
                                         </p>
                                     </div>
-                                    <div class="img-column"><a
-                                            href="../../cs/ContentServer189c?cid=1205090681684&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                                            class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
+                                    <div class="img-column"> <img
                                                 src="/assets/img/s_max/1214504429993.jpg"
-                                                alt="Flexible seating"/><span class="fv-overlay-icon"></span></a></div>
+                                                alt="Flexible seating"/><span class="fv-overlay-icon"></span></div>
                                 </article>
                                 <article class="content-column left">
-                                    <div class="img-column"><a
-                                            href="../../cs/ContentServer0820?cid=1205090677325&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                                            class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
+                                    <div class="img-column"> <img
                                                 src="/assets/img/s_max/1214504429910.jpg"
-                                                alt="Panoramic roof"/><span class="fv-overlay-icon"></span></a></div>
+                                                alt="Panoramic roof"/><span class="fv-overlay-icon"></span></div>
                                     <div class="content">
                                         <h3 class="bigHeading02">
                                             Plafon panoramic pentru un spatiu mai luminos si mai aerisit

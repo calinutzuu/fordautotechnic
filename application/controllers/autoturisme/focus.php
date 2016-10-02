@@ -36,4 +36,11 @@ class focus extends CI_Controller
             ->title('Focus - Caracteristici', 'Ford AutoTechnic')
             ->build('autoturisme/focus/caracteristici');
     }
+
+    public function stline()
+    {
+        $this->template
+            ->title('Focus - ST line', 'Ford AutoTechnic')
+            ->build('autoturisme/focus/stline');
+    }
 }

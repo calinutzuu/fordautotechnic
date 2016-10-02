@@ -303,7 +303,7 @@
     <div id="promo-carousel-timer">7500</div>
     <div class="slide-wrapper">
         <article class="slate slide">
-            <a href='../../Promotii/Autoturisme/Rabla/OfertaFocus'>
+            <a href='../../Promotii/Autoturisme/Ecobonus/OfertaFocus'>
 <span class="active-promo-rover">
 <span class="bg-opacity"></span>
 <span class="link-icon"></span>
@@ -372,7 +372,7 @@
                                     <p class="intro-text">
 
                                     <p>Beneficiezi de un bonus de 1.500&nbsp;&euro;, la casarea masinii vechi, si ajungi sa ai un avantaj client de 4.300&nbsp;&euro;.<br> <br> <a
-                                                HREF="../../promotii/Autoturisme/Ecobonus/OfertaFocus"><u>Click
+                                                HREF="../../Promotii/Autoturisme/Ecobonus/OfertaFocus"><u>Click
                                             Aici</u></a></p>
                                     </p>
                                 </header>
@@ -387,14 +387,7 @@
 
                                     <p class="intro-text">
 
-                                    <p>Daca te intereseaza un anumit model, consulta ofertele noastre actuale. Sau
-                                        viziteaza cel mai apropiat dealer pentru cele mai bune oferte disponibile. <a
-                                                HREF="../../SBE/dealeri-ford">Click aici</a><br> <br> <u><a
-                                                TITLE="Listă de prețuri noul Ford Focus (1,14 MB)"
-                                                HREF="../../cs/Lista_de_preturi_noul_Ford_Focusc87a.pdf?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheadervalue1=attachment%3Bfilename%3D%22Lista_de_preturi_noul_Ford_Focus.pdf%22&amp;blobheadervalue2=abinary%3Bcharset%3DUTF-8&amp;blobheadername1=Content-Disposition&amp;blobheadername2=MDT-Type&amp;blobheader=application%2Fpdf&amp;blobwhere=1214529426816&amp;blobkey=id"
-                                                CLASS="download"
-                                                onClick="if (typeof sford == 'object') omnitureLinkDownloadClick('brand:pricelist download:vehicle:confirm:<nameplate>','event15,event43','','event: pricelist:pdf','download pricelist:vehicle','pdf download','',false,'ford focus','2015','car');">Descarca
-                                            lista de preturi a modelului Ford Focus.</a></u></p>
+                                    <p>Daca te intereseaza un anumit model, consulta ofertele noastre actuale.
                                     </p>
                                 </header>
                             </div>
@@ -441,6 +434,11 @@
                        data-ajaxlink="/cs/ContentServer?cid=1205072239086&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205072237868&amp;tabName=Caracteristici&amp;c=Page&amp;site=RORO4_ENGINE">Caracteristici</a>
                     <!-- secondary tabs -->
                     <!--  midPageTabId : 1205094681946 -->
+                </li>
+                <li><a href="st-line#primaryTabs" class=" "
+                       data-ajaxlink="/cs/ContentServer?cid=1205072239086&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205123137602&amp;tabName=st-line&amp;c=Page&amp;site=RORO4_ENGINE">ST-Line</a>
+                    <!-- secondary tabs -->
+                    <!--  midPageTabId : 1205123137429 -->
                 </li>
             </ul>
         </nav>

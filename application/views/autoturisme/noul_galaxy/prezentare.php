@@ -46,7 +46,7 @@
                 {}
             ]}, "interiorImages": {"options": [
                 {}
-            ]}}, "brand": "Ford", "vehicleType": "PV", "catalogId": "NONE", "nameplate": "Galaxy", "labelAvailableFrom": "&nbsp;", "formattedCurrency": "", "nameplateText": "Spatiu interior rafinat si bine echipat, cu sapte locuri confortabile si o gama de tehnologii remarcabile.", "imagePack": false, "hideVehicleImage": false, "facebookImagePath": "", "facebookAppId": "facebookAppId", "images": [], "billBoardImagePath": null, "backgroundImagePath": ["/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobheader=image%2Fjpg&blobwhere=1214514162638&blobkey=id", "null", "null"], "disclaimerTextColor": ["A7A7A7", null, null], "current": true, "cid": "1205094889909", "cta": [
+            ]}}, "brand": "Ford", "vehicleType": "PV", "catalogId": "NONE", "nameplate": "Galaxy", "labelAvailableFrom": "&nbsp;", "formattedCurrency": "", "nameplateText": "Spatiu interior rafinat si bine echipat, cu sapte locuri confortabile si o gama de tehnologii remarcabile.", "imagePack": false, "hideVehicleImage": false, "facebookImagePath": "", "facebookAppId": "facebookAppId", "images": [], "billBoardImagePath": null, "backgroundImagePath": ["/assets/img/noul_galaxy/1214514162638.jpg", "null", "null"], "disclaimerTextColor": ["A7A7A7", null, null], "current": true, "cid": "1205094889909", "cta": [
                 {"linkTitle": "DESCARC\u0102 BRO\u015EUR\u0102 ", "linkURL": "\/SBE\/BrosuriSiPreturi", "linkType": "primary", "linkTarget": "_blank", "omid": "va"},
                 {"linkTitle": "\u00CENSCRIE-TE LA TEST DRIVE ", "linkURL": "\/SBE\/TestDrive\/TestDriveAutoturisme?shopcode=AUTHORED&derivcode=AUTHORED", "linkType": "tertiary", "linkTarget": "_blank", "omid": "tr"}
             ], "social": {"facebook": "https://facebook.com", "facebookPage": "fordromania"}, "disclaimer": "MODELUL PREZENTAT ESTE UN GALAXY ZETEC. IMAGINE CU TITLUL DE PREZENTARE.", "seriesCode": "AUTHORED", "uscCode": "AUTHORED", "presId": "1205095116351", "promos": [], "idf": {"options": []}}
@@ -312,12 +312,10 @@
                                     </p>
                                 </header>
                                 <article class="content-column left">
-                                    <div class="img-column"><a
-                                            href="../../cs/ContentServer04c4?cid=1205094890047&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                                            class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
-                                                src="../../cs/BlobServercd24.jpg?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214514163940&amp;blobkey=id"
+                                    <div class="img-column"><img
+                                                src="/assets/img/noul_galaxy/1214514163940.jpg"
                                                 alt="EasyFold with Powerfold option"/><span
-                                                class="fv-overlay-icon"></span></a></div>
+                                                class="fv-overlay-icon"></span></div>
                                     <div class="content">
                                         <h3 class="bigHeading02">
                                             Pliere fara efort a scaunelor, printr-o apasare de buton
@@ -350,11 +348,9 @@
                                             acoperi sau sa descoperi plafonul, printr-o simpla apasare de buton.</p>
                                         </p>
                                     </div>
-                                    <div class="img-column"><a
-                                            href="../../cs/ContentServer1a83?cid=1205094889033&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                                            class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
-                                                src="../../cs/BlobServer810d.jpg?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214514163358&amp;blobkey=id"
-                                                alt="Panoramic roof"/><span class="fv-overlay-icon"></span></a></div>
+                                    <div class="img-column"> <img
+                                                src="/assets/img/noul_galaxy/1214514163358.jpg"
+                                                alt="Panoramic roof"/><span class="fv-overlay-icon"></span></div>
                                 </article>
                             </div>
                             <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->

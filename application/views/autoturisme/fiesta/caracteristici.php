@@ -329,7 +329,7 @@
 <ul>
 <!--  isBtfTab true -->
 <!--  tabUrl /cs/ContentServer?cid=1205119060175&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE -->
-<li><a href="Prezentare-Generala#primaryTabs" class=" "
+<li><a href="/Autoturisme/Fiesta" class=" "
        data-ajaxlink="/cs/ContentServer?cid=1205119060175&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE">PREZENTARE
         GENERALA</a>
     <!-- secondary tabs -->
@@ -770,15 +770,13 @@
             </p>
         </div>
         <div class="img-column"><img
-                src="../../cs/BlobServer2924.jpg?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214560639583&amp;blobkey=id"
+                src="/assets/img/fiesta/1214560639583.jpg"
                 alt="Ford Fiesta - aer conditionat"/></div>
     </article>
     <article class="content-column left">
-        <div class="img-column"><a
-                href="../../cs/ContentServerf64b?cid=1205027791905&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
-                    src="../../cs/BlobServer5d2b.jpg?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214560657576&amp;blobkey=id"
-                    alt="Ford Fiesta - Faruri"/><span class="fv-overlay-icon"></span></a></div>
+        <div class="img-column"> <img
+                    src="/assets/img/fiesta/1214560657576.jpg"
+                    alt="Ford Fiesta - Faruri"/><span class="fv-overlay-icon"></span></div>
         <div class="content">
             <h3 class="bigHeading02">
                 Fiesta iti lumineaza drumul pana cand ajungi acasa
@@ -1135,6 +1133,11 @@
         SI PROMOTII</a>
     <!-- secondary tabs -->
     <!--  midPageTabId : 1205031008741 -->
+</li>
+<li><a href="st-line#primaryTabs" class=" "
+       data-ajaxlink="/cs/ContentServer?cid=1205119060175&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205123138157&amp;tabName=st-line&amp;c=Page&amp;site=RORO4_ENGINE">ST-Line</a>
+    <!-- secondary tabs -->
+    <!--  midPageTabId : 1205123138087 -->
 </li>
 </ul>
 </nav>

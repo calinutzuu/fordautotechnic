@@ -380,6 +380,12 @@
                         document.id('menu1205123140431').addClass("navnextSteps");
                     </script>
                 </li>
+                <li id='menu1205124415871' class=''>
+                    <a href='WeekendulInovatiei'/>Weekendul Inovatiei</a>
+                    <script type="text/javascript">
+                        document.id('menu1205124415871').addClass("navnextSteps");
+                    </script>
+                </li>
             </ul>
             <div class="navbottom"></div>
         </div>
