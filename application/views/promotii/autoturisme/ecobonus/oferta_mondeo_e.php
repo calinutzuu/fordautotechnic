@@ -1,3 +1,5 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
 
 <body
     onload="engine.navigation.init(document.getElementById('currentContext'));engine.navigation.init(document.getElementById('nextSteps'));">
@@ -22,23 +24,7 @@
 <script type="text/javascript">
     var fw_animationSpeed = 350;
 </script>
-<div id="cookieAlertBoxID" class="cookieAlertBox">
-    <div class="midContent">
-        <div class="cookie-closebtn"><a id="closeBtnID" class="icon closeBtn" href="#" title="Close">Close</a></div>
-        <p>
 
-        <p align="left">Fişierele de tip cookie sunt esenţiale pentru ca dumneavoastră să utilizaţi la maximum site-ul
-            nostru Web. De fapt, aproape toate site-urile Web utilizează acest tip de fişiere. Fişierele de tip cookie
-            stochează preferinţele dumneavoastră şi alte informaţii care ne ajută să ne &icirc;mbunătăţim site-ul Web -
-            dar nu vă faceţi griji, nicio informaţie colectată de pe site-ul nostru nu vă identifică &icirc;n mod
-            personal. Puteţi afla mai multe despre fişierele de tip cookie şi despre cum puteţi să le controlaţi cu
-            ajutorul setărilor dumneavoastră de navigare din Ghidul Ford privind fişierele de tip cookie.</p>
-        <a id="linkID" class="link"
-           href="http://www.ford.ro/Footer/GhidulFordPrivindFisiereleDeTipCookie?intcmp=other-nwp-cookies-cookie-alert-link">
-            Aflați mai multe </a>
-        </p>
-    </div>
-</div>
 
 <script type='text/javascript'>var OM = OM || {};
     //ONCLICK 1205060261500om_he_pv_tc
@@ -295,18 +281,18 @@
             <div id="navAnchor"></div>
             <ul id="currentContext" class="currentContext">
                 <li id='menu1204977637197' class=''>
-                    <a href='http://www.ford.ro/Promotii'/>Promo&#355;ii</a>
+                    <a href='/Promotii/Motorcraft'/>Promo&#355;ii</a>
                     <div id="navsubmenu" class="navsubmenu">
                         <div class="navsubmenutop">
                         </div>
                         <ul class="navsubmenu">
                             <li class=''>
-                                <a href='http://www.ford.ro/Promotii/comerciale'>Promo&#539;ii vehicule comerciale</a>
+                                <a href='/Promotii/comerciale'>Promo&#539;ii vehicule comerciale</a>
                             </li>
                             <li class=''>
-                                <a href='http://www.ford.ro/Promotii/PromotiiService'>Promo&#355;ii service</a></li>
+                                <a href='/Promotii/PromotiiService'>Promo&#355;ii service</a></li>
                             <li class=''>
-                                <a href='http://www.ford.ro/Promotii/promotii-accesorii'>Promo&#355;ii accesorii</a>
+                                <a href='/Promotii/promotii-accesorii'>Promo&#355;ii accesorii</a>
                             </li>
                         </ul>
                         <div class="navsubmenubottom">
@@ -320,17 +306,18 @@
                         </div>
                         <ul class="navsubmenu">
                             <li class=''>
-                                <a href='../Ecobonus'>Ecobonus</a></li>
+                                <a href='/Promotii/Autoturisme/Ecobonus'>Ecobonus</a></li>
                             <li class=''>
-                                <a href='../NoulKAPlus'>Noul KA Plus</a></li>
+                                <a href='/Promotii/Autoturisme/NoulKAPlus'>Noul KA Plus</a></li>
                             <li class=''>
-                                <a href='../NoulFordEdge'>Noul Ford Edge</a></li>
+                                <a href='/Promotii/Autoturisme/NoulFordEdge'>Noul Ford Edge</a></li>
                             <li class=''>
-                                <a href='../KugaSummerEdition'>Kuga Summer Edition</a></li>
+                                <a href='/Promotii/Autoturisme/KugaSummerEdition'>Kuga Summer
+                                    Edition</a></li>
                             <li class=''>
-                                <a href='../BusinessWeeks'>BusinessWeeks</a></li>
+                                <a href='/Promotii/Autoturisme/BusinessWeeks'>BusinessWeeks</a></li>
                             <li class=''>
-                                <a href='../PromotieFlote'>Promotie Flote</a></li>
+                                <a href='/Promotii/Autoturisme/PromotieFlote'>Promotie Flote</a></li>
                         </ul>
                         <div class="navsubmenubottom">
                         </div>
@@ -365,17 +352,16 @@
                         document.id('menu1205111254474').addClass("navnextSteps");
                     </script>
                 </li>
-
+                <li id='menu1205119185448' class=''>
+                    <a href='Rezervare'/>Rezervare</a>
+                    <script type="text/javascript">
+                        document.id('menu1205119185448').addClass("navnextSteps");
+                    </script>
+                </li>
                 <li id='menu1205123140431' class=''>
                     <a href='Procedura'/>Procedura</a>
                     <script type="text/javascript">
                         document.id('menu1205123140431').addClass("navnextSteps");
-                    </script>
-                </li>
-                <li id='menu1205124415871' class=''>
-                    <a href='WeekendulInovatiei'/>Weekendul Inovatiei</a>
-                    <script type="text/javascript">
-                        document.id('menu1205124415871').addClass("navnextSteps");
                     </script>
                 </li>
             </ul>
@@ -401,15 +387,15 @@
             </script>
             <div id="mdp">
                 <img
-                    src='/assets/img/promotii/1214567355837.jpg'
+                    src='/assets/img/promotii/1214568455397.jpg'
                     alt='mondeo' onclick="omnitureViewPhoto()">
             </div>
             <div class="mdp2" id="mdpImageControl">
                 <table>
                     <tr>
                         <td id="mdp2Fullscreen">
-                            <a href="/assets/img/promotii/1214567355837.jpg"
-                               onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214567355838&amp;blobkey=id', 'mondeo');
+                            <a href="/assets/img/promotii/1214568455397.jpg"
+                               onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214568455397&amp;blobkey=id', 'mondeo');
 if(typeof(sford)=='object') omnitureMDPFullScreen('1205111248026'); return false;">
                                 Fullscreen
                             </a>

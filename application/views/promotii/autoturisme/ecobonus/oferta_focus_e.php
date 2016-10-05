@@ -380,12 +380,7 @@
                         document.id('menu1205123140431').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205124415871' class=''>
-                    <a href='WeekendulInovatiei'/>Weekendul Inovatiei</a>
-                    <script type="text/javascript">
-                        document.id('menu1205124415871').addClass("navnextSteps");
-                    </script>
-                </li>
+
             </ul>
             <div class="navbottom"></div>
         </div>
@@ -568,9 +563,7 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205110699727'); return false
 </div>
 
 </div>
-<!-- Engine tag - loading 'Layout4_EP2::SystemFooter' -->
-<!-- Loading sitesetup -->
-<!-- 'Layout4_EP2' is calling DoubleClick from 'SystemFooter' -->
+
 <script>
     if (typeof isDoubleclickTriggered == 'undefined') {
         var isDoubleclickTriggered = 'false';
@@ -678,74 +671,3 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205110699727'); return false
         }
     }
 </script>
-<!-- Google Tag Manager -->
-<!-- if condition -->
-<noscript>
-    <iframe
-        src="http://www.googletagmanager.com/ns.html?id=GTM-WL5HW9" height="0"
-        width="0" style="display: none; visibility: hidden"></iframe>
-</noscript>
-<script type="text/javascript">
-    if (isDoubleclickTriggered === 'false') {
-        if (typeof TagIT != 'object' || typeof TagIT.handlesDoubleClick != 'function' || !TagIT.handlesDoubleClick()) {
-            (function (w, d, s, l, i) {
-                w[l] = w[l] || [];
-                w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
-                var f = d.getElementsByTagName(s)[0],
-                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
-                j.async = true;
-                j.src =
-                    '../../../../www.googletagmanager.com/gtm5445.html?id=' + i + dl;
-                f.parentNode.insertBefore(j, f);
-            })(window, document, 'script', 'dataLayer', 'GTM-WL5HW9');
-        }
-    }
-    isDoubleclickTriggered = 'true';
-</script>
-<!-- End Google Tag Manager -->
-<script>
-</script>
-<!-- enableiPerceptions is - 'null' -->
-<script src="http://www.ford.ro/cs/ContentServer?pagename=EP2%2fENGInE%2fscript%2fGroupedJS"
-        type="text/javascript"></script>
-<script> EP2.Globals.siteName = 'RORO4_ENGINE';
-    EP2.Globals.gforceMode = 'LIVE'</script>
-<script type="text/javascript">
-    var EP2 = EP2 || {};
-    EP2.cookieLegislation.trigger();
-    //FB : apply css rule for the footer SBE expandable list
-    EP2.applyCssToFooterSBE = function () {
-        var expandable = $('dd > .expand');
-        var ordinaryLink = $('.listColumn > dl > dd > .sbe');
-        expandable.each(function (i, v) {
-            var findSpan = $(this).find('> span');
-            console.log();
-            if (!findSpan.length) {
-                $(this).append('<span></span>');
-            }
-        });
-        ordinaryLink.each(function (i, v) {
-            var findLink = $(this).find('> span');
-            if (!findLink.length) {
-                $(this).append('<span></span>');
-            }
-        });
-    }();
-</script>
-<!-- <End> -->
-<!-- Engine tag - loading 'Layout4_EP2::BodyBottom' -->
-<!-- Loading sitesetup -->
-<script>
-</script>
-<!-- enableiPerceptions is - 'null' -->
-<script>
-    var TagIT = TagIT || {};
-</script>
-<script
-    src='http://www.ford.ro/cs/ContentServer?cid=1&amp;isMobile=false&amp;pagename=RORO4_ENGINE%2Fscript%2Ftagit%2Fassembler&amp;require=NONE&amp;location=load&amp;c=Page'
-    defer></script>
-<script
-    src='http://www.ford.ro/cs/ContentServer?cid=1&amp;isMobile=false&amp;pagename=RORO4_ENGINE%2Fscript%2Ftagit%2Fstatic&amp;require=NONE&amp;location=load&amp;c=Page'></script>
-</body>
-
-</html>

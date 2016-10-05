@@ -5,6 +5,27 @@
             <!--Rendering the Image Panel-->
             <article role="option">
                 <a class="carImg" href="#img1">
+                    <img src="/assets/img/1214565385811.jpg" alt="" role="presentation"></a>
+
+                <div class="innerBox posBottomLeft SlateText">
+                    <div class="">
+                        <h2 class="bigHeading02">
+                        </h2>
+
+                        <p class="captionTxt">
+                        </p>
+
+                        <div class="btnwrapper">
+                            <div class="btnLink light">
+                                <a role="button" class="om_ca_in"
+                                   href="/Promotii/Autoturisme/BusinessWeeks">AFLA MAI MULTE</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </article>
+            <article role="option">
+                <a class="carImg" href="#img1">
                     <img src="/assets/img/1214565934858.jpg" alt="" role="presentation"></a>
 
                 <div class="innerBox posBottomLeft SlateText">
@@ -101,25 +122,22 @@
             </article>
             <!--Image Panel End-->
             <!--Rendering the Video Panel-->
-            <article class="videoObj">
-                <video id="player1" width="980" height="384"
-                       poster="/assets/img/1214561128762.jpg"
-                       preload="none">
-                    <source src="/assets/img/kuga.mp4" type="video/mp4" title="Kuga Summer Edition">
-                    <source
-                        src="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214561128781&amp;blobkey=id&amp;blobheader=video/webm"
-                        type="video/webm" title="Kuga Summer Edition">
-                </video>
+            <article role="option">
+                <a class="carImg" href="#img1">
+                    <img src="/assets/img/summer.jpg" alt="" role="presentation"></a>
+
                 <div class="innerBox posBottomLeft SlateText">
                     <div class="">
-                        <h2 class="bigHeading02"></h2>
+                        <h2 class="bigHeading02">
+                        </h2>
 
-                        <p class="captionTxt"></p>
+                        <p class="captionTxt">
+                        </p>
 
                         <div class="btnwrapper">
                             <div class="btnLink light">
-                                <a href="/Promotii/Autoturisme/KugaSummerEdition" title="VEZI OFERTA">VEZI
-                                    OFERTA</a>
+                                <a role="button" class="om_ca_in"
+                                   href="/Promotii/Autoturisme/KugaSummerEdition">AFLA MAI MULTE</a>
                             </div>
                         </div>
                     </div>

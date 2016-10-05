@@ -138,6 +138,24 @@
                     <div class="img-column"><br>
                         <img src="/assets/img/promotii/1214560851899.jpg" alt="Kuga Summer Edition"/></div>
                 </article>
+                <article class="content-column centered">
+                    <div class="content">
+                        <h3 class="bigHeading02">
+                            Cand ai propria afacere, ai nevoie de parteneri pe care sa te poti baza.
+                        </h3>
+
+                        <p>
+
+                        <p>Vino la Ford Business Week si alege, din gama noastra de autoturisme,  modelul care ti se potriveste.
+                            Fie ca alegi Ford Focus, Mondeo,<br>  Vignale, Kuga sau Ford Fiesta, te sprijinim in drumul spre succes, cu
+                            beneficii de exceptie pentru afacerea ta: conditii speciale de <br> finantare  si un pachet complet de avantaje. <a
+                                HREF="/Promotii/Autoturisme/BusinessWeeks"> <br> <br><u>Click aici pentru detalii</u></a></p>
+                        </p>
+                    </div>
+                    <div class="img-column"><br>
+                        <img src="/assets/img/1214565385532.jpg" alt="Kuga Summer Edition"/></div>
+                </article>
+                <br>
 
             </div>
         </section>

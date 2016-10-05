@@ -372,12 +372,7 @@
                         document.id('menu1205123140431').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205124415871' class=''>
-                    <a href='WeekendulInovatiei'/>Weekendul Inovatiei</a>
-                    <script type="text/javascript">
-                        document.id('menu1205124415871').addClass("navnextSteps");
-                    </script>
-                </li>
+
             </ul>
             <div class="navbottom"></div>
         </div>
@@ -401,14 +396,14 @@
             </script>
             <div id="mdp">
                 <img
-                    src='/assets/img/promotii/1214567355752.jpg'
+                    src='/assets/img/promotii/1214568453110.jpg'
                     alt='FordFleet' onclick="omnitureViewPhoto()">
             </div>
             <div class="mdp2" id="mdpImageControl">
                 <table>
                     <tr>
                         <td id="mdp2Fullscreen">
-                            <a href="/assets/img/promotii/1214567355752.jpg"
+                            <a href="/assets/img/promotii/1214568453110.jpg"
                                onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214567355753&amp;blobkey=id', 'FordFleet');
 if(typeof(sford)=='object') omnitureMDPFullScreen('1205111247816'); return false;">
                                 Fullscreen
