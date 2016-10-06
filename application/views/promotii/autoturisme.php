@@ -17,6 +17,8 @@
 </div>
 
 <div class="mainContent">
+    <img
+        src="/assets/img/promotii/1214561274946.jpg" alt="Promotii Autoturisme">
     <nav class="breadCrumb" role="navigation">
 
     </nav>

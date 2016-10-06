@@ -11,43 +11,39 @@
             personal. Puteţi afla mai multe despre fişierele de tip cookie şi despre cum puteţi să le controlaţi cu
             ajutorul setărilor dumneavoastră de navigare din Ghidul Ford privind fişierele de tip cookie.</p>
         <a id="linkID" class="link"
-           href="../Footer/GhidulFordPrivindFisiereleDeTipCookiea41f.html?intcmp=other-nwp-cookies-cookie-alert-link">
+           href="http://www.ford.ro/Footer/GhidulFordPrivindFisiereleDeTipCookie?intcmp=other-nwp-cookies-cookie-alert-link">
             Aflați mai multe </a>
         </p>
     </div>
 </div>
-
+<img
+    src="/assets/img/promotii/1214561274959.jpg" alt="Promotii Utilitare">
 <div class="mainContent">
-    <!-- <nav class="breadCrumb" role="navigation">
-        <ul itemprop="breadcrumb">
-            <li class="home"><a href="../index.html" class="om_bc_li">Pagina principală</a><span></span></li>
-            <li><a href="../Promotii" class="om_bc_li">Promoţii</a><span></span></li>
-            <li>Promoții vehicule comerciale</li>
-        </ul>
-    </nav> -->
-    <section id="fv-wrapper">
+       <section id="fv-wrapper">
         <section id="carouselize" class="carousel-container carousel"></section>
         <section class="mid-page-content">
             <div class="tab-content">
                 <article class="content-column centered">
+                    <div class="img-column ">
+                            <img
+                                src="/assets/img/promotii/1214565386171.jpg"
+                                alt="Business Week"/><span class="fv-overlay-icon"></span></div>
                     <div class="content">
-                        <h3 class="bigHeading02"><br>
-                            DESCOPERA NOUL FORD RANGER SI OFERTA SPECIALA DE LANSARE!
+                        <h3 class="bigHeading02">
+                            Beneficii de exceptie pentru afacerea ta!
                         </h3>
 
                         <p>
 
-                        <div><p><br> Noul Ford Ranger vine acum la pachet cu o oferta speciala de lansare: doar
-                                299 &euro;*/luna,<br> cu garantie extinsa 2+2 ani/ 150.000 km si Pachetul Off-road
-                                inclus.<br> <br> <a HREF="comerciale/NoulRanger"><u>Click aici pentru detalii.</u></a>
-                            </p>
+                        <p>Cand ai propria afacere, ai nevoie de cele mai bune solutii. <br> <br> Te asteptam la Ford
+                            Business Weeks sa iti alegi vehiculul comercial Ford de care ai nevoie. Fie ca alegi un
+                            model Transit sau noul Ford Ranger, te bucuri de costuri optimizate si primesti beneficii de
+                            exceptie pentru afacerea ta: conditii speciale de finantare si garantie extinsa. <br> <br>
+                            <a HREF="comerciale/BusinessWeeks"><u>&gt;Vezi detaliile promotiei</u></a></p>
 
-                            <div></div>
-                        </div>
+                        <div></div>
                         </p>
-                    </div> <br><br>
-                    <div class="img-column"><img src="/assets/img/promotii/1214552947880.jpg" alt="New Ranger"/>
-                        <br><br></div>
+                    </div>
                 </article>
             </div>
         </section>
@@ -56,7 +52,7 @@
             OM.om_he_pv_tc = { "tag": "pv nav true choice link", "clickType": "o"};</script>
         <!-- OMNITURE ME -->
         <script type="text/javascript"
-                src="../cs/ContentServer1756?cid=1204986890525&amp;pagename=ENGInE%2Ftagging%2FOmnitureScript"></script>
+                src="http://www.ford.ro/cs/ContentServer?cid=1204986890525&amp;pagename=ENGInE%2Ftagging%2FOmnitureScript"></script>
         <script type="text/javascript">var sford = new Object;
             sford.tabName = '';
             sford.pageName = 'brand:promotions:commercial:overview';
@@ -108,21 +104,21 @@
     function createPath() {
         var currentURL = window.location.href;
         if (!currentURL.indexOf("/cs/ContentServer?") > -1 && !currentURL.indexOf("/cs/Satellite?") > -1) {
-            if (currentURL.indexOf("=") > -1 && currentURL.indexOf("../index.html") > -1 && !currentURL.indexOf("?") > -1) {
+            if (currentURL.indexOf("=") > -1 && currentURL.indexOf("http://www.ford.ro/") > -1 && !currentURL.indexOf("?") > -1) {
                 currentURL = currentURL.substring(0, currentURL.indexOf("="));
-                currentURL = currentURL.substring(0, currentURL.lastIndexOf("../index.html"));
+                currentURL = currentURL.substring(0, currentURL.lastIndexOf("http://www.ford.ro/"));
             }
             if (currentURL.indexOf("?") > -1) {
                 currentURL = currentURL.substring(0, currentURL.indexOf("?"));
-                if (currentURL.indexOf("=") > -1 && currentURL.indexOf("../index.html") > -1) {
+                if (currentURL.indexOf("=") > -1 && currentURL.indexOf("http://www.ford.ro/") > -1) {
                     currentURL = currentURL.substring(0, currentURL.indexOf("="));
-                    currentURL = currentURL.substring(0, currentURL.lastIndexOf("../index.html"));
+                    currentURL = currentURL.substring(0, currentURL.lastIndexOf("http://www.ford.ro/"));
                 }
             }
         }
 //Remove all trailing / 
-        while (currentURL.endsWith("../index.html")) {
-            currentURL = currentURL.substring(0, currentURL.lastIndexOf("../index.html"));
+        while (currentURL.endsWith("http://www.ford.ro/")) {
+            currentURL = currentURL.substring(0, currentURL.lastIndexOf("http://www.ford.ro/"));
         }
         return currentURL;
     }
@@ -269,8 +265,10 @@
 <script>
 </script>
 <!-- enableiPerceptions is - 'null' -->
+<!-- Footer section-->
 
-<script src="../cs/ContentServer5cdb?pagename=EP2%2fENGInE%2fscript%2fGroupedJS" type="text/javascript"></script>
+<script src="../cs/ContentServer?pagename=EP2%2fENGInE%2fscript%2fGroupedJS"
+        type="text/javascript"></script>
 <script> EP2.Globals.siteName = 'RORO4_ENGINE';
     EP2.Globals.gforceMode = 'LIVE'</script>
 <script type="text/javascript">
@@ -295,17 +293,14 @@
         });
     }();
 </script>
-<script src="../cs/ContentServer376c.html?pagename=EP2/ENGInE/script/carouselize"></script>
-<script src="../cs/ContentServerfdd4.html?pagename=EP2/ENGInE/script/future-vehicle-tabs"></script>
+<script src="../cs/ContentServer?pagename=EP2/ENGInE/script/carouselize"></script>
+<script src="../cs/ContentServer?pagename=EP2/ENGInE/script/future-vehicle-tabs"></script>
 <!--  var noEp1Overlay = true; -->
 <script>
     var TagIT = TagIT || {};
 </script>
 <script
-    src='../cs/ContentServer45dd?cid=1&amp;isMobile=false&amp;pagename=RORO4_ENGINE%2Fscript%2Ftagit%2Fassembler&amp;require=NONE&amp;location=load&amp;c=Page'
+    src='../cs/ContentServer?cid=1&amp;isMobile=false&amp;pagename=RORO4_ENGINE%2Fscript%2Ftagit%2Fassembler&amp;require=NONE&amp;location=load&amp;c=Page'
     defer></script>
 <script
-    src='../cs/ContentServerd3e7?cid=1&amp;isMobile=false&amp;pagename=RORO4_ENGINE%2Fscript%2Ftagit%2Fstatic&amp;require=NONE&amp;location=load&amp;c=Page'></script>
-
-
-
+    src='../cs/ContentServer?cid=1&amp;isMobile=false&amp;pagename=RORO4_ENGINE%2Fscript%2Ftagit%2Fstatic&amp;require=NONE&amp;location=load&amp;c=Page'></script>

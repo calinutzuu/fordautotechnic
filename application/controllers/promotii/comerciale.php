@@ -17,4 +17,12 @@ class comerciale extends CI_Controller
             ->title('NoulRanger', 'Ford AutoTechnic')
             ->build('promotii/comerciale/noul_ranger');
     }
+
+    public function business_weeks_co()
+    {
+        $this->template
+            ->set_layout('promotii')
+            ->title('NoulRanger', 'Ford AutoTechnic')
+            ->build('promotii/comerciale/business_weeks_co');
+    }
 }

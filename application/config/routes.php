@@ -254,6 +254,7 @@ $route['Promotii/Autoturisme/Rabla/OfertaEcoSport'] = 'promotii/autoturisme/ofer
 
 $route['Promotii/comerciale'] = 'promotii/comerciale/index';
 $route['Promotii/comerciale/NoulRanger'] = 'promotii/comerciale/noul_ranger';
+$route['Promotii/comerciale/BusinessWeeks'] = 'promotii/comerciale/business_weeks_co';
 
 
 $route['Promotii/FiestaRedBlack'] = 'promotii/fiesta_red_black/index';

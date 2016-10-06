@@ -352,12 +352,7 @@
                         document.id('menu1205111254474').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205119185448' class=''>
-                    <a href='Rezervare'/>Rezervare</a>
-                    <script type="text/javascript">
-                        document.id('menu1205119185448').addClass("navnextSteps");
-                    </script>
-                </li>
+
                 <li id='menu1205123140431' class=''>
                     <a href='Procedura'/>Procedura</a>
                     <script type="text/javascript">

@@ -24,27 +24,7 @@
                     </div>
                 </div>
             </article>
-            <article role="option">
-                <a class="carImg" href="#img1">
-                    <img src="/assets/img/1214565934858.jpg" alt="" role="presentation"></a>
 
-                <div class="innerBox posBottomLeft SlateText">
-                    <div class="">
-                        <h2 class="bigHeading02">
-                        </h2>
-
-                        <p class="captionTxt">
-                        </p>
-
-                        <div class="btnwrapper">
-                            <div class="btnLink light">
-                                <a role="button" class="om_ca_in"
-                                   href="/Promotii/Autoturisme/Ecobonus/WeekendulInovatiei">AFLA MAI MULTE</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </article>
             <article role="option">
                 <a class="carImg" href="#img1">
                     <img src="/assets/img/1214563351106.jpg" alt="" role="presentation"></a>
