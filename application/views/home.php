@@ -155,7 +155,7 @@
             </article>
             <!--Video Panel Rendering Ends-->
             <!--Rendering the Image Panel-->
-            <article role="option">
+           <!-- <article role="option">
                 <a class="carImg" href="#img1"><img src="/assets/img/1214561275079.jpg"
                                                     alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt; &lt;/span&gt;&lt;/span&gt;"
                                                     role="presentation"></a>
@@ -179,7 +179,7 @@
                         </div>
                     </div>
                 </div>
-            </article>
+            </article> -->
             <!--Image Panel End-->
             <!--Rendering the Image Panel-->
             <article role="option">
