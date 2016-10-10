@@ -1,4 +1,3 @@
-
 <div id="frame">
     <!-- Header -->
     <!-- <Start> -->
@@ -27,19 +26,99 @@
                 <div class="btoArticleTitle">Contact</div>
                 <div class="btoArticleText">
                     <div class="btoArticleAbstract">
-                        <p>Suntem mândri să fim mai mult decât un simplu producător de maşini. Suntem o companie alcătuită din oameni cu familii, care au aceleaşi probleme şi aceleaşi bucurii ca şi tine. Vino la noi şi te vom ajuta să îţi cumperi şi să îţi întreţii maşina în cel mai accesibil mod. <br>
+                        <p>Suntem mândri să fim mai mult decât un simplu producător de maşini.
+                            Suntem o companie alcătuită din oameni cu familii, care au aceleaşi probleme
+                            şi aceleaşi bucurii ca şi tine. Vino la noi şi te vom ajuta să îţi cumperi şi să îţi
+                            întreţii maşina în cel mai accesibil mod. <br>
                             <br>
                             Pentru informaţii suplimentare referitoare la produsele şi serviciile noastre va rugăm
                             contactaţi-ne la: <br>
                             <br>
-                            <strong>AUTO TECHNIC SRL</strong></p>
-                        <blockquote> Calea Zimandului FN. Arad, Romania. <br>
-                        </blockquote>
+                            <strong>AUTO TECHNIC SRL <br> Calea Zimandului FN. Arad, Romania. </strong></p>
+
                         <blockquote><strong>Centrul de Relaţii Clienţi</strong><br>
-                            Telefon: 0257.21.66.69<br>
+                            Tel: 0257.21.66.69<br>
                             Fax : 0257.21.66.29<br>
-                            Email:<br> <a href="mailto:crcro@ford.com">vanzari@fordautotechnic.ro</a> <br>
-                                    <a href="mailto:crcro@ford.com">service@fordautotechnic.ro</a>
+                        </blockquote>
+                        <blockquote><strong> VANZARI AUTO </strong><br>
+                            Director Vanzari : <b>Rednic Ioan</b>
+                            <br>
+                            Tel: 0743 158 038
+                            <br>
+                            Email: <a href="mailto:crcro@ford.com">ioan.rednic@fordautotechnic.ro</a>
+                            <br><br>
+                            Coordonator Vanzari : <b>Alb Flavius</b>
+                            <br>
+                            Tel: 0749 276 246
+                            <br>
+                            Email: <a href="mailto:crcro@ford.com">flavius.alb@fordautotechnic.ro</a>
+                            <br><br>
+                            Consultant vanzari : <b>Merauta Liviu</b>
+                            <br>
+                            Tel: 0749 276 247
+                            <br>
+                            Email: <a href="mailto:crcro@ford.com">liviu.merauta@fordautotechnic.ro</a>
+                            <br><br>
+                            Coordonator Vanzari : <b>Marta Mihaela</b>
+                            <br>
+                            Tel: 0737 992 854
+                            <br>
+                            Email: <a href="mailto:crcro@ford.com">mihaela.marta@fordautotechnic.ro</a>
+                            <br><br>
+                        </blockquote>
+                    </div>
+                    <div class="btoArticleAbstract">
+                        <p>
+                            <strong>AUTO TECHNIC SERVICE:
+                            </strong></p>
+                        Director Service : <b>Babusanu Dorel</b>
+                        <br>
+                        Tel: 0736 338 257
+                        <br>
+                        Email: <a href="mailto:crcro@ford.com">dorel.babusanu@fordautotechnic.ro</a>
+
+                        <blockquote><strong> ATELIER MECANICA </strong><br>
+                            Receptioner Service : <b>Pop Radu</b>
+                            <br>
+                            Tel: 0743 158 041
+                            <br>
+                            Email: <a href="mailto:crcro@ford.com">radu.pop@fordautotechnic.ro</a>
+                            <br><br>
+                            Receptioner Service : <b>Moler Daniel</b>
+                            <br>
+                            Tel: 0743 158 045
+                            <br>
+                            Email: <a href="mailto:crcro@ford.com">daniel.moler@fordautotechnic.ro</a>
+                            <br><br>
+                            Receptioner Service : <b>Miclean Gheorghe</b>
+                            <br>
+                            Tel: 0736 338 259
+                            <br>
+                            Email: <a href="mailto:crcro@ford.com">miclean.gheorghe@fordautotechnic.ro</a>
+                            <br><br>
+                            <strong> ATELIER TINICHIGERIE </strong><br>
+                            Receptioner Service : <b>Popovici Petru</b>
+                            <br>
+                            Tel: 0743 158 043
+                            <br>
+                            Email: <a href="mailto:crcro@ford.com">petre.popovici@fordautotechnic.ro</a>
+                            <br>
+                        </blockquote>
+                        <blockquote><strong> VANZARI PIESE </strong><br>
+                            Responsabil Pieste: <b>Brezeanu Adrian</b>
+                            <br>
+                            Tel: 0743 158 044
+                            <br>
+                            Email: <a href="mailto:crcro@ford.com">adi.brezeanu@fordautotechnic.ro</a>
+                            <br>
+                        </blockquote>
+                        <blockquote><strong>ITP </strong><br>
+                            Responsabil ITP - <b>Pop Florin</b>
+                            <br>
+                            Tel: 0737 992 848
+                            <br>
+                            Email: <a href="mailto:crcro@ford.com">itp@fordautotechnic.ro</a>
+                            <br>
                         </blockquote>
 
                     </div>
