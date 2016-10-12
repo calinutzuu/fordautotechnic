@@ -147,7 +147,7 @@
     <a role="link" href="/FordLeasing/Overview" class="om_he_at_li"><span>Finantare</span></a>
 </li>
 <li class="levelOne" role="menuitem" data-nav="generic">
-    <a role="link" href="/Tehnologie/Prezentare" class="om_he_at_li"><span>Tehnologii Ford</span></a>
+    <a role="link" href="#" class="om_he_at_li"><span>Tehnologii Ford</span></a>
 
     <!-- <div class="flyout">
         <ul class="subMenu" role="menu">

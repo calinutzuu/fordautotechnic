@@ -26,8 +26,7 @@
                 <div class="btoArticleTitle">Contact</div>
                 <div class="btoArticleText">
                     <div class="btoArticleAbstract">
-                        <p>Suntem mândri să fim mai mult decât un simplu producător de maşini.
-                            Suntem o companie alcătuită din oameni cu familii, care au aceleaşi probleme
+                        <p> Suntem o companie alcătuită din oameni cu familii, care au aceleaşi probleme
                             şi aceleaşi bucurii ca şi tine. Vino la noi şi te vom ajuta să îţi cumperi şi să îţi
                             întreţii maşina în cel mai accesibil mod. <br>
                             <br>
@@ -53,13 +52,13 @@
                             <br>
                             Email: <a href="mailto:crcro@ford.com">flavius.alb@fordautotechnic.ro</a>
                             <br><br>
-                            Consultant vanzari : <b>Merauta Liviu</b>
+                            Consultant Flote : <b>Merauta Liviu</b>
                             <br>
                             Tel: 0749 276 247
                             <br>
                             Email: <a href="mailto:crcro@ford.com">liviu.merauta@fordautotechnic.ro</a>
                             <br><br>
-                            Coordonator Vanzari : <b>Marta Mihaela</b>
+                            Consultant Vanzari : <b>Marta Mihaela</b>
                             <br>
                             Tel: 0737 992 854
                             <br>
