@@ -236,7 +236,7 @@
     <!--Rendering the Teaser Image-->
     <div class="teaserBox layout-3 last">
         <a href="/FordService"><img
-                src='/assets/img/1214484914715.jpg'
+                src='/assets/img/1214565385513.jpg'
                 alt="Teaser"/></a>
         <!--Rendering the CTA Button-->
         <div class="btnLink">
