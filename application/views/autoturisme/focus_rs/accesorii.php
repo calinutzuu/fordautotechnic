@@ -1,4 +1,3 @@
-
 <script type="text/javascript">
     // mobile sniffer
     ForceRedirectUserAgents = 'android,iphone,blackberry';
@@ -9,12 +8,12 @@
 <div id="xAxis-detailed">
     <nav class="breadCrumb visuallyhidden" role="navigation">
         <ul itemprop="breadcrumb">
-            <li class="home"><a href="http://www.ford.ro/" data-selenium="breadcrumb_home" class="om_bc_li"
+            <li class="home"><a href="../../index" data-selenium="breadcrumb_home" class="om_bc_li"
                                 title="Pagina principal&#259;">Pagina principal&#259;</a><span></span></li>
-            <li data-selenium="breadcrumb_cars"><a href="http://www.ford.ro/Autoturisme" class="om_bc_li">
+            <li data-selenium="breadcrumb_cars"><a href="../../Autoturisme" class="om_bc_li">
                     Autoturisme
                 </a><span></span></li>
-            <li data-selenium="breadcrumb_nameplate">Focus RS</li>
+            <li data-selenium="breadcrumb_nameplate">Ka+</li>
         </ul>
     </nav>
     <script>
@@ -46,7 +45,7 @@
                 {}
             ]}, "interiorImages": {"options": [
                 {}
-            ]}}, "brand": "Ford", "vehicleType": "PV", "catalogId": "NONE", "nameplate": "Focus RS ", "labelAvailableFrom": "&nbsp;", "formattedCurrency": "", "nameplateText": "Aspect fara compromis. Performanta epica. Emblema legendara. Aceasta este o masina nascuta din obsesia pentru proiectarea de precizie si tehnologia pentru condus, precum si din pasiunea pentru sporturile cu motor.", "imagePack": false, "hideVehicleImage": false, "facebookImagePath": "", "facebookAppId": "facebookAppId", "images": [], "billBoardImagePath": null, "backgroundImagePath": ["/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobheader=image%2Fjpg&blobwhere=1214538993941&blobkey=id", "null", "null"], "disclaimerTextColor": [null, null, null], "current": true, "cid": "1205106489583", "cta": [
+            ]}}, "brand": "Ford", "vehicleType": "PV", "catalogId": "NONE", "nameplate": "Focus RS ", "labelAvailableFrom": "&nbsp;", "formattedCurrency": "", "nameplateText": "Aspect fara compromis. Performanta epica. Emblema legendara. Aceasta este o masina nascuta din obsesia pentru proiectarea de precizie si tehnologia pentru condus, precum si din pasiunea pentru sporturile cu motor.", "imagePack": false, "hideVehicleImage": false, "facebookImagePath": "", "facebookAppId": "facebookAppId", "images": [], "billBoardImagePath": null, "backgroundImagePath": ["/assets/img/focus_rs/1214538993941.jpg", "null", "null"], "disclaimerTextColor": [null, null, null], "current": true, "cid": "1205106489583", "cta": [
                 {"linkTitle": "DESCARC\u0102 BRO\u015EUR\u0102 ", "linkURL": "\/SBE\/BrosuriSiPreturi", "linkType": "primary", "linkTarget": "_blank", "omid": "va"},
                 {"linkTitle": "\u00CENSCRIE-TE LA TEST DRIVE ", "linkURL": "\/SBE\/TestDrive\/TestDriveAutoturisme?shopcode=AUTHORED&derivcode=AUTHORED", "linkType": "tertiary", "linkTarget": "_blank", "omid": "tr"},
                 {"linkTitle": "VREAU SĂ FIU INFORMAT(Ă) ", "linkURL": "/SBE/VreauSaFiuInformata", "linkType": "tertiary", "linkTarget": "", "omid": "tr"}
@@ -65,7 +64,7 @@
         <div itemscope itemtype="http://schema.org/ImageObject">
             <ul class="nameplate x-axis" id="vvmRoot">
                 <li class="default-nameplate-vehicle"
-                    style="background-image:url(http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpg&amp;blobwhere=1214538993941&amp;blobkey=id)">
+                    style="background-image:url(/assets/img/focus_rs/1214538993941.jpg)">
                     <div class="layered-nameplate-image">
                         <div class="image-holder">
                         </div>
@@ -143,7 +142,7 @@
 <aside class="nameplate-disclaimer" style="color:#{{disclaimerTextColor.0.}}">{{disclaimer}}</aside>
 </li>
 {{/each}}
-</script>
+
 <script type="text/x-handlebars-template" id="nameplateDetailsTemplate">
     <div class="name-plate-text">
         <p class="intro">{{{strIntroToFord}}}</p>
@@ -276,7 +275,7 @@
 <ul>
 <!--  isBtfTab true -->
 <!--  tabUrl /cs/ContentServer?cid=1205106489583&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE -->
-<li><a href="Prezentare#primaryTabs" class=" "
+<li><a href="/Autoturisme/FocusRS" class=" "
        data-ajaxlink="/cs/ContentServer?cid=1205106489583&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE">Prezentare</a>
     <!-- secondary tabs -->
     <!--  midPageTabId : 1205106491781 -->
@@ -330,15 +329,15 @@
                             <div class="igg-image">
                                 <a class="js-overlay om_pv_xa_xz"
                                    data-media-overlay='{"height":439, "width":780}'
-                                   href="http://www.ford.ro/cs/ContentServer?cid=1205110353080&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Video_C">
+                                   href="#">
                                     <img alt="Accesorii Ford Focus RS" title="Accesorii Ford Focus RS"
-                                         src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214547000377&amp;blobkey=id">
+                                         src="#">
                                 </a>
 
                                 <div class="icon-wrapper">
                                     <a class="js-overlay om_pv_xa_xz icon-video"
                                        data-media-overlay='{"height":439, "width":780}'
-                                       href="http://www.ford.ro/cs/ContentServer?cid=1205110353080&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Video_C"
+                                       href="#"
                                        title='video'></a>
                                 </div>
                             </div>
@@ -361,15 +360,15 @@
                             <div class="igg-image">
                                 <a class="js-overlay om_pv_xa_xz"
                                    data-media-overlay='{"height":439, "width":780}'
-                                   href="http://www.ford.ro/cs/ContentServer?cid=1205110353080&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Video_C">
+                                   href="#">
                                     <img alt="Accesorii Ford Focus RS" title="Accesorii Ford Focus RS"
-                                         src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214547000377&amp;blobkey=id">
+                                         src="#">
                                 </a>
 
                                 <div class="icon-wrapper">
                                     <a class="js-overlay om_pv_xa_xz icon-video"
                                        data-media-overlay='{"height":439, "width":780}'
-                                       href="http://www.ford.ro/cs/ContentServer?cid=1205110353080&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Video_C"
+                                       href="#"
                                        title='video'></a>
                                 </div>
                             </div>
@@ -392,15 +391,15 @@
                             <div class="igg-image">
                                 <a class="js-overlay om_pv_xa_xz"
                                    data-media-overlay='{"height":439, "width":780}'
-                                   href="http://www.ford.ro/cs/ContentServer?cid=1205110353080&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Video_C">
+                                   href="#">
                                     <img alt="Accesorii Ford Focus RS" title="Accesorii Ford Focus RS"
-                                         src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214547000377&amp;blobkey=id">
+                                         src="#">
                                 </a>
 
                                 <div class="icon-wrapper">
                                     <a class="js-overlay om_pv_xa_xz icon-video"
                                        data-media-overlay='{"height":439, "width":780}'
-                                       href="http://www.ford.ro/cs/ContentServer?cid=1205110353080&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Video_C"
+                                       href="#"
                                        title='video'></a>
                                 </div>
                             </div>
@@ -423,15 +422,15 @@
                             <div class="igg-image">
                                 <a class="js-overlay om_pv_xa_xz"
                                    data-media-overlay='{"height":439, "width":780}'
-                                   href="http://www.ford.ro/cs/ContentServer?cid=1205110353080&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Video_C">
+                                   href="#">
                                     <img alt="Accesorii Ford Focus RS" title="Accesorii Ford Focus RS"
-                                         src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214547000377&amp;blobkey=id">
+                                         src="#">
                                 </a>
 
                                 <div class="icon-wrapper">
                                     <a class="js-overlay om_pv_xa_xz icon-video"
                                        data-media-overlay='{"height":439, "width":780}'
-                                       href="http://www.ford.ro/cs/ContentServer?cid=1205110353080&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Video_C"
+                                       href="#"
                                        title='video'></a>
                                 </div>
                             </div>
@@ -454,15 +453,15 @@
                             <div class="igg-image">
                                 <a class="js-overlay om_pv_xa_xz"
                                    data-media-overlay='{"height":439, "width":780}'
-                                   href="http://www.ford.ro/cs/ContentServer?cid=1205110353080&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Video_C">
+                                   href="#">
                                     <img alt="Accesorii Ford Focus RS" title="Accesorii Ford Focus RS"
-                                         src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214547000377&amp;blobkey=id">
+                                         src="#">
                                 </a>
 
                                 <div class="icon-wrapper">
                                     <a class="js-overlay om_pv_xa_xz icon-video"
                                        data-media-overlay='{"height":439, "width":780}'
-                                       href="http://www.ford.ro/cs/ContentServer?cid=1205110353080&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Video_C"
+                                       href="#"
                                        title='video'></a>
                                 </div>
                             </div>

@@ -9,12 +9,12 @@
 <div id="xAxis-detailed">
     <nav class="breadCrumb visuallyhidden" role="navigation">
         <ul itemprop="breadcrumb">
-            <li class="home"><a href="http://www.ford.ro/" data-selenium="breadcrumb_home" class="om_bc_li"
+            <li class="home"><a href="../../index" data-selenium="breadcrumb_home" class="om_bc_li"
                                 title="Pagina principal&#259;">Pagina principal&#259;</a><span></span></li>
-            <li data-selenium="breadcrumb_cars"><a href="http://www.ford.ro/Autoturisme" class="om_bc_li">
+            <li data-selenium="breadcrumb_cars"><a href="../../Autoturisme" class="om_bc_li">
                     Autoturisme
                 </a><span></span></li>
-            <li data-selenium="breadcrumb_nameplate">Focus RS</li>
+            <li data-selenium="breadcrumb_nameplate">Ka+</li>
         </ul>
     </nav>
     <script>
@@ -65,7 +65,7 @@
         <div itemscope itemtype="http://schema.org/ImageObject">
             <ul class="nameplate x-axis" id="vvmRoot">
                 <li class="default-nameplate-vehicle"
-                    style="background-image:url(http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpg&amp;blobwhere=1214538993941&amp;blobkey=id)">
+                    style="background-image:url(/assets/img/focus_rs/1214538993941.jpg)">
                     <div class="layered-nameplate-image">
                         <div class="image-holder">
                         </div>
@@ -276,7 +276,7 @@
             <ul>
                 <!--  isBtfTab true -->
                 <!--  tabUrl /cs/ContentServer?cid=1205106489583&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE -->
-                <li><a href="Prezentare#primaryTabs" class=" "
+                <li><a href="/Autoturisme/FocusRS" class=" "
                        data-ajaxlink="/cs/ContentServer?cid=1205106489583&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE">Prezentare</a>
                     <!-- secondary tabs -->
                     <!--  midPageTabId : 1205106491781 -->

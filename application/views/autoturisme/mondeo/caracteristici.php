@@ -10,12 +10,12 @@
 <div id="xAxis-detailed">
     <nav class="breadCrumb visuallyhidden" role="navigation">
         <ul itemprop="breadcrumb">
-            <li class="home"><a href="http://www.ford.ro/" data-selenium="breadcrumb_home" class="om_bc_li"
+            <li class="home"><a href="../../index" data-selenium="breadcrumb_home" class="om_bc_li"
                                 title="Pagina principal&#259;">Pagina principal&#259;</a><span></span></li>
-            <li data-selenium="breadcrumb_cars"><a href="http://www.ford.ro/Autoturisme" class="om_bc_li">
+            <li data-selenium="breadcrumb_cars"><a href="../../Autoturisme" class="om_bc_li">
                     Autoturisme
                 </a><span></span></li>
-            <li data-selenium="breadcrumb_nameplate">Mondeo</li>
+            <li data-selenium="breadcrumb_nameplate">Ka+</li>
         </ul>
     </nav>
     <script>
@@ -70,7 +70,7 @@
         <div itemscope itemtype="http://schema.org/ImageObject">
             <ul class="nameplate x-axis" id="vvmRoot">
                 <li class="default-nameplate-vehicle"
-                    style="background-image:url(http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpg&amp;blobwhere=1214489050958&amp;blobkey=id)">
+                    style="background-image:url(/assets/img/mondeo/1214489050958.jpg)">
                     <div class="layered-nameplate-image">
                         <div class="image-holder">
                         </div>
@@ -266,25 +266,25 @@
     <div id="promo-carousel-timer">7500</div>
     <div class="slide-wrapper">
         <article class="slate slide">
-            <a href='http://www.ford.ro/Promotii/Autoturisme/PromotieFlote'>
+            <a href='/Autoturisme/PromotieFlote'>
 <span class="active-promo-rover">
 <span class="bg-opacity"></span>
 <span class="link-icon"></span>
 </span>
                 <img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpg&amp;blobwhere=1214564411751&amp;blobkey=id"
+                    src="/assets/img/mondeo/1214564411751.jpg"
                     alt="Promotie Flote">
 
                 <p class="promo-carousel-text"><span class="promo-carousel-bold">Vezi detaliile ofertei</span></p></a>
         </article>
         <article class="slate slide">
-            <a href='http://www.ford.ro/Promotii/Autoturisme/Ecobonus/OfertaMondeo'>
+            <a href='/Promotii/Autoturisme/Ecobonus/OfertaMondeo'>
 <span class="active-promo-rover">
 <span class="bg-opacity"></span>
 <span class="link-icon"></span>
 </span>
                 <img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpg&amp;blobwhere=1214564411460&amp;blobkey=id"
+                    src="/assets/img/mondeo/1214564411460.jpg"
                     alt="Ford Fiesta">
 
                 <p class="promo-carousel-text"><span class="promo-carousel-bold">Vezi detaliile ofertei</span></p></a>
@@ -294,11 +294,11 @@
 <section id="non-js-promoCarousel" class="non-js-promo-carousel box-shadow">
     <div class="slide-wrapper">
         <p class="promo-carousel-text"><a
-                href="http://www.ford.ro/cs/ContentServer?pagename=RORO4_ENGINE/EP2/common/promo/M48_PromoBlock&amp;c=Promo_C&amp;cid=Vezi%20detaliile%20ofertei"
+                href="#"
                 target="_blank">Promotie Flote</a></p>
 
         <p class="promo-carousel-text"><a
-                href="http://www.ford.ro/cs/ContentServer?pagename=RORO4_ENGINE/EP2/common/promo/M48_PromoBlock&amp;c=Promo_C&amp;cid=Vezi%20detaliile%20ofertei"
+                href="#"
                 target="_blank">Ford Fiesta</a></p>
     </div>
 </section>

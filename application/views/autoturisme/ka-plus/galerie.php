@@ -304,10 +304,9 @@
     </header>
     <article class='three-column'>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205115903529&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/ka-plus/1214559182320.jpg" alt="Atragator, si in miscare si cand e parcat"/><span
-                    class="fv-overlay-icon"></span></a>
+                    class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
             </h3>
@@ -318,10 +317,9 @@
             </p>
         </div>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205115901696&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+           <img
                     src="/assets/img/ka-plus/1214559182146.jpg" alt="Design modern, cu detalii de efect"/><span
-                    class="fv-overlay-icon"></span></a>
+                    class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
             </h3>
@@ -332,10 +330,9 @@
             </p>
         </div>
         <div class="content-block last">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205115906933&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/ka-plus/1214559182583.jpg" alt="Profil agil si aerodinamic"/><span
-                    class="fv-overlay-icon"></span></a>
+                    class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
             </h3>
@@ -348,10 +345,9 @@
     </article>
     <article class='three-column'>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205115904219&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/ka-plus/1214559182494.jpg" alt="Design de impact pentru jantele de aliaj"/><span
-                    class="fv-overlay-icon"></span></a>
+                    class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
             </h3>
@@ -362,10 +358,9 @@
             </p>
         </div>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205115902157&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/ka-plus/1214559182231.jpg" alt="Linii stilate si fluide, din orice unghi"/><span
-                    class="fv-overlay-icon"></span></a>
+                    class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
             </h3>
@@ -376,10 +371,9 @@
             </p>
         </div>
         <div class="content-block last">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205115903666&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/ka-plus/1214559182406.jpg" alt="Grila indrazneata, distinctiva"/><span
-                    class="fv-overlay-icon"></span></a>
+                    class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
             </h3>
@@ -408,10 +402,9 @@
     </header>
     <article class='three-column'>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205115901096&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/ka-plus/1214559176636.jpg" alt="Detalii atent lucrate"/><span
-                    class="fv-overlay-icon"></span></a>
+                    class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
             </h3>
@@ -422,10 +415,9 @@
             </p>
         </div>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205115903401&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+           <img
                     src="/assets/img/ka-plus/1214559176889.jpg" alt="Interior spatios si aerisit"/><span
-                    class="fv-overlay-icon"></span></a>
+                    class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
             </h3>
@@ -436,10 +428,9 @@
             </p>
         </div>
         <div class="content-block last">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205115905287&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/ka-plus/1214559177477.jpg" alt="Conectivitate hands-free"/><span
-                    class="fv-overlay-icon"></span></a>
+                    class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
             </h3>
@@ -452,11 +443,10 @@
     </article>
     <article class='three-column'>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205115906207&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/ka-plus/1214559177644.jpg"
                     alt="Suficient spatiu pentru trei pasageri pe locurile din spate"/><span
-                    class="fv-overlay-icon"></span></a>
+                    class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
             </h3>
@@ -467,10 +457,9 @@
             </p>
         </div>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205115906561&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/ka-plus/1214559177141.jpg" alt="Simplu - dar in acelasi timp sofisticat"/><span
-                    class="fv-overlay-icon"></span></a>
+                    class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
             </h3>
@@ -481,10 +470,9 @@
             </p>
         </div>
         <div class="content-block last">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205115906344&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/ka-plus/1214559177057.jpg" alt="Habitaclu proiectat pentru tine"/><span
-                    class="fv-overlay-icon"></span></a>
+                    class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
             </h3>
@@ -512,10 +500,9 @@
     </header>
     <article class='three-column'>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205115901479&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/ka-plus/1214559182062.jpg" alt="Janta din aliaj de 15", 5x2 spite" /><span
-                    class="fv-overlay-icon"></span></a>
+                    class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
             </h3>
@@ -526,10 +513,9 @@
             </p>
         </div>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205115900977&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/ka-plus/1214559181879.jpg" alt="Capac roata de 15"" /><span
-                    class="fv-overlay-icon"></span></a>
+                    class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
             </h3>
@@ -556,10 +542,9 @@
     </header>
     <article class='three-column'>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205115900586&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/ka-plus/1214559176553.jpg" alt="Oxford White"/><span
-                    class="fv-overlay-icon"></span></a>
+                    class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
             </h3>
@@ -570,10 +555,9 @@
             </p>
         </div>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205115904008&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/ka-plus/1214559177309.jpg" alt="Tuxedo Black (Perlata)"/><span
-                    class="fv-overlay-icon"></span></a>
+                    class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
             </h3>
@@ -584,10 +568,9 @@
             </p>
         </div>
         <div class="content-block last">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205115900403&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/ka-plus/1214559176470.jpg" alt="Smoke Grey (Metalizata)"/><span
-                    class="fv-overlay-icon"></span></a>
+                    class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
             </h3>
@@ -600,10 +583,9 @@
     </article>
     <article class='three-column'>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205115902746&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/ka-plus/1214559176719.jpg" alt="Sparkling Gold (Perlata)"/><span
-                    class="fv-overlay-icon"></span></a>
+                    class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
             </h3>
@@ -614,10 +596,9 @@
             </p>
         </div>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205115904600&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/ka-plus/1214559177393.jpg" alt="Ingot Silver (Metalizata)"/><span
-                    class="fv-overlay-icon"></span></a>
+                    class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
             </h3>
@@ -628,11 +609,9 @@
             </p>
         </div>
         <div class="content-block last">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205115904334&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/ka-plus/1214559176973.jpg" alt="Ruby Red (Perlata)"/><span
-                    class="fv-overlay-icon"></span></a>
-
+                    class="fv-overlay-icon"></span>
             <h3 class="bigHeading02">
             </h3>
 
@@ -644,10 +623,9 @@
     </article>
     <article class='three-column'>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205115905927&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/ka-plus/1214559177560.jpg" alt="Bright Yellow"/><span
-                    class="fv-overlay-icon"></span></a>
+                    class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
             </h3>
@@ -658,10 +636,9 @@
             </p>
         </div>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205115902975&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/ka-plus/1214559176803.jpg" alt="Deep Impact Blue (Metalizata)"/><span
-                    class="fv-overlay-icon"></span></a>
+                    class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
             </h3>

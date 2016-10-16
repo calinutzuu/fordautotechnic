@@ -8,12 +8,12 @@
 <div id="xAxis-detailed">
     <nav class="breadCrumb visuallyhidden" role="navigation">
         <ul itemprop="breadcrumb">
-            <li class="home"><a href="http://www.ford.ro/" data-selenium="breadcrumb_home" class="om_bc_li"
+            <li class="home"><a href="../../index" data-selenium="breadcrumb_home" class="om_bc_li"
                                 title="Pagina principal&#259;">Pagina principal&#259;</a><span></span></li>
-            <li data-selenium="breadcrumb_cars"><a href="http://www.ford.ro/Autoturisme" class="om_bc_li">
+            <li data-selenium="breadcrumb_cars"><a href="../../Autoturisme" class="om_bc_li">
                     Autoturisme
                 </a><span></span></li>
-            <li data-selenium="breadcrumb_nameplate">Focus RS</li>
+            <li data-selenium="breadcrumb_nameplate">Ka+</li>
         </ul>
     </nav>
     <script>
@@ -45,7 +45,7 @@
                 {}
             ]}, "interiorImages": {"options": [
                 {}
-            ]}}, "brand": "Ford", "vehicleType": "PV", "catalogId": "NONE", "nameplate": "Focus RS ", "labelAvailableFrom": "&nbsp;", "formattedCurrency": "", "nameplateText": "Aspect fara compromis. Performanta epica. Emblema legendara. Aceasta este o masina nascuta din obsesia pentru proiectarea de precizie si tehnologia pentru condus, precum si din pasiunea pentru sporturile cu motor.", "imagePack": false, "hideVehicleImage": false, "facebookImagePath": "", "facebookAppId": "facebookAppId", "images": [], "billBoardImagePath": null, "backgroundImagePath": ["/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobheader=image%2Fjpg&blobwhere=1214538993941&blobkey=id", "null", "null"], "disclaimerTextColor": [null, null, null], "current": true, "cid": "1205106489583", "cta": [
+            ]}}, "brand": "Ford", "vehicleType": "PV", "catalogId": "NONE", "nameplate": "Focus RS ", "labelAvailableFrom": "&nbsp;", "formattedCurrency": "", "nameplateText": "Aspect fara compromis. Performanta epica. Emblema legendara. Aceasta este o masina nascuta din obsesia pentru proiectarea de precizie si tehnologia pentru condus, precum si din pasiunea pentru sporturile cu motor.", "imagePack": false, "hideVehicleImage": false, "facebookImagePath": "", "facebookAppId": "facebookAppId", "images": [], "billBoardImagePath": null, "backgroundImagePath": ["/assets/img/focus_rs/1214538993941.jpg", "null", "null"], "disclaimerTextColor": [null, null, null], "current": true, "cid": "1205106489583", "cta": [
                 {"linkTitle": "DESCARC\u0102 BRO\u015EUR\u0102 ", "linkURL": "\/SBE\/BrosuriSiPreturi", "linkType": "primary", "linkTarget": "_blank", "omid": "va"},
                 {"linkTitle": "\u00CENSCRIE-TE LA TEST DRIVE ", "linkURL": "\/SBE\/TestDrive\/TestDriveAutoturisme?shopcode=AUTHORED&derivcode=AUTHORED", "linkType": "tertiary", "linkTarget": "_blank", "omid": "tr"},
                 {"linkTitle": "VREAU SĂ FIU INFORMAT(Ă) ", "linkURL": "/SBE/VreauSaFiuInformata", "linkType": "tertiary", "linkTarget": "", "omid": "tr"}
@@ -64,7 +64,7 @@
         <div itemscope itemtype="http://schema.org/ImageObject">
             <ul class="nameplate x-axis" id="vvmRoot">
                 <li class="default-nameplate-vehicle"
-                    style="background-image:url(http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpg&amp;blobwhere=1214538993941&amp;blobkey=id)">
+                    style="background-image:url(/assets/img/focus_rs/1214538993941.jpg)">
                     <div class="layered-nameplate-image">
                         <div class="image-holder">
                         </div>
@@ -275,7 +275,7 @@
 <ul>
 <!--  isBtfTab true -->
 <!--  tabUrl /cs/ContentServer?cid=1205106489583&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE -->
-<li><a href="Prezentare#primaryTabs" class=" "
+<li><a href="/Autoturisme/FocusRS" class=" "
        data-ajaxlink="/cs/ContentServer?cid=1205106489583&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE">Prezentare</a>
     <!-- secondary tabs -->
     <!--  midPageTabId : 1205106491781 -->
@@ -331,11 +331,9 @@
         </p>
     </header>
     <article class="content-column left">
-        <div class="img-column"><a
-                href="http://www.ford.ro/cs/ContentServer?cid=1205106493298&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214538998893&amp;blobkey=id"
-                    alt="Ford Focus RS - All-Wheel Drive"/><span class="fv-overlay-icon"></span></a></div>
+        <div class="img-column"><img
+                src="/assets/img/focus_rs/1214538998893.jpg"
+                alt="Ford Focus RS - All-Wheel Drive"/><span class="fv-overlay-icon"></span></div>
         <div class="content">
             <h3 class="bigHeading02">
                 Control maxim la viraje
@@ -346,7 +344,7 @@
             <p>
                 <a onClick="triggerOverlay('/cs/ContentServer?pagename=ENGInE/Overlay_C/ShowOverlay%26pubid=1204961250932%26c=Overlay_C%26cid=1205107364318%26overlayheight=439%26overlaywidth=780' ,'overlay','Tractiunea%20integrala','Close','439','780'); return false;"
                    target="_blank" title="Tractiunea integrala" data-media-overlay="{" class="js-overlay"
-                   href="http://www.ford.ro/cs/ContentServer?pagename=ENGInE/EP2/common/media/MediaOverlay&amp;c=Video_C&amp;cid=1205107356095&amp;site=ENGInE">Tractiunea
+                   href="#">Tractiunea
                     integrala (AWD)</a> Ford Performance cu control dinamic al vectorului de cuplu de torsiune asigura o
                 acceleratie laterala de peste 1 g, plus aderenta exceptionala si manevrabilitate de inalta precizie
                 atunci cand negociezi virajele in forta. Sistemul foloseste seturi duble de ambreiaj, controlate
@@ -375,18 +373,14 @@
             <p><a target="_blank" href="../../../www.youtube.com/watch8b2e.html?v=hDofgYyTxEg">Urmareste filmul</a></p>
             </p>
         </div>
-        <div class="img-column"><a
-                href="http://www.ford.ro/cs/ContentServer?cid=1205106491661&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214538997618&amp;blobkey=id"
-                    alt="Ford Focus RS on the road"/><span class="fv-overlay-icon"></span></a></div>
+        <div class="img-column"><img
+                src="/assets/img/focus_rs/1214538997618.jpg"
+                alt="Ford Focus RS on the road"/><span class="fv-overlay-icon"></span></div>
     </article>
     <article class="content-column left">
-        <div class="img-column"><a
-                href="http://www.ford.ro/cs/ContentServer?cid=1205106490896&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214538997266&amp;blobkey=id"
-                    alt="Ford Focus RS suspension"/><span class="fv-overlay-icon"></span></a></div>
+        <div class="img-column"><img
+                src="/assets/img/focus_rs/1214538997266.jpg"
+                alt="Ford Focus RS suspension"/><span class="fv-overlay-icon"></span></a></div>
         <div class="content">
             <h3 class="bigHeading02">
                 Suspensii care se adapteaza la stilul tau de condus
@@ -406,10 +400,9 @@
     </article>
     <article class='two-column'>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205106487715&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214538999236&amp;blobkey=id"
-                    alt="Ford Focus RS rear"/><span class="fv-overlay-icon"></span></a>
+            <img
+                src="/assets/img/focus_rs/1214538999236.jpg"
+                alt="Ford Focus RS rear"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Pregateste-te pentru demaraj
@@ -426,10 +419,9 @@
             </p>
         </div>
         <div class="content-block last">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205106493130&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214538998808&amp;blobkey=id"
-                    alt="Ford Focus RS speedometer"/><span class="fv-overlay-icon"></span></a>
+            <img
+                src="/assets/img/focus_rs/1214538998808.jpg"
+                alt="Ford Focus RS speedometer"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Controleaza si setarile amortizoarelor
@@ -448,10 +440,9 @@
     </article>
     <article class='three-column'>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205106486983&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214538996254&amp;blobkey=id"
-                    alt="Ford Focus RS speedometer - Performance Shift Light"/><span class="fv-overlay-icon"></span></a>
+            <img
+                src="/assets/img/focus_rs/1214538996254.jpg"
+                alt="Ford Focus RS speedometer - Performance Shift Light"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Schimba vitezele la momentul optim
@@ -467,10 +458,9 @@
             </p>
         </div>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205106489041&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214538999739&amp;blobkey=id"
-                    alt="Ford Focus RS centre console - Ford SYNC 2"/><span class="fv-overlay-icon"></span></a>
+            <img
+                src="/assets/img/focus_rs/1214538999739.jpg"
+                alt="Ford Focus RS centre console - Ford SYNC 2"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Tehnologie avansata hands-free
@@ -486,10 +476,9 @@
             </p>
         </div>
         <div class="content-block last">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205106491960&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214539000072&amp;blobkey=id"
-                    alt="Ford Focus RS Bi-Xenon headlamp"/><span class="fv-overlay-icon"></span></a>
+            <img
+                src="/assets/img/focus_rs/1214539000072.jpg"
+                alt="Ford Focus RS Bi-Xenon headlamp"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Faruri care te ajuta sa vezi in viraje
@@ -524,11 +513,9 @@
         </p>
     </header>
     <article class="content-column left">
-        <div class="img-column"><a
-                href="http://www.ford.ro/cs/ContentServer?cid=1205106484827&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214538997882&amp;blobkey=id"
-                    alt="Ford Focus RS - 2.3-litre EcoBoost engine"/><span class="fv-overlay-icon"></span></a></div>
+        <div class="img-column"><img
+                src="/assets/img/focus_rs/1214538997882.jpg"
+                alt="Ford Focus RS - 2.3-litre EcoBoost engine"/><span class="fv-overlay-icon"></span></div>
         <div class="content">
             <h3 class="bigHeading02">
                 Tehnologie avansata pentru motoare EcoBoost de 2,3 litri
@@ -561,18 +548,14 @@
                 Performanta”. Focus RS este expresia perfecta a acestei filosofii. </p>
             </p>
         </div>
-        <div class="img-column"><a
-                href="http://www.ford.ro/cs/ContentServer?cid=1205106493807&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214539000488&amp;blobkey=id"
-                    alt="Ford Focus RS - Ford Performance"/><span class="fv-overlay-icon"></span></a></div>
+        <div class="img-column"><img
+                src="/assets/img/focus_rs/1214539000488.jpg"
+                alt="Ford Focus RS - Ford Performance"/><span class="fv-overlay-icon"></span></div>
     </article>
     <article class="content-column left">
-        <div class="img-column"><a
-                href="http://www.ford.ro/cs/ContentServer?cid=1205106486743&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214538995978&amp;blobkey=id"
-                    alt="Ford Focus RS gear system"/><span class="fv-overlay-icon"></span></a></div>
+        <div class="img-column"><img
+                src="/assets/img/focus_rs/1214538995978.jpg"
+                alt="Ford Focus RS gear system"/><span class="fv-overlay-icon"></span></div>
         <div class="content">
             <h3 class="bigHeading02">
                 Sistem de transmisie avansat pentru schimbari extrem de rapide ale treptelor de viteza
@@ -602,18 +585,14 @@
                 racire superioara.</p>
             </p>
         </div>
-        <div class="img-column"><a
-                href="http://www.ford.ro/cs/ContentServer?cid=1205106486249&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214538998556&amp;blobkey=id"
-                    alt="Ford Focus RS wheel"/><span class="fv-overlay-icon"></span></a></div>
+        <div class="img-column"><img
+                src="/assets/img/focus_rs/1214538998556.jpg"
+                alt="Ford Focus RS wheel"/><span class="fv-overlay-icon"></span></div>
     </article>
     <article class="content-column left">
-        <div class="img-column"><a
-                href="http://www.ford.ro/cs/ContentServer?cid=1205106487440&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214539000831&amp;blobkey=id"
-                    alt="Ford Focus RS - Auto Start-Stop"/><span class="fv-overlay-icon"></span></a></div>
+        <div class="img-column"><img
+                src="/assets/img/focus_rs/1214539000831.jpg"
+                alt="Ford Focus RS - Auto Start-Stop"/><span class="fv-overlay-icon"></span></div>
         <div class="content">
             <h3 class="bigHeading02">
                 Folosesti mai putin combustibil cu functia Auto-Start-Stop
@@ -648,11 +627,9 @@
         </p>
     </header>
     <article class="content-column left">
-        <div class="img-column"><a
-                href="http://www.ford.ro/cs/ContentServer?cid=1205106488768&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214538999649&amp;blobkey=id"
-                    alt="Ford Focus RS centre console - Ford SYNC 2"/><span class="fv-overlay-icon"></span></a></div>
+        <div class="img-column"><img
+                src="/assets/img/focus_rs/1214538999649.jpg"
+                alt="Ford Focus RS centre console - Ford SYNC 2"/><span class="fv-overlay-icon"></span></div>
         <div class="content">
             <h3 class="bigHeading02">
                 Ford SYNC 2. Tehnologie hands-free si cu ecran tactil avansata
@@ -682,18 +659,15 @@
                 controla volumul sistemului audio.</p>
             </p>
         </div>
-        <div class="img-column"><a
-                href="http://www.ford.ro/cs/ContentServer?cid=1205106490097&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214538996846&amp;blobkey=id"
-                    alt="Ford Focus RS - MyKey®"/><span class="fv-overlay-icon"></span></a></div>
+        <div class="img-column"><img
+                src="/assets/img/focus_rs/1214538996846.jpg"
+                alt="Ford Focus RS - MyKey®"/><span class="fv-overlay-icon"></span></div>
     </article>
     <article class='two-column'>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205106485795&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214538998310&amp;blobkey=id"
-                    alt="Ford Focus RS - Power-foldable mirrors"/><span class="fv-overlay-icon"></span></a>
+            <img
+                src="/assets/img/focus_rs/1214538998310.jpg"
+                alt="Ford Focus RS - Power-foldable mirrors"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Cu oglinzi care se pot proteja singure
@@ -707,10 +681,9 @@
             </p>
         </div>
         <div class="content-block last">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205106492331&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214539000237&amp;blobkey=id"
-                    alt="Ford Focus RS - Ford Easy Fuel"/><span class="fv-overlay-icon"></span></a>
+            <img
+                src="/assets/img/focus_rs/1214539000237.jpg"
+                alt="Ford Focus RS - Ford Easy Fuel"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Ford Easy-Fuel, pentru alimentari fara probleme
@@ -726,10 +699,9 @@
     </article>
     <article class='two-column'>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205106487575&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214539000918&amp;blobkey=id"
-                    alt="Ford Focus RS - Ford Power Starter Button"/><span class="fv-overlay-icon"></span></a>
+            <img
+                src="/assets/img/focus_rs/1214539000918.jpg"
+                alt="Ford Focus RS - Ford Power Starter Button"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Porneste masina prin simpla atingere a unui buton
@@ -742,10 +714,9 @@
             </p>
         </div>
         <div class="content-block last">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205106484493&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214539000740&amp;blobkey=id"
-                    alt="Ford Focus RS RECARO Shell Seat"/><span class="fv-overlay-icon"></span></a>
+            <img
+                src="/assets/img/focus_rs/1214539000740.jpg"
+                alt="Ford Focus RS RECARO Shell Seat"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Scaune de curse Recaro
@@ -763,10 +734,9 @@
     </article>
     <article class='three-column'>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205106487203&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214538996337&amp;blobkey=id"
-                    alt="Ford Focus RS interior - Advanced Cruise Control"/><span class="fv-overlay-icon"></span></a>
+            <img
+                src="/assets/img/focus_rs/1214538996337.jpg"
+                alt="Ford Focus RS interior - Advanced Cruise Control"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Un tempomat avansat
@@ -788,10 +758,9 @@
             </p>
         </div>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205106493943&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214539000578&amp;blobkey=id"
-                    alt="Ford Focus RS windscreen - Quickclear"/><span class="fv-overlay-icon"></span></a>
+            <img
+                src="/assets/img/focus_rs/1214539000578.jpg"
+                alt="Ford Focus RS windscreen - Quickclear"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Curata-ti parbrizul repede, cu optiunea de Curatare Rapida
@@ -805,10 +774,9 @@
             </p>
         </div>
         <div class="content-block last">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205106485204&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214538998057&amp;blobkey=id"
-                    alt="Ford Focus RS - Rain-sensing wipers"/><span class="fv-overlay-icon"></span></a>
+            <img
+                src="/assets/img/focus_rs/1214538998057.jpg"
+                alt="Ford Focus RS - Rain-sensing wipers"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Stergatoare care se regleaza automat, in functie de ploaie
@@ -840,12 +808,10 @@
         </p>
     </header>
     <article class="content-column left">
-        <div class="img-column"><a
-                href="http://www.ford.ro/cs/ContentServer?cid=1205106494085&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214539000654&amp;blobkey=id"
-                    alt="Ford Focus RS wheel - advanced Intelligent Protection System"/><span
-                    class="fv-overlay-icon"></span></a></div>
+        <div class="img-column"><img
+                src="/assets/img/focus_rs/1214539000654.jpg"
+                alt="Ford Focus RS wheel - advanced Intelligent Protection System"/><span
+                class="fv-overlay-icon"></span></div>
         <div class="content">
             <h3 class="bigHeading02">
                 Sistemele de siguranta coordonate se activeaza intr-o fractiune de secunda
@@ -874,19 +840,16 @@
                 imbunatatit pentru a garanta reactii mai rapide.</p>
             </p>
         </div>
-        <div class="img-column"><a
-                href="http://www.ford.ro/cs/ContentServer?cid=1205106489161&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214538999815&amp;blobkey=id"
-                    alt="Ford Focus RS wheel - Anti-lock braking system"/><span class="fv-overlay-icon"></span></a>
+        <div class="img-column"><img
+                src="/assets/img/focus_rs/1214538999815.jpg"
+                alt="Ford Focus RS wheel - Anti-lock braking system"/><span class="fv-overlay-icon"></span>
         </div>
     </article>
     <article class='two-column'>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205106489846&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214538996766&amp;blobkey=id"
-                    alt="Ford Focus RS on the road - Hill Start Assist"/><span class="fv-overlay-icon"></span></a>
+            <img
+                src="/assets/img/focus_rs/1214538996766.jpg"
+                alt="Ford Focus RS on the road - Hill Start Assist"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Un plus de control in cazul pornirilor in rampa
@@ -900,10 +863,9 @@
             </p>
         </div>
         <div class="content-block last">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205106486863&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214538996167&amp;blobkey=id"
-                    alt="Ford Focus RS on the road - Speed Limiter"/><span class="fv-overlay-icon"></span></a>
+            <img
+                src="/assets/img/focus_rs/1214538996167.jpg"
+                alt="Ford Focus RS on the road - Speed Limiter"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Seteaza propria limita de viteza, iar noul Focus RS o va respecta
@@ -921,10 +883,9 @@
     </article>
     <article class='three-column'>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205106493687&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214538999157&amp;blobkey=id"
-                    alt="Ford Focus RS rear-view mirror"/><span class="fv-overlay-icon"></span></a>
+            <img
+                src="/assets/img/focus_rs/1214538999157.jpg"
+                alt="Ford Focus RS rear-view mirror"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 O oglinda retrovizoare cu functie anti-orbire
@@ -938,11 +899,10 @@
             </p>
         </div>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205106484984&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214538997973&amp;blobkey=id"
-                    alt="Ford Focus RS wheel - Tyre Pressure Monitoring System"/><span
-                    class="fv-overlay-icon"></span></a>
+            <img
+                src="/assets/img/focus_rs/1214538997973.jpg"
+                alt="Ford Focus RS wheel - Tyre Pressure Monitoring System"/><span
+                class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Avertizare timpurie in cazul in care un pneu pierde presiune
@@ -956,10 +916,9 @@
             </p>
         </div>
         <div class="content-block last">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205106485623&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214538998229&amp;blobkey=id"
-                    alt="Ford Focus RS - Active City Stop"/><span class="fv-overlay-icon"></span></a>
+            <img
+                src="/assets/img/focus_rs/1214538998229.jpg"
+                alt="Ford Focus RS - Active City Stop"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Ajuta la un condus mai sigur in oras
@@ -976,10 +935,9 @@
     </article>
     <article class='three-column'>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205106488454&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214538999490&amp;blobkey=id"
-                    alt="Ford Focus RS - Thatcham Category 1 alarm"/><span class="fv-overlay-icon"></span></a>
+            <img
+                src="/assets/img/focus_rs/1214538999490.jpg"
+                alt="Ford Focus RS - Thatcham Category 1 alarm"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Protectie alarmant de buna

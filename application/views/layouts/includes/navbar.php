@@ -149,20 +149,7 @@
 <li class="levelOne" role="menuitem" data-nav="generic">
     <a role="link" href="#" class="om_he_at_li"><span>Tehnologii Ford</span></a>
 
-    <!-- <div class="flyout">
-        <ul class="subMenu" role="menu">
-            <li role="menuitem"><a href="http://www.ford.ro/TehnologiiFord/FordSYNC" class="om_he_ac_li">Ford SYNC</a>
-            </li>
-            <li role="menuitem"><a href="http://www.ford.ro/TehnologiiFord/Ford-SYNC-with-AppLink" class="om_he_ac_li">Ford
-                SYNC
-                with AppLink</a></li>
-            <li role="menuitem"><a href="http://www.ford.ro/TehnologiiFord/Euro_NCAP_Advanced" class="om_he_ac_li">Euro
-                NCAP
-                Advanced</a></li>
-            <li role="menuitem"><a href="http://www.ford.ro/TehnologiiFord/Go_Further" class="om_he_ac_li">Go
-                Further</a></li>
-        </ul>
-    </div> -->
+
 </li>
 <li class="levelOne" role="menuitem" data-nav="generic">
     <a role="link" href="/FordFleet" class="om_he_at_li"><span>Flote</span></a>

@@ -8,9 +8,9 @@
 <div id="xAxis-detailed">
     <nav class="breadCrumb visuallyhidden" role="navigation">
         <ul itemprop="breadcrumb">
-            <li class="home"><a href="http://www.ford.ro/" data-selenium="breadcrumb_home" class="om_bc_li"
+            <li class="home"><a href="../../index" data-selenium="breadcrumb_home" class="om_bc_li"
                                 title="Pagina principal&#259;">Pagina principal&#259;</a><span></span></li>
-            <li data-selenium="breadcrumb_cars"><a href="http://www.ford.ro/Autoturisme" class="om_bc_li">
+            <li data-selenium="breadcrumb_cars"><a href="../../Autoturisme" class="om_bc_li">
                     Autoturisme
                 </a><span></span></li>
             <li data-selenium="breadcrumb_nameplate">Ka+</li>
@@ -289,11 +289,9 @@
         </p>
     </header>
     <article class="content-column left">
-        <div class="img-column"><a
-                href="http://www.ford.ro/cs/ContentServer?cid=1205115905669&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
+        <div class="img-column"> <img
                     src="/assets/img/ka-plus/1214559180794.jpg"
-                    alt="Parcare usoara in spatii inguste"/><span class="fv-overlay-icon"></span></a></div>
+                    alt="Parcare usoara in spatii inguste"/><span class="fv-overlay-icon"></span></div>
         <div class="content">
             <h3 class="bigHeading02">
                 Parcare usoara in spatii inguste
@@ -324,18 +322,14 @@
                 ajutandu-te sa mentii viteza legala, fiind usor de ajustat pe masura ce limita de viteza se schimba.</p>
             </p>
         </div>
-        <div class="img-column"><a
-                href="http://www.ford.ro/cs/ContentServer?cid=1205115902306&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
+        <div class="img-column"> <img
                     src="/assets/img/ka-plus/1214559180114.jpg"
-                    alt="Calatorii mai relaxante"/><span class="fv-overlay-icon"></span></a></div>
+                    alt="Calatorii mai relaxante"/><span class="fv-overlay-icon"></span></div>
     </article>
     <article class="content-column left">
-        <div class="img-column"><a
-                href="http://www.ford.ro/cs/ContentServer?cid=1205115901359&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
+        <div class="img-column"> <img
                     src="/assets/img/ka-plus/1214559179860.jpg"
-                    alt="Pornire din rampa mai usoara"/><span class="fv-overlay-icon"></span></a></div>
+                    alt="Pornire din rampa mai usoara"/><span class="fv-overlay-icon"></span></div>
         <div class="content">
             <h3 class="bigHeading02">
                 Pornire din rampa mai usoara
@@ -353,10 +347,9 @@
     </article>
     <article class='three-column'>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205115903284&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/ka-plus/1214559180464.jpg"
-                    alt="Mentine controlul in permanenta"/><span class="fv-overlay-icon"></span></a>
+                    alt="Mentine controlul in permanenta"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Mentine controlul in permanenta
@@ -371,10 +364,9 @@
             </p>
         </div>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205115907372&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+           <img
                     src="/assets/img/ka-plus/1214559181134.jpg"
-                    alt="Manevrabilitate mai usoara"/><span class="fv-overlay-icon"></span></a>
+                    alt="Manevrabilitate mai usoara"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Manevrabilitate mai usoara
@@ -390,10 +382,9 @@
             </p>
         </div>
         <div class="content-block last">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205115900711&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/ka-plus/1214559179435.jpg"
-                    alt="Vizibilitate excelenta atat ziua, cat si noaptea"/><span class="fv-overlay-icon"></span></a>
+                    alt="Vizibilitate excelenta atat ziua, cat si noaptea"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Vizibilitate excelenta atat ziua, cat si noaptea
@@ -425,12 +416,10 @@
         </p>
     </header>
     <article class="content-column left">
-        <div class="img-column"><a
-                href="http://www.ford.ro/cs/ContentServer?cid=1205115904729&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
+        <div class="img-column"> <img
                     src="/assets/img/ka-plus/1214559180628.jpg"
                     alt="Un motor nou, care sa aiba grija de combustibilul tau"/><span
-                    class="fv-overlay-icon"></span></a></div>
+                    class="fv-overlay-icon"></span></div>
         <div class="content">
             <h3 class="bigHeading02">
                 Un motor nou, care sa aiba grija de combustibilul tau
@@ -457,12 +446,10 @@
                 consumului si parcurgand mai multi kilometri, cu un cost mai mic.</p>
             </p>
         </div>
-        <div class="img-column"><a
-                href="http://www.ford.ro/cs/ContentServer?cid=1205115905553&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
+        <div class="img-column"> <img
                     src="/assets/img/ka-plus/1214559180711.jpg"
                     alt="Economiseste bani atunci cand schimbi treptele de viteza"/><span
-                    class="fv-overlay-icon"></span></a></div>
+                    class="fv-overlay-icon"></span></div>
     </article>
 </div>
 <!--  tabTitle : Confort si avantaje :: btfTabContent : 1205115900570 :: tabContent :  -->
@@ -484,11 +471,9 @@
         </p>
     </header>
     <article class="content-column left">
-        <div class="img-column"><a
-                href="http://www.ford.ro/cs/ContentServer?cid=1205115907165&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
+        <div class="img-column"> <img
                     src="/assets/img/ka-plus/1214559181043.jpg"
-                    alt="Ford SYNC. Tehnologie avansata hands-free."/><span class="fv-overlay-icon"></span></a></div>
+                    alt="Ford SYNC. Tehnologie avansata hands-free."/><span class="fv-overlay-icon"></span></div>
         <div class="content">
             <h3 class="bigHeading02">
                 Ford SYNC. Tehnologie avansata hands-free.
@@ -521,18 +506,14 @@
                 blocheaza dispozitivul in pozitie fixa.</p>
             </p>
         </div>
-        <div class="img-column"><a
-                href="http://www.ford.ro/cs/ContentServer?cid=1205115903893&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
+        <div class="img-column"> <img
                     src="/assets/img/ka-plus/1214559180545.jpg"
-                    alt="Depozitare inteligenta pentru smartphone-uri"/><span class="fv-overlay-icon"></span></a></div>
+                    alt="Depozitare inteligenta pentru smartphone-uri"/><span class="fv-overlay-icon"></span></div>
     </article>
     <article class="content-column left">
-        <div class="img-column"><a
-                href="http://www.ford.ro/cs/ContentServer?cid=1205115901826&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
+        <div class="img-column"> <img
                     src="/assets/img/ka-plus/1214559179943.jpg"
-                    alt="Coloana ta sonora in miscare"/><span class="fv-overlay-icon"></span></a></div>
+                    alt="Coloana ta sonora in miscare"/><span class="fv-overlay-icon"></span></div>
         <div class="content">
             <h3 class="bigHeading02">
                 Coloana ta sonora in miscare
@@ -552,10 +533,9 @@
     </article>
     <article class='two-column'>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205115900288&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/ka-plus/1214559179348.jpg"
-                    alt="Control al temperaturii - intuitiv"/><span class="fv-overlay-icon"></span></a>
+                    alt="Control al temperaturii - intuitiv"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Control al temperaturii - intuitiv
@@ -569,10 +549,9 @@
             </p>
         </div>
         <div class="content-block last">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205115902618&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/ka-plus/1214559180284.jpg"
-                    alt="Un plus de confort cu ajutorul scaunelor incalzite"/><span class="fv-overlay-icon"></span></a>
+                    alt="Un plus de confort cu ajutorul scaunelor incalzite"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Un plus de confort cu ajutorul scaunelor incalzite
@@ -588,10 +567,9 @@
     </article>
     <article class='two-column'>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205115907045&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/ka-plus/1214559180963.jpg"
-                    alt="Oglinzi electrice si pliabile"/><span class="fv-overlay-icon"></span></a>
+                    alt="Oglinzi electrice si pliabile"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Oglinzi electrice si pliabile
@@ -605,10 +583,9 @@
             </p>
         </div>
         <div class="content-block last">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205115902036&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/ka-plus/1214559180034.jpg"
-                    alt="Ford EasyFuel, pentru alimentari fara probleme"/><span class="fv-overlay-icon"></span></a>
+                    alt="Ford EasyFuel, pentru alimentari fara probleme"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Ford EasyFuel, pentru alimentari fara probleme
@@ -643,11 +620,9 @@
         </p>
     </header>
     <article class="content-column left">
-        <div class="img-column"><a
-                href="http://www.ford.ro/cs/ContentServer?cid=1205115905789&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
+        <div class="img-column"><img
                     src="/assets/img/ka-plus/1214559180877.jpg"
-                    alt="Ford SYNC cu Asistenta de urgenta"/><span class="fv-overlay-icon"></span></a></div>
+                    alt="Ford SYNC cu Asistenta de urgenta"/><span class="fv-overlay-icon"></span></div>
         <div class="content">
             <h3 class="bigHeading02">
                 Ford SYNC cu Asistenta de urgenta
@@ -676,18 +651,15 @@
                 protejarea toracelui si airbaguri tip cortina pentru protejarea capului.</p>
             </p>
         </div>
-        <div class="img-column"><a
-                href="http://www.ford.ro/cs/ContentServer?cid=1205115901239&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
+        <div class="img-column"> <img
                     src="/assets/img/ka-plus/1214559179777.jpg"
-                    alt="Protectie completa"/><span class="fv-overlay-icon"></span></a></div>
+                    alt="Protectie completa"/><span class="fv-overlay-icon"></span></div>
     </article>
     <article class='two-column'>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205115902859&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/ka-plus/1214559180372.jpg"
-                    alt="Adauga mai multi soferi cu MyKey®"/><span class="fv-overlay-icon"></span></a>
+                    alt="Adauga mai multi soferi cu MyKey®"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Adauga mai multi soferi cu MyKey<sup>®</sup>
@@ -702,10 +674,9 @@
             </p>
         </div>
         <div class="content-block last">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205115905433&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/ka-plus/1214559179597.jpg"
-                    alt="Avertizare timpurie in cazul unei pene"/><span class="fv-overlay-icon"></span></a>
+                    alt="Avertizare timpurie in cazul unei pene"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Monitorizare a presiunii in pneuri
@@ -722,10 +693,9 @@
     </article>
     <article class='three-column'>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205115902497&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+           <img
                     src="/assets/img/ka-plus/1214559180204.jpg"
-                    alt="Avertismente luminoase pentru franare de urgenta"/><span class="fv-overlay-icon"></span></a>
+                    alt="Avertismente luminoase pentru franare de urgenta"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Avertismente luminoase pentru franare de urgenta
@@ -739,10 +709,9 @@
             </p>
         </div>
         <div class="content-block">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205116425125&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/ka-plus/1214559179069.jpg"
-                    alt="Sisteme de securitate inteligente"/><span class="fv-overlay-icon"></span></a>
+                    alt="Sisteme de securitate inteligente"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Sisteme de securitate inteligente
@@ -755,10 +724,9 @@
             </p>
         </div>
         <div class="content-block last">
-            <a href="http://www.ford.ro/cs/ContentServer?cid=1205115904969&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-               class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+            <img
                     src="/assets/img/ka-plus/1214559179518.jpg"
-                    alt="Mentii controlul indiferent de conditii"/><span class="fv-overlay-icon"></span></a>
+                    alt="Mentii controlul indiferent de conditii"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Mentii controlul indiferent de conditii

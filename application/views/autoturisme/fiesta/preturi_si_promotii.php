@@ -295,13 +295,13 @@
     <div id="promo-carousel-timer">7500</div>
     <div class="slide-wrapper">
         <article class="slate slide">
-            <a href='http://www.ford.ro/Promotii/Autoturisme/Ecobonus/OfertaFiesta'>
+            <a href='/Promotii/Autoturisme/Ecobonus/OfertaFiesta'>
 <span class="active-promo-rover">
 <span class="bg-opacity"></span>
 <span class="link-icon"></span>
 </span>
                 <img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpg&amp;blobwhere=1214564411460&amp;blobkey=id"
+                    src="/assets/img/fiesta/1214564411460.jpg"
                     alt="Ford Fiesta">
 
                 <p class="promo-carousel-text"><span class="promo-carousel-bold">Vezi detaliile ofertei</span></p></a>
@@ -311,7 +311,7 @@
 <section id="non-js-promoCarousel" class="non-js-promo-carousel box-shadow">
     <div class="slide-wrapper">
         <p class="promo-carousel-text"><a
-                href="http://www.ford.ro/cs/ContentServer?pagename=RORO4_ENGINE/EP2/common/promo/M48_PromoBlock&amp;c=Promo_C&amp;cid=Vezi%20detaliile%20ofertei"
+                href="#"
                 target="_blank">Ford Fiesta</a></p>
     </div>
 </section>

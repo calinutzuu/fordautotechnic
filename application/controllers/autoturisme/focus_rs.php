@@ -30,11 +30,11 @@ class focus_rs extends CI_Controller
             ->build('autoturisme/focus_rs/design');
     }
 
-    public function caracteriRSici()
+    public function caracteristici()
     {
         $this->template
             ->title('Ford Focus RS - CaracteriRSici', 'Ford AutoTechnic')
-            ->build('autoturisme/focus_rs/caracteriRSici');
+            ->build('autoturisme/focus_rs/caracteristici');
     }
 
     public function accesorii()

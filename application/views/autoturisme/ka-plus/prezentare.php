@@ -9,9 +9,9 @@
 <div id="xAxis-detailed">
     <nav class="breadCrumb visuallyhidden" role="navigation">
         <ul itemprop="breadcrumb">
-            <li class="home"><a href="http://www.ford.ro/" data-selenium="breadcrumb_home" class="om_bc_li"
+            <li class="home"><a href="../../index" data-selenium="breadcrumb_home" class="om_bc_li"
                                 title="Pagina principal&#259;">Pagina principal&#259;</a><span></span></li>
-            <li data-selenium="breadcrumb_cars"><a href="http://www.ford.ro/Autoturisme" class="om_bc_li">
+            <li data-selenium="breadcrumb_cars"><a href="../../Autoturisme" class="om_bc_li">
                     Autoturisme
                 </a><span></span></li>
             <li data-selenium="breadcrumb_nameplate">Ka+</li>
@@ -285,12 +285,10 @@
                             <!--  tabTitle : Prezentare generala :: btfTabContent : 1205115902291 :: tabContent :  -->
                             <div id='tab1' class="secondary-tab-content">
                                 <article class="content-column left">
-                                    <div class="img-column"><a
-                                            href="http://www.ford.ro/cs/ContentServer?cid=1205115900843&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                                            class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
-                                                src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214559170373&amp;blobkey=id"
+                                    <div class="img-column"><img
+                                                src="/assets/img/ka-plus/1214559170373.jpg"
                                                 alt="Spatiu din belsug pentru toata lumea"/><span
-                                                class="fv-overlay-icon"></span></a></div>
+                                                class="fv-overlay-icon"></span></div>
                                     <div class="content">
                                         <h3 class="bigHeading02">
                                             Spatiu din belsug pentru toata lumea
@@ -324,12 +322,10 @@
                                         <div></div>
                                         </p>
                                     </div>
-                                    <div class="img-column"><a
-                                            href="http://www.ford.ro/cs/ContentServer?cid=1205115903778&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                                            class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
-                                                src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214559170460&amp;blobkey=id"
+                                    <div class="img-column"> <img
+                                                src="/assets/img/ka-plus/1214559170460.jpg"
                                                 alt="Utilizeaza la maximum fiecare litru de combustibil"/><span
-                                                class="fv-overlay-icon"></span></a></div>
+                                                class="fv-overlay-icon"></span></div>
                                 </article>
                             </div>
                             <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->

@@ -9,12 +9,12 @@
 <div id="xAxis-detailed">
     <nav class="breadCrumb visuallyhidden" role="navigation">
         <ul itemprop="breadcrumb">
-            <li class="home"><a href="http://www.ford.ro/" data-selenium="breadcrumb_home" class="om_bc_li"
+            <li class="home"><a href="../../index" data-selenium="breadcrumb_home" class="om_bc_li"
                                 title="Pagina principal&#259;">Pagina principal&#259;</a><span></span></li>
-            <li data-selenium="breadcrumb_cars"><a href="http://www.ford.ro/Autoturisme" class="om_bc_li">
+            <li data-selenium="breadcrumb_cars"><a href="../../Autoturisme" class="om_bc_li">
                     Autoturisme
                 </a><span></span></li>
-            <li data-selenium="breadcrumb_nameplate">Focus RS</li>
+            <li data-selenium="breadcrumb_nameplate">Ka+</li>
         </ul>
     </nav>
     <script>
@@ -65,7 +65,7 @@
         <div itemscope itemtype="http://schema.org/ImageObject">
             <ul class="nameplate x-axis" id="vvmRoot">
                 <li class="default-nameplate-vehicle"
-                    style="background-image:url(http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpg&amp;blobwhere=1214538993941&amp;blobkey=id)">
+                    style="background-image:url(/assets/img/focus_rs/1214538993941.jpg)">
                     <div class="layered-nameplate-image">
                         <div class="image-holder">
                         </div>
@@ -315,11 +315,9 @@
                                     </p>
                                 </header>
                                 <article class="content-column left">
-                                    <div class="img-column"><a
-                                            href="http://www.ford.ro/cs/ContentServer?cid=1205106491082&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                                            class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
-                                                src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214539002700&amp;blobkey=id"
-                                                alt="Focus RS rear"/><span class="fv-overlay-icon"></span></a></div>
+                                    <div class="img-column"> <img
+                                                src="/assets/img/focus_rs/1214539002700.jpg"
+                                                alt="Focus RS rear"/><span class="fv-overlay-icon"></span></div>
                                     <div class="content">
                                         <h3 class="bigHeading02">
                                             Control maxim la viraje
@@ -331,7 +329,7 @@
                                             <a onClick="triggerOverlay('/cs/ContentServer?pagename=ENGInE/Overlay_C/ShowOverlay%26pubid=1204961250932%26c=Overlay_C%26cid=1205107364318%26overlayheight=439%26overlaywidth=780' ,'overlay','Tractiunea%20integrala','Close','439','780'); return false;"
                                                target="_blank" title="Tractiunea integrala" data-media-overlay="{"
                                                class="js-overlay"
-                                               href="http://www.ford.ro/cs/ContentServer?pagename=ENGInE/EP2/common/media/MediaOverlay&amp;c=Video_C&amp;cid=1205107356095&amp;site=ENGInE">Tractiunea
+                                               href="#">Tractiunea
                                                 integrala (AWD)</a> Ford Performance cu control dinamic al vectorului de
                                             cuplu de torsiune asigura o acceleratie laterala de peste 1 g, plus aderenta
                                             exceptionala si manevrabilitate de inalta precizie atunci cand faci virajele
@@ -365,11 +363,9 @@
                                             turatie libera este setat la limita maxima de 6.800 rpm.</p>
                                         </p>
                                     </div>
-                                    <div class="img-column"><a
-                                            href="http://www.ford.ro/cs/ContentServer?cid=1205106485324&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                                            class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
-                                                src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214539002887&amp;blobkey=id"
-                                                alt="Focus RS front"/><span class="fv-overlay-icon"></span></a></div>
+                                    <div class="img-column"> <img
+                                                src="/assets/img/focus_rs/1214539002887.jpg"
+                                                alt="Focus RS front"/><span class="fv-overlay-icon"></span></div>
                                 </article>
                             </div>
                             <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
