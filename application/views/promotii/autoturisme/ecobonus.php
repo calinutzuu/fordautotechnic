@@ -131,14 +131,14 @@
             </script>
             <div id="mdp">
                 <img
-                    src='http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214564411912&amp;blobkey=id'
+                    src='/assets/img/1214564411912.jpg'
                     alt='FordFleet' onclick="omnitureViewPhoto()">
             </div>
             <div class="mdp2" id="mdpImageControl">
                 <table>
                     <tr>
                         <td id="mdp2Fullscreen">
-                            <a href="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214564411913&amp;blobkey=id"
+                            <a href="/assets/img/1214564411912.jpg"
                                onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214564411913&amp;blobkey=id', 'FordFleet');
 if(typeof(sford)=='object') omnitureMDPFullScreen('1205110699178'); return false;">
                                 Fullscreen

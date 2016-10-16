@@ -268,7 +268,7 @@
     <div id="promo-carousel-timer">7500</div>
     <div class="slide-wrapper">
         <article class="slate slide">
-            <a href='http://www.ford.ro/Promotii/Autoturisme/Rabla/OfertaEcoSport'>
+            <a href='/Promotii/Autoturisme/Rabla/OfertaEcoSport'>
 <span class="active-promo-rover">
 <span class="bg-opacity"></span>
 <span class="link-icon"></span>
@@ -283,7 +283,7 @@
 <section id="non-js-promoCarousel" class="non-js-promo-carousel box-shadow">
     <div class="slide-wrapper">
         <p class="promo-carousel-text"><a
-                href="http://www.ford.ro/cs/ContentServer?pagename=RORO4_ENGINE/EP2/common/promo/M48_PromoBlock&amp;c=Promo_C&amp;cid=Oferta%20speciala%20prin%20programul%20rabla!"
+                href="#"
                 target="_blank">Ford Fiesta</a></p>
     </div>
 </section>

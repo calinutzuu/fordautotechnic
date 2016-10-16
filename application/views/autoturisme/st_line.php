@@ -212,7 +212,7 @@
     OM.om_he_pv_tc = { "tag": "pv nav true choice link", "clickType": "o"};</script>
 <!-- OMNITURE ME -->
 <script type="text/javascript"
-        src="http://www.ford.ro/cs/ContentServer?cid=1204986890525&amp;pagename=ENGInE%2Ftagging%2FOmnitureScript"></script>
+        src="/assets/img/st_line/1204986890525.jpg"></script>
 <script type="text/javascript">var sford = new Object;
     sford.tabName = '';
     sford.pageName = 'brand:passenger:range overview:st range';
@@ -268,21 +268,21 @@
     function createPath() {
         var currentURL = window.location.href;
         if (!currentURL.indexOf("/cs/ContentServer?") > -1 && !currentURL.indexOf("/cs/Satellite?") > -1) {
-            if (currentURL.indexOf("=") > -1 && currentURL.indexOf("http://www.ford.ro/") > -1 && !currentURL.indexOf("?") > -1) {
+            if (currentURL.indexOf("=") > -1 && currentURL.indexOf("index") > -1 && !currentURL.indexOf("?") > -1) {
                 currentURL = currentURL.substring(0, currentURL.indexOf("="));
-                currentURL = currentURL.substring(0, currentURL.lastIndexOf("http://www.ford.ro/"));
+                currentURL = currentURL.substring(0, currentURL.lastIndexOf("index"));
             }
             if (currentURL.indexOf("?") > -1) {
                 currentURL = currentURL.substring(0, currentURL.indexOf("?"));
-                if (currentURL.indexOf("=") > -1 && currentURL.indexOf("http://www.ford.ro/") > -1) {
+                if (currentURL.indexOf("=") > -1 && currentURL.indexOf("index") > -1) {
                     currentURL = currentURL.substring(0, currentURL.indexOf("="));
-                    currentURL = currentURL.substring(0, currentURL.lastIndexOf("http://www.ford.ro/"));
+                    currentURL = currentURL.substring(0, currentURL.lastIndexOf("index"));
                 }
             }
         }
 //Remove all trailing /
-        while (currentURL.endsWith("http://www.ford.ro/")) {
-            currentURL = currentURL.substring(0, currentURL.lastIndexOf("http://www.ford.ro/"));
+        while (currentURL.endsWith("index")) {
+            currentURL = currentURL.substring(0, currentURL.lastIndexOf("index"));
         }
         return currentURL;
     }
