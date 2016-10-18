@@ -604,7 +604,7 @@ return false;"
                                     <div>&nbsp;</div>
                                     <div><strong>Doar</strong>&nbsp; <strong><span style="color: rgb(255, 0, 0);"><span
                                                     style="font-size: x-large;"><span
-                                                        style="color:#425968">359 lei</span></span></span></strong><span
+                                                        style="color:#425968">369 lei</span></span></span></strong><span
                                             style="color: red"><span
                                                 style="font-size: x-large;"><strong> </strong></span></span></div>
                                 </div>

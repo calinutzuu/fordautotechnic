@@ -66,7 +66,7 @@
                 <article class="content-column centered">
                     <div class="content">
                         <h3 class="bigHeading02">
-                            Fa o dec1214555845342laratie plina de incredere cu noul Ford Edge!
+                            Fa o declaratie plina de incredere cu noul Ford Edge!
                         </h3>
 
                         <p>
