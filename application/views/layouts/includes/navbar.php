@@ -8,10 +8,13 @@
 <!-- TODO : to get common site from sitesetup instead of hardcoding and to check on what basis image data will be retrieved (currently retrieved based on name)  -->
 <div id="logo">
     <h1 class="bigHeading visuallyhidden">Ford</h1>
-    <a href="/">
-        <img src='<?=base_url('assets/img/logo_a.png')?>' role="presentation" alt="Ford">
+    <a href="http://www.ford.ro/">
+        <img src='<?=base_url('assets/img/logo_ford.png')?>' role="presentation" alt="Ford">
     </a>
+    <h1 class="bigHeading visuallyhidden">Ford</h1>
+   
 </div>
+
 
 <nav id="mainTopNav" role="navigation">
 <h2 class="navTitle">Navigare site Ford</h2>
