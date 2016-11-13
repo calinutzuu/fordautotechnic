@@ -11,8 +11,9 @@
     <a href="http://www.ford.ro/">
         <img src='<?=base_url('assets/img/logo_ford.png')?>' role="presentation" alt="Ford">
     </a>
+
     <h1 class="bigHeading visuallyhidden">Ford</h1>
-   
+
 </div>
 
 
@@ -20,6 +21,13 @@
 <h2 class="navTitle">Navigare site Ford</h2>
 <ul id="sections" role="menu">
 <li class="levelOne" role="menuitem" data-nav="pv">
+
+    <a role="link" class="mainTopNav om_he_pv_li" href="/"><span>Home</span></a>
+
+
+</li>
+<li class="levelOne" role="menuitem" data-nav="pv">
+
 <a role="link" class="mainTopNav om_he_pv_li" href="#"><span>Autoturisme</span></a>
 
 <div class="doormat">
@@ -149,44 +157,45 @@
 <li class="levelOne" role="menuitem" data-nav="generic">
     <a role="link" href="/FordLeasing/Overview" class="om_he_at_li"><span>Finantare</span></a>
 </li>
-<li class="levelOne" role="menuitem" data-nav="generic">
-    <a role="link" href="#" class="om_he_at_li"><span>Tehnologii Ford</span></a>
+
+    <!--<li class="levelOne" role="menuitem" data-nav="generic">
+        <a role="link" href="#" class="om_he_at_li"><span>Tehnologii Ford</span></a>
 
 
-</li>
-<li class="levelOne" role="menuitem" data-nav="generic">
-    <a role="link" href="/FordFleet" class="om_he_at_li"><span>Flote</span></a>
-</li>
-<li class="levelOne" role="menuitem" data-nav="generic">
-    <a role="link" href="/Business_Service_Club" class="om_he_at_li"><span>Business Service Club</span></a>
-</li>
-<li class="levelOne" role="menuitem" data-nav="generic">
-    <a role="link" href="/FordService/Motorcraft" class="om_he_at_li"><span>Service</span></a>
+    </li> -->
+    <li class="levelOne" role="menuitem" data-nav="generic">
+        <a role="link" href="/FordFleet" class="om_he_at_li"><span>Flote</span></a>
+    </li>
+    <li class="levelOne" role="menuitem" data-nav="generic">
+        <a role="link" href="/Business_Service_Club" class="om_he_at_li"><span>Business Service Club</span></a>
+    </li>
+    <li class="levelOne" role="menuitem" data-nav="generic">
+        <a role="link" href="/FordService/Motorcraft" class="om_he_at_li"><span>Service</span></a>
 
-    <div class="flyout">
-        <ul class="subMenu" role="menu">
-            <li role="menuitem"><a href="/FordService/Motorcraft" class="om_he_ac_li">Ford Motorcraft</a></li>
-            <li role="menuitem"><a href="/FordService/FordServiceApp" class="om_he_ac_li">Ford Service App</a></li>
-            <li role="menuitem"><a href="/FordService/Accesorii" class="om_he_ac_li">Accesorii</a></li>
-            <li role="menuitem"><a href="/FordService/Service" class="om_he_ac_li">Service</a></li>
-            <li role="menuitem"><a href="/FordService/GarantiiSiRevizii" class="om_he_ac_li">Garanţii şi revizii Ford</a></li>
-            <li role="menuitem"><a href="/FordService/FordAsistenta12" class="om_he_ac_li">FordAsistenta 12</a></li>
-            <li role="menuitem"><a href="/FordService/AccidenteSiReparatii" class="om_he_ac_li">Accidente şi reparaţii</a></li>
-            <li role="menuitem"><a href="/FordService/Ford-Lifestyle-Collection" class="om_he_ac_li">Ford Lifestyle Collection</a></li>
-            <li role="menuitem"><a href="/FordService/FordSYNC" class="om_he_ac_li">Ford SYNC</a></li>
-            <li role="menuitem"><a href="/FordService/Ford-SYNC-cu-AppLink" class="om_he_ac_li">Ford SYNC cu AppLink</a></li>
-            <li role="menuitem"><a href="/FordService/FordSYNCBluetooth" class="om_he_ac_li">Ford SYNC cu Bluetooth</a></li>
-            <li role="menuitem"><a href="/FordService/Euro_NCAP_Advanced" class="om_he_ac_li">Euro NCAP Advanced</a></li>
-            <li role="menuitem"><a href="/FordService/E10" class="om_he_ac_li">Combustibil E10</a></li>
-            <li role="menuitem"><a href="/FordService/IntrebariFrecvente" class="om_he_ac_li">Întrebări frecvente</a></li>
-            <li role="menuitem"><a href="/FordService/Refrigerant_R134a" class="om_he_ac_li">Refrigerant R134a</a></li>
-        </ul>
-    </div>
-</li>
+        <div class="flyout">
+            <ul class="subMenu" role="menu">
+                <li role="menuitem"><a href="/FordService/Motorcraft" class="om_he_ac_li">Ford Motorcraft</a></li>
+                <li role="menuitem"><a href="/FordService/FordServiceApp" class="om_he_ac_li">Ford Service App</a></li>
+                <li role="menuitem"><a href="/FordService/Accesorii" class="om_he_ac_li">Accesorii</a></li>
+                <li role="menuitem"><a href="/FordService/Service" class="om_he_ac_li">Service</a></li>
+                <li role="menuitem"><a href="/FordService/GarantiiSiRevizii" class="om_he_ac_li">Garanţii şi revizii Ford</a></li>
+                <li role="menuitem"><a href="/FordService/FordAsistenta12" class="om_he_ac_li">FordAsistenta 12</a></li>
+                <li role="menuitem"><a href="/FordService/AccidenteSiReparatii" class="om_he_ac_li">Accidente şi reparaţii</a></li>
+                <li role="menuitem"><a href="/FordService/Ford-Lifestyle-Collection" class="om_he_ac_li">Ford Lifestyle Collection</a></li>
+                <li role="menuitem"><a href="/FordService/FordSYNC" class="om_he_ac_li">Ford SYNC</a></li>
+                <li role="menuitem"><a href="/FordService/Ford-SYNC-cu-AppLink" class="om_he_ac_li">Ford SYNC cu AppLink</a></li>
+                <li role="menuitem"><a href="/FordService/FordSYNCBluetooth" class="om_he_ac_li">Ford SYNC cu Bluetooth</a></li>
+                <li role="menuitem"><a href="/FordService/Euro_NCAP_Advanced" class="om_he_ac_li">Euro NCAP Advanced</a></li>
+                <li role="menuitem"><a href="/FordService/E10" class="om_he_ac_li">Combustibil E10</a></li>
+                <li role="menuitem"><a href="/FordService/IntrebariFrecvente" class="om_he_ac_li">Întrebări frecvente</a></li>
+                <li role="menuitem"><a href="/FordService/Refrigerant_R134a" class="om_he_ac_li">Refrigerant R134a</a></li>
+            </ul>
+        </div>
+    </li>
 
-</ul>
-</nav>
-<!--  TODO : breadcrumb navigation, viewAs and search field html fragment goes here  -->
+    </ul>
+    </nav>
+    <!--  TODO : breadcrumb navigation, viewAs and search field html fragment goes here  -->
 <div class="topContainer">
     <div id="fr" class="fr">
         <form class="searchBox fl" method="get" action="http://www.ford.ro/cs/ContentServer" role="search">

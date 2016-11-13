@@ -55,17 +55,17 @@
                             </div>
                             <ul class="navsubmenu">
                                 <li class=''>
-                                    <a href='../Ecobonus'>Ecobonus</a></li>
+                                    <a href='/Promotii/Autoturisme/Ecobonus'>Ecobonus</a></li>
                                 <li class=''>
-                                    <a href='../NoulKAPlus'>Noul KA Plus</a></li>
+                                    <a href='/Promotii/Autoturisme/NoulKAPlus'>Noul KA Plus</a></li>
                                 <li class=''>
-                                    <a href='../NoulFordEdge'>Noul Ford Edge</a></li>
+                                    <a href='/Promotii/Autoturisme/NoulFordEdge'>Noul Ford Edge</a></li>
                                 <li class=''>
-                                    <a href='../KugaSummerEdition'>Kuga Summer Edition</a></li>
+                                    <a href='/Promotii/Autoturisme/KugaSummerEdition'>Kuga Summer Edition</a></li>
                                 <li class=''>
-                                    <a href='../BusinessWeeks'>BusinessWeeks</a></li>
+                                    <a href='/Promotii/Autoturisme/BusinessWeeks'>BusinessWeeks</a></li>
                                 <li class=''>
-                                    <a href='../PromotieFlote'>Promotie Flote</a></li>
+                                    <a href='/Promotii/Autoturisme/PromotieFlote'>Promotie Flote</a></li>
                             </ul>
                             <div class="navsubmenubottom">
                             </div>

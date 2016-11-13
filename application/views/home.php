@@ -5,6 +5,28 @@
             <!--Rendering the Image Panel-->
             <article role="option">
                 <a class="carImg" href="#img1">
+                    <img src="/assets/img/prima_pag.jpg" alt="" role="presentation"></a>
+
+                <div class="innerBox posBottomLeft SlateText">
+                    <div class="">
+                        <h2 class="bigHeading02">
+                        </h2>
+
+                        <p class="captionTxt">
+                        </p>
+
+                        <div class="btnwrapper">
+                            <div class="btnLink light">
+                                <a role="button" class="om_ca_in"
+                                   href="https://www.youtube.com/watch?v=Z8tKGd3ahHc">URMARESTE FILMUL</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </article>
+
+            <article role="option">
+                <a class="carImg" href="#img1">
                     <img src="/assets/img/1214565385811.jpg" alt="" role="presentation"></a>
 
                 <div class="innerBox posBottomLeft SlateText">
@@ -24,6 +46,8 @@
                     </div>
                 </div>
             </article>
+
+
 
             <article role="option">
                 <a class="carImg" href="#img1">
