@@ -57,7 +57,7 @@
                             <li class=''>
                                 <a href='NoulFordEdge'>Noul Ford Edge</a></li>
                             <li class=''>
-                                <a href='KugaSummerEdition'>Kuga Summer Edition</a></li>
+                                <a href='KugaSummerEdition'>Ford Kuga</a></li>
                             <li class=''>
                                 <a href='BusinessWeeks'>BusinessWeeks</a></li>
                             <li class=''>

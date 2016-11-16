@@ -82,7 +82,7 @@
                             <img src="/assets/img/promotii/1214566222749.jpg" alt="Ford Edge on the road"/><span
                                 class="fv-overlay-icon"></span></a></div>
                 </article>
-                <article class="content-column centered">
+             <!--   <article class="content-column centered">
                     <div class="content">
                         <h3 class="bigHeading02">
                             Oferte speciale prin programul rabla!
@@ -99,8 +99,8 @@
                         </p>
                     </div>
                     <div class="img-column"><img src="/assets/img/promotii/1214559638548.jpg" alt="Eco Bonus"/></div>
-                </article>
-                <article class="content-column centered">
+                </article> -->
+             <!--   <article class="content-column centered">
                     <div class="content">
                         <h3 class="bigHeading02">
                             Mergi mai departe cu Ford Ecobonus!
@@ -123,22 +123,22 @@
                     </div>
                     <div class="img-column"><img src="/assets/img/1214564411544.jpg" alt="Eco Bonus"/></div>
                     <br>
-                </article>
+                </article> -->
                 <article class="content-column centered">
                     <div class="content">
                         <h3 class="bigHeading02">
-                            Ford Kuga Summer Edition 4x4
+                            Promotie Ford Kuga
                         </h3>
 
                         <p>
 
-                        <p>acum te poti bucura de SUV-ul tau preferat intr-o editie speciala, CU un <strong>avantaj
+                        <p>acum te poti bucura de SUV-ul tau preferat intr-o editie speciala, </br> CU un <strong>avantaj
                                 client de 5.500&euro;*, TVA inclus! </strong><br> <br> <a
                                 HREF="Autoturisme/KugaSummerEdition"><u>Click aici pentru detalii</u></a></p>
                         </p>
                     </div>
                     <div class="img-column"><br>
-                        <img src="/assets/img/promotii/1214560851899.jpg" alt="Kuga Summer Edition"/></div>
+                        <img src="/assets/img/1214573743802.jpg" alt="Ford Kuga"/></div>
                 </article>
                 <article class="content-column centered">
                     <div class="content">
@@ -155,7 +155,7 @@
                         </p>
                     </div>
                     <div class="img-column"><br>
-                        <img src="/assets/img/1214565385532.jpg" alt="Kuga Summer Edition"/></div>
+                        <img src="/assets/img/1214565385532.jpg" alt="Ford Kuga"/></div>
                 </article>
                 <br>
 
