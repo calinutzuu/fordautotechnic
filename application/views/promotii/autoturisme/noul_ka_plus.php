@@ -51,7 +51,7 @@
             <div class="navdivider"></div>
             <ul id="nextSteps" class="nextSteps">
                 <li id='menu1205110702778' class=''>
-                    <a href='Ecobonus'/>Ecobonus</a>
+                    <a href='BlackFriday'/>Black Friday</a>
                     <div id="navsubmenu" class="navsubmenu">
                         <div class="navsubmenutop">
                         </div>
@@ -85,7 +85,7 @@
                     </script>
                 </li>
                 <li id='menu1205119421517' class=''>
-                    <a href='KugaSummerEdition'/>Kuga Summer Edition</a>
+                    <a href='KugaSummerEdition'/>Ford Kuga</a>
                     <script type="text/javascript">
                         document.id('menu1205119421517').addClass("navnextSteps");
                     </script>

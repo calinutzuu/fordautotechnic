@@ -98,12 +98,12 @@ class Autoturisme extends CI_Controller
             ->build('promotii/autoturisme/rabla/oferta_ecosport');
     }
 
-    public function ecobonus()
+    public function black_friday()
     {
         $this->template
             ->set_layout('promotii')
             ->title('Ecobonus', 'Ford AutoTechnic')
-            ->build('promotii/autoturisme/ecobonus');
+            ->build('promotii/autoturisme/black_friday');
     }
 
     public function oferta_fiesta_e()

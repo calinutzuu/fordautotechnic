@@ -237,6 +237,8 @@ $route['Promotii/Autoturisme/BusinessWeeks'] = 'promotii/autoturisme/business_we
 $route['Promotii/Autoturisme/PromotieFlote'] = 'promotii/autoturisme/promotie_flote';
 
 $route['Promotii/Autoturisme/Ecobonus'] = 'promotii/autoturisme/ecobonus';
+$route['Promotii/Autoturisme/BlackFriday'] = 'promotii/autoturisme/black_friday';
+
 $route['Promotii/Autoturisme/Ecobonus/OfertaFiesta'] = 'promotii/autoturisme/oferta_fiesta_e';
 $route['Promotii/Autoturisme/Ecobonus/OfertaBMAX'] = 'promotii/autoturisme/oferta_bmax_e';
 $route['Promotii/Autoturisme/Ecobonus/OfertaFocus'] = 'promotii/autoturisme/oferta_focus_e';

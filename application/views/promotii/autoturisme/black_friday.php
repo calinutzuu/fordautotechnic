@@ -1,4 +1,3 @@
-
 <div id="top_anchor"><a name="top"></a></div>
 <!--<START_MHB001 >-->
 <div id="masthead">
@@ -34,13 +33,15 @@
                         </div>
                         <ul class="navsubmenu">
                             <li class=''>
-                                <a href='../Autoturisme'>Promo&#355;ii autoturisme</a></li>
+                                <a href='/Promotii/Autoturisme'>Promo&#355;ii autoturisme</a></li>
                             <li class=''>
-                                <a href='../comerciale'>Promo&#539;ii vehicule comerciale</a></li>
+                                <a href='/Promotii/comerciale'>Promo&#539;ii vehicule comerciale</a>
+                            </li>
                             <li class=''>
-                                <a href='../FordService/Motorcraft'>Promo&#355;ii service</a></li>
+                                <a href='/Promotii/PromotiiService'>Promo&#355;ii service</a></li>
                             <li class=''>
-                                <a href='../promotii-accesorii'>Promo&#355;ii accesorii</a></li>
+                                <a href='/Promotii/promotii-accesorii'>Promo&#355;ii accesorii</a>
+                            </li>
                         </ul>
                         <div class="navsubmenubottom">
                         </div>
@@ -50,33 +51,7 @@
             </ul>
             <div class="navdivider"></div>
             <ul id="nextSteps" class="nextSteps">
-                <li id='menu1205110702778' class=''>
-                    <a href='BlackFriday'/>Black Friday</a>
-                    <div id="navsubmenu" class="navsubmenu">
-                        <div class="navsubmenutop">
-                        </div>
-                        <ul class="navsubmenu">
-                            <li class=''>
-                                <a href='Ecobonus/OfertaFiesta'>Oferta Fiesta</a></li>
-                            <li class=''>
-                                <a href='Ecobonus/OfertaFocus'>Oferta Focus</a></li>
-                            <li class=''>
-                                <a href='Ecobonus/OfertaBMAX'>Oferta B-MAX</a></li>
-                            <li class=''>
-                                <a href='Ecobonus/OfertaMondeo'>Oferta Mondeo</a></li>
-                            <li class=''>
-                                <a href='Ecobonus/OfertaEcoSport'>Oferta EcoSport</a></li>
-                            <li class=''>
-                                <a href='Ecobonus/Rezervare'>Rezervare</a></li>
-                            <li class=''>
-                                <a href='Ecobonus/Procedura'>Procedura</a></li>
-                            <li class=''>
-                                <a href='Ecobonus/WeekendulInovatiei'>Weekendul Inovatiei</a></li>
-                        </ul>
-                        <div class="navsubmenubottom">
-                        </div>
-                    </div>
-                </li>
+                <li class="selected"><p>Black Friday</p></li>
                 <li id='menu1205122624174' class=''>
                     <a href='NoulKAPlus'/>Noul KA Plus</a>
                     <script type="text/javascript">
@@ -90,7 +65,7 @@
                     </script>
                 </li>
                 <li id='menu1205119421517' class=''>
-                    <a href='KugaSummerEdition'/>Kuga Summer Edition</a>
+                    <a href='FordKuga'/>Ford Kuga</a>
                     <script type="text/javascript">
                         document.id('menu1205119421517').addClass("navnextSteps");
                     </script>
@@ -101,7 +76,12 @@
                         document.id('menu1205113482626').addClass("navnextSteps");
                     </script>
                 </li>
-                <li class="selected"><p>Promotie Flote</p></li>
+                <li id='menu1205122642685' class=''>
+                    <a href='PromotieFlote'/>Promotie Flote</a>
+                    <script type="text/javascript">
+                        document.id('menu1205122642685').addClass("navnextSteps");
+                    </script>
+                </li>
             </ul>
             <div class="navbottom"></div>
         </div>
@@ -125,22 +105,22 @@
             </script>
             <div id="mdp">
                 <img
-                    src='/assets/img/1214564411644.jpg'
-                    alt='Promotie Flote' onclick="omnitureViewPhoto()">
+                    src='/assets/img/promotii/1214577744673.jpg'
+                    alt='Black Friday' onclick="omnitureViewPhoto()">
             </div>
             <div class="mdp2" id="mdpImageControl">
                 <table>
                     <tr>
                         <td id="mdp2Fullscreen">
-                            <a href="/assets/img/1214564411644.jpg"
-                               onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214564411645&amp;blobkey=id', 'Promotie+Flote');
-if(typeof(sford)=='object') omnitureMDPFullScreen('1205122637759'); return false;">
+                            <a href="/assets/img/promotii/1214577744673.jpg"
+                               onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214577744674&amp;blobkey=id', 'Black+Friday');
+if(typeof(sford)=='object') omnitureMDPFullScreen('1205128349190'); return false;">
                                 Fullscreen
                             </a>
                         </td>
                         <td id="mdp2Description" style="width:50%">
                             <a id="mdpCaption">
-                                Promotie Flote
+                                Black Friday
                             </a>
                         </td>
                         <td id="mdp2Right">
@@ -171,32 +151,26 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205122637759'); return false
     </div>
     <div id="container_center">
         <div class="center_item">
-            <div class="btoArticleTitle">Promotie pentru persoane juridice - bonus de pana la 1.000 € (TVA inclus)* in
-                carburant!
-            </div>
+            <div class="btoArticleTitle">FORD BLACK FRIDAY UPGRADE EVENT – avantaj client de pana la 8.900 €*!</div>
             <div class="btoArticleText">
                 <div class="btoArticleAbstract">
-                    <div>A venit timpul sa iti maresti parcul auto sau sa ti-l innoiesti? Acum poti beneficia de un
-                        bonus suplimentar pentru afacerea ta.<br> <br> La achizitionarea unuia dintre modelele Ford
-                        Mondeo, S-Max si Galaxy beneficiezi acum de <strong>carburant in valoare de 500 &euro;, TVA
-                            inclus*</strong>, in timp ce pentru versiunile Mondeo Vignale si S-Max Vignale bonusul de
-                        <strong>carburant este in valoare de 1.000 &euro;, TVA inclus*</strong>. <br> <br> Bonusul se
-                        acorda pentru fiecare autoturism cumparat si nu este limitat la un numar maxim de achizitii. Se
-                        ofera sub forma de carduri de carburant care pot fi utilizate in reteaua de benzinarii Mol de pe
-                        intreg teritoriul Romaniei, pe o perioada de 12 luni de la data emiterii. <br> <br> Afla mai
-                        multe despre oferta la consultantul pentru persoane juridice de la cel mai apropiat dealer Ford.
-                        <br> <br> Detalii despre modelele participante la promotie: <br> <br> Ford Mondeo - elegant,
-                        dinamic, ultramodern, cu tehnologii de ultima ora &ndash; click <a
-                            HREF="/Autoturisme/Mondeo">aici</a>.<br> <br> Ford S-Max &ndash;
-                        tehnologii inteligente, stil ultracontemporan, eficient, util &ndash; click <a
-                            HREF="/Autoturisme/Noul-S-MAX">aici</a><br> <br> Ford Galaxy &ndash;
-                        flexibil, spatios, design modern, tehnologii de ultima generatie &ndash; click <a
-                            HREF="/Autoturisme/NoulGalaxy">aici</a><br> <br> Iar despre stilul unic,
-                        experienta premium si serviciile dedicate pe care ti le ofera Ford Mondeo Vignale si Ford S-Max
-                        Vignale, poti afla mai multe <a target="_blank" href="http://vignale.ford.ro/ro-RO/">aici</a>.
-                        <br> <br> <br> <br> <em>*Oferta adresata persoanelor juridice, valabila in limita stocului
-                            disponibil, la dealerii participanti la program. Termenii si conditiile de utilizare a
-                            cardurilor de carburant sunt disponibile in showroom-urile Ford. </em></div>
+                    <div>La Ford, Black Friday inseamna UPGRADE EVENT &ndash; cele mai mari avantaje pentru clienti!
+                        <br> <br> Iti doresti o masina noua cu dotari cat mai bogate? <br> <br> Te tenteaza un nivel de
+                        echipare superior?<br> <br> Cauti motorizari moderne, puternice si eficiente?<br> <br>
+                        Indiferent de modelul care ti se potriveste, acum ai un avantaj client impresionant. <br> <br> -
+                        Ford Mondeo - <strong>avantaj client 8.900 &euro;*, TVA inclus;</strong><br> - Ford Fiesta -
+                        <strong>avantaj client 5.400 &euro;*, TVA inclus;</strong> <br> - Ford Focus - <strong>avantaj
+                            client 5.850 &euro;*, TVA inclus; </strong><br> - Ford Ecosport - <strong>avantaj client
+                            3.750 &euro;*, TVA inclus</strong><br> <br> Stim ca, indiferent cat de buna este oferta, nu
+                        poti lua decizia intr-o singura zi, asa ca <strong>UPGRADE EVENT se desfasoara intre 18 si 27
+                            noiembrie.</strong> Daca esti prea ocupat in timpul saptamanii, <strong>pe 25-27 noiembrie,
+                            avem Ford Open Weekend,</strong> cu program prelungit in toate showroomurile Ford. <br> <br>
+                        Atentie insa &ndash; oferta este valabila in limita stocului disponibil! Asa ca nu mai
+                        astepta &ndash; programeaza acum un <a
+                            HREF="http://www.ford.ro/SBE/TestDrive/TestDriveAutoturisme">test drive</a> la dealerul tau
+                        Ford participant in campanie si viziteaza showroomul ales, pentru a rezerva pretul special de
+                        Black Friday. <br> <br> <span style="font-size: x-small;">*Oferta este supusa unor termeni si conditii, este adresata exclusiv persoanelor fizice si este valabila in limita stocului disponibil la dealerii participanti la program. Oferta prezentata include TVA si este obtinuta dupa includerea cumulativa a: 1. contravalorii suportului flat acordat de Ford Romania diferentiat pe fiecare model in parte, 2. contributiei dealerilor participanti la acest program, 3. extra discountului acordat de Ford Romania in campania Ford Black Friday si 4. pentru modelele Fiesta, Focus, Mondeo, contravalorii suportului acordat de Ford Romania prin programul Ford ECOBONUS. Oferta nu include echipamente, accesorii sau dotari optionale, cu exceptia celor din Pachetului Titanium aferent fiecarui model. Consumul mixt si emisiile de CO2, masurate in conformitate cu dispozitiile legale in vigoare (e.g Directiva Europeana nr. 715/2007): pentru modelul Fiesta Titanium 5 usi 1.0 EcoBoost 100CP M5: consum 4,3 l/100 km; emisii CO2: 99 g/km; pentru modelul Focus Titanium 5 usi 1.0 EcoBoost 125CP M6: consum 4,7 l/100 km; emisii CO2: 106 g/km; pentru modelul Ecosport Titanium 1.0 EcoBoost 125CP M5: consum 5,4 l/100 km; emisii CO2: 125 g/km; pentru modelul Mondeo Titanium 5 usi 2.0 TDCi 180CP Powershift FWD: consum 4,8 l/100 km; emisii CO2:125 g/km. Imaginile sunt cu titlu de prezentare. Detalii si explicatii suplimentare despre campanie - la dealerii autorizati Ford participanti la campanie. </span>
+                    </div>
                 </div>
             </div>
         </div>
