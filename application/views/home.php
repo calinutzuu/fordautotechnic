@@ -3,27 +3,6 @@
     <section class="grid_3 carousel">
         <div id="hpCarousel" role="listbox">
             <!--Rendering the Image Panel-->
-            <article role="option">
-                <a class="carImg" href="#img1">
-                    <img src="/assets/img/1214577744755.jpg" alt="" role="presentation"></a>
-
-                <div class="innerBox posTopLeft SlateText">
-                    <div class="">
-                        <h2 class="bigHeading02">
-                        </h2>
-
-                        <p class="captionTxt">
-                        </p>
-
-                        <div class="btnwrapper">
-                            <div class="btnLink light">
-                                <a role="button" class="om_ca_in"
-                                   href="/Promotii/Autoturisme/BlackFriday">Vezi Ofertele</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </article>
 
             <article role="option">
                 <a class="carImg" href="#img1">

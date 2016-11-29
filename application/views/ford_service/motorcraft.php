@@ -637,7 +637,7 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205117118555'); return false
             </div>
             <div class='BTIarticleBody'>
                 <div class='BTIarticleText'>
-                    <div><em>Toate preturile afisate in aceasta oferta sunt preturi recomandate, in lei, contin TVA conform legislatiei in vigoare si includ pretul manoperei. Aceasta oferta: este supusa unor termene si conditii; este valabila in limita stocului disponibil, poate varia in functie de seria de sasiu si nu se aplica autovehiculelor utilitare echipate cu jante din aliaj si/sau a celor cu roti duble spate. Campanie valabila pana la data de 31 octombrie 2016.  <br> </em></div>
+                    <div><em>Toate preturile afisate in aceasta oferta sunt preturi recomandate, in lei, contin TVA conform islatiei in vigoare si includ pretul manoperei. Aceasta oferta: este supusa unor termene si conditii; este valabila in limita stocului disponibil, poate varia in functie de seria de sasiu si nu se aplica autovehiculelor utilitare echipate cu jante din aliaj si/sau a celor cu roti duble spate. Campanie valabila pana la data de 31 octombrie 2016.  <br> </em></div>
                 </div>
             </div>
         </div>

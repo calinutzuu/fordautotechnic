@@ -26,27 +26,7 @@
         <section id="carouselize" class="carousel-container carousel"></section>
         <section class="mid-page-content">
             <div class="tab-content">
-                <article class="content-column centered">
-                    <div class="content">
-                        <h3 class="bigHeading02">
-                            FORD BLACK FRIDAY UPGRADE EVENT – avantaj client de pana la 8.900 €*!
-                        </h3>
 
-                        <p>
-
-                        <p>La Ford, Black Friday inseamna UPGRADE EVENT – cele mai mari avantaje pentru clienti!
-
-                            Iti doresti o masina noua <br>cu dotari cat mai bogate? Te tenteaza un nivel de echipare superior? Cauti motorizari moderne, puternice si eficiente?<br>
-
-                            Acum ai un avantaj client impresionant, de pana la 8.900 €*.  <br> <br> <a
-                                HREF="/Promotii/Autoturisme/BlackFriday"><u>Vezi detaliile promotiei</u></a></p>
-                        </p>
-                    </div>
-                    <div class="img-column">
-                        <img
-                            src="/assets/img/promotii/1214577744678.jpg"
-                            alt="Promotie Flote"/><span class="fv-overlay-icon"></span></div>
-                </article>
                 <article class="content-column centered">
                     <div class="content">
                         <h3 class="bigHeading02">
