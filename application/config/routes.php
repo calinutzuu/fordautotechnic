@@ -285,7 +285,7 @@ $route['FordFleet'] = 'flote/flote/index';
 
 $route['Tehnologie'] = 'tehnologie/prezentare/index';
 
-$route['FordService/Motorcraft/Reparatii//Baterie'] = 'ford_service/motorcraft/baterie/index';
+$route['FordService/Motorcraft/Reparatii/Baterie'] = 'ford_service/motorcraft/baterie/index';
 $route['FordService/Motorcraft/Reparatii/AerConditionat'] = 'ford_service/motorcraft/aer_conditionat/index';
 $route['FordService/Motorcraft/Reparatii/Suspensii'] = 'ford_service/motorcraft/suspensii/index';
 $route['FordService/Motorcraft/Reparatii/Antigel'] = 'ford_service/motorcraft/antigel/index';
