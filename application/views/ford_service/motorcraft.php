@@ -469,7 +469,13 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205117118555'); return false
     <div class="btoArticleTitle"><h1><font size="5">FORD <strong>MOTORCRAFT</strong> </font></h1></div>
     <div class="btoArticleText">
         <div class="btoArticleAbstract">
-            <div><strong><span style="font-size: medium;">Servicii de calitate la preturi all-inclusive pentru autovehiculele Ford cu varsta de peste 4 ani</span></strong><br> <br> <span style="color: rgb(0, 0, 255);">Discount special pentru programarea online &ndash; 39 lei reducere din pretul recomandat de vanzare la Ford Motorcraft Service daca te programezi online <a HREF="https://secure.ford.ro/SBE/Motorcraft/OSBOV?dc=10300" >aici</a> </span>.<br> <br> De la revizie si reparatii uzuale pana la Pre-verificare I.T.P si anvelope, la Ford Motorcraft 4+ vei gasi tot ce iţi trebuie. Un brand special conceput pentru modelele Ford cu o vechime de minimum 4 ani, Ford Motorcraft ofera preturi clare si transparente, fara costuri ascunse. Mai mult, de autoturismul tau se vor ocupa profesionistii de la Ford, ajutati de cele mai noi echipamente si piese originale Ford.</div>
+            <div><strong><span style="font-size: medium;">Servicii de calitate la preturi all-inclusive pentru autovehiculele Ford cu varsta de peste 4 ani</span></strong><br>
+                <br> De la revizie si reparatii uzuale pana la Pre-verificare I.T.P si anvelope, la Ford Motorcraft
+                4+ vei gasi tot ce iţi trebuie. Un brand special conceput pentru modelele Ford cu o vechime de
+                minimum 4 ani, Ford Motorcraft ofera preturi clare si transparente, fara costuri ascunse. Mai mult,
+                de autoturismul tau se vor ocupa profesionistii de la Ford, ajutati de cele mai noi echipamente si
+                piese originale Ford.
+            </div>
         </div>
     </div>
 </div>
@@ -497,7 +503,9 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205117118555'); return false
                 </div>
                 <div class='BTIarticleBody'>
                     <div class='BTIarticleText'>
-                        <div><h2><font size="2">Ford Service</font></h2> <br> &nbsp; <strong><span style="color: #0000FF;"><span style="font-size: x-large;"><span style="color:black"><strike>319 lei</strike></span></span></span></strong><span style="color: red"><span style="color:#425968"> </span></span><br> &nbsp; <strong><span style="color: rgb(255, 0, 0);"><span style="font-size: x-large;"><span style="color:#000080">280 lei</span></span></span></strong><span style="color: red"><span style="color:#425968"><br> <br> <a HREF="/FordService/Motorcraft/Service" >&gt; Ford Service</a></span></span></div>
+                        <div><h2><font size="2">Ford Service</font></h2> <br> <span style="color: rgb(0, 0, 128);">&nbsp; <strong><span
+                                        style="font-size: x-large;">319 lei</span></strong></span> <br> <br> <a
+                                HREF="/FordService/Motorcraft/Service">&gt; Ford Service</a></div>
                     </div>
                 </div>
             </div>
@@ -520,9 +528,9 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205117118555'); return false
                         <div><h2><font size="2">Anvelope iarna</font></h2>
 
                             <div></div>
-                            <div><strong><br> de la <span style="font-size: medium;"><span
-                                            style="font-size: x-large;"><span
-                                                style="color: rgb(66, 89, 104);">150 lei</span></span></span></strong><br>
+                            <div><strong><br> de la <span style="color: rgb(0, 0, 128);"><span
+                                            style="font-size: medium;"><span
+                                                style="font-size: x-large;">150 lei</span></span></span></strong><br>
                                 <br> <br> <a HREF="/FordService/Motorcraft/Anvelope">Anvelope iarna</a></div>
                         </div>
                     </div>
@@ -570,8 +578,8 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205117118555'); return false
                 <div class='BTIarticleBody'>
                     <div class='BTIarticleText'>
                         <div><h2><font size="2">Reparaţii uzuale<br> </font></h2> <strong><br> de la&nbsp; <span
-                                    style="font-size: medium;"><span style="font-size: x-large;"><span
-                                            style="color: rgb(66, 89, 104);">270 lei</span></span></span></strong><br>
+                                    style="color: rgb(0, 0, 128);"><span style="font-size: medium;"><span
+                                            style="font-size: x-large;">270 lei</span></span></span></strong><br>
                             <br> <br> <a HREF="/FordService/Motorcraft/Reparatii">Reparaţii uzuale</a></div>
                     </div>
                 </div>
@@ -597,12 +605,12 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205117118555'); return false
                 <div class='BTIarticleBody'>
                     <div class='BTIarticleText'>
                         <div><h2><font size="2">Schimb baterie </font></h2> <br> <strong><span
-                                    style="color: #425968;">de la <span style="font-size: x-large;"><span
-                                            style="color:#425968">280 lei</span></span></span></strong><span
+                                    style="color: #425968;">de la</span></strong><span style="color: rgb(0, 0, 0);"><strong> </strong></span><span
+                                style="color: rgb(0, 0, 128);"><strong><span
+                                        style="font-size: x-large;">280 lei</span></strong></span><span
                                 style="color: red"><span style="color:#425968"><br> <div><strong><span
-                                                style="font-size: medium;"><br> <br></span></strong>
-                                    </div> </span></span><a HREF="/FordService/Motorcraft/Reparatii/Baterie">&gt;Schimb
-                                baterie</a></div>
+                                                style="font-size: medium;"><br> <br> </span></strong></div> </span></span><a
+                                HREF="/FordService/Motorcraft/Reparatii/Baterie">&gt;Schimb baterie</a></div>
                     </div>
                 </div>
             </div>
@@ -622,10 +630,12 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205117118555'); return false
                 </div>
                 <div class='BTIarticleBody'>
                     <div class='BTIarticleText'>
-                        <div><h2><font size="2">Schimb lichid răcire (antigel)</font></h2> <br> <strong><span
-                                    style="color: #425968;">de la <span style="font-size: x-large;"><span
-                                            style="color:#425968">115 de lei</span></span></span></strong><br> <br>
-                            <a HREF="/FordService/Motorcraft/Reparatii/Antigel">&gt;Schimb lichid racire</a></div>
+                        <div><h2><font size="2">Schimb lichid răcire (antigel)</font></h2> <br> <span
+                                style="color: rgb(0, 0, 0);"><strong>de la <span
+                                        style="color: rgb(0, 0, 128);"><span
+                                            style="font-size: x-large;">115 de lei</span></span></strong></span><br>
+                            <br> <a HREF="/FordService/Motorcraft/Reparatii/Antigel">&gt;Schimb lichid racire</a>
+                        </div>
                     </div>
                 </div>
             </div>

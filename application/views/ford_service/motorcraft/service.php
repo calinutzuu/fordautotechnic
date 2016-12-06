@@ -542,11 +542,11 @@ return false;"
                                 <div class='BTIarticleText'>
                                     <div><h2><font size="2">Ford <strong> Motorcraft </strong> Service</font></h2>
                                         <ul>
-                                            <li>43 de centre auto disponibile pentru verific?ri de siguran??</li>
-                                            <li>Schimb ulei ?i filtru ulei</li>
+                                            <li>43 de centre auto disponibile pentru verificări de siguranță</li>
+                                            <li>Schimb ulei și filtru ulei</li>
                                             <li>Schimb filtru aer</li>
-                                            <li>Verificare puncte cheie ?i diagnoz? IDS</li>
-                                            <li>Manopera inclus?</li>
+                                            <li>Verificare puncte cheie și diagnoză IDS</li>
+                                            <li>Manopera inclusă</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -573,11 +573,11 @@ return false;"
                                     <h2><font size="2">Ford Motorcraft Service &ndash; pentru autoturisme</font></h2>
 
                                     <div>&nbsp;</div>
-                                    <div><strong>Doar</strong>&nbsp; <strong><span style="color: rgb(255, 0, 0);"><span
-                                                    style="font-size: x-large;"><span
-                                                        style="color:#425968">319 lei</span></span></span></strong><span
-                                            style="color: red"><span
+                                    <div><strong><span style="color: rgb(0, 0, 0);">Doar</span> </strong><span
+                                            style="color: rgb(0, 0, 128);"><strong><span
+                                                    style="font-size: x-large;">319 lei</span></strong></span><span style="color: red"><span
                                                 style="font-size: x-large;"><strong> </strong></span></span></div>
+                                    <div><br> <span style="color: red"><span style="font-size: x-large;"><strong> </strong></span></span></div>
                                 </div>
                             </div>
                         </div>
@@ -602,11 +602,7 @@ return false;"
                                     <h2><font size="2">Ford Motorcraft Service &ndash; pentru autoutilitare</font></h2>
 
                                     <div>&nbsp;</div>
-                                    <div><strong>Doar</strong>&nbsp; <strong><span style="color: rgb(255, 0, 0);"><span
-                                                    style="font-size: x-large;"><span
-                                                        style="color:#425968">369 lei</span></span></span></strong><span
-                                            style="color: red"><span
-                                                style="font-size: x-large;"><strong> </strong></span></span></div>
+                                    <div><strong>Doar <span style="color: rgb(0, 0, 128);"><span style="font-size: x-large;">369 lei</span></span></strong>
                                 </div>
                             </div>
                         </div>

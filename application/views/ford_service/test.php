@@ -1,73 +1,311 @@
+height="97"
+alt="Ford Car Service"
+title="Ford Car Service"
+style="border: solid 1px #999999;">
 </div>
-<div id="container_center">
-    <div class="center_item">
-        <div class="btoArticleTitle">AVANTAJ CLIENT DE EXCEPTIE, CU FORD KUGA: 5.500 €* TVA inclus!</div>
-        <div class="btoArticleText">
-            <div class="btoArticleAbstract">
-                <div>Iti doresti un model Ford pregatit oricand de aventura off-road? Kuga este alegerea perfecta.<br>
-                    <br> Puternic, rafinat, spatios, dotat din plin cu tehnologii inteligente si extrem de utile pentru
-                    orice sofer, Kuga, cel mai inteligent SUV al nostru, te va face sa te simti de milioane atunci cand
-                    esti la volanul lui. Desigur, dotarile sale sunt completate de elementele de design atent create,
-                    pentru a completa imaginea masinii si pe a soferului.<br> <br> Iar acum te poti bucura de SUV-ul tau
-                    preferat cu o oferta speciala: Ford Kuga iti ofera un <strong>avantaj client de 5.500&euro;*, TVA
-                        inclus!</strong> Cu toate dotarile de care ai nevoie pentru fiecare aventura la volan, de acum
-                    anotimpul tau preferat va fi tot anul:<br>
-                    <ul>
-                        <li>Sisteme inteligente de siguranta si stabilitate &ndash; ESP (Program Electronic de
-                            Stabilitate), HLA (Asistenta la Pornirea in Rampa), ABS (Sistem Anti-Blocare la Franare),
-                            EBD (Distributie Electronica a Fortei de Franare), EBA (Asistenta la Franarea de Urgenta);
-                            sistem de protectie anti-rasturnare;
-                        </li>
-                        <li>Geamuri fata si spate actionate electric cu functia &bdquo;shot up/down&rdquo;;</li>
-                        <li>Aer conditionat automat cu reglare separata stanga/dreapta;</li>
-                        <li>Sistem de pornire buton FordPower;</li>
-                        <li>Pilot automat cu sistem de ajustare a limitei de viteza;</li>
-                        <li>Senzori de lumina si ploaie;</li>
-                        <li>Airbag-uri frontale, laterale si cortina, sofer si pasager; airbag genunchi pentru sofer;
-                        </li>
-                        <li>Functionalitati prietenoase cu mediul: Ford ECOmode cu indicator de schimbare optima a
-                            treptei de viteza; sistem de incarcare regenerativa a bateriei;
-                        </li>
-                        <li>Detalii caroserie cu insertii cromate si jante din aliaj de 17&rdquo;.</li>
-                    </ul>
-                    In plus, cu pretul special de <strong>numai 250 &euro;* pentru Pachetul Titanium</strong>,
-                    beneficiezi de:
-                </div>
-                <ul>
-                    <li>Sistem ''Keyless entry'' si sistem ''hands-free'' de deschidere automata a hayon-ului;</li>
-                    <li>Camera video spate;</li>
-                    <li>Sine plafon argintii, geamuri spate fumurii, oglinzi rabatabile electric;</li>
-                    <li>Radio CD SONY cu MP3, USB, 9 difuzoare, comenzi audio pe volan si display central TFT;</li>
-                    <li>SYNC Gen II cu touchscreen color de 8&quot;, Blue Tooth, Voice Control si Sistem de asistenta in
-                        caz de urgenta (112);
-                    </li>
-                    <li>Sistem de navigatie cu harta Europei de Est si Vest.</li>
-                </ul>
-                <div><strong>Afla mai multe despre Ford Kuga si despre oferta speciala, in cel mai apropiat <a
-                            HREF="/SBE/dealeri-ford">showroom</a> Ford! </strong> <br> <br> <span
-                        style="font-size: x-small;">* Oferta adresata exclusiv persoanelor fizice, supusa unor termeni si conditii &ndash;
-                        pentru detalii va rugam sa va adresati retelei de dealeri autorizati Ford; este valabila in limita stocului disponibil, la dealerii care participa atat in acest program derulat de Ford cat si in Programul Rabla (&ldquo;Programul&rdquo;) pentru modelul Kuga. Consumul mixt masurat in conformitate cu dispozitiile legale in vigoare: 4.7 &ndash;
-                        7,4 l/100 km, emisii CO<sub>2</sub> (g/km):134 - 171, valoare masurata in conformitate cu dispozitiile legale in vigoare. Oferta prezentata este obtinuta dupa includerea cumulativa a:  1. contravalorii subventiei in cadrul Programului de innoire a Parcului Auto National 2016 (finantat din Fondul pentru Mediu) la dealerii acceptati in acest program, 2. contravalorii suportului acordat de Ford Romania prin programul Ford ECOBONUS,  3. contributiei dealerilor participanti la acest program si nu include echipamente, accesorii sau dotari optionale. </span>
+</div>
+<div class="BTIarticleTitle">
+</div>
+<div class='BTIarticleBody'>
+    <div class='BTIarticleText'>
+        <h2><font size="2">Ford Motorcraft Service &ndash; pentru autoturisme</font></h2>
 
-                    <div></div>
-                    <div><span style="font-size: x-small;"><br>     </span><span
-                            style="font-size: x-small;"><br>     <br>     </span></div>
+        <div>&nbsp;</div>
+        <div><strong><span style="color: rgb(0, 0, 0);">Doar</span> </strong><span
+                style="color: rgb(0, 0, 128);"><strong><span
+                        style="font-size: x-large;">319 lei</span></strong></span><span style="color: red"><span
+                    style="font-size: x-large;"><strong> </strong></span></span></div>
+        <div><br> <span style="color: red"><span style="font-size: x-large;"><strong> </strong></span></span></div>
+    </div>
+</div>
+</div>
+</div>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIImage">
+            <div class="imgNonZoom">
+                <img
+                    src="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214565085109&#38;blobkey=id"
+                    border="0" width="97"
+                    height="97"
+                    alt="Ford Commercial Vehicle Service"
+                    title="Ford Commercial Vehicle Service"
+                    style="border: solid 1px #999999;">
+            </div>
+        </div>
+        <div class="BTIarticleTitle">
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                <h2><font size="2">Ford Motorcraft Service &ndash; pentru autoutilitare</font></h2>
+
+                <div>&nbsp;</div>
+                <div><strong>Doar <span style="color: rgb(0, 0, 128);"><span style="font-size: x-large;">369 lei</span></span></strong>
                 </div>
             </div>
         </div>
     </div>
-    <div class="center_item">
+</div>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIarticleTitle">
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                <div><em>Toate preturile afisate in aceasta oferta sunt preturi recomandate, in lei, contin TVA conform
+                        legislatiei in vigoare si includ pretul manoperei. Aceasta oferta: este supusa unor termene si
+                        conditii; este valabila in limita stocului disponibil, poate varia in functie de seria de sasiu
+                        si nu se aplica autovehiculelor utilitare echipate cu jante din aliaj si/sau a celor cu roti
+                        duble spate. Campanie valabila pana la data de 31 martie 2017. <br>
+                    </em></div>
+            </div>
+        </div>
     </div>
-    <div class="center_item">
+</div>
+</div>
+</div>
+<div id="tab001-contentpane-1" class="tab001-pane-unselected">
+    <div class="tab001_TabTop_IntroText">
+        <div class="btoArticleTitle">Ford Motorcraft Service – ce include</div>
+        <div class="btoArticleText">
+            <div class="btoArticleAbstract">
+                <div><br> <br>
+                    <style type="text/css">.CusTab {
+                            margin-top: 1em;
+                        }
+
+                        .CusTab td {
+                            padding: 6px;
+                            height: 25px;
+                            vertical-align: middle;
+                            border-left: white 1px solid;
+                            border-right: white 1pt solid;
+                            text-align: center;
+                            color: #474847;
+                        }
+
+                        .CusTab-header, .CusTab-header:hover {
+                            background-color: #455968;
+                            color: #FFF;
+                        }
+
+                        .CusTab-header td {
+                            font-weight: bold;
+                            color: #FFF;
+                        }
+
+                        .CusTab-dark, .CusTab-dark-left, .CusTab-dark td, .CusTab-dark-left td {
+                            background-color: #ececec;
+                        }
+
+                        .CusTab-light, .CusTab-light-left, .CusTab-light td, .CusTab-light-left td {
+                            background-color: #FFF;
+                        }
+
+                        td.CusTab-dark-left, td.CusTab-light-left {
+                            text-align: left;
+                        }
+
+                        td.CusTab-tick {
+                            color: #474847;
+                        }</style>
+                </div>
+                <div>
+                    <table width="100%" cellspacing="0" cellpadding="0" border="0" class="CusTab">
+                        <colgroup>
+                            <col width="60%"/>
+                            <col width="70%"/>
+                        </colgroup>
+                        <tbody>
+                        <tr class="CusTab-header">
+                            <td style="text-align: left;">Receptie</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr class="CusTab-light">
+                            <td class="CusTab-light-left">Indicatori sistem iluminare şi claxon</td>
+                            <td class="CusTab-tick">Verificare</td>
+                        </tr>
+                        <tr class="CusTab-dark">
+                            <td class="CusTab-dark-left">Ambreiaj</td>
+                            <td class="CusTab-tick">Verificare</td>
+                        </tr>
+                        <tr class="CusTab-light">
+                            <td class="CusTab-light-left">Sistem &icirc;ncălzire, ventilator răcire motor</td>
+                            <td class="CusTab-tick">Verificare</td>
+                        </tr>
+                        <tr class="CusTab-dark">
+                            <td class="CusTab-dark-left">Stare lamele ştergătoare și sistem de spălare parbriz</td>
+                            <td class="CusTab-tick">Verificare</td>
+                        </tr>
+                        <tr class="CusTab-light">
+                            <td class="CusTab-light-left">Parbriz</td>
+                            <td class="CusTab-tick">Verificare</td>
+                        </tr>
+                        <tr class="CusTab-dark">
+                            <td class="CusTab-dark-left">Lumini exterioare şi martori din bord</td>
+                            <td class="CusTab-tick">Verificare</td>
+                        </tr>
+                        <tr class="CusTab-light">
+                            <td class="CusTab-light-left">Fr&acirc;nă de m&acirc;nă</td>
+                            <td class="CusTab-tick">Verificare / ajustare, c&acirc;nd (dacă) se impune</td>
+                        </tr>
+                        <tr class="CusTab-dark">
+                            <td class="CusTab-dark-left">Centură de siguranţă</td>
+                            <td class="CusTab-tick">Verificare</td>
+                        </tr>
+                        <tr class="CusTab-header">
+                            <td style="text-align: left;">&Icirc;n interiorul vehiculului</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr class="CusTab-light">
+                            <td class="CusTab-light-left">Filtru polen</td>
+                            <td class="CusTab-tick">Verificare. &Icirc;nlocuirea filtrului de polen, este o operaţiune
+                                optională, aceasta implic&acirc;nd un cost suplimentar
+                            </td>
+                        </tr>
+                        <tr class="CusTab-header">
+                            <td style="text-align: left;">Sub vehicul</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr class="CusTab-dark">
+                            <td class="CusTab-dark-left">Motor</td>
+                            <td class="CusTab-tick">&Icirc;nlocuire ulei motor şi filtru ulei. &Icirc;nlocuirea
+                                garniturilor (dacă operaţiunea se impune)
+                            </td>
+                        </tr>
+                        <tr class="CusTab-light">
+                            <td class="CusTab-light-left">Motor, transmisie şi punte spate</td>
+                            <td class="CusTab-tick">Verificare vizuală pentru eventuale defecte și scurgeri (acolo unde
+                                acestea sunt vizibile)
+                            </td>
+                        </tr>
+                        <tr class="CusTab-dark">
+                            <td class="CusTab-dark-left">Ansamble de ţevi, furtunuri, instalaţie electrica, admisie ulei
+                                şi combustibil, eşapament
+                            </td>
+                            <td class="CusTab-tick">Verificare dispunere cabluri, grad deteriorare şi eventuale scurgeri
+                                (acolo unde acestea sunt vizibile)
+                            </td>
+                        </tr>
+                        <tr class="CusTab-light">
+                            <td class="CusTab-light-left">Anvelope</td>
+                            <td class="CusTab-tick">Verificați uzura și starea căii de rulare, not&acirc;nd ad&acirc;ncimea
+                                profilului
+                            </td>
+                        </tr>
+                        <tr class="CusTab-dark">
+                            <td class="CusTab-dark-left">Podea</td>
+                            <td class="CusTab-tick">Verificare stare generală a stratului protector</td>
+                        </tr>
+                        <tr class="CusTab-light">
+                            <td class="CusTab-light-left">Sistem de fr&acirc;nare</td>
+                            <td class="CusTab-tick">Verificare grad uzură pentru plăcuţe de fr&acirc;nă şi discuri de fr&acirc;nă</td>
+                        </tr>
+                        <tr class="CusTab-header">
+                            <td style="text-align: left;">Sub capotă</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr class="CusTab-dark">
+                            <td class="CusTab-dark-left">Motor</td>
+                            <td class="CusTab-tick">Umplere cu</td>
+                        </tr>
+                        <tr class="CusTab-light">
+                            <td class="CusTab-light-left">Filtru de aer<br>Instalaţie electrică, ansablu de ţevi,
+                                furtunuri, admisie ulei şi combustibil
+                            </td>
+                            <td class="CusTab-tick">&Icirc;nlocuire filtrului de aer ca parte din pachetul de servicii
+                                Ford Motorcraft.<br>Verificare dispunere cabluri, eventuale defecte și scurgeri (acolo
+                                unde acestea sunt vizibile)
+                            </td>
+                        </tr>
+                        <tr class="CusTab-dark">
+                            <td class="CusTab-dark-left">Motor, pompă de vacuum, aerotermă şi radiator</td>
+                            <td class="CusTab-tick">Verificare eventuale defecte și scurgeri</td>
+                        </tr>
+                        <tr class="CusTab-light">
+                            <td class="CusTab-light-left">Vas de expansiune, rezervor pentru lichid de fr&acirc;nă şi
+                                baterie
+                            </td>
+                            <td class="CusTab-tick">Verificare nivel antigel, lichid de fr&acirc;nă și baterie</td>
+                        </tr>
+                        <tr class="CusTab-dark">
+                            <td class="CusTab-dark-left">Recipient pentru lichid parbriz</td>
+                            <td class="CusTab-tick">Verificare nivel lichid</td>
+                        </tr>
+                        <tr class="CusTab-header">
+                            <td style="text-align: left;">&Icirc;n exteriorul vehiculului</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr class="CusTab-light">
+                            <td class="CusTab-light-left">Anvelope</td>
+                            <td class="CusTab-tick">Verificare nivel presiune &icirc;n pneuri</td>
+                        </tr>
+                        <tr class="CusTab-dark">
+                            <td class="CusTab-dark-left">Roata de rezervă</td>
+                            <td class="CusTab-tick">Ajustare presiune, verificare grad de uzură, dacă este cazul.</td>
+                        </tr>
+                        <tr class="CusTab-light">
+                            <td class="CusTab-light-left">Prezoane</td>
+                            <td class="CusTab-tick">Verificare cuplu</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="center_item">
+</div>
+</div>
+</div>
+<div class="tab001_footer"><!-- CLOSES THE BOTTOM OF THE CONTENT --></div>
+</div>
+</div>
+<div class="center_item">
+</div>
+<div class="center_item">
+    <!--<START_MPP001 >-->
+    <!-- EMPTY REC [AdvCols] with id [1205094745046] in site [RORO4_ENGINE] -->
+    <!--<END_MPP001 >-->
+</div>
+<div class="center_item">
+</div>
+<div id="center_btt">
+</div>
+<!-- TD 8042 - AddThis Social Book Marking tool display Starts-->
+<!-- TD 8042 - AddThis Ends-->
+<!-- AddThis Replacement Starts-->
+<!-- AddThis Replacement Ends-->
+</div>
+<div id="container_right">
+    <div class="right_item">
     </div>
-    <div class="center_item">
+    <!-- Technical Highlights -->
+    <!-- <Start> -->
+    <div class="right_item">
     </div>
-    <div id="center_btt">
+    <!-- <End> -->
+    <div class="right_item">
+        <!--<START_SSP001 >-->
+        <div class="skyscraper_promo">
+            <a href='/SBE/Motorcraft/OSBOV' target="_self">
+                <img
+                    src="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214513078990&#38;blobkey=id"
+                    border="0" alt="Book an Appointment" title="Book an Appointment" height='185' width='185'/>
+            </a>
+        </div>
+        <!--<END_SSP001 >-->
+        <!--<START_SSP001 >-->
+        <div class="skyscraper_promo">
+            <a href='/FordService/FordAsistenta12' target="_self">
+                <img
+                    src="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214544577603&#38;blobkey=id"
+                    border="0" alt="Asistenta Ford 12" title="Asistenta Ford 12" height='185' width='185'/>
+            </a>
+        </div>
+        <!--<END_SSP001 >-->
     </div>
-    <!-- TD 8042 - AddThis Social Book Marking tool display Starts-->
-    <!-- TD 8042 - AddThis Ends-->
-    <!-- AddThis Replacement Starts-->
-    <!-- AddThis Replacement Ends-->
+</div>
+</div>
+<!-- Footer -->
+<!-- <Start> -->
 </div>
