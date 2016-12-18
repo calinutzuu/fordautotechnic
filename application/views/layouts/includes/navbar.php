@@ -64,7 +64,7 @@
                                     class="om_he_pv_np " href="/Autoturisme/NoulC-MAX">Noul
             C-MAX</a></li>
     <li role="menuitem" class=""><a role="link" data-selenium="doormat_car_selection Kuga"
-                                    class="om_he_pv_np " href="/Autoturisme/Kuga">Kuga</a>
+                                    class="om_he_pv_np " href="/Autoturisme/Noul_Kuga">Noul Kuga</a>
     </li>
     <li role="menuitem" class=""><a role="link"
                                     data-selenium="doormat_car_selection Noul Mondeo"

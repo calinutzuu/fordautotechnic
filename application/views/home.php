@@ -6,6 +6,19 @@
 
             <article role="option">
                 <a class="carImg" href="#img1">
+                    <img src="/assets/img/kuga/1214588472335.jpg" alt="" role="presentation"></a>
+
+                <div class="innerBox posBottomLeft SlateText">
+                    <div class="btnLink light">
+                        <a role="button" class="om_ca_in" href="/SBE/TestDrive/TestDriveAutoturisme" >TESTEAZA-L ACUM!</a>
+                    </div>
+                    <div class="ctaLink ">
+                        <a href="/Autoturisme/Noul_Kuga" class="om_ca_tl_in" ><span class="icon ctaArrow"></span><b>AFLA MAI MULTE</b></a>
+                    </div>
+                </div>
+            </article>
+            <article role="option">
+                <a class="carImg" href="#img1">
                     <img src="/assets/img/prima_pag.jpg" alt="" role="presentation"></a>
 
                 <div class="innerBox posBottomLeft SlateText">

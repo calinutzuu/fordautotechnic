@@ -136,6 +136,12 @@ $route['Autoturisme/Kuga/Prezentare'] = 'autoturisme/kuga/prezentare';
 $route['Autoturisme/Kuga/Design'] = 'autoturisme/kuga/design';
 $route['Autoturisme/Kuga'] = 'autoturisme/kuga/index';
 
+$route['Autoturisme/Noul_Kuga/kuga_vignale'] = 'autoturisme/noul_kuga/kuga_vignale';
+$route['Autoturisme/Noul_Kuga/st-line'] = 'autoturisme/noul_kuga/st_line';
+$route['Autoturisme/Noul_Kuga/caracteristici'] = 'autoturisme/noul_kuga/caracteristici';
+$route['Autoturisme/Noul_Kuga/galerie'] = 'autoturisme/noul_kuga/design';
+$route['Autoturisme/Noul_Kuga'] = 'autoturisme/noul_kuga/index';
+
 $route['Autoturisme/st-line'] = 'autoturisme/st_line/index';
 
 $route['Autoturisme/Mondeo/Vignale'] = 'autoturisme/mondeo/vignale';

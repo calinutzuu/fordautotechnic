@@ -12,7 +12,7 @@
         <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/NewFocusST"> The New Focus ST</a></h4></dd>
         <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/FocusRS"> Focus RS</a></h4></dd>
         <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/NoulC-MAX"> Noul C-MAX</a></h4></dd>
-        <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/Kuga"> Noua Kuga</a></h4></dd>
+        <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/Noul_Kuga"> Noul Kuga</a></h4></dd>
         <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/Mondeo"> Mondeo</a></h4></dd>
         <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/mondeo-vignale"> Mondeo Vignale</a></h4></dd>
         <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/NoulMustang"> Noul Mustang</a></h4></dd>
