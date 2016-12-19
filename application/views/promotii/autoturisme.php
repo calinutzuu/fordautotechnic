@@ -26,7 +26,28 @@
         <section id="carouselize" class="carousel-container carousel"></section>
         <section class="mid-page-content">
             <div class="tab-content">
+                <article class="content-column centered">
+                    <div class="content">
+                        <h3 class="bigHeading02">
+                            Mergi mai departe cu Ford Ecobonus!
+                        </h3>
 
+                        <p>
+
+                        <p>Vrei sa schimbi masina veche? Acum la Ford ai garantat un Ecobonus de 1.500 € la casarea masinii vechi. In plus, ai numeroase avantaje <br>
+                            la achizitionarea fiecaruia dintre modelele din promotie.
+                            Alege-ti masina potrivita si descopera impresionantul
+                            avantaj client de care beneficiezi.</p>
+
+                        <p><br> <br> <a HREF="/Promotii/Autoturisme/Ecobonus">
+                                <u>Click aici pentru mai multe detalii</u></a></p>
+
+                        <p></p>
+                        </p>
+                    </div>
+                    <div class="img-column"><img src="/assets/img/1214564411544.jpg" alt="Eco Bonus"/></div>
+                    <br>
+                </article>
                 <article class="content-column centered">
                     <div class="content">
                         <h3 class="bigHeading02">
@@ -101,46 +122,22 @@
                     </div>
                     <div class="img-column"><img src="/assets/img/promotii/1214559638548.jpg" alt="Eco Bonus"/></div>
                 </article> -->
-             <!--   <article class="content-column centered">
-                    <div class="content">
-                        <h3 class="bigHeading02">
-                            Mergi mai departe cu Ford Ecobonus!
-                        </h3>
+                <!--  <article class="content-column centered">
+                      <div class="content">
+                          <h3 class="bigHeading02">
+                              Promotie Ford Kuga
+                          </h3>
 
-                        <p>
+                          <p>
 
-                        <p>Vrei sa schimbi masina veche? Acum la Ford ai garantat un Ecobonus de 1.500 &euro; la casarea
-                            masinii vechi. In plus,
-                            ai numeroase avantaje <br> la achizitionarea fiecaruia dintre modelele din promotie.
-                            Alege-ti
-                            masina potrivita si descopera impresionantul
-                            avantaj client de care beneficiezi.</p>
-
-                        <p><br> <br> <a HREF="/Promotii/Autoturisme/Ecobonus">
-                                <u>Click aici pentru mai multe detalii</u></a></p>
-
-                        <p></p>
-                        </p>
-                    </div>
-                    <div class="img-column"><img src="/assets/img/1214564411544.jpg" alt="Eco Bonus"/></div>
-                    <br>
-                </article> -->
-                <article class="content-column centered">
-                    <div class="content">
-                        <h3 class="bigHeading02">
-                            Promotie Ford Kuga
-                        </h3>
-
-                        <p>
-
-                        <p>acum te poti bucura de SUV-ul tau preferat intr-o editie speciala, </br> CU un <strong>avantaj
-                                client de 5.500&euro;*, TVA inclus! </strong><br> <br> <a
+                          <p>acum te poti bucura de SUV-ul tau preferat intr-o editie speciala, </br> CU un <strong>avantaj
+                                  client de 5.500&euro;*, TVA inclus! </strong><br> <br> <a
                                 HREF="Autoturisme/KugaSummerEdition"><u>Click aici pentru detalii</u></a></p>
                         </p>
                     </div>
                     <div class="img-column"><br>
                         <img src="/assets/img/1214573743802.jpg" alt="Ford Kuga"/></div>
-                </article>
+                </article> -->
                 <article class="content-column centered">
                     <div class="content">
                         <h3 class="bigHeading02">
