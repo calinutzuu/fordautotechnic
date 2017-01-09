@@ -147,7 +147,7 @@
 
     <div class="flyout">
         <ul class="subMenu" role="menu">
-            <li role="menuitem"><a href="/Promotii/Autoturisme" class="om_he_ac_li">Promoţii autoturisme</a></li>
+     <!--       <li role="menuitem"><a href="/Promotii/Autoturisme" class="om_he_ac_li">Promoţii autoturisme</a></li> -->
             <li role="menuitem"><a href="/Promotii/comerciale" class="om_he_ac_li">Promoții vehicule comerciale</a></li>
             <li role="menuitem"><a href="/FordService/Motorcraft" class="om_he_ac_li">Promoţii service</a></li>
         <!--    <li role="menuitem"><a href="../Promotii/promotii-accesorii" class="om_he_ac_li">Promoţii accesorii</a></li> -->

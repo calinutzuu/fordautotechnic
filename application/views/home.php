@@ -10,7 +10,7 @@
 
                 <div class="innerBox posBottomLeft SlateText">
                     <div class="btnLink light">
-                        <a role="button" class="om_ca_in" href="/SBE/TestDrive/TestDriveAutoturisme" >TESTEAZA-L ACUM!</a>
+                        <a role="button" class="om_ca_in" href="/Autoturisme/Noul_Kuga" >TESTEAZA-L ACUM!</a>
                     </div>
                     <div class="ctaLink ">
                         <a href="/Autoturisme/Noul_Kuga" class="om_ca_tl_in" ><span class="icon ctaArrow"></span><b>AFLA MAI MULTE</b></a>
@@ -38,7 +38,7 @@
                     </div>
                 </div>
             </article>
-            <article role="option">
+      <!--      <article role="option">
                 <a class="carImg" href="#img1"><img src="/assets/img/promotii/1214564411443.jpg"
                                                     alt="&lt;span style=&quot;font-size:22px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt;&lt;/span&gt;"
                                                     role="presentation"></a>
@@ -135,7 +135,7 @@
                         </div>
                     </div>
                 </div>
-            </article>
+            </article> -->
 
             <!--Image Panel End-->
             <!--Rendering the Image Panel-->
@@ -165,7 +165,7 @@
             </article> -->
             <!--Video Panel Rendering Ends-->
             <!--Rendering the Video Panel-->
-            <article class="videoObj">
+        <!--    <article class="videoObj">
                 <video id="player2" width="980" height="384"
                        poster="/assets/img/1214566222648.jpg" preload="none">
                     <source src="/assets/img/1214566222648.jpg" type="video/mp4" title="DESCOPERA-L!">
@@ -192,7 +192,7 @@
                         </div>
                     </div>
                 </div>
-            </article>
+            </article> -->
             <!--Video Panel Rendering Ends-->
             <!--Rendering the Image Panel-->
            <!-- <article role="option">
