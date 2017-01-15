@@ -423,12 +423,12 @@
                 </li>
                 <!--  isBtfTab  -->
                 <!--  tabUrl /cs/ContentServer?cid=1205078762591&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205103778077&amp;tabName=PreturiSiPromotii&amp;c=Page&amp;site=RORO4_ENGINE -->
-                <li><a href="Mondeo/PreturiSiPromotii#primaryTabs" class=" "
+             <!--   <li><a href="Mondeo/PreturiSiPromotii#primaryTabs" class=" "
                        data-ajaxlink="/cs/ContentServer?cid=1205078762591&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205103778077&amp;tabName=PreturiSiPromotii&amp;c=Page&amp;site=RORO4_ENGINE">Preturi
                         si promotii</a>
                     <!-- secondary tabs -->
                     <!--  midPageTabId : 1205103777397 -->
-                </li>
+                </li> -->
                 <!--  isBtfTab  -->
                 <!--  tabUrl /cs/ContentServer?cid=1205078762591&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205078765922&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE -->
                 <li><a href="Mondeo/Design#primaryTabs" class=" "

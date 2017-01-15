@@ -407,14 +407,16 @@
                 </li>
                 <!--  isBtfTab  -->
                 <!--  tabUrl /cs/ContentServer?cid=1205129234448&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205127835799&amp;tabName=galerie&amp;c=Page&amp;site=RORO4_ENGINE -->
+                <li><a href="Noul_Kuga/PreturisiPromotii#primaryTabs" class=" "  data-ajaxlink="/cs/ContentServer?cid=1205129234448&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205132037865&amp;tabName=PreturisiPromotii&amp;c=Page&amp;site=RORO4_ENGINE">PRETURI SI PROMOTII</a>
+                    <!-- secondary tabs -->
+                    <!--  midPageTabId : 1205132036316 -->
+                </li>
                 <li><a href="Noul_Kuga/galerie#primaryTabs" class=" "
                        data-ajaxlink="/cs/ContentServer?cid=1205129234448&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205127835799&amp;tabName=galerie&amp;c=Page&amp;site=RORO4_ENGINE">Design</a>
                     <!-- secondary tabs -->
                     <!--  midPageTabId : 1205127835016 -->
                 </li>
-                <!--  isBtfTab  -->
-                <!--  tabUrl /cs/ContentServer?cid=1205129234448&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205127842606&amp;tabName=caracteristici&amp;c=Page&amp;site=RORO4_ENGINE -->
-                <li><a href="Noul_Kuga/caracteristici#primaryTabs" class=" "
+                                <li><a href="Noul_Kuga/caracteristici#primaryTabs" class=" "
                        data-ajaxlink="/cs/ContentServer?cid=1205129234448&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205127842606&amp;tabName=caracteristici&amp;c=Page&amp;site=RORO4_ENGINE">Caracteristici</a>
                     <!-- secondary tabs -->
                     <!--  midPageTabId : 1205127839319 -->

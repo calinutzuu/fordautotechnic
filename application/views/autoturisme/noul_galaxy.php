@@ -391,12 +391,12 @@
                 </li>
                 <!--  isBtfTab  -->
                 <!--  tabUrl /cs/ContentServer?cid=1205094889909&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205104019638&amp;tabName=Preturi-si-promotii&amp;c=Page&amp;site=RORO4_ENGINE -->
-                <li><a href="NoulGalaxy/Preturi-si-promotii#primaryTabs" class=" "
+            <!--    <li><a href="NoulGalaxy/Preturi-si-promotii#primaryTabs" class=" "
                        data-ajaxlink="/cs/ContentServer?cid=1205094889909&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205104019638&amp;tabName=Preturi-si-promotii&amp;c=Page&amp;site=RORO4_ENGINE">Preturi
                         si promotii</a>
                     <!-- secondary tabs -->
-                    <!--  midPageTabId : 1205104016375 -->
-                </li>
+                    <!--  midPageTabId : 1205104016375
+                </li>  -->
                 <!--  isBtfTab  -->
                 <!--  tabUrl /cs/ContentServer?cid=1205094889909&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205094893939&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE -->
                 <li><a href="NoulGalaxy/Design#primaryTabs" class=" "

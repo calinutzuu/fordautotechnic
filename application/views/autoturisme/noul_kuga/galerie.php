@@ -277,6 +277,10 @@
     <!-- secondary tabs -->
     <!--  midPageTabId : 1205127844706 -->
 </li>
+<li><a href="/Autoturisme/Noul_Kuga/PreturisiPromotii#primaryTabs" class=" "  data-ajaxlink="/cs/ContentServer?cid=1205129234448&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205132037865&amp;tabName=PreturisiPromotii&amp;c=Page&amp;site=RORO4_ENGINE">PRETURI SI PROMOTII</a>
+    <!-- secondary tabs -->
+    <!--  midPageTabId : 1205132036316 -->
+</li>
 <!--  isBtfTab  -->
 <!--  tabUrl /cs/ContentServer?cid=1205129234448&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205127835799&amp;tabName=galerie&amp;c=Page&amp;site=RORO4_ENGINE -->
 <!-- IntoID ::: articleAssetId -->
@@ -1145,6 +1149,7 @@
 </div>
 </div>
 </li>
+
 <!--  isBtfTab  -->
 <!--  tabUrl /cs/ContentServer?cid=1205129234448&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205127842606&amp;tabName=caracteristici&amp;c=Page&amp;site=RORO4_ENGINE -->
 <li><a href="caracteristici#primaryTabs" class=" "

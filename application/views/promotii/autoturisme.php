@@ -29,26 +29,26 @@
                 <article class="content-column centered">
                     <div class="content">
                         <h3 class="bigHeading02">
-                            Mergi mai departe cu Ford Ecobonus!
+                            CEL MAI NOU SUV FORD, CU O OFERTA SPECIALA DE LANSARE
                         </h3>
 
                         <p>
 
-                        <p>Vrei sa schimbi masina veche? Acum la Ford ai garantat un Ecobonus de 1.500 € la casarea masinii vechi. In plus, ai numeroase avantaje <br>
-                            la achizitionarea fiecaruia dintre modelele din promotie.
-                            Alege-ti masina potrivita si descopera impresionantul
-                            avantaj client de care beneficiezi.</p>
+                        <p>Gandit pentru actiune; dotat pentru confort; cu un design care impresioneaza si cu numeroase
+                            tehnologii inteligente, noul Kuga este cel mai recent Smart Utility Vehicle de la Ford. Iar
+                            cu oferta de lansare ai un pret special pentru SUV-ul care iti va deschide noi posibilitati:
+                            doar 19.950 €* (TVA inclus).</p>
 
-                        <p><br> <br> <a HREF="/Promotii/Autoturisme/Ecobonus">
+                        <p><br> <br> <a HREF="/Promotii/Autoturisme/NoulKUGA">
                                 <u>Click aici pentru mai multe detalii</u></a></p>
 
                         <p></p>
                         </p>
                     </div>
-                    <div class="img-column"><img src="/assets/img/1214564411544.jpg" alt="Eco Bonus"/></div>
+                    <div class="img-column"><img src="/assets/img/1214595185257.jpg" alt="Eco Bonus"/></div>
                     <br>
                 </article>
-                <article class="content-column centered">
+              <!--  <article class="content-column centered">
                     <div class="content">
                         <h3 class="bigHeading02">
                             Promotie pentru persoane juridice - bonus de pana la 1.000 € (TVA inclus)* in carburant!
@@ -103,7 +103,7 @@
                             class="js-overlay" data-media-overlay='{"mediaType":"Image", "height":439, "width":780}'>
                             <img src="/assets/img/promotii/1214566222749.jpg" alt="Ford Edge on the road"/><span
                                 class="fv-overlay-icon"></span></a></div>
-                </article>
+                </article> -->
              <!--   <article class="content-column centered">
                     <div class="content">
                         <h3 class="bigHeading02">
@@ -138,7 +138,7 @@
                     <div class="img-column"><br>
                         <img src="/assets/img/1214573743802.jpg" alt="Ford Kuga"/></div>
                 </article> -->
-                <article class="content-column centered">
+            <!--    <article class="content-column centered">
                     <div class="content">
                         <h3 class="bigHeading02">
                             Cand ai propria afacere, ai nevoie de parteneri pe care sa te poti baza.
@@ -154,7 +154,7 @@
                     </div>
                     <div class="img-column"><br>
                         <img src="/assets/img/1214565385532.jpg" alt="Ford Kuga"/></div>
-                </article>
+                </article> -->
                 <br>
 
             </div>

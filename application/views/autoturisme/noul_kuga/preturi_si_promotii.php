@@ -1,34 +1,31 @@
+
 <script type="text/javascript">
     // mobile sniffer
     ForceRedirectUserAgents = 'android,iphone,blackberry';
     ForceRedirectUserAgentsBypass = 'Win64,Win32';
     ForceRedirectMinWidth = '480';
-    MobileHomePageRedirectURL = 'Noul-EcoSport\/\/m.ford.ro';
+    MobileHomePageRedirectURL = 'PreturisiPromotii\/\/m.ford.ro';
+    MobileRedirectURL = MobileHomePageRedirectURL + '/autoturisme/Noul-Kuga';
 </script>
 <div id="xAxis-detailed">
-    <nav class="breadCrumb" role="navigation">
+    <nav class="breadCrumb visuallyhidden" role="navigation">
         <ul itemprop="breadcrumb">
-            <li class="home">
-                <a href="/" class="om_bc_li"  title="Pagina principal&#259;">Pagina principal&#259;</a><span></span></li>
-            <li data-selenium="breadcrumb_cars"><a href="/Autoturisme" class="om_bc_li">
+            <li class="home"><a href="http://www.ford.ro/" data-selenium="breadcrumb_home" class="om_bc_li"
+                                title="Pagina principal&#259;">Pagina principal&#259;</a><span></span></li>
+            <li data-selenium="breadcrumb_cars"><a href="http://www.ford.ro/Autoturisme" class="om_bc_li">
                     Autoturisme
                 </a><span></span></li>
-            <li>EcoSport</li>
-        </ul>
-    </nav>
-    <!-- Bredcrumb Schema implementation for Nameplate at Body Template-->
-    <nav class="breadCrumb" role="navigation" style="display: none">
-        <ul itemscope itemtype="http://schema.org/BreadcrumbList">
+            <li data-selenium="breadcrumb_nameplate">Kuga</li>
         </ul>
     </nav>
     <script>
-        var vehicleimagepackpresid = '1205091200728';
+        var vehicleimagepackpresid = '1205119897468';
         var vehicleimagepackyear = 'NONE';
     </script>
-    <div class="fblike-locale">ro_RO</div>
+    <div class="fblike-locale">en_RO</div>
     <script>
         var googleAdServerNameplateId = 'AUTHORED';
-        var googleAdServerNameplateName = 'EcoSport';
+        var googleAdServerNameplateName = 'Kuga';
     </script>
     <script type="text/javascript">
         var extend = function (obj, extObj) {
@@ -44,17 +41,18 @@
             return obj;
         };
         var bootstrapVehicleData = {"vehicles": [
-            {"strIntroToFord": "Iti prezentam Noul", "selector": {"bodystyles": {"options": [
+            {"strIntroToFord": " NOUL", "selector": {"bodystyles": {"options": [
                 {}
             ]}, "exteriorImages": {"options": [
                 {}
             ]}, "interiorImages": {"options": [
                 {}
-            ]}}, "brand": "Ford", "vehicleType": "PV", "catalogId": "NONE", "nameplate": "EcoSport", "labelAvailableFrom": "&nbsp;", "formattedCurrency": "", "nameplateText": "Inteligent, compact dar si spatios, puternic dar si eficient din punct de vedere al consumului de combustibil: un SUV adaptat nevoilor tale.", "imagePack": false, "hideVehicleImage": false, "facebookImagePath": "", "facebookAppId": "facebookAppId", "images": [], "billBoardImagePath": null, "backgroundImagePath": ["/assets/img/noul_ecosport/1214507093618.jpg", "null", "null"], "disclaimerTextColor": ["364957", null, null], "current": true, "cid": "1205091149631", "cta": [
+            ]}}, "brand": "Ford", "vehicleType": "PV", "catalogId": "NONE", "nameplate": "Kuga", "labelAvailableFrom": "&nbsp;", "formattedCurrency": "", "nameplateText": "\u00CE\u021Bi prezent\u0103m cu m\u00E2ndrie noul Ford Kuga, cel mai inteligent SUV al nostru.", "imagePack": false, "hideVehicleImage": false, "facebookImagePath": "", "facebookAppId": "facebookAppId", "images": [], "billBoardImagePath": null, "backgroundImagePath": ["/assets/img/kuga/1214576538741.jpg", "null", "null"], "disclaimerTextColor": [null, null, null], "current": true, "cid": "1205129234448", "cta": [
                 {"linkTitle": "DESCARC\u0102 BRO\u015EUR\u0102 ", "linkURL": "\/SBE\/BrosuriSiPreturi", "linkType": "primary", "linkTarget": "_blank", "omid": "va"},
-                {"linkTitle": "\u00CENSCRIE-TE LA TEST DRIVE ", "linkURL": "\/SBE\/TestDrive\/TestDriveAutoturisme?shopcode=AUTHORED&derivcode=AUTHORED", "linkType": "tertiary", "linkTarget": "_blank", "omid": "tr"}
-            ], "social": {"facebook": "https://facebook.com", "facebookPage": "fordromania"}, "disclaimer": "Modelul prezentat este un Ford EcoSport", "seriesCode": "AUTHORED", "uscCode": "AUTHORED", "presId": "1205091200728", "promos": [
-                {"imagePath": "/assets/img/noul_ecosport/1214553887403.jpg", "overlay": false, "link": "/cs/ContentServer?pagename=RORO4_ENGINE/EP2/common/promo/M48_PromoBlock&c=Promo_C&cid=1205113209435", "text": "Oferta speciala prin programul rabla!"}
+                {"linkTitle": "\u00CENSCRIE-TE LA TEST DRIVE ", "linkURL": "\/SBE\/TestDrive\/TestDriveAutoturisme?shopcode=AUTHORED&derivcode=AUTHORED", "linkType": "tertiary", "linkTarget": "_blank", "omid": "tr"},
+                {"linkTitle": "Descopera Ford Vignale", "linkURL": "http://vignale.ford.ro/ro-RO/kuga/", "linkType": "tertiary", "linkTarget": "_blank", "omid": "tr"}
+            ], "social": {"facebook": "https://facebook.com", "facebookPage": "fordromania"}, "disclaimer": "MODELUL PREZENTAT ESTE UN KUGA TITANIUM. IMAGINE CU TITLUL DE PREZENTARE.", "seriesCode": "AUTHORED", "uscCode": "AUTHORED", "presId": "1205119897468", "promos": [
+                {"imagePath": "/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobwhere=1214595185084&blobkey=id", "overlay": false, "link": "/cs/ContentServer?pagename=RORO4_ENGINE/EP2/common/promo/M48_PromoBlock&c=Promo_C&cid=1205132035651", "text": "Vezi oferta speciala"}
             ], "idf": {"options": []}}
         ]} || {};
         var retrieveUserOptions = JSON.parse(localStorage.getItem('userSelection')) || {};
@@ -64,45 +62,41 @@
             bootstrapVehicleData.vehicles[0].images = [retrieveUserOptions.selectedImageAngle];
         }
     </script>
-    <div id="fb-root"></div>
-    <!-- commented for Release 1604 <section id="billboard" style="height:0;"></section> -->
+    <section id="billboard" style="height:0;"></section>
     <section class="x-axis-wrapper" id="vvmWrapper">
         <div itemscope itemtype="http://schema.org/ImageObject">
             <ul class="nameplate x-axis" id="vvmRoot">
                 <li class="default-nameplate-vehicle"
-                    style="background-image:url(/assets/img/noul_ecosport/1214507093618.jpg)">
+                    style="background-image:url(http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpg&amp;blobwhere=1214576538741&amp;blobkey=id)">
                     <div class="layered-nameplate-image">
                         <div class="image-holder">
                         </div>
                     </div>
-                    <aside class="nameplate-disclaimer style=color:#364957">
-                        Modelul prezentat este un Ford EcoSport
+                    <aside class="nameplate-disclaimer ">
+                        MODELUL PREZENTAT ESTE UN KUGA TITANIUM. IMAGINE CU TITLUL DE PREZENTARE.
                     </aside>
                 </li>
             </ul>
             <div itemscope itemtype="http://schema.org/Product" id="nameplateDetails" class="nameplate-vehicle">
                 <!--the text description-->
                 <div class="name-plate-text">
-                    <p class="intro">Iti prezentam Noul</p>
+                    <p class="intro"> NOUL</p>
 
                     <h1 class="bigHeading">
-                        <span data-selenium="XA_namePlate" itemprop="member" class="nameplate boldTxt">EcoSport</span>
+                        <span data-selenium="XA_namePlate" itemprop="member" class="nameplate boldTxt">Kuga</span>
                         <span data-selenium="XA_model" itemprop="model" itemscope
                               itemtype="http://schema.org/Organization" class="mark">Ford</span>
                         <!--The price -->
                     </h1>
                     <!--The blurb -->
                     <p class="blurb">
-                        Inteligent, compact dar si spatios, puternic dar si eficient din punct de vedere al consumului
-                        de combustibil: un SUV adaptat nevoilor tale.
+                        Îți prezentăm cu mândrie noul Ford Kuga, cel mai inteligent SUV al nostru.
                     </p>
                 </div>
             </div>
         </div>
-        <nav class="vehicle-tools" id="vehicleTools">
-        </nav>
-        <aside class="vehicle-links box-shadow" id="ctaDetails">
-        </aside>
+        <nav class="vehicle-tools" id="vehicleTools"></nav>
+        <aside class="vehicle-links box-shadow" id="ctaDetails"></aside>
         <div id="intImageCarousel" class="interior-image-carousel">
             <div class="slide-wrapper">
                 <article class="slide"></article>
@@ -110,16 +104,13 @@
         </div>
     </section>
     <!-- bill board -->
-    <!-- commented for Release 1604
     <script type="text/x-handlebars-template" id="billboardTemplate">
-    {{#each vehicles}}
-    {{#if current}}
-    <div style="background:url({{billBoardImagePath}}) no-repeat;"></div>
-    {{/if}}
-    {{/each}}
+        {{#each vehicles}}
+        {{#if current}}
+        <div style="background:url({{billBoardImagePath}}) no-repeat;"></div>
+        {{/if}}
+        {{/each}}
     </script>
-    -->
-    <!-- VIEW TEMPLATES -->
     <script type="text/x-handlebars-template" id="vehicleTemplate">
         {{#each vehicles}}
         <li>
@@ -268,33 +259,30 @@
     <div id="promo-carousel-timer">7500</div>
     <div class="slide-wrapper">
         <article class="slate slide">
-            <a href='/Promotii/Autoturisme/Rabla/OfertaEcoSport'>
+            <a href='http://www.ford.ro/Promotii/Autoturisme/NoulKUGA'>
 <span class="active-promo-rover">
 <span class="bg-opacity"></span>
 <span class="link-icon"></span>
 </span>
-                <img src="/assets/img/noul_ecosport/1214553887403.jpg" alt="Ford Fiesta">
+                <img
+                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpg&amp;blobwhere=1214595185084&amp;blobkey=id"
+                    alt="Noul Ford Kuga Oferta">
 
-                <p class="promo-carousel-text"><span
-                        class="promo-carousel-bold">Oferta speciala prin programul rabla!</span></p></a>
+                <p class="promo-carousel-text"><span class="promo-carousel-bold">Vezi oferta speciala</span></p></a>
         </article>
     </div>
 </section>
 <section id="non-js-promoCarousel" class="non-js-promo-carousel box-shadow">
     <div class="slide-wrapper">
         <p class="promo-carousel-text"><a
-                href="#"
-                target="_blank">Ford Fiesta</a></p>
+                href="http://www.ford.ro/cs/ContentServer?pagename=RORO4_ENGINE/EP2/common/promo/M48_PromoBlock&amp;c=Promo_C&amp;cid=Vezi%20oferta%20speciala"
+                target="_blank">Noul Ford Kuga Oferta</a></p>
     </div>
 </section>
 <!-- Tabs -->
 <script
     type="text/javascript"> var nameplateTabErrorMsg = 'Ne pare r&#259;u, momentan nu putem s&#259; &icirc;nc&#259;rc&#259;m con&#539;inutul pe care l-a&#539;i solicitat. &Icirc;ncerca&#539;i din nou, mai t&acirc;rziu.'; </script>
 <!-- Addthis Replacement : Start -->
-<!-- SocialShare END -->
-<script type="text/javascript">
-    var bootstrapsocialshare = {"shareBtn": {"googleplus": {"url": "https:\/\/plus.google.com\/share", "id": ""}, "facebook": {"url": "https:\/\/www.facebook.com\/sharer\/sharer.php", "id": "619904354830748"}, "email": "{}", "twitter": {"url": "https:\/\/twitter.com\/share", "id": ""}}, "emailSubject": "Un model Ford care poate te intereseaza", "subline": "Distribuie prietenilor t&#259;i!", "enable": true, "items": ["facebook", "twitter", "googleplus", "email"], "emailBodyContent": "Salut, ma uitam pe ford.ro si m-am gandit ca, in mod sigur, ti-ar placea acest model: \r\n\r\n\r\n", "headline": "Ai nevoie de o a doua opinie?"};
-</script>
 <!-- Addthis Replacement : End -->
 <section id="primary-tab-content" class="nameplate-tab-content" data-dynamic-tabcontent="true"
          data-siteterm-backtotop="Back To Top !!!">
@@ -302,135 +290,139 @@
         <nav class="tabs" id="primaryTabs">
             <ul>
                 <!--  isBtfTab true -->
-                <!--  tabUrl /cs/ContentServer?cid=1205091149631&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE -->
+                <!--  tabUrl /cs/ContentServer?cid=1205129234448&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE -->
+                <li><a href="prezentare_generala#primaryTabs" class=" "
+                       data-ajaxlink="/cs/ContentServer?cid=1205129234448&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE">Prezentare
+                        Generala</a>
+                    <!-- secondary tabs -->
+                    <!--  midPageTabId : 1205127844706 -->
+                </li>
+                <!--  isBtfTab  -->
+                <!--  tabUrl /cs/ContentServer?cid=1205129234448&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205132037865&amp;tabName=PreturisiPromotii&amp;c=Page&amp;site=RORO4_ENGINE -->
                 <!-- IntoID ::: articleAssetId -->
-                <li class="selected"><a href="Noul-EcoSport/PrezentareGenerala#primaryTabs"
-                                        data-ajaxlink="/cs/ContentServer?cid=1205091149631&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE">Prezentare
-                        generala</a>
+                <li class="selected"><a href="PreturisiPromotii#primaryTabs"
+                                        data-ajaxlink="/cs/ContentServer?cid=1205129234448&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205132037865&amp;tabName=PreturisiPromotii&amp;c=Page&amp;site=RORO4_ENGINE">PRETURI
+                        SI PROMOTII</a>
                     <!--This is where the main content for the selected tab will go -->
                     <!-- secondary tabs -->
                     <div class="secondary-tabs tab-content">
                         <nav class="sub-nav">
                             <ul>
-                                <li><a href='#tab1' class='omt_tabName'>Prezentare generala</a></li>
+                                <li><a href='#tab1' class='omt_tabName'>PROMOTII</a></li>
+                                <li><a href='#tab2' class='omt_tabName'>PRETURI</a></li>
                             </ul>
                         </nav>
                         <!-- isBtfTab : from MidPageTabs true -->
                         <div class="innertab-wrapper">
-                            <!--  tabTitle : Prezentare generala :: btfTabContent : 1205091148902 :: tabContent :  -->
+                            <!--  tabTitle : PROMOTII :: btfTabContent : 1205132036257 :: tabContent :  -->
                             <div id='tab1' class="secondary-tab-content">
                                 <header class="intro-header">
                                     <h1 class="bigHeading">
-                                        NOUL FORD <strong>ECOSPORT</strong>
+                                        CEL MAI NOU SUV FORD, CU O OFERTA SPECIALA DE LANSARE
                                     </h1>
                                     <span class="highlighter"></span>
 
                                     <p class="intro-text">
 
-                                    <p>Ford EcoSport este o noua interpretare a unui SUV (Smart Utility Vehicle).<br>
-                                        <br> Inteligent pentru ca este compact pe dinafara, fiind in acelasi timp
-                                        spatios si bine echipat la interior.<br> <br> Inteligent pentru ca o gama de
-                                        tehnologii remarcabile transforma fiecare calatorie intr-una confortabila si
-                                        agreabila. <br> <br> Inteligent pentru ca motorul si transmisiile de ultima
-                                        generatie furnizeaza performante si economie de combustibil impresionante.</p>
+                                    <p>Gandit pentru actiune; dotat pentru confort; cu un design care impresioneaza si
+                                        cu numeroase tehnologii inteligente, noul Kuga este cel mai recent Smart Utility
+                                        Vehicle de la Ford. Iar cu oferta de lansare ai un pret special pentru SUV-ul
+                                        care iti va deschide noi posibilitati: doar
+                                    <nobr>19.950 &euro;*</nobr>
+                                    (TVA inclus).<br> <br> <a
+                                        HREF="/Promotii/Autoturisme/NoulKUGA"><span
+                                            style="color: rgb(0, 0, 255);"><u>Vezi oferta speciala de lansare</u></span></a></p>
                                     </p>
                                 </header>
-                                <article class="content-column left">
-                                    <div class="img-column"><img
-                                                src="/assets/img/noul_ecosport/1214507096977.jpg"
-                                                alt="EcoSport Titanium Kinetic Blue Exterior "/><span
-                                                class="fv-overlay-icon"></span></div>
-                                    <div class="content">
-                                        <h3 class="bigHeading02">
-                                            Pozitie de condus ridicata care ofera incredere la volan
-                                        </h3>
+                            </div>
+                            <!--  tabTitle : PRETURI :: btfTabContent : 1205132036270 :: tabContent :  -->
+                            <div id='tab2' class="secondary-tab-content">
+                                <header class="intro-header">
+                                    <h1 class="bigHeading">
+                                        LISTA DE PRETURI
+                                    </h1>
+                                    <span class="highlighter"></span>
 
-                                        <p>
+                                    <p class="intro-text">
 
-                                        <p>Drumuri aglomerate, locuri de parcare si strazi laterale inguste... Datorita
-                                            designului inteligent, EcoSport face fata fara probleme acestor provocari.
-                                            Acesta agilitate si manevrabilitate este completata de o vizibilitate
-                                            deosebita: o pozitie de condus ridicata, oferind o priveliste impresionanta
-                                            asupra drumului si lumii din jurul tau.</p>
-                                        </p>
-                                    </div>
-                                </article>
-                                <article class="content-column right">
-                                    <div class="content">
-                                        <h3 class="bigHeading02">
-                                            O imbinare optima intre putere si eficienta
-                                        </h3>
-
-                                        <p>
-
-                                        <p>Motorul pe benzina EcoBoost de 1 litru, cu 3 cilindri, este un produs al
-                                            designului ingenios si al ingineriei inteligente. De altfel, tehnologia
-                                            revolutionara furnizeaza puterea unui motor cu cilindree mare, oferind
-                                            totodata economie imbunatatita: performanta care a facut ca EcoBoost sa
-                                            castige prestigiosul premiu Motorul International al Anului pentru un numar
-                                            record de patru ani consecutivi.</p>
-                                        </p>
-                                    </div>
-                                    <div class="img-column"> <img
-                                                src="/assets/img/noul_ecosport/1214507096645.jpg"
-                                                alt="Ford 1.0-litre  EcoBoost Engine "/><span
-                                                class="fv-overlay-icon"></span></div>
-                                </article>
+                                    <p>Apasa <a HREF="http://www.ford.ro/SBE/BrosuriSiPreturi"><span
+                                                style="color: rgb(0, 0, 255);"><u>aici</u></span></a> pentru lista
+                                        curenta de preturi, cu toate informatiile despre motorizari, variante de
+                                        caroserie, versiuni de echipare si dotari.<br> <br> Sau vizitează showroom-ul nostru pentru
+                                        detalii complete despre acest model si despre cele mai bune oferte disponibile.
+                                    </p>
+                                    </p>
+                                </header>
                             </div>
                             <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
                             <!-- BEGIN [MidPageTabs] -->
                             <!--<div id='tab1' class="mp-tab-wrapper">
-                            <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Prezentare generala</a></h2> -->
+<h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">PROMOTII</a></h2> -->
+                            <!--</div>-->
+                            <!--<div id='tab2' class="mp-tab-wrapper">
+<h2><a href='#tab2' class="mp-tab omt_xd_mt_ti">PRETURI</a></h2> -->
                             <!--</div>-->
                             <!-- END [MidPageTabs] -->
                             <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
                             <!-- BEGIN [MidPageTabs] -->
                             <!--<div id='tab1' class="mp-tab-wrapper">
-                            <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Prezentare generala</a></h2> -->
+<h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">PROMOTII</a></h2> -->
+                            <!--</div>-->
+                            <!--<div id='tab2' class="mp-tab-wrapper">
+<h2><a href='#tab2' class="mp-tab omt_xd_mt_ti">PRETURI</a></h2> -->
                             <!--</div>-->
                             <!-- END [MidPageTabs] -->
                             <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
                             <!-- BEGIN [MidPageTabs] -->
                             <!--<div id='tab1' class="mp-tab-wrapper">
-                            <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Prezentare generala</a></h2> -->
+<h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">PROMOTII</a></h2> -->
                             <!--</div>-->
-                            <!-- END [MidPageTabs] -->
-                            <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
-                            <!-- BEGIN [MidPageTabs] -->
-                            <!--<div id='tab1' class="mp-tab-wrapper">
-                            <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Prezentare generala</a></h2> -->
+                            <!--<div id='tab2' class="mp-tab-wrapper">
+<h2><a href='#tab2' class="mp-tab omt_xd_mt_ti">PRETURI</a></h2> -->
                             <!--</div>-->
                             <!-- END [MidPageTabs] -->
                         </div>
                     </div>
                 </li>
                 <!--  isBtfTab  -->
-                <!--  tabUrl /cs/ContentServer?cid=1205091149631&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205096191903&amp;tabName=PreturiSiPromotii&amp;c=Page&amp;site=RORO4_ENGINE -->
-             <!--   <li><a href="Noul-EcoSport/PreturiSiPromotii#primaryTabs" class=" "
-                       data-ajaxlink="/cs/ContentServer?cid=1205091149631&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205096191903&amp;tabName=PreturiSiPromotii&amp;c=Page&amp;site=RORO4_ENGINE">Preturi
-                        Si Promotii</a>
+                <!--  tabUrl /cs/ContentServer?cid=1205129234448&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205127835799&amp;tabName=galerie&amp;c=Page&amp;site=RORO4_ENGINE -->
+                <li><a href="galerie#primaryTabs" class=" "
+                       data-ajaxlink="/cs/ContentServer?cid=1205129234448&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205127835799&amp;tabName=galerie&amp;c=Page&amp;site=RORO4_ENGINE">Design</a>
                     <!-- secondary tabs -->
-                    <!--  midPageTabId : 1205096189788 -->
-                </li> -->
-                <!--  isBtfTab  -->
-                <!--  tabUrl /cs/ContentServer?cid=1205091149631&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205091148891&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE -->
-                <li><a href="Noul-EcoSport/Design#primaryTabs" class=" "
-                       data-ajaxlink="/cs/ContentServer?cid=1205091149631&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205091148891&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE">Design</a>
-                    <!-- secondary tabs -->
-                    <!--  midPageTabId : 1205091148864 -->
+                    <!--  midPageTabId : 1205127835016 -->
                 </li>
                 <!--  isBtfTab  -->
-                <!--  tabUrl /cs/ContentServer?cid=1205091149631&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205091148170&amp;tabName=Caracteristici&amp;c=Page&amp;site=RORO4_ENGINE -->
-                <li><a href="Noul-EcoSport/Caracteristici#primaryTabs" class=" "
-                       data-ajaxlink="/cs/ContentServer?cid=1205091149631&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205091148170&amp;tabName=Caracteristici&amp;c=Page&amp;site=RORO4_ENGINE">Caracteristici</a>
+                <!--  tabUrl /cs/ContentServer?cid=1205129234448&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205127842606&amp;tabName=caracteristici&amp;c=Page&amp;site=RORO4_ENGINE -->
+                <li><a href="caracteristici#primaryTabs" class=" "
+                       data-ajaxlink="/cs/ContentServer?cid=1205129234448&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205127842606&amp;tabName=caracteristici&amp;c=Page&amp;site=RORO4_ENGINE">Caracteristici</a>
                     <!-- secondary tabs -->
-                    <!--  midPageTabId : 1205091146107 -->
+                    <!--  midPageTabId : 1205127839319 -->
+                </li>
+                <!--  isBtfTab  -->
+                <!--  tabUrl /cs/ContentServer?cid=1205129234448&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205127835266&amp;tabName=st-line&amp;c=Page&amp;site=RORO4_ENGINE -->
+                <li><a href="st-line#primaryTabs" class=" "
+                       data-ajaxlink="/cs/ContentServer?cid=1205129234448&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205127835266&amp;tabName=st-line&amp;c=Page&amp;site=RORO4_ENGINE">ST-Line</a>
+                    <!-- secondary tabs -->
+                    <!--  midPageTabId : 1205127844723 -->
+                </li>
+                <!--  isBtfTab  -->
+                <!--  tabUrl /cs/ContentServer?cid=1205129234448&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205127836983&amp;tabName=kuga_vignale&amp;c=Page&amp;site=RORO4_ENGINE -->
+                <li><a href="kuga_vignale#primaryTabs" class=" "
+                       data-ajaxlink="/cs/ContentServer?cid=1205129234448&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205127836983&amp;tabName=kuga_vignale&amp;c=Page&amp;site=RORO4_ENGINE">Kuga
+                        Vignale</a>
+                    <!-- secondary tabs -->
+                    <!--  midPageTabId : 1205127838922 -->
                 </li>
             </ul>
         </nav>
     </div>
     <article class="nameplate-main-content" id="tabs">
     </article>
+    <!-- Bredcrumb Schema implementation for Primary Tabs-->
+    <nav class="breadCrumb" role="navigation" style="display: none">
+        <ul itemscope itemtype="http://schema.org/BreadcrumbList">
+        </ul>
+    </nav>
     <script class="script.EP2_Tab_Bootstrap">
         var __links = document.querySelectorAll('.omt_tabName'), i;
         for (i = 0; i < __links.length; ++i) {
@@ -440,5 +432,5 @@
         }
     </script>
 </section>
-<script id="TagIT.load" defer></script>
+<script id="TagIT.load"></script>
 </div>

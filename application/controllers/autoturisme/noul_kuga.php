@@ -16,6 +16,13 @@ class noul_kuga extends CI_Controller
             ->build('autoturisme/noul_kuga/prezentare_generala');
     }
 
+    public function preturi_si_promotii()
+    {
+        $this->template
+            ->title('Noul Kuga - Prezentare generala', 'Ford AutoTechnic')
+            ->build('autoturisme/noul_kuga/preturi_si_promotii');
+    }
+
     public function st_line()
     {
         $this->template

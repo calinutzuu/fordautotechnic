@@ -168,4 +168,12 @@ class Autoturisme extends CI_Controller
             ->title('Weekend-ul Inovatiei', 'Ford AutoTechnic')
             ->build('promotii/autoturisme/ecobonus/weekendul_inovatiei');
     }
+
+    public function noul_kuga_o()
+    {
+        $this->template
+            ->set_layout('promotii')
+            ->title('NoulKUGA', 'Ford AutoTechnic')
+            ->build('promotii/autoturisme/noul_kuga_o');
+    }
 }

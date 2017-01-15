@@ -402,12 +402,11 @@
                 </li>
                 <!--  isBtfTab  -->
                 <!--  tabUrl /cs/ContentServer?cid=1205099721296&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205104085715&amp;tabName=PreturisiPromotii&amp;c=Page&amp;site=RORO4_ENGINE -->
-                <li><a href="NoulMustang/PreturisiPromotii#primaryTabs" class=" "
+               <!-- <li><a href="NoulMustang/PreturisiPromotii#primaryTabs" class=" "
                        data-ajaxlink="/cs/ContentServer?cid=1205099721296&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205104085715&amp;tabName=PreturisiPromotii&amp;c=Page&amp;site=RORO4_ENGINE">Preturi
                         si Promotii</a>
-                    <!-- secondary tabs -->
-                    <!--  midPageTabId : 1205104313828 -->
-                </li>
+
+                </li> -->
                 <!--  isBtfTab  -->
                 <!--  tabUrl /cs/ContentServer?cid=1205099721296&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205099724326&amp;tabName=Galerie&amp;c=Page&amp;site=RORO4_ENGINE -->
                 <li><a href="NoulMustang/Galerie#primaryTabs" class=" "

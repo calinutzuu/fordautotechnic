@@ -406,12 +406,12 @@
                 </li>
                 <!--  isBtfTab  -->
                 <!--  tabUrl /cs/ContentServer?cid=1205106489583&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205107339789&amp;tabName=PreturiSiPromotii&amp;c=Page&amp;site=RORO4_ENGINE -->
-                <li><a href="FocusRS/PreturiSiPromotii#primaryTabs" class=" "
+              <!--  <li><a href="FocusRS/PreturiSiPromotii#primaryTabs" class=" "
                        data-ajaxlink="/cs/ContentServer?cid=1205106489583&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205107339789&amp;tabName=PreturiSiPromotii&amp;c=Page&amp;site=RORO4_ENGINE">Preturi
                         si Promotii</a>
                     <!-- secondary tabs -->
                     <!--  midPageTabId : 1205107339997 -->
-                </li>
+                </li> -->
                 <!--  isBtfTab  -->
                 <!--  tabUrl /cs/ContentServer?cid=1205106489583&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205106491651&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE -->
                 <li><a href="FocusRS/Design#primaryTabs" class=" "

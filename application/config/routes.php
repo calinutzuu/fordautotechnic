@@ -140,6 +140,7 @@ $route['Autoturisme/Noul_Kuga/kuga_vignale'] = 'autoturisme/noul_kuga/kuga_vigna
 $route['Autoturisme/Noul_Kuga/st-line'] = 'autoturisme/noul_kuga/st_line';
 $route['Autoturisme/Noul_Kuga/caracteristici'] = 'autoturisme/noul_kuga/caracteristici';
 $route['Autoturisme/Noul_Kuga/galerie'] = 'autoturisme/noul_kuga/design';
+$route['Autoturisme/Noul_Kuga/PreturisiPromotii'] = 'autoturisme/noul_kuga/preturi_si_promotii';
 $route['Autoturisme/Noul_Kuga'] = 'autoturisme/noul_kuga/index';
 
 $route['Autoturisme/st-line'] = 'autoturisme/st_line/index';
@@ -244,6 +245,7 @@ $route['Promotii/Autoturisme/PromotieFlote'] = 'promotii/autoturisme/promotie_fl
 
 $route['Promotii/Autoturisme/Ecobonus'] = 'promotii/autoturisme/ecobonus';
 $route['Promotii/Autoturisme/BlackFriday'] = 'promotii/autoturisme/black_friday';
+$route['Promotii/Autoturisme/NoulKUGA'] = 'promotii/autoturisme/noul_kuga_o';
 
 $route['Promotii/Autoturisme/Ecobonus/OfertaFiesta'] = 'promotii/autoturisme/oferta_fiesta_e';
 $route['Promotii/Autoturisme/Ecobonus/OfertaBMAX'] = 'promotii/autoturisme/oferta_bmax_e';

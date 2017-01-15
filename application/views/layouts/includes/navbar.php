@@ -68,8 +68,7 @@
     </li>
     <li role="menuitem" class=""><a role="link"
                                     data-selenium="doormat_car_selection Noul Mondeo"
-                                    class="om_he_pv_np " href="/Autoturisme/Mondeo">Noul
-            Mondeo</a></li>
+                                    class="om_he_pv_np " href="/Autoturisme/Mondeo">Mondeo</a></li>
     <li role="menuitem" class="branded vignale"><a role="link"
                                                    data-selenium="doormat_car_selection Mondeo Vignale"
                                                    class="om_he_pv_np "
@@ -147,7 +146,7 @@
 
     <div class="flyout">
         <ul class="subMenu" role="menu">
-     <!--       <li role="menuitem"><a href="/Promotii/Autoturisme" class="om_he_ac_li">Promoţii autoturisme</a></li> -->
+           <li role="menuitem"><a href="/Promotii/Autoturisme" class="om_he_ac_li">Promoţii autoturisme</a></li>
             <li role="menuitem"><a href="/Promotii/comerciale" class="om_he_ac_li">Promoții vehicule comerciale</a></li>
             <li role="menuitem"><a href="/FordService/Motorcraft" class="om_he_ac_li">Promoţii service</a></li>
         <!--    <li role="menuitem"><a href="../Promotii/promotii-accesorii" class="om_he_ac_li">Promoţii accesorii</a></li> -->
