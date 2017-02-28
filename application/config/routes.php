@@ -263,7 +263,7 @@ $route['Promotii/Autoturisme/Rabla/OfertaMondeo'] = 'promotii/autoturisme/oferta
 $route['Promotii/Autoturisme/Rabla/OfertaEcoSport'] = 'promotii/autoturisme/oferta_ecosport';
 
 $route['Promotii/comerciale'] = 'promotii/comerciale/index';
-$route['Promotii/comerciale/NoulRanger'] = 'promotii/comerciale/noul_ranger';
+$route['Promotii/comerciale/Ranger'] = 'promotii/comerciale/noul_ranger';
 $route['Promotii/comerciale/BusinessWeeks'] = 'promotii/comerciale/business_weeks_co';
 
 

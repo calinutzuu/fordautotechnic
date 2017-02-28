@@ -26,8 +26,8 @@
         <section id="carouselize" class="carousel-container carousel"></section>
         <section class="mid-page-content">
             <div class="tab-content">
-                <article class="content-column centered">
-                    <div class="content">
+                <article class="content-column left">
+                    <div class="content centered">
                         <h3 class="bigHeading02">
                             CEL MAI NOU SUV FORD, CU O OFERTA SPECIALA DE LANSARE
                         </h3>
@@ -35,17 +35,36 @@
                         <p>
 
                         <p>Gandit pentru actiune; dotat pentru confort; cu un design care impresioneaza si cu numeroase
-                            tehnologii inteligente, noul Kuga este cel mai recent Smart Utility Vehicle de la Ford. Iar
-                            cu oferta de lansare ai un pret special pentru SUV-ul care iti va deschide noi posibilitati:
+                            tehnologii</br>  inteligente, noul Kuga este cel mai recent Smart Utility Vehicle de la Ford. Iar
+                            cu oferta de lansare </br> ai un pret special pentru SUV-ul care iti va deschide noi posibilitati:
                             doar 19.950 €* (TVA inclus).</p>
 
-                        <p><br> <br> <a HREF="/Promotii/Autoturisme/NoulKUGA">
+                        <p><br> <a HREF="/Promotii/Autoturisme/NoulKUGA">
                                 <u>Click aici pentru mai multe detalii</u></a></p>
 
                         <p></p>
                         </p>
                     </div>
                     <div class="img-column"><img src="/assets/img/1214595185257.jpg" alt="Eco Bonus"/></div>
+                    <br>
+                </article>
+                <article class="content-column centered">
+                    <div class="content">
+                        <h3 class="bigHeading02">
+                            Fii original si indraznet cu noul Ford KA+!
+                        </h3>
+
+                        <p>
+
+                        <p>Spatios, economic, prietenos, cu o&nbsp;manevrabilitate iesita din comun, KA+ stabileste noile standarde din clasa mica.</p>
+
+                        <p><br> <br> <a HREF="/Promotii/Autoturisme/NoulKAPlus">
+                                <u>Click aici pentru mai multe detalii</u></a></p>
+
+                        <p></p>
+                        </p>
+                    </div>
+                    <div class="img-column"><img src="/assets/img/promotii/1214602147460.jpg" alt="Eco Bonus"/></div>
                     <br>
                 </article>
               <!--  <article class="content-column centered">

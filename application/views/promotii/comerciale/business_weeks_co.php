@@ -15,31 +15,10 @@
                             alt="Ford Ranger"/></div>
                     <div class="content">
                         <h3 class="bigHeading02">
-                            FORD </strong>RANGER </strong>
+                            NOUL FORD RANGER </br>CU DOAR 288 €* / LUNA, </br>CU PACHETUL OFF-ROAD
                         </h3>
-
                         <p>
-
-                        <p>Un pick-up adevarat pe care te poti baza indiferent de conditiile de drum. Cu un design
-                            indraznet, noul Ford Ranger se face remarcat in mediul urban si este un partener de nadejde
-                            in off-road.<br> <br> Cu o sarcina utila bruta de 1.403 kg si o putere de tractare de 3.500
-                            kg, poti transporta sau tracta cele mai mari si mai voluminoase incarcaturi. In off-road te
-                            va surprinde inclusiv la trecerile prin vad. Noul Ford Ranger poate traversa ape cu adancimi
-                            de pana la 80 de cm.<br> <br> Vino in showroom-urile Ford la Business Weeks si primesti
-                            beneficii de exceptie pentru afacerea ta: rata lunara 293,56 &euro;* si dobanda 0,99% / an
-                            *!. In plus, pretul include pachetul Off-road (diferential spate blocabil si protectie
-                            metalica pentru motor, cutie de viteze si rezervor.)<br> </p>
-
-                        <p id="replie10"><span
-                                onclick="document.getElementById('10').style.display = 'block'; document.getElementById('replie10').style.display = 'none';"><a><span
-                                        style="text-align: right;"><u><strong>*Termeni si
-                                                conditii</strong></u></span></a></span></p>
-
-                        <div>
-                            <div></div>
-                            <p style="display: none;" id="10"><span
-                                    onclick="document.getElementById('replie10').style.display = 'block'; document.getElementById('10').style.display = 'none';">Oferta este valabila pentru  Ford Ranger XLT 2.2 160 HP ( include pachet off-road, carlig de remorcare si vopsea metalizata)  in valoare de 24.181 euro + TVA ( 29.017 euro TVA inclus), avans 30% in valoare de 7.254  euro + TVA ( 8.705 euro TVA inclus), pe 60 luni: rata anuala a dobanzii (variabila) 0,99%, comision de analiza dosar 2,5% din pretul masinii (725 euro TVA inclus), comision lunar de administrare 0,05% (10,16  euro TVA inclus ), valoarea ratei lunare 293,56 euro + TVA (352,28 euro TVA inclus) valoarea totala platibila 25.872 euro+ TVA (31.047,6 euro TVA inclus), DAE 4 %. In calculul ratei lunare nu s-a inclus asigurarea CASCO. Oferta in limita stocului disponibil, valabila pana la 31 octombrie 2016.<br> <br> Aceasta oferta financiara este realizata exclusiv prin UniCredit Leasing Corporation IFN si este dedicata persoanelor juridice. Imaginea afisata este cu titlu de prezentare.   </span>
-                            </p></div>
+                        <p>Stilat, dar solid. Indraznet, dar sofisticat. Utilitar, dar remarcabil. <br> <br> Cu o reputatie solida ca pick-up-ul pentru orice destinatie si incarcatura, Ford Ranger duce, prin noua generatie, si mai departe traditia off-road, adaugand un nou nivel de comfort si functionalitate. <br> <br> Iar acum noul Ranger este disponibil in cadrul unei oferte speciale.    <br> <br> <br><a HREF="/Promotii/comerciale/Ranger" ><u><strong> &gt; VEZI OFERTA SPECIALA</strong></u></a></p> <div></div>
                         </p>
                     </div>
                 </article>
@@ -80,7 +59,7 @@
                                     include Ice pack 2, pachet fumatori, aer conditionat) in valoare de 18.086 euro +
                                     TVA ( 21.703 euro TVA inclus), avans 30% in valoare de 5.426 euro + TVA ( 6.511 euro
                                     TVA inclus), pe 60 luni: rata anuala a dobanzii (variabila) 0,99%, comision de
-                                    analiza dosar 2,5% din pretul mașinii ( 543 euro TVA inclus), comision lunar de
+                                    analiza dosar 2,5% din pretul ma?inii ( 543 euro TVA inclus), comision lunar de
                                     administrare 0,05% (7,6 euro TVA inclus ), valoarea ratei lunare 219,57 euro + TVA
                                     (263,49 euro TVA inclus) valoarea totala platibila 19.365,66 euro+ TVA (23.238,80
                                     euro TVA inclus), DAE 4,05 %. In calculul ratei lunare nu s-a inclus asigurarea

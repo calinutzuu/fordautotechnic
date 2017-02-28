@@ -170,10 +170,17 @@ class Autoturisme extends CI_Controller
     }
 
     public function noul_kuga_o()
+{
+    $this->template
+        ->set_layout('promotii')
+        ->title('NoulKUGA', 'Ford AutoTechnic')
+        ->build('promotii/autoturisme/noul_kuga_o');
+}
+    public function noul_ranger()
     {
         $this->template
             ->set_layout('promotii')
-            ->title('NoulKUGA', 'Ford AutoTechnic')
-            ->build('promotii/autoturisme/noul_kuga_o');
+            ->title('Ranger', 'Ford AutoTechnic')
+            ->build('promotii/comerciale/noul_ranger');
     }
 }

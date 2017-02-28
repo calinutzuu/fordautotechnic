@@ -5,6 +5,38 @@
             <!--Rendering the Image Panel-->
 
             <article role="option">
+                <a class="carImg" href="#img1"><img src="/assets/img/1214602147441.jpg" alt="" role="presentation"></a>
+                <div class="innerBox posBottomRight WhiteText">
+                    <div class="">
+                        <h2 class="bigHeading02">
+                        </h2>
+                        <p class="captionTxt">
+                        </p>
+                        <div class="btnwrapper">
+                            <div class="btnLink light">
+                                <a role="button" class="om_ca_in" href="/Promotii/Autoturisme/NoulKAPlus" >DETALII DESPRE PROMOTIE</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </article>
+            <article role="option">
+                <a class="carImg" href="#img1"><img src="/assets/img/1214599284809.jpg" alt="" role="presentation"></a>
+                <div class="innerBox posBottomLeft WhiteText">
+                    <div class="">
+                        <h2 class="bigHeading02">
+                        </h2>
+                        <p class="captionTxt">
+                        </p>
+                        <div class="btnwrapper">
+                            <div class="btnLink light">
+                                <a role="button" class="om_ca_in" href="/Promotii/comerciale/Ranger" >Vezi oferta speciala</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </article>
+            <article role="option">
                 <a class="carImg" href="#img1">
                     <img src="/assets/img/kuga/1214588472335.jpg" alt="" role="presentation"></a>
 

@@ -50,7 +50,7 @@
                         </div>
                         <ul class="navsubmenu">
                             <li class=''>
-                                <a href='noul_ka_plus.php'>Noul KA Plus</a></li>
+                                <a href='noul_ka_plus_vechi.php'>Noul KA Plus</a></li>
                             <li class=''>
                                 <a href='NoulFordEdge'>Noul Ford Edge</a></li>
                             <li class=''>

@@ -24,27 +24,19 @@
                 <article class="content-column centered">
                     <div class="img-column ">
                             <img
-                                src="/assets/img/promotii/1214565386171.jpg"
-                                alt="Business Week"/><span class="fv-overlay-icon"></span></div>
+                                src="/assets/img/promotii/1214599284915.jpg"
+                                alt="Ranger"/><span class="fv-overlay-icon"></span></div>
                     <div class="content">
                         <h3 class="bigHeading02">
-                            Beneficii de exceptie pentru afacerea ta!
+                            NOUL FORD RANGER </br>CU DOAR 288 €* / LUNA, </br>CU PACHETUL OFF-ROAD
                         </h3>
-
                         <p>
-
-                        <p>Cand ai propria afacere, ai nevoie de cele mai bune solutii. <br> <br> Te asteptam la Ford
-                            Business Weeks sa iti alegi vehiculul comercial Ford de care ai nevoie. Fie ca alegi un
-                            model Transit sau noul Ford Ranger, te bucuri de costuri optimizate si primesti beneficii de
-                            exceptie pentru afacerea ta: conditii speciale de finantare si garantie extinsa. <br> <br>
-                            <a HREF="comerciale/BusinessWeeks"><u>&gt;Vezi detaliile promotiei</u></a></p>
-
-                        <div></div>
+                        <p>Stilat, dar solid. Indraznet, dar sofisticat. Utilitar, dar remarcabil. <br> <br> Cu o reputatie solida ca pick-up-ul pentru orice destinatie si incarcatura, Ford Ranger duce, prin noua generatie, si mai departe traditia off-road, adaugand un nou nivel de comfort si functionalitate. <br> <br> Iar acum noul Ranger este disponibil in cadrul unei oferte speciale.    <br> <br> <br><a HREF="/Promotii/comerciale/Ranger" ><u><strong> &gt; VEZI OFERTA SPECIALA</strong></u></a></p> <div></div>
                         </p>
                     </div>
                 </article>
             </div>
-        </section>
+
         <script type='text/javascript'>var OM = OM || {};
             //ONCLICK 1205060261500om_he_pv_tc
             OM.om_he_pv_tc = { "tag": "pv nav true choice link", "clickType": "o"};</script>
