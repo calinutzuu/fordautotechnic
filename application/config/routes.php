@@ -248,13 +248,13 @@ $route['Promotii/Autoturisme/BlackFriday'] = 'promotii/autoturisme/black_friday'
 $route['Promotii/Autoturisme/NoulKUGA'] = 'promotii/autoturisme/noul_kuga_o';
 
 
-$route['Promotii/Autoturisme/Ecobonus/OfertaFiesta'] = 'promotii/autoturisme/oferta_fiesta_e';
-$route['Promotii/Autoturisme/Ecobonus/OfertaBMAX'] = 'promotii/autoturisme/oferta_bmax_e';
-$route['Promotii/Autoturisme/Ecobonus/OfertaFocus'] = 'promotii/autoturisme/oferta_focus_e';
-$route['Promotii/Autoturisme/Ecobonus/OfertaMondeo'] = 'promotii/autoturisme/oferta_mondeo_e';
-$route['Promotii/Autoturisme/Ecobonus/OfertaEcoSport'] = 'promotii/autoturisme/oferta_ecosport_e';
-$route['Promotii/Autoturisme/Ecobonus/Procedura'] = 'promotii/autoturisme/procedura';
-$route['Promotii/Autoturisme/Ecobonus/WeekendulInovatiei'] = 'promotii/autoturisme/weekendul_inovatiei';
+$route['Promotii/Autoturisme/EcoBonus/OfertaFiesta'] = 'promotii/autoturisme/oferta_fiesta_e';
+$route['Promotii/Autoturisme/EcoBonus/OfertaBMAX'] = 'promotii/autoturisme/oferta_bmax_e';
+$route['Promotii/Autoturisme/EcoBonus/OfertaFocus'] = 'promotii/autoturisme/oferta_focus_e';
+$route['Promotii/Autoturisme/EcoBonus/OfertaMondeo'] = 'promotii/autoturisme/oferta_mondeo_e';
+$route['Promotii/Autoturisme/EcoBonus/OfertaEcoSport'] = 'promotii/autoturisme/oferta_ecosport_e';
+$route['Promotii/Autoturisme/EcoBonus/Procedura'] = 'promotii/autoturisme/procedura';
+$route['Promotii/Autoturisme/EcoBonus/WeekendulInovatiei'] = 'promotii/autoturisme/weekendul_inovatiei';
 
 $route['Promotii/Autoturisme/Rabla'] = 'promotii/autoturisme/rabla_p';
 $route['Promotii/Autoturisme/Rabla/OfertaFiesta'] = 'promotii/autoturisme/oferta_fiesta';

@@ -13,7 +13,7 @@
                         </p>
                         <div class="btnwrapper">
                             <div class="btnLink light">
-                                <a role="button" class="om_ca_in" href="/Promotii/Autoturisme/EcoBonus" >VEZI OFERTELE</a>
+                                <a role="button" class="om_ca_in" href="/Promotii/Autoturisme/Ecobonus" >VEZI OFERTELE</a>
                             </div>
                         </div>
                     </div>
