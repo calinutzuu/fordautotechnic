@@ -33,7 +33,7 @@
                             Mergi mai departe cu Ford Ecobonus!
                         </h3>
                         <p>
-                        <p>Vrei sa schimbi masina veche? Nu mai e nevoie sa astepti programul rabla. Ford a reluat campania Ford Ecobonus si iti oferta un bonus garantat de 1.500 &euro;, la casarea masinii vechi.  <br> <br> Concret, asta inseamna:<br> -	<strong>Rata lunara de la 500 lei</strong>, prin creditul auto in lei;<br> -	<strong>Garantie extinsa</strong> 2+3 ani / 100.000 km;<br> -	Dotari suplimentare prin <strong>pachetele optionale incluse in pret</strong>. <br> <br> Oferta se cumuleaza cu celelalte promotii si oferte aflate in derulare. <br> <br> <a HREF="/Promotii/Autoturisme/EcoBonus" > Click aici pentru mai multe detalii</a></p>
+                        <p>Vrei sa schimbi masina veche? Nu mai e nevoie sa astepti programul rabla. Ford a reluat campania Ford Ecobonus si iti oferta un bonus garantat de 1.500 &euro;, la casarea masinii vechi.  <br> <br> Concret, asta inseamna:<br> -	<strong>Rata lunara de la 500 lei</strong>, prin creditul auto in lei;<br> -	<strong>Garantie extinsa</strong> 2+3 ani / 100.000 km;<br> -	Dotari suplimentare prin <strong>pachetele optionale incluse in pret</strong>. <br> <br> Oferta se cumuleaza cu celelalte promotii si oferte aflate in derulare. <br> <br> <a HREF="/Promotii/Autoturisme/Ecobonus" > Click aici pentru mai multe detalii</a></p>
                         </p>
                     </div>
                 </article>
