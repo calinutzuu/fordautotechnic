@@ -3,7 +3,54 @@
     <section class="grid_3 carousel">
         <div id="hpCarousel" role="listbox">
             <!--Rendering the Image Panel-->
-
+            <article role="option">
+                <a class="carImg" href="#img1"><img src="/assets/img/1214607506638.jpg" alt="" role="presentation"></a>
+                <div class="innerBox posBottomRight WhiteText">
+                    <div class="">
+                        <h2 class="bigHeading02">
+                        </h2>
+                        <p class="captionTxt">
+                        </p>
+                        <div class="btnwrapper">
+                            <div class="btnLink light">
+                                <a role="button" class="om_ca_in" href="/Promotii/Autoturisme/EcoBonus" >VEZI OFERTELE</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </article>
+            <article role="option">
+                <a class="carImg" href="#img1"><img src="/assets/img/1214607506650.jpg" alt="" role="presentation"></a>
+                <div class="innerBox posBottomRight WhiteText">
+                    <div class="">
+                        <h2 class="bigHeading02">
+                        </h2>
+                        <p class="captionTxt">
+                        </p>
+                        <div class="btnwrapper">
+                            <div class="btnLink light">
+                                <a role="button" class="om_ca_in" href="http://www.ford.ro/Promotii/Autoturisme/programulrabla" >INSCRIE-TE AICI</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </article>
+            <article role="option">
+                <a class="carImg" href="#img1"><img src="/assets/img/1214608948018.jpg" alt="" role="presentation"></a>
+                <div class="innerBox posBottomLeft WhiteText">
+                    <div class="">
+                        <h2 class="bigHeading02">
+                        </h2>
+                        <p class="captionTxt">
+                        </p>
+                        <div class="btnwrapper">
+                            <div class="btnLink light">
+                                <a role="button" class="om_ca_in" href="/Promotii/comerciale/Transit" >PROFITA ACUM DE OFERTA</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </article>
             <article role="option">
                 <a class="carImg" href="#img1"><img src="/assets/img/1214602147441.jpg" alt="" role="presentation"></a>
                 <div class="innerBox posBottomRight WhiteText">

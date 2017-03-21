@@ -2,8 +2,8 @@
 
 <div class="mainContent">
     <img
-        src="/assets/img/1214599284994.jpg"
-        alt="Ford Ranger"/>
+        src="/assets/img/1214608948018.jpg"
+        alt="Ford Transit"/>
 
     <section id="fv-wrapper">
         <section id="carouselize" class="carousel-container carousel"></section>
@@ -11,52 +11,12 @@
             <div class="tab-content">
                 <header class="intro-header">
                     <h1 class="bigHeading">
-                        NOUL FORD <b>RANGER</b> CU DOAR 288 €* / LUNA, </br></br>CU PACHETUL OFF-ROAD
+                        FORD TRANSIT: PROIECTAT PENTRU EFICIENTA.
                     </h1>
+                    <br><br>
                     <span class="highlighter"></span>
-
                     <p class="intro-text">
-                        </br>
-                    <p style="text-align: left;">Stilat, dar solid. Indraznet, dar sofisticat. Utilitar, dar
-                        remarcabil.<br>
-                        &nbsp;</p>
-
-                    <p style="text-align: justify;">Cu o reputatie solida ca pick-up-ul pentru orice destinatie si
-                        incarcatura, Ford Ranger duce, prin noua generatie, si mai departe traditia off-road, adaugand
-                        un nou nivel de comfort si functionalitate. Cu un design mai atragator, tehnologii avansate si
-                        toate caracteristicile de eficienta si utilitate care l-au consacrat, noul Ranger este pregatit
-                        sa transforme atat aventurile off-road cat si experientele urbane. <br>
-                        <br>
-                        Avand capacitatea sa transporte 1.403 kg si sa treaca prin apa adanca de pana la 800 mm, noul
-                        Ranger nu se limiteaza doar la aceste aspecte de utilitate si durabilitate. Seria de tehnologii
-                        inteligente precum Ford SYNC3, tempomatul adaptiv cu avertizare frontala sau sistemul de
-                        mentinere al benzii imbogatesc experienta si placerea condusului, pentru orice sofer. <br>
-                        <br>
-                        <br>
-                        Noul Ford Ranger este disponibil, acum, in cadrul unei oferte speciale:
-                    <nobr><strong>doar 288 &euro;*/luna</strong>;</nobr>
-                    oferta include <strong>garantia extinsa</strong> (2+2 ani sau 150.000 km) si <strong>pachetul
-                        Off-road</strong> &ndash; adica diferential spate blocabil si protectie metalica pentru motor,
-                    cutie de transfer si rezervor &ndash; la care se adauga vopseaua metalizata si carligul de
-                    remorcare.</p>
-                    <p style="text-align: left">In plus, beneficiezi de numeroase dotari de confort, cum ar fi:</p>
-
-                    <p style="text-align: left; margin-left: 150px;">&bull; Aer conditionat manual;<br>
-                        &bull; Oglinzi exterioare electrice si incalzite, rabatabile, in carcasa cromata;<br>
-                        &bull; Faruri automate;<br>
-                        &bull; Stergatoare parbriz automate cu senzor de ploaie;<br>
-                        &bull; Parbriz incalzit si duze spalare parbriz incalzite;<br>
-                        &bull; Volan imbracat in piele cu comenzi audio si pilot automat;</p>
-
-                    <p style="text-align: justify;">Vino sa descoperi noul Ford Ranger la noi in showroom si profita de
-                        oferta speciala! <br>
-<span style="font-size: x-small;"><br>
-* Pentru un Ford Ranger D-CAB XLT 2.2 160 CP cu pachet Off-road, carlig de remorcare si vopsea metalizata in valoare de 23.125 EUR + TVA ( 27.518 EUR TVA inclus), avans 6.937,5 EUR+ TVA ( 8.255,63 EUR TVA inclus), pe 60 luni: rata anuala a dobanzii (variabila) 1,99%, comision de analiza dosar 2,5% din prețul mașinii (578,13 EUR+ TVA / 687,97 EUR TVA inclus), comision lunar de administrare 0,05% (8,09 EUR + TVA ), valoarea ratei lunare 287,62 EUR + TVA ( 342,27 EUR TVA inclus) , valoarea totala platibila 25.136,08 EUR + TVA ( 29.912,07 EUR TVA inclus), DAE 4,76%. In calculul ratei lunare nu s-a inclus asigurarea CASCO. <br>
-<br>
-Aceasta oferta este supusa unor termene si conditii; se adreseaza persoanelor juridice; este realizata exclusiv prin UniCredit Leasing Corporation IFN SA. Oferta este valabila pana la data de 31.03.2017. Imaginea este cu titlu de prezentare. </span>
-                    </p>
-
-                    <div></div>
+                    <p style="text-align: left;"><strong><span style="font-size: larger;">Garantie extinsa 2+2 ani fara limita de km si dobanda 0% prin Ford Leasing</span></strong><br> &nbsp;</p> <p style="text-align: justify;">Fiabil, puternic, sigur, rezistent &ndash; Ford Transit este utilitara care iti va ajuta afacerea sa mearga inainte, indiferent de domeniul tau de activitate.<br> <br> Iar acum iti oferim un argument suplimentar pentru achizitie: o oferta speciala de nerefuzat:<br> <br> <strong> Mai exact, punem alaturi <u>dobanda de 0%</u>, fara costuri ascunse si cheltuieli suplimentare, cu <u>garantia extinsa de 2+2 ani, fara limita de kilometri</u>.<br> <br> </strong>Totul se traduce in beneficii pentru afacerea ta, pentru ca Ford Transit iti aduce numeroase tehnologii avansate:</p> <p style="text-align: left; margin-left: 150px;">&bull; Motoarele avansate Ford EcoBlue TDCi combina niveluri remarcabile de performanta si putere cu un consum redus de combustibil si emisii scazute, respectand, desigur, standardele Euro 6;<br> &bull; Sistemul SYNC2 iti ofera nu doar conectivitate pentru dispozitivele mobile si functia de comanda vocala, ci si Asistenta pentru situatii de urgenta, cand poate apela automat 112 in cazul in care soferul sau pasagerii sunt in pericol;<br> &bull; Sistemele de stabilitate, de control al cuplului motor, de control al tractiunii si de asistenta la franare iti ofera confortul de a sti ca marfa pe care o&nbsp;transporti, impreuna cu angajatii tai, vor ajunge la destinatie in siguranta;<br> &bull; Dotarile de confort, de la scaunele reproiectate si parbrizul incalzit pana la tempomatul adaptive si sistemul de iluminara in virtaje, ofera o experienta de lucru placuta si stimuleaza productivitatea.</p> <p style="text-align: justify;">Ia acum legatura cu cel mai apropiat <a HREF="/SBE/dealeri-ford" ><span style="color: rgb(0, 0, 255);"><u><strong>dealer Ford</strong></u></span></a>, pentru detalii despre oferta speciala si despre toate avantajele pe care ti le ofera Ford Transit. <br> <br> Pentru mai multe informatii despre model, apasa <a HREF="/VehiculeComerciale/Transit" ><span style="color: rgb(0, 0, 255);"><u><strong>aici</strong></u></span></a>.<br> <br> <span style="font-size: smaller;"><em>*Pentru un autoturism Ford TRANSIT VAN 350L BASE 2.0TD105 T5 M6 FWD LWB in valoare de 18.717 Euro + TVA (22.273,23 Euro, TVA inclus), avans 30% in valoare de 5.615,10 Euro + TVA (6.681,97 Euro TVA inclus), pe 60 luni: rata anuala a dobanzii (variabila in functie de Euribor 3 Luni) 0%, comision de analiza dosar 2,5% din pretul masinii (467,93 Euro+TVA), comision lunar de administrare 0,05% (6,55 Euro+TVA ), valoarea ratei lunare <nobr>221,79 Euro</nobr>+TVA (263,93 Euro TVA inclus) valoarea totala platibila 19.709,60 Euro+TVA <nobr>(23.454,42 Euro</nobr> TVA inclus). DAE: 3,39%. In calculul ratei lunare nu s-a inclus asigurarea CASCO. Oferta in limita stocului disponibil, valabila pana la 30 Iunie 2017.</em></span><br> &nbsp;<span style="font-size: smaller;"><br> <em>Aceasta oferta este supusa unor termene si conditii; se adreseaza persoanelor juridice; este realizata exclusiv prin UniCredit Leasing Corporation IFN SA. Oferta este valabila pana la data de 30&nbsp;Iunie 2017; Imaginea este cu titlu de prezentare.</em></span></p>
                     </p>
                 </header>
             </div>

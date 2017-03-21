@@ -130,14 +130,6 @@ class Autoturisme extends CI_Controller
             ->build('promotii/autoturisme/ecobonus/oferta_focus_e');
     }
 
-    public function oferta_bmax_e()
-    {
-        $this->template
-            ->set_layout('promotii')
-            ->title('Ecobonus - Focus', 'Ford AutoTechnic')
-            ->build('promotii/autoturisme/ecobonus/oferta_bmax_e');
-    }
-
     public function oferta_mondeo_e()
     {
         $this->template
@@ -161,6 +153,7 @@ class Autoturisme extends CI_Controller
             ->title('Ecobonus - Procedura', 'Ford AutoTechnic')
             ->build('promotii/autoturisme/ecobonus/procedura');
     }
+
     public function weekendul_inovatiei()
     {
         $this->template
@@ -170,17 +163,26 @@ class Autoturisme extends CI_Controller
     }
 
     public function noul_kuga_o()
-{
-    $this->template
-        ->set_layout('promotii')
-        ->title('NoulKUGA', 'Ford AutoTechnic')
-        ->build('promotii/autoturisme/noul_kuga_o');
-}
+    {
+        $this->template
+            ->set_layout('promotii')
+            ->title('NoulKUGA', 'Ford AutoTechnic')
+            ->build('promotii/autoturisme/noul_kuga_o');
+    }
+
     public function noul_ranger()
     {
         $this->template
             ->set_layout('promotii')
             ->title('Ranger', 'Ford AutoTechnic')
             ->build('promotii/comerciale/noul_ranger');
+    }
+
+    public function transit_ok()
+    {
+        $this->template
+            ->set_layout('promotii')
+            ->title('Transit Promotii', 'Ford AutoTechnic')
+            ->build('promotii/comerciale/transit_ok');
     }
 }

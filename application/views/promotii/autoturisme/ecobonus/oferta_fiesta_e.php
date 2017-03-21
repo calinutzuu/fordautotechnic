@@ -1,273 +1,340 @@
+<div class="mainContent">
+    <img
+        src="/assets/img/1214607506684_1.jpg"
+        alt="Ecobonus Fiesta"/>
+    <section id="fv-wrapper">
+        <section id="carouselize" class="carousel-container carousel"></section>
+        <section class="center_item_Layout2">
+            <div class="tab-content">
+                <header class="intro-header">
+                    <h1 class="bigHeading">
+                        <b>Ford Ecobonus – Doar 500 lei / luna* pentru Ford Fiesta!</b>
+                    </h1>
+                    <br><br>
+                    <span class="hmc-highlight"></span>
 
-<div id="top_anchor"><a name="top"></a></div>
-<!--<START_MHB001 >-->
-<div id="masthead">
-    <div style="height: 115px">&nbsp;</div>
-</div>
-<!--<END_MHB001 >-->
-<!-- <End> -->
-<!-- Navigation -->
-<!-- <Start> -->
-<div id="container_navi">
-    <div class="left_item">
-        <style type="text/css">
-            #wrapper > div, #wrapper .mainContent {
-                margin-top: 0px
-            }
+                    <p class="intro-text">
 
-            #container_navi {
-                padding-top: 9px
-            }
-
-            #wrapper #frame {
-                top: -3 px\9
-            }
-        </style>
-        <div class="navmenu">
-            <div class="navtop"></div>
-            <div id="navAnchor"></div>
-            <ul id="currentContext" class="currentContext">
-                <li id='menu1204977637197' class=''>
-                    <a href='/Promotii'/>Promo&#355;ii</a>
-                    <div id="navsubmenu" class="navsubmenu">
-                        <div class="navsubmenutop">
-                        </div>
-                        <ul class="navsubmenu">
-                            <li class=''>
-                                <a href='/Promotii/comerciale'>Promo&#539;ii vehicule comerciale</a>
-                            </li>
-                            <li class=''>
-                                <a href='/Promotii/PromotiiService'>Promo&#355;ii service</a></li>
-                            <li class=''>
-                                <a href='/Promotii/promotii-accesorii'>Promo&#355;ii accesorii</a>
-                            </li>
-                        </ul>
-                        <div class="navsubmenubottom">
-                        </div>
-                    </div>
-                </li>
-                <li id='menu1205073068739' class=''>
-                    <a href='Promotii/Autoturisme'/>Promo&#355;ii autoturisme</a>
-                    <div id="navsubmenu" class="navsubmenu">
-                        <div class="navsubmenutop">
-                        </div>
-                        <ul class="navsubmenu">
-                            <li class=''>
-                                <a href='../Ecobonus'>Ecobonus</a></li>
-                            <li class=''>
-                                <a href='../NoulKAPlus'>Noul KA Plus</a></li>
-                            <li class=''>
-                                <a href='../NoulFordEdge'>Noul Ford Edge</a></li>
-                            <li class=''>
-                                <a href='../KugaSummerEdition'>Kuga Summer Edition</a></li>
-                            <li class=''>
-                                <a href='../BusinessWeeks'>BusinessWeeks</a></li>
-                            <li class=''>
-                                <a href='../PromotieFlote'>Promotie Flote</a></li>
-                        </ul>
-                        <div class="navsubmenubottom">
-                        </div>
-                    </div>
-                </li>
-                <li><p>Ecobonus</p></li>
-            </ul>
-            <div class="navdivider"></div>
-            <ul id="nextSteps" class="nextSteps">
-                <li class="selected"><p>Oferta Fiesta</p></li>
-                <li id='menu1205110704441' class=''>
-                    <a href='OfertaFocus'/>Oferta Focus</a>
-                    <script type="text/javascript">
-                        document.id('menu1205110704441').addClass("navnextSteps");
-                    </script>
-                </li>
-                <li id='menu1205111254306' class=''>
-                    <a href='OfertaBMAX'/>Oferta B-MAX</a>
-                    <script type="text/javascript">
-                        document.id('menu1205111254306').addClass("navnextSteps");
-                    </script>
-                </li>
-                <li id='menu1205111255593' class=''>
-                    <a href='OfertaMondeo'/>Oferta Mondeo</a>
-                    <script type="text/javascript">
-                        document.id('menu1205111255593').addClass("navnextSteps");
-                    </script>
-                </li>
-                <li id='menu1205111254474' class=''>
-                    <a href='OfertaEcoSport'/>Oferta EcoSport</a>
-                    <script type="text/javascript">
-                        document.id('menu1205111254474').addClass("navnextSteps");
-                    </script>
-                </li>
-
-                <li id='menu1205123140431' class=''>
-                    <a href='Procedura'/>Procedura</a>
-                    <script type="text/javascript">
-                        document.id('menu1205123140431').addClass("navnextSteps");
-                    </script>
-                </li>
-
-            </ul>
-            <div class="navbottom"></div>
-        </div>
-    </div>
-    <div class="left_item">
-    </div>
-</div>
-<!-- <End> -->
-<div id="container_main">
-    <div id="mediaplayer1">
-        <!--<START_MDP001>-->
-        <script type="text/javascript">
-            engine.media.mdp.labelClose = 'Închide';
-        </script>
-        <div class="mdp2Box">
-            <script type="text/javascript">
-                detectBW = false;
-                window.addEvent('domready', function () {
-                    fd.doDetection();
-                });
-            </script>
-            <div id="mdp">
-                <img
-                    src='/assets/img/promotii/1214568453110.jpg'
-                    alt='FordFleet' onclick="omnitureViewPhoto()">
-            </div>
-            <div class="mdp2" id="mdpImageControl">
-                <table>
-                    <tr>
-                        <td id="mdp2Fullscreen">
-                            <a href="/assets/img/promotii/1214568453110.jpg"
-                               onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214567355753&amp;blobkey=id', 'FordFleet');
-if(typeof(sford)=='object') omnitureMDPFullScreen('1205111247816'); return false;">
-                                Fullscreen
-                            </a>
-                        </td>
-                        <td id="mdp2Description" style="width:50%">
-                            <a id="mdpCaption">
-                                FordFleet
-                            </a>
-                        </td>
-                        <td id="mdp2Right">
-                        </td>
-                    </tr>
-                </table>
-            </div>
-        </div>
-        <script type="text/javascript">
-            //ENG-8108	changed the parameter of doshow function
-            // msukhia1: wrong way, right way would be to publish an event
-            // but it would reload initial flash;
-            function mdpOnLoad() {
-                engine.media.lockup.doshow('');
-            }
-            if (window.addEventListener) {
-                window.addEventListener("load", mdpOnLoad, false);
-            } else if (window.attachEvent) {
-                window.attachEvent('onload', mdpOnLoad);
-            }
-            if (document.id('mdp') != null && typeof document.id('mdp') != 'undefined') {
-                document.id('mdp').addEvent("contextmenu", function (event) {
-                    event.preventDefault();
-                });
-            }
-        </script>
-        <!--<END_MDP001>-->
-    </div>
-    <div id="container_center">
-        <div class="center_item">
-            <div class="btoArticleTitle">Ford Ecobonus - Avantaj total client 3.750 € pentru Ford Fiesta!</div>
-            <div class="btoArticleText">
-                <div class="btoArticleAbstract">
-                    <div>Daca iti doresti un autoturism cu stil contemporan, dinamic, modern, dotat cu tehnologii
+                    <p style="text-align: justify;"><strong><span style="font-size: larger;">Prin programul Ford Ecobonus beneficiezi de un bonus de 1.500 &euro;, la casarea masinii vechi, adica de un pret special de numai 9.700 &euro;. Iar multumita conditiilor speciale de finantare, poti alege o rata lunara de la 500 de lei pentru Ford Fiesta &ndash;
+                                fara comision de administrare sau rate reziduale.</span></strong><br> <br> Pentru ca
+                        daca iti doresti un autoturism cu stil contemporan, dinamic, modern, dotat cu tehnologii
                         inteligente menite sa te faca sa te bucuri de timpul petrecut la volan, atunci Ford Fiesta este
-                        modelul perfect pentru tine. <br> <strong><br> Prin programul Ecobonus beneficiezi de un bonus
-                            de 1.500 &euro;, la casarea masinii vechi, iar promotiile si beneficiile suplimentare
-                            insumeaza un avantaj total client de 3.750 &euro;. </strong><br> <br> Promotia include si un
-                        pret special pentru dotarile din pachetul Trend. Astfel, poti beneficia de un avantaj total
-                        client de 3.750 &euro;, pentru Ford Fiesta 5 usi, cu motor 1.0l 80CP cutie manuala 5 trepte, cu
-                        dotari standard printre care se numara:
-                    </div>
-                    <ul style="list-style-type: disc;">
-                        <li>Airbag-uri frontale, laterale, cortina si pentru genunchi, sofer si pasager;</li>
-                        <li>Sisteme inteligente de siguranta si stabilitate &ndash; ESP (Program Electronic de
-                            Stabilitate), HLA (Asistenta la Pornirea in Rampa), ABS (Sistem Anti-Blocare la Franare),
-                            EBD (Distributie Electronica a Fortei de Franare), EBA (Asistenta la Franarea de Urgenta);
-                        </li>
-                        <li>Sistem Ford MyKey;</li>
-                        <li>Incarcare regenerativa a bateriei;</li>
-                        <li>Oglinzi exterioare electrice si incalzite;</li>
-                        <li>Volan si schimbator de viteze imbracat in piele;</li>
-                        <li>Sistem avansat de monitorizare a presiunii in pneuri.</li>
-                    </ul>
-                    <div>Iar pachetul Trend iti aduce, optional, urmatoarele dotari:</div>
-                    <ul style="list-style-type: disc;">
-                        <li>aer conditionat manual;</li>
-                        <li>radio CD cu MP3, display monocrom 3.5&rdquo;, 6 difuzoare, USB, comenzi audio pe volan;</li>
-                        <li>Bluetooth&reg; Voice Control (limba engleza);</li>
-                        <li>SYNC cu Applink si sistem de asistenta in caz de urgenta (112);</li>
-                        <li>faruri de ceata;</li>
-                        <li>covorase velur fata/ spate.</li>
-                    </ul>
-                    <div><strong>Rezerva acum oferta speciala pentru Ford Fiesta &ndash; click <a href="Rezervare">aici</a>!
-                            <br> <br> Pentru detalii despre procedura de casare si cum poti beneficia de Ecobonus, click
-                            <a href="Procedura">aici</a>. <br> <br> Ai nevoie de mai multe informatii? Toate
-                            detaliile despre Ford Fiesta si oferta speciala iti stau la dispozitie in cel mai apropiat
-                            <a href="/SBE/dealeri-ford">showroom Ford</a>! </strong><br> <em><br> *
-                            Oferta este supusa unor termeni si conditii, este adresata exclusiv persoanelor fizice si
-                            este valabila in limita stocului disponibil la dealerii participanti la program. Oferta
-                            prezentata include TVA si este obtinuta dupa includerea cumulativa a: 1. contravalorii
-                            suportului acordat de Ford Romania prin programul Ford ECOBONUS, 2. contributiei dealerilor
-                            participanti la acest program. Oferta nu include echipamente, accesorii sau dotari
-                            optionale, cu exceptia Pachetului Trend aferent fiecarui model.<br> Consumul mixt masurat in
-                            conformitate cu dispozitiile legale in vigoare (e.g Directiva Europeana nr. 715/2007) pentru
-                            Fiesta Trend 5usi, 1.0 80CP, M5: 4.6 l/100 km, emisii CO<sub>2</sub> (g/km):105, valoare
-                            masurata in conformitate cu dispozitiile legale in vigoare. </em></div>
-                </div>
-            </div>
-        </div>
-        <div class="center_item">
-        </div>
-        <div class="center_item">
-        </div>
-        <div class="center_item">
-        </div>
-        <div class="center_item">
-        </div>
-        <div id="center_btt">
-        </div>
-        <!-- TD 8042 - AddThis Social Book Marking tool display Starts-->
-        <!-- TD 8042 - AddThis Ends-->
-        <!-- AddThis Replacement Starts-->
-        <!-- AddThis Replacement Ends-->
-    </div>
-    <div id="container_right">
-        <div class="right_item">
-            <!--<START_MDC001 >-->
-            <div class="mdc001Container" id="dummyDiv">
-                <p class="mdc001Header" id="mdcHeader"></p>
+                        modelul perfect pentru tine. <br> <br> Modelul Ford Fiesta in 5 usi dispune de dotari standard
+                        printre care se numara: <br> <br> &bull; Airbag-uri frontale, laterale, cortina si pentru
+                        genunchi, sofer si pasager;<br> &bull; Sisteme inteligente de siguranta si stabilitate &ndash;
+                        ESP (Program Electronic de Stabilitate), HLA (Asistenta la Pornirea in Rampa), ABS (Sistem
+                        Anti-Blocare la Franare), EBD (Distributie Electronica a Fortei de Franare), EBA (Asistenta la
+                        Franarea de Urgenta);<br> &bull; Sistem Ford MyKey;<br> &bull; Incarcare regenerativa a
+                        bateriei;<br> &bull; Oglinzi exterioare electrice si incalzite;<br> &bull; Volan si schimbator
+                        de viteze imbracat in piele;<br> &bull; Sistem avansat de monitorizare a presiunii in
+                        pneuri.<br> <br> Pachetul Trend, inclus in pret, iti aduce si mai multe dotari importante:<br>
+                        <br> &bull; Aer conditionat manual;<br> &bull; Radio CD cu MP3, display monocrom 3.5&rdquo;, 6
+                        difuzoare, USB, comenzi audio pe volan;<br> &bull; Bluetooth<sup>&reg;</sup> Voice Control
+                        (limba engleza);<br> &bull; SYNC cu sistem de asistenta in caz de urgenta (112);<br> &bull;
+                        Faruri de ceata;<br> &bull; Covorase velur fata/ spate.<br> <br> In plus, beneficiezi fara
+                        niciun cost suplimentar de <strong>garantia extinsa:</strong> 2+3 ani sau 100.000 km.<br> <br>
+                        <br> <strong>Rezerva acum oferta speciala pentru Ford Fiesta &ndash; click <a
+                                HREF="/Promotii/Autoturisme/EcoBonus/Rezervare"><u>aici</u></a>! <br> <br> Vrei totusi
+                            sa astepti inceputul programului rabla? Inscrie-te <a
+                                HREF="/Promotii/Autoturisme/programulrabla"><u>aici</u></a> si fii primul care afla
+                            lansarea programului!<br> <br> Pentru detalii despre procedura de casare si cum poti
+                            beneficia de Ford Ecobonus, click <a
+                                HREF="/Promotii/Autoturisme/EcoBonus/Procedura"><u>aici</u></a>.<br> <br> Ai nevoie de
+                            mai multe informatii? Toate detaliile despre Ford Fiesta si oferta speciala iti stau la
+                            dispozitie in cel mai apropiat <u><a HREF="/SBE/dealeri-ford">showroom Ford</a></u>!
+                        </strong></p><br>
 
-                <div class="mdc001" id="mdc1416477130979">
-                    <div class="mdc001Gradient">
-                        <div class="mdc001GradientContainer"></div>
-                    </div>
-                </div>
+                    <div></div>
+                    <div></div>
+                    <div><font onmouseout="this.style.color='#000000'" color="#000000">
+                            <div><strong> <font onmouseout="this.style.color='#000000'"
+                                                color="#000000"> </font></strong></div>
+                            <div></div>
+                            <div><span style="font-size: medium;"><span color="#005f97"> <div style="text-align: left;"
+                                                                                              id="replie2"><font
+                                                onmouseout="this.style.color='#000000'" color="#000000"><span
+                                                    onclick="document.getElementById('deplie2').style.display = 'block'; document.getElementById('replie2').style.display = 'none';"><a><span
+                                                            style="font-size: medium;"><font
+                                                                onmouseover="this.style.color='#fa5514'"
+                                                                onmouseout="this.style.color='#0d4bb3'" color="#0d4bb3"><u>Termeni
+                                                                    si conditii </u></font></span></a></span></font>
+                                        </div> <div style="display: none; text-align: left;" id="deplie2"><span
+                                                onclick="document.getElementById('replie2').style.display = 'block'; document.getElementById('deplie2').style.display = 'none';"><font
+                                                    onmouseout="this.style.color='#0d4bb3'" color="#0d4bb3"><u>Termeni
+                                                        si conditii</u></font> <font
+                                                    onmouseout="this.style.color='#000000'" color="#000000"><br> <br>
+                                                </font> <div style="text-align: left;"><font
+                                                        onmouseout="this.style.color='#000000'"
+                                                        color="#000000"><span><em> * Pentru un autovehicul FIESTA Trend
+                                                                5usi 1.2 82 CP , in valoare de 9.700 Euro (pret lei
+                                                                43.650 lei la un curs cu titlu de exemplu de [4,5] RON/1
+                                                                EUR )TVA inclus, avans 16.900 lei (38,7 %), valoarea
+                                                                totala a creditului Prima Masina Ford va fi de 26.750
+                                                                lei pe 60 luni: rata anuala a dobanzii 4,57% (ROBOR la 3
+                                                                luni + marja 3,75%), comision de analiza dosar 0 lei,
+                                                                comision lunar de administrare credit 0 lei, valoarea
+                                                                ratei lunare 500 lei, valoarea totala platibila
+                                                                29.973,08 lei, DAE 4,67 %. In calculul ratei lunare nu
+                                                                s-a inclus asigurarea optionala de viata si asigurarea
+                                                                CASCO.<br> <br> Oferta este supusa unor termeni si
+                                                                conditii, este adresata exclusiv persoanelor fizice si
+                                                                este valabila in limita stocului disponibil la dealerii
+                                                                participanti la program pana la data de 31.03.2017.
+                                                                Oferta prezentata include TVA si este obtinuta dupa
+                                                                includerea cumulativa a: 1. contravalorii suportului
+                                                                flat acordat de Ford Romania, 2. contributiei dealerilor
+                                                                participanti la acest program, 3. contravaloarea
+                                                                garantiei extinse 5 ani (2+3 ani) sau 100.000 km. Oferta
+                                                                nu include echipamente, accesorii sau dotari optionale.
+                                                                Consumul mixt si emisiile de co<sub>2</sub>, masurate in
+                                                                conformitate cu dispozitiile legale in vigoare (e.g
+                                                                Directiva Europeana nr. 715/2007): pentru modelul Fiesta
+                                                                Trend 5 usi 1.2 82CP M5: consum 5,2 l/100 km; emisii
+                                                                co<sub>2</sub>: 122 g/km. Imaginile sunt cu titlu de
+                                                                prezentare. Aceasta oferta include garantia complexa
+                                                                (2+3 ani de garantie conventionala) in limita a 100.000
+                                                                km sau 5 ani (incluzand perioada de 2 ani de garantie
+                                                                legala) in functie de care dintre cele doua elemente
+                                                                (kilometraj sau timp) expira primul. Pentru detalii si
+                                                                specificitati aferente garantiei complexe va rugam sa
+                                                                consultati detalii si explicatii suplimentare despre
+                                                                campanie - la dealerii autorizati Ford participanti la
+                                                                campanie. Campanie realizata exclusiv prin UniCredit
+                                                                Consumer Financing. </em><br> <br> </span></font></div> </span>
+                                        </div> </span></span></div>
+                            <p><span style="font-size: x-small;"><font onmouseout="this.style.color='#000000'"
+                                                                       color="#000000"> <strong><br>
+                                        </strong></font></span></p></font></div>
+                    <div><font onmouseout="this.style.color='#000000'" color="#000000"> </font></div>
+                    </p>
+                </header>
             </div>
-            <script>
-                var theDiv = document.getElementById("mdpImageControl");
-                if (theDiv.style.display == "none") {
-                    dummyDiv.style.display = "none";
-                } else {
-                    dummyDiv.style.display = "block";
+        </section>
+        <script type='text/javascript'>var OM = OM || {};
+            //ONCLICK 1205060261500om_he_pv_tc
+            OM.om_he_pv_tc = { "tag": "pv nav true choice link", "clickType": "o"};</script>
+        <!-- OMNITURE ME -->
+        <script type="text/javascript"
+                src="/cs/ContentServer?cid=1204986890525&#38;pagename=ENGInE%2Ftagging%2FOmnitureScript"></script>
+        <script type="text/javascript">var sford = new Object;
+            sford.tabName = '';
+            sford.pageName = 'brand:promotions:car:results:eco incentives';
+            sford.dlwasSent = false;
+            sford.eVar11 = 'brand:promotions:car:results:eco incentives';
+            sford.hier1 = 'shopping tools:promotions:car:eco';
+            sford.tagViewPhoto = '';
+            sford.tagHighlights = '';
+            sford.tagDownload = '';
+            s.pageName = 'brand:promotions:car:results:eco incentives';
+            s.hier1 = 'shopping tools:promotions:car:eco';
+            s.channel = 'promotions';
+            s.eVar4 = 'rum';
+            s.prop4 = 'rum';
+            s.eVar11 = 'brand:promotions:car:results:eco incentives';
+            s.prop11 = 'brand:promotions:car:results:eco incentives';
+            s.eVar12 = '2013';
+            s.prop12 = '2013';
+            sford.my = '2013';
+            s.eVar14 = 'ford-ro';
+            s.prop14 = 'ford-ro';
+            s.eVar15 = 'ford-brand';
+            s.prop15 = 'ford-brand';
+            s.eVar16 = 'ford fiesta';
+            s.prop16 = 'ford fiesta';
+            sford.np = 'ford fiesta';
+            sford.vc = 'car';</script>
+        <script type="text/javascript">
+            // <![CDATA[
+            var __dOC = false;
+            if (typeof(sford) == 'object') {
+                s.pageName = s.pageName.replace(":<tab name>", "");
+                s.eVar11 = s.eVar11.replace(":<tab name>", "");
+                s.prop11 = s.eVar11;
+// searchResultPageNumber
+                if (typeof searchResultPageNumber == "string") {
+                    sford.searchPagenumber = searchResultPageNumber;
                 }
-            </script>
-            <!--<END_MDC001 >-->
-        </div>
-        <!-- Technical Highlights -->
-        <!-- <Start> -->
-        <div class="right_item">
-        </div>
-        <!-- <End> -->
-        <div class="right_item">
-        </div>
-    </div>
+            }
+            if (typeof(attachLoadEvent) == 'function') {
+                attachLoadEvent(onPageLoad);
+            } else {
+                $(document).ready(onPageLoad);
+            }
+            // ]]>
+        </script>
+    </section>
+
+    <article class="btfDisclaimer">
+        <p></p>
+    </article>
 </div>
+<script type="text/javascript">
+    String.prototype.endsWith = function (str) {
+        return (this.match(str + "$") == str)
+    }
+    function createPath() {
+        var currentURL = window.location.href;
+        if (!currentURL.indexOf("/cs/ContentServer?") > -1 && !currentURL.indexOf("/cs/Satellite?") > -1) {
+            if (currentURL.indexOf("=") > -1 && currentURL.indexOf("http://www.ford.ro/") > -1 && !currentURL.indexOf("?") > -1) {
+                currentURL = currentURL.substring(0, currentURL.indexOf("="));
+                currentURL = currentURL.substring(0, currentURL.lastIndexOf("http://www.ford.ro/"));
+            }
+            if (currentURL.indexOf("?") > -1) {
+                currentURL = currentURL.substring(0, currentURL.indexOf("?"));
+                if (currentURL.indexOf("=") > -1 && currentURL.indexOf("http://www.ford.ro/") > -1) {
+                    currentURL = currentURL.substring(0, currentURL.indexOf("="));
+                    currentURL = currentURL.substring(0, currentURL.lastIndexOf("http://www.ford.ro/"));
+                }
+            }
+        }
+//Remove all trailing / 
+        while (currentURL.endsWith("http://www.ford.ro/")) {
+            currentURL = currentURL.substring(0, currentURL.lastIndexOf("http://www.ford.ro/"));
+        }
+        return currentURL;
+    }
+    tc_page_alias = createPath();
+</script>
+<script>
+    if (typeof TagIT != 'object' || typeof TagIT.handlesSophus == 'function' && !TagIT.handlesSophus()) {
+        var sophusScript = document.createElement('script');
+        sophusScript.src = '../../cs/ENGInE/js/logging/sophus/logging.js';
+    }
+</script>
+<!-- Engine tag - loading 'Layout11::Body' -->
+<!-- Loading sitesetup -->
+<!-- 'Layout11' is calling DoubleClick from 'Body' -->
+<script>
+    if (typeof isDoubleclickTriggered == 'undefined') {
+        var isDoubleclickTriggered = 'false';
+    }
+    var eusedDevice;
+    if (typeof deviceCheck != 'undefined') {
+        if (deviceCheck == 'mobile') {
+            eusedDevice = "nwp:mobile";
+        } else {
+            eusedDevice = "nwp:desktop";
+        }
+    }
+    var pageTitle = null;
+</script>
+<script type="text/javascript">
+    function getCookie(c_name) {
+        var c_value = document.cookie;
+        var c_start = c_value.indexOf(" " + c_name + "=");
+        if (c_start == -1) {
+            c_start = c_value.indexOf(c_name + "=");
+        }
+        if (c_start == -1) {
+            c_value = null;
+        } else {
+            c_start = c_value.indexOf("=", c_start) + 1;
+            var c_end = c_value.indexOf(";", c_start);
+            if (c_end == -1) {
+                c_end = c_value.length;
+            }
+            c_value = unescape(c_value.substring(c_start, c_end));
+        }
+        return c_value;
+    }
+    function doubleclickeUsedCompare(str) {
+//alert(str);
+    }
+    ;
+    if (isDoubleclickTriggered === 'false') {
+        if (typeof TagIT != 'object' || (typeof TagIT.handlesDoubleClick == 'function' || !TagIT.handlesDoubleClick)) {
+            var isLogin = getCookie("isOwnerAuthenticated");
+            var visitorLoginState;
+            if (isLogin === 'true') {
+                visitorLoginState = 'login';
+            } else {
+                visitorLoginState = 'not login';
+            }
+            var currentURL = document.URL;
+            dataLayer = [];
+            dataLayer.push({"URL": currentURL});
+            dataLayer.push({"visitorLoginState": visitorLoginState});
+            if (navigator && navigator.userAgent) {
+                dataLayer.push({"userAgent": navigator.userAgent});
+            }
+            if (typeof siteID != 'undefined') {
+                dataLayer.push({"siteID": siteID});
+            } else {
+                dataLayer.push({"siteID": '1204961250932'});
+            }
+            countryName = "ford-" + 'ro';
+            dataLayer.push({"country": countryName});
+            if (typeof googleAdServerNameplateId != 'undefined') {
+                dataLayer.push({"nameplateID": googleAdServerNameplateId});
+            }
+            if (typeof controllerCommand != 'undefined') {
+                if (controllerCommand === "VehicleCompare") {
+                    googleAdServerNameplateName = EUSED.Tagging.getCompareList();
+                    dataLayer.push({"nameplateName": googleAdServerNameplateName});
+                } else if (controllerCommand === "VehicleShortlist") {
+                    googleAdServerNameplateName = EUSED.Tagging.getShortlistList();
+                    dataLayer.push({"nameplateName": googleAdServerNameplateName});
+                } else if (controllerCommand === "Search") {
+                    googleAdServerNameplateName = EUSED.Tagging.getSelectedVehicleList();
+                    dataLayer.push({"nameplateName": googleAdServerNameplateName});
+                }
+                else if (controllerCommand === "VehicleDetail" && typeof googleAdServerNameplateName != 'undefined') {
+                    googleAdServerNameplateName = "ford " + googleAdServerNameplateName.toLowerCase();
+                    dataLayer.push({"nameplateName": googleAdServerNameplateName});
+                }
+            }
+            var nameplateName = 'ford kuga';
+            googleAdServerNameplateName = nameplateName.toLowerCase();
+            dataLayer.push({"nameplateName": googleAdServerNameplateName});
+            if (typeof osbNameplateName != 'undefined') {
+                osbNameplateName = osbNameplateName.toLowerCase();
+                dataLayer.push({"nameplateName": osbNameplateName});
+            }
+            if (typeof bookingReferenceNumber != 'undefined') {
+                dataLayer.push({"leadID": bookingReferenceNumber});
+            }
+            dataLayer.push({"pageTitle": 'Oferta speciala de lansare pentru FORD KUGA - cel mai nou SUV Ford | Ford RO'});
+            dataLayer.push({"pageCategory": 'ford-brand'});
+            if (typeof osb_pageId != 'undefined') {
+                dataLayer.push({"pageID": osb_pageId});
+            } else {
+                if (typeof mobile_bnp_pageId != 'undefined') {
+                    dataLayer.push({"pageID": mobile_bnp_pageId});
+                } else if (typeof pageID_eused != 'undefined') {
+                    pageID_eused = "brand:used vehicles:search inventory:" + pageID_eused;
+                    dataLayer.push({"pageID": pageID_eused });
+                } else {
+                    dataLayer.push({"pageID": 'brand:promotions:car:results'});
+                }
+            }
+            dataLayer.push({"language": 'rum'});
+        }
+    }
+</script>
+<!-- Google Tag Manager -->
+<!-- if condition -->
+<noscript>
+    <iframe
+        src="http://www.googletagmanager.com/ns.html?id=GTM-WL5HW9" height="0"
+        width="0" style="display: none; visibility: hidden"></iframe>
+</noscript>
+<script type="text/javascript">
+    if (isDoubleclickTriggered === 'false') {
+        if (typeof TagIT != 'object' || typeof TagIT.handlesDoubleClick != 'function' || !TagIT.handlesDoubleClick()) {
+            (function (w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+                var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src =
+                    '../../../www.googletagmanager.com/gtm5445.html?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-WL5HW9');
+        }
+    }
+    isDoubleclickTriggered = 'true';
+</script>
+<!-- End Google Tag Manager -->
+<script>
+</script>

@@ -27,6 +27,27 @@
         <section class="mid-page-content">
             <div class="tab-content">
                 <article class="content-column left">
+                    <div class="img-column"> <img src="/assets/img/1214608948127.jpg" alt="FordFleet" /></div>
+                    <div class="content">
+                        <h3 class="bigHeading02">
+                            Mergi mai departe cu Ford Ecobonus!
+                        </h3>
+                        <p>
+                        <p>Vrei sa schimbi masina veche? Nu mai e nevoie sa astepti programul rabla. Ford a reluat campania Ford Ecobonus si iti oferta un bonus garantat de 1.500 &euro;, la casarea masinii vechi.  <br> <br> Concret, asta inseamna:<br> -	<strong>Rata lunara de la 500 lei</strong>, prin creditul auto in lei;<br> -	<strong>Garantie extinsa</strong> 2+3 ani / 100.000 km;<br> -	Dotari suplimentare prin <strong>pachetele optionale incluse in pret</strong>. <br> <br> Oferta se cumuleaza cu celelalte promotii si oferte aflate in derulare. <br> <br> <a HREF="/Promotii/Autoturisme/EcoBonus" > Click aici pentru mai multe detalii</a></p>
+                        </p>
+                    </div>
+                </article>
+                <article class="content-column right">
+                    <div class="content">
+                        <h3 class="bigHeading02">
+                        </h3>
+                        <p>
+                        <p>Te vom tine la curent cu toate noutatile legate de programul rabla si vei fi primul care afla despre lansarea oficiala si ofertele Ford!<br> <br><a HREF="/Promotii/Autoturisme/programulrabla" ><u> Inscrie-te aici</u></a></p> <div></div>
+                        </p>
+                    </div>
+                    <div class="img-column"><a href="/assets/img/1214607506561.jpg" class="js-overlay" data-media-overlay='{"mediaType":"Image", "height":439, "width":780}'> <img src="/assets/img/12146075065611.jpg" alt=" " /><span class="fv-overlay-icon"></span></a></div>
+                </article>
+                <article class="content-column left">
                     <div class="content centered">
                         <h3 class="bigHeading02">
                             CEL MAI NOU SUV FORD, CU O OFERTA SPECIALA DE LANSARE
