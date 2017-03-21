@@ -27,7 +27,7 @@
         <section class="mid-page-content">
             <div class="tab-content">
                 <article class="content-column left">
-                    <div class="img-column"> <img src="/assets/img/1214608948127.jpg" alt="FordFleet" /></div>
+                    <div class="img-column"> <img src="/assets/img/1214607506204.jpg" alt="FordFleet" /></div>
                     <div class="content">
                         <h3 class="bigHeading02">
                             Mergi mai departe cu Ford Ecobonus!
