@@ -73,13 +73,13 @@
             <div class="navdivider"></div>
             <ul id="nextSteps" class="nextSteps">
                 <li id='menu1205111254125' class=''>
-                    <a href='Ecobonus/OfertaFiesta'/>Oferta Fiesta</a>
+                    <a href='EcoBonus/OfertaFiesta'/>Oferta Fiesta</a>
                     <script type="text/javascript">
                         document.id('menu1205111254125').addClass("navnextSteps");
                     </script>
                 </li>
                 <li id='menu1205110704441' class=''>
-                    <a href='Ecobonus/OfertaFocus'/>Oferta Focus</a>
+                    <a href='EcoBonus/OfertaFocus'/>Oferta Focus</a>
                     <script type="text/javascript">
                         document.id('menu1205110704441').addClass("navnextSteps");
                     </script>
@@ -97,7 +97,7 @@
                          </script>
                      </li> -->
                 <li id='menu1205111254474' class=''>
-                    <a href='Ecobonus/OfertaEcoSport'/>Oferta EcoSport</a>
+                    <a href='EcoBonus/OfertaEcoSport'/>Oferta EcoSport</a>
                     <script type="text/javascript">
                         document.id('menu1205111254474').addClass("navnextSteps");
                     </script>
@@ -110,7 +110,7 @@
                 </li>
 
                 <li id='menu1205123140431' class=''>
-                    <a href='Ecobonus/Procedura'/>Procedura</a>
+                    <a href='EcoBonus/Procedura'/>Procedura</a>
                     <script type="text/javascript">
                         document.id('menu1205123140431').addClass("navnextSteps");
                     </script>
