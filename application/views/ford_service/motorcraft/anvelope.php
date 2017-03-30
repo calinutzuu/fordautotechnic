@@ -259,7 +259,7 @@
 <div id="top_anchor"><a name="top"></a></div>
 <!--<START_MHB001 >-->
 <div id="masthead">
-    <img src="/assets/img/service/1214556418948.jpg" border="0" alt="Fa impresie buna in vacanta"
+    <img src="/assets/img/service/1214609482525.jpg" border="0" alt="Fa impresie buna in vacanta"
          title="Fa impresie buna in vacanta" height='115' width='980'/>
 </div>
 <!--<END_MHB001 >-->

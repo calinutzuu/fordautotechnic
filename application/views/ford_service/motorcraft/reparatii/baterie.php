@@ -262,7 +262,7 @@
 <!--<START_MHB001 >-->
 <div id="masthead">
     <img
-        src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214565085190&amp;blobkey=id"
+        src="/assets/img/service/1214609482525.jpg"
         border="0" alt=" " title=" " height='115' width='980'/>
 </div>
 <!--<END_MHB001 >-->
@@ -548,12 +548,13 @@
                     </div>
                     <div class='BTIarticleBody'>
                         <div class='BTIarticleText'>
-                            <div><em>Toate preturile afisate in aceasta oferta sunt preturi recomandate, in lei, contin
-                                    TVA conform legislatiei in vigoare si includ pretul manoperei. Aceasta oferta: este
-                                    supusa unor termene si conditii; este valabila in limita stocului disponibil, poate
-                                    varia in functie de seria de sasiu si nu se aplica autovehiculelor utilitare
-                                    echipate cu jante din aliaj si/sau a celor cu roti duble spate. Campanie valabila
-                                    pana la data de 31 martie 2017. <br> </em></div>
+                            <div><em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate in lei, contin
+                                    TVA conform legislatiei in vigoare si includ pretul manoperei. Oferta nu include
+                                    componentele tehnologice. Oferta este valabila in limita stocului disponibil si nu
+                                    se aplica autovehiculelor utilitare echipate cu jante din aliaj si/sau a celor cu
+                                    roti duble spate. Aceasta oferta este supusa unor termene si conditii si poate varia
+                                    in functie de seria de sasiu. Perioada derularii acestei campanii: 8 martie 2017 -
+                                    31 septembrie 2017.</em></div>
                         </div>
                     </div>
                 </div>

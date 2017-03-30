@@ -260,7 +260,7 @@
 <div id="top_anchor"><a name="top"></a></div>
 <!--<START_MHB001 >-->
 <div id="masthead">
-    <img src="/assets/img/service/1214556418948.jpg" border="0" alt="Fa impresie buna in vacanta"
+    <img src="/assets/img/service/1214609482525.jpg" border="0" alt="Fa impresie buna in vacanta"
          title="Fa impresie buna in vacanta" height='115' width='980'/>
 </div>
 <!--<END_MHB001 >-->
@@ -437,97 +437,7 @@
                     </div>
                     <div class='BTIarticleBody'>
                         <div class='BTIarticleText'>
-                            <div><strong><span
-                                        style="font-size: medium"><br> Solutia ce permite un cost corect</span></strong><br>
-                                <ul>
-                                    <li>Ajustata la v&acirc;rsta autovehiculului tau</li>
-                                    <li>Piese remanufacturate, cu respactarea specificatiilor Ford</li>
-                                    <li>Pret fix, care include piesele si manopera</li>
-                                </ul>
-                                <div>
-                                    <style type="text/css">        .floatedTable {
-                                            float: left;
-                                        }
-
-                                        .inlineTable {
-                                            display: inline-block;
-                                        }</style>
-                                    <style type="text/css">.CusTab {
-                                            margin-top: 1em;
-                                        }
-
-                                        .CusTab td {
-                                            padding: 6px;
-                                            height: 25px;
-                                            vertical-align: middle;
-                                            border-left: white 1px solid;
-                                            border-right: white 1pt solid;
-                                            text-align: center;
-                                            color: #474847;
-                                        }
-
-                                        .CusTab-header, .CusTab-header:hover {
-                                            background-color: #455968;
-                                            color: #FFF;
-                                        }
-
-                                        .CusTab-header td {
-                                            font-weight: bold;
-                                            color: #FFF;
-                                        }
-
-                                        .CusTab-dark, .CusTab-dark-left, .CusTab-dark td, .CusTab-dark-left td {
-                                            background-color: #ececec;
-                                        }
-
-                                        .CusTab-light, .CusTab-light-left, .CusTab-light td, .CusTab-light-left td {
-                                            background-color: #FFF;
-                                        }
-
-                                        td.CusTab-dark-left, td.CusTab-light-left {
-                                            text-align: left;
-                                        }
-
-                                        td.CusTab-tick {
-                                            color: #0070c0;
-                                        }</style>
-                                    <table width="100%" cellspacing="0" cellpadding="0" border="0"
-                                           style="border-collapse: collapse" class="CusTab">
-                                        <colgroup>
-                                            <col style="width: 20%"/>
-                                            <col style="width: 16%"/>
-                                            <col style="width: 16%"/>
-                                            <col style="width: 16%"/>
-                                            <col style="width: 16%"/>
-                                            <col style="width: 16%"/>
-                                        </colgroup>
-                                        <tbody>
-                                        <tr class="CusTab-header">
-                                            <td>Reparatii</td>
-                                            <td>Fiesta, Fusion</td>
-                                            <td>Focus, C-MAX</td>
-                                            <td>Mondeo, S-MAX, Galaxy, Kuga</td>
-                                            <td>Ford Transit Connect / Ford Tourneo Conect</td>
-                                            <td>Ford Transit</td>
-                                        </tr>
-                                        <tr class="CusTab-dark">
-                                            <td class="CusTab-dark-left">&Icirc;nlocuire set ambreiaj (placă, disc, rulment)
-                                            </td>
-                                            <td><span style="font-size: large">1.330 lei<br>             </span></td>
-                                            <td><span style="font-size: large">1.490 lei<br>             </span></td>
-                                            <td><span style="font-size: large">1.630 lei<br>             </span></td>
-                                            <td><span style="font-size: large">1.930 lei<br>             </span></td>
-                                            <td><span style="font-size: large">1.580 lei<br>             </span></td>
-                                        </tr>
-                                        </tbody>
-                                    </table>
-                                    <br> <br> <em>Toate preturile afisate in aceasta oferta sunt preturi recomandate, in lei,
-                                        contin TVA conform legislatiei in vigoare si includ pretul manoperei. Aceasta oferta:
-                                        este supusa unor termene si conditii; este valabila in limita stocului disponibil, poate
-                                        varia in functie de seria de sasiu si nu se aplica autovehiculelor utilitare echipate cu
-                                        jante din aliaj si/sau a celor cu roti duble spate. Campanie valabila pana la data de 31
-                                        martie 2017. <br> </em></div>
-                            </div>
+                            <div><strong><span style="font-size: medium"><br> Solutia ce permite un cost corect</span></strong><br> <ul>     <li>Ajustata la v&acirc;rsta autovehiculului tau</li>     <li>Piese remanufacturate, cu respactarea specificatiilor Ford</li>     <li>Pret fix, care include piesele si manopera</li> </ul> <div><style type="text/css">        .floatedTable {            float:left;        }        .inlineTable {            display: inline-block;        }</style><style type="text/css">.CusTab { margin-top: 1em; }.CusTab td { padding: 6px; height: 25px; vertical-align: middle; border-left: white 1px solid; border-right: white 1pt solid; text-align: center; color:#474847; }.CusTab-header, .CusTab-header:hover { background-color: #455968; color: #FFF; }.CusTab-header td { font-weight: bold; color: #FFF; }.CusTab-dark, .CusTab-dark-left, .CusTab-dark td, .CusTab-dark-left td { background-color:#ececec; }.CusTab-light, .CusTab-light-left, .CusTab-light td, .CusTab-light-left td { background-color:#FFF; }td.CusTab-dark-left, td.CusTab-light-left { text-align: left; }td.CusTab-tick { color: #0070c0; }</style> <table width="100%" cellspacing="0" cellpadding="0" border="0" style="border-collapse: collapse" class="CusTab">     <colgroup><col style="width: 20%" /><col style="width: 16%" /><col style="width: 16%" /><col style="width: 16%" /><col style="width: 16%" /><col style="width: 16%" /></colgroup>     <tbody>         <tr class="CusTab-header">             <td>Reparatii</td>             <td>Fiesta, Fusion</td>             <td>Focus, C-MAX</td>             <td>Mondeo, S-MAX, Galaxy, Kuga</td>             <td>Ford Transit Connect / Ford Tourneo Conect</td>             <td>Ford Transit</td>         </tr>         <tr class="CusTab-dark">             <td class="CusTab-dark-left">Inlocuire set ambreiaj (placa, disc, rulment)</td>             <td><span style="font-size: large"> 1.320 lei  <br>             </span></td>             <td><span style="font-size: large"> 1.490 lei  <br>             </span></td>             <td><span style="font-size: large"> 1.615 lei  <br>             </span></td>             <td><span style="font-size: large">  1.700 lei  <br>             </span></td>             <td><span style="font-size: large"> 1.560 lei  <br>             </span></td>         </tr>     </tbody> </table> <br> <br> <em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate in lei, contin TVA conform legislatiei in vigoare si includ pretul manoperei. Oferta nu include componentele tehnologice. Oferta este valabila in limita stocului disponibil si nu se aplica autovehiculelor utilitare echipate cu jante din aliaj si/sau a celor cu roti duble spate. Aceasta oferta este supusa unor termene si conditii si poate varia in functie de seria de sasiu. Perioada derularii acestei campanii: 8 martie 2017 - 31 septembrie 2017.</em></div></div>
                         </div>
                     </div>
                 </div>

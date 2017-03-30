@@ -268,7 +268,7 @@
 <div id="top_anchor"><a name="top"></a></div>
 <!--<START_MHB001 >-->
 <div id="masthead">
-    <img src="/assets/img/service/1214556418948.jpg" border="0" alt="Fa impresie buna in vacanta"
+    <img src="/assets/img/service/1214609482525.jpg" border="0" alt="Fa impresie buna in vacanta"
          title="Fa impresie buna in vacanta" height='115' width='980'/>
 </div>
 <!--<END_MHB001 >-->
@@ -346,7 +346,7 @@
                             <li class=''>
                                 <a href='../Service'>Service</a></li>
                             <li class=''>
-                                <a href='../Anvelope'>Anvelope de iarn&#259;</a></li>
+                                <a href='../Anvelope'>Anvelope de vara</a></li>
                             <li class=''>
                                 <a href='../Pre-verificareITP'>Pre-verificare I.T.P.</a></li>
                             <li class=''>
@@ -356,7 +356,7 @@
                         </div>
                     </div>
                 </li>
-                <li><p>Anvelope de iarn&#259;</p></li>
+                <li><p>Anvelope de vara</p></li>
             </ul>
             <div class="navdivider"></div>
             <ul id="nextSteps" class="nextSteps">
@@ -415,7 +415,7 @@
     <div style="height: 115px">&nbsp;</div>
     <div id="container_center">
         <div class="center_item">
-            <div class="btoArticleTitle"><h1><font size="5">Anvelope de iarnă Ford Fiesta</font></h1></div>
+            <div class="btoArticleTitle"><h1><font size="5">Anvelope de vara Ford Fiesta</font></h1></div>
             <div class="btoArticleText">
                 <div class="btoArticleAbstract">
                     <div>E usor sa găseşti anvelopele potrivite modelui tau Ford Fiesta. <br> <br> <br> <img
@@ -541,119 +541,7 @@ return false;"
                                     </h2></div>
                                 <div class="btoArticleText">
                                     <div class="btoArticleAbstract">
-                                        <div>
-                                            <style type="text/css">        .floatedTable {
-                                                    float: left;
-                                                }
-
-                                                .inlineTable {
-                                                    display: inline-block;
-                                                }</style>
-                                            <style type="text/css">.CusTab {
-                                                    margin-top: 1em;
-                                                }
-
-                                                .CusTab td {
-                                                    padding: 6px;
-                                                    height: 25px;
-                                                    valign: middle;
-                                                    border-left: white 1px solid;
-                                                    border-right: white 1pt solid;
-                                                    text-align: center;
-                                                    color: #474847;
-                                                }
-
-                                                .CusTab-header, .CusTab-header:hover {
-                                                    background-color: #455968;
-                                                    color: #FFF;
-                                                }
-
-                                                .CusTab-header td {
-                                                    font-weight: bold;
-                                                    color: #FFF;
-                                                }
-
-                                                .CusTab-dark, .CusTab-dark-left, .CusTab-dark td, .CusTab-dark-left td {
-                                                    background-color: #ececec;
-                                                    height: 30px;
-                                                }
-
-                                                .CusTab-light, .CusTab-light-left, .CusTab-light td, .CusTab-light-left td {
-                                                    background-color: #FFF;
-                                                    height: 30px;
-                                                }
-
-                                                td.CusTab-dark-pric, td.CusTab-light-pric {
-                                                    color: #425968;
-                                                    font-size: 20px;
-                                                }
-
-                                                td.CusTab-dark-left, td.CusTab-light-left {
-                                                    text-align: left;
-                                                }
-
-                                                td.CusTab-tick {
-                                                    color: #0070c0;
-                                                }</style>
-                                            Toate preţurile afişate sunt preţuri recomandate de v&acirc;nzare cu TVA
-                                            inclus. Nu includ manopera pentru montare şi echilibrare anvelope.<br> <br>
-                                            <table width="100%" class="floatedTable">
-                                                <tbody>
-                                                <tr class="CusTab-header">
-                                                    <td width="25 %" valign="middle" style="text-align: center;">
-                                                        <div>Dimensiuni</div>
-                                                        <div>anvelope</div>
-                                                    </td>
-                                                    <td width="25 %" valign="middle" style="text-align: center;">Model</td>
-                                                    <td width="25 %" valign="middle" style="text-align: center;">Pret</td>
-                                                </tr>
-                                                <tr>
-                                                    <td width="25 %" valign="middle" class="CusTab-light">175/65 R14 82T TL WINTER 1
-                                                    </td>
-                                                    <td width="25 %" valign="middle" class="CusTab-light">Motorcraft*</td>
-                                                    <td width="25 %" valign="middle" class="CusTab-light-pric"
-                                                        style="text-align: center;"><span style="font-size: medium;">150* lei</span>
-                                                    </td>
-                                                </tr>
-                                                <tr tr="" class="CusTab-dark">
-                                                    <td width="25 %" valign="middle">175/65 R14 82T G-FORCE WINTER</td>
-                                                    <td width="25 %" valign="middle">BFGoodrich</td>
-                                                    <td width="25 %" valign="middle" class="CusTab-light-pric"
-                                                        style="text-align: center;"><span style="font-size: medium;">190* lei</span>
-                                                    </td>
-                                                </tr>
-                                                <tr tr="" class="CusTab-light">
-                                                    <td width="25 %" valign="middle">175/65 R14 82T TL ALPIN A4 GRNX</td>
-                                                    <td width="25 %" valign="middle">Michelin</td>
-                                                    <td width="25 %" valign="middle" class="CusTab-light-pric"
-                                                        style="text-align: center;"><span style="font-size: medium;">266* lei</span>
-                                                    </td>
-                                                </tr>
-                                                <tr tr="" class="CusTab-dark">
-                                                    <td width="25 %" valign="middle">195/50 R15 82H TL WINTER 1 TG</td>
-                                                    <td width="25 %" valign="middle">Motorcraft*</td>
-                                                    <td width="25 %" valign="middle" class="CusTab-light-pric"
-                                                        style="text-align: center;"><span style="font-size: medium;">179* lei</span>
-                                                    </td>
-                                                </tr>
-                                                <tr tr="" class="CusTab-light">
-                                                    <td width="25 %" valign="middle">195/50 R15 82V G-FORCE WINTER 2</td>
-                                                    <td width="25 %" valign="middle">BFGoodrich</td>
-                                                    <td width="25 %" valign="middle" class="CusTab-light-pric"
-                                                        style="text-align: center;"><span style="font-size: medium;">260* lei</span>
-                                                    </td>
-                                                </tr>
-                                                <tr tr="" class="CusTab-dark">
-                                                    <td width="25 %" valign="middle">195/50 R15 82T TL ALPIN A4 GRNX</td>
-                                                    <td width="25 %" valign="middle">Michelin</td>
-                                                    <td width="25 %" valign="middle" class="CusTab-light-pric"
-                                                        style="text-align: center;"><span style="font-size: medium;">338* lei</span>
-                                                    </td>
-                                                </tr>
-                                                </tbody>
-                                            </table>
-                                        </div>
-                                        <p>&nbsp;</p>
+                                        <div><style type="text/css">        .floatedTable {            float:left;        }        .inlineTable {            display: inline-block;        }</style><style type="text/css">.CusTab { margin-top: 1em; }.CusTab td { padding: 6px; height: 25px; valign: middle; border-left: white 1px solid; border-right: white 1pt solid; text-align: center; color:#474847; }.CusTab-header, .CusTab-header:hover { background-color: #455968; color: #FFF; }.CusTab-header td { font-weight: bold; color: #FFF; }.CusTab-dark, .CusTab-dark-left, .CusTab-dark td, .CusTab-dark-left td { background-color:#ececec; height: 30px;}.CusTab-light, .CusTab-light-left, .CusTab-light td, .CusTab-light-left td { background-color:#FFF; height: 30px;}td.CusTab-dark-pric, td.CusTab-light-pric {color: #425968; font-size: 20px;}td.CusTab-dark-left, td.CusTab-light-left { text-align: left; }td.CusTab-tick { color: #0070c0; }</style> Toate preţurile afişate sunt preţuri recomandate de v&acirc;nzare cu TVA inclus. Nu includ manopera pentru montare şi echilibrare anvelope.<br> <br> <table class="floatedTable" width="100%">     <tbody>         <tr class="CusTab-header">             <td style="text-align: center;" width="25 %" valign="middle"><div>Dimensiuni</div>             <div>anvelope</div></td>             <td style="text-align: center;" width="25 %" valign="middle">Model</td>             <td style="text-align: center;" width="25 %" valign="middle">Pret</td>         </tr>         <tr>             <td class="CusTab-light" width="25 %" valign="middle">175/65 R14 82T TL SIGURA TG</td>             <td class="CusTab-light" style="text-align: center;" width="25 %" valign="middle">Motorcraft*</td>             <td class="CusTab-light-pric" style="text-align: center;" width="25 %" valign="middle"><span style="font-size: medium;">143 lei </span></td>         </tr>         <tr tr="" class="CusTab-dark">             <td width="25 %" valign="middle">175/65 R14 82T TL G-GRIP GO</td>             <td style="text-align: center;" width="25 %" valign="middle">BFGoodrich</td>             <td class="CusTab-light-pric" style="text-align: center;" width="25 %" valign="middle"><span style="font-size: medium;">169 lei </span></td>         </tr>         <tr tr="" class="CusTab-light">             <td width="25 %" valign="middle">175/65 R14 82T TL ENERGY SAVER+ GRNX MI</td>             <td style="text-align: center;" width="25 %" valign="middle">Michelin</td>             <td class="CusTab-light-pric" style="text-align: center;" width="25 %" valign="middle"><span style="font-size: medium;">241 lei  </span></td>         </tr>         <tr tr="" class="CusTab-dark">             <td width="25 %" valign="middle">195/50 R15 82V TL PRIMA TG</td>             <td style="text-align: center;" width="25 %" valign="middle">Motorcraft*</td>             <td class="CusTab-light-pric" style="text-align: center;" width="25 %" valign="middle"><span style="font-size: medium;">171 lei  </span></td>         </tr>         <tr tr="" class="CusTab-light">             <td width="25 %" valign="middle">195/50 R15 82V TL G-GRIP GO</td>             <td style="text-align: center;" width="25 %" valign="middle">BFGoodrich</td>             <td class="CusTab-light-pric" style="text-align: center;" width="25 %" valign="middle"><span style="font-size: medium;">209 lei  </span></td>         </tr>         <tr tr="" class="CusTab-dark">             <td width="25 %" valign="middle">195/50 R15 82T TL ENERGY SAVER+ GRNX MI</td>             <td style="text-align: center;" width="25 %" valign="middle">Michelin</td>             <td class="CusTab-light-pric" style="text-align: center;" width="25 %" valign="middle"><span style="font-size: medium;">290 lei  </span></td>         </tr>     </tbody> </table></div> <p>&nbsp;</p>
                                     </div>
                                 </div>
                             </div>
@@ -664,12 +552,12 @@ return false;"
                                         </div>
                                         <div class='BTIarticleBody'>
                                             <div class='BTIarticleText'>
-                                                <div><em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin
-                                                        TVA conform legislatiei in vigoare. Pretul nu include montajul, echilibrarea si
-                                                        sistemul de monitorizare a presiunii in anvelope. Anvelopele Motorcraft sunt
-                                                        marca Tigar. Aceasta oferta: este supusa unor termene si conditii; este valabila
-                                                        in limita stocului disponibil si poate varia in functie de seria de sasiu.
-                                                        Campanie valabila pana la data de 31 martie 2017.</em>
+                                                <div><em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin TVA
+                                                        conform legislatiei in vigoare. Pretul nu include montajul, echilibrarea si sistemul
+                                                        de monitorizare a presiunii in anvelope. Anvelopele Motorcraft sunt marca Tigar.
+                                                        Aceasta oferta: este supusa unor termene si conditii; este valabila in limita stocului
+                                                        disponibil si poate varia in functie de seria de sasiu. Perioada derularii acestei
+                                                        campanii: 8 martie 2017 - 31 septembrie 2017. </em>
                                                 </div>
                                             </div>
                                         </div>

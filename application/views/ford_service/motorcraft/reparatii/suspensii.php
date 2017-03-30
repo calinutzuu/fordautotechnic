@@ -260,7 +260,7 @@
 <div id="top_anchor"><a name="top"></a></div>
 <!--<START_MHB001 >-->
 <div id="masthead">
-    <img src="/assets/img/service/1214556418948.jpg" border="0" alt="Fa impresie buna in vacanta"
+    <img src="/assets/img/service/1214609482525.jpg" border="0" alt="Fa impresie buna in vacanta"
          title="Fa impresie buna in vacanta" height='115' width='980'/>
 </div>
 <!--<END_MHB001 >-->
@@ -438,7 +438,8 @@
                     </div>
                     <div class='BTIarticleBody'>
                         <div class='BTIarticleText'>
-                            <div><strong><span style="font-size: medium">Potrivit pentru păstrarea dinamicii maşinii, &icirc;n siguranţă</span></strong>
+                            <div><strong><span
+                                        style="font-size: medium">Potrivit pentru păstrarea dinamicii maşinii, &icirc;n siguranţă</span></strong>
                                 <ul>
                                     <li>Special conceput pentru modelele Ford</li>
                                     <li>Preţ fix, care include piesele şi manopera</li>
@@ -492,8 +493,8 @@
                                         td.CusTab-tick {
                                             color: #0070c0;
                                         }</style>
-                                    <table width="100%" cellspacing="0" cellpadding="0" border="0"
-                                           style="border-collapse: collapse" class="CusTab">
+                                    <table width="100%" cellspacing="0" cellpadding="0" border="0" style="border-collapse: collapse"
+                                           class="CusTab">
                                         <colgroup>
                                             <col style="width: 20%"/>
                                             <col style="width: 16%"/>
@@ -512,29 +513,30 @@
                                             <td>Ford Transit</td>
                                         </tr>
                                         <tr class="CusTab-dark">
-                                            <td class="CusTab-dark-left">Set amortizoare spate*</td>
-                                            <td><span style="font-size: large">420 lei<br>             </span></td>
-                                            <td><span style="font-size: large">550 lei<br>             </span></td>
-                                            <td><span style="font-size: large">610 lei<br>             </span></td>
-                                            <td><span style="font-size: large">450 lei</span></td>
+                                            <td class="CusTab-dark-left">Set amortizoare spate</td>
+                                            <td><span style="font-size: large">410 lei <br>             </span></td>
+                                            <td><span style="font-size: large">540 lei <br>             </span></td>
+                                            <td><span style="font-size: large">600 lei <br>             </span></td>
+                                            <td><span style="font-size: large">450 lei </span></td>
                                             <td><span style="font-size: large">-</span></td>
                                         </tr>
                                         <tr class="CusTab-light">
-                                            <td class="CusTab-dark-left">Set amortizoare faţă*</td>
-                                            <td><span style="font-size: large">530 lei<br>             </span></td>
-                                            <td><span style="font-size: large">595 lei<br>             </span></td>
-                                            <td><span style="font-size: large">750 lei<br>             </span></td>
-                                            <td><span style="font-size: large">560 lei</span></td>
-                                            <td><span style="font-size: large">1.540 lei</span></td>
+                                            <td class="CusTab-dark-left">Set amortizoare fata</td>
+                                            <td><span style="font-size: large">530 lei <br>             </span></td>
+                                            <td><span style="font-size: large">590 lei <br>             </span></td>
+                                            <td><span style="font-size: large">755 lei <br>             </span></td>
+                                            <td><span style="font-size: large">560 lei </span></td>
+                                            <td><span style="font-size: large">1.520 lei </span></td>
                                         </tr>
                                         </tbody>
                                     </table>
                                 </div>
-                                <br> <em>Toate preturile afisate in aceasta oferta sunt preturi recomandate, in lei, contin TVA
-                                    conform legislatiei in vigoare si includ pretul manoperei. Aceasta oferta: este supusa unor
-                                    termene si conditii; este valabila in limita stocului disponibil, poate varia in functie de
-                                    seria de sasiu si nu se aplica autovehiculelor utilitare echipate cu jante din aliaj si/sau
-                                    a celor cu roti duble spate. Campanie valabila pana la data de 31 martie 2017. </em></div>
+                                <br> <em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate in lei, contin TVA conform
+                                    legislatiei in vigoare si includ pretul manoperei. Oferta nu include componentele tehnologice. Oferta
+                                    este valabila in limita stocului disponibil si nu se aplica autovehiculelor utilitare echipate cu jante
+                                    din aliaj si/sau a celor cu roti duble spate. Aceasta oferta este supusa unor termene si conditii si
+                                    poate varia in functie de seria de sasiu. Perioada derularii acestei campanii: 8 martie 2017 - 31
+                                    septembrie 2017.</em></div>
                         </div>
                     </div>
                 </div>

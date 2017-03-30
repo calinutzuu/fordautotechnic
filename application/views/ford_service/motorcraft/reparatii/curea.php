@@ -260,7 +260,7 @@
 <div id="top_anchor"><a name="top"></a></div>
 <!--<START_MHB001 >-->
 <div id="masthead">
-    <img src="/assets/img/service/1214556418948.jpg" border="0" alt="Fa impresie buna in vacanta"
+    <img src="/assets/img/service/1214609482525.jpg" border="0" alt="Fa impresie buna in vacanta"
          title="Fa impresie buna in vacanta" height='115' width='980'/>
 </div>
 <!--<END_MHB001 >-->
@@ -491,8 +491,8 @@
                                         td.CusTab-tick {
                                             color: #0070c0;
                                         }</style>
-                                    <table width="100%" cellspacing="0" cellpadding="0" border="0"
-                                           style="BORDER-COLLAPSE: collapse" class="CusTab">
+                                    <table width="100%" cellspacing="0" cellpadding="0" border="0" style="BORDER-COLLAPSE: collapse"
+                                           class="CusTab">
                                         <colgroup>
                                             <col style="WIDTH: 20%"/>
                                             <col style="WIDTH: 16%"/>
@@ -507,25 +507,25 @@
                                             <td>Mondeo, S-MAX, Galaxy, Kuga</td>
                                         </tr>
                                         <tr class="CusTab-dark">
-                                            <td class="CusTab-dark-left">Kit distribuţie - benzină</td>
-                                            <td><span style="font-size: large">880 lei<br>             </span></td>
-                                            <td><span style="font-size: large">950 lei<br>             </span></td>
-                                            <td><span style="font-size: large">950 lei<br>             </span></td>
+                                            <td class="CusTab-dark-left">Kit distributie - benzina</td>
+                                            <td><span style="font-size: large">920 lei <br>             </span></td>
+                                            <td><span style="font-size: large">980 lei <br>             </span></td>
+                                            <td><span style="font-size: large">980 lei <br>             </span></td>
                                         </tr>
                                         <tr class="CusTab-light">
-                                            <td class="CusTab-dark-left">Kit distribuţie diesel, cu pompă de apă</td>
-                                            <td><span style="font-size: large">1.110 lei<br>             </span></td>
-                                            <td><span style="font-size: large">1.320 lei<br>             </span></td>
-                                            <td><span style="font-size: large">1.425 lei<br>             </span></td>
+                                            <td class="CusTab-dark-left">Kit distributie diesel, cu pompa de apa</td>
+                                            <td><span style="font-size: large">1.130 lei <br>             </span></td>
+                                            <td><span style="font-size: large">1.280 lei <br>             </span></td>
+                                            <td><span style="font-size: large">1.320 lei <br>             </span></td>
                                         </tr>
                                         </tbody>
                                     </table>
-                                    <div><br> <br> <em>Toate preturile afisate in aceasta oferta sunt preturi recomandate, in
-                                            lei, contin TVA conform legislatiei in vigoare si includ pretul manoperei. Aceasta
-                                            oferta: este supusa unor termene si conditii; este valabila in limita stocului
-                                            disponibil, poate varia in functie de seria de sasiu si nu se aplica autovehiculelor
-                                            utilitare echipate cu jante din aliaj si/sau a celor cu roti duble spate. Campanie
-                                            valabila pana la data de 31 martie 2017. </em></div>
+                                    <div><br> <br> <em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate in lei, contin
+                                            TVA conform legislatiei in vigoare si includ pretul manoperei. Oferta nu include componentele
+                                            tehnologice. Oferta este valabila in limita stocului disponibil si nu se aplica autovehiculelor
+                                            utilitare echipate cu jante din aliaj si/sau a celor cu roti duble spate. Aceasta oferta este
+                                            supusa unor termene si conditii si poate varia in functie de seria de sasiu. Perioada derularii
+                                            acestei campanii: 8 martie 2017 - 31 septembrie 2017.</em></div>
                                 </div>
                             </div>
                         </div>

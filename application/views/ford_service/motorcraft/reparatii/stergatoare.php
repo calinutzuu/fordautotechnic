@@ -260,7 +260,7 @@
 <div id="top_anchor"><a name="top"></a></div>
 <!--<START_MHB001 >-->
 <div id="masthead">
-    <img src="/assets/img/service/1214556418948.jpg" border="0" alt="Fa impresie buna in vacanta"
+    <img src="/assets/img/service/1214609482525.jpg" border="0" alt="Fa impresie buna in vacanta"
          title="Fa impresie buna in vacanta" height='115' width='980'/>
 </div>
 <!--<END_MHB001 >-->
@@ -437,100 +437,7 @@
                     </div>
                     <div class='BTIarticleBody'>
                         <div class='BTIarticleText'>
-                            <div><span style="font-size: medium;"><strong>Ca să ai o imagine clară asupra drumului ce ţi se
-                                        aşterne in faţă</strong></span><br> <br> Lamele ştergătoarelor de parbriz ar putea să nu
-                                pară extraordinar de imprtante. Totuşi, chiar şi o ploaie uşoară &icirc;ţi poate limita
-                                considerabil vizibilitatea &icirc;n timp ce conduci.<br> <br> La fel, şi praful care trebuie
-                                curăţat rapid şi eficient. Prin urmare, este important să păstrezi lamelele ştergătoarelor de
-                                parbriz de pe modelul tău Ford &icirc;n cea mai bună formă. Aceasta se face prin verificarea
-                                modului cum funcţionează şi &icirc;nlocuirea lor periodică.
-                            </div>
-                            <div>
-                                <style type="text/css">        .floatedTable {
-                                        float: left;
-                                    }
-
-                                    .inlineTable {
-                                        display: inline-block;
-                                    }</style>
-                                <style type="text/css">.CusTab {
-                                        margin-top: 1em;
-                                    }
-
-                                    .CusTab td {
-                                        padding: 6px;
-                                        height: 25px;
-                                        vertical-align: middle;
-                                        border-left: white 1px solid;
-                                        border-right: white 1pt solid;
-                                        text-align: center;
-                                        color: #474847;
-                                    }
-
-                                    .CusTab-header, .CusTab-header:hover {
-                                        background-color: #455968;
-                                        color: #FFF;
-                                    }
-
-                                    .CusTab-header td {
-                                        font-weight: bold;
-                                        color: #FFF;
-                                    }
-
-                                    .CusTab-dark, .CusTab-dark-left, .CusTab-dark td, .CusTab-dark-left td {
-                                        background-color: #ececec;
-                                    }
-
-                                    .CusTab-light, .CusTab-light-left, .CusTab-light td, .CusTab-light-left td {
-                                        background-color: #FFF;
-                                    }
-
-                                    td.CusTab-dark-left, td.CusTab-light-left {
-                                        text-align: left;
-                                    }
-
-                                    td.CusTab-tick {
-                                        color: #0070c0;
-                                    }</style>
-                                <table width="100%" cellspacing="0" cellpadding="0" border="0" style="BORDER-COLLAPSE: collapse"
-                                       class="CusTab">
-                                    <colgroup>
-                                        <col style="WIDTH: 20%"/>
-                                        <col style="WIDTH: 16%"/>
-                                        <col style="WIDTH: 16%"/>
-                                        <col style="WIDTH: 16%"/>
-                                        <col style="WIDTH: 16%"/>
-                                        <col style="WIDTH: 16%"/>
-                                    </colgroup>
-                                    <tbody>
-                                    <tr class="CusTab-header">
-                                        <td>Reparatii</td>
-                                        <td>Fiesta, Fusion</td>
-                                        <td>Focus, C-MAX</td>
-                                        <td>Mondeo, S-MAX, Galaxy, Kuga</td>
-                                        <td>Ford Transit Connect, Ford Tourneo Connect</td>
-                                        <td>Ford Transit</td>
-                                    </tr>
-                                    <tr class="CusTab-dark">
-                                        <td class="CusTab-dark-left">&Icirc;nlocuire set lamele ştergător parbriz</td>
-                                        <td><span style="font-size: large">110 lei<br>             </span></td>
-                                        <td><span style="font-size: large">110 lei<br>             </span></td>
-                                        <td><span style="font-size: large">140 lei<br>             </span></td>
-                                        <td><span style="font-size: large">90 lei</span></td>
-                                        <td><span style="font-size: large">100 lei<br>             </span></td>
-                                    </tr>
-                                    <tr class="CusTab-light">
-                                        <td class="CusTab-dark-left">&Icirc;nlocuire lichid de parbriz</td>
-                                        <td colspan="5"><span style="font-size: large">19,9 lei <br>             </span></td>
-                                    </tr>
-                                    </tbody>
-                                </table>
-                                <br> <br> <em>Toate preturile afisate in aceasta oferta sunt preturi recomandate, in lei, contin
-                                    TVA conform legislatiei in vigoare si includ pretul manoperei. Aceasta oferta: este supusa
-                                    unor termene si conditii; este valabila in limita stocului disponibil, poate varia in
-                                    functie de seria de sasiu si nu se aplica autovehiculelor utilitare echipate cu jante din
-                                    aliaj si/sau a celor cu roti duble spate. Campanie valabila pana la data de 31 martie
-                                    2017. </em></div>
+                            <div><span style="font-size: medium;"><strong>Ca să ai o imagine clară asupra drumului ce ţi se aşterne in faţă</strong></span><br> <br> Lamele ştergătoarelor de parbriz  ar putea să nu pară extraordinar de imprtante. Totuşi, chiar şi o ploaie uşoară &icirc;ţi poate limita considerabil vizibilitatea &icirc;n timp ce conduci.<br> <br> La fel, şi praful care trebuie curăţat rapid şi eficient. Prin urmare, este important să păstrezi lamelele ştergătoarelor de parbriz de pe modelul tău Ford &icirc;n cea mai bună formă. Aceasta se face prin verificarea modului cum funcţionează şi &icirc;nlocuirea lor periodică.</div> <div><style type="text/css">        .floatedTable {            float:left;        }        .inlineTable {            display: inline-block;        }</style><style type="text/css">.CusTab { margin-top: 1em; }.CusTab td { padding: 6px; height: 25px; vertical-align: middle; border-left: white 1px solid; border-right: white 1pt solid; text-align: center; color:#474847; }.CusTab-header, .CusTab-header:hover { background-color: #455968; color: #FFF; }.CusTab-header td { font-weight: bold; color: #FFF; }.CusTab-dark, .CusTab-dark-left, .CusTab-dark td, .CusTab-dark-left td { background-color:#ececec; }.CusTab-light, .CusTab-light-left, .CusTab-light td, .CusTab-light-left td { background-color:#FFF; }td.CusTab-dark-left, td.CusTab-light-left { text-align: left; }td.CusTab-tick { color: #0070c0; }</style> <table width="100%" cellspacing="0" cellpadding="0" border="0" style="BORDER-COLLAPSE: collapse" class="CusTab">     <colgroup><col style="WIDTH: 20%" /><col style="WIDTH: 16%" /><col style="WIDTH: 16%" /><col style="WIDTH: 16%" /><col style="WIDTH: 16%" /><col style="WIDTH: 16%" /> </colgroup>     <tbody>         <tr class="CusTab-header">             <td>Reparatii</td>             <td>Fiesta, Fusion</td>             <td>Focus, C-MAX</td>             <td>Mondeo, S-MAX, Galaxy, Kuga</td>             <td>Ford Transit Connect, Ford Tourneo Connect</td>             <td>Ford Transit</td>         </tr>         <tr class="CusTab-dark">             <td class="CusTab-dark-left">Inlocuire set lamele stergator parbriz</td>             <td><span style="font-size: large">110 lei <br>             </span></td>             <td><span style="font-size: large">110 lei <br>             </span></td>             <td><span style="font-size: large">135 lei <br>             </span></td>             <td><span style="font-size: large">90 lei </span></td>             <td><span style="font-size: large">100 lei <br>             </span></td>         </tr>         <tr class="CusTab-light">             <td class="CusTab-dark-left">&Icirc;nlocuire lichid de parbriz</td>             <td colspan="5"><span style="font-size: large">19,9 lei <br>             </span></td>         </tr>     </tbody> </table> <br> <br> <em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate in lei, contin TVA conform legislatiei in vigoare si includ pretul manoperei. Oferta nu include componentele tehnologice. Oferta este valabila in limita stocului disponibil si nu se aplica autovehiculelor utilitare echipate cu jante din aliaj si/sau a celor cu roti duble spate. Aceasta oferta este supusa unor termene si conditii si poate varia in functie de seria de sasiu. Perioada derularii acestei campanii: 8 martie 2017 - 31 septembrie 2017.</em></div>
                         </div>
                     </div>
                 </div>
@@ -541,24 +448,7 @@
                     </div>
                     <div class='BTIarticleBody'>
                         <div class='BTIarticleText'>
-                            <div><strong>Alege şi instalează produsul potrivit</strong><br> <br> Dealer-ul tău Ford te poate
-                                ajuta &icirc;n alegerea lamelelor ştergătoarelor de parbriz care se potrivesc maşinii tale. Ca o
-                                alternativă, poţi să alegi chiar tu din cele 2 opţiuni de mai jos şi să faci online rezervarea
-                                pentru asiguratrea montajului. <br> <br> <strong>Lamele obişnuite pentru ştergătoare de
-                                    parbriz</strong></div>
-                            <ul>
-                                <li>Construcţie integral metalică şi cu protecţie &icirc;mpotriva coroziunii.</li>
-                                <li>Echilibrează presiunea &icirc;n momentul ştergerii prin punctele de contact dispuse uniform,
-                                    permiţ&acirc;nd o vizibilitate ridicată la orice viteză
-                                </li>
-                            </ul>
-                            <div><b>Lamele plate</b></div>
-                            <ul>
-                                <li>Design si calitate marca Ford.</li>
-                                <li>Echilibrează presiunea &icirc;n momentul ştergerii prin spoiler-ul intergrat, permiţ&acirc;nd
-                                    o vizibilitate ridicată la orice viteză
-                                </li>
-                            </ul>
+                            <div><strong>Alege şi instalează produsul potrivit</strong><br> <br> Dealer-ul tău Ford te poate ajuta &icirc;n alegerea lamelelor ştergătoarelor de parbriz care se potrivesc maşinii tale. Ca o alternativă, poţi să alegi chiar tu din cele 2 opţiuni de mai jos şi să faci online rezervarea pentru asiguratrea montajului.  <br> <br> <strong>Lamele obişnuite pentru ştergătoare de parbriz</strong></div> <ul>     <li>Construcţie integral metalică şi cu protecţie &icirc;mpotriva coroziunii.</li>     <li>Echilibrează presiunea &icirc;n momentul ştergerii prin punctele de contact dispuse uniform, permiţ&acirc;nd o vizibilitate ridicată la orice viteză</li> </ul> <div><b>Lamele plate</b></div> <ul>     <li>Design si calitate marca Ford.</li>     <li>Echilibrează presiunea &icirc;n momentul ştergerii prin spoiler-ul intergrat, permiţ&acirc;nd o vizibilitate ridicată la orice viteză</li> </ul>
                         </div>
                     </div>
                 </div>

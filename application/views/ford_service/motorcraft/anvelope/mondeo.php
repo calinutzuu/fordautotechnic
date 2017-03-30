@@ -268,7 +268,7 @@
 <div id="top_anchor"><a name="top"></a></div>
 <!--<START_MHB001 >-->
 <div id="masthead">
-    <img src="/assets/img/service/1214556418948.jpg" border="0" alt="Fa impresie buna in vacanta"
+    <img src="/assets/img/service/1214609482525.jpg" border="0" alt="Fa impresie buna in vacanta"
          title="Fa impresie buna in vacanta" height='115' width='980'/>
 </div>
 <!--<END_MHB001 >-->
@@ -346,7 +346,7 @@
                             <li class=''>
                                 <a href='../Service'>Service</a></li>
                             <li class=''>
-                                <a href='../Anvelope'>Anvelope de iarn&#259;</a></li>
+                                <a href='../Anvelope'>Anvelope de vara</a></li>
                             <li class=''>
                                 <a href='../Pre-verificareITP'>Pre-verificare I.T.P.</a></li>
                             <li class=''>
@@ -356,7 +356,7 @@
                         </div>
                     </div>
                 </li>
-                <li><p>Anvelope de iarn&#259;</p></li>
+                <li><p>Anvelope de vara</p></li>
             </ul>
             <div class="navdivider"></div>
             <ul id="nextSteps" class="nextSteps">
@@ -415,7 +415,7 @@
 <div style="height: 115px">&nbsp;</div>
 <div id="container_center">
     <div class="center_item">
-        <div class="btoArticleTitle"><h1><font size="5">Anvelope de iarnă Ford Mondeo</font></h1></div>
+        <div class="btoArticleTitle"><h1><font size="5">Anvelope de vara Ford Mondeo</font></h1></div>
         <div class="btoArticleText">
             <div class="btoArticleAbstract">
                 <div>E usor sa găseşti anvelopele potrivite modelui tau Ford Mondeo. <br>  <br> <img width="100%"
@@ -539,99 +539,8 @@ return false;"
                         <div class="tab001_TabTop_IntroText">
                             <div class="btoArticleTitle"><h2><font size="5">Ghid pentru anvelope Ford Mondeo</font></h2>
                             </div>
-                            <div class="btoArticleText">
-                                <div class="btoArticleAbstract">
-                                    <div>
-                                        <style type="text/css">        .floatedTable {
-                                                float: left;
-                                            }
-
-                                            .inlineTable {
-                                                display: inline-block;
-                                            }</style>
-                                        <style type="text/css">.CusTab {
-                                                margin-top: 1em;
-                                            }
-
-                                            .CusTab td {
-                                                padding: 6px;
-                                                height: 25px;
-                                                valign: middle;
-                                                border-left: white 1px solid;
-                                                border-right: white 1pt solid;
-                                                text-align: center;
-                                                color: #474847;
-                                            }
-
-                                            .CusTab-header, .CusTab-header:hover {
-                                                background-color: #455968;
-                                                color: #FFF;
-                                            }
-
-                                            .CusTab-header td {
-                                                font-weight: bold;
-                                                color: #FFF;
-                                            }
-
-                                            .CusTab-dark, .CusTab-dark-left, .CusTab-dark td, .CusTab-dark-left td {
-                                                background-color: #ececec;
-                                                height: 30px;
-                                            }
-
-                                            .CusTab-light, .CusTab-light-left, .CusTab-light td, .CusTab-light-left td {
-                                                background-color: #FFF;
-                                                height: 30px;
-                                            }
-
-                                            td.CusTab-dark-pric, td.CusTab-light-pric {
-                                                color: #425968;
-                                                font-size: 20px;
-                                            }
-
-                                            td.CusTab-dark-left, td.CusTab-light-left {
-                                                text-align: left;
-                                            }
-
-                                            td.CusTab-tick {
-                                                color: #0070c0;
-                                            }</style>
-                                        Toate preturile afisate sunt preturi recomandate de v&acirc;nzare cu TVA inclus.
-                                        Nu includ manopera pentru montare si echilibrare anvelope.<br> <br>
-                                        <table width="100%" class="floatedTable">
-                                            <tbody>
-                                            <tr class="CusTab-header">
-                                                <td width="25 %" valign="middle" style="text-align: center;">
-                                                    <div>Dimensiuni</div>
-                                                    <div>anvelope</div>
-                                                </td>
-                                                <td width="25 %" valign="middle" style="text-align: center;">Model</td>
-                                                <td width="25 %" valign="middle" style="text-align: center;">Pret</td>
-                                            </tr>
-                                            <tr>
-                                                <td width="25 %" valign="middle" class="CusTab-light">215/55 R16 97H EXTRA LOAD TL
-                                                    WINTER 1 TG
-                                                </td>
-                                                <td width="25 %" valign="middle" class="CusTab-light">Motorcraft*</td>
-                                                <td width="25 %" valign="middle" style="text-align: center;"
-                                                    class="CusTab-light-pric"><span style="font-size: medium;">222* lei</span></td>
-                                            </tr>
-                                            <tr class="CusTab-dark" tr="">
-                                                <td width="25 %" valign="middle">215/55 R16 93H G-FORCE WINTER 2</td>
-                                                <td width="25 %" valign="middle">BFGoodrich</td>
-                                                <td width="25 %" valign="middle" style="text-align: center;"
-                                                    class="CusTab-light-pric"><span style="font-size: medium;">418* lei</span></td>
-                                            </tr>
-                                            <tr class="CusTab-light" tr="">
-                                                <td width="25 %" valign="middle">215/55 R16 97H EXTRA LOAD TL ALPIN 5 XL</td>
-                                                <td width="25 %" valign="middle">Michelin</td>
-                                                <td width="25 %" valign="middle" style="text-align: center;"
-                                                    class="CusTab-light-pric"><span style="font-size: medium;">582* lei</span></td>
-                                            </tr>
-                                            </tbody>
-                                        </table>
-                                    </div>
-                                    <div><em><br> </em></div>
-                                </div>
+                            <div class="btoArticleAbstract">
+                                <div><style type="text/css">        .floatedTable {            float:left;        }        .inlineTable {            display: inline-block;        }</style><style type="text/css">.CusTab { margin-top: 1em; }.CusTab td { padding: 6px; height: 25px; valign: middle; border-left: white 1px solid; border-right: white 1pt solid; text-align: center; color:#474847; }.CusTab-header, .CusTab-header:hover { background-color: #455968; color: #FFF; }.CusTab-header td { font-weight: bold; color: #FFF; }.CusTab-dark, .CusTab-dark-left, .CusTab-dark td, .CusTab-dark-left td { background-color:#ececec; height: 30px;}.CusTab-light, .CusTab-light-left, .CusTab-light td, .CusTab-light-left td { background-color:#FFF; height: 30px;}td.CusTab-dark-pric, td.CusTab-light-pric {color: #425968; font-size: 20px;}td.CusTab-dark-left, td.CusTab-light-left { text-align: left; }td.CusTab-tick { color: #0070c0; }</style> Toate preturile afisate sunt preturi recomandate de v&acirc;nzare cu TVA inclus. Nu includ manopera pentru montare si echilibrare anvelope.<br> <br> <table class="floatedTable" width="100%">     <tbody>         <tr class="CusTab-header">             <td style="text-align: center;" width="25 %" valign="middle"><div>Dimensiuni</div>             <div>anvelope</div></td>             <td style="text-align: center;" width="25 %" valign="middle">Model</td>             <td style="text-align: center;" width="25 %" valign="middle">Pret</td>         </tr>         <tr>             <td class="CusTab-light" width="25 %" valign="middle">215/55 R16 93V TL SYNERIS TG</td>             <td class="CusTab-light" style="text-align: center;" width="25 %" valign="middle">Motorcraft*</td>             <td style="text-align: center;" class="CusTab-light-pric" width="25 %" valign="middle"><span style="font-size: medium;">211 lei  </span></td>         </tr>         <tr class="CusTab-dark" tr="">             <td width="25 %" valign="middle">215/55 R16 93V TL G-GRIP GO</td>             <td style="text-align: center;" width="25 %" valign="middle">BFGoodrich</td>             <td style="text-align: center;" class="CusTab-light-pric" width="25 %" valign="middle"><span style="font-size: medium;">389 lei  </span></td>         </tr>         <tr class="CusTab-light" tr="">             <td width="25 %" valign="middle">215/55 R16 93V PRIMACY 3 GRNX</td>             <td style="text-align: center;" width="25 %" valign="middle">Michelin</td>             <td style="text-align: center;" class="CusTab-light-pric" width="25 %" valign="middle"><span style="font-size: medium;">568 lei  </span></td>         </tr>     </tbody> </table></div> <div><em><br> </em></div>
                             </div>
                         </div>
                         <div class='tab001_TabReco_ShowBTI001Collection'>
@@ -641,14 +550,7 @@ return false;"
                                     </div>
                                     <div class='BTIarticleBody'>
                                         <div class='BTIarticleText'>
-                                            <div><em>*Toate prețurile afișate &icirc;n această ofertă sunt prețuri
-                                                    recomandate, conțin TVA conform legislatiei &icirc;n vigoare. Prețul
-                                                    nu include montajul, echilibrarea și sistemul de monitorizare a
-                                                    presiunii &icirc;n anvelope. Anvelopele Motorcraft sunt marca Tigar.
-                                                    Aceasta oferta: este supusă unor termene şi condiţii; este valabila
-                                                    in limita stocului disponibil si poate varia in functie de seria de
-                                                    sasiu. Perioada derularii acestei campanii: 1 aprilie &ndash; 30
-                                                    septembrie 2016</em></div>
+                                            <div><em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin TVA conform legislatiei in vigoare. Pretul nu include montajul, echilibrarea si sistemul de monitorizare a presiunii in anvelope. Anvelopele Motorcraft sunt marca Tigar. Aceasta oferta: este supusa unor termene si conditii; este valabila in limita stocului disponibil si poate varia in functie de seria de sasiu. Perioada derularii acestei campanii: 8 martie 2017 - 31 septembrie 2017. </em></div>
                                         </div>
                                     </div>
                                 </div>

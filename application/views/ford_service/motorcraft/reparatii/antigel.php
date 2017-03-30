@@ -260,7 +260,7 @@
 <div id="top_anchor"><a name="top"></a></div>
 <!--<START_MHB001 >-->
 <div id="masthead">
-    <img src="/assets/img/service/1214556418948.jpg" border="0" alt="Fa impresie buna in vacanta"
+    <img src="/assets/img/service/1214609482525.jpg" border="0" alt="Fa impresie buna in vacanta"
          title="Fa impresie buna in vacanta" height='115' width='980'/>
 </div>
 <!--<END_MHB001 >-->
@@ -437,7 +437,95 @@
                     </div>
                     <div class='BTIarticleBody'>
                         <div class='BTIarticleText'>
-                            <div><strong><span style="font-size: medium;">Pentru funcţionarea &icirc;n siguranţă a motorului, &icirc;n orice condiţii</span></strong> <ul>     <li>Lichid de răcire de calitate superioară</li>     <li>Preţ fix, care include piesele şi manopera</li> </ul> &nbsp;</div> <div><style type="text/css">        .floatedTable {            float:left;        }        .inlineTable {            display: inline-block;        }</style><style type="text/css">.CusTab { margin-top: 1em; }.CusTab td { padding: 6px; height: 25px; vertical-align: middle; border-left: white 1px solid; border-right: white 1pt solid; text-align: center; color:#474847; }.CusTab-header, .CusTab-header:hover { background-color: #455968; color: #FFF; }.CusTab-header td { font-weight: bold; color: #FFF; }.CusTab-dark, .CusTab-dark-left, .CusTab-dark td, .CusTab-dark-left td { background-color:#ececec; }.CusTab-light, .CusTab-light-left, .CusTab-light td, .CusTab-light-left td { background-color:#FFF; }td.CusTab-dark-left, td.CusTab-light-left { text-align: left; }td.CusTab-tick { color: #0070c0; }</style> <table width="100%" cellspacing="0" cellpadding="0" border="0" class="CusTab" style="BORDER-COLLAPSE: collapse">     <colgroup><col style="WIDTH: 20%" /><col style="WIDTH: 16%" /><col style="WIDTH: 16%" /><col style="WIDTH: 16%" /><col style="WIDTH: 16%" /><col style="WIDTH: 16%" /> </colgroup>     <tbody>         <tr class="CusTab-header">             <td>Reparatii</td>             <td>Fiesta, Fusion</td>             <td>Focus, C-MAX</td>             <td>Mondeo, S-MAX, Galaxy, Kuga</td>             <td>Ford Transit Connect, Ford Tourneo Connect</td>             <td>Ford Transit</td>         </tr>         <tr class="CusTab-dark">             <td class="CusTab-dark-left">Schimb lichid de răcire / antigel</td>             <td><span style="font-size: large">115 lei<br>             </span></td>             <td><span style="font-size: large">145 lei<br>             </span></td>             <td><span style="font-size: large">145 lei</span></td>             <td><span style="font-size: large">145 lei</span></td>             <td><span style="font-size: large">222 lei</span></td>         </tr>     </tbody> </table></div> <div>&nbsp;<br> <br> <em>Toate preturile afisate in aceasta oferta sunt preturi recomandate, in lei, contin TVA conform legislatiei in vigoare si includ pretul manoperei. Aceasta oferta: este supusa unor termene si conditii; este valabila in limita stocului disponibil, poate varia in functie de seria de sasiu si nu se aplica autovehiculelor utilitare echipate cu jante din aliaj si/sau a celor cu roti duble spate. Campanie valabila pana la data de 31 martie 2017. </em></div>
+                            <div><strong><span style="font-size: medium;">Pentru funcţionarea &icirc;n siguranţă a motorului, &icirc;n orice condiţii</span></strong>
+                                <ul>
+                                    <li>Lichid de răcire de calitate superioară</li>
+                                    <li>Preţ fix, care include piesele şi manopera</li>
+                                </ul>
+                                &nbsp;</div>
+                            <div>
+                                <style type="text/css">        .floatedTable {
+                                        float: left;
+                                    }
+
+                                    .inlineTable {
+                                        display: inline-block;
+                                    }</style>
+                                <style type="text/css">.CusTab {
+                                        margin-top: 1em;
+                                    }
+
+                                    .CusTab td {
+                                        padding: 6px;
+                                        height: 25px;
+                                        vertical-align: middle;
+                                        border-left: white 1px solid;
+                                        border-right: white 1pt solid;
+                                        text-align: center;
+                                        color: #474847;
+                                    }
+
+                                    .CusTab-header, .CusTab-header:hover {
+                                        background-color: #455968;
+                                        color: #FFF;
+                                    }
+
+                                    .CusTab-header td {
+                                        font-weight: bold;
+                                        color: #FFF;
+                                    }
+
+                                    .CusTab-dark, .CusTab-dark-left, .CusTab-dark td, .CusTab-dark-left td {
+                                        background-color: #ececec;
+                                    }
+
+                                    .CusTab-light, .CusTab-light-left, .CusTab-light td, .CusTab-light-left td {
+                                        background-color: #FFF;
+                                    }
+
+                                    td.CusTab-dark-left, td.CusTab-light-left {
+                                        text-align: left;
+                                    }
+
+                                    td.CusTab-tick {
+                                        color: #0070c0;
+                                    }</style>
+                                <table width="100%" cellspacing="0" cellpadding="0" border="0" class="CusTab"
+                                       style="BORDER-COLLAPSE: collapse">
+                                    <colgroup>
+                                        <col style="WIDTH: 20%"/>
+                                        <col style="WIDTH: 16%"/>
+                                        <col style="WIDTH: 16%"/>
+                                        <col style="WIDTH: 16%"/>
+                                        <col style="WIDTH: 16%"/>
+                                        <col style="WIDTH: 16%"/>
+                                    </colgroup>
+                                    <tbody>
+                                    <tr class="CusTab-header">
+                                        <td>Reparatii</td>
+                                        <td>Fiesta, Fusion</td>
+                                        <td>Focus, C-MAX</td>
+                                        <td>Mondeo, S-MAX, Galaxy, Kuga</td>
+                                        <td>Ford Transit Connect, Ford Tourneo Connect</td>
+                                        <td>Ford Transit</td>
+                                    </tr>
+                                    <tr class="CusTab-dark">
+                                        <td class="CusTab-dark-left">Schimb lichid de racire / antigel</td>
+                                        <td><span style="font-size: large">120 lei <br>             </span></td>
+                                        <td><span style="font-size: large">155 lei <br>             </span></td>
+                                        <td><span style="font-size: large">155 lei </span></td>
+                                        <td><span style="font-size: large">155 lei </span></td>
+                                        <td><span style="font-size: large">230 lei </span></td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div>&nbsp;<br> <br> <em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate in lei, contin TVA
+                                    conform legislatiei in vigoare si includ pretul manoperei. Oferta nu include componentele tehnologice.
+                                    Oferta este valabila in limita stocului disponibil si nu se aplica autovehiculelor utilitare echipate cu
+                                    jante din aliaj si/sau a celor cu roti duble spate. Aceasta oferta este supusa unor termene si conditii
+                                    si poate varia in functie de seria de sasiu. Perioada derularii acestei campanii: 8 martie 2017 - 31
+                                    septembrie 2017.</em></div>
                         </div>
                     </div>
                 </div>

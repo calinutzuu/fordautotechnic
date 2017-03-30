@@ -261,7 +261,7 @@
 <div id="top_anchor"><a name="top"></a></div>
 <!--<START_MHB001 >-->
 <div id="masthead">
-    <img src="/assets/img/service/1214556418948.jpg" border="0" alt="Fa impresie buna in vacanta"
+    <img src="/assets/img/service/1214609482525.jpg" border="0" alt="Fa impresie buna in vacanta"
          title="Fa impresie buna in vacanta" height='115' width='980'/>
 </div>
 <!--<END_MHB001 >-->
@@ -412,13 +412,14 @@
                         confortabil</font></h1></div>
             <div class="btoArticleText">
                 <div class="btoArticleAbstract">
+                    <div></div>
                 </div>
             </div>
         </div>
         <div class="center_item">
             <!-- TD No:8174 This method has been added to escape special characters
             -->
-            <img src="../../../cs/ENGInE/img/arrow_r_o_tab.gif" alt="" style="display:none">
+            <img src="/cs/ENGInE/img/arrow_r_o_tab.gif" alt="" style="display:none">
 
             <div class="btoArticleTitle"></div>
             <div class="BTIRow">
@@ -475,8 +476,8 @@
                                     td.CusTab-tick {
                                         color: #0070c0;
                                     }</style>
-                                <table width="100%" cellspacing="0" cellpadding="0" border="0" class="CusTab"
-                                       style="border-collapse: collapse">
+                                <table class="CusTab" style="border-collapse: collapse" cellspacing="0" cellpadding="0"
+                                       border="0" width="100%">
                                     <colgroup>
                                         <col style="width: 20%"/>
                                         <col style="WIDTH: 16%"/>
@@ -495,12 +496,23 @@
                                         <td>Ford Transit</td>
                                     </tr>
                                     <tr class="CusTab-dark">
-                                        <td class="CusTab-light-left">Verificare vizuala sistem AC</td>
-                                        <td><span style="font-size: large;">30 lei<br></span></td>
-                                        <td><span style="font-size: large;">30 lei<br></span></td>
-                                        <td><span style="font-size: large;">30 lei<br></span></td>
-                                        <td><span style="font-size: large;">30 lei<br></span></td>
-                                        <td><span style="font-size: large;">30 lei<br></span></td>
+                                        <td class="CusTab-light-left">Verificare vizuala sistem AC
+                                        </td>
+                                        <td><span style="font-size: large;">30 lei
+<br>
+</span></td>
+                                        <td><span style="font-size: large;">30 lei
+<br>
+</span></td>
+                                        <td><span style="font-size: large;">30 lei
+<br>
+</span></td>
+                                        <td><span style="font-size: large;">30 lei
+<br>
+</span></td>
+                                        <td><span style="font-size: large;">30 lei
+<br>
+</span></td>
                                     </tr>
                                     </tbody>
                                 </table>
@@ -515,12 +527,13 @@
                     </div>
                     <div class='BTIarticleBody'>
                         <div class='BTIarticleText'>
-                            <div><em>Toate preturile afisate in aceasta oferta sunt preturi recomandate, in lei, contin
-                                    TVA conform legislatiei in vigoare si includ pretul manoperei. Aceasta oferta: este
-                                    supusa unor termene si conditii; este valabila in limita stocului disponibil, poate
-                                    varia in functie de seria de sasiu si nu se aplica autovehiculelor utilitare
-                                    echipate cu jante din aliaj si/sau a celor cu roti duble spate. Campanie valabila
-                                    pana la data de 31 martie 2017. <br> </em></div>
+                            <div><em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate in lei, contin
+                                    TVA conform legislatiei in vigoare si includ pretul manoperei. Oferta nu include
+                                    componentele tehnologice. Oferta este valabila in limita stocului disponibil si nu
+                                    se aplica autovehiculelor utilitare echipate cu jante din aliaj si/sau a celor cu
+                                    roti duble spate. Aceasta oferta este supusa unor termene si conditii si poate varia
+                                    in functie de seria de sasiu. Perioada derularii acestei campanii: 8 martie 2017 -
+                                    31 septembrie 2017.</em></div>
                         </div>
                     </div>
                 </div>
