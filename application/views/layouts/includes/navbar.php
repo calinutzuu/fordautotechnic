@@ -41,6 +41,9 @@
     <li role="menuitem" class=""><a role="link" data-selenium="doormat_car_selection Fiesta"
                                     class="om_he_pv_np "
                                     href="/Autoturisme/Fiesta">Fiesta</a></li>
+    <li role="menuitem" class=""><a role="link" data-selenium="doormat_car_selection Fiesta"
+                                    class="om_he_pv_np "
+                                    href="/Autoturisme/noul-fiesta">NOUL FORD FIESTA</a></li>
     <li role="menuitem" class=""><a role="link" data-selenium="doormat_car_selection B-MAX"
                                     class="om_he_pv_np "
                                     href="/Autoturisme/NoulB-MAX">B-MAX</a></li>

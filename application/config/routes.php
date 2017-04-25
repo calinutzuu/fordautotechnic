@@ -101,6 +101,11 @@ $route['Autoturisme/Fiesta/Caracteristici'] = 'autoturisme/fiesta/caracteristici
 $route['Autoturisme/Fiesta/Prezentare-Generala'] = 'autoturisme/fiesta/prezentare';
 $route['Autoturisme/Fiesta'] = 'autoturisme/fiesta/index';
 
+$route['Autoturisme/noul-fiesta/gama-de-modele'] = 'autoturisme/noul_fiesta/gama_de_modele';
+$route['Autoturisme/noul-fiesta/caracteristici'] = 'autoturisme/noul_fiesta/caracteristici';
+$route['Autoturisme/noul-fiesta/design'] = 'autoturisme/noul_fiesta/design';
+$route['Autoturisme/noul-fiesta'] = 'autoturisme/noul_fiesta/index';
+
 $route['Autoturisme/Fiesta-ST'] = 'autoturisme/fiesta_st/index';
 
 $route['Autoturisme/FocusRS/Accesorii'] = 'autoturisme/focus_rs/accesorii';
