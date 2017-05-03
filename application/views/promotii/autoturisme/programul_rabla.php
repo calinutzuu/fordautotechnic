@@ -119,7 +119,7 @@
             </script>
             <div id="mdp">
                 <img
-                    src='http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214616901140&amp;blobkey=id'
+                    src='/assets/img/promotii/1214616901140.jpg'
                     alt='Redescopera placerea condusului' onclick="omnitureViewPhoto()">
             </div>
             <div class="mdp2" id="mdpImageControl">
@@ -127,7 +127,7 @@
                     <tr>
                         <td id="mdp2Fullscreen">
                             <a class="js-overlay"
-                               href='http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214616901141&amp;blobkey=id'
+                               href='/assets/img/promotii/1214616901140.jpg'
                                data-media-overlay='{"mediaType":"Image", "height":600, "width":800}'">
                             Fullscreen
                             </a>
