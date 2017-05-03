@@ -51,10 +51,9 @@
                 <br><br>
                 <article class="content-column right">
                     <div class="content centered">
-                        <div class="img-column"><a href="#" class="js-overlay"
-                                                   data-media-overlay='{"mediaType":"Image", "height":439, "width":780}'>
+                        <div class="img-column">
                                 <img src="/assets/img/1214616617939.jpg" alt="Noul Ford Kuga Oferta"/><span
-                                    class="fv-overlay-icon"></span></a></div>
+                                    class="fv-overlay-icon"></span></div>
                         <br>
                         <h3 class="bigHeading02">
                             CEL MAI NOU SUV FORD, CU O OFERTA SPECIALA!
