@@ -50,12 +50,12 @@ class Autoturisme extends CI_Controller
             ->build('promotii/autoturisme/business_weeks');
     }
 
-    public function rabla_p()
+    public function programul_rabla()
     {
         $this->template
             ->set_layout('promotii')
             ->title('Rabla', 'Ford AutoTechnic')
-            ->build('promotii/autoturisme/rabla_p');
+            ->build('promotii/autoturisme/programul_rabla');
     }
 
     public function oferta_fiesta()
@@ -66,12 +66,12 @@ class Autoturisme extends CI_Controller
             ->build('promotii/autoturisme/rabla/oferta_fiesta');
     }
 
-    public function oferta_bmax()
+    public function oferta_ka()
     {
         $this->template
             ->set_layout('promotii')
-            ->title('OfertaBMAX', 'Ford AutoTechnic')
-            ->build('promotii/autoturisme/rabla/oferta_bmax');
+            ->title('OfertaKa+', 'Ford AutoTechnic')
+            ->build('promotii/autoturisme/rabla/oferta_ka');
     }
 
     public function oferta_focus()
@@ -80,14 +80,6 @@ class Autoturisme extends CI_Controller
             ->set_layout('promotii')
             ->title('OfertaFocus', 'Ford AutoTechnic')
             ->build('promotii/autoturisme/rabla/oferta_focus');
-    }
-
-    public function oferta_mondeo()
-    {
-        $this->template
-            ->set_layout('promotii')
-            ->title('OfertaMondeo', 'Ford AutoTechnic')
-            ->build('promotii/autoturisme/rabla/oferta_mondeo');
     }
 
     public function oferta_ecosport()

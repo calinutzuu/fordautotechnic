@@ -26,177 +26,52 @@
         <section id="carouselize" class="carousel-container carousel"></section>
         <section class="mid-page-content">
             <div class="tab-content">
-                <article class="content-column left">
-                    <div class="img-column"> <img src="/assets/img/1214607506204.jpg" alt="FordFleet" /></div>
+                <article class="content-column centered ">
+                    <div class="img-column"><a href="/assets/img/1205137954524.jpg" class="js-overlay"
+                                               data-media-overlay='{"mediaType":"Image", "height":439, "width":780}'>
+                            <img src="/assets/img/1214616900879.jpg" alt="Redescopera placerea condusului"/><span
+                                class="fv-overlay-icon"></span></a></div>
                     <div class="content">
                         <h3 class="bigHeading02">
-                            Mergi mai departe cu Ford Ecobonus!
+                            PROFITA DE PROGRAMUL RABLA!
                         </h3>
+
                         <p>
-                        <p>Vrei sa schimbi masina veche? Nu mai e nevoie sa astepti programul rabla. Ford a reluat campania Ford Ecobonus si iti oferta un bonus garantat de 1.500 &euro;, la casarea masinii vechi.  <br> <br> Concret, asta inseamna:<br> -	<strong>Rata lunara de la 500 lei</strong>, prin creditul auto in lei;<br> -	<strong>Garantie extinsa</strong> 2+3 ani / 100.000 km;<br> -	Dotari suplimentare prin <strong>pachetele optionale incluse in pret</strong>. <br> <br> Oferta se cumuleaza cu celelalte promotii si oferte aflate in derulare. <br> <br> <a HREF="/Promotii/Autoturisme/Ecobonus" > Click aici pentru mai multe detalii</a></p>
+
+                        <p>Vrei sa schimbi masina veche? Profita acum de ofertele prin programul rabla si inlocuieste
+                            masina veche cu un model nou Ford.<br> <br> <a
+                                HREF="http://www.ford.ro/Promotii/Autoturisme/programul-rabla/Rezervare"><span
+                                    style="color: rgb(0, 0, 255);"><u>Afla mai multe detalii despre modelele din
+                                        campanie</u></span></a><br> Sau<br> <a
+                                HREF="/Promotii/Autoturisme/programul-rabla/Rezervare"><span
+                                    style="color: rgb(0, 0, 255);"><u>Rezerva chiar acum oferta!</u></span></a></p>
                         </p>
                     </div>
                 </article>
+                <br><br>
                 <article class="content-column right">
-                    <div class="content">
-                        <h3 class="bigHeading02">
-                        </h3>
-                        <p>
-                        <p>Te vom tine la curent cu toate noutatile legate de programul rabla si vei fi primul care afla despre lansarea oficiala si ofertele Ford!<br> <br><a HREF="/Promotii/Autoturisme/programulrabla" ><u> Inscrie-te aici</u></a></p> <div></div>
-                        </p>
-                    </div>
-                    <div class="img-column"><a href="/assets/img/1214607506561.jpg" class="js-overlay" data-media-overlay='{"mediaType":"Image", "height":439, "width":780}'> <img src="/assets/img/12146075065611.jpg" alt=" " /><span class="fv-overlay-icon"></span></a></div>
-                </article>
-                <article class="content-column left">
                     <div class="content centered">
+                        <div class="img-column"><a href="#" class="js-overlay"
+                                                   data-media-overlay='{"mediaType":"Image", "height":439, "width":780}'>
+                                <img src="/assets/img/1214616617939.jpg" alt="Noul Ford Kuga Oferta"/><span
+                                    class="fv-overlay-icon"></span></a></div>
+                        <br>
                         <h3 class="bigHeading02">
-                            CEL MAI NOU SUV FORD, CU O OFERTA SPECIALA DE LANSARE
+                            CEL MAI NOU SUV FORD, CU O OFERTA SPECIALA!
                         </h3>
 
                         <p>
 
                         <p>Gandit pentru actiune; dotat pentru confort; cu un design care impresioneaza si cu numeroase
-                            tehnologii</br>  inteligente, noul Kuga este cel mai recent Smart Utility Vehicle de la Ford. Iar
-                            cu oferta de lansare </br> ai un pret special pentru SUV-ul care iti va deschide noi posibilitati:
-                            doar 19.950 €* (TVA inclus).</p>
-
-                        <p><br> <a HREF="/Promotii/Autoturisme/NoulKUGA">
-                                <u>Click aici pentru mai multe detalii</u></a></p>
-
-                        <p></p>
+                            tehnologii inteligente, noul Kuga<br> este cel mai recent Smart Utility Vehicle de la Ford. Iar
+                            cu oferta promotionala ai un pret special pentru SUV-ul care iti va<br>deschide noi
+                            posibilitati: doar 18.000 &euro;* (TVA inclus).<br> <br> <a
+                                HREF="/Promotii/Autoturisme/NoulKUGA"><span style="color: rgb(0, 0, 255);"><u>Vezi
+                                        oferta speciala</u></span></a></p>
                         </p>
                     </div>
-                    <div class="img-column"><img src="/assets/img/1214595185257.jpg" alt="Eco Bonus"/></div>
-                    <br>
+
                 </article>
-                <article class="content-column centered">
-                    <div class="content">
-                        <h3 class="bigHeading02">
-                            Fii original si indraznet cu noul Ford KA+!
-                        </h3>
-
-                        <p>
-
-                        <p>Spatios, economic, prietenos, cu o&nbsp;manevrabilitate iesita din comun, KA+ stabileste noile standarde din clasa mica.</p>
-
-                        <p><br> <br> <a HREF="/Promotii/Autoturisme/NoulKAPlus">
-                                <u>Click aici pentru mai multe detalii</u></a></p>
-
-                        <p></p>
-                        </p>
-                    </div>
-                    <div class="img-column"><img src="/assets/img/promotii/1214602147460.jpg" alt="Eco Bonus"/></div>
-                    <br>
-                </article>
-              <!--  <article class="content-column centered">
-                    <div class="content">
-                        <h3 class="bigHeading02">
-                            Promotie pentru persoane juridice - bonus de pana la 1.000 € (TVA inclus)* in carburant!
-                        </h3>
-
-                        <p>
-
-                        <p>A venit timpul sa iti maresti parcul auto sau sa ti-l innoiesti? Acum poti beneficia de un
-                            bonus suplimentar pentru afacerea ta. <br> <br> <a
-                                HREF="/Promotii/Autoturisme/PromotieFlote"><u>Vezi detaliile promotiei</u></a></p>
-                        </p>
-                    </div>
-                    <div class="img-column">
-                            <img
-                                src="/assets/img/promotii/1214564411649.jpg"
-                                alt="Promotie Flote"/><span class="fv-overlay-icon"></span></div>
-                </article>
-                <article class="content-column centered">
-                    <div class="content">
-                        <h3 class="bigHeading02">
-                            Fii original si indraznet cu noul Ford KA+!
-                        </h3>
-
-                        <p>
-
-                        <p>Spatios, economic, prietenos, cu o manevrabilitate iesita din comun, KA+ stabileste noile
-                            standarde din clasa mica.<br>
-                            <br>
-                            <span style="color: rgb(0, 0, 255);"><u><a HREF="Autoturisme/NoulKAPlus">Click aici pentru
-                                        oferta speciala de lansare</a></u></span></p>
-                        </p>
-                    </div>
-                    <div class="img-column"><img src="/assets/img/promotii/1214563350942.jpg" alt="Noul KA Plus"/>
-                    </div>
-                    <br>
-                </article>
-                <article class="content-column centered">
-                    <div class="content">
-                        <h3 class="bigHeading02">
-                            Fa o declaratie plina de incredere cu noul Ford Edge!
-                        </h3>
-
-                        <p>
-
-                        <p>Puternic. Stilat. Cu atitudine. Acesta este noul Ford Edge &ndash; o prezenta indrazneata si
-                            impunatoare.<br> <br> <a HREF="Autoturisme/NoulFordEdge"><u>Click aici pentru oferta
-                                    speciala de lansare</u></a></p>
-                        </p>
-                    </div>
-                    <div class="img-column"><a
-                            href="../cs/ContentServer3e53.html?cid=1205110262667&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                            class="js-overlay" data-media-overlay='{"mediaType":"Image", "height":439, "width":780}'>
-                            <img src="/assets/img/promotii/1214566222749.jpg" alt="Ford Edge on the road"/><span
-                                class="fv-overlay-icon"></span></a></div>
-                </article> -->
-             <!--   <article class="content-column centered">
-                    <div class="content">
-                        <h3 class="bigHeading02">
-                            Oferte speciale prin programul rabla!
-                        </h3>
-
-                        <p>
-
-                        <p>Schimba-ti masina veche cu modelul Ford care se potriveste stilului tau de viata &ndash; acum
-                            ai preturi speciale pentru achizitia prin programul rabla.</p>
-
-                        <p><br> <br> <a HREF="Autoturisme/Rabla"> <u>Click aici pentru detalii</u></a></p>
-
-                        <p></p>
-                        </p>
-                    </div>
-                    <div class="img-column"><img src="/assets/img/promotii/1214559638548.jpg" alt="Eco Bonus"/></div>
-                </article> -->
-                <!--  <article class="content-column centered">
-                      <div class="content">
-                          <h3 class="bigHeading02">
-                              Promotie Ford Kuga
-                          </h3>
-
-                          <p>
-
-                          <p>acum te poti bucura de SUV-ul tau preferat intr-o editie speciala, </br> CU un <strong>avantaj
-                                  client de 5.500&euro;*, TVA inclus! </strong><br> <br> <a
-                                HREF="Autoturisme/KugaSummerEdition"><u>Click aici pentru detalii</u></a></p>
-                        </p>
-                    </div>
-                    <div class="img-column"><br>
-                        <img src="/assets/img/1214573743802.jpg" alt="Ford Kuga"/></div>
-                </article> -->
-            <!--    <article class="content-column centered">
-                    <div class="content">
-                        <h3 class="bigHeading02">
-                            Cand ai propria afacere, ai nevoie de parteneri pe care sa te poti baza.
-                        </h3>
-
-                        <p>
-
-                        <p>Vino la Ford Business Week si alege, din gama noastra de autoturisme,  modelul care ti se potriveste.
-                            Fie ca alegi Ford Focus, Mondeo,<br>  Vignale, Kuga sau Ford Fiesta, te sprijinim in drumul spre succes, cu
-                            beneficii de exceptie pentru afacerea ta: conditii speciale de <br> finantare  si un pachet complet de avantaje. <a
-                                HREF="/Promotii/Autoturisme/BusinessWeeks"> <br> <br><u>Click aici pentru detalii</u></a></p>
-                        </p>
-                    </div>
-                    <div class="img-column"><br>
-                        <img src="/assets/img/1214565385532.jpg" alt="Ford Kuga"/></div>
-                </article> -->
-                <br>
-
             </div>
         </section>
         <script type='text/javascript'>var OM = OM || {};

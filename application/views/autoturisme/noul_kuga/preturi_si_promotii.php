@@ -318,7 +318,7 @@
                             <div id='tab1' class="secondary-tab-content">
                                 <header class="intro-header">
                                     <h1 class="bigHeading">
-                                        CEL MAI NOU SUV FORD, CU O OFERTA SPECIALA DE LANSARE
+                                        CEL MAI NOU SUV FORD, CU O OFERTA SPECIALA!
                                     </h1>
                                     <span class="highlighter"></span>
 
@@ -328,7 +328,7 @@
                                         cu numeroase tehnologii inteligente, noul Kuga este cel mai recent Smart Utility
                                         Vehicle de la Ford. Iar cu oferta de lansare ai un pret special pentru SUV-ul
                                         care iti va deschide noi posibilitati: doar
-                                    <nobr>19.950 &euro;*</nobr>
+                                    <nobr>18.000 &euro;*</nobr>
                                     (TVA inclus).<br> <br> <a
                                         HREF="/Promotii/Autoturisme/NoulKUGA"><span
                                             style="color: rgb(0, 0, 255);"><u>Vezi oferta speciala de lansare</u></span></a></p>

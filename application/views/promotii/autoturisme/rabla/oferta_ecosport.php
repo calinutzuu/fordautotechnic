@@ -1,4 +1,3 @@
-
 <div id="top_anchor"><a name="top"></a></div>
 <!--<START_MHB001 >-->
 <div id="masthead">
@@ -21,6 +20,7 @@
 
             #wrapper #frame {
                 top: -3 px\9
+
             }
         </style>
         <div class="navmenu">
@@ -76,7 +76,7 @@
                     </script>
                 </li>
                 <li id='menu1205111254306' class=''>
-                    <a href='OfertaBMAX'/>Oferta B-MAX</a>
+                    <a href='OfertaKA'/>Oferta KA+</a>
                     <script type="text/javascript">
                         document.id('menu1205111254306').addClass("navnextSteps");
                     </script>
@@ -87,14 +87,20 @@
                         document.id('menu1205110704441').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205111255593' class=''>
-                    <a href='OfertaMondeo'/>Oferta Mondeo</a>
+
+                <li class="selected"><p>Oferta EcoSport</p></li>
+                <li id='menu1205138026342' class=''>
+                    <a href='http://www.ford.ro/Promotii/Autoturisme/programul-rabla/Rezervare'/>Rezervare</a>
                     <script type="text/javascript">
-                        document.id('menu1205111255593').addClass("navnextSteps");
+                        document.id('menu1205138026342').addClass("navnextSteps");
                     </script>
                 </li>
-                <li class="selected"><p>Oferta EcoSport</p></li>
-
+                <li id='menu1205138206134' class=''>
+                    <a href='http://www.ford.ro/Promotii/Autoturisme/programul-rabla/EcoBonus'/>EcoBonus</a>
+                    <script type="text/javascript">
+                        document.id('menu1205138206134').addClass("navnextSteps");
+                    </script>
+                </li>
             </ul>
             <div class="navbottom"></div>
         </div>
@@ -117,13 +123,13 @@
                 });
             </script>
             <div id="mdp">
-                <img src='/assets/img/promotii/1214555011374.jpg' alt='FordFleet' onclick="omnitureViewPhoto()">
+                <img src='/assets/img/promotii/1214616900308.jpg' alt='FordFleet' onclick="omnitureViewPhoto()">
             </div>
             <div class="mdp2" id="mdpImageControl">
                 <table>
                     <tr>
                         <td id="mdp2Fullscreen">
-                            <a href="/assets/img/promotii/1214555011375.jpg" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214555011375&amp;blobkey=id', 'FordFleet');
+                            <a href="/assets/img/promotii/1214616900308.jpg" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214555011375&amp;blobkey=id', 'FordFleet');
 if(typeof(sford)=='object') omnitureMDPFullScreen('1205111010986'); return false;">
                                 Fullscreen
                             </a>
@@ -161,31 +167,35 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205111010986'); return false
     </div>
     <div id="container_center">
         <div class="center_item">
-            <div class="btoArticleTitle">FORD ECOSPORT LA 12.500 €*, PRET SPECIAL PRIN PROGRAMUL RABLA!</div>
+            <div class="btoArticleTitle">RATA LUNARA DE LA 650 LEI / LUNA* PENTRU FORD ECOSPORT!</div>
             <div class="btoArticleText">
                 <div class="btoArticleAbstract">
-                    <div>A venit momentul sa iti schimbi masina cu una noua, potrivita stilului tau de viata. Iar
-                        modelul Ford Ecosport, noua reinterpretare Ford a unui SUV (Smart Utility Vehicle) poate fi
-                        alegerea perfecta atunci cand iti doresti o masina in care fiecare drum poate deveni o aventura
-                        urbana.<br> <br> Compact, spatios, robust si echipat cu tehnologii de ultima generatie, Ecosport
-                        te tine mereu in miscare, oriunde ai fi, oferindu-ti toata increderea de care ai nevoie atunci
-                        cand esti la volan. <br> <br> Iar acum te poti bucura de modelul tau preferat la un <strong>pret
-                            special, de 12.500 &euro;*</strong>, prin programul rabla, cu toate dotarile de care ai
-                        nevoie pentru a savura fiecare drum:
+                    <div>Profita acum de programul rabla – ai un pret special daca iti casezi masina veche: numai
+                        <strong>12.660€, TVA inclus,</strong> pentru Ford EcoSport, cu dotarile din <strong>pachetul
+                            Trend</strong> fara niciun cost
+                        suplimentar! Iar multumita conditiilor speciale de finantare, poti alege o <strong>rata lunara
+                            de la 650
+                            de lei</strong> – fara comision de administrare sau rate reziduale.
+                        <br><br>
+                        Daca ce iti doresti este o masina inteligenta, compacta, dar care e in acleasi timp spatioasa si
+                        bine echipata, cu o gama de tehnologii remarcabile care transforma fiecare calatorie intr-una
+                        confortabila si agreabila, economica, dar cu dotari de ultima generatie ce furnizeaza
+                        performante impresionante, atunci Ford Ecosport este pentru tine.
+                        <br><br>
+                        Printre dotarile standard din echiparea modelului Ford EcoSport se numara:
                     </div>
                     <ul class="ListM">
-                        <li>Sisteme inteligente de siguranta si stabilitate &ndash; ESP (Program Electronic de
-                            Stabilitate), HLA (Asistenta la Pornirea in Rampa), ABS (Sistem Anti-Blocare la Franare),
-                            sistem de avertizare la franarea de urgenta, sistem de monitorizare a presiunii in pneuri;
+                        <li>Sisteme de siguranta si stabilitate: ESP (Program Electronic de Stabilitate),
+                            ABS (Sistem Anti-Blocare la Franare);
                         </li>
-                        <li>Airbag-uri frontale, laterale si cortna, sofer si pasager; airbag pentru genunchi pentru
-                            sofer;
+                        <li>Airbag-uri frontale, laterale, cortina, sofer si pasager; airbag genunchi
+                            pentru sofer;
                         </li>
-                        <li>sistem Ford EasyFuel</li>
-                        <li>geamuri electrice fata cu functia &quot;One Shot Up &amp; Down&quot;;</li>
-                        <li>Sistem Ford ECOmode, cu indicator de schimbare a vitezelor.</li>
+                        <li>Lumini de zi cu tehnologie LED; Faruri de ceata;</li>
+                        <li>Volan si schimbator de viteze imbracate in piele;</li>
+                        <li>Radio CD, AUX & USB, cu conectivitate iPod, 6 difuzoare.</li>
                     </ul>
-                    <div>In plus, cu pretul special de numai 250 &euro;* pentru Pachetul Trend, beneficiezi de:</div>
+                    <div>Iar pachetul Trend, inclus si el in pretul promotional, iti aduce suplimentar:</div>
                     <ul class="ListM">
                         <li>bare pavilion cu aspect cromat;</li>
                         <li>jante aliaj 16&quot;;</li>
@@ -193,30 +203,50 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205111010986'); return false
                         <li>SYNC 1 cu Blue Tooth si Voice Control;</li>
                         <li>Sistem de Asistenta in caz de urgenta (112).</li>
                     </ul>
-                    <div><em>*12.500&euro;, pret lei, 56.250 (pret lei 56.250 la un curs cu titlu de exemplu de [4.5]
-                            RON/1 EUR )TVA inclus. Oferta supusa unor termeni si conditii; este valabila in limita
-                            stocului disponibil, la dealerii participanti in program, pentru modelul EcoSport Trend 1.5
-                            Ti- VCT 110 CP, consum mixt masurat in conformitate cu dispozitiile legale in vigoare: 6.3
-                            l/100 km, emisii CO<sub>2</sub> (g/km):149, valoare masurata in conformitate cu dispozitiile
-                            legale in vigoare. Pretul prezentat este obtinut dupa includerea atat a contravalorii
-                            subventiei in cadrul Programului de innoire a Parcului Auto National 2016 dar si
-                            contravalorii suportului acordat de Ford Romania prin programul Ford ECOBONUS si contributia
-                            dealerilor participanti la program si nu include echipamente, accesorii sau dotari
-                            optionale. Oferta realizata sub conditia aprobarii Programului de stimulare a innoirii
-                            Parcului auto national, derulat de Administratia Fondului pentru Mediu si finantat din
-                            Fondul pentru mediu, valabila incepand cu data intrării in vigoare a Ghidului de finantare
-                            PSIPAN 2016, pana la data de 30 septembrie 2016, sub rezerva acceptarii Ford Romania sau a
-                            dealerilor sai autorizati in Program si indeplinirii de catre client a tuturor conditiilor
-                            impuse de Ghidul PSIPAN 2016. <br> <br> Pentru un autoturism in valoare de 56.250 lei (cu
-                            TVA), avans 2.813 lei (minim 5%), valoarea totala a creditului va fi de 53.437 lei pe 60
-                            luni: rata anuala a dobanzii variabile 4.57% (ROBOR la 3 luni + 3.81%), comision de analiza
-                            dosar 0 lei, comision lunar de administrare credit 0 lei, valoarea ratei lunare (pentru rate
-                            egale) 997.9 lei, valoarea totala platibila 59.876 lei, DAE 4,67%. In calculul ratei lunare
-                            nu s-a inclus asigurarea optionala de viata si asigurarea CASCO. In cazul in care se opteaza
-                            pentru asigurarea (facultativa) de viata, rata lunara devine 1.075,8 lei. Oferta este supusa
-                            unor termene si conditii. Oferta se adreseaza exclusiv persoanelor fizice. Campanie
-                            realizata exclusiv prin UniCredit Consumer Financing IFN SA, valabila pana la 30 septembrie
-                            2016. </em>
+                    <div> Mai mult – in cadrul acestei promotii beneficiezi si de <strong> garantia extinsa: 2+3 ani sau
+                            100.000 km,</strong>
+                        fara costuri suplimentare!
+                    </div>
+                    <br>
+
+                    <div> Ai nevoie de mai multe informatii? Toate detaliile despre Ford Fiesta si oferta
+                        speciala iti stau la dispozitie. Ia legatura cu unul din consultantii nostrii.
+                    </div>
+                    <br>
+                    <strong>Nu vrei sa faci o achizitie prin programul rabla? In campania Ford Ecobonus gasesti promotii
+                        extrem de avantajoase. Click <a HREF="http://www.ford.ro/Promotii/Autoturisme/programul-rabla/EcoBonus"> </strong>
+                    <span style="color: rgb(0, 0, 255);"><u>aici</u></span></a>!</strong>
+<br><br>
+                    <div><em>
+                            Imaginea este cu titlu de prezentare si nu creeaza obligatii contractuale.
+
+                            Oferta financiara de prezentare contine TVA, este realizata exclusiv de UniCredit Consumer
+                            Financing si se adreseaza persoanelor fizice. Oferta financiara este aferenta modelului
+                            EcoSport Trend 1.0 EcoBoost 125CP, cutie manuala in 5 trepte, in valoare de 12.660 Euro (
+                            pret lei 56.970 lei la un curs cu titlu de exemplu de [4.5] RON/1 EUR )TVA inclus, avans
+                            23.275 lei (40,9 %), valoarea totala a creditului FORD va fi de 33.695 lei pe 60 luni: rata
+                            anuala a dobanzii 4,95% (ROBOR la 3 luni + 4,11%), comision de analiza dosar 790 lei,
+                            comision lunar de administrare credit 0 lei, valoarea ratei lunare 650 lei, valoarea totala
+                            platibila 38.999,45 lei, DAE 6,07%. In calculul ratei lunare nu s-a inclus asigurarea
+                            optionala de viata si asigurarea CASCO. Sumele prezentate anterior pot varia in functie
+                            valorii tichetului valoric rabla ulterior intrarii in vigoare a legislatiei specifice dar si
+                            de cursul de schimb RON/EUR la data tranzactiei si/sau emiterii documentatiei de finantare.
+                            Pretul modelului este obtinut dupa includerea cumulativa a: 1. contravalorii suportului flat
+                            acordat de Ford Romania; 2. contributiei dealerilor participanti la acest program; 3. O
+                            contravaloare estimata a tichetului valoric rabla de 6.500 lei, 4. contravaloarea garantiei
+                            extinse 5 ani (2+3 ani) sau 100.000km. Aceasta oferta include garantia complexa (2+3 ani de
+                            garantie conventionala) in limita a 100.000 km sau 5 ani (incluzand perioada de 2 ani de
+                            garantie legala) in functie de care dintre cele doua elemente (kilometraj sau timp) expira
+                            primul.
+
+                            Oferta nu include contravaloarea unor echipamente, accesorii sau dotari optionale, este
+                            supusa unor termene, respectiv conditii si este valabila in limita stocului de vehicule
+                            disponibil la dealerii participanti in program. Consumul mixt masurat in conformitate cu
+                            dispozitiile legale in vigoare (e.g Directiva Europeananr. 715/2007): 5.4 l /100 km, emisii
+                            CO2 (g/km): 125, valoare masurata in conformitate cu dispozitiile legale in vigoare.
+                            Detalii si explicatii suplimentare despre campanie - la dealerii autorizati Ford
+                            participanti la campanie.
+                            Oferta in limita stocului disponibil, valabila pana la 30 Iunie 2017 </em>
                         <style type="text/css">
                             .ListM li {
                                 list-style-type: disc;

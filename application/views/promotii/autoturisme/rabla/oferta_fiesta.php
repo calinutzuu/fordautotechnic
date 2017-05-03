@@ -1,4 +1,3 @@
-
 <div id="top_anchor"><a name="top"></a></div>
 <!--<START_MHB001 >-->
 <div id="masthead">
@@ -21,6 +20,7 @@
 
             #wrapper #frame {
                 top: -3 px\9
+
             }
         </style>
         <div class="navmenu">
@@ -70,31 +70,42 @@
             <div class="navdivider"></div>
             <ul id="nextSteps" class="nextSteps">
                 <li class="selected"><p>Oferta Fiesta</p></li>
-                <li id='menu1205111254306' class=''>
-                    <a href='OfertaBMAX'/>Oferta B-MAX</a>
+                <li id='menu1205138023616' class=''>
+                    <a href='/Promotii/Autoturisme/programul-rabla/OfertaKA'/>Oferta Ka+</a>
                     <script type="text/javascript">
-                        document.id('menu1205111254306').addClass("navnextSteps");
+                        document.id('menu1205138023616').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205110704441' class=''>
-                    <a href='OfertaFocus'/>Oferta Focus</a>
+                <li id='menu1205138023621' class=''>
+                    <a href='/Promotii/Autoturisme/programul-rabla/OfertaFocus'/>Oferta Focus</a>
                     <script type="text/javascript">
-                        document.id('menu1205110704441').addClass("navnextSteps");
+                        document.id('menu1205138023621').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205111255593' class=''>
-                    <a href='OfertaMondeo'/>Oferta Mondeo</a>
+                <li id='menu1205138026038' class=''>
+                    <a href='/Promotii/Autoturisme/programul-rabla/OfertaEcosport'/>Oferta EcoSport</a>
                     <script type="text/javascript">
-                        document.id('menu1205111255593').addClass("navnextSteps");
+                        document.id('menu1205138026038').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205111254474' class=''>
-                    <a href='OfertaEcoSport'/>Oferta EcoSport</a>
+                <li id='menu1205138026342' class=''>
+                    <a href='http://www.ford.ro/Promotii/Autoturisme/programul-rabla/Rezervare'/>Rezervare</a>
                     <script type="text/javascript">
-                        document.id('menu1205111254474').addClass("navnextSteps");
+                        document.id('menu1205138026342').addClass("navnextSteps");
                     </script>
                 </li>
-
+                <li id='menu1205138206134' class=''>
+                    <a href='http://www.ford.ro/Promotii/Autoturisme/programul-rabla/EcoBonus'/>EcoBonus</a>
+                    <script type="text/javascript">
+                        document.id('menu1205138206134').addClass("navnextSteps");
+                    </script>
+                </li>
+                <!--   <li id='menu1205138206134' class=''>
+                       <a href='/Promotii/Autoturisme/programul-rabla/EcoBonus'/>EcoBonus</a>
+                       <script type="text/javascript">
+                           document.id('menu1205138206134').addClass("navnextSteps");
+                       </script>
+                   </li> -->
             </ul>
             <div class="navbottom"></div>
         </div>
@@ -117,13 +128,13 @@
                 });
             </script>
             <div id="mdp">
-                <img src='/assets/img/promotii/1214553887232.jpg' alt='FordFleet' onclick="omnitureViewPhoto()">
+                <img src='/assets/img/promotii/1214616900272.jpg' alt='FordFleet' onclick="omnitureViewPhoto()">
             </div>
             <div class="mdp2" id="mdpImageControl">
                 <table>
                     <tr>
                         <td id="mdp2Fullscreen">
-                            <a href="/assets/img/promotii/1214553887233.jpg" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214553887233&amp;blobkey=id', 'FordFleet');
+                            <a href="/assets/img/promotii/1214616900272.jpg" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214553887233&amp;blobkey=id', 'FordFleet');
 if(typeof(sford)=='object') omnitureMDPFullScreen('1205111247816'); return false;">
                                 Fullscreen
                             </a>
@@ -161,22 +172,29 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205111247816'); return false
     </div>
     <div id="container_center">
         <div class="center_item">
-            <div class="btoArticleTitle">FORD FIESTA LA 9.000 €*, PRET SPECIAL PRIN PROGRAMUL RABLA!</div>
+            <div class="btoArticleTitle">DE LA DOAR 400 LEI / LUNA* PENTRU FORD FIESTA!!</div>
             <div class="btoArticleText">
                 <div class="btoArticleAbstract">
-                    <div>A venit momentul sa iti schimbi masina cu una noua, potrivita stilului tau de viata. Iar daca
-                        ceea ce cauti este un design modern si tehnologii inteligente, prietenoase cu mediul
-                        inconjurator, Ford Fiesta este modelul perfect pentru tine. <br> <br> Creat pentru a te ajuta sa
-                        profiti la maximum de orice zi, contemporan si plin de stil, Ford Fiesta va deveni partenerul
-                        tau preferat de drum.<br> <br> Iar acum te poti bucura de modelul tau preferat la un <strong>pret
-                            special, de 9.000 &euro;*</strong>, prin programul rabla, cu toate dotarile de care ai
-                        nevoie pentru a te bucura de experienta de la volan:
+                    <div>Profita acum de programul rabla – ai un <strong>pret special pentru Ford Fiesta,</strong> daca
+                        iti casezi masina
+                        veche: numai <strong>8.250€, TVA inclus,</strong> cu dotarile din <strong>pachetul
+                            Trend </strong> fara niciun cost suplimentar!
+                        Iar multumita conditiilor speciale de finantare, poti alege <strong>o rata lunara de la 400 de
+                            lei </strong>– fara
+                        comision de administrare sau rate reziduale. <br> <br> Daca iti doresti un autoturism cu stil
+                        contemporan,
+                        dinamic, modern, dotat cu tehnologii inteligente menite sa te faca sa te bucuri de timpul
+                        petrecut la volan,
+                        atunci Ford Fiesta este modelul perfect pentru tine.<br> <br> Modelul Ford Fiesta in 5 usi
+                        dispune de dotari standard printre care se numara:
+                        <br>
                     </div>
                     <ul style="list-style-type: disc;">
                         <li>Airbag-uri frontale, laterale, cortina si pentru genunchi, sofer si pasager;</li>
-                        <li>Sisteme inteligente de siguranta si stabilitate &ndash; ESP (Program Electronic de
-                            Stabilitate), HLA (Asistenta la Pornirea in Rampa), ABS (Sistem Anti-Blocare la Franare),
-                            EBD (Distributie Electronica a Fortei de Franare), EBA (Asistenta la Franarea de Urgenta);
+                        <li>Sisteme inteligente de siguranta si stabilitate – ESP (Program Electronic de Stabilitate),
+                            HLA (Asistenta la Pornirea in Rampa), ABS
+                            (Sistem Anti-Blocare la Franare), EBD (Distributie Electronica a Fortei de Franare), EBA
+                            (Asistenta la Franarea de Urgenta);
                         </li>
                         <li>Sistem Ford MyKey;</li>
                         <li>Incarcare regenerativa a bateriei;</li>
@@ -184,40 +202,52 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205111247816'); return false
                         <li>Volan si schimbator de viteze imbracat in piele;</li>
                         <li>Sistem avansat de monitorizare a presiunii in pneuri.</li>
                     </ul>
-                    <div>In plus, cu pretul special pentru Pachetul Trend - numai 150 &euro;* - beneficiezi de :</div>
+                    <div>Pachetul Trend, inclus in pret, iti aduce si mai multe dotari importante:</div>
                     <ul style="list-style-type: disc;">
-                        <li>aer conditionat manual;</li>
-                        <li>radio CD cu MP3, display monocrom 3.5&rdquo;, 6 difuzoare, USB, comenzi audio pe volan;</li>
+                        <li>Aer conditionat manual;</li>
+                        <li>Radio CD cu MP3, display monocrom 3.5”, 6 difuzoare, USB, comenzi audio pe volan;</li>
                         <li>Bluetooth<sup>&reg;</sup> Voice Control (limba engleza);</li>
                         <li>SYNC cu Applink si sistem de asistenta in caz de urgenta (112);</li>
-                        <li>faruri de ceata;</li>
-                        <li>covorase velur fata/ spate.</li>
+                        <li>Faruri de ceata;</li>
+                        <li>Covorase velur fata/ spate.</li>
                     </ul>
-                    <div><br><br> Ai nevoie de mai multe informatii? Toate detaliile despre Ford Fiesta si oferta
-                        speciala iti stau la dispozitie. Ia legatura cu unul din consultantii nostrii. </strong><br>
-                        <em><br> *9.000 euro (pret lei 40.500 la un curs cu titlu de exemplu de [4.5] RON/1 EUR )TVA
-                            inclus. Oferta supusa unor termeni si conditii; este valabila in limita stocului disponibil,
-                            la dealerii participanti in program, pentru modelul Fiesta Trend 5 usi 1.0 80 CP, consum
-                            mixt masurat in conformitate cu dispozitiile legale in vigoare: 4.6 l/100 km, emisii CO<sub>2</sub>
-                            (g/km):105, valoare masurata in conformitate cu dispozitiile legale in vigoare. Pretul
-                            prezentat este obtinut dupa includerea atat a contravalorii subventiei in cadrul Programului
-                            de innoire a Parcului Auto National 2016 dar si contravalorii suportului acordat de Ford
-                            Romania prin programul Ford ECOBONUS si contributia dealerilor participanti la program si nu
-                            include echipamente, accesorii sau dotari optionale. Oferta realizata sub conditia aprobarii
-                            Programului de stimulare a innoirii Parcului auto national, derulat de Administratia
-                            Fondului pentru Mediu si finantat din Fondul pentru mediu, valabila incepand cu data
-                            intrării in vigoare a Ghidului de finantare PSIPAN 2016, pana la data de 30 septembrie 2016,
-                            sub rezerva acceptarii Ford Romania sau a dealerilor sai autorizati in Program si
-                            indeplinirii de catre client a tuturor conditiilor impuse de Ghidul PSIPAN 2016.<br> <br>
-                            Pentru un autoturism in valoare de 40.500 lei (cu TVA), avans 2.025 lei (minim 5%), valoarea
-                            totala a creditului va fi de 38.475 lei pe 60 luni: rata anuala a dobanzii variabile 4.57%
-                            (ROBOR la 3 luni + 3.81%), comision de analiza dosar 0 lei, comision lunar de administrare
-                            credit 0 lei, valoarea ratei lunare (pentru rate egale) 718.5 lei, valoarea totala platibila
-                            43.111 lei, DAE 4,67%. In calculul ratei lunare nu s-a inclus asigurarea optionala de viata
-                            si asigurarea CASCO. In cazul in care se opteaza pentru asigurarea (facultativa) de viata,
-                            rata lunara devine 774.6 lei. Oferta este supusa unor termene si conditii. Oferta se
-                            adreseaza exclusiv persoanelor fizice. Campanie realizata exclusiv prin UniCredit Consumer
-                            Financing IFN SA, valabila pana la 30 septembrie 2016.</em></div>
+                    <div> Mai mult – in cadrul acestei promotii beneficiezi si de <strong> garantia extinsa: 2+3 ani sau
+                            100.000 km,</strong>
+                        fara costuri suplimentare!
+                    </div>
+                    <div><br> Ai nevoie de mai multe informatii? Toate detaliile despre Ford Fiesta si oferta
+                        speciala iti stau la dispozitie. Ia legatura cu unul din consultantii nostrii. </strong><br><br>
+                        <strong>Nu vrei sa faci o achizitie prin programul rabla? In campania Ford Ecobonus gasesti
+                            promotii extrem de avantajoase. Click <a
+                                HREF="/Promotii/Autoturisme/programul-rabla/EcoBonus"> </strong> <span
+                            style="color: rgb(0, 0, 255);"><u>aici</u></span></a>!</strong>
+                        <br> <em><br> Imaginea este cu titlu de prezentare si nu creeaza obligatii contractuale.<br><br>
+
+                            Oferta financiara de prezentare contine TVA, este realizata exclusiv de UniCredit Consumer
+                            Financing si se adreseaza persoanelor fizice. Ratele lunare nu contin asigurarea optionala
+                            de viata si asigurarea CASCO. Oferta financiara este aferenta modelului Fiesta Trend 5 usi
+                            1.2 82C, cutie manuala in 5 trepte, in valoare de 8.250 Euro (pret lei 37.125 lei la un curs
+                            cu titlu de exemplu de [4,5] RON/1 EUR )TVA inclus, avans 15.700 lei (42,3 %), valoarea
+                            totala a creditului FORD va fi de 21.425 lei pe 60 luni: rata anuala a dobanzii 4,95% (ROBOR
+                            la 3 luni + marja 4,11%), comision de analiza dosar 790 lei, comision lunar de administrare
+                            credit 0 lei, valoarea ratei lunare 418,8 lei, valoarea totala platibila 25.124 lei, DAE
+                            6,65 %. In calculul ratei lunare nu s-a inclus asigurarea optionala de viata si asigurarea
+                            CASCO. Sumele prezentate anterior pot varia in functie valorii tichetului valoric rabla
+                            ulterior intrarii in vigoare a legislatiei specifice, dar si de cursul de schimb RON/EUR la
+                            data tranzactiei si/sau emiterii documentatiei de finantare. Pretul modelului este obtinut
+                            dupa includerea cumulativa a: 1. contravalorii suportului flat acordat de Ford Romania; 2.
+                            contributiei dealerilor participanti la acest program; 3. O contravaloare estimata a
+                            tichetului valoric rabla de 6.500 lei; 4. contravaloarea garantiei extinse 5 ani (2+3 ani)
+                            sau 100.000 km. Aceasta oferta include garantia complexa (2+3 ani de garantie conventionala)
+                            in limita a 100.000 km sau 5 ani (incluzand perioada de 2 ani de garantie legala), in
+                            functie de care dintre cele doua elemente (kilometraj sau timp) expira primul.
+
+                            Oferta nu include contravaloarea unor echipamente, accesorii sau dotari optionale, este
+                            supusa unor termene, respectiv conditii si este valabila in limita stocului de vehicule
+                            disponibil la dealerii perticipanti in program. Consumul mixt si emisiile CO2 sunt masurate
+                            in conformitate cu dispozitiile legale in vigoare (e.g Directiva Europeana nr. 715/2007).
+                            Imaginile sunt cu titlu de prezentare. Detalii si explicatii suplimentare despre campanie -
+                            la dealerii autorizati Ford participanti la campanie.</em></div>
                 </div>
             </div>
         </div>

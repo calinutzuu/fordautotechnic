@@ -272,7 +272,7 @@
                 </header>
                 <div class="bto-body">
                     <div class="abstract">
-                        <div><strong>B-MAX Trend 1.0, EcoBoost 100 CP, la 11.200 Euro* (TVA inclus)! </strong></div>
+                        <div><strong></strong></div>
                         </br>
                         <div>Ford B-MAX a fost special conceput pentru șoferul contemporan, care profită din plin de toate posibilitățile unei vieți moderne. Cu toate că este o mașină compactă, ingeniosul sistem de acces &icirc;n habitaclu &icirc;ți oferă o deschidere de 1,5 metri către un interior spațios, rafinat și de calitate premium. <br>
                             <br>

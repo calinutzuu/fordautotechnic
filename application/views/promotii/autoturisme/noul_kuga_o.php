@@ -1,10 +1,11 @@
 <div class="mainContent">
-    <img
-        src="/assets/img/promotii/1214595185066.jpg"
-        alt="Ford Kuga"/>
+    <a href="/Autoturisme/Noul_Kuga"><img
+        src="/assets/img/promotii/1214616617745.jpg"
+        alt="Ford Kuga"/> </a>
     <img
         src="/assets/img/promotii/1214595185066_1.jpg"
         alt="Ford Kuga"/>
+
     <img
         src="/assets/img/promotii/1214595185066_2.jpg"
         alt="Ford Kuga"/>

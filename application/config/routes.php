@@ -261,6 +261,14 @@ $route['Promotii/Autoturisme/EcoBonus/OfertaEcoSport'] = 'promotii/autoturisme/o
 $route['Promotii/Autoturisme/EcoBonus/Procedura'] = 'promotii/autoturisme/procedura';
 $route['Promotii/Autoturisme/EcoBonus/WeekendulInovatiei'] = 'promotii/autoturisme/weekendul_inovatiei';
 
+$route['Promotii/Autoturisme/programul-rabla'] = 'promotii/autoturisme/programul_rabla';
+$route['Promotii/Autoturisme/programul-rabla/OfertaFiesta'] = 'promotii/autoturisme/oferta_fiesta';
+$route['Promotii/Autoturisme/programul-rabla/OfertaKA'] = 'promotii/autoturisme/oferta_ka';
+$route['Promotii/Autoturisme/programul-rabla/OfertaFocus'] = 'promotii/autoturisme/oferta_focus';
+$route['Promotii/Autoturisme/programul-rabla/OfertaEcosport'] = 'promotii/autoturisme/oferta_ecosport';
+$route['Promotii/Autoturisme/programul-rabla/Rezervare'] = 'promotii/autoturisme/rezervare';
+
+
 $route['Promotii/Autoturisme/Rabla'] = 'promotii/autoturisme/rabla_p';
 $route['Promotii/Autoturisme/Rabla/OfertaFiesta'] = 'promotii/autoturisme/oferta_fiesta';
 $route['Promotii/Autoturisme/Rabla/OfertaBMAX'] = 'promotii/autoturisme/oferta_bmax';
