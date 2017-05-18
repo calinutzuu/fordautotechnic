@@ -52,9 +52,10 @@
                 <article class="content-column right">
                     <div class="content centered">
                         <div class="img-column">
-                                <img src="/assets/img/1214616617939.jpg" alt="Noul Ford Kuga Oferta"/><span
-                                    class="fv-overlay-icon"></span></div>
+                            <img src="/assets/img/1214616617939.jpg" alt="Noul Ford Kuga Oferta"/><span
+                                class="fv-overlay-icon"></span></div>
                         <br>
+
                         <h3 class="bigHeading02">
                             CEL MAI NOU SUV FORD, CU O OFERTA SPECIALA!
                         </h3>
@@ -62,14 +63,38 @@
                         <p>
 
                         <p>Gandit pentru actiune; dotat pentru confort; cu un design care impresioneaza si cu numeroase
-                            tehnologii inteligente, noul Kuga<br> este cel mai recent Smart Utility Vehicle de la Ford. Iar
+                            tehnologii inteligente, noul Kuga<br> este cel mai recent Smart Utility Vehicle de la Ford.
+                            Iar
                             cu oferta promotionala ai un pret special pentru SUV-ul care iti va<br>deschide noi
                             posibilitati: doar 18.000 &euro;* (TVA inclus).<br> <br> <a
                                 HREF="/Promotii/Autoturisme/NoulKUGA"><span style="color: rgb(0, 0, 255);"><u>Vezi
                                         oferta speciala</u></span></a></p>
                         </p>
                     </div>
+                    <br>
+                </article>
+                <article class="content-column centered">
+                    <div class="img-column"><img src="/assets/img/1214619333771.jpg"
+                                                 alt="Ford Business Weeks Autoturisme"/><span
+                            class="fv-overlay-icon"></span></div>
+                    <div class="content centered">
+                        <h3 class="bigHeading02">
+                            BENEFICII DE EXCEPTIE PENTRU AFACEREA TA!
+                        </h3>
 
+                        <p>
+
+                        <p>Cand ai propria afacere, ai nevoie de parteneri pe care sa te poti baza.<br>
+                            <br>
+                            Vino la Ford Business Weeks si alege, din gama noastra de autoturisme, modelul care ti se
+                            potriveste. Fie ca alegi Ford Fiesta, <br> Focus, Mondeo sau Kuga, te sprijinim in drumul spre
+                            succes, cu beneficii de exceptie pentru afacerea ta: conditii speciale de <br>finantare si un
+                            pachet complet de avantaje.<br>
+                            <br>
+                            <a HREF="/Promotii/Autoturisme/BusinessWeeks"><span style="color: rgb(0, 0, 255);"><u>Vezi
+                                        detaliile promotiei</u></span> </a></p>
+                        </p>
+                    </div>
                 </article>
             </div>
         </section>
