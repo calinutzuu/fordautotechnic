@@ -290,6 +290,7 @@
             <ul id="currentContext" class="currentContext">
                 <li id='menu1205019843457' class=''>
                     <a href='/FordService/Motorcraft'>Service</a>
+
                     <div id="navsubmenu" class="navsubmenu">
                         <div class="navsubmenutop">
                         </div>
@@ -421,34 +422,34 @@
         engine.media.mdp.labelClose = 'Închide';
     </script>
 
-   <!-- <div class="mdp2Box">
-        <script type="text/javascript">
-            detectBW = false;
-            window.addEvent('domready', function () {
-                fd.doDetection();
-            });
-        </script>
+    <!-- <div class="mdp2Box">
+         <script type="text/javascript">
+             detectBW = false;
+             window.addEvent('domready', function () {
+                 fd.doDetection();
+             });
+         </script>
 
-    </div>
-    <script type="text/javascript">
-        //ENG-8108	changed the parameter of doshow function
-        // msukhia1: wrong way, right way would be to publish an event
-        // but it would reload initial flash;
-        function mdpOnLoad() {
-            engine.media.lockup.doshow('none');
-        }
-        if (window.addEventListener) {
-            window.addEventListener("load", mdpOnLoad, false);
-        } else if (window.attachEvent) {
-            window.attachEvent('onload', mdpOnLoad);
-        }
-        if (document.id('mdp') != null && typeof document.id('mdp') != 'undefined') {
-            document.id('mdp').addEvent("contextmenu", function (event) {
-                event.preventDefault();
-            });
-        }
-    </script>
-    <!--<END_MDP001>-->
+     </div>
+     <script type="text/javascript">
+         //ENG-8108	changed the parameter of doshow function
+         // msukhia1: wrong way, right way would be to publish an event
+         // but it would reload initial flash;
+         function mdpOnLoad() {
+             engine.media.lockup.doshow('none');
+         }
+         if (window.addEventListener) {
+             window.addEventListener("load", mdpOnLoad, false);
+         } else if (window.attachEvent) {
+             window.attachEvent('onload', mdpOnLoad);
+         }
+         if (document.id('mdp') != null && typeof document.id('mdp') != 'undefined') {
+             document.id('mdp').addEvent("contextmenu", function (event) {
+                 event.preventDefault();
+             });
+         }
+     </script>
+     <!--<END_MDP001>-->
 </div>
 <div id="container_center">
 <div class="center_item">
@@ -602,13 +603,16 @@
                 <div class='BTIarticleBody'>
                     <div class='BTIarticleText'>
                         <div><h2><font size="2">
-                                    Verificare vizuala sistem A/C  </font></h2> <br> <strong><span
-                                    style="color: #425968;">de la</span></strong><span style="color: rgb(0, 0, 0);"><strong> </strong></span><span
+                                    Verificare vizuala sistem A/C </font></h2> <br> <strong><span
+                                    style="color: #425968;">de la</span></strong><span
+                                style="color: rgb(0, 0, 0);"><strong> </strong></span><span
                                 style="color: rgb(0, 0, 128);"><strong><span
                                         style="font-size: x-large;">30 lei</span></strong></span><span
                                 style="color: red"><span style="color:#425968"><br> <div><strong><span
-                                                style="font-size: medium;"><br> <br> </span></strong></div> </span></span><a
-                                HREF="/FordService/Motorcraft/Reparatii/Baterie">&gt;Verificare aer conditionat</a></div>
+                                                style="font-size: medium;"><br> <br> </span></strong>
+                                    </div> </span></span><a
+                                HREF="/FordService/Motorcraft/Reparatii/Baterie">&gt;Verificare aer conditionat</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -648,8 +652,9 @@
                     <div><em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin TVA conform
                             legislatiei in vigoare. Aceasta oferta este supusa unor termene si conditii si este valabila
                             in limita stocului disponibil. Oferta poate varia in functie de seria de sasiu. Detaliile
-                            aferente ofertei sunt disponibile in paginile de promotie si in rereaua de reprezentante Ford.
-                            Perioada derularii acestei campanii: 1 martie 2017 - 31 mai 2017.  <br> </em></div>
+                            aferente ofertei sunt disponibile in paginile de promotie si in rereaua de reprezentante
+                            Ford.
+                            Perioada derularii acestei campanii: 1 martie 2017 - 31 mai 2017. <br> </em></div>
                 </div>
             </div>
         </div>
@@ -680,125 +685,125 @@
                 Foto &#38; Media
             </p>
 
-       <!--     <div class="mdc001" id="mdc1473392987473">
-                <div class="mdc001Gradient">
-                    <div class="mdc001GradientContainer">
-                        <div class="mdc001GradientPanel">
-                        </div>
-                    </div>
-                    <div class="mdc001GradientFill">
-                    </div>
-                </div>
-<!--<span class="mdc001Span">
-<a id='mdc1473392987473_1214556419718_1214556419721_1214556419720_1214556419717_1214556419719'
-   class="mdc001Selected"
-   href=""
-   onclick="engine.Publisher.publish( 'mdc001', 'SELECT_MEDIA',
-{type: 'video' , 
-id: '1214556419718_1214556419721_1214556419720_1214556419717_1214556419719', 
-caption: 'Ford Motorcraft', 
-alt: 'Ford Motorcraft', 
-zoomId: '1214556419718_1214556419721_1214556419720_1214556419717_1214556419719', 
-subst: '1214556419719'}); 
-if(typeof(sford)=='object')omnitureViewPhoto('1205117118555'); return false;"
-    >
-<!--<span class="mdc001InternalSpan">
-<img src="/assets/img/service/1214609482631.jpg"
-     alt="Ford Motorcraft" class="mdc001Img" border="0">
-</span> -->
+            <!--     <div class="mdc001" id="mdc1473392987473">
+                     <div class="mdc001Gradient">
+                         <div class="mdc001GradientContainer">
+                             <div class="mdc001GradientPanel">
+                             </div>
+                         </div>
+                         <div class="mdc001GradientFill">
+                         </div>
+                     </div>
+     <!--<span class="mdc001Span">
+     <a id='mdc1473392987473_1214556419718_1214556419721_1214556419720_1214556419717_1214556419719'
+        class="mdc001Selected"
+        href=""
+        onclick="engine.Publisher.publish( 'mdc001', 'SELECT_MEDIA',
+     {type: 'video' ,
+     id: '1214556419718_1214556419721_1214556419720_1214556419717_1214556419719',
+     caption: 'Ford Motorcraft',
+     alt: 'Ford Motorcraft',
+     zoomId: '1214556419718_1214556419721_1214556419720_1214556419717_1214556419719',
+     subst: '1214556419719'});
+     if(typeof(sford)=='object')omnitureViewPhoto('1205117118555'); return false;"
+         >
+     <!--<span class="mdc001InternalSpan">
+     <img src="/assets/img/service/1214609482631.jpg"
+          alt="Ford Motorcraft" class="mdc001Img" border="0">
+     </span> -->
 
-</a>
-</span>
-<!--<span class="mdc001Span">
-<a id='mdc1473392987473_1214516878619_1214516878622_1214516878621_1214516878618_1214516878620'
-   href=""
-   onclick="engine.Publisher.publish( 'mdc001', 'SELECT_MEDIA',
-{type: 'video' , 
-id: '1214516878619_1214516878622_1214516878621_1214516878618_1214516878620', 
-caption: 'Ford Motorcraft', 
-alt: 'Ford Motorcraft', 
-zoomId: '1214516878619_1214516878622_1214516878621_1214516878618_1214516878620', 
-subst: '1214516878620'}); 
-if(typeof(sford)=='object')omnitureViewPhoto('1205098515308'); return false;"
-    >
-<span class="mdc001InternalSpan">
-<img src="/assets/img/service/1214516878623.jpg"
-     alt="Ford Motorcraft" class="mdc001Img" border="0">
-</span>
-
-</a>
-</span>
-<span class="mdc001Span">
-<a id='mdc1473392987473_1214556419570'
-   href=""
-   onclick="engine.Publisher.publish( 'mdc001', 'SELECT_MEDIA',
-{type: 'image' , 
-id: '1214556419570', 
-caption: 'Fa impresie buna in vacanta', 
-alt: 'Fa impresie buna in vacanta', 
-zoomId: '1214556419571', 
-subst: '1214556419570'}); 
-if(typeof(sford)=='object')omnitureViewPhoto('1205116731083'); return false;"
-    >
-<span class="mdc001InternalSpan">
-<img src="/assets/img/service/1214609482631.jpg"
-     alt="Fa impresie buna in vacanta" class="mdc001Img" border="0">
-</span>
-
-</a>
-</span>  -->
-                <script type="text/javascript">
-                    if (typeof engine == 'undefined') engine = new Object();
-                    if (typeof engine.flash == 'undefined') engine.flash = new Object();
-                    // Register this mdc control (no need to escape, id has special chars)
-                    engine.media.mdc.register('mdc1473392987473');
-                </script>
-            </div>
-          <!--  <div class="mdc001Footer">
-            </div>  -->
-        </div>
-        <script>
-            var theDiv = document.getElementById("mdpImageControl");
-            if (theDiv.style.display == "none") {
-                dummyDiv.style.display = "none";
-            } else {
-                dummyDiv.style.display = "block";
-            }
-        </script>
-        <!--<END_MDC001 >-->
-    </div>
-    <!-- Technical Highlights -->
-    <!-- <Start> -->
-    <div class="right_item">
-    </div>
-    <!-- <End> -->
-    <div class="right_item">
-        <!--<START_SSP001 >-->
-        <div class="skyscraper_promo">
-            <a href='https://wwwprod-ro.engine.ford.com/SBE/OSBOV?dc=10300' target="_self">
-                <img
-                    src="/assets/img/service/1214513078990.jpg"
-                    border="0" alt="Book an Appointment" title="Book an Appointment" height='185' width='185'/>
             </a>
-        </div>
-        <!--<END_SSP001 >-->
-        <!--<START_SSP001 >-->
-        <div class="skyscraper_promo">
-            <a href='FordAsistenta12' target="_self">
-                <img
-                    src="/assets/img/service/1214544577603.jpg"
-                    border="0" alt="Asistenta Ford 12" title="Asistenta Ford 12" height='185' width='185'/>
+            </span>
+            <!--<span class="mdc001Span">
+            <a id='mdc1473392987473_1214516878619_1214516878622_1214516878621_1214516878618_1214516878620'
+               href=""
+               onclick="engine.Publisher.publish( 'mdc001', 'SELECT_MEDIA',
+            {type: 'video' ,
+            id: '1214516878619_1214516878622_1214516878621_1214516878618_1214516878620',
+            caption: 'Ford Motorcraft',
+            alt: 'Ford Motorcraft',
+            zoomId: '1214516878619_1214516878622_1214516878621_1214516878618_1214516878620',
+            subst: '1214516878620'});
+            if(typeof(sford)=='object')omnitureViewPhoto('1205098515308'); return false;"
+                >
+            <span class="mdc001InternalSpan">
+            <img src="/assets/img/service/1214516878623.jpg"
+                 alt="Ford Motorcraft" class="mdc001Img" border="0">
+            </span>
+
             </a>
+            </span>
+            <span class="mdc001Span">
+            <a id='mdc1473392987473_1214556419570'
+               href=""
+               onclick="engine.Publisher.publish( 'mdc001', 'SELECT_MEDIA',
+            {type: 'image' ,
+            id: '1214556419570',
+            caption: 'Fa impresie buna in vacanta',
+            alt: 'Fa impresie buna in vacanta',
+            zoomId: '1214556419571',
+            subst: '1214556419570'});
+            if(typeof(sford)=='object')omnitureViewPhoto('1205116731083'); return false;"
+                >
+            <span class="mdc001InternalSpan">
+            <img src="/assets/img/service/1214609482631.jpg"
+                 alt="Fa impresie buna in vacanta" class="mdc001Img" border="0">
+            </span>
+
+            </a>
+            </span>  -->
+            <script type="text/javascript">
+                if (typeof engine == 'undefined') engine = new Object();
+                if (typeof engine.flash == 'undefined') engine.flash = new Object();
+                // Register this mdc control (no need to escape, id has special chars)
+                engine.media.mdc.register('mdc1473392987473');
+            </script>
         </div>
-        <!--<END_SSP001 >-->
+        <!--  <div class="mdc001Footer">
+          </div>  -->
     </div>
+    <script>
+        var theDiv = document.getElementById("mdpImageControl");
+        if (theDiv.style.display == "none") {
+            dummyDiv.style.display = "none";
+        } else {
+            dummyDiv.style.display = "block";
+        }
+    </script>
+    <!--<END_MDC001 >-->
+</div>
+<!-- Technical Highlights -->
+<!-- <Start> -->
+<div class="right_item">
+</div>
+<!-- <End> -->
+<div class="right_item">
+    <!--<START_SSP001 >-->
+    <div class="skyscraper_promo">
+        <a href='https://wwwprod-ro.engine.ford.com/SBE/OSBOV?dc=10300' target="_self">
+            <img
+                src="/assets/img/service/1214513078990.jpg"
+                border="0" alt="Book an Appointment" title="Book an Appointment" height='185' width='185'/>
+        </a>
+    </div>
+    <!--<END_SSP001 >-->
+    <!--<START_SSP001 >-->
+    <div class="skyscraper_promo">
+        <a href='FordAsistenta12' target="_self">
+            <img
+                src="/assets/img/service/1214544577603.jpg"
+                border="0" alt="Asistenta Ford 12" title="Asistenta Ford 12" height='185' width='185'/>
+        </a>
+    </div>
+    <!--<END_SSP001 >-->
+</div>
 </div>
 </div>
 <!-- Footer -->
 <!-- <Start> -->
 </div>
 
-</div>
+
 <!-- Engine tag - loading 'Layout4_EP2::SystemFooter' -->
 <!-- Loading sitesetup -->
 <!-- 'Layout4_EP2' is calling DoubleClick from 'SystemFooter' -->
