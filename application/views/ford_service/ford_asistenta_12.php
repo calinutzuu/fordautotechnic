@@ -280,6 +280,7 @@
 
             #wrapper #frame {
                 top: -3 px\9
+
             }
         </style>
         <div class="navmenu">
@@ -460,7 +461,7 @@
             <table>
                 <tr>
                     <td id="mdp2Fullscreen">
-                        <a href="/assets/img/service/1214562926966.jpg" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214562926966&amp;blobkey=id', 'FordAsistenta+12');
+                        <a href="/assets/img/service/1214562926965.jpg" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214562926966&amp;blobkey=id', 'FordAsistenta+12');
 if(typeof(sford)=='object') omnitureMDPFullScreen('1205103334076'); return false;">
                             Fullscreen
                         </a>
@@ -676,257 +677,257 @@ return false;"
 <!-- END OF HEADER -->
 <div class="tab001_divider"></div>
 <div class="tab001_content_container">
-    <div class="tab001_content">
-        <div id="tab001-contentpane-0" class="tab001-pane-selected">
-            <div class='tab001_TabReco_ShowBTI001Collection'>
-                <div class="BTIRow">
-                    <div class="BTIOneItem">
-                        <div class="BTIImage">
-                            <div class="imgZoom">
-                                <a href="../cs/BlobServer1ace.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440982734&amp;blobkey=id"
-                                   target="_blank"
-                                   onmouseover="changeClassbyID('izid19030281205019831747','imgZoom_png_hovern')"
-                                   onmouseout="changeClassbyID('izid19030281205019831747','imgZoom_png')"
-                                   onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440982734&#38;blobkey=id','image','Ford Suport','Închide'); return false;">
-                                    <img
-                                        src="/assets/img/service/1214440982735.jpg"
-                                        border="0" width="97"
-                                        height="97"
-                                        alt="Ford Suport"
-                                        title="Ford Suport"
-                                        style="border: solid 1px #999999;">
-                                </a>
+<div class="tab001_content">
+<div id="tab001-contentpane-0" class="tab001-pane-selected">
+    <div class='tab001_TabReco_ShowBTI001Collection'>
+        <div class="BTIRow">
+            <div class="BTIOneItem">
+                <div class="BTIImage">
+                    <div class="imgZoom">
+                        <a href="../cs/BlobServer1ace.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440982734&amp;blobkey=id"
+                           target="_blank"
+                           onmouseover="changeClassbyID('izid19030281205019831747','imgZoom_png_hovern')"
+                           onmouseout="changeClassbyID('izid19030281205019831747','imgZoom_png')"
+                           onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440982734&#38;blobkey=id','image','Ford Suport','Închide'); return false;">
+                            <img
+                                src="/assets/img/service/1214440982735.jpg"
+                                border="0" width="97"
+                                height="97"
+                                alt="Ford Suport"
+                                title="Ford Suport"
+                                style="border: solid 1px #999999;">
+                        </a>
 
-                                <div>
-                                    <a href="/assets/img/service/1214440982734.jpg" target="_blank"
-                                       id="izid19030281205019831747" class="imgZoom_png" title='Zoom'
-                                       onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440982734&#38;blobkey=id','image','Ford Suport','Închide'); return false;"></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="BTIarticleTitle">
-                            FordAsistenta12 va scoate din impas
-                        </div>
-                        <div class='BTIarticleBody'>
-                            <div class='BTIarticleText'>
-                                <p>Ford Asistenta12 este un serviciu asistenta rutiera, reparare si recuperare care va
-                                    ajuta la domiciliu sau oriunde in Europa, sapte zile pe saptamana, 365 de zile pe
-                                    an.</p>
-
-                                <p>Fiecare Ford nou vine cu Asistenta Rutiera inclusa gratuit in asistenta de baza
-                                    Ford</p>
-
-                                <p>De asemenea, puteti extinde Asistenta Rutiera, odata ce garantia de baza se incheie,
-                                    apeland la unul dintre planurile noastre de garantie extinsa si asistenta
-                                    rutiera:</p>
-                                <ul>
-                                    <li>FordAsistenta12</li>
-                                    <li>FordProtect &ndash; oricare dintre planurile FordProtect includ Asistența
-                                        Rutiera
-                                    </li>
-                                </ul>
-                                <p><b>Zona de asistenţă:</b><br> Poliţa dumneavoastră permite acordarea serviciilor
-                                    complete* de asistenţă rutieră &icirc;n Rom&acirc;nia precum şi a serviciilor
-                                    primare** de asistenţă rutieră &icirc;n următoarele ţări din Europa: <br> <i>Albania,
-                                        Andorra, Austria, Belarus, Belgia. Bosnia&amp;Herţegovia, Bulgaria, Cehia,
-                                        Cipru, Croaţia, Danemarca, Elveţia, Estonia, Finlanda, Franţa, Germania,
-                                        Gibraltar, Grecia, Irlanda, Islanda, Italia, Kosovo, Letonia, Lichtenstein,
-                                        Lituania, Luxemburg, Macedonia, Malta, Marea Britanie, Moldova, Monaco,
-                                        Muntenegru, Norvegia, Olanda, Polonia, Portugalia, Rusia, San Marino, Slovacia,
-                                        Slovenia, Serbia, Spania, Suedia, Turcia, Ucraina, Ungaria, Vatican.</i></p>
-
-                                <p><em>*,** Pentru detalii descărcați de <a TITLE="FordAsistenta12 (370 KB)"
-                                                                            HREF="www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobheadervalue1=attachment%3Bfilename%3D%22FordAsistenta12.pdf%22&blobheadervalue2=abinary%3Bcharset%3DUTF-8&blobheadername1=Content-Disposition&blobheadername2=MDT-Type&blobheader=application%2Fpdf&blobwhere=1214478014007&blobkey=id"
-                                                                            CLASS="download"
-                                                                            onClick="if (typeof sford == 'object') omnitureLinkDownloadClick('owner:pdf download:service manual','','','','','pdf download','',false,'blank value','blank','blank value');">aici</a>
-                                        Termenii şi Condiţiile programului Ford<strong>Asistenţă</strong>12</em></p>
-
-                                <div></div>
-                            </div>
+                        <div>
+                            <a href="/assets/img/service/1214440982734.jpg" target="_blank"
+                               id="izid19030281205019831747" class="imgZoom_png" title='Zoom'
+                               onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440982734&#38;blobkey=id','image','Ford Suport','Închide'); return false;"></a>
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
-        <div id="tab001-contentpane-1" class="tab001-pane-unselected">
-            <div class='tab001_TabReco_ShowBTI001Collection'>
-                <div class="BTIRow">
-                    <div class="BTIOneItem">
-                        <div class="BTIImage">
-                            <div class="imgZoom">
-                                <a href="../cs/BlobServer757f.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440979910&amp;blobkey=id"
-                                   target="_blank"
-                                   onmouseover="changeClassbyID('izid37421311205019845936','imgZoom_png_hovern')"
-                                   onmouseout="changeClassbyID('izid37421311205019845936','imgZoom_png')"
-                                   onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440979910&#38;blobkey=id','image','Service si Reparatii','Închide'); return false;">
-                                    <img
-                                        src="../cs/BlobServerf1cf.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440979911&amp;blobkey=id"
-                                        border="0" width="97"
-                                        height="97"
-                                        alt="Service si Reparatii"
-                                        title="Service si Reparatii"
-                                        style="border: solid 1px #999999;">
-                                </a>
-
-                                <div>
-                                    <a href="../cs/BlobServer757f.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440979910&amp;blobkey=id"
-                                       target="_blank" id="izid37421311205019845936" class="imgZoom_png" title='Zoom'
-                                       onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440979910&#38;blobkey=id','image','Service si Reparatii','Închide'); return false;"></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="BTIarticleTitle">
-                            Detalii despre eligibilitate
-                        </div>
-                        <div class='BTIarticleBody'>
-                            <div class='BTIarticleText'>
-                                <p>Automobile de pasageri sau vehicule comerciale uşoare:<br><br>
-                                    Ford - Cougar, Escort, Fiesta, Focus, C-Max, S-Max, Fusion, Galaxy, Ka, Mondeo,
-                                    Puma, Ranger, Scorpio, Streetka, Transit, Tourneo, Kuga, Transit Connect - fără
-                                    limită de v&acirc;rstă sau kilometri, ce efectuează revizia la un reparator
-                                    autorizat Ford. Serviciul Ford Asistenţa 12 nu se poate cumula cu revizia din
-                                    campania Motorcraft.</p>
-                            </div>
-                        </div>
-                    </div>
+                <div class="BTIarticleTitle">
+                    FordAsistenta12 va scoate din impas
                 </div>
-            </div>
-        </div>
-        <div id="tab001-contentpane-2" class="tab001-pane-unselected">
-            <div class='tab001_TabReco_ShowBTI001Collection'>
-                <div class="BTIRow">
-                    <div class="BTIOneItem">
-                        <div class="BTIImage">
-                            <div class="imgZoom">
-                                <a href="../cs/BlobServer2cc8.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440982609&amp;blobkey=id"
-                                   target="_blank"
-                                   onmouseover="changeClassbyID('izid3989761205019830616','imgZoom_png_hovern')"
-                                   onmouseout="changeClassbyID('izid3989761205019830616','imgZoom_png')"
-                                   onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440982609&#38;blobkey=id','image','Calitate','Închide'); return false;">
-                                    <img
-                                        src="../cs/BlobServera281.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440982610&amp;blobkey=id"
-                                        border="0" width="97"
-                                        height="97"
-                                        alt="Calitate"
-                                        title="Calitate"
-                                        style="border: solid 1px #999999;">
-                                </a>
+                <div class='BTIarticleBody'>
+                    <div class='BTIarticleText'>
+                        <p>Ford Asistenta12 este un serviciu asistenta rutiera, reparare si recuperare care va ajuta la domiciliu sau
+                            oriunde in Europa, sapte zile pe saptamana, 365 de zile pe an.</p>
 
-                                <div>
-                                    <a href="../cs/BlobServer2cc8.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440982609&amp;blobkey=id"
-                                       target="_blank" id="izid3989761205019830616" class="imgZoom_png" title='Zoom'
-                                       onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440982609&#38;blobkey=id','image','Calitate','Închide'); return false;"></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="BTIarticleTitle">
-                            Procedura
-                        </div>
-                        <div class='BTIarticleBody'>
-                            <div class='BTIarticleText'>
-                                <p>&Icirc;n situaţiile &icirc;n care aveţi nevoie de asistenţă rutieră, contactaţi
-                                    Ford<b>Asistenţă</b>12 &icirc;n Rom&acirc;nia - <b>Tel: 021 300 1261</b> sau One
-                                    Call (+4) 0 37 37 88 000</p>
+                        <p>Fiecare Ford nou vine cu Asistenta Rutiera inclusa gratuit in asistenta de baza Ford</p>
 
-                                <p>&Icirc;nainte de apelul telefonic, pregătiţi următoarele informaţii:</p>
-                                <ul>
-                                    <li>Prenumele şi numele conducătorului auto şi al pasagerilor;</li>
-                                    <li>Numărul de &icirc;nmatriculare, marca şi numărul de identificare al vehiculului
-                                        din talon;
-                                    </li>
-                                    <li>Locul exact al evenimentului şi un număr de telefon de contact;</li>
-                                    <li>O descriere succintă a evenimentului şi a tipului de asistenţă necesar;</li>
-                                </ul>
-                            </div>
+                        <p>De asemenea, puteti extinde Asistenta Rutiera, odata ce garantia de baza se incheie, apeland la unul dintre
+                            planurile noastre de garantie extinsa si asistenta rutiera:</p>
+                        <ul>
+                            <li>FordAsistenta12</li>
+                            <li>FordProtect &ndash; oricare dintre planurile FordProtect includ Asistența Rutiera</li>
+                        </ul>
+                        <div>Planul Ford Asistenta 12 beneficiaza de un pret special in perioada 8 mai-30 iunie 2017. Pretul este
+                            disponibil in reteaua de <a TITLE="Lista dealeri Ford Asistenta 12 (182 KB)"
+                                                        HREF="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheadervalue1=attachment%3Bfilename%3D%22ListaDealeriFordAsistenta12.pdf%22&amp;blobheadervalue2=abinary%3Bcharset%3DUTF-8&amp;blobheadername1=Content-Disposition&amp;blobheadername2=MDT-Type&amp;blobheader=application%2Fpdf&amp;blobwhere=1214618617906&amp;blobkey=id"
+                                                        CLASS="download"
+                                                        onClick="if (typeof sford == 'object') omnitureLinkDownloadClick('brand:pdf download:service promotion:participating dealers','','','event:find dealer','download dealer list','pdf download','',false,'blank value','blank','blank value');">dealeri
+                                Ford participanti la campanie</a>.
                         </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div id="tab001-contentpane-3" class="tab001-pane-unselected">
-            <div class='tab001_TabReco_ShowBTI001Collection'>
-                <div class="BTIRow">
-                    <div class="BTIOneItem">
-                        <div class="BTIImage">
-                            <div class="imgZoom">
-                                <a href="../cs/BlobServer2bcc.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440980354&amp;blobkey=id"
-                                   target="_blank"
-                                   onmouseover="changeClassbyID('izid67219071205019834482','imgZoom_png_hovern')"
-                                   onmouseout="changeClassbyID('izid67219071205019834482','imgZoom_png')"
-                                   onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440980354&#38;blobkey=id','image','Cheie Ford','Închide'); return false;">
-                                    <img
-                                        src="../cs/BlobServeref79.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440980355&amp;blobkey=id"
-                                        border="0" width="97"
-                                        height="97"
-                                        alt="Cheie Ford"
-                                        title="Cheie Ford"
-                                        style="border: solid 1px #999999;">
-                                </a>
+                        <p><b>Zona de asistenţă:</b><br> Poliţa dumneavoastră permite acordarea serviciilor complete* de asistenţă
+                            rutieră &icirc;n Rom&acirc;nia precum şi a serviciilor primare** de asistenţă rutieră &icirc;n următoarele
+                            ţări din Europa: <br> <i>Albania, Andorra, Austria, Belarus, Belgia. Bosnia&amp;Herţegovia, Bulgaria, Cehia,
+                                Cipru, Croaţia, Danemarca, Elveţia, Estonia, Finlanda, Franţa, Germania, Gibraltar, Grecia, Irlanda,
+                                Islanda, Italia, Kosovo, Letonia, Lichtenstein, Lituania, Luxemburg, Macedonia, Malta, Marea Britanie,
+                                Moldova, Monaco, Muntenegru, Norvegia, Olanda, Polonia, Portugalia, Rusia, San Marino, Slovacia,
+                                Slovenia, Serbia, Spania, Suedia, Turcia, Ucraina, Ungaria, Vatican.</i></p>
 
-                                <div>
-                                    <a href="../cs/BlobServer2bcc.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440980354&amp;blobkey=id"
-                                       target="_blank" id="izid67219071205019834482" class="imgZoom_png" title='Zoom'
-                                       onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440980354&#38;blobkey=id','image','Cheie Ford','Închide'); return false;"></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="BTIarticleTitle">
-                            Distribuitori / Reparatori Ford participanţi
-                        </div>
-                        <div class='BTIarticleBody'>
-                            <div class='BTIarticleText'>
-                                <table cellspacing="0" cellpadding="0" border="0">
-                                    <tbody>
-                                    <tr>
-                                        <td>
-                                            <div>AGASTIA SERV SRL - <a HREF="../index.html">date de contact</a><br>
-                                                ALLIANCE AUTO - <a HREF="../index.html">date de contact</a><br> ATI
-                                                MOTORS HOLDING SRL - <a HREF="../index.html">date de contact</a><br>
-                                                AUTO NOVEX SRL - <a HREF="../index.html">date de contact</a><br>
-                                                AUTO-BOGY&Oacute; SRL - <a HREF="../index.html">date de contact</a><br>
-                                                AUTOHAUS WESTCAR SRL - <a HREF="../index.html">date de contact</a><br>
-                                                AUTOMAR SRL - <a HREF="../index.html">date de contact</a><br> BUSINESS
-                                                DEVELOPMENT TEAM - <a HREF="../index.html">date de contact</a><br>
-                                                CARBENTA .COM SRL - Deva - <a HREF="../index.html">date de
-                                                    contact</a><br> CARBENTA .COM SRL - Oradea - <a
-                                                    HREF="../index.html">date de contact</a><br> CENTRAL MOTORS SRL - <a
-                                                    HREF="../index.html">date de contact</a><br> COLINA MOTORS SRL -
-                                                Popesti - <a HREF="../index.html">date de contact</a><br> ESTMOTORS - <a
-                                                    HREF="../index.html">date de contact</a><br> EXPRESSLINE - <a
-                                                    HREF="../index.html">date de contact</a><br> GENERAL ELECTRONIC
-                                                SERVICE SRL - <a HREF="../index.html">date de contact</a><br> NESTE
-                                                AUTOMOTIVE SRL - <a HREF="../index.html">date de contact</a><br> PLUS
-                                                AUTO COM SRL - <a HREF="../index.html">date de contact</a><br>
-                                                PROLEASING MOTORS - Ploiesti - <a HREF="../index.html">date de
-                                                    contact</a><br> PROLEASING MOTORS SRL - Buzau - <a
-                                                    HREF="../index.html">date de contact</a><br> PROLEASING MOTORS SRL -
-                                                Tirgoviste - <a HREF="../index.html">date de contact</a><br> RMB CASA
-                                                AUTO TIMISOARA SRL - <a HREF="../index.html">date de contact</a><br> RMB
-                                                INTER-AUTO SRL - Apahida - <a HREF="../index.html">date de
-                                                    contact</a><br> RMB INTER-AUTO SRL - Cluj - <a HREF="../index.html">date
-                                                    de contact</a><br> TIRIAC AUTO SRL - Oradea - <a
-                                                    HREF="../index.html">date de contact</a><br> ROADHILL AUTOMOTIVE -
-                                                <a HREF="../index.html">date de contact</a><br> ROYAL MOTORS SRL - <a
-                                                    HREF="../index.html">date de contact</a><br> SF TEX S.A. - <a
-                                                    HREF="../index.html">date de contact</a><br> TIRIAC AUTO SRL - Bacau
-                                                - <a HREF="../index.html">date de contact</a><br> TIRIAC AUTO SRL -
-                                                Brasov - <a HREF="../index.html">date de contact</a><br> TIRIAC AUTO SRL
-                                                - Constanta - <a HREF="../index.html">date de contact</a><br> TIRIAC
-                                                AUTO SRL - Bucuresti - <a HREF="../index.html">date de contact</a><br>
-                                                TIRIAC AUTO SRL - Pitesti - <a HREF="../index.html">date de contact</a>
-                                            </div>
-                                        </td>
-                                    </tr>
-                                    </tbody>
-                                </table>
-                                <div></div>
-                            </div>
-                        </div>
+                        <p><em>*,** Pentru detalii descărcați de <a TITLE="FordAsistenta12 (81,8 KB)"
+                                                                    HREF="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheadervalue1=attachment%3Bfilename%3D%22FordAsistenta12.pdf%22&amp;blobheadervalue2=abinary%3Bcharset%3DUTF-8&amp;blobheadername1=Content-Disposition&amp;blobheadername2=MDT-Type&amp;blobheader=application%2Fpdf&amp;blobwhere=1214600454364&amp;blobkey=id"
+                                                                    CLASS="download"
+                                                                    onClick="if (typeof sford == 'object') omnitureLinkDownloadClick('brand:pdf download:service:roadside assist:terms & conditions','','','','','pdf download','',false,'blank value','blank','blank value');">aici</a>
+                                Termenii şi Condiţiile programului Ford<strong>Asistenţă</strong>12</em></p>
+
+                        <div></div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+</div>
+<div id="tab001-contentpane-1" class="tab001-pane-unselected">
+    <div class='tab001_TabReco_ShowBTI001Collection'>
+        <div class="BTIRow">
+            <div class="BTIOneItem">
+                <div class="BTIImage">
+                    <div class="imgZoom">
+                        <a href="../cs/BlobServer757f.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440979910&amp;blobkey=id"
+                           target="_blank"
+                           onmouseover="changeClassbyID('izid37421311205019845936','imgZoom_png_hovern')"
+                           onmouseout="changeClassbyID('izid37421311205019845936','imgZoom_png')"
+                           onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440979910&#38;blobkey=id','image','Service si Reparatii','Închide'); return false;">
+                            <img
+                                src="../cs/BlobServerf1cf.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440979911&amp;blobkey=id"
+                                border="0" width="97"
+                                height="97"
+                                alt="Service si Reparatii"
+                                title="Service si Reparatii"
+                                style="border: solid 1px #999999;">
+                        </a>
+
+                        <div>
+                            <a href="../cs/BlobServer757f.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440979910&amp;blobkey=id"
+                               target="_blank" id="izid37421311205019845936" class="imgZoom_png" title='Zoom'
+                               onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440979910&#38;blobkey=id','image','Service si Reparatii','Închide'); return false;"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="BTIarticleTitle">
+                    Detalii despre eligibilitate
+                </div>
+                <div class='BTIarticleBody'>
+                    <div class='BTIarticleText'>
+                        <p>Automobile de pasageri sau vehicule comerciale uşoare:<br><br>
+                            Ford - Cougar, Escort, Fiesta, Focus, C-Max, S-Max, Fusion, Galaxy, Ka, Mondeo,
+                            Puma, Ranger, Scorpio, Streetka, Transit, Tourneo, Kuga, Transit Connect - fără
+                            limită de v&acirc;rstă sau kilometri, ce efectuează revizia la un reparator
+                            autorizat Ford. Serviciul Ford Asistenţa 12 nu se poate cumula cu revizia din
+                            campania Motorcraft.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="tab001-contentpane-2" class="tab001-pane-unselected">
+    <div class='tab001_TabReco_ShowBTI001Collection'>
+        <div class="BTIRow">
+            <div class="BTIOneItem">
+                <div class="BTIImage">
+                    <div class="imgZoom">
+                        <a href="../cs/BlobServer2cc8.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440982609&amp;blobkey=id"
+                           target="_blank"
+                           onmouseover="changeClassbyID('izid3989761205019830616','imgZoom_png_hovern')"
+                           onmouseout="changeClassbyID('izid3989761205019830616','imgZoom_png')"
+                           onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440982609&#38;blobkey=id','image','Calitate','Închide'); return false;">
+                            <img
+                                src="../cs/BlobServera281.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440982610&amp;blobkey=id"
+                                border="0" width="97"
+                                height="97"
+                                alt="Calitate"
+                                title="Calitate"
+                                style="border: solid 1px #999999;">
+                        </a>
+
+                        <div>
+                            <a href="../cs/BlobServer2cc8.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440982609&amp;blobkey=id"
+                               target="_blank" id="izid3989761205019830616" class="imgZoom_png" title='Zoom'
+                               onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440982609&#38;blobkey=id','image','Calitate','Închide'); return false;"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="BTIarticleTitle">
+                    Procedura
+                </div>
+                <div class='BTIarticleBody'>
+                    <div class='BTIarticleText'>
+                        <p>&Icirc;n situaţiile &icirc;n care aveţi nevoie de asistenţă rutieră, contactaţi
+                            Ford<b>Asistenţă</b>12 &icirc;n Rom&acirc;nia - <b>Tel: 021 300 1261</b> sau One
+                            Call (+4) 0 37 37 88 000</p>
+
+                        <p>&Icirc;nainte de apelul telefonic, pregătiţi următoarele informaţii:</p>
+                        <ul>
+                            <li>Prenumele şi numele conducătorului auto şi al pasagerilor;</li>
+                            <li>Numărul de &icirc;nmatriculare, marca şi numărul de identificare al vehiculului
+                                din talon;
+                            </li>
+                            <li>Locul exact al evenimentului şi un număr de telefon de contact;</li>
+                            <li>O descriere succintă a evenimentului şi a tipului de asistenţă necesar;</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="tab001-contentpane-3" class="tab001-pane-unselected">
+    <div class='tab001_TabReco_ShowBTI001Collection'>
+        <div class="BTIRow">
+            <div class="BTIOneItem">
+                <div class="BTIImage">
+                    <div class="imgZoom">
+                        <a href="../cs/BlobServer2bcc.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440980354&amp;blobkey=id"
+                           target="_blank"
+                           onmouseover="changeClassbyID('izid67219071205019834482','imgZoom_png_hovern')"
+                           onmouseout="changeClassbyID('izid67219071205019834482','imgZoom_png')"
+                           onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440980354&#38;blobkey=id','image','Cheie Ford','Închide'); return false;">
+                            <img
+                                src="../cs/BlobServeref79.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440980355&amp;blobkey=id"
+                                border="0" width="97"
+                                height="97"
+                                alt="Cheie Ford"
+                                title="Cheie Ford"
+                                style="border: solid 1px #999999;">
+                        </a>
+
+                        <div>
+                            <a href="../cs/BlobServer2bcc.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440980354&amp;blobkey=id"
+                               target="_blank" id="izid67219071205019834482" class="imgZoom_png" title='Zoom'
+                               onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440980354&#38;blobkey=id','image','Cheie Ford','Închide'); return false;"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="BTIarticleTitle">
+                    Distribuitori / Reparatori Ford participanţi
+                </div>
+                <div class='BTIarticleBody'>
+                    <div class='BTIarticleText'>
+                        <table cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                            <tr>
+                                <td>
+                                    <div>AGASTIA SERV SRL - <a HREF="../index.html">date de contact</a><br>
+                                        ALLIANCE AUTO - <a HREF="../index.html">date de contact</a><br> ATI
+                                        MOTORS HOLDING SRL - <a HREF="../index.html">date de contact</a><br>
+                                        AUTO NOVEX SRL - <a HREF="../index.html">date de contact</a><br>
+                                        AUTO-BOGY&Oacute; SRL - <a HREF="../index.html">date de contact</a><br>
+                                        AUTOHAUS WESTCAR SRL - <a HREF="../index.html">date de contact</a><br>
+                                        AUTOMAR SRL - <a HREF="../index.html">date de contact</a><br> BUSINESS
+                                        DEVELOPMENT TEAM - <a HREF="../index.html">date de contact</a><br>
+                                        CARBENTA .COM SRL - Deva - <a HREF="../index.html">date de
+                                            contact</a><br> CARBENTA .COM SRL - Oradea - <a
+                                            HREF="../index.html">date de contact</a><br> CENTRAL MOTORS SRL - <a
+                                            HREF="../index.html">date de contact</a><br> COLINA MOTORS SRL -
+                                        Popesti - <a HREF="../index.html">date de contact</a><br> ESTMOTORS - <a
+                                            HREF="../index.html">date de contact</a><br> EXPRESSLINE - <a
+                                            HREF="../index.html">date de contact</a><br> GENERAL ELECTRONIC
+                                        SERVICE SRL - <a HREF="../index.html">date de contact</a><br> NESTE
+                                        AUTOMOTIVE SRL - <a HREF="../index.html">date de contact</a><br> PLUS
+                                        AUTO COM SRL - <a HREF="../index.html">date de contact</a><br>
+                                        PROLEASING MOTORS - Ploiesti - <a HREF="../index.html">date de
+                                            contact</a><br> PROLEASING MOTORS SRL - Buzau - <a
+                                            HREF="../index.html">date de contact</a><br> PROLEASING MOTORS SRL -
+                                        Tirgoviste - <a HREF="../index.html">date de contact</a><br> RMB CASA
+                                        AUTO TIMISOARA SRL - <a HREF="../index.html">date de contact</a><br> RMB
+                                        INTER-AUTO SRL - Apahida - <a HREF="../index.html">date de
+                                            contact</a><br> RMB INTER-AUTO SRL - Cluj - <a HREF="../index.html">date
+                                            de contact</a><br> TIRIAC AUTO SRL - Oradea - <a
+                                            HREF="../index.html">date de contact</a><br> ROADHILL AUTOMOTIVE -
+                                        <a HREF="../index.html">date de contact</a><br> ROYAL MOTORS SRL - <a
+                                            HREF="../index.html">date de contact</a><br> SF TEX S.A. - <a
+                                            HREF="../index.html">date de contact</a><br> TIRIAC AUTO SRL - Bacau
+                                        - <a HREF="../index.html">date de contact</a><br> TIRIAC AUTO SRL -
+                                        Brasov - <a HREF="../index.html">date de contact</a><br> TIRIAC AUTO SRL
+                                        - Constanta - <a HREF="../index.html">date de contact</a><br> TIRIAC
+                                        AUTO SRL - Bucuresti - <a HREF="../index.html">date de contact</a><br>
+                                        TIRIAC AUTO SRL - Pitesti - <a HREF="../index.html">date de contact</a>
+                                    </div>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                        <div></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
 </div>
 <div class="tab001_footer"><!-- CLOSES THE BOTTOM OF THE CONTENT --></div>
 </div>

@@ -259,7 +259,7 @@
 <div id="top_anchor"><a name="top"></a></div>
 <!--<START_MHB001 >-->
 <div id="masthead">
-    <img src="/assets/img/service/1214609482525.jpg" border="0" alt=" " title=" " height='115' width='980'/>
+    <img src="/assets/img/1214619474430.jpg" border="0" alt=" " title=" " height='115' width='980'/>
 </div>
 <!--<END_MHB001 >-->
 <!-- <End> -->
@@ -658,6 +658,12 @@
 </div>
 <div id="center_btt">
 </div>
+
+<div class="mid_page_promo">
+    <a href='https://wwwprod-ro.engine.ford.com/SBE/OSBOV?dc=10300' target="_self" >
+        <img src="/assets/img/1214613372064.jpg" border="0" alt="Programari service" title="Programari service"  height = '113'  width = '557' />
+    </a>
+</div>
 <!-- TD 8042 - AddThis Social Book Marking tool display Starts-->
 <!-- TD 8042 - AddThis Ends-->
 <!-- AddThis Replacement Starts-->
@@ -673,13 +679,13 @@
     <!-- <End> -->
     <div class="right_item">
         <!--<START_SSP001 >-->
-        <div class="skyscraper_promo">
+      <!--  <div class="skyscraper_promo">
             <a href='https://wwwprod-ro.engine.ford.com/SBE/OSBOV?dc=10300' target="_self">
                 <img
                     src="/assets/img/service/1214513078990.jpg"
                     border="0" alt="Book an Appointment" title="Book an Appointment" height='185' width='185'/>
             </a>
-        </div>
+        </div>  -->
         <!--<END_SSP001 >-->
         <!--<START_SSP001 >-->
         <div class="skyscraper_promo">

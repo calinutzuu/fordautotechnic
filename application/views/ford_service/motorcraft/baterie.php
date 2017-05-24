@@ -581,6 +581,11 @@
         </div>
         <div id="center_btt">
         </div>
+        <div class="mid_page_promo">
+            <a href='https://wwwprod-ro.engine.ford.com/SBE/OSBOV?dc=10300' target="_self" >
+                <img src="/assets/img/1214613372064.jpg" border="0" alt="Programari service" title="Programari service"  height = '113'  width = '557' />
+            </a>
+        </div>
         <!-- TD 8042 - AddThis Social Book Marking tool display Starts-->
         <!-- TD 8042 - AddThis Ends-->
         <!-- AddThis Replacement Starts-->
@@ -596,13 +601,13 @@
         <!-- <End> -->
         <div class="right_item">
             <!--<START_SSP001 >-->
-            <div class="skyscraper_promo">
+      <!--      <div class="skyscraper_promo">
                 <a href='/SBE/Motorcraft/OSBOV' target="_self">
                     <img
                         src="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214513078990&#38;blobkey=id"
                         border="0" alt="Book an Appointment" title="Book an Appointment" height='185' width='185'/>
                 </a>
-            </div>
+            </div> -->
             <!--<END_SSP001 >-->
             <!--<START_SSP001 >-->
             <div class="skyscraper_promo">
