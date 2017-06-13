@@ -540,7 +540,111 @@ return false;"
                             </div>
                             <div class="btoArticleText">
                                 <div class="btoArticleAbstract">
-                                    <div><style type="text/css">        .floatedTable {            float:left;        }        .inlineTable {            display: inline-block;        }</style><style type="text/css">.CusTab { margin-top: 1em; }.CusTab td { padding: 6px; height: 25px; valign: middle; border-left: white 1px solid; border-right: white 1pt solid; text-align: center; color:#474847; }.CusTab-header, .CusTab-header:hover { background-color: #455968; color: #FFF; }.CusTab-header td { font-weight: bold; color: #FFF; }.CusTab-dark, .CusTab-dark-left, .CusTab-dark td, .CusTab-dark-left td { background-color:#ececec; height: 30px;}.CusTab-light, .CusTab-light-left, .CusTab-light td, .CusTab-light-left td { background-color:#FFF; height: 30px;}td.CusTab-dark-pric, td.CusTab-light-pric {color: #425968; font-size: 20px;}td.CusTab-dark-left, td.CusTab-light-left { text-align: left; }td.CusTab-tick { color: #0070c0; }</style> Toate preturile afisate sunt preturi recomandate de v&acirc;nzare cu TVA inclus. Nu includ manopera pentru montare si echilibrare anvelope.<br> <br> <table class="floatedTable" width="100%">     <tbody>         <tr class="CusTab-header">             <td style="text-align: center;" width="25 %" valign="middle"><div>Dimensiuni</div>             <div>anvelope</div></td>             <td style="text-align: center;" width="25 %" valign="middle">Model</td>             <td style="text-align: center;" width="25 %" valign="middle">Pret</td>         </tr>         <tr>             <td class="CusTab-light" width="25 %" valign="middle">195/65 R15 91H TL PRIMA TG</td>             <td class="CusTab-light" style="text-align: center;" width="25 %" valign="middle">Motorcraft*</td>             <td class="CusTab-light-pric" style="text-align: center;" width="25 %" valign="middle"><span style="font-size: medium;">167 lei  </span></td>         </tr>         <tr tr="" class="CusTab-dark">             <td width="25 %" valign="middle">195/65 R15 91H TL G-GRIP GO</td>             <td style="text-align: center;" width="25 %" valign="middle">BFGoodrich</td>             <td class="CusTab-light-pric" style="text-align: center;" width="25 %" valign="middle"><span style="font-size: medium;">200 lei  </span></td>         </tr>         <tr tr="" class="CusTab-light">             <td width="25 %" valign="middle">195/65 R15 91H TL ENERGY SAVER+ GRNX MI</td>             <td style="text-align: center;" width="25 %" valign="middle">Michelin</td>             <td class="CusTab-light-pric" style="text-align: center;" width="25 %" valign="middle"><span style="font-size: medium;">280 lei  </span></td>         </tr>         <tr tr="" class="CusTab-dark">             <td width="25 %" valign="middle">205/55 R16 91V TL PRIMA TG</td>             <td style="text-align: center;" width="25 %" valign="middle">Motorcraft*</td>             <td class="CusTab-light-pric" style="text-align: center;" width="25 %" valign="middle"><span style="font-size: medium;">172 lei  </span></td>         </tr>         <tr tr="" class="CusTab-light">             <td width="25 %" valign="middle">205/55 R16 91V TL G-GRIP GO</td>             <td style="text-align: center;" width="25 %" valign="middle">BFGoodrich</td>             <td class="CusTab-light-pric" style="text-align: center;" width="25 %" valign="middle"><span style="font-size: medium;">243 lei  </span></td>         </tr>         <tr tr="" class="CusTab-dark">             <td width="25 %" valign="middle">205/55 R16 91V TL ENERGY SAVER+ GRNX MI</td>             <td style="text-align: center;" width="25 %" valign="middle">Michelin</td>             <td class="CusTab-light-pric" style="text-align: center;" width="25 %" valign="middle"><span style="font-size: medium;">326 lei  </span></td>         </tr>     </tbody> </table> <em>&nbsp;</em></div>
+                                    <div>
+                                        <style type="text/css">        .floatedTable {
+                                                float: left;
+                                            }
+
+                                            .inlineTable {
+                                                display: inline-block;
+                                            }</style>
+                                        <style type="text/css">.CusTab {
+                                                margin-top: 1em;
+                                            }
+
+                                            .CusTab td {
+                                                padding: 6px;
+                                                height: 25px;
+                                                valign: middle;
+                                                border-left: white 1px solid;
+                                                border-right: white 1pt solid;
+                                                text-align: center;
+                                                color: #474847;
+                                            }
+
+                                            .CusTab-header, .CusTab-header:hover {
+                                                background-color: #455968;
+                                                color: #FFF;
+                                            }
+
+                                            .CusTab-header td {
+                                                font-weight: bold;
+                                                color: #FFF;
+                                            }
+
+                                            .CusTab-dark, .CusTab-dark-left, .CusTab-dark td, .CusTab-dark-left td {
+                                                background-color: #ececec;
+                                                height: 30px;
+                                            }
+
+                                            .CusTab-light, .CusTab-light-left, .CusTab-light td, .CusTab-light-left td {
+                                                background-color: #FFF;
+                                                height: 30px;
+                                            }
+
+                                            td.CusTab-dark-pric, td.CusTab-light-pric {
+                                                color: #425968;
+                                                font-size: 20px;
+                                            }
+
+                                            td.CusTab-dark-left, td.CusTab-light-left {
+                                                text-align: left;
+                                            }
+
+                                            td.CusTab-tick {
+                                                color: #0070c0;
+                                            }</style>
+                                        Toate preturile afisate sunt preturi recomandate de v&acirc;nzare cu TVA inclus. Nu includ manopera pentru
+                                        montare si echilibrare anvelope.<br> <br>
+                                        <table class="floatedTable" width="100%">
+                                            <tbody>
+                                            <tr class="CusTab-header">
+                                                <td style="text-align: center;" valign="middle" width="25 %">
+                                                    <div>Dimensiuni</div>
+                                                    <div>anvelope</div>
+                                                </td>
+                                                <td style="text-align: center;" valign="middle" width="25 %">Model</td>
+                                                <td style="text-align: center;" valign="middle" width="25 %">Pret</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="CusTab-light" valign="middle" width="25 %">195/65 R15 91H PRIMA</td>
+                                                <td class="CusTab-light" style="text-align: center;" valign="middle" width="25 %">Motorcraft*</td>
+                                                <td class="CusTab-light-pric" style="text-align: center;" valign="middle" width="25 %"><span
+                                                        style="font-size: medium;">192 lei  </span></td>
+                                            </tr>
+                                            <tr tr="" class="CusTab-dark">
+                                                <td valign="middle" width="25 %">195/65 R15 91H TL G-GRIP GO</td>
+                                                <td style="text-align: center;" valign="middle" width="25 %">BFGoodrich</td>
+                                                <td class="CusTab-light-pric" style="text-align: center;" valign="middle" width="25 %"><span
+                                                        style="font-size: medium;">234 lei  </span></td>
+                                            </tr>
+                                            <tr tr="" class="CusTab-light">
+                                                <td valign="middle" width="25 %">195/65 R15 91H TL ENERGY SAVER+ GRNX MI</td>
+                                                <td style="text-align: center;" valign="middle" width="25 %">Michelin</td>
+                                                <td class="CusTab-light-pric" style="text-align: center;" valign="middle" width="25 %"><span
+                                                        style="font-size: medium;">311 lei  </span></td>
+                                            </tr>
+                                            <tr tr="" class="CusTab-dark">
+                                                <td valign="middle" width="25 %">205/55 R16 91V TL PRIMA TG</td>
+                                                <td style="text-align: center;" valign="middle" width="25 %">Motorcraft*</td>
+                                                <td class="CusTab-light-pric" style="text-align: center;" valign="middle" width="25 %"><span
+                                                        style="font-size: medium;">199 lei  </span></td>
+                                            </tr>
+                                            <tr tr="" class="CusTab-light">
+                                                <td valign="middle" width="25 %">205/55 R16 91V TL G-GRIP GO</td>
+                                                <td style="text-align: center;" valign="middle" width="25 %">BFGoodrich</td>
+                                                <td class="CusTab-light-pric" style="text-align: center;" valign="middle" width="25 %"><span
+                                                        style="font-size: medium;">274 lei  </span></td>
+                                            </tr>
+                                            <tr tr="" class="CusTab-dark">
+                                                <td valign="middle" width="25 %">205/55 R16 91V TL ENERGY SAVER+ GRNX MI</td>
+                                                <td style="text-align: center;" valign="middle" width="25 %">Michelin</td>
+                                                <td class="CusTab-light-pric" style="text-align: center;" valign="middle" width="25 %"><span
+                                                        style="font-size: medium;">356 lei  </span></td>
+                                            </tr>
+                                            </tbody>
+                                        </table>
+                                        <em>&nbsp;</em></div>
                                 </div>
                             </div>
                         </div>

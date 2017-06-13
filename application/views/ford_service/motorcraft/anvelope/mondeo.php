@@ -539,8 +539,97 @@ return false;"
                         <div class="tab001_TabTop_IntroText">
                             <div class="btoArticleTitle"><h2><font size="5">Ghid pentru anvelope Ford Mondeo</font></h2>
                             </div>
-                            <div class="btoArticleAbstract">
-                                <div><style type="text/css">        .floatedTable {            float:left;        }        .inlineTable {            display: inline-block;        }</style><style type="text/css">.CusTab { margin-top: 1em; }.CusTab td { padding: 6px; height: 25px; valign: middle; border-left: white 1px solid; border-right: white 1pt solid; text-align: center; color:#474847; }.CusTab-header, .CusTab-header:hover { background-color: #455968; color: #FFF; }.CusTab-header td { font-weight: bold; color: #FFF; }.CusTab-dark, .CusTab-dark-left, .CusTab-dark td, .CusTab-dark-left td { background-color:#ececec; height: 30px;}.CusTab-light, .CusTab-light-left, .CusTab-light td, .CusTab-light-left td { background-color:#FFF; height: 30px;}td.CusTab-dark-pric, td.CusTab-light-pric {color: #425968; font-size: 20px;}td.CusTab-dark-left, td.CusTab-light-left { text-align: left; }td.CusTab-tick { color: #0070c0; }</style> Toate preturile afisate sunt preturi recomandate de v&acirc;nzare cu TVA inclus. Nu includ manopera pentru montare si echilibrare anvelope.<br> <br> <table class="floatedTable" width="100%">     <tbody>         <tr class="CusTab-header">             <td style="text-align: center;" width="25 %" valign="middle"><div>Dimensiuni</div>             <div>anvelope</div></td>             <td style="text-align: center;" width="25 %" valign="middle">Model</td>             <td style="text-align: center;" width="25 %" valign="middle">Pret</td>         </tr>         <tr>             <td class="CusTab-light" width="25 %" valign="middle">215/55 R16 93V TL SYNERIS TG</td>             <td class="CusTab-light" style="text-align: center;" width="25 %" valign="middle">Motorcraft*</td>             <td style="text-align: center;" class="CusTab-light-pric" width="25 %" valign="middle"><span style="font-size: medium;">211 lei  </span></td>         </tr>         <tr class="CusTab-dark" tr="">             <td width="25 %" valign="middle">215/55 R16 93V TL G-GRIP GO</td>             <td style="text-align: center;" width="25 %" valign="middle">BFGoodrich</td>             <td style="text-align: center;" class="CusTab-light-pric" width="25 %" valign="middle"><span style="font-size: medium;">389 lei  </span></td>         </tr>         <tr class="CusTab-light" tr="">             <td width="25 %" valign="middle">215/55 R16 93V PRIMACY 3 GRNX</td>             <td style="text-align: center;" width="25 %" valign="middle">Michelin</td>             <td style="text-align: center;" class="CusTab-light-pric" width="25 %" valign="middle"><span style="font-size: medium;">568 lei  </span></td>         </tr>     </tbody> </table></div> <div><em><br> </em></div>
+                            <div class="btoArticleText">
+                                <div class="btoArticleAbstract">
+                                    <div>
+                                        <style type="text/css">        .floatedTable {
+                                                float: left;
+                                            }
+
+                                            .inlineTable {
+                                                display: inline-block;
+                                            }</style>
+                                        <style type="text/css">.CusTab {
+                                                margin-top: 1em;
+                                            }
+
+                                            .CusTab td {
+                                                padding: 6px;
+                                                height: 25px;
+                                                valign: middle;
+                                                border-left: white 1px solid;
+                                                border-right: white 1pt solid;
+                                                text-align: center;
+                                                color: #474847;
+                                            }
+
+                                            .CusTab-header, .CusTab-header:hover {
+                                                background-color: #455968;
+                                                color: #FFF;
+                                            }
+
+                                            .CusTab-header td {
+                                                font-weight: bold;
+                                                color: #FFF;
+                                            }
+
+                                            .CusTab-dark, .CusTab-dark-left, .CusTab-dark td, .CusTab-dark-left td {
+                                                background-color: #ececec;
+                                                height: 30px;
+                                            }
+
+                                            .CusTab-light, .CusTab-light-left, .CusTab-light td, .CusTab-light-left td {
+                                                background-color: #FFF;
+                                                height: 30px;
+                                            }
+
+                                            td.CusTab-dark-pric, td.CusTab-light-pric {
+                                                color: #425968;
+                                                font-size: 20px;
+                                            }
+
+                                            td.CusTab-dark-left, td.CusTab-light-left {
+                                                text-align: left;
+                                            }
+
+                                            td.CusTab-tick {
+                                                color: #0070c0;
+                                            }</style>
+                                        Toate preturile afisate sunt preturi recomandate de v&acirc;nzare cu TVA inclus. Nu includ manopera pentru
+                                        montare si echilibrare anvelope.<br> <br>
+                                        <table class="floatedTable" width="100%">
+                                            <tbody>
+                                            <tr class="CusTab-header">
+                                                <td style="text-align: center;" valign="middle" width="25 %">
+                                                    <div>Dimensiuni</div>
+                                                    <div>anvelope</div>
+                                                </td>
+                                                <td style="text-align: center;" valign="middle" width="25 %">Model</td>
+                                                <td style="text-align: center;" valign="middle" width="25 %">Pret</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="CusTab-light" valign="middle" width="25 %">215/55 R16 93V TL SYNERIS TG</td>
+                                                <td class="CusTab-light" style="text-align: center;" valign="middle" width="25 %">Motorcraft*</td>
+                                                <td style="text-align: center;" class="CusTab-light-pric" valign="middle" width="25 %"><span
+                                                        style="font-size: medium;">236 lei  </span></td>
+                                            </tr>
+                                            <tr class="CusTab-dark" tr="">
+                                                <td valign="middle" width="25 %">215/55 R16 93V TL G-GRIP GO</td>
+                                                <td style="text-align: center;" valign="middle" width="25 %">BFGoodrich</td>
+                                                <td style="text-align: center;" class="CusTab-light-pric" valign="middle" width="25 %"><span
+                                                        style="font-size: medium;">428 lei  </span></td>
+                                            </tr>
+                                            <tr class="CusTab-light" tr="">
+                                                <td valign="middle" width="25 %">215/55 R16 93V TL PRIMACY HP MO GRNX MI</td>
+                                                <td style="text-align: center;" valign="middle" width="25 %">Michelin</td>
+                                                <td style="text-align: center;" class="CusTab-light-pric" valign="middle" width="25 %"><span
+                                                        style="font-size: medium;">615 lei  </span></td>
+                                            </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                    <div><em><br> </em></div>
+                                </div>
                             </div>
                         </div>
                         <div class='tab001_TabReco_ShowBTI001Collection'>
