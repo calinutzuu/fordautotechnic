@@ -26,6 +26,24 @@
         <section id="carouselize" class="carousel-container carousel"></section>
         <section class="mid-page-content">
             <div class="tab-content">
+                <article class="content-column centered">
+                    <div class="content">
+                        <h3 class="bigHeading02">
+                            PREGATESTE-TE DE FIESTA!
+                        </h3>
+
+                        <p>
+
+                        <p>Alatura-te celor care sarbatoresc in fiecare zi placerea de a conduce!<br> <br> Vino in perioada
+                            14-16 iulie la cel mai apropiat showroom Ford, la FIESTA <strong>SOCIAL CLUB!</strong><br> <br>
+                    <span style="color: rgb(0, 0, 255); font-size: 180pt"><u><a HREF="/Promotii/Autoturisme/FiestaSocialClub"><span
+                                    style="color: rgb(0, 0, 255);">Afla mai multe</span> </a></u></span></p><br>
+                        </p>
+                    </div>
+                    <div class="img-column"><img
+                            src="/assets/img/promotii/1214625511068.jpg"
+                            alt="Fiesta Social Club"/></div>
+                </article>
                 <article class="content-column centered ">
                     <div class="img-column"><a href="/assets/img/1205137954524.jpg" class="js-overlay"
                                                data-media-overlay='{"mediaType":"Image", "height":439, "width":780}'>

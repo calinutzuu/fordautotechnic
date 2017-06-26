@@ -177,4 +177,12 @@ class Autoturisme extends CI_Controller
             ->title('Transit Promotii', 'Ford AutoTechnic')
             ->build('promotii/comerciale/transit_ok');
     }
+
+    public function fiesta_social_club()
+    {
+        $this->template
+            ->set_layout('promotii')
+            ->title('FiestaSocialClub', 'Ford AutoTechnic')
+            ->build('promotii/autoturisme/fiesta_social_club');
+    }
 }

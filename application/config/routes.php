@@ -247,6 +247,7 @@ $route['Promotii/Autoturisme/NoulFordEdge'] = 'promotii/autoturisme/noul_ford_ed
 $route['Promotii/Autoturisme/KugaSummerEdition'] = 'promotii/autoturisme/kuga_summer';
 $route['Promotii/Autoturisme/BusinessWeeks'] = 'promotii/autoturisme/business_weeks';
 $route['Promotii/Autoturisme/PromotieFlote'] = 'promotii/autoturisme/promotie_flote';
+$route['Promotii/Autoturisme/FiestaSocialClub'] = 'promotii/autoturisme/fiesta_social_club';
 
 $route['Promotii/Autoturisme/Ecobonus'] = 'promotii/autoturisme/ecobonus';
 $route['Promotii/Autoturisme/BlackFriday'] = 'promotii/autoturisme/black_friday';
