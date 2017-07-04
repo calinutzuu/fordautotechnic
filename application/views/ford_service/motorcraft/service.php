@@ -544,17 +544,13 @@ return false;"
                 <div class='BTIarticleText'>
                     <div><h2><font size="2">Ford <strong> Motorcraft </strong> Service</font></h2>
                         <ul>
-                            <li>43 de centre auto disponibile pentru verificări de siguranţă</li>
-                            <li>Schimb ulei şi filtru ulei</li>
+                            <li>43 de centre auto disponibile pentru verificari de siguranta</li>
+                            <li>Schimb ulei si filtru ulei</li>
                             <li>Schimb filtru aer</li>
-                            <li>Verificare puncte cheie şi diagnoză IDS</li>
-                            <li>Manopera inclusă</li>
+                            <li>Verificare puncte cheie si diagnoza IDS</li>
+                            <li>Manopera inclusa</li>
                         </ul>
-                                    <span
-                                        style="color: rgb(255, 0, 0);">Discount special pentru programarea online &ndash;
-                                        39 lei** reducere din pretul recomandat de vanzare pentru Ford Motorcraft Service, daca te programezi online <a
-                                            HREF="/SBE/OSBOV"><strong><span
-                                                    style="color: rgb(255, 0, 0);">aici.</span></strong></a></span> <span
+                                     <span
                             style="color: rgb(255, 0, 0);"> <a
                                 TITLE="Lista dealeri OSBOV Motorcraft (182 KB)"
                                 HREF="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheadervalue1=attachment%3Bfilename%3D%22ListaDealeriOSBOVMotorcraft.pdf%22&amp;blobheadervalue2=abinary%3Bcharset%3DUTF-8&amp;blobheadername1=Content-Disposition&amp;blobheadername2=MDT-Type&amp;blobheader=application%2Fpdf&amp;blobwhere=1214618619226&amp;blobkey=id"
@@ -586,14 +582,10 @@ return false;"
                     <h2><font size="2">Ford Motorcraft Service &ndash; pentru autoturisme</font></h2>
 
                     <div>&nbsp;</div>
-                    <div><strong><span style="color: rgb(0, 0, 0);">Doar</span> </strong><span
-                            style="color: rgb(0, 0, 128);"><strong><span
-                                    style="font-size: x-large;"><strike>319</strike> </span><span
-                                    style="color: rgb(255, 0, 0);"><span style="font-size: x-large;">280 lei**</span></span></strong></span><span
-                            style="color: red"><span
-                                style="font-size: x-large;"><strong> </strong></span></span></div>
-                    <div><br> <span style="color: red"><span style="font-size: x-large;"><strong> </strong></span></span>
-                    </div>
+                    <div><strong><span style="color: rgb(0,0,0)">Doar</span> </strong><span
+                            style="color: rgb(0,0,128)"><strong><span
+                                    style="font-size: x-large">319 lei</span></strong></span></div>
+                    <div><br></div>
                 </div>
             </div>
         </div>
@@ -618,10 +610,8 @@ return false;"
                     <h2><font size="2">Ford Motorcraft Service &ndash; pentru autoutilitare</font></h2>
 
                     <div>&nbsp;</div>
-                    <div><strong>Doar <span style="color: rgb(0, 0, 128);"><span
-                                    style="font-size: x-large;"><strike>369</strike> </span><span
-                                    style="color: rgb(255, 0, 0);"><span style="font-size: x-large;">330 lei**</span></span></span></strong>
-                    </div>
+                    <div><strong>Doar <span style="color: rgb(0,0,128)"><span
+                                    style="font-size: x-large">369 lei</span></span></strong></div>
                 </div>
             </div>
         </div>
@@ -632,15 +622,11 @@ return false;"
             </div>
             <div class='BTIarticleBody'>
                 <div class='BTIarticleText'>
-                    <div><em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate in lei,
-                            contin TVA conform legislatiei in vigoare si includ pretul manoperei. Oferta nu
-                            include componentele tehnologice. Oferta este valabila in limita stocului
-                            disponibil si nu se aplica autovehiculelor utilitare echipate cu jante din aliaj
-                            si/sau a celor cu roti duble spate. Aceasta oferta este supusa unor termene si
-                            conditii si poate varia in functie de seria de sasiu. Perioada derularii acestei
-                            campanii: 8 martie 2017 - 31 septembrie 2017.<br> ** Discountul special de 39
-                            lei de la pretul de lista este valabil exclusiv pentru programarile online, doar
-                            la dealerii participanti la program, in perioada 8 mai-30 iunie. </em></div>
+                    <div><em*Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin TVA conform
+                        legislatiei in vigoare. Aceasta oferta este supusa unor termene si conditii si este valabila in
+                        limita stocului disponibil. Oferta poate varia in functie de seria de sasiu. Detaliile aferente
+                        ofertei sunt disponibile in paginile de promotie si in rereaua de reprezentante Ford. Perioada
+                        derularii acestei campanii: 1 martie 2017 - 31 septembrie 2017. </em></div>
                 </div>
             </div>
         </div>

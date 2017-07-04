@@ -30,7 +30,7 @@
         </div>
     </div>
 </article>
-<article role="option">
+<!--   <article role="option">
     <a class="carImg" href="#img1"><img src="/assets/img/1214616900852.jpg"
                                         alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt;&lt;/span&gt;&lt;/span&gt;"
                                         role="presentation"></a>
@@ -54,7 +54,7 @@
             </div>
         </div>
     </div>
-</article>
+</article> -->
 <!--    <article role="option">
         <a class="carImg" href="#img1"><img src="/assets/img/1214607506638.jpg" alt="" role="presentation"></a>
         <div class="innerBox posBottomRight WhiteText">
@@ -87,7 +87,7 @@
             </div>
         </div>
     </article>   -->
-<article role="option">
+<!--  <article role="option">
     <a class="carImg" href="#img1"><img src="/assets/img/1214618812878.jpg"
                                         alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt;&lt;/span&gt;&lt;/span&gt;"
                                         role="presentation"></a>
@@ -112,7 +112,7 @@
         </div>
     </div>
 </article>
-<article role="option">
+  <article role="option">
     <a class="carImg" href="#img1"><img src="/assets/img/1214619333723.jpg"
                                         alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt;&lt;/span&gt;&lt;/span&gt;"
                                         role="presentation"></a>
@@ -138,7 +138,7 @@
         </div>
     </div>
 </article>
-<article role="option">
+   <article role="option">
     <a class="carImg" href="#img1"><img src="/assets/img/1214619333744.jpg"
                                         alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt;&lt;/span&gt;&lt;/span&gt;"
                                         role="presentation"></a>
@@ -162,7 +162,7 @@
             </div>
         </div>
     </div>
-</article>
+</article>   -->
 <!--    <article role="option">
         <a class="carImg" href="#img1"><img src="/assets/img/1214608948018.jpg" alt="" role="presentation"></a>
         <div class="innerBox posBottomLeft WhiteText">

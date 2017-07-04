@@ -28,7 +28,7 @@
             <div class="tab-content">
                 <article class="content-column centered">
                     <div class="content">
-                        <h3 class="bigHeading02">
+                        <h3 class="bigHeading">
                             PREGATESTE-TE DE FIESTA!
                         </h3>
 
@@ -36,7 +36,7 @@
 
                         <p>Alatura-te celor care sarbatoresc in fiecare zi placerea de a conduce!<br> <br> Vino in perioada
                             14-16 iulie la cel mai apropiat showroom Ford, la FIESTA <strong>SOCIAL CLUB!</strong><br> <br>
-                    <span style="color: rgb(0, 0, 255); font-size: 180pt"><u><a HREF="/Promotii/Autoturisme/FiestaSocialClub"><span
+                    <span style="color: rgb(0, 0, 255); font-size: 18pt"><u><a HREF="/Promotii/Autoturisme/FiestaSocialClub"><span
                                     style="color: rgb(0, 0, 255);">Afla mai multe</span> </a></u></span></p><br>
                         </p>
                     </div>
@@ -44,6 +44,9 @@
                             src="/assets/img/promotii/1214625511068.jpg"
                             alt="Fiesta Social Club"/></div>
                 </article>
+
+
+                <!--
                 <article class="content-column centered ">
                     <div class="img-column"><a href="/assets/img/1205137954524.jpg" class="js-overlay"
                                                data-media-overlay='{"mediaType":"Image", "height":439, "width":780}'>
@@ -114,8 +117,10 @@
                         </p>
                     </div>
                 </article>
+                -->
             </div>
         </section>
+        <br>
         <script type='text/javascript'>var OM = OM || {};
             //ONCLICK 1205060261500om_he_pv_tc
             OM.om_he_pv_tc = { "tag": "pv nav true choice link", "clickType": "o"};</script>

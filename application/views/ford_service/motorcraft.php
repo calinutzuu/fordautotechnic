@@ -456,21 +456,11 @@
     <div class="btoArticleTitle"><h1><font size="5">FORD <strong>MOTORCRAFT</strong> </font></h1></div>
     <div class="btoArticleText">
         <div class="btoArticleAbstract">
-            <div><strong><span style="font-size: medium;">Servicii de calitate la preturi all-inclusive pentru autovehiculele Ford cu varsta de peste 4 ani</span></strong><br>
-                <br> <span style="color: rgb(255, 0, 0);">Discount special pentru programarea online &ndash; 39 lei** reducere din pretul recomandat de vanzare pentru Ford Motorcraft Service, daca te programezi online <a
-                        HREF="https://wwwprod-ro.engine.ford.com/SBE/OSBOV?dc=10300"><u><strong><span
-                                    style="color: rgb(255, 0, 0);">aici.</span></strong></u></a><span
-                        style="color: rgb(255, 0, 0);"></span> <a
-                        TITLE="Lista dealeri OSBOV Motorcraft (182 KB)"
-                        HREF="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheadervalue1=attachment%3Bfilename%3D%22ListaDealeriOSBOVMotorcraft.pdf%22&amp;blobheadervalue2=abinary%3Bcharset%3DUTF-8&amp;blobheadername1=Content-Disposition&amp;blobheadername2=MDT-Type&amp;blobheader=application%2Fpdf&amp;blobwhere=1214618619226&amp;blobkey=id"
-                        CLASS="download"
-                        onClick="if (typeof sford == 'object') omnitureLinkDownloadClick('brand:pdf download:service promotion:participating dealers','','','event:find dealer','download dealer list','pdf download','',false,'blank value','blank','blank value');"><strong><span
-                                style="color: rgb(255, 0, 0);"></span></strong>
-                    </a></span><br> <br> De la revizie si reparatii uzuale pana la Pre-verificare I.T.P si anvelope,
-                la Ford Motorcraft 4+ vei gasi tot ce iţi trebuie. Un brand special conceput pentru modelele Ford cu
-                o vechime de minimum 4 ani, Ford Motorcraft ofera preturi clare si transparente, fara costuri
-                ascunse. Mai mult, de autoturismul tau se vor ocupa profesionistii de la Ford, ajutati de cele mai
-                noi echipamente si piese originale Ford.
+            <div><strong><span style="font-size: medium">Servicii de calitate la preturi all-inclusive pentru autovehiculele Ford cu varsta de peste 4 ani</span></strong><br><br>De
+                la revizie si reparatii uzuale pana la Pre-verificare I.T.P si anvelope, la Ford Motorcraft 4+ vei gasi tot
+                ce iţi trebuie. Un brand special conceput pentru modelele Ford cu o vechime de minimum 4 ani, Ford
+                Motorcraft ofera preturi clare si transparente, fara costuri ascunse. Mai mult, de autoturismul tau se vor
+                ocupa profesionistii de la Ford, ajutati de cele mai noi echipamente si piese originale Ford.
             </div>
         </div>
     </div>
@@ -499,11 +489,9 @@
                 </div>
                 <div class='BTIarticleBody'>
                     <div class='BTIarticleText'>
-                        <div><h2><font size="2">Ford Service</font></h2> <br> <span style="color: rgb(0, 0, 128);">&nbsp; <strong><strike><span
-                                            style="font-size: x-large;">319</span></strike></strong><strong><span
-                                        style="font-size: x-large;"> </span><span
-                                        style="color: rgb(255, 0, 0);"><span style="font-size: x-large;"><br> <br> 280 lei**</span></span></strong></span>
-                            <br> <br> <br> <br> <a HREF="Motorcraft/Service">&gt; Ford Service</a></div>
+                        <div><h2><font size="2">Ford Service</font></h2><br><span style="color: rgb(0,0,128)">&nbsp; <strong><span
+                                        style="font-size: x-large">319 lei</span></strong><strong><span style="font-size: x-large">&nbsp;</span></strong></span><br><br><br><br><a
+                                HREF="/FordService/Motorcraft/Service">&gt; Ford Service</a></div>
                     </div>
                 </div>
             </div>
@@ -526,10 +514,9 @@
                         <div><h2><font size="2">Anvelope vara</font></h2>
 
                             <div></div>
-                            <div><strong><br> de la <span style="color: rgb(0, 0, 128);"><span
-                                            style="font-size: medium;"><span
-                                                style="font-size: x-large;">143 lei</span></span></span></strong><br>
-                                <br> <br> <a HREF="/FordService/Motorcraft/Anvelope">Anvelope iarna</a></div>
+                            <div><strong><br> de la <span style="color: rgb(0, 0, 128);"><span style="font-size: medium;"><span
+                                                style="font-size: x-large;">166 lei </span></span></span></strong><br> <br> <br> <br> <a
+                                    HREF="/FordService/Motorcraft/Anvelope">&gt;Anvelope vara</a></div>
                         </div>
                     </div>
                 </div>
@@ -604,7 +591,7 @@
                     <div class='BTIarticleText'>
                         <div><h2><font size="2">
                                     Verificare vizuala sistem A/C </font></h2> <br> <strong><span
-                                    style="color: #425968;">de la</span></strong><span
+                                    style="color: #425968;"></span></strong><span
                                 style="color: rgb(0, 0, 0);"><strong> </strong></span><span
                                 style="color: rgb(0, 0, 128);"><strong><span
                                         style="font-size: x-large;">30 lei</span></strong></span><span

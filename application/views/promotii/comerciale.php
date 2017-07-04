@@ -18,86 +18,91 @@
 <div class="mainContent">
     <section id="fv-wrapper">
         <section id="carouselize" class="carousel-container carousel"></section>
-        <section class="mid-page-content">
-            <div class="tab-content">
-                <article class="content-column centered">
-                    <div class="img-column">
-                            <img
-                                src="/assets/img/1214619333854.jpg"
-                                alt="Ford Business Weeks vehiculul comercial"/><span class="fv-overlay-icon"></span>
-                    </div>
-                    <div class="content centered">
-                        <h3 class="bigHeading02">
-                            BENEFICII DE EXCEPTIE PENTRU AFACEREA TA!
-                        </h3>
-
-                        <p>
-
-                        <p>Cand ai propria afacere, ai nevoie de cele mai bune solutii.<br>
-                            <br>
-                            Te asteptam la Ford Business Weeks sa iti alegi vehiculul comercial Ford de care ai nevoie.
-                            Fie ca alegi un model Transit Van,<br> Transit Custom sau Ford Ranger, te bucuri de costuri
-                            optimizate si primesti beneficii de exceptie pentru afacerea ta: conditii<br> speciale de
-                            finantare si garantie extinsa.<br>
-                            <br>
-                            <a HREF="/Promotii/comerciale/BusinessWeeks"><span style="color: rgb(0, 0, 255);"><u>Vezi
-                                        detaliile promotiei</u></span></a></p>
-                        </p>
-                    </div>
-                </article>
-                <!--  <article class="content-column centered">
-                      <div class="img-column ">
-                          <img
-                              src="/assets/img/promotii/1214599284915.jpg"
-                              alt="Ranger"/><span class="fv-overlay-icon"></span></div>
-
-                      <div class="content">
+        <div class="img-column">
+            <img
+                src="/assets/img/promotii/nem_utilitare.jpg"
+                alt="Ford Business Weeks vehiculul comercial"/><span class="fv-overlay-icon"></span>
+        </div>
+        <!--  <section class="mid-page-content">
+              <div class="tab-content">
+                  <article class="content-column centered">
+                      <div class="img-column">
+                              <img
+                                  src="/assets/img/1214619333854.jpg"
+                                  alt="Ford Business Weeks vehiculul comercial"/><span class="fv-overlay-icon"></span>
+                      </div>
+                      <div class="content centered">
                           <h3 class="bigHeading02">
-                              NOUL FORD RANGER </br>CU DOAR 288 €* / LUNA, </br>CU PACHETUL OFF-ROAD
+                              BENEFICII DE EXCEPTIE PENTRU AFACEREA TA!
                           </h3>
 
                           <p>
 
-                          <p>Stilat, dar solid. Indraznet, dar sofisticat. Utilitar, dar remarcabil. <br> <br> Cu o
-                              reputatie solida ca pick-up-ul pentru orice destinatie si incarcatura, Ford Ranger duce,
-                              prin noua generatie, si mai departe traditia off-road, adaugand un nou nivel de comfort si
-                              functionalitate. <br> <br> Iar acum noul Ranger este disponibil in cadrul unei oferte
-                              speciale.  <br><a HREF="/Promotii/comerciale/Ranger"><u><strong> &gt; VEZI OFERTA
-                                          SPECIALA</strong></u></a></p>
-
-                          <div></div>
+                          <p>Cand ai propria afacere, ai nevoie de cele mai bune solutii.<br>
+                              <br>
+                              Te asteptam la Ford Business Weeks sa iti alegi vehiculul comercial Ford de care ai nevoie.
+                              Fie ca alegi un model Transit Van,<br> Transit Custom sau Ford Ranger, te bucuri de costuri
+                              optimizate si primesti beneficii de exceptie pentru afacerea ta: conditii<br> speciale de
+                              finantare si garantie extinsa.<br>
+                              <br>
+                              <a HREF="/Promotii/comerciale/BusinessWeeks"><span style="color: rgb(0, 0, 255);"><u>Vezi
+                                          detaliile promotiei</u></span></a></p>
                           </p>
                       </div>
                   </article>
-                  <br>       <br>       <br>
-                  <article class="content-column centered">
-                      <div class="img-column"><a
-                              href="#"
-                              class="js-overlay" data-media-overlay='{"mediaType":"Image", "height":439, "width":780}'>
-                              <img
-                                  src="/assets/img/1214608948038.jpg"
-                                  alt="Promotii Ford Transit"/><span class="fv-overlay-icon"></span></a></div>
-                      <br>
-                      <div class="content">
-                          <h3 class="bigHeading02">
-                              FORD TRANSIT: PROIECTAT PENTRU EFICIENTA.
-                          </h3>
+                    <article class="content-column centered">
+                        <div class="img-column ">
+                            <img
+                                src="/assets/img/promotii/1214599284915.jpg"
+                                alt="Ranger"/><span class="fv-overlay-icon"></span></div>
 
-                          <p>
+                        <div class="content">
+                            <h3 class="bigHeading02">
+                                NOUL FORD RANGER </br>CU DOAR 288 €* / LUNA, </br>CU PACHETUL OFF-ROAD
+                            </h3>
 
-                          <p>Garantie extinsa 2+2 ani fara limita de km si dobanda 0% prin Ford Leasing, fara costuri
-                              ascunse si cheltuieli suplimentare.<br>
-                              <br>
-                              <a HREF="/Promotii/comerciale/Transit"><strong><u> Click aici pentru mai multe detalii
-                                          despre oferta speciala! </u></strong></a></p>
-                          <br><br>
+                            <p>
 
-                          <div></div>
-                          </p>
-                      </div>
+                            <p>Stilat, dar solid. Indraznet, dar sofisticat. Utilitar, dar remarcabil. <br> <br> Cu o
+                                reputatie solida ca pick-up-ul pentru orice destinatie si incarcatura, Ford Ranger duce,
+                                prin noua generatie, si mai departe traditia off-road, adaugand un nou nivel de comfort si
+                                functionalitate. <br> <br> Iar acum noul Ranger este disponibil in cadrul unei oferte
+                                speciale.  <br><a HREF="/Promotii/comerciale/Ranger"><u><strong> &gt; VEZI OFERTA
+                                            SPECIALA</strong></u></a></p>
 
-                  </article> -->
-            </div>
+                            <div></div>
+                            </p>
+                        </div>
+                    </article>
+                    <br>       <br>       <br>
+                    <article class="content-column centered">
+                        <div class="img-column"><a
+                                href="#"
+                                class="js-overlay" data-media-overlay='{"mediaType":"Image", "height":439, "width":780}'>
+                                <img
+                                    src="/assets/img/1214608948038.jpg"
+                                    alt="Promotii Ford Transit"/><span class="fv-overlay-icon"></span></a></div>
+                        <br>
+                        <div class="content">
+                            <h3 class="bigHeading02">
+                                FORD TRANSIT: PROIECTAT PENTRU EFICIENTA.
+                            </h3>
+
+                            <p>
+
+                            <p>Garantie extinsa 2+2 ani fara limita de km si dobanda 0% prin Ford Leasing, fara costuri
+                                ascunse si cheltuieli suplimentare.<br>
+                                <br>
+                                <a HREF="/Promotii/comerciale/Transit"><strong><u> Click aici pentru mai multe detalii
+                                            despre oferta speciala! </u></strong></a></p>
+                            <br><br>
+
+                            <div></div>
+                            </p>
+                        </div>
+
+                    </article>
+            </div>-->
 
             <script type='text/javascript'>var OM = OM || {};
                 //ONCLICK 1205060261500om_he_pv_tc

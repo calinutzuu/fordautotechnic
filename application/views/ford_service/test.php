@@ -1,909 +1,289 @@
-<section id="fv-wrapper">
-<section id="carouselize" class="carousel-container carousel"></section>
-<section class="mid-page-content">
-    <div class="tab-content">
-        <article class="content-column right">
-            <div class="content">
-                <h3 class="bigHeading02">
-                    PREGATESTE-TE DE FIESTA!
-                </h3>
-
-                <p>
-
-                <p>Alatura-te celor care sarbatoresc in fiecare zi placerea de a conduce!<br> <br> Vino in perioada
-                    14-16 iulie la cel mai apropiat showroom Ford, la FIESTA <strong>SOCIAL CLUB!</strong><br> <br>
-                    <span style="color: rgb(0, 0, 255);"><u><a HREF="/Promotii/Autoturisme/FiestaSocialClub"><span
-                                    style="color: rgb(0, 0, 255);">Afla mai multe</span> </a></u></span></p>
-                </p>
-            </div>
-            <div class="img-column"><img
-                    src="/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobheader=image%2Fjpeg&blobwhere=1214625511068&blobkey=id"
-                    alt="Fiesta Social Club"/></div>
-        </article>
-        <article class="content-column left">
-            <div class="img-column"><a
-                    href="/cs/ContentServer?cid=1205137954524&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                    class="js-overlay" data-media-overlay='{"mediaType":"Image", "height":439, "width":780}'> <img
-                        src="/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobheader=image%2Fjpeg&blobwhere=1214616900879&blobkey=id"
-                        alt="Redescopera placerea condusului"/><span class="fv-overlay-icon"></span></a></div>
-            <div class="content">
-                <h3 class="bigHeading02">
-                    PROFITA DE PROGRAMUL RABLA!
-                </h3>
-
-                <p>
-
-                <p>Vrei sa schimbi masina veche? Profita acum de ofertele prin programul rabla si inlocuieste masina
-                    veche cu un model nou Ford.<br> <br> <a HREF="/Promotii/Autoturisme/programul-rabla"><span
-                            style="color: rgb(0, 0, 255);"><u>Afla mai multe detalii despre modelele din
-                                campanie</u></span></a><br> Sau<br> <a
-                        HREF="/Promotii/Autoturisme/programul-rabla/Rezervare"><span style="color: rgb(0, 0, 255);"><u>Rezerva
-                                chiar acum oferta!</u></span></a></p>
-                </p>
-            </div>
-        </article>
-        <article class="content-column right">
-            <div class="content">
-                <h3 class="bigHeading02">
-                    CEL MAI NOU SUV FORD, CU O OFERTA SPECIALA!
-                </h3>
-
-                <p>
-
-                <p>Gandit pentru actiune; dotat pentru confort; cu un design care impresioneaza si cu numeroase
-                    tehnologii inteligente, noul Kuga este cel mai recent Smart Utility Vehicle de la Ford. Iar cu
-                    oferta promotionala ai un pret special pentru SUV-ul care iti va deschide noi posibilitati: doar
-                    18.000 &euro;* (TVA inclus).<br> <br> <a HREF="/Promotii/Autoturisme/NoulKUGA"><span
-                            style="color: rgb(0, 0, 255);"><u>Vezi oferta speciala</u></span></a></p>
-                </p>
-            </div>
-            <div class="img-column"><a
-                    href="/cs/ContentServer?cid=1205132051463&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                    class="js-overlay" data-media-overlay='{"mediaType":"Image", "height":439, "width":780}'> <img
-                        src="/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobheader=image%2Fjpeg&blobwhere=1214616617939&blobkey=id"
-                        alt="Noul Ford Kuga Oferta"/><span class="fv-overlay-icon"></span></a></div>
-        </article>
-        <article class="content-column left">
-            <div class="img-column"><a
-                    href="/cs/ContentServer?cid=1205141040577&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                    class="js-overlay" data-media-overlay='{"mediaType":"Image", "height":439, "width":780}'> <img
-                        src="/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobheader=image%2Fjpeg&blobwhere=1214619333771&blobkey=id"
-                        alt="Ford Business Weeks Autoturisme"/><span class="fv-overlay-icon"></span></a></div>
-            <div class="content">
-                <h3 class="bigHeading02">
-                    BENEFICII DE EXCEPTIE PENTRU AFACEREA TA!
-                </h3>
-
-                <p>
-
-                <p>Cand ai propria afacere, ai nevoie de parteneri pe care sa te poti baza.<br>
-                    <br>
-                    Vino la Ford Business Weeks si alege, din gama noastra de autoturisme, modelul care ti se
-                    potriveste. Fie ca alegi Ford Fiesta, Focus, Mondeo sau Kuga, te sprijinim in drumul spre succes, cu
-                    beneficii de exceptie pentru afacerea ta: conditii speciale de finantare si un pachet complet de
-                    avantaje.<br>
-                    <br>
-                    <a HREF="/Promotii/Autoturisme/BusinessWeeks"><span style="color: rgb(0, 0, 255);"><u>Vezi detaliile
-                                promotiei</u></span> </a></p>
-                </p>
-            </div>
-        </article>
+<div class="BTIarticleTitle">
+</div>
+<div class='BTIarticleBody'>
+    <div class='BTIarticleText'>
+        <div><h2><font size="2">Ford <strong>Motorcraft </strong>Service</font></h2>
+            <ul>
+                <li>43 de centre auto disponibile pentru verificări de siguranţă</li>
+                <li>Schimb ulei şi filtru ulei</li>
+                <li>Schimb filtru aer</li>
+                <li>Verificare puncte cheie şi diagnoză IDS</li>
+                <li>Manopera inclusă</li>
+            </ul>
+        </div>
     </div>
-</section>
-<script type='text/javascript'>var OM = OM || {};
-    //ONCLICK 1205060261500om_he_pv_tc
-    OM.om_he_pv_tc = { "tag": "pv nav true choice link", "clickType": "o"};</script>
-<!-- OMNITURE ME -->
-<script type="text/javascript"
-        src="/cs/ContentServer?cid=1204986890525&#38;pagename=ENGInE%2Ftagging%2FOmnitureScript"></script>
-<script type="text/javascript">var sford = new Object;
-    sford.tabName = '';
-    sford.pageName = 'brand:promotions:car:overview';
-    sford.dlwasSent = false;
-    sford.eVar11 = 'brand:promotions:car:overview';
-    sford.hier1 = 'shopping tools:promotions';
-    sford.tagViewPhoto = '';
-    sford.tagHighlights = '';
-    sford.tagDownload = '';
-    s.pageName = 'brand:promotions:car:overview';
-    s.hier1 = 'shopping tools:promotions';
-    s.channel = 'promotions';
-    s.eVar4 = 'rum';
-    s.prop4 = 'rum';
-    s.eVar11 = 'brand:promotions:car:overview';
-    s.prop11 = 'brand:promotions:car:overview';
-    s.eVar14 = 'ford-ro';
-    s.prop14 = 'ford-ro';
-    s.eVar15 = 'ford-brand';
-    s.prop15 = 'ford-brand';</script>
-<script type="text/javascript">
-// <![CDATA[
-var __dOC = false;
-<
-/div>
-< div
-class
-= 'tab001_TabReco_ShowBTI001Collection' >
-    < div
-class
-= "BTIRow" >
-    < div
-class
-= "BTIOneItem" >
-    < div
-class
-= "BTIarticleTitle" >
-    < /div>
-    < div
-class
-= 'BTIarticleBody' >
-    < div
-class
-= 'BTIarticleText' >
-    < div > < em >
-*
-Toate
-preturile
-afisate in aceasta
-oferta
-sunt
-preturi
-recomandate
-si
-contin
-TVA
-conform
-legislatiei in vigoare.Pretul
-nu
-include
-montajul, echilibrarea
-si
-sistemul
-de
-monitorizare
-a
-presiunii in anvelope.Anvelopele
-Motorcraft
-sunt
-marca
-Tigar.Aceasta
-oferta: este
-supusa
-unor
-termene
-si
-conditii;
-este
-valabila in limita
-stocului
-disponibil
-si
-poate
-varia in
-functie
-de
-seria
-de
-sasiu.Perioada
-derularii
-acestei
-campanii: 8
-martie
-2017 - 31
-septembrie
-2017. < /em></
-div >
-    < /div>
-    < /div>
-    < /div>
-    < /div>
-    < /div>
-    < /div>
-< div
-id = "tab001-contentpane-1"
-class
-= "tab001-pane-unselected" >
-    < div
-class
-= "tab001_TabTop_IntroText" >
-    < div
-class
-= "btoArticleTitle" > Alegerea
-anvelopelor, a
-mărcii
-şi
-a
-preţului < /div>
-< div
-class
-= "btoArticleText" >
-    < div
-class
-= "btoArticleAbstract" >
-    < div > Pentru
-a - ti
-facilita
-alegerea, am
-inclus in oferta
-produse
-care
-se
-incadreaza in trei
-categorii
-de
-pret: anvelope
-premium, marca
-Michelin;
-anvelope
-de
-calitate, marca
-BF
-Goodrich, precum
-si
-anvelope
-de
-buget, marca
-motorcraft(Tigar). < br >
-    < ul >
-    < li > Toate
-preţurile
-recomandate
-de
-v & acirc;
-nzare
-includ
-TVA. < /li>
-    < li > & Icirc;
-n
-plus, toate
-anvelopele
-sosesc & icirc;
-nsoţite
-de
-un
-control
-de
-siguranţă
-al
-tuturor
-elementelor(standard).
-    < /li>
-    < li > Toate
-operaţiunile
-sunt
-executate
-de
-tehnicieni
-instruiţi
-de
-Ford. < /li>
-    < /ul>
-    < /div>
-    < /div>
-    < /div>
-    < /div>
-    < /div>
-    < /div>
-    < /div>
-< div
-class
-= "tab001_footer" ><!-- CLOSES THE BOTTOM OF THE CONTENT --> < /div>
-    < /div>
-    < /div>
-    < div
-class
-= "center_item" >
-    < /div>
-    < div
-class
-= "center_item" >
+</div>
+</div>
+</div>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIImage">
+            <div class="imgNonZoom">
+                <img
+                    src="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214513078495&#38;blobkey=id"
+                    border="0" width="97"
+                    height="97"
+                    alt="Ford Car Service"
+                    title="Ford Car Service"
+                    style="border: solid 1px #999999;">
+            </div>
+        </div>
+        <div class="BTIarticleTitle">
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                <h2><font size="2">Ford Motorcraft Service &ndash; pentru autoturisme</font></h2>
+
+                <div>&nbsp;</div>
+                <div><strong><span style="color: rgb(0,0,0)">Doar</span> </strong><span
+                        style="color: rgb(0,0,128)"><strong><span
+                                style="font-size: x-large">319 lei</span></strong></span></div>
+                <div><br></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIImage">
+            <div class="imgNonZoom">
+                <img
+                    src="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214565085109&#38;blobkey=id"
+                    border="0" width="97"
+                    height="97"
+                    alt="Ford Commercial Vehicle Service"
+                    title="Ford Commercial Vehicle Service"
+                    style="border: solid 1px #999999;">
+            </div>
+        </div>
+        <div class="BTIarticleTitle">
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                <h2><font size="2">Ford Motorcraft Service &ndash; pentru autoutilitare</font></h2>
+
+                <div>&nbsp;</div>
+                <div><strong>Doar <span style="color: rgb(0,0,128)"><span
+                                style="font-size: x-large">369 lei</span></span></strong></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIarticleTitle">
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                <div><em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin TVA conform
+                        legislatiei in vigoare. Aceasta oferta este supusa unor termene si conditii si este valabila in
+                        limita stocului disponibil. Oferta poate varia in functie de seria de sasiu. Detaliile aferente
+                        ofertei sunt disponibile in paginile de promotie si in rereaua de reprezentante Ford. Perioada
+                        derularii acestei campanii: 1 martie 2017 - 31 septembrie 2017. </em></div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+</div>
+<div id="tab001-contentpane-1" class="tab001-pane-unselected">
+    <div class="tab001_TabTop_IntroText">
+        <div class="btoArticleTitle">Ford Motorcraft Service – ce include</div>
+        <div class="btoArticleText">
+            <div class="btoArticleAbstract">
+                <div><br> <br>
+                    <style type="text/css">.CusTab {
+                            margin-top: 1em;
+                        }
+
+                        .CusTab td {
+                            padding: 6px;
+                            height: 25px;
+                            vertical-align: middle;
+                            border-left: white 1px solid;
+                            border-right: white 1pt solid;
+                            text-align: center;
+                            color: #474847;
+                        }
+
+                        .CusTab-header, .CusTab-header:hover {
+                            background-color: #455968;
+                            color: #FFF;
+                        }
+
+                        .CusTab-header td {
+                            font-weight: bold;
+                            color: #FFF;
+                        }
+
+                        .CusTab-dark, .CusTab-dark-left, .CusTab-dark td, .CusTab-dark-left td {
+                            background-color: #ececec;
+                        }
+
+                        .CusTab-light, .CusTab-light-left, .CusTab-light td, .CusTab-light-left td {
+                            background-color: #FFF;
+                        }
+
+                        td.CusTab-dark-left, td.CusTab-light-left {
+                            text-align: left;
+                        }
+
+                        td.CusTab-tick {
+                            color: #474847;
+                        }</style>
+                </div>
+                <div>
+                    <table width="100%" cellspacing="0" cellpadding="0" border="0" class="CusTab">
+                        <colgroup>
+                            <col width="60%"/>
+                            <col width="70%"/>
+                        </colgroup>
+                        <tbody>
+                        <tr class="CusTab-header">
+                            <td style="text-align: left;">Receptie</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr class="CusTab-light">
+                            <td class="CusTab-light-left">Indicatori sistem iluminare şi claxon</td>
+                            <td class="CusTab-tick">Verificare</td>
+                        </tr>
+                        <tr class="CusTab-dark">
+                            <td class="CusTab-dark-left">Ambreiaj</td>
+                            <td class="CusTab-tick">Verificare</td>
+                        </tr>
+                        <tr class="CusTab-light">
+                            <td class="CusTab-light-left">Sistem &icirc;ncălzire, ventilator răcire motor</td>
+                            <td class="CusTab-tick">Verificare</td>
+                        </tr>
+                        <tr class="CusTab-dark">
+                            <td class="CusTab-dark-left">Stare lamele ştergătoare și sistem de spălare parbriz</td>
+                            <td class="CusTab-tick">Verificare</td>
+                        </tr>
+                        <tr class="CusTab-light">
+                            <td class="CusTab-light-left">Parbriz</td>
+                            <td class="CusTab-tick">Verificare</td>
+                        </tr>
+                        <tr class="CusTab-dark">
+                            <td class="CusTab-dark-left">Lumini exterioare şi martori din bord</td>
+                            <td class="CusTab-tick">Verificare</td>
+                        </tr>
+                        <tr class="CusTab-light">
+                            <td class="CusTab-light-left">Fr&acirc;nă de m&acirc;nă</td>
+                            <td class="CusTab-tick">Verificare / ajustare, c&acirc;nd (dacă) se impune</td>
+                        </tr>
+                        <tr class="CusTab-dark">
+                            <td class="CusTab-dark-left">Centură de siguranţă</td>
+                            <td class="CusTab-tick">Verificare</td>
+                        </tr>
+                        <tr class="CusTab-header">
+                            <td style="text-align: left;">&Icirc;n interiorul vehiculului</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr class="CusTab-light">
+                            <td class="CusTab-light-left">Filtru polen</td>
+                            <td class="CusTab-tick">Verificare. &Icirc;nlocuirea filtrului de polen, este o operaţiune
+                                optională, aceasta implic&acirc;nd un cost suplimentar
+                            </td>
+                        </tr>
+                        <tr class="CusTab-header">
+                            <td style="text-align: left;">Sub vehicul</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr class="CusTab-dark">
+                            <td class="CusTab-dark-left">Motor</td>
+                            <td class="CusTab-tick">&Icirc;nlocuire ulei motor şi filtru ulei. &Icirc;nlocuirea
+                                garniturilor (dacă operaţiunea se impune)
+                            </td>
+                        </tr>
+                        <tr class="CusTab-light">
+                            <td class="CusTab-light-left">Motor, transmisie şi punte spate</td>
+                            <td class="CusTab-tick">Verificare vizuală pentru eventuale defecte și scurgeri (acolo unde
+                                acestea sunt vizibile)
+                            </td>
+                        </tr>
+                        <tr class="CusTab-dark">
+                            <td class="CusTab-dark-left">Ansamble de ţevi, furtunuri, instalaţie electrica, admisie ulei
+                                şi combustibil, eşapament
+                            </td>
+                            <td class="CusTab-tick">Verificare dispunere cabluri, grad deteriorare şi eventuale scurgeri
+                                (acolo unde acestea sunt vizibile)
+                            </td>
+                        </tr>
+                        <tr class="CusTab-light">
+                            <td class="CusTab-light-left">Anvelope</td>
+                            <td class="CusTab-tick">Verificați uzura și starea căii de rulare, not&acirc;nd ad&acirc;ncimea
+                                profilului
+                            </td>
+                        </tr>
+                        <tr class="CusTab-dark">
+                            <td class="CusTab-dark-left">Podea</td>
+                            <td class="CusTab-tick">Verificare stare generală a stratului protector</td>
+                        </tr>
+                        <tr class="CusTab-light">
+                            <td class="CusTab-light-left">Sistem de fr&acirc;nare</td>
+                            <td class="CusTab-tick">Verificare grad uzură pentru plăcuţe de fr&acirc;nă şi discuri de fr&acirc;nă</td>
+                        </tr>
+                        <tr class="CusTab-header">
+                            <td style="text-align: left;">Sub capotă</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr class="CusTab-dark">
+                            <td class="CusTab-dark-left">Motor</td>
+                            <td class="CusTab-tick">Umplere cu</td>
+                        </tr>
+                        <tr class="CusTab-light">
+                            <td class="CusTab-light-left">Filtru de aer<br>Instalaţie electrică, ansablu de ţevi,
+                                furtunuri, admisie ulei şi combustibil
+                            </td>
+                            <td class="CusTab-tick">&Icirc;nlocuire filtrului de aer ca parte din pachetul de servicii
+                                Ford Motorcraft.<br>Verificare dispunere cabluri, eventuale defecte și scurgeri (acolo
+                                unde acestea sunt vizibile)
+                            </td>
+                        </tr>
+                        <tr class="CusTab-dark">
+                            <td class="CusTab-dark-left">Motor, pompă de vacuum, aerotermă şi radiator</td>
+                            <td class="CusTab-tick">Verificare eventuale defecte și scurgeri</td>
+                        </tr>
+                        <tr class="CusTab-light">
+                            <td class="CusTab-light-left">Vas de expansiune, rezervor pentru lichid de fr&acirc;nă şi
+                                baterie
+                            </td>
+                            <td class="CusTab-tick">Verificare nivel antigel, lichid de fr&acirc;nă și baterie</td>
+                        </tr>
+                        <tr class="CusTab-dark">
+                            <td class="CusTab-dark-left">Recipient pentru lichid parbriz</td>
+                            <td class="CusTab-tick">Verificare nivel lichid</td>
+                        </tr>
+                        <tr class="CusTab-header">
+                            <td style="text-align: left;">&Icirc;n exteriorul vehiculului</td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr class="CusTab-light">
+                            <td class="CusTab-light-left">Anvelope</td>
+                            <td class="CusTab-tick">Verificare nivel presiune &icirc;n pneuri</td>
+                        </tr>
+                        <tr class="CusTab-dark">
+                            <td class="CusTab-dark-left">Roata de rezervă</td>
+                            <td class="CusTab-tick">Ajustare presiune, verificare grad de uzură, dacă este cazul.</td>
+                        </tr>
+                        <tr class="CusTab-light">
+                            <td class="CusTab-light-left">Prezoane</td>
+                            <td class="CusTab-tick">Verificare cuplu</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+</div>
+<div class="tab001_footer"><!-- CLOSES THE BOTTOM OF THE CONTENT --></div>
+</div>
+</div>
+<div class="center_item">
+</div>
+<div class="center_item">
     <!--<START_MPP001 >-->
-    < div
-class
-= "mid_page_promo" >
-    < a
-href = '/SBE/OSBOV'
-target = "_self" >
-    < img
-src = "/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214613372064&#38;blobkey=id"
-border = "0"
-alt = "Programari service"
-title = "Programari service"
-height = '113'
-width = '557' / >
-    < /a>
-    < /div>
-    <!--<END_MPP001 >-->
-    < /div>
-    < div
-class
-= "center_item" >
-    < /div>
-    < div
-id = "center_btt" >
-    < /div>
-    <!-- TD 8042 - AddThis Social Book Marking tool display Starts-->
-    <!-- TD 8042 - AddThis Ends-->
-    <!-- AddThis Replacement Starts-->
-    <!-- AddThis Replacement Ends-->
-    < /div>
-    < div
-id = "container_right" >
-    < div
-class
-= "right_item" >
-    < /div>
-    <!-- Technical Highlights -->
-    <!-- <Start> -->
-    < div
-class
-= "right_item" >
-    < /div>
-    <!-- <End> -->
-    < div
-class
-= "right_item" >
-    <!--<START_SSP001 >-->
-    < div
-class
-= "skyscraper_promo" >
-    < a
-href = '/FordService/FordAsistenta12'
-target = "_self" >
-    < img
-src = "/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214618619255&#38;blobkey=id"
-border = "0"
-alt = "Asistenta Ford 12"
-title = "Asistenta Ford 12"
-height = '185'
-width = '185' / >
-    < /a>
-    < /div>
-    <!--<END_SSP001 >-->
-    < /div>
-    < /div>
-    < /div>
-    <!-- Footer -->
-    <!-- <Start> -->
-    < /div>
-    <!--<START_EP2_FOOTER >-->
-    <!-- Footer section--> <!--<START_EP2_FOOTER >-->
-    < footer >
-    < nav
-id = "footerNav"
-role = "navigation" >
-    < div
-class
-= "listColumn" >
-    < dl >
-    < dt > Autoturisme < /dt>
-    < dd > < a
-href = "/Autoturisme"
-class
-= "om_fo_ff_pv" > Vezi
-toate
-modelele < /a></
-dd >
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/Autoturisme/ka-plus" > Ka + < /a></
-h4 > < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/Autoturisme/Fiesta" > Fiesta < /a></
-h4 > < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/Autoturisme/noul-fiesta" > NOUL
-FORD
-FIESTA < /a></
-h4 > < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/Autoturisme/B-MAX" > B - MAX < /a></
-h4 > < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/Autoturisme/Noul-EcoSport" > Noul
-EcoSport < /a></
-h4 > < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/Autoturisme/Focus" > Focus < /a></
-h4 > < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/Autoturisme/NewFocusST" > The
-New
-Focus
-ST < /a></
-h4 > < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/Autoturisme/FocusRS" > Focus
-RS < /a></
-h4 > < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/Autoturisme/NoulC-MAX" > Noul
-C - MAX < /a></
-h4 > < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/Autoturisme/Noul_Kuga" > Noul
-Kuga < /a></
-h4 > < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/Autoturisme/Mondeo" > Mondeo < /a></
-h4 > < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/Autoturisme/mondeo-vignale" > Mondeo
-Vignale < /a></
-h4 > < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/Autoturisme/Mustang" > Mustang < /a></
-h4 > < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/Autoturisme/Noul-S-MAX" > Noul
-S - MAX < /a></
-h4 > < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/Autoturisme/s-max-vignale" > S - Max
-Vignale < /a></
-h4 > < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/Autoturisme/Noul-FordEdge" > Edge < /a></
-h4 > < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/Autoturisme/NoulGalaxy" > Noul
-Galaxy < /a></
-h4 > < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/Autoturisme/NoulTourneoConnect" > Noul
-Tourneo
-Connect < /a>
-< /h4></
-dd >
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/Autoturisme/TourneoCourier" > Tourneo
-Courier < /a></
-h4 > < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/Autoturisme/NoulFordGT" > Noul
-Ford
-GT < /a></
-h4 > < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/Autoturisme/KineticDesign" > Ford
-kinetic
-Design < /a></
-h4 > < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/Autoturisme/Tehnologii" > Tehnologii < /a></
-h4 > < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/Autoturisme/mici" > Masini
-mici < /a></
-h4 > < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/Autoturisme/defamilie" > Masini
-de
-familie < /a></
-h4 > < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/Autoturisme/st-line" > ST - Line < /a></
-h4 > < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/Autoturisme/SUV" > SUVs < /a></
-h4 > < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/Autoturisme/VehiculeViitoare" > Vehicule
-viitoare < /a></
-h4 >
-    < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/Autoturisme/FutureVehicles" > < /a></
-h4 > < /dd>
-    < /dl>
-    < /div>
-< div
-class
-= "listColumn" >
-    < dl >
-    < dt > Vehicule
-comerciale < /dt>
-    < dd > < a
-href = "/VehiculeComerciale"
-class
-= "om_fo_ff_cv" > Vizualizare
-toate
-vehiculele
-comerciale < /a></
-dd >
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/VehiculeComerciale/Prezentare" > Prezentare < /a></
-h4 > < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/VehiculeComerciale/Transit-Courier" > Transit
-Courier < /a></
-h4 >
-    < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/VehiculeComerciale/TransitConnect" > Transit
-Connect < /a></
-h4 >
-    < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/VehiculeComerciale/Transit-Custom" > Transit
-Custom < /a></
-h4 >
-    < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/VehiculeComerciale/TourneoCustom" > TourneoCustom < /a></
-h4 >
-    < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/VehiculeComerciale/transit-sasiu" > Transit
-Sasiu < /a></
-h4 >
-    < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/VehiculeComerciale/Transit" > Transit < /a></
-h4 > < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/VehiculeComerciale/NoulRanger" > Noul
-Ranger < /a></
-h4 > < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/VehiculeComerciale/transitcentre" > Transit
-Centre < /a></
-h4 >
-    < /dd>
-    < dd > < h4 > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/VehiculeComerciale/NouaFamilieTourneo" > Noua
-familie
-Tourneo < /a></
-h4 > < /dd>
-    < /dl>
-    < /div>
-< div
-class
-= "listColumn" >
-    < dl >
-    < dt > Ford
-Service < /dt>
-    < dd > < a
-class
-= 'om_fo_ff_li '
-href = "/Promotii/PromotiiService" > Promoţii
-service < /a></
-dd >
-    < dd > < a
-class
-= 'om_fo_ff_li '
-href = "/FordService/Accesorii" > Accesorii < /a></
-dd >
-    < dd > < a
-class
-= 'om_fo_ff_li '
-href = "/FordService/GarantiiSiRevizii" > Garanţii
-şi
-revizii
-Ford < /a></
-dd >
-    < dd > < a
-class
-= 'om_fo_ff_li '
-href = "/FordService/FordAsistenta12" > FordAsistenta
-12 < /a></
-dd >
-    < dd > < a
-class
-= 'om_fo_ff_li '
-href = "/FordService/ManualeDeUtilizare" > Manuale
-de
-utilizare < /a></
-dd >
-    < dd > < a
-class
-= 'om_fo_ff_li '
-href = "/FordService/Ford-Lifestyle-Collection" > Ford
-Lifestyle
-Collection < /a>
-    < /dd>
-    < dd > < a
-class
-= 'om_fo_ff_li '
-href = "/FordService/IntrebariFrecvente" > Întrebări
-frecvente < /a></
-dd >
-    < /dl>
-    < /div>
-< div
-class
-= "listColumn" >
-    < dl >
-    < dt > Despre
-Ford < /dt>
-    < dd > < a
-class
-= 'om_fo_ff_li '
-href = "/Despre/Prezentare" > Prezentare < /a></
-dd >
-    < dd > < a
-class
-= 'om_fo_ff_li '
-href = "/Despre/Informatiidesprecompanie" > Informaţii
-despre
-companie < /a></
-dd >
-    < dd > < a
-class
-= 'om_fo_ff_li '
-href = "/Despre/MediuInconjurator" > Mediu
-înconjurător < /a></
-dd >
-    < dd > < a
-class
-= 'om_fo_ff_li '
-href = "/Despre/CeleMaiEticeCompanii" > Cele
-mai
-etice
-companii < /a></
-dd >
-    < dd > < a
-class
-= 'om_fo_ff_li '
-href = "/Despre/Media" > Media < /a></
-dd >
-    < dd > < a
-class
-= 'om_fo_ff_li '
-href = "/SportSiActivitati" > Sport
-şi
-activităţi < /a></
-dd >
-    < dd > < a
-class
-= 'om_fo_ff_li '
-href = "/FordStore" > FordStore < /a></
-dd >
-    < /dl>
-    < /div>
-< div
-class
-= "listColumn" >
-    < dl
-class
-= 'social' >
-    < dt > URMĂREŞTE - NE < /dt>
-    < dd > < a
-class
-= 'om_fo_ff_li '
-target = "_new"
-href = "http://facebook.com/fordromania" > < span
-style = "background-image: url('/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobheader=image%2Fpng&blobwhere=1214531954911&blobkey=id')" > < /span>
-Facebook < /a></
-dd >
-    < dd > < a
-class
-= 'om_fo_ff_li '
-target = "_new"
-href = "http://twitter.com/fordromania" > < span
-style = "background-image: url('/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobheader=image%2Fpng&blobwhere=1214617530713&blobkey=id')" > < /span>
-Twitter < /a></
-dd >
-    < dd > < a
-class
-= 'om_fo_ff_li '
-target = "_new"
-href = "http://www.youtube.com/fordromania" > < span
-style = "background-image: url('/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobheader=image%2Fpng&blobwhere=1214531954943&blobkey=id')" > < /span>
-YouTube < /a></
-dd >
-    < /dl>
-    < /div>
-< div
-class
-= "listColumn" >
-    < dl >
-    < dt > LINKURI
-RAPIDE < /dt>
-    < dd > < a
-class
-= 'sbe om_fo_ff_SBEI '
-href = "/SBE/VreauSaFiuInformata" > < span
-style = "background-image: url('/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobheader=image%2Fpng&blobwhere=1214511829637&blobkey=id')" > < /span>
-Vreau
-să
-fiu
-informat(ă) < /a></
-dd >
-    < dd > < a
-class
-= 'sbe om_fo_ff_li expand'
-href = "/SBE/TestDrive" > < span
-style = "background-image: url('/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobheader=image%2Fpng&blobwhere=1214554704901&blobkey=id')" > < /span>
-Test
-drive < /a>
-< dl
-class
-= "flyout" >
-    < dd > < a
-class
-= "sbe"
-href = "/SBE/TestDrive/TestDriveAutoturisme" > Autoturisme < /a></
-dd >
-    < dd > < a
-class
-= "sbe"
-href = "/SBE/TestDrive/TestDriveVehiculeComerciale" > Vehicule
-Comerciale < /a>
-    < /dd>
-    < /dl>
-    < /dd>
-    < dd > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/SBE/dealeri-ford" > < span
-style = "background-image: url('/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobheader=image%2Fpng&blobwhere=1214554704901&blobkey=id')" > < /span>
-REPREZENTANŢE < /a></
-dd >
-    < dd > < a
-class
-= 'sbe om_fo_ff_SBEB '
-href = "/SBE/BrosuriSiPreturi" > BROSURI
-SI
-PRETURI < /a></
-dd >
-    < dd > < a
-class
-= 'sbe om_fo_ff_li '
-href = "/SBE/OSBOV" > Programari
-service
-online < /a></
-dd >
-    < /dl>
-    < /div>
-    < /nav>
-< nav
-id = "footerLinks" >
-    < ul
-class
-= "footerBottomLinks fl" >
-    < li > < a
-href = "/"
-class
-= "om_fo_ho" > Pagina
-principală < /a></
-li >
-    < li > < a
-href = "/Footer/Contact"
-class
-= "om_fo_tf_li" > Contact < /a></
-li >
-    < li > < a
-href = "/Footer/HartaSite"
-class
-= "om_fo_tf_li" > Hartă
-Site < /a></
-li >
-    < li > < a
-href = "/Footer/TermenisiConditii"
-class
-= "om_fo_tf_li" > Termeni < /a></
-li >
-    < /ul>
-< ul
-class
-= "footerBottomLinks fr" >
-    < li > < a
-href = "/Footer/PoliticadeConfidentialitate"
-class
-= "om_fo_tf_li" > Confidenţialitate < /a></
-li >
-    < li > < a
-href = "/Footer/Accessibility"
-class
-= "om_fo_tf_li" > Accesibilitate < /a></
-li >
-    < li > < a
-href = "/Footer/GhidulFordPrivindFisiereleDeTipCookie"
-class
-= "om_fo_tf_li" > Ghidul
-Ford
-privind
-fişierele
-cookie < /a></
-li >
-    < li > < a
-href = "http://m.ford.ro"
-class
-= "om_fo_mv" > Versiunea
-mobilă < /a></
-li >
-< li
-class
-= "last" >
-©
-2017, Ford
-Motor
-Company < /li>
-    < /ul>
-    < /nav>
-    < /footer><!--<END_EP2_FOOTER >-->
-    <!--<END_EP2_FOOTER >-->
-    < /div>
-< script
-src = "/cs/ContentServer?pagename=EP2%2fENGInE%2fscript%2fGroupedJS"
-type = "text/javascript" ></script>
-<script> EP2.Globals.siteName = 'RORO4_ENGINE';
-    EP2.Globals.gforceMode = 'LIVE'</script>
-<script type="text/javascript">
-    var EP2 = EP2 || {};
+    <div class="mid_page_promo">
