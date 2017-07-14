@@ -70,11 +70,17 @@
                         <p>
                             <strong>AUTO TECHNIC SERVICE:
                             </strong></p>
-                        Director Service : <b>Babusanu Dorel</b>
+                                               Director Service : <b>Babusanu Dorel</b>
                         <br>
                         Tel: 0736 338 257
                         <br>
                         Email: <a href="mailto:crcro@ford.com">dorel.babusanu@fordautotechnic.ro</a>
+                        <br><br>
+                        Sef Atelier : <b>Dobrea Catalin</b>
+                        <br>
+                        Tel: 0737 992 855
+                        <br>
+                        Email: <a href="mailto:crcro@ford.com">catalin.dobrea@fordautotechnic.ro</a>
 
                         <blockquote><strong> ATELIER MECANICA </strong><br>
                             Receptioner Service : <b>Pop Radu</b>
@@ -83,12 +89,7 @@
                             <br>
                             Email: <a href="mailto:crcro@ford.com">radu.pop@fordautotechnic.ro</a>
                             <br><br>
-                            Receptioner Service : <b>Moler Daniel</b>
-                            <br>
-                            Tel: 0743 158 045
-                            <br>
-                            Email: <a href="mailto:crcro@ford.com">daniel.moler@fordautotechnic.ro</a>
-                            <br><br>
+
                             Receptioner Service : <b>Miclean Gheorghe</b>
                             <br>
                             Tel: 0736 338 259

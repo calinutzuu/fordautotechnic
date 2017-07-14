@@ -457,9 +457,11 @@
     <div class="btoArticleText">
         <div class="btoArticleAbstract">
             <div><strong><span style="font-size: medium">Servicii de calitate la preturi all-inclusive pentru autovehiculele Ford cu varsta de peste 4 ani</span></strong><br><br>De
-                la revizie si reparatii uzuale pana la Pre-verificare I.T.P si anvelope, la Ford Motorcraft 4+ vei gasi tot
+                la revizie si reparatii uzuale pana la Pre-verificare I.T.P si anvelope, la Ford Motorcraft 4+ vei gasi
+                tot
                 ce iţi trebuie. Un brand special conceput pentru modelele Ford cu o vechime de minimum 4 ani, Ford
-                Motorcraft ofera preturi clare si transparente, fara costuri ascunse. Mai mult, de autoturismul tau se vor
+                Motorcraft ofera preturi clare si transparente, fara costuri ascunse. Mai mult, de autoturismul tau se
+                vor
                 ocupa profesionistii de la Ford, ajutati de cele mai noi echipamente si piese originale Ford.
             </div>
         </div>
@@ -489,8 +491,10 @@
                 </div>
                 <div class='BTIarticleBody'>
                     <div class='BTIarticleText'>
-                        <div><h2><font size="2">Ford Service</font></h2><br><span style="color: rgb(0,0,128)">&nbsp; <strong><span
-                                        style="font-size: x-large">319 lei</span></strong><strong><span style="font-size: x-large">&nbsp;</span></strong></span><br><br><br><br><a
+                        <div><h2><font size="2">Ford Service</font></h2><br><span
+                                style="color: rgb(0,0,128)">&nbsp; <strong><span
+                                        style="font-size: x-large">319 lei</span></strong><strong><span
+                                        style="font-size: x-large">&nbsp;</span></strong></span><br><br><br><br><a
                                 HREF="/FordService/Motorcraft/Service">&gt; Ford Service</a></div>
                     </div>
                 </div>
@@ -514,8 +518,10 @@
                         <div><h2><font size="2">Anvelope vara</font></h2>
 
                             <div></div>
-                            <div><strong><br> de la <span style="color: rgb(0, 0, 128);"><span style="font-size: medium;"><span
-                                                style="font-size: x-large;">166 lei </span></span></span></strong><br> <br> <br> <br> <a
+                            <div><strong><br> de la <span style="color: rgb(0, 0, 128);"><span
+                                            style="font-size: medium;"><span
+                                                style="font-size: x-large;">166 lei </span></span></span></strong><br>
+                                <br> <br> <br> <a
                                     HREF="/FordService/Motorcraft/Anvelope">&gt;Anvelope vara</a></div>
                         </div>
                     </div>
@@ -636,19 +642,21 @@
             </div>
             <div class='BTIarticleBody'>
                 <div class='BTIarticleText'>
-                    <div><em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin TVA conform
+                    <div><em>
+                            *Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin TVA conform
                             legislatiei in vigoare. Aceasta oferta este supusa unor termene si conditii si este valabila
                             in limita stocului disponibil. Oferta poate varia in functie de seria de sasiu. Detaliile
                             aferente ofertei sunt disponibile in paginile de promotie si in rereaua de reprezentante
-                            Ford.
-                            Perioada derularii acestei campanii: 1 martie 2017 - 31 mai 2017. <br> </em></div>
+                            Ford. Perioada derularii acestei campanii: 1 martie 2017 - 31 septembrie 2017. <br> </em>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
     <div class="mid_page_promo">
-        <a href='https://wwwprod-ro.engine.ford.com/SBE/OSBOV?dc=10300' target="_self" >
-            <img src="/assets/img/1214613372064.jpg" border="0" alt="Programari service" title="Programari service"  height = '113'  width = '557' />
+        <a href='https://wwwprod-ro.engine.ford.com/SBE/OSBOV?dc=10300' target="_self">
+            <img src="/assets/img/1214613372064.jpg" border="0" alt="Programari service" title="Programari service"
+                 height='113' width='557'/>
         </a>
     </div>
     <div class="collectionClear"></div>
