@@ -2,7 +2,7 @@
 <!--<START_MHB001 >-->
 <div id="masthead">
     <img
-        src="/assets/img/1214607506672_1.jpg" >
+        src="/assets/img/1214607506672_1.jpg">
 </div>
 <!--<END_MHB001 >-->
 <!-- <End> -->
@@ -75,12 +75,12 @@
             </ul>
             <div class="navdivider"></div>
             <ul id="nextSteps" class="nextSteps">
-                <li id='menu1205111254125' class=''>
+                 <!--  <li id='menu1205111254125' class=''>
                     <a href='OfertaFiesta'/>Oferta Fiesta</a>
                     <script type="text/javascript">
                         document.id('menu1205111254125').addClass("navnextSteps");
                     </script>
-                </li>
+                </li>  -->
                 <li id='menu1205110704441' class=''>
                     <a href='OfertaFocus'/>Oferta Focus</a>
                     <script type="text/javascript">
@@ -88,18 +88,18 @@
                     </script>
                 </li>
 
-             <!--   <li id='menu1205111254306' class=''>
-                    <a href='OfertaBMAX'/>Oferta B-MAX</a>
-                    <script type="text/javascript">
-                        document.id('menu1205111254306').addClass("navnextSteps");
-                    </script>
-                </li>
-                <li id='menu1205111255593' class=''>
-                    <a href='OfertaMondeo'/>Oferta Mondeo</a>
-                    <script type="text/javascript">
-                        document.id('menu1205111255593').addClass("navnextSteps");
-                    </script>
-                </li> -->
+                <!--   <li id='menu1205111254306' class=''>
+                       <a href='OfertaBMAX'/>Oferta B-MAX</a>
+                       <script type="text/javascript">
+                           document.id('menu1205111254306').addClass("navnextSteps");
+                       </script>
+                   </li>
+                   <li id='menu1205111255593' class=''>
+                       <a href='OfertaMondeo'/>Oferta Mondeo</a>
+                       <script type="text/javascript">
+                           document.id('menu1205111255593').addClass("navnextSteps");
+                       </script>
+                   </li> -->
                 <li id='menu1205111254474' class=''>
                     <a href='OfertaEcoSport'/>Oferta EcoSport</a>
                     <script type="text/javascript">
@@ -131,6 +131,7 @@
 <div id="container_main">
     <div style="height: 115px">&nbsp;</div>
     <br><br><br><br><br><br><br><br><br>
+
     <div id="container_center">
         <div class="center_item">
             <div class="btoArticleTitle">Procedura de casare a masinii tale vechi</div>
@@ -163,19 +164,18 @@
                         achizitionarea noului tau model Ford, insa va trebui sa te prezinti la autoritatea relevanta
                         si sa obtii documentului care atesta radierea din circulatie a autovehiculului supus
                         radierii.<br> <br> <strong>Conditii generale:</strong><br> Programul
-                        <strong>Ecobonus </strong>derulat de Ford Romania ofera preturi speciale sau alte beneficii
-                        (cum ar fi dotarile sau optiunile incluse), pentru cumpararea de autoturisme noi Ford, mai
-                        putin poluante, in schimbul casarii masinilor vechi, scopul final fiind imbunatatirea
-                        calitatii mediului prin innoirea parcului auto. <br> <br> Proprietarul poate achizitiona mai
-                        multe autovehicule noi in schimbul predarii spre casare a unui numar egal de autovehicule
-                        uzate si va preda copii conforme cu originalul de pe documentele de casare catre dealerul
-                        Ford de la care isi achizitioneaza autoturismul prin acest program. <br> <br> Pretul afisat
-                        pentru autoturismele Ford (participante in acest program) include atat contravaloarea
-                        suportului acordat de Ford Romania prin programul Ford ECOavantaje, cat si contributia
-                        dealerilor participanti la program si nu include echipamente, accesorii sau dotari
-                        optionale, altele decat cele prezentate in acest program. Pretul afisat include TVA. Oferta
-                        autovehiculelor incluse in programul Ford EcoAvantaje este in limita stocului disponibil
-                        pentru modelele selectionate.
+                        <strong>Ecobonus </strong> derulat de Ford Romania ofera preturi speciale sau alte beneficii
+                        (cum ar fi dotarile sau optiunile incluse), pentru cumpararea de autoturisme noi Ford, mai putin
+                        poluante, in schimbul casarii masinilor vechi, scopul final fiind imbunatatirea calitatii
+                        mediului prin innoirea parcului auto. <br> <br> Proprietarul poate achizitiona mai multe
+                        autovehicule noi in schimbul predarii spre casare a unui numar egal de autovehicule uzate si va
+                        preda copii conforme cu originalul de pe documentele de casare catre dealerul Ford de la care
+                        isi achizitioneaza autoturismul prin acest program. <br> <br> Pretul afisat pentru autoturismele
+                        Ford (participante in acest program) include atat contravaloarea suportului acordat de Ford
+                        Romania prin programul Ford ECOavantaje, cat si contributia dealerilor participanti la program
+                        si nu include echipamente, accesorii sau dotari optionale, altele decat cele prezentate in acest
+                        program. Pretul afisat include TVA. Oferta autovehiculelor incluse in programul Ford EcoAvantaje
+                        este in limita stocului disponibil pentru modelele selectionate.
                     </div>
                 </div>
             </div>

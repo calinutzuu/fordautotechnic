@@ -3,8 +3,94 @@
 <section class="grid_3 carousel">
 <div id="hpCarousel" role="listbox">
 <!--Rendering the Image Panel-->
-
 <article role="option">
+    <a class="carImg" href="#img1"><img src="/assets/img/1214627766241.jpg" alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt;&lt;/span&gt;&lt;/span&gt;" role="presentation"></a>
+    <div class="innerBox posTopLeft WhiteText">
+        <div class="">
+            <h2 class="bigHeading02">
+                <span style="font-size:28px;"><span style="font-family:FordAntennaRegular;"></span><span style="font-family:FordAntennaBlack;"></span></span>
+            </h2>
+            <p class="captionTxt">
+                <span style="font-size:22px;"><span style="font-family:FordAntennaRegular;"></span><span style="font-family:FordAntennaBlack;"></span></span>
+            </p>
+            <div class="btnwrapper">
+                <div class="btnLink light">
+                    <a role="button" class="om_ca_in" href="/Promotii/Autoturisme/NoulFordFIESTA" >PROMOTIE PERSOANE FIZICE</a>
+                </div>
+                <div class="ctaLink slate">
+                    <a href="/Promotii/Autoturisme/NoulFordFIESTAFlote" class="om_ca_tl_in" ><span class="icon ctaArrow"></span>PROMOTIE PERSOANE JURIDICE</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</article>
+<!--Image Panel End-->
+<!--Rendering the Image Panel-->
+<article role="option">
+    <a class="carImg" href="#img1"><img src="/assets/img/1214618619268.jpg" alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt;&lt;/span&gt;&lt;/span&gt;" role="presentation"></a>
+    <div class="innerBox posBottomRight WhiteText">
+        <div class="">
+            <h2 class="bigHeading02">
+                <span style="font-size:28px;"><span style="font-family:FordAntennaRegular;"></span><span style="font-family:FordAntennaBlack;"></span></span>
+            </h2>
+            <p class="captionTxt">
+                <span style="font-size:22px;"><span style="font-family:FordAntennaRegular;"></span><span style="font-family:FordAntennaBlack;"></span></span>
+            </p>
+            <div class="btnwrapper">
+                <div class="btnLink light">
+                    <a role="button" class="om_ca_in" href="/FordService/FordAsistenta12" >VEZI DETALII</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</article>
+<!--Image Panel End-->
+<!--Rendering the Image Panel-->
+<article role="option">
+    <a class="carImg" href="#img1"><img
+            src="/assets/img/1214619474445.jpg"
+            alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt;FORD &lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt;MOTORCRAFT&lt;/span&gt;&lt;/span&gt;"
+            role="presentation"></a>
+
+    <div class="innerBox posBottomRight WhiteText">
+        <div class="">
+            <h2 class="bigHeading02">
+                <span style="font-size:28px;"><span style="font-family:FordAntennaRegular;">FORD </span><span
+                        style="font-family:FordAntennaBlack;">MOTORCRAFT</span></span>
+            </h2>
+
+            <p class="captionTxt">
+                <span style="font-size:22px;"><span style="font-family:FordAntennaRegular;">O vacanta perfecta incepe cu FORD</span><span
+                        style="font-family:FordAntennaBlack;">&nbsp;SERVICE</span></span>
+            </p>
+
+            <div class="btnwrapper">
+                <div class="btnLink light">
+                    <a role="button" class="om_ca_in" href="/FordService/Motorcraft">DESCOPER&#258; PROMO&#538;IILE</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</article>
+<!--Image Panel End-->
+<!--Rendering the Image Panel-->
+<article role="option">
+    <a class="carImg" href="#img1"><img src="/assets/img/1214629659355.jpg" alt="" role="presentation"></a>
+    <div class="innerBox posBottomRight WhiteText">
+        <div class="">
+            <h2 class="bigHeading02">
+            </h2>
+            <p class="captionTxt">
+            </p>
+            <div class="btnwrapper">
+                <div class="btnLink light">
+                    <a role="button" class="om_ca_in" href="/Promotii/Autoturisme/Ecobonus" >VEZI OFERTELE</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</article>
+<!-- <article role="option">
     <a class="carImg" href="#img1"><img
             src="/assets/img/promotii/1214625511144.jpg"
             alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt;&lt;/span&gt;&lt;/span&gt;"
@@ -29,7 +115,7 @@
             </div>
         </div>
     </div>
-</article>
+</article> -->
 <!--   <article role="option">
     <a class="carImg" href="#img1"><img src="/assets/img/1214616900852.jpg"
                                         alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt;&lt;/span&gt;&lt;/span&gt;"
@@ -429,32 +515,7 @@
  </article> -->
 <!--Image Panel End-->
 <!--Rendering the Image Panel-->
-<article role="option">
-    <a class="carImg" href="#img1"><img
-            src="/assets/img/1214619474445.jpg"
-            alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt;FORD &lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt;MOTORCRAFT&lt;/span&gt;&lt;/span&gt;"
-            role="presentation"></a>
 
-    <div class="innerBox posBottomRight WhiteText">
-        <div class="">
-            <h2 class="bigHeading02">
-                <span style="font-size:28px;"><span style="font-family:FordAntennaRegular;">FORD </span><span
-                        style="font-family:FordAntennaBlack;">MOTORCRAFT</span></span>
-            </h2>
-
-            <p class="captionTxt">
-                <span style="font-size:22px;"><span style="font-family:FordAntennaRegular;">O vacanta perfecta incepe cu FORD</span><span
-                        style="font-family:FordAntennaBlack;">&nbsp;SERVICE</span></span>
-            </p>
-
-            <div class="btnwrapper">
-                <div class="btnLink light">
-                    <a role="button" class="om_ca_in" href="/FordService/Motorcraft">DESCOPER&#258; PROMO&#538;IILE</a>
-                </div>
-            </div>
-        </div>
-    </div>
-</article>
 <!--Image Panel End-->
 </div>
 </section>

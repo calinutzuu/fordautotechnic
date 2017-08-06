@@ -72,12 +72,12 @@
             </ul>
             <div class="navdivider"></div>
             <ul id="nextSteps" class="nextSteps">
-                <li id='menu1205111254125' class=''>
+              <!--  <li id='menu1205111254125' class=''>
                     <a href='EcoBonus/OfertaFiesta'/>Oferta Fiesta</a>
                     <script type="text/javascript">
                         document.id('menu1205111254125').addClass("navnextSteps");
                     </script>
-                </li>
+                </li> -->
                 <li id='menu1205110704441' class=''>
                     <a href='EcoBonus/OfertaFocus'/>Oferta Focus</a>
                     <script type="text/javascript">
@@ -138,14 +138,14 @@
             </script>
             <div id="mdp">
                 <img
-                    src='/assets/img/1214607506199.jpg'
+                    src='/assets/img/1214629483687.jpg'
                     alt='FordFleet' onclick="omnitureViewPhoto()">
             </div>
             <div class="mdp2" id="mdpImageControl">
                 <table>
                     <tr>
                         <td id="mdp2Fullscreen">
-                            <a href="/assets/img/1214607506199.jpg"
+                            <a href="/assets/img/1214629483687.jpg"
                                onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214564411913&amp;blobkey=id', 'FordFleet');
 if(typeof(sford)=='object') omnitureMDPFullScreen('1205110699178'); return false;">
                                 Fullscreen
@@ -187,7 +187,7 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205110699178'); return false
             <div class="btoArticleTitle">Mergi mai departe cu Ford Ecobonus!</div>
             <div class="btoArticleText">
                 <div class="btoArticleAbstract">
-                    <p>Ford Ecobonus inseamna: <br> -	<strong>Rata lunara de la 500 lei</strong>, prin creditul auto in lei;<br> -	<strong>Garantie extinsa</strong> 2+3 ani / 100.000 km;<br> -	Dotari suplimentare prin <strong>pachetele optionale incluse in pret</strong>. <br> <br> Ford reia campania Ford Ecobonus &ndash; nu mai e nevoie sa astepti programul rabla, pentru ca ai 1.500 &euro; Ford Ecobonus garantat, la casarea autoturismului vechi. Si il poti folosi cu modelul Ford pe care ti-l doresti &ndash; toate modelele din promotie vin cu pachete de dotari optionale deja incluse in pret.<br> <br> Tehnologii inteligente, motorizari prietenoase cu mediul, design care se face remarcat si echipari care fac sa va simtiti in siguranta &ndash; atat tu, cat si pasagerii: acestea sunt doar o parte dintre atributele gamei Ford.  Sigur vei gasi modelul care ti se potriveste.<br> <br> Afla mai multe despre avantajele client pentru fiecare dintre modelele incluse in aceasta campanie:<br> <br> Ford Fiesta &ndash; agil, contemporan, urban &ndash; detalii <a HREF="/Promotii/Autoturisme/EcoBonus/OfertaFiesta" >aici</a><br> Ford Focus &ndash; sofisticat, modern, spatios - detalii <a HREF="/Promotii/Autoturisme/EcoBonus/OfertaFocus" >aici</a><br> Ford EcoSport &ndash; compact, confortabil, performant - detalii <a HREF="/Promotii/Autoturisme/EcoBonus/OfertaEcoSport" >aici</a><br> <br> Ai decis ce model ti se potriveste? <a HREF="/Promotii/Autoturisme/EcoBonus/Rezervare" >Rezerva</a>-l acum!<br> <br> Pentru detalii despre procedura de casare si cum poti beneficia de Ford Ecobonus, click <a HREF="/Promotii/Autoturisme/EcoBonus/Procedura" >aici</a>.<br> <br> Vrei totusi sa astepti inceputul programului rabla? Inscrie-te <a HREF="/Promotii/Autoturisme/programulrabla" >aici </a>si fii primul care afla lansarea programului!</p>
+                    <div>Ford reia campania Ecobonus &ndash; nu mai e nevoie sa astepti programul rabla, pentru ca la Ford ai 1.500 &euro; Ecobonus garantat, la casarea autoturismului vechi. Si il poti folosi cu modelul Ford pe care ti-l doresti &ndash; toate modelele din promotie vin cu pachete de dotari optionale deja incluse in pret. <br> <br> Tehnologii inteligente, motorizari prietenoase cu mediul, design care se face remarcat si echipari care fac sa va simtiti in siguranta &ndash; atat tu, cat si pasagerii: acestea sunt doar o parte dintre atributele gamei Ford.  Sigur vei gasi modelul care ti se potriveste. <br> <br> Iar cu Ford Ecobonus beneficiezi de:<br> - Rata lunara de la 700 lei, prin creditul auto in lei;<br> - Garantie extinsa 2+3 ani / 100.000 km;<br> - Dotari suplimentare prin pachetele optionale incluse in pret.<br> <br> Afla mai multe despre avantajele client pentru fiecare dintre modelele incluse in aceasta campanie: <br> <br> Ford Focus &ndash; sofisticat, modern, spatios - detalii <a HREF="/Promotii/Autoturisme/Ecobonus/OfertaFocus" ><u>aici</u></a><br> Ford EcoSport &ndash; compact, confortabil, performant - detalii <a HREF="/Promotii/Autoturisme/Ecobonus/OfertaEcoSport" ><u>aici</u></a><br> <br> Ai decis ce model ti se potriveste? <a HREF="/Promotii/Autoturisme/Ecobonus/Rezervare" ><u>Rezerva</u></a>-l acum! <br> <br> Pentru detalii despre procedura de casare si cum poti beneficia de Ecobonus, click <a HREF="/Promotii/Autoturisme/Ecobonus/Procedura" ><u>aici</u></a>.</div>
                 </div>
             </div>
         </div>
@@ -210,8 +210,7 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205110699178'); return false
         <div class="right_item">
             <!--<START_MDC001 >-->
             <div class="mdc001Container" id="dummyDiv">
-                <p class="mdc001Header" id="mdcHeader"></p>
-
+                <p class="mdc001Header" id="mdcHeader" ></p>
                 <div class="mdc001" id="mdc1416477130979">
                     <div class="mdc001Gradient">
                         <div class="mdc001GradientContainer"></div>
@@ -220,9 +219,9 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205110699178'); return false
             </div>
             <script>
                 var theDiv = document.getElementById("mdpImageControl");
-                if (theDiv.style.display == "none") {
+                if(theDiv.style.display == "none"){
                     dummyDiv.style.display = "none";
-                } else {
+                }else{
                     dummyDiv.style.display = "block";
                 }
             </script>

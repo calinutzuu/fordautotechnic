@@ -185,4 +185,20 @@ class Autoturisme extends CI_Controller
             ->title('FiestaSocialClub', 'Ford AutoTechnic')
             ->build('promotii/autoturisme/fiesta_social_club');
     }
+
+    public function fiesta_fizice()
+    {
+        $this->template
+            ->set_layout('promotii')
+            ->title('NoulFiesta', 'Ford AutoTechnic')
+            ->build('promotii/autoturisme/fiesta_fizice');
+    }
+
+    public function fiesta_juridice()
+    {
+        $this->template
+            ->set_layout('promotii')
+            ->title('NoulFiesta', 'Ford AutoTechnic')
+            ->build('promotii/autoturisme/fiesta_juridice');
+    }
 }

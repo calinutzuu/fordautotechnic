@@ -26,7 +26,7 @@
         <section id="carouselize" class="carousel-container carousel"></section>
         <section class="mid-page-content">
             <div class="tab-content">
-                <article class="content-column centered">
+            <!--    <article class="content-column centered">
                     <div class="content">
                         <h3 class="bigHeading">
                             PREGATESTE-TE DE FIESTA!
@@ -43,7 +43,7 @@
                     <div class="img-column"><img
                             src="/assets/img/promotii/1214625511068.jpg"
                             alt="Fiesta Social Club"/></div>
-                </article>
+                </article> -->
 
 
                 <!--
@@ -69,7 +69,29 @@
                         </p>
                     </div>
                 </article>
-                <br><br>
+                <br><br> -->
+                <article class="content-column left">
+                    <div class="img-column"> <img src="/assets/img/1214627766081.jpg" alt="Noul Ford FIESTA" /></div>
+                    <div class="content centered">
+                        <h3 class="bigHeading02">
+                            NOUL FORD FIESTA
+                        </h3>
+                        <p>
+                        <p>Atractiv, inovator si unic, noul Ford Fiesta redefineste sensul vietii urbane elegante si contemporane. Incepe aventura zilnica <br> cu noua generatie Ford Fiesta si fa-ti simtita prezenta in oras. <br> <br> <a HREF="/Promotii/Autoturisme/NoulFordFIESTA" ><span style="color: rgb(0, 0, 255);"><u>PROMOTIE PERSOANE FIZICE </u></span></a><span style="color: rgb(0, 0, 255);"><u><br> </u></span><a HREF="/Promotii/Autoturisme/NoulFordFIESTAFlote" ><span style="color: rgb(0, 0, 255);"><u> PROMOTIE PERSOANE JURIDICE </u></span></a></p>
+                        </p>
+                    </div>
+                </article>
+                <article class="content-column right">
+                    <div class="content centered">
+                        <h3 class="bigHeading02">
+                            Mergi mai departe cu Ford Ecobonus!
+                        </h3>
+                        <p>
+                        <p>Vrei sa schimbi masina veche? Nu mai e nevoie sa astepti programul rabla. Ford a reluat <br> campania Ecobonus si iti oferta un bonus garantat de 1.500 &euro;, la casarea masinii vechi.  <br> <br> Concret, asta inseamna: <br> - Rata lunara de la 700 lei, prin creditul auto in lei;<br> - Garantie extinsa 2+3 ani / 100.000 km;<br> - Dotari suplimentare prin pachetele optionale incluse in pret.<br> <br> Oferta se cumuleaza cu celelalte promotii si oferte aflate in derulare. <br> <u><br> </u><a HREF="/Promotii/Autoturisme/Ecobonus" ><u> Click aici pentru mai multe detalii </u></a></p>
+                        </p>
+                    </div>
+                    <div class="img-column"> <img src="/assets/img/1214629483691.jpg" alt="Ecobonus" /></div>
+                </article>
                 <article class="content-column right">
                     <div class="content centered">
                         <div class="img-column">
@@ -87,14 +109,14 @@
                             tehnologii inteligente, noul Kuga<br> este cel mai recent Smart Utility Vehicle de la Ford.
                             Iar
                             cu oferta promotionala ai un pret special pentru SUV-ul care iti va<br>deschide noi
-                            posibilitati: doar 18.000 &euro;* (TVA inclus).<br> <br> <a
+                            posibilitati: doar 19.500 &euro;* (TVA inclus).<br> <br> <a
                                 HREF="/Promotii/Autoturisme/NoulKUGA"><span style="color: rgb(0, 0, 255);"><u>Vezi
                                         oferta speciala</u></span></a></p>
                         </p>
                     </div>
                     <br>
                 </article>
-                <article class="content-column centered">
+             <!--   <article class="content-column centered">
                     <div class="img-column"><img src="/assets/img/1214619333771.jpg"
                                                  alt="Ford Business Weeks Autoturisme"/><span
                             class="fv-overlay-icon"></span></div>

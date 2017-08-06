@@ -13,37 +13,54 @@
                     <br>
                     <span class="highlighter"></span>
 
-                    <p class="intro-text">
-
-                    <p style="text-align: justify;"><strong><span style="font-size: larger;">La casarea masinii vechi, prin programul Ford Ecobonus, beneficiezi de un bonus garantat, de 1.500 &euro;. Astfel, ajungi la un pret special de numai 13.610 &euro;
-                                pentru Ford EcoSport. Mai mult, poti alege finantare prin credit auto in conditii deosebit de convenabile, cu o rata lunara de la 750 de lei.</span></strong><br>
-                        <br> Iesi din tipare! EcoSport, noua reinterpretare Ford a unui SUV (Smart Utility Vehicle) este
-                        alegerea perfecta atunci cand iti doresti o masina in care fiecare drum poate deveni o aventura
-                        urbana.<br> <br> Compact, spatios, robust si echipat cu tehnologii de ultima generatie, EcoSport
-                        te tine mereu in miscare, oriunde ai fi, oferindu-ti toata increderea de care ai nevoie atunci
-                        cand esti la volan. Dotarile standard din echiparea modelului EcoSport includ:<br> <br> &bull;
-                        Sisteme de siguranta si stabilitate: ESP (Program Electronic de Stabilitate), ABS (Sistem
-                        Anti-Blocare la Franare), IVD (Sistem electronic de control dinamic),<br> &bull; Airbag-uri
-                        frontale, laterale, cortina, sofer si pasager; airbag genunchi pentru sofer;<br> &bull; Oglinzi
-                        actionate electric si incalzite, in culoarea caroseriei;<br> &bull; Faruri cu functie &bdquo;Follow
-                        me home&rdquo;; faruri de ceata;<br> &bull; Sistem MyKey;<br> &bull; Volan si schimbator de
-                        viteze imbracate in piele;<br> &bull; Tehnologie Start&amp;Stop.<br> <br> Iar pachetul Trend,
-                        inclus si el in pretul promotional, iti aduce suplimentar:<br> <br> &bull; Aer conditionat
-                        automat<br> &bull; bare pavilion cu aspect cromat;<br> &bull; jante aliaj 16&quot;;<br> &bull;
-                        radio CD cu 6 difuzoare, ecran color 4.2&quot;;<br> &bull; SYNC 1 cu Blue Tooth si Voice
+                    <p>Iesi din tipare! EcoSport, noua reinterpretare Ford a unui SUV (Smart Utility Vehicle) este
+                        alegerea perfecta atunci
+                        cand iti doresti o masina in care fiecare drum poate deveni o aventura urbana. <br> <br>
+                        Compact, spatios, robust si
+                        echipat cu tehnologii de ultima generatie, EcoSport te tine mereu in miscare, oriunde ai fi,
+                        oferindu-ti toata
+                        increderea de care ai nevoie atunci cand esti la volan. <br> <strong><br> La casarea masinii
+                            vechi, prin programul
+                            Ecobonus, beneficiezi de un bonus garantat, de 1.500 &euro;. Astfel, ajungi la un pret
+                            special de numai
+                            13.610 &euro;. Mai mult, poti alege finantare prin credit auto in conditii deosebit de
+                            convenabile, cu o rata
+                            lunara de la 750 de lei pentru un Ford EcoSport cu dotari standard printre care se numara:
+                        </strong><br>
+                        <br> &bull; Sisteme de siguranta si stabilitate: ESP (Program Electronic de Stabilitate), ABS
+                        (Sistem Anti-Blocare
+                        la Franare), IVD (Sistem electronic de control dinamic),<br> &bull; Airbag-uri frontale,
+                        laterale, cortina, sofer si
+                        pasager; airbag genunchi pentru sofer;<br> &bull; Oglinzi actionate electric si incalzite, in
+                        culoarea
+                        caroseriei;<br> &bull; Aer conditionat automat cu reglare separata stanga/ dreapta;<br> &bull;
+                        Faruri cu
+                        functie &bdquo;Follow me home&rdquo;; faruri de ceata;<br> &bull; Sistem MyKey;<br> &bull; Volan
+                        si schimbator de
+                        viteze imbracate in piele;<br> &bull; Tehnologie Start&amp;Stop.<br> <br> <br> Iar pachetul
+                        Trend, inclus si el in
+                        pretul promotional, iti aduce suplimentar: <br> <br> &bull; bare pavilion cu aspect
+                        cromat;<br> &bull; jante aliaj
+                        16&quot;;<br> &bull; radio CD cu 6 difuzoare, ecran color 4.2&quot;;<br> &bull; SYNC 1 cu Blue
+                        Tooth si Voice
                         Control;<br> &bull; Sistem de Asistenta in caz de urgenta (112).<br> <br> <br> In plus,
-                        beneficiezi fara niciun cost suplimentar de <strong>garantia extinsa:</strong> 2+3 ani sau
-                        100.000 km.<br> <br> <strong>Rezerva acum oferta speciala pentru Ford EcoSport &ndash; click <a
-                                HREF="/Promotii/Autoturisme/EcoBonus/Rezervare"><u>aici</u></a>! <br> <br> Vrei totusi
-                            sa astepti inceputul programului rabla? Inscrie-te <a
-                                HREF="/Promotii/Autoturisme/programulrabla"><u>aici</u></a> si fii primul care afla
-                            lansarea programului!<br> <br> Pentru detalii despre procedura de casare si cum poti
-                            beneficia de Ford Ecobonus, click <a
-                                HREF="/Promotii/Autoturisme/EcoBonus/Procedura"><u>aici</u></a>.<br> <br> Ai nevoie de
-                            mai multe informatii? Toate detaliile despre Ford EcoSport si oferta speciala iti stau la
-                            dispozitie in cel mai apropiat <u><a HREF="/SBE/dealeri-ford">showroom Ford</a></u>!
-                        </strong></p>
-<br>
+                        beneficiezi fara niciun cost
+                        suplimentar de <strong>garantia extinsa</strong>: 2+3 ani sau 100.000 km. <br> <br> <strong>Rezerva
+                            acum oferta
+                            speciala pentru Ford EcoSport &ndash; click <a
+                                HREF="/Promotii/Autoturisme/Ecobonus/Rezervare"><u>aici!</u></a>
+                            <br> <br> Vrei totusi sa astepti sa reinceapa programul rabla? Inscrie-te <a
+                                HREF="/Promotii/Autoturisme/programulrabla"><u>aici</u></a> si fii printre primii care
+                            afla lansarea
+                            programului! <br> <br> Pentru detalii despre procedura de casare si cum poti beneficia de
+                            Ecobonus, click <a
+                                HREF="/Promotii/Autoturisme/Ecobonus/Procedura"><u>aici</u></a>. <br> <br> Ai nevoie de
+                            mai multe
+                            informatii? Toate detaliile despre Ford EcoSport si oferta speciala iti stau la dispozitie
+                            in cel mai apropiat
+                            <a HREF="/SBE/dealeri-ford"><u>showroom Ford</u></a>!</strong></p>
+                    <br>
+
                     <div></div>
                     <div><font onmouseout="this.style.color='#000000'" color="#000000">
                             <div><strong> <font onmouseout="this.style.color='#000000'"
@@ -78,28 +95,29 @@
                                                                 este supusa unor termeni si conditii, este adresata
                                                                 exclusiv persoanelor fizice si este valabila in limita
                                                                 stocului disponibil la dealerii participanti la program
-                                                                pana la data de 31.03.2017. Oferta prezentata include
+                                                                pana la data de 30.09.2017. Oferta prezentata include
                                                                 TVA si este obtinuta dupa includerea cumulativa a: 1.
                                                                 contravalorii suportului flat acordat de Ford Romania,
                                                                 2. contributiei dealerilor participanti la acest
                                                                 program, 3. contravalorii garantiei extinse 5 ani (2+3
                                                                 ani) sau 100.000km. Oferta nu include echipamente,
                                                                 accesorii sau dotari optionale, cu exceptia pachetului
-                                                                Trend care include SYNC Gen 1 cu ecran color de 4,2&rdquo;,
-                                                                jante aliaj 16&rdquo; si bare pavilion cromate. Consumul
-                                                                mixt si emisiile de co<sub>2</sub>, masurate in
-                                                                conformitate cu dispozitiile legale in vigoare (e.g
-                                                                Directiva Europeana nr. 715/2007): pentru modelul
-                                                                EcoSport Trend 1.5 Ti-VCT 110CP M5: consum 6,3 l/100 km;
-                                                                emisii co<sub>2</sub>: 149 g/km. Imaginile sunt cu titlu
-                                                                de prezentare. Aceasta oferta include garantia complexa
-                                                                (2+3 ani de garantie conventionala) in limita a 100.000
-                                                                km sau 5 ani (incluzand perioada de 2 ani de garantie
-                                                                legala) in functie de care dintre cele doua elemente
-                                                                (kilometraj sau timp) expira primul. Detalii si
-                                                                explicatii suplimentare despre campanie - la dealerii
-                                                                autorizati Ford participanti la campanie. Campanie
-                                                                realizată exclusiv prin UniCredit Consumer Financing.
+                                                                Trend care include SYNC Gen 1 cu ecran color de 4,2”,
+                                                                jante aliaj 16” si bare pavilion cromate. Consumul mixt
+                                                                si emisiile de CO2, masurate in conformitate cu
+                                                                dispozitiile legale in vigoare (e.g Directiva Europeana
+                                                                nr. 715/2007): pentru modelul EcoSport Trend 1.5 Ti-VCT
+                                                                110CP M5: consum 6,3 l/100 km; emisii CO2: 149 g/km.
+                                                                Imaginile sunt cu titlu de prezentare. Aceasta oferta
+                                                                include garantia complexa (2+3 ani de garantie
+                                                                conventionala) in limita a 100.000 km sau 5 ani
+                                                                (incluzand perioada de 2 ani de garantie legala) in
+                                                                functie de care dintre cele doua elemente (kilometraj
+                                                                sau timp) expira primul. Detalii si explicatii
+                                                                suplimentare despre campanie - la dealerii autorizati
+                                                                Ford participanti la campanie. Campanie realizată
+                                                                exclusiv prin UniCredit Consumer Financing.
+
                                                             </em><br> <br> </span></font></div> </span>
                                         </div> </span></span></div>
                             <p><span style="font-size: x-small;"><font onmouseout="this.style.color='#000000'"

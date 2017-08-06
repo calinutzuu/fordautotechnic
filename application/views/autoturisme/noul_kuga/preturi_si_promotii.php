@@ -1,4 +1,3 @@
-
 <script type="text/javascript">
     // mobile sniffer
     ForceRedirectUserAgents = 'android,iphone,blackberry';
@@ -326,9 +325,9 @@
 
                                     <p>Gandit pentru actiune; dotat pentru confort; cu un design care impresioneaza si
                                         cu numeroase tehnologii inteligente, noul Kuga este cel mai recent Smart Utility
-                                        Vehicle de la Ford. Iar cu oferta de lansare ai un pret special pentru SUV-ul
-                                        care iti va deschide noi posibilitati: doar
-                                    <nobr>18.000 &euro;*</nobr>
+                                        Vehicle de la Ford. Iar cu oferta promotionala ai un pret special pentru SUV-ul
+                                        care iti va deschide noi posibilitati:
+                                    <nobr>19.500 &euro;*</nobr>
                                     (TVA inclus).<br> <br> <a
                                         HREF="/Promotii/Autoturisme/NoulKUGA"><span
                                             style="color: rgb(0, 0, 255);"><u>Vezi oferta speciala de lansare</u></span></a></p>
@@ -348,7 +347,8 @@
                                     <p>Apasa <a HREF="http://www.ford.ro/SBE/BrosuriSiPreturi"><span
                                                 style="color: rgb(0, 0, 255);"><u>aici</u></span></a> pentru lista
                                         curenta de preturi, cu toate informatiile despre motorizari, variante de
-                                        caroserie, versiuni de echipare si dotari.<br> <br> Sau vizitează showroom-ul nostru pentru
+                                        caroserie, versiuni de echipare si dotari.<br> <br> Sau vizitează showroom-ul
+                                        nostru pentru
                                         detalii complete despre acest model si despre cele mai bune oferte disponibile.
                                     </p>
                                     </p>
