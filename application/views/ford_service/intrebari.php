@@ -456,15 +456,15 @@
         </script>
         <div id="mdp">
             <img
-                src='/assets/img/service/1214440983719.jpg'
+                src='/assets/img/1214635498804.jpg'
                 alt='Ford Suport' onclick="omnitureViewPhoto()">
         </div>
         <div class="mdp2" id="mdpImageControl">
             <table>
                 <tr>
                     <td id="mdp2Fullscreen">
-                        <a href="/assets/img/service/1214440983720.jpg"
-                           onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440983720&amp;blobkey=id', 'Ford+Suport');
+                        <a href="/assets/img/1214635498804.jpg"
+                           onclick="engine.media.mdp.onFullScreen('/assets/img/1214635498804.jpg', 'Ford+Suport');
 if(typeof(sford)=='object') omnitureMDPFullScreen('1205019844254'); return false;">
                             Fullscreen
                         </a>
@@ -647,7 +647,7 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205019844254'); return false
                    onmouseout="changeClassbyID('izid36385351205019831842','imgZoom_png')"
                    onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440980415&#38;blobkey=id','image','Reparatii','Închide'); return false;">
                     <img
-                        src="/assets/img/service/1214440980416.jpg"
+                        src="/assets/img/1214632392416.jpg"
                         border="0" width="97"
                         height="97"
                         alt="Reparatii"
@@ -656,7 +656,7 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205019844254'); return false
                 </a>
 
                 <div>
-                    <a href="../cs/BlobServer9326.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440980415&amp;blobkey=id"
+                    <a href="/assets/img/1214632392414.jpg"
                        target="_blank" id="izid36385351205019831842" class="imgZoom_png" title='Zoom'
                        onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440980415&#38;blobkey=id','image','Reparatii','Închide'); return false;"></a>
                 </div>

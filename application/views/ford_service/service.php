@@ -420,7 +420,7 @@ return false;"
                     <div class="">
 
                         <img
-                            src="/assets/img/service/1214440982735.jpg"
+                            src="/assets/img/1214635498721.jpg"
                             border="0" width="97"
                             height="97"
                             alt="Ford Suport"
@@ -428,7 +428,7 @@ return false;"
                             style="border: solid 1px #999999;">
                         </a>
                         <div>
-                            <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440982734&#38;blobkey=id"
+                            <a href="/assets/img/1214635498719.jpg"
                                target="_blank" id="izid19030281205019831747" class="imgZoom_png" title='Zoom'
                                onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440982734&#38;blobkey=id','image','Ford Suport','Închide'); return false;"></a>
                         </div>

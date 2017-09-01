@@ -453,13 +453,13 @@
             });
         </script>
         <div id="mdp">
-            <img src='/assets/img/service/1214440982916.jpg' alt='SMART Repairs' onclick="omnitureViewPhoto()">
+            <img src='/assets/img/1214632437834.jpg' alt='SMART Repairs' onclick="omnitureViewPhoto()">
         </div>
         <div class="mdp2" id="mdpImageControl">
             <table>
                 <tr>
                     <td id="mdp2Fullscreen">
-                        <a href="/assets/img/service/1214440982917.jpg" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440982917&amp;blobkey=id', 'SMART+Repairs');
+                        <a href="/assets/img/1214632437834.jpg" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440982917&amp;blobkey=id', 'SMART+Repairs');
 if(typeof(sford)=='object') omnitureMDPFullScreen('1205019839447'); return false;">
                             Fullscreen
                         </a>
@@ -628,7 +628,7 @@ return false;"
                                        onmouseout="changeClassbyID('izid52612191205019835018','imgZoom_png')"
                                        onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440980479&#38;blobkey=id','image','Reparatie parbriz','Închide'); return false;">
                                         <img
-                                            src="/assets/img/service/1214440980480.jpg"
+                                            src="/assets/img/1214632392501.jpg"
                                             border="0" width="97"
                                             height="97"
                                             alt="Reparatie parbriz"
@@ -637,7 +637,7 @@ return false;"
                                     </a>
 
                                     <div>
-                                        <a href="../cs/BlobServerb2a3.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440980479&amp;blobkey=id"
+                                        <a href="/assets/img/1214632392499.jpg"
                                            target="_blank" id="izid52612191205019835018" class="imgZoom_png"
                                            title='Zoom'
                                            onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440980479&#38;blobkey=id','image','Reparatie parbriz','Închide'); return false;"></a>
@@ -679,7 +679,7 @@ return false;"
                                        onmouseout="changeClassbyID('izid17360341205019828833','imgZoom_png')"
                                        onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440982295&#38;blobkey=id','image','Reparatii','Închide'); return false;">
                                         <img
-                                            src="/assets/img/service/1214440982296.jpg"
+                                            src="/assets/img/1214632391848.jpg"
                                             border="0" width="97"
                                             height="97"
                                             alt="Reparatii"
@@ -688,7 +688,7 @@ return false;"
                                     </a>
 
                                     <div>
-                                        <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440982295&#38;blobkey=id"
+                                        <a href="/assets/img/1214632391846.jpg"
                                            target="_blank" id="izid17360341205019828833" class="imgZoom_png" title='Zoom'
                                            onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440982295&#38;blobkey=id','image','Reparatii','Închide'); return false;"></a>
                                     </div>
@@ -719,7 +719,7 @@ return false;"
                                        onmouseout="changeClassbyID('izid77279791205019839886','imgZoom_png')"
                                        onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440982980&#38;blobkey=id','image','Piese de origine','Închide'); return false;">
                                         <img
-                                            src="/assets/img/service/1214440982981.jpg"
+                                            src="/assets/img/1214632392685.jpg"
                                             border="0" width="97"
                                             height="97"
                                             alt="Piese de origine"
@@ -728,7 +728,7 @@ return false;"
                                     </a>
 
                                     <div>
-                                        <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440982980&#38;blobkey=id"
+                                        <a href="/assets/img/1214632392683.jpg"
                                            target="_blank" id="izid77279791205019839886" class="imgZoom_png" title='Zoom'
                                            onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440982980&#38;blobkey=id','image','Piese de origine','Închide'); return false;"></a>
                                     </div>
@@ -756,7 +756,7 @@ return false;"
                                        onmouseout="changeClassbyID('izid9602351205019830317','imgZoom_png')"
                                        onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440982485&#38;blobkey=id','image','Piese de origine','Închide'); return false;">
                                         <img
-                                            src="/assets/img/service/1214440982486.jpg"
+                                            src="/assets/img/1214440982486.jpg"
                                             border="0" width="97"
                                             height="97"
                                             alt="Piese de origine"
@@ -765,7 +765,7 @@ return false;"
                                     </a>
 
                                     <div>
-                                        <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440982485&#38;blobkey=id"
+                                        <a href="/assets/img/1214440982484.jpg"
                                            target="_blank" id="izid9602351205019830317" class="imgZoom_png" title='Zoom'
                                            onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440982485&#38;blobkey=id','image','Piese de origine','Închide'); return false;"></a>
                                     </div>
