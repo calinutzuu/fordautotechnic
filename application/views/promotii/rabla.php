@@ -12,9 +12,17 @@
 <div id="container_navi">
     <div class="left_item">
         <style type="text/css">
-            #wrapper > div, #wrapper .mainContent {margin-top:0px}
-            #container_navi{padding-top:9px}
-            #wrapper #frame {top:-3px\9}
+            #wrapper > div, #wrapper .mainContent {
+                margin-top: 0px
+            }
+
+            #container_navi {
+                padding-top: 9px
+            }
+
+            #wrapper #frame {
+                top: -3 px\9
+            }
         </style>
         <div class="navmenu">
             <div class="navtop"></div>
@@ -50,7 +58,8 @@
                     </script>
                 </li>
                 <li id='menu1205063922147' class=''>
-                    <a href='/Promotii/ProgramulPrimaMasina'>&Icirc;nscrie-te &icirc;n programul Prima Ma&#351;in&#259;!</a>
+                    <a href='/Promotii/ProgramulPrimaMasina'>&Icirc;nscrie-te &icirc;n programul Prima
+                        Ma&#351;in&#259;!</a>
                     <script type="text/javascript">
                         document.id('menu1205063922147').addClass("navnextSteps");
                     </script>
@@ -63,18 +72,22 @@
                 </li>
                 <li id='menu1205032537320' class=''>
                     <a href='/Promotii/PromotiiService'>Promo&#355;ii service</a>
+
                     <div id="navsubmenu" class="navsubmenu">
                         <div class="navsubmenutop">
                         </div>
                         <ul class="navsubmenu">
                             <li class=''>
-                                <a href='/Promotii/PromotiiService/PromotiiMotorcraft'>Promo&#355;ii Motorcraft autoturisme</a></li>
+                                <a href='/Promotii/PromotiiService/PromotiiMotorcraft'>Promo&#355;ii Motorcraft
+                                    autoturisme</a></li>
                             <li class=''>
-                                <a href='/Promotii/PromotiiService/PromotiiMotorcraft-utilitare'>Promo&#355;ii Motorcraft utilitare</a></li>
+                                <a href='/Promotii/PromotiiService/PromotiiMotorcraft-utilitare'>Promo&#355;ii
+                                    Motorcraft utilitare</a></li>
                             <li class=''>
                                 <a href='/Promotii/PromotiiService/PromotiiAccesorii'>Promo&#355;ii accesorii</a></li>
                             <li class=''>
-                                <a href='/Promotii/PromotiiService/BlueOval'>&Icirc;nlocuire Blue Oval</a></li></ul>
+                                <a href='/Promotii/PromotiiService/BlueOval'>&Icirc;nlocuire Blue Oval</a></li>
+                        </ul>
                         <div class="navsubmenubottom">
                         </div>
                     </div>
@@ -103,24 +116,26 @@
     <div id="mediaplayer1">
         <!--<START_MDP001>-->
         <script type="text/javascript">
-            engine.media.mdp.labelClose ='Închide';
+            engine.media.mdp.labelClose = 'Închide';
         </script>
         <div class="mdp2Box">
             <script type="text/javascript">
-                detectBW =	false;
-                window.addEvent('domready', function(){
+                detectBW = false;
+                window.addEvent('domready', function () {
                     fd.doDetection();
                 });
             </script>
             <div id="mdp">
-                <img src='/assets/img/1214489075121.jpg' alt='Promoţie Ford în Programul Rabla' onclick="omnitureViewPhoto()">
+                <img src='/assets/img/1214489075121.jpg' alt='Promoţie Ford în Programul Rabla'
+                     onclick="omnitureViewPhoto()">
             </div>
-            <div class="mdp2" id="mdpImageControl" >
+            <div class="mdp2" id="mdpImageControl">
                 <table>
                     <tr>
                         <td id="mdp2Fullscreen">
-                            <a href="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214489075122&amp;blobkey=id" onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214489075122&amp;blobkey=id', 'Promo%C5%A3ie+Ford+%C3%AEn+Programul+Rabla');
-if(typeof(sford)=='object') omnitureMDPFullScreen('1205082508713'); return false;" >
+                            <a href="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214489075122&amp;blobkey=id"
+                               onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214489075122&amp;blobkey=id', 'Promo%C5%A3ie+Ford+%C3%AEn+Programul+Rabla');
+if(typeof(sford)=='object') omnitureMDPFullScreen('1205082508713'); return false;">
                                 Fullscreen
                             </a>
                         </td>
@@ -142,13 +157,15 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205082508713'); return false
             function mdpOnLoad() {
                 engine.media.lockup.doshow('');
             }
-            if(window.addEventListener) {
+            if (window.addEventListener) {
                 window.addEventListener("load", mdpOnLoad, false);
-            } else if(window.attachEvent) {
+            } else if (window.attachEvent) {
                 window.attachEvent('onload', mdpOnLoad);
             }
-            if(document.id('mdp') != null && typeof document.id('mdp') != 'undefined'){
-                document.id('mdp').addEvent("contextmenu",function(event){ event.preventDefault();});
+            if (document.id('mdp') != null && typeof document.id('mdp') != 'undefined') {
+                document.id('mdp').addEvent("contextmenu", function (event) {
+                    event.preventDefault();
+                });
             }
         </script>
         <!--<END_MDP001>-->
@@ -158,7 +175,10 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205082508713'); return false
             <div class="btoArticleTitle">Promoţie Ford în Programul Rabla</div>
             <div class="btoArticleText">
                 <div class="btoArticleAbstract">
-                    <div><iframe height="1850" src="http://tehnologieauto.digitalk.ro/iframeRabla2015Landing" frameborder="0" width="750"></iframe></div>
+                    <div>
+                        <iframe height="1850" src="http://tehnologieauto.digitalk.ro/iframeRabla2015Landing"
+                                frameborder="0" width="750"></iframe>
+                    </div>
                 </div>
             </div>
         </div>
@@ -179,7 +199,8 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205082508713'); return false
         <div class="right_item">
             <!--<START_MDC001 >-->
             <div class="mdc001Container" id="dummyDiv">
-                <p class="mdc001Header" id="mdcHeader" ></p>
+                <p class="mdc001Header" id="mdcHeader"></p>
+
                 <div class="mdc001" id="mdc1416477130979">
                     <div class="mdc001Gradient">
                         <div class="mdc001GradientContainer"></div>
@@ -188,9 +209,9 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205082508713'); return false
             </div>
             <script>
                 var theDiv = document.getElementById("mdpImageControl");
-                if(theDiv.style.display == "none"){
+                if (theDiv.style.display == "none") {
                     dummyDiv.style.display = "none";
-                }else{
+                } else {
                     dummyDiv.style.display = "block";
                 }
             </script>

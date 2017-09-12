@@ -70,7 +70,29 @@
                     </div>
                 </article>
                 <br><br> -->
-                <article class="content-column left">
+                <article class="content-column centered">
+                    <div class="img-column"><a
+                            href="#"
+                            class="js-overlay" data-media-overlay='{"mediaType":"Image", "height":439, "width":780}'> <img
+                                src="/assets/img/1214637197006.jpg"
+                                alt="Noul Ford FIESTA"/><span class="fv-overlay-icon"></span></a></div>
+                    <div class="content center">
+                        <h3 class="bigHeading02 centered">
+                            NOUL FORD FIESTA
+                        </h3>
+
+                        <p>
+
+                        <p>Atractiv, inovator si unic, noul Ford Fiesta redefineste sensul vietii urbane elegante si
+                            contemporane. Incepe aventura zilnica <br> cu noua generatie Ford Fiesta si fa-ti simtita prezenta in
+                            oras. <br> <br> <a HREF="/Promotii/Autoturisme/NoulFordFIESTA"><span
+                                    style="color: rgb(0, 0, 255);"><u>DESCOPERA OFERTA!</u></span></a><span
+                                style="color: rgb(0, 0, 255);"><u> </u></span></p>
+                        </p>
+                    </div>
+                </article>
+
+                <!-- <article class="content-column left">
                     <div class="img-column"> <img src="/assets/img/1214627766081.jpg" alt="Noul Ford FIESTA" /></div>
                     <div class="content centered">
                         <h3 class="bigHeading02">
@@ -91,6 +113,26 @@
                         </p>
                     </div>
                     <div class="img-column"> <img src="/assets/img/1214629483691.jpg" alt="Ecobonus" /></div>
+                </article> -->
+
+                <article class="content-column centered">
+                    <div class="content">
+                        <h3 class="bigHeading02 centered">
+                            IA-TI O MASINA FORD PRIN PROGRAMUL RABLA!
+                        </h3>
+
+                        <p>
+
+                        <p>Schimba acum vechea ta masina cu una noua de la Ford si profita din plin de ofertele programului
+                            rabla!<br> <br> <a HREF="/Promotii/Autoturisme/programul-rabla"><span
+                                    style="color: rgb(0, 0, 255);"><u>Vezi aici modelele din campanie</u></span></a><br> Sau<br>
+                            <a HREF="/Promotii/Autoturisme/programul-rabla/Rezervare"><span
+                                    style="color: rgb(0, 0, 255);"><u>Rezerva acum masina preferata!</u></span></a></p>
+                        </p>
+                    </div>
+                    <div class="img-column"> <img
+                                src="/assets/img/1214616900879.jpg"
+                                alt="Redescopera placerea condusului"/><span class="fv-overlay-icon"></span></a></div>
                 </article>
                 <article class="content-column right">
                     <div class="content centered">

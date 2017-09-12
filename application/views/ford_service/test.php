@@ -1,22 +1,18 @@
-<article class="content-column right">
-    <div class="content">
-        <h3 class="bigHeading02">
-            Mergi mai departe cu Ford Ecobonus!
-        </h3>
-        <p>
-        <p>Vrei sa schimbi masina veche? Nu mai e nevoie sa astepti programul rabla. Ford a reluat campania Ecobonus si iti oferta un bonus garantat de 1.500 &euro;, la casarea masinii vechi.  <br> <br> Concret, asta inseamna: <br> - Rata lunara de la 700 lei, prin creditul auto in lei;<br> - Garantie extinsa 2+3 ani / 100.000 km;<br> - Dotari suplimentare prin pachetele optionale incluse in pret.<br> <br> Oferta se cumuleaza cu celelalte promotii si oferte aflate in derulare. <br> <u><br> </u><a HREF="/Promotii/Autoturisme/Ecobonus" ><u> Click aici pentru mai multe detalii </u></a></p>
-        </p>
-    </div>
-    <div class="img-column"> <img src="/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobheader=image%2Fjpeg&blobwhere=1214629483691&blobkey=id" alt="Ecobonus" /></div>
-</article>
-<article class="content-column left">
-    <div class="img-column"> <img src="/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobheader=image%2Fjpeg&blobwhere=1214629483610&blobkey=id" alt="Noul Kuga Ford" /></div>
-    <div class="content">
-        <h3 class="bigHeading02">
-            CEL MAI NOU SUV FORD, CU O OFERTA SPECIALA
-        </h3>
-        <p>
-        <p>Gandit pentru actiune; dotat pentru confort; cu un design care impresioneaza si cu numeroase tehnologii inteligente, noul Kuga este cel mai recent Smart Utility Vehicle de la Ford. Iar cu oferta promotionala ai un pret special pentru SUV-ul care iti va deschide noi posibilitati: doar 19.500 &euro;* (TVA inclus).<br> <br> <a HREF="/Promotii/Autoturisme/NoulKUGA" ><u>Vezi oferta speciala </u></a></p>
-        </p>
-    </div>
-</article>
+Mai sofisticat si mai modern ca oricand, Ford Focus este imbinarea ideala intre putere, economie, siguranta si rafinament in design.
+<br> Daca iti doresti o masina care sa te cucereasca la prima privire, dar care apoi sa se dovedeasca un partener solid, care are grija de bugetul tau, atunci probabil ca Focus a fost special creat sa te poarte pe drumul evolutiei si performantei.
+<br>
+<br> Ford Focus Trend, cu motor de 1.0 si 100 CP si 5 usi, beneficiaza de toate sistemele esentiale de siguranta si stabilitate: Programul Electronic de Stabilitate(ESP), Asistenta la Pornirea in Rampa(HLA), ABS (Sistemul Anti-Blocare la Franare), EBD (Distributia Electronica a Fortei de Franare), EBA (Asistenta la Franarea de Urgenta), sistemul de control avansat al cuplului motor (Torque Vectoring Control), ABS (Sistemul Anti-Blocare la Franare), EBA (Asistenta la Franarea de Urgenta), ESP (Programul Electronic de Stabilitate), HLA (Sistemul de asistenta la urcarea in rampa) si sistemul avansat de monitorizare a presiunii in pneuri;
+<br>
+<br> Acestora li se adauga airbag-uri frontale si laterale pentru sofer si pasager si airbaguri cortina fata si spate. Focus iti face viata mai usoara prin tehnologiile sale inteligente precum sistemul Ford My Key si iti bucura privirea cu volanul si schimbatorul sau imbracate in piele.
+<br>
+<br> In plus, are si dotari cu adevarat surprinzatoare si prietenoase cu mediul: incarcarea regenerativa inteligenta a bateriei, Active Grille Shutter si sistemul Ford ECOmode cu indicator de schimbare a vitezelor.
+<br>
+<br> Daca te intrebi ce iti mai poti dori, Pachetul optional Trend, disponibil in cadrul ofertei fara costuri suplimentare, iti aduce in plus:
+<br> <br> • aer conditionat automat, cu reglare separata stanga/dreapta;
+<br> • radio CD cu MP3 player, USB, 6 difuzoare, comenzi audio pe volan;
+<br> • SYNC 3 cu touchscreen color de 8", Blue Tooth, Voice Control si Sistem de asistenta in caz de urgenta (112);
+<br> • faruri de ceata;<br> • covorase de velur fata si spate cu logo Ford;<br> • consola centrala cu cotiera.<br>
+<br> Iar pentru a iti asigura o experienta lipsita de griji, beneficiezi si de g<strong>arantia extinsa: 2+3 ani sau
+    100.000 km</strong>, fara costuri suplimentare! <br> <br> Argumentul suprem? Fa un <a
+    href="/SBE/TestDrive/TestDriveAutoturisme"><span style="color: rgb(0, 0, 255);"><strong><u>test
+                drive</u></strong></span></a> si descopera singur ce inseamna sa pui focus pe evolutie!

@@ -60,12 +60,12 @@
             </ul>
             <div class="navdivider"></div>
             <ul id="nextSteps" class="nextSteps">
-                <li id='menu1205138023594' class=''>
+             <!--   <li id='menu1205138023594' class=''>
                     <a href='/Promotii/Autoturisme/programul-rabla/OfertaFiesta'/>Oferta Fiesta</a>
                     <script type="text/javascript">
                         document.id('menu1205138023594').addClass("navnextSteps");
                     </script>
-                </li>
+                </li> -->
                 <li id='menu1205138023616' class=''>
                     <a href='/Promotii/Autoturisme/programul-rabla/OfertaKA'/>Oferta Ka+</a>
                     <script type="text/javascript">
@@ -78,24 +78,24 @@
                         document.id('menu1205138023621').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205138026038' class=''>
+          <!--      <li id='menu1205138026038' class=''>
                     <a href='/Promotii/Autoturisme/programul-rabla/OfertaEcosport'/>Oferta EcoSport</a>
                     <script type="text/javascript">
                         document.id('menu1205138026038').addClass("navnextSteps");
                     </script>
-                </li>
+                </li> -->
                 <li id='menu1205138026342' class=''>
                     <a href='http://www.ford.ro/Promotii/Autoturisme/programul-rabla/Rezervare'/>Rezervare</a>
                     <script type="text/javascript">
                         document.id('menu1205138026342').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205138206134' class=''>
+          <!--      <li id='menu1205138206134' class=''>
                     <a href='http://www.ford.ro/Promotii/Autoturisme/programul-rabla/EcoBonus'/>EcoBonus</a>
                     <script type="text/javascript">
                         document.id('menu1205138206134').addClass("navnextSteps");
                     </script>
-                </li>
+                </li>  -->
             </ul>
             <div class="navbottom"></div>
         </div>
@@ -165,35 +165,10 @@
     </div>
     <div id="container_center">
         <div class="center_item">
-            <div class="btoArticleTitle">PROFITA DE PROGRAMUL RABLA!</div>
+            <div class="btoArticleTitle">BUCURA-TE DE PROGRAMUL RABLA!</div>
             <div class="btoArticleText">
                 <div class="btoArticleAbstract">
-                    <div>‐&nbsp;<strong>Rata lunara incepand de la 380 lei</strong>, prin creditul auto in lei;<br> ‐&nbsp;<strong>Pachete
-                            optionale incluse in pret</strong>, la modelele selectate;<br> ‐&nbsp;<strong>Garantie
-                            extinsa</strong>, la modelele selectate.<br> <br> Ford reia ofertele speciale prin programul
-                        Rabla &ndash; inscrie-te acum si caseaza-ti autoturismul vechi. Poti folosi tichetul rabla
-                        pentru a achizitiona modelul Ford pe care ti-l doresti &ndash; toate modelele din promotie vin
-                        cu preturi speciale si beneficii suplimentare.<br> <br> Tehnologii inteligente, motorizari
-                        prietenoase cu mediul, design care se face remarcat si echipari care va fac sa va simtiti in
-                        siguranta &ndash; atat tu, cat si pasagerii tai: acestea sunt doar o parte dintre atributele
-                        gamei Ford. Sigur vei gasi modelul care ti se potriveste.<br> <br> Afla mai multe despre
-                        beneficiile pentru fiecare model participant la campanie:<br> <br> <strong>Ford KA+</strong> -
-                        practic, spatios, economic &ndash; detalii <a HREF="programul-rabla/OfertaKA"><span
-                                style="color: rgb(0, 0, 255);"><u>aici</u></span></a><br> <strong>Ford
-                            Fiesta</strong> &ndash; agil, contemporan, urban &ndash; detalii <a
-                            HREF="programul-rabla/OfertaFiesta"><span
-                                style="color: rgb(0, 0, 255);"><u>aici</u></span></a><br> <strong>Ford
-                            Focus</strong> &ndash; sofisticat, modern, spatios &ndash; detalii <a
-                            HREF="programul-rabla/OfertaFocus"><span
-                                style="color: rgb(0, 0, 255);"><u>aici</u></span></a><br> <strong>Ford
-                            EcoSport</strong> &ndash; compact, confortabil, performant &ndash; detalii <a
-                            HREF="programul-rabla/OfertaEcosport"><span style="color: rgb(0, 0, 255);"><u>aici</u></span></a><br>
-                        <br> Ai ales modelul care ti se potriveste? <strong><a
-                                HREF="programul-rabla/Rezervare"><span
-                                    style="color: rgb(0, 0, 255);"><u>Rezerva</u></span></a></strong>-l acum!<br> <br>
-                        <br> <strong>Nu vrei sa faci o achizitie prin programul rabla? In campania Ford Ecobonus gasesti
-                            promotii extrem de avantajoase. Click <a HREF="programul-rabla/EcoBonus"><span
-                                    style="color: rgb(0, 0, 255);"><u>aici</u></span></a>!</strong></div>
+                    <div>‐&nbsp;<strong>Rata lunara incepand de la 380 lei;</strong><br> ‐&nbsp;<strong>Pachete optionale incluse in pret;</strong><br> ‐&nbsp;<strong>Garantie extinsa 2+3 ani, </strong>la anumite modele.<br> <br> Ford stie ca o masina noua te ajuta sa redescoperi placerea condusului. De asemenea, mai stie ca un autoturism vechi iti poate aduce oricand surprize neplacute. Tocmai de aceea, Ford revine cu oferte speciale prin programul Rabla, pentru ca tu sa poti achizitiona o masina noua, dotata cu tehnologii moderne, asortate cu un design de invidiat.<br> <br> Folosind tichetul Rabla, beneficiezi de preturi si beneficii suplimentare, cu totul neasteptate.<br> <br> Modelele Ford participante in campanie sunt inzestrate cu sisteme moderne si tehnologii inteligente, pentru ca tu sa te bucuri de performanta si eficienta Ford. Acestora li se adauga motorizari prietenoase cu mediul, dotari de siguranta si asistenta a soferului, care vor transforma condusul de zi cu zi intr-o experienta deosebita, atat pentru tine, cat si pentru pasagerii tai. Iar daca pui pret pe aspectul masinii tale, cu siguranta vei fi pe loc cucerit de noile noastre modele.<br> <br> Descopera beneficiile modelelor din campanie:<br> <br> <strong>Ford KA+</strong> &ndash; modern, spatios, economic &ndash; detalii <a HREF="/Promotii/Autoturisme/programul-rabla/OfertaKA" ><span style="color: rgb(0, 0, 255);"><u>aici</u></span></a><br> <strong>Ford Focus</strong> &ndash; rafinat, inteligent, solid &ndash; detalii <a HREF="/Promotii/Autoturisme/programul-rabla/OfertaFocus" ><span style="color: rgb(0, 0, 255);"><u>aici</u></span></a><br> Ai ales modelul care ti se potriveste? <strong><a HREF="/Promotii/Autoturisme/programul-rabla/Rezervare" ><span style="color: rgb(0, 0, 255);"><u>Rezerva</u></span></a></strong>-l acum!<strong><br> </strong></div>
                 </div>
             </div>
         </div>

@@ -10,117 +10,106 @@
         <section class="mid-page-content">
             <div class="tab-content">
                 <header class="intro-header">
-                    <h1 class="bigHeading centered">
-                        NOUL FORD FIESTA, CU BENEFICII SPECIALE PENTRU AFACEREA TA!
+                    <h1 class="bigHeading">
+                        LASA-TE SEDUS DE OFERTA NOULUI FORD FIESTA!<br><strong>DE LA DOAR 500 LEI / LUNA*</strong>
                     </h1>
-                    <br>
                     <span class="highlighter"></span>
 
                     <p class="intro-text">
 
-                    <p>Descopera acum noua gama Ford Fiesta, cu avantaje complete pentru afacerea ta: <br> - <strong>rata
-                            lunara de 145&euro; +TVA* </strong><br> - <strong>1,99% dobanda anuala*</strong><br> -
-                        <strong>garantie complexa 2+4 ani*</strong><br> <br> Cu un stil si personalitate
-                        ultracontemporane, tehnologii avansate si functii vitale, noul Ford Fiesta va aduce un plus de
-                        dinamism si energie in compania ta. <br> <br> Reimaginat si reinventat, noul Ford Fiesta este,
-                        in egala masura, sursa unui nou suflu de energie, in drumurile zilnice pe care le faci tu sau
-                        colegii tai, si o declaratie de modernitate facuta partenerilor de afaceri. <br> <br>
-                        Bineinteles, noul Fiesta aduce si o serie de beneficii mult mai concrete: de la costurile reduse
-                        de utilizare, datorate tehnologiilor de eficientizare cum ar fi sistemul Auto-Start-Stop si
-                        indicatorul pentru schimbarea optima a treptelor de viteza, pana la tehnologiile de siguranta,
-                        care te ajuta sa eviti cheltuielile de reparatie si imobilizarea masinii. <br> <br> <br> Pe
-                        langa oferta speciala de finantare, cu <strong>rata lunara de 145&euro;</strong> +TVA* si
-                        <strong>1,99% dobanda anuala*</strong>, poti avea siguranta ca afacerea ta va continua sa
-                        utilizeze toate beneficiile oferite de Fiesta: iti oferim, fara costuri suplimentare, <strong>garantia
-                            complexa de 2 + 4 ani</strong> (in limita a 100.000 km). <br> <br> Nu mai astepta, ia
-                        legatura cu cel mai apropiat <a HREF="http://www.ford.ro/SBE/dealeri-ford"><span
-                                style="color: rgb(0, 0, 255);">showroom Ford</span></a>, unde un consultant specializat
-                        de flote te va ajuta sa gasesti modul de achizitie cel mai convenabil pentru afacerea ta.</p>
-<br>
-                    <div><font onmouseout="this.style.color='#000000'" color="#000000">
-                            <div><strong> <font onmouseout="this.style.color='#000000'"
-                                                color="#000000"> </font></strong></div>
+                    <p style="text-align: justify">Iti place sa imbini rafinamentul cu inovatia si siguranta cu aventura?
+                        Daca da, e timpul sa descoperi masina care iti poate provoca...dragoste la primul drive test.<br>
+                        <br> Cu un look proaspat, care se armonizeaza perfect cu toate caracteristicile inteligente, noul
+                        Ford Fiesta a fost creat pentru a te surprinde mereu, cat mai placut. Noua Fiesta va atrage cu
+                        siguranta priviri admirative, oriunde ati merge. Iar tehnologiile sale de ultima ora, iti ofera o
+                        experienta inedita la volan &ndash; dinamica, sigura si extrem de confortabila. <br> <br> Sistemul
+                        de asistenta activa, senzorii de parcare, tempomatul adaptiv, sistemul de asistenta la pastrarea
+                        benzii, sistemul MyKey si plafonul panoramic, au fost special create pentru ca tu sa mergi mai
+                        departe.<br> <br> Gratie conditiilor speciale de finantare, poti alege o <span
+                            style="font-size: x-large;"><strong>rata lunara de la 500 de lei*</strong></span> &ndash; fara
+                        comision de administrare sau rate reziduale. Suna prea bine sa fie adevarat? <br> <br> Oferta
+                        speciala prin programul rabla te cucereste instant: incepe de la <strong><span
+                                style="font-size: x-large;">9.300&euro;*, TVA inclus</span></strong>, cu <span
+                            style="font-size: x-large;"><strong>pachetul Trend</strong></span> fara costuri suplimentare!
+                        Acest pachet include dotari esentiale pentru confortul si siguranta ta:<br> <br> &bull; Aer
+                        conditionat manual;<br> &bull; SYNC 3 cu Bluetooth, USB, touchscreen 6.5&rdquo;si Sistem de
+                        Asistenta in caz<br> &nbsp;&nbsp;de urgenta (112);<br> &bull; Faruri de ceata.<br> <br> O oferta cu
+                        adevarat tentanta nu vine niciodata singura, ci insotita de o&nbsp;<span
+                            style="font-size: x-large;"><strong>garantie complexa: 2 + 4</strong></span> ani (in limita a
+                        100.000 km).</p>
+
+                    <p style="text-align: justify">Inca ai ezitari? Inscrie-te acum la primul <a
+                            HREF="/SBE/TestDrive/TestDriveAutoturisme"><span style="color: rgb(0, 0, 255);"><u><strong>test
+                                        drive</strong></u></span></a> si descopera ca drumul poate fi o fiesta continua!</p>
+
+                    <p style="text-align: justify">Sau viziteaza cel mai apropiat <a HREF="/SBE/dealeri-ford"><span
+                                style="color: rgb(0, 0, 255);"><u><strong>showroom Ford</strong></u></span></a> si afla
+                        rapid toate detaliile despre promotie si solutiile financiare potrivite nevoilor si cerintelor tale.
+                    </p>
+
+                    <div style="margin-left: 125px; margin-right: 125px;"><font onmouseout="this.style.color='#000000'"
+                                                                                color="#000000">
+                            <div><strong> <font onmouseout="this.style.color='#000000'" color="#000000"> </font></strong>
+                            </div>
                             <div></div>
                             <div><span style="font-size: medium;"><span color="#000000"> <div style="text-align: left;"
                                                                                               id="replie2"><font
                                                 onmouseout="this.style.color='#000000'" color="#000000"><span
                                                     onclick="document.getElementById('deplie2').style.display = 'block'; document.getElementById('replie2').style.display = 'none';"><a><span
-                                                            style="color: rgb(0, 0, 0);"><u><span
-                                                                    style="font-size: medium;"><font
+                                                            style="color: rgb(0, 0, 0);"><u><span><font
                                                                         onmouseover="this.style.color='#000000'"
-                                                                        onmouseout="this.style.color='#000000'">
-                                                                        <center><em><p>Termeni si conditii</p></em>
-                                                                        </center>
-                                                                        <p></p></font></span></u></span><span
-                                                            style="font-size: medium;"><font
+                                                                        onmouseout="this.style.color='#000000'"> <em><p>
+                                                                                Termeni si conditii</p></em> </font></span></u></span><span><font
                                                                 onmouseover="this.style.color='#000000'"
-                                                                onmouseout="this.style.color='#000000'" color="#000000"><u> </u></font></span></a></span></font>
+                                                                onmouseout="this.style.color='#000000'"
+                                                                color="#000000"><u> </u></font></span></a></span></font>
                                         </div> <div style="display: none; text-align: left;" id="deplie2"><span
                                                 onclick="document.getElementById('replie2').style.display = 'block'; document.getElementById('deplie2').style.display = 'none';"><font
-                                                    onmouseout="this.style.color='#000000'" color="#000000"><u>
-                                                        <center><em><p>Termeni si conditii</p></em></center>
-                                                        <p></p></u></font> <font onmouseout="this.style.color='#000000'"
-                                                                                 color="#000000"><br> </font> <div
-                                                    style="text-align: center;"><font
-                                                        onmouseout="this.style.color='#000000'"
-                                                        color="#000000"><span><em><br>
-
-                                                                <p><em> Imaginea este cu titlu de prezentare si nu
-                                                                        creeaza obligatii contractuale.<br> Oferta
-                                                                        financiara este aferenta modelului Noul Ford
-                                                                        Fiesta Trend 1.5 TDCi 85 CP M6 in valoare de
-                                                                        11.196 Euro + TVA (13.323,24 Euro TVA inclus),
-                                                                        avans 30% in valoare de 3.358,80 Euro + TVA
-                                                                        (3.996,97 TVA inclus), pe 60 luni: rata anuala a
-                                                                        dobanzii (variabila) 1,99%, comision de analiza
-                                                                        dosar 2,5% din pretul mașinii (279,90 Euro
-                                                                        +TVA), comision lunar de administrare 0,12%
-                                                                        (9.40 Euro+ TVA), valoarea ratei lunare 144,74
-                                                                        Euro + TVA (172,24 Euro TVA inclus) valoarea
-                                                                        totala platibila 12.567,06 Euro+ TVA (14.954,76
-                                                                        Euro TVA inclus), DAE 6,46 %. In calculul ratei
-                                                                        lunare nu s-a inclus asigurarea CASCO.<br>
-                                                                        Aceasta oferta include garantia complexa (2+4
-                                                                        ani de garantie conventionala) in limita a
-                                                                        100.000 km (incluzand perioada de 2 ani de
-                                                                        garanție legala) in functie de care dintre cele
-                                                                        doua elemente (kilometraj sau timp) expira
-                                                                        primul. Garantia extinsa acopera aceleasi
-                                                                        componente ca si garantia de baza, cu
-                                                                        urmatoarele exceptii: elemente supuse uzurii
-                                                                        normale; piesele de schimb utilizate in cadrul
-                                                                        reviziilor periodice; reparatii de caroserie si
-                                                                        vopsitorie; geamuri; elemente de tapiserie
-                                                                        precum si accesorii interioare sau exterioare;
-                                                                        consumabile sau elemente supuse uzurii normale
-                                                                        si accentuate precum si distrugerea accidentala
-                                                                        a: caroseriei, vopsea, geamuri, scaune,
-                                                                        ornamente interioare, sistemul de evacuare,
-                                                                        placute de frana, discuri de frana, tamburi
-                                                                        frana, suspensia McPherson, bujii, sigurante,
-                                                                        amortizoare, stergatoare, baterii, filtre de
-                                                                        aer, filtre de polen, filtre de ulei, filtre
-                                                                        carburant, baterii autovehicul, roti/anvelope,
-                                                                        becuri, curele, disc ambreiaj.<br> <br> Oferta
-                                                                        nu include contravaloarea unor echipamente,
-                                                                        accesorii sau dotari optionale, este supusa unor
-                                                                        termene, respectiv conditii si este valabila in
-                                                                        limita stocului de vehicule disponibil la
-                                                                        dealerii participanti in program. Consumul mixt
-                                                                        masurat in conformitate cu dispozitiile legale
-                                                                        in vigoare (ex. Directiva Europeana nr.
-                                                                        715/2007): 3,3l/100 km, emisii CO<sub>2</sub>
-                                                                        (g/km) 84, valoare masurata in conformitate cu
-                                                                        dispozitiile legale in vigoare;<br> <br> Detalii
-                                                                        si explicatii suplimentare despre
-                                                                        campanie &ndash; la dealerii autorizati Ford
-                                                                        participanti la campanie.<br> Aceasta oferta
-                                                                        financiara este realizata exclusiv prin
-                                                                        UniCredit Leasing Corporation IFN si este
-                                                                        valabila pana la data de 30 Septembrie
-                                                                        2017.</em></p>
-
-                                                                <p></p> <br> </em></span></font></div> <em> </em></span>
+                                                    onmouseout="this.style.color='#000000'" color="#000000"><u><em><p>
+                                                                Termeni si conditii</p></em> </u></font> <font
+                                                    onmouseout="this.style.color='#000000'" color="#000000"><br> </font> <div
+                                                    style="text-align: justify;"><font
+                                                        onmouseout="this.style.color='#000000'" color="#000000"><span> <p>
+                                                                <em>Imaginea este cu titlu de prezentare si nu creeaza
+                                                                    obligatii contractuale. Oferta financiara, tehnica si
+                                                                    comerciala, neangajanta si care are caracter
+                                                                    exemplificativ, de mai jos are valabilitate in masura in
+                                                                    care programul Rabla este relansat/suplimentat financiar
+                                                                    de catre autoritatile publice relevante, este adresata
+                                                                    exclusiv persoanelor fizice. Informatiile financiare
+                                                                    sunt emise de UniCredit Consumer Financing pentru
+                                                                    modelul Fiesta Trend (5 usi, motor 1,1 85CP, cutie
+                                                                    manuala 5 trepte, pachet Trend inclus, garantie
+                                                                    complexa: 2 ani garantie legala+ 4 ani garantie
+                                                                    conventionala in limita a 100.000 km) in valoare de
+                                                                    9.300 Euro (pret 41.850&nbsp;Lei la un curs
+                                                                    exemplificativ de [4,5] Lei/1 Euro) TVA inclus, avans
+                                                                    16.113 Lei (38,5%). Valoarea totala estimativa a
+                                                                    Creditului Ford va fi de 25.737 Lei pe o perioada de 60
+                                                                    luni, astfel: rata anuala dobanda 4,95% (ROBOR la 3 luni
+                                                                    + marja 4,13%), analiza dosar 790 Lei, administrare
+                                                                    lunara credit 0 Lei, rata lunara estimativa 500 Lei,
+                                                                    valoarea totala estimativa platibila a&nbsp;creditului
+                                                                    30.000 Lei, DAE 6,38 %. Valoarea estimativa a ratei
+                                                                    lunare de mai sus nu include asigurarea optionala de
+                                                                    viata si asigurarea CASCO.<br> <br> Pretul modelului
+                                                                    este obtinut dupa includerea cumulativa a: 1.
+                                                                    contravalorii suportului acordat de Ford Romania, 2.
+                                                                    contributiei dealerilor participanti la acest program,
+                                                                    3. contravalorii tichetului valoric rabla de 6.500 Lei,
+                                                                    4. contravalorii garantiei extinse 6 ani (2+4 ani) sau
+                                                                    100.000 km.<br> <br> Pachetul de informatii financiare
+                                                                    nu include echipamente/accesorii/dotari optionale
+                                                                    suplimentare pachetului Trend, este supus unor termene
+                                                                    si conditii si este valabil pana la data de 30.09.2017
+                                                                    in limita stocului disponibil si sub rezerva relansarii
+                                                                    si/sau suplimentarii programului Rabla de catre
+                                                                    autoritatile publice relevante. Consumul mixt estimativ
+                                                                    4,7 l /100&nbsp;km si nivelul emisiilor CO<sub>2</sub>,
+                                                                    107 g/km, sunt masurate in conformitate cu dispozitiile
+                                                                    legale in vigoare.<br> <br> Detalii la dealerii
+                                                                    autorizati Ford participanti la campanie.</em>
+                                                            </p> </span></font></div> <em> </em></span>
                                         </div> <em> </em></span></span></div>
                             <em><p><span style="font-size: x-small;"><font onmouseout="this.style.color='#000000'"
                                                                            color="#000000"> <strong><br>

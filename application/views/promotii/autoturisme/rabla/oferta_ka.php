@@ -20,6 +20,7 @@
 
             #wrapper #frame {
                 top: -3 px\9
+
             }
         </style>
         <div class="navmenu">
@@ -68,12 +69,12 @@
             </ul>
             <div class="navdivider"></div>
             <ul id="nextSteps" class="nextSteps">
-                <li id='menu1205111254125' class=''>
+             <!--   <li id='menu1205111254125' class=''>
                     <a href='OfertaFiesta'/>Oferta Fiesta</a>
                     <script type="text/javascript">
                         document.id('menu1205111254125').addClass("navnextSteps");
                     </script>
-                </li>
+                </li> -->
                 <li class="selected"><p>Oferta KA+</p></li>
                 <li id='menu1205110704441' class=''>
                     <a href='OfertaFocus'/>Oferta Focus</a>
@@ -82,24 +83,24 @@
                     </script>
                 </li>
 
-                <li id='menu1205138026038' class=''>
+           <!--     <li id='menu1205138026038' class=''>
                     <a href='/Promotii/Autoturisme/programul-rabla/OfertaEcosport'/>Oferta EcoSport</a>
                     <script type="text/javascript">
                         document.id('menu1205138026038').addClass("navnextSteps");
                     </script>
-                </li>
+                </li> -->
                 <li id='menu1205138026342' class=''>
                     <a href='http://www.ford.ro/Promotii/Autoturisme/programul-rabla/Rezervare'/>Rezervare</a>
                     <script type="text/javascript">
                         document.id('menu1205138026342').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205138206134' class=''>
+            <!--   <li id='menu1205138206134' class=''>
                     <a href='http://www.ford.ro/Promotii/Autoturisme/programul-rabla/EcoBonus'/>EcoBonus</a>
                     <script type="text/javascript">
                         document.id('menu1205138206134').addClass("navnextSteps");
                     </script>
-                </li>
+                </li> -->
 
             </ul>
             <div class="navbottom"></div>
@@ -167,32 +168,83 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205111010574'); return false
     </div>
     <div id="container_center">
         <div class="center_item">
-            <div class="btoArticleTitle">DE LA NUMAI 380 LEI / LUNA* PENTRU FORD KA+!</div>
+            <div class="btoArticleTitle">Programul Rabla vine la Ford cu ceva in plus: Ford KA+, de la 380 lei /
+                luna*!
+            </div>
             <div class="btoArticleText">
                 <div class="btoArticleAbstract">
-                    <div>Profita acum de programul rabla! Daca iti casezi masina veche, ai un pret special pentru Ford KA+:
-                        numai <strong>  7.700€, TVA inclus,</strong> cu dotarile din <strong>pachetul Essential </strong> fara niciun cost suplimentar!
-                        Iar multumita conditiilor speciale de finantare, poti alege o <strong>rata lunara de la 380 de lei</strong> – fara
-                        comision de administrare sau rate reziduale.
+                    <div>La Ford, programul Rabla vine cu o serie de avantaje si oferte irezistibile, care te seduc la
+                        prima citire. <br> <br>
+                        Daca iti casezi masina veche, ai un pret special pentru Ford KA+: numai <strong>7.800€, TVA
+                            inclus,</strong> cu
+                        dotarile din <strong>pachetul Essential</strong> fara niciun cost suplimentar! Gratie
+                        conditiilor speciale de
+                        finantare, poti alege o <strong>rata lunara de la 380 de lei </strong> – fara comision de
+                        administrare sau rate
+                        reziduale.
                     </div>
                     <br>
-                        KA+ iti aduce toate dotarile esentiale pentru siguranta: airbaguri frontale pentru pasagerul din fata si sofer, airbaguri laterale pentru protejarea toracelui si airbaguri tip cortina pentru protejarea capului; sistem de control al tractiunii, sistem de monitorizare a presiunii in pneuri. Nu lipsesc nici sistemele de asistenta pentru manevrele de zi cu zi: de la sistemul de directie asistata electric (EPAS), care se regleaza automat pentru a permite virarea mai simpla si mai usoara atunci cand parchezi si pentru a oferi o directie mai ferma, pana la Sistemul de asistenta la pornirea din rampa, care foloseste sistemul de franare pentru a impiedica alunecarea in spate a noului KA+ atunci cand pornesti din rampa.
-<br>
-                        La acestea se adauga, fara niciun cost suplimentar, dotarile din pachetul optional Essential, adica sistemul de aer conditionat manual si sistemul radio-CD cu bluetooth si conexiune USB.
+
+                    E firesc sa iti doresti o masina aparent mica, dar surprinzator de spatioasa. O masina care consuma
+                    putin, in ciuda motorului energic de 1,19 litri si 70CP. O masina care pe langa designul atragator,
+                    mai are si dotari practice. Daca aceasta masina exista cu adevarat, atunci fiecare moment petrecut
+                    la volanul ei, va fi cu siguranta o placere.
+                    <br>
+
+                    <br>
+                    Din fericire, masina exista, sub denumirea de Ford Ka+ si a fost proiectata pentru a-ti implini
+                    toate asteptarile in ceea ce priveste siguranta ta la volan: airbaguri frontale pentru pasagerul din
+                    fata si sofer, airbaguri laterale pentru protejarea toracelui si airbaguri tip cortina pentru
+                    protejarea capului; sistem de control al tractiunii, sistem de monitorizare a presiunii in pneuri.
+                    <br>
+
+                    <br>
+                    Siguranta insa nu e totul, pentru ca vrei ca masina ta sa aiba dotari inteligente, care iti fac
+                    viata mai usoara. Cum ar fi sistemele de asistenta pentru manevrele de zi cu zi: de la sistemul de
+                    directie asistata electric (EPAS), care permite virarea mai simpla si mai usoara atunci cand
+                    parchezi, pana la sistemul de franare special, care impiedica alunecarea in spate, cand pornesti din
+                    rampa.
+                    <br>
+                    La acestea se adauga, fara niciun cost suplimentar, dotarile din pachetul optional Essential, adica
+                    sistemul de aer conditionat manual si sistemul radio-CD cu bluetooth si conexiune USB.
 
 
                     <br><br>
-                    <strong>Rezerva acum oferta speciala pentru Ford Ka+  &ndash; click <a HREF="/Promotii/Autoturisme/programul-rabla/Rezervare" ><span style="color: rgb(0, 0, 255);"><u>aici</u></span></a>! </strong><br>
-                    &nbsp;<br>
+                    Realist vorbind, e greu sa iti doresti mai mult de la o masina atat de mica.
+                    <br> Simte live toate avantajele Ford Ka+, la un <a
+                        href="/SBE/TestDrive/TestDriveAutoturisme"><strong><span
+                                style="color: rgb(0, 0, 255);"><u>test drive</u></span></strong></a> in urma caruia
+                    sigur...iesi pe plus!
+                    <br><br>
+                    <strong>Ai nevoie de mai multe informatii? Toate detaliile despre Ford Fiesta si oferta speciala iti
+                        stau la dispozitie. Ia legatura cu unul din consultantii nostrii. </strong></p>
 
-                    <strong>Ai nevoie de mai multe informatii? Toate detaliile despre Ford Fiesta si oferta speciala iti stau la dispozitie. Ia legatura cu unul din consultantii nostrii. </strong></p>
-                    <div> Imaginea este cu titlu de prezentare si nu creeaza obligatii contractuale.
+                    <div> Termeni si Conditii <br><br>
 
-                        Oferta financiara de prezentare contine TVA, este realizata exclusiv de UniCredit Consumer Financing si se adreseaza persoanelor fizice. Oferta financiara este aferenta modelului KA+ Essential 1.19 70 CP cutie manuala 5 trepte, in valoare de 7.700 Euro (pret lei 34.650 la un curs exemplificativ de [4,5] RON/1 EUR); avans 15.280 lei (44,1%), valoarea totala a creditului FORD va fi de 19.370 lei pe 60 luni: rata anuala a dobanzii 4,95% (ROBOR la 3 luni + 4,11%), comision de analiza dosar 790 lei, comision lunar de administrare credit 0 lei, valoarea ratei lunare 380 lei, valoarea totala platibila a creditului FORD 22.800 lei, DAE 6,81 %. In calculul ratei lunare nu s-a inclus asigurarea optionala de viata si asigurarea CASCO. Sumele prezentate anterior pot varia in functie de valoarea tichetului valoric rabla ulterior intrarii in vigoare a legislatiei specifice, dar si de cursul de schimb RON/EUR la data tranzactiei si/sau emiterii documentatiei de finantare. Pretul modelului este obtinut dupa includerea cumulativa a: 1. contravalorii suportului acordat de Ford Romania; 2. contributiei dealerilor participanti la acest program; 3. O contravaloare estimata a tichetului valoric rabla de 6.500 lei.
-
-                        Oferta nu include contravaloarea unor echipamente, accesorii sau dotari optionale, este supusa unor termene, respectiv conditii si este valabila in limita stocului de vehicule disponibil la dealerii participanti in program. Consumul mixt masurat in conformitate cu dispozitiile legale in vigoare (e.g Directiva Europeananr. 715/2007): 5.0 l /100 km, emisii CO2 (g/km): 114, valoare masurata in conformitate cu dispozitiile legale in vigoare.
-                        Detalii si explicatii suplimentare despre campanie - la dealerii autorizati Ford participanti la campanie.
-                        Oferta in limita stocului disponibil, valabila pana la 30 Iunie 2017
+                        Oferta financiara de prezentare contine TVA, este realizata exclusiv de UniCredit Consumer
+                        Financing si se adreseaza persoanelor fizice. Oferta financiara este aferenta modelului KA+
+                        Essential 1.19 70 CP, cutie manuala 5 trepte, in valoare de 7.800 Euro (pret lei 35.100 lei la
+                        un curs cu titlu de exemplu de [4,5] RON/1 EUR) TVA inclus, avans 15.730 lei (44,8 %), valoarea
+                        totala estimativa a creditului in Lei, va fi de 19.370 lei pe 60 luni, rata anuala a dobanzii
+                        variabila de 4,95% (ROBOR la 3 luni* + marja 4,13%), comision de analiza dosar 790 lei, comision
+                        lunar de administrare credit 0 lei, valoarea ratei lunare (pentru rate egale) 380 lei, valoarea
+                        totala platibila 22.800 lei, DAE este 6,81%. In calculul DAE nu s-a inclus asigurarea optionala
+                        de viata si asigurarea CASCO. *ROBOR la 3 luni, valabil la 20 iunie 2017.
+                        Sumele prezentate anterior pot varia in functie de valoarea tichetului valoric rabla, ulterior
+                        intrarii in vigoare a legislatiei specifice, dar si de cursul de schimb RON/EUR la data
+                        tranzactiei si/sau emiterii documentatiei de finantare. Pretul modelului este obtinut dupa
+                        includerea cumulativa a: 1. contravalorii suportului acordat de Ford Romania; 2. contributiei
+                        dealerilor participanti la acest program; 3. O contravaloare estimata a tichetului valoric rabla
+                        de 6.500 lei.
+                        <br>   <br>
+                        Oferta nu include contravaloarea unor echipamente, accesorii sau dotari optionale. Este supusa
+                        unor termene, respectiv conditii si e valabila in limita stocului de vehicule disponibil la
+                        dealerii participanti in program. Consumul mixt masurat in conformitate cu dispozitiile legale
+                        in vigoare (e.g Directiva Europeananr. 715/2007): 5,0 l /100 km, emisii CO2 (g/km): 114, valoare
+                        masurata in conformitate cu dispozitiile legale in vigoare.
+                        Detalii si explicatii suplimentare despre campanie - la dealerii autorizati Ford participanti la
+                        campanie.
+                        Oferta in limita stocului disponibil, valabila pana la 30.09.2017
 
                     </div>
                 </div>
