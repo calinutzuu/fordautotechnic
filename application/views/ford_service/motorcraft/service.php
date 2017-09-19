@@ -339,7 +339,7 @@
             <ul id="nextSteps" class="nextSteps">
                 <li class="selected"><p>Service</p></li>
                 <li id='menu1205094744286' class=''>
-                    <a href='Anvelope'/>Anvelope de vara</a>
+                    <a href='Anvelope'/>Anvelope de iarna</a>
                     <div id="navsubmenu" class="navsubmenu">
                         <div class="navsubmenutop">
                         </div>

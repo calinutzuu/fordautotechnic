@@ -288,6 +288,7 @@
 
             #wrapper #frame {
                 top: -3 px\9
+
             }
         </style>
         <div class="navmenu">
@@ -346,7 +347,7 @@
                             <li class=''>
                                 <a href='../Service'>Service</a></li>
                             <li class=''>
-                                <a href='../Anvelope'>Anvelope de vara</a></li>
+                                <a href='../Anvelope'>Anvelope de iarna</a></li>
                             <li class=''>
                                 <a href='../Pre-verificareITP'>Pre-verificare I.T.P.</a></li>
                             <li class=''>
@@ -356,7 +357,7 @@
                         </div>
                     </div>
                 </li>
-                <li><p>Anvelope de vara</p></li>
+                <li><p>Anvelope de iarna</p></li>
             </ul>
             <div class="navdivider"></div>
             <ul id="nextSteps" class="nextSteps">
@@ -414,297 +415,311 @@
 <div id="container_main">
 <div style="height: 115px">&nbsp;</div>
 <div id="container_center">
-    <div class="center_item">
-        <div class="btoArticleTitle"><h1><font size="5">Anvelope de vara Ford C-MAX</font></h1></div>
-        <div class="btoArticleText">
-            <div class="btoArticleAbstract">
-                <div>E usor sa găseşti anvelopele potrivite modelui tau Ford C-MAX. <br> <br> <img width="100%"
-                                                                                                   alt="Ford Tyre Sizing Guide"
-                                                                                                   src="/assets/img/service/tyres_masthead.jpg"/><br>
-                    <br> &Icirc;ncepe prin a arunca o privire &icirc;n ghidul nostru practic despre diferitele
-                    dimensiuni ale anvelopelor, menţionate mai sus. Apoi, foloseşte-te de tabelele de mai jos pentru a
-                    identifica cauciucurile potrivite maşinii tale C-MAX.
-                </div>
+<div class="center_item">
+    <div class="btoArticleTitle"><h1><font size="5">Anvelope de iarna Ford C-MAX</font></h1></div>
+    <div class="btoArticleText">
+        <div class="btoArticleAbstract">
+            <div>E usor sa găseşti anvelopele potrivite modelui tau Ford C-MAX. <br> <br> <img width="100%"
+                                                                                               alt="Ford Tyre Sizing Guide"
+                                                                                               src="/assets/img/service/tyres_masthead.jpg"/><br>
+                <br> &Icirc;ncepe prin a arunca o privire &icirc;n ghidul nostru practic despre diferitele
+                dimensiuni ale anvelopelor, menţionate mai sus. Apoi, foloseşte-te de tabelele de mai jos pentru a
+                identifica cauciucurile potrivite maşinii tale C-MAX.
             </div>
         </div>
     </div>
-    <div class="center_item">
-        <!-- TD No:8174 This method has been added to escape special characters
-        -->
-        <img src="../../../cs/ENGInE/img/arrow_r_o_tab.gif" alt="" style="display:none">
-        <script type="text/javascript" language="javascript">
-            // <![CDATA[
-            function tab001GetFirstTab(element) {
+</div>
+<div class="center_item">
+<!-- TD No:8174 This method has been added to escape special characters
+-->
+<img src="../../../cs/ENGInE/img/arrow_r_o_tab.gif" alt="" style="display:none">
+<script type="text/javascript" language="javascript">
+    // <![CDATA[
+    function tab001GetFirstTab(element) {
 // getFirst is Buggy in IE6 var first = el.getFirst() 
-                while ((typeof (element.getPrevious()) != "undefined") &&
-                    element.getPrevious().hasClass("tab001_item")) {
-                    element = element.getPrevious();
-                }
-                return element;
-            }
-            function tab001SelectTab(id) {
-                var el = document.id("tab001-tab-" + id);
-                var currentItem = tab001GetFirstTab(el);
-                do {
+        while ((typeof (element.getPrevious()) != "undefined") &&
+            element.getPrevious().hasClass("tab001_item")) {
+            element = element.getPrevious();
+        }
+        return element;
+    }
+    function tab001SelectTab(id) {
+        var el = document.id("tab001-tab-" + id);
+        var currentItem = tab001GetFirstTab(el);
+        do {
 // remove ie6 union junk
-                    currentItem.removeClass("selected_first");
-                    currentItem.removeClass("selected_last");
+            currentItem.removeClass("selected_first");
+            currentItem.removeClass("selected_last");
 // remove the selected item
-                    currentItem.removeClass("selected");
-                    currentItem.addClass("unselected");
-                    currentItem.removeClass("before");
-                    currentItem = currentItem.getNext();
-                } while (currentItem);
-                if (el.getPrevious()) {
-                    if (el.getPrevious().hasClass("tab001_item")) {
-                        el.getPrevious().addClass("before");
-                    }
-                }
-                el.removeClass("unselected");
-                el.removeClass("unselected_first");
-                el.addClass("selected");
-                var currentItem = tab001GetFirstTab(el);
-                do {
+            currentItem.removeClass("selected");
+            currentItem.addClass("unselected");
+            currentItem.removeClass("before");
+            currentItem = currentItem.getNext();
+        } while (currentItem);
+        if (el.getPrevious()) {
+            if (el.getPrevious().hasClass("tab001_item")) {
+                el.getPrevious().addClass("before");
+            }
+        }
+        el.removeClass("unselected");
+        el.removeClass("unselected_first");
+        el.addClass("selected");
+        var currentItem = tab001GetFirstTab(el);
+        do {
 // now build css unions because ie6 !@$#
-                    if (currentItem.hasClass("selected") && currentItem.hasClass("first")) currentItem.addClass("selected_first");
-                    if (currentItem.hasClass("selected") && currentItem.hasClass("last")) currentItem.addClass("selected_last");
-                    currentItem = currentItem.getNext();
-                } while (currentItem);
-                var contentPane = document.id('tab001-contentpane-0');
-                do {
-                    contentPane.removeClass("tab001-pane-selected");
-                    contentPane.addClass("tab001-pane-unselected");
-                    contentPane = contentPane.getNext();
-                } while (contentPane);
+            if (currentItem.hasClass("selected") && currentItem.hasClass("first")) currentItem.addClass("selected_first");
+            if (currentItem.hasClass("selected") && currentItem.hasClass("last")) currentItem.addClass("selected_last");
+            currentItem = currentItem.getNext();
+        } while (currentItem);
+        var contentPane = document.id('tab001-contentpane-0');
+        do {
+            contentPane.removeClass("tab001-pane-selected");
+            contentPane.addClass("tab001-pane-unselected");
+            contentPane = contentPane.getNext();
+        } while (contentPane);
 // now add the visible one.
-                document.id('tab001-contentpane-' + id).removeClass("tab001-pane-unselected");
-                document.id('tab001-contentpane-' + id).addClass("tab001-pane-selected");
-                if (id > 0) {
-                    document.id("tab001-tab-0").removeClass("selected_first");
-                } else {
-                    document.id("tab001-tab-0").addClass("selected_first");
-                }
-                if (el.getParent().hasClass("tab001_header")) {
-                    var lastTabItemIndex = ( el.getParent().getChildren(".tab001_item").length - 1);
-                    if (id == lastTabItemIndex) {
-                        document.id("tab001-tab-" + lastTabItemIndex).removeClass("unselected_last");
-                        document.id("tab001-tab-" + lastTabItemIndex).addClass("selected selected_last");
-                    } else {
-                        document.id("tab001-tab-" + lastTabItemIndex).removeClass("selected_last");
-                    }
-                }
+        document.id('tab001-contentpane-' + id).removeClass("tab001-pane-unselected");
+        document.id('tab001-contentpane-' + id).addClass("tab001-pane-selected");
+        if (id > 0) {
+            document.id("tab001-tab-0").removeClass("selected_first");
+        } else {
+            document.id("tab001-tab-0").addClass("selected_first");
+        }
+        if (el.getParent().hasClass("tab001_header")) {
+            var lastTabItemIndex = ( el.getParent().getChildren(".tab001_item").length - 1);
+            if (id == lastTabItemIndex) {
+                document.id("tab001-tab-" + lastTabItemIndex).removeClass("unselected_last");
+                document.id("tab001-tab-" + lastTabItemIndex).addClass("selected selected_last");
+            } else {
+                document.id("tab001-tab-" + lastTabItemIndex).removeClass("selected_last");
             }
-            function tab001HoverTab(id, isHovering) {
-                if (isHovering) {
-                    if (!document.id("tab001-tab-" + id).hasClass('selected'))
-                        document.id("tab001-tab-" + id).addClass('hover')
-                } else {
-                    document.id("tab001-tab-" + id).removeClass('hover')
-                }
-            }
-            // ]]>
-        </script>
-        <div id="tab001_container">
-            <div class="tab001_header">
-                <div class="tab001_top_left"></div>
-                <div
-                    id="tab001-tab-0"
-                    class="tab001_item first selected_first selected "
-                    style="text-align:center;">
-                    <table cellpadding="0" cellspacing="0" border="0" title="Modele şi preţuri">
-                        <thead>
-                        <tr>
-                            <td class="tab001_header_arrow"><a href="C-MAX/tabid%3dtab0" class="tab_anchor"></a></td>
-                            <td class="tab001_header_label" valign="middle" style="height:41px;vertical-align:middle;">
-                                <!-- 	TD 8174 jhe method has been called from here to escape special characters -->
-                                <a
-                                    href="C-MAX/tabid%3dtab0"
-                                    onclick="tab001SelectTab('0');
+        }
+    }
+    function tab001HoverTab(id, isHovering) {
+        if (isHovering) {
+            if (!document.id("tab001-tab-" + id).hasClass('selected'))
+                document.id("tab001-tab-" + id).addClass('hover')
+        } else {
+            document.id("tab001-tab-" + id).removeClass('hover')
+        }
+    }
+    // ]]>
+</script>
+<div id="tab001_container">
+    <div class="tab001_header">
+        <div class="tab001_top_left"></div>
+        <div
+            id="tab001-tab-0"
+            class="tab001_item first selected_first selected "
+            style="text-align:center;">
+            <table cellpadding="0" cellspacing="0" border="0" title="Modele şi preţuri">
+                <thead>
+                <tr>
+                    <td class="tab001_header_arrow"><a href="C-MAX/tabid%3dtab0" class="tab_anchor"></a></td>
+                    <td class="tab001_header_label" valign="middle" style="height:41px;vertical-align:middle;">
+                        <!-- 	TD 8174 jhe method has been called from here to escape special characters -->
+                        <a
+                            href="C-MAX/tabid%3dtab0"
+                            onclick="tab001SelectTab('0');
 if(typeof(sford)=='object')setOmnitureTabName('Modele &#351;i pre&#355;uri');
 return false;"
-                                    onmouseover="tab001HoverTab('0', true);"
-                                    onmouseout="tab001HoverTab('0', false);"
-                                    class="tab_anchor">Modele şi preţuri</a></td>
-                        </tr>
-                        </thead>
-                    </table>
-                </div>
+                            onmouseover="tab001HoverTab('0', true);"
+                            onmouseout="tab001HoverTab('0', false);"
+                            class="tab_anchor">Modele şi preţuri</a></td>
+                </tr>
+                </thead>
+            </table>
+        </div>
 
-            </div>
-            <!-- END OF HEADER -->
-            <div class="tab001_divider"></div>
-            <div class="tab001_content_container">
-                <div class="tab001_content">
-                    <div id="tab001-contentpane-0" class="tab001-pane-selected">
-                        <div class="tab001_TabTop_IntroText">
-                            <div class="btoArticleTitle"><h2><font size="5">Ghid pentru anvelope Ford C-MAX</font></h2>
-                            </div>
-                            <div class="btoArticleText">
-                                <div class="btoArticleAbstract">
-                                    <div>
-                                        <style type="text/css">        .floatedTable {
-                                                float: left;
-                                            }
+    </div>
+    <!-- END OF HEADER -->
+    <div class="tab001_divider"></div>
+    <div class="tab001_content_container">
+        <div class="tab001_content">
+            <div id="tab001-contentpane-0" class="tab001-pane-selected">
+                <div class="tab001_TabTop_IntroText">
+                    <div class="btoArticleTitle"><h2><font size="5">Ghid pentru anvelope Ford C-MAX</font></h2>
+                    </div>
+                    <div class="btoArticleText">
+                        <div class="btoArticleAbstract">
+                            <div>
+                                <style type="text/css">        .floatedTable {
+                                        float: left;
+                                    }
 
-                                            .inlineTable {
-                                                display: inline-block;
-                                            }</style>
-                                        <style type="text/css">.CusTab {
-                                                margin-top: 1em;
-                                            }
+                                    .inlineTable {
+                                        display: inline-block;
+                                    }</style>
+                                <style type="text/css">.CusTab {
+                                        margin-top: 1em;
+                                    }
 
-                                            .CusTab td {
-                                                padding: 6px;
-                                                height: 25px;
-                                                valign: middle;
-                                                border-left: white 1px solid;
-                                                border-right: white 1pt solid;
-                                                text-align: center;
-                                                color: #474847;
-                                            }
+                                    .CusTab td {
+                                        padding: 6px;
+                                        height: 25px;
+                                        valign: middle;
+                                        border-left: white 1px solid;
+                                        border-right: white 1pt solid;
+                                        text-align: center;
+                                        color: #474847;
+                                    }
 
-                                            .CusTab-header, .CusTab-header:hover {
-                                                background-color: #455968;
-                                                color: #FFF;
-                                            }
+                                    .CusTab-header, .CusTab-header:hover {
+                                        background-color: #455968;
+                                        color: #FFF;
+                                    }
 
-                                            .CusTab-header td {
-                                                font-weight: bold;
-                                                color: #FFF;
-                                            }
+                                    .CusTab-header td {
+                                        font-weight: bold;
+                                        color: #FFF;
+                                    }
 
-                                            .CusTab-dark, .CusTab-dark-left, .CusTab-dark td, .CusTab-dark-left td {
-                                                background-color: #ececec;
-                                                height: 30px;
-                                            }
+                                    .CusTab-dark, .CusTab-dark-left, .CusTab-dark td, .CusTab-dark-left td {
+                                        background-color: #ececec;
+                                        height: 30px;
+                                    }
 
-                                            .CusTab-light, .CusTab-light-left, .CusTab-light td, .CusTab-light-left td {
-                                                background-color: #FFF;
-                                                height: 30px;
-                                            }
+                                    .CusTab-light, .CusTab-light-left, .CusTab-light td, .CusTab-light-left td {
+                                        background-color: #FFF;
+                                        height: 30px;
+                                    }
 
-                                            td.CusTab-dark-pric, td.CusTab-light-pric {
-                                                color: #425968;
-                                                font-size: 20px;
-                                            }
+                                    td.CusTab-dark-pric, td.CusTab-light-pric {
+                                        color: #425968;
+                                        font-size: 20px;
+                                    }
 
-                                            td.CusTab-dark-left, td.CusTab-light-left {
-                                                text-align: left;
-                                            }
+                                    td.CusTab-dark-left, td.CusTab-light-left {
+                                        text-align: left;
+                                    }
 
-                                            td.CusTab-tick {
-                                                color: #0070c0;
-                                            }</style>
-                                        Toate pre?urile afi?ate sunt pre?uri recomandate de v&acirc;nzare cu TVA inclus. Nu includ manopera pentru
-                                        montare ?i echilibrare anvelope.<br> <br>
-                                        <table class="floatedTable" width="100%">
-                                            <tbody>
-                                            <tr class="CusTab-header">
-                                                <td style="text-align: center;" valign="middle" width="25 %">
-                                                    <div>Dimensiuni</div>
-                                                    <div>anvelope</div>
-                                                </td>
-                                                <td style="text-align: center;" valign="middle" width="25 %">Model</td>
-                                                <td style="text-align: center;" valign="middle" width="25 %">Pret</td>
-                                            </tr>
-                                            <tr>
-                                                <td class="CusTab-light" valign="middle" width="25 %">195/65 R15 91H PRIMA</td>
-                                                <td class="CusTab-light" style="text-align: center;" valign="middle" width="25 %">Motorcraft*</td>
-                                                <td class="CusTab-light-pric" style="text-align: center;" valign="middle" width="25 %"><span
-                                                        style="font-size: medium;">192 lei  </span></td>
-                                            </tr>
-                                            <tr tr="" class="CusTab-dark">
-                                                <td valign="middle" width="25 %">195/65 R15 91H TL G-GRIP GO</td>
-                                                <td style="text-align: center;" valign="middle" width="25 %">BFGoodrich</td>
-                                                <td class="CusTab-light-pric" style="text-align: center;" valign="middle" width="25 %"><span
-                                                        style="font-size: medium;">234 lei  </span></td>
-                                            </tr>
-                                            <tr tr="" class="CusTab-light">
-                                                <td valign="middle" width="25 %">195/65 R15 91H TL ENERGY SAVER+ GRNX MI</td>
-                                                <td style="text-align: center;" valign="middle" width="25 %">Michelin</td>
-                                                <td class="CusTab-light-pric" style="text-align: center;" valign="middle" width="25 %"><span
-                                                        style="font-size: medium;">311 lei  </span></td>
-                                            </tr>
-                                            <tr tr="" class="CusTab-dark">
-                                                <td valign="middle" width="25 %">205/55 R16 91V TL PRIMA TG</td>
-                                                <td style="text-align: center;" valign="middle" width="25 %">Motorcraft*</td>
-                                                <td class="CusTab-light-pric" style="text-align: center;" valign="middle" width="25 %"><span
-                                                        style="font-size: medium;">199 lei  </span></td>
-                                            </tr>
-                                            <tr tr="" class="CusTab-light">
-                                                <td valign="middle" width="25 %">205/55 R16 91V TL G-GRIP GO</td>
-                                                <td style="text-align: center;" valign="middle" width="25 %">BFGoodrich</td>
-                                                <td class="CusTab-light-pric" style="text-align: center;" valign="middle" width="25 %"><span
-                                                        style="font-size: medium;">274 lei  </span></td>
-                                            </tr>
-                                            <tr tr="" class="CusTab-dark">
-                                                <td valign="middle" width="25 %">205/55 R16 91V TL ENERGY SAVER+ GRNX MI</td>
-                                                <td style="text-align: center;" valign="middle" width="25 %">Michelin</td>
-                                                <td class="CusTab-light-pric" style="text-align: center;" valign="middle" width="25 %"><span
-                                                        style="font-size: medium;">356 lei  </span></td>
-                                            </tr>
-                                            </tbody>
-                                        </table>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class='tab001_TabReco_ShowBTI001Collection'>
-                            <div class="BTIRow">
-                                <div class="BTIOneItem">
-                                    <div class="BTIarticleTitle">
-                                    </div> <br>
-                                    <div class='BTIarticleBody'>
-                                        <div class='BTIarticleText'>
-                                            <div><em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin TVA conform legislatiei in vigoare. Pretul nu include montajul, echilibrarea si sistemul de monitorizare a presiunii in anvelope. Anvelopele Motorcraft sunt marca Tigar. Aceasta oferta: este supusa unor termene si conditii; este valabila in limita stocului disponibil si poate varia in functie de seria de sasiu. Perioada derularii acestei campanii: 8 martie 2017 - 31 septembrie 2017. </em></div>
-                                        </div>
-                                    </div>
-                                </div>
+                                    td.CusTab-tick {
+                                        color: #0070c0;
+                                    }</style>
+                                Toate pre?urile afi?ate sunt pre?uri recomandate de v&acirc;nzare cu TVA inclus. Nu
+                                includ manopera pentru
+                                montare ?i echilibrare anvelope.<br> <br>
+                                <table class="floatedTable" width="100%">
+                                    <tbody>
+                                    <tr class="CusTab-header">
+                                        <td style="text-align: center;" valign="middle" width="25 %">
+                                            <div>Dimensiuni</div>
+                                            <div>anvelope</div>
+                                        </td>
+                                        <td style="text-align: center;" valign="middle" width="25 %">Model</td>
+                                        <td style="text-align: center;" valign="middle" width="25 %">Pret</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="CusTab-light" valign="middle" width="25 %">195/65 R15 91H TL WINTER 1
+                                            TG
+                                        </td>
+                                        <td class="CusTab-light" style="text-align: center;" valign="middle"
+                                            width="25 %">
+                                            Motorcraft*
+                                        </td>
+                                        <td class="CusTab-light-pric" style="text-align: center;" valign="middle"
+                                            width="25 %"><span style="font-size: medium;">197 lei  </span></td>
+                                    </tr>
+                                    <tr tr="" class="CusTab-dark">
+                                        <td valign="middle" width="25 %">195/65R15 91TTL GFORCE WIN2</td>
+                                        <td style="text-align: center;" valign="middle" width="25 %">BFGoodrich</td>
+                                        <td class="CusTab-light-pric" style="text-align: center;" valign="middle"
+                                            width="25 %"><span style="font-size: medium;">208 lei  </span></td>
+                                    </tr>
+                                    <tr tr="" class="CusTab-light">
+                                        <td valign="middle" width="25 %">195/65 R15 91T TL ALPIN 5 MI</td>
+                                        <td style="text-align: center;" valign="middle" width="25 %">Michelin</td>
+                                        <td class="CusTab-light-pric" style="text-align: center;" valign="middle"
+                                            width="25 %"><span style="font-size: medium;">293 lei  </span></td>
+                                    </tr>
+                                    <tr tr="" class="CusTab-dark">
+                                        <td valign="middle" width="25 %">205/55 R16 94H XL WINTER 1 TG</td>
+                                        <td style="text-align: center;" valign="middle" width="25 %">Motorcraft*</td>
+                                        <td class="CusTab-light-pric" style="text-align: center;" valign="middle"
+                                            width="25 %"><span style="font-size: medium;">204 lei  </span></td>
+                                    </tr>
+                                    <tr tr="" class="CusTab-light">
+                                        <td valign="middle" width="25 %">205/55R16 91HTL GFORCE WIN2</td>
+                                        <td style="text-align: center;" valign="middle" width="25 %">BFGoodrich</td>
+                                        <td class="CusTab-light-pric" style="text-align: center;" valign="middle"
+                                            width="25 %"><span style="font-size: medium;">289 lei  </span></td>
+                                    </tr>
+                                    <tr tr="" class="CusTab-dark">
+                                        <td valign="middle" width="25 %">205/55 R16 91T TL ALPIN 5 MI</td>
+                                        <td style="text-align: center;" valign="middle" width="25 %">Michelin</td>
+                                        <td class="CusTab-light-pric" style="text-align: center;" valign="middle"
+                                            width="25 %"><span style="font-size: medium;">410 lei  </span></td>
+                                    </tr>
+                                    </tbody>
+                                </table>
                             </div>
                         </div>
                     </div>
-                    <div id="tab001-contentpane-1" class="tab001-pane-unselected">
-                        <div class="tab001_TabTop_IntroText">
-                            <div class="btoArticleTitle">Alegerea anvelopelor, a mărcii şi a preţului</div>
-                            <div class="btoArticleText">
-                                <div class="btoArticleAbstract">
-                                    <div>Pentru a-ţi facilita alegerea, am reunit diferite produse şi preţuri şi le-am
-                                        grupat &icirc;n 3 categorii:<br> <br> <strong> Premium</strong>: Michelin<br>
-                                        <strong>Calitate</strong>: BF Goodrich, , Kebler <br> <strong>Buget</strong>:
-                                        Tigar<br>
-                                        <ul>
-                                            <li>Toate preţurile recomandate de v&acirc;nzare includ TVA.</li>
-                                            <li>&Icirc;n plus, toate anvelopele sosesc &icirc;nsoţite de un control de
-                                                siguranţă al tuturor elementelor (standard).
-                                            </li>
-                                            <li>Toate operaţiunile sunt executate de tehnicieni instruiţi de Ford.</li>
-                                        </ul>
-                                    </div>
+                </div>
+
+                <div class='tab001_TabReco_ShowBTI001Collection'>
+                    <div class="BTIRow">
+                        <div class="BTIOneItem">
+                            <div class="BTIarticleTitle">
+                            </div>
+                            <br>
+
+                            <div class='BTIarticleBody'>
+                                <div class='BTIarticleText'>
+                                    <div><em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate si
+                                            contin TVA conform legislatiei in vigoare. Pretul nu include montajul,
+                                            echilibrarea si sistemul de monitorizare a presiunii in anvelope. Anvelopele
+                                            Motorcraft sunt marca Tigar. Aceasta oferta: este supusa unor termene si
+                                            conditii; este valabila in limita stocului disponibil si poate varia in
+                                            functie de seria de sasiu. Perioada derularii acestei campanii: 01
+                                            Septembrie - 31 Decembrie 2017. </em></div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="tab001_footer"><!-- CLOSES THE BOTTOM OF THE CONTENT --></div>
+            <div id="tab001-contentpane-1" class="tab001-pane-unselected">
+                <div class="tab001_TabTop_IntroText">
+                    <div class="btoArticleTitle">Alegerea anvelopelor, a mărcii şi a preţului</div>
+                    <div class="btoArticleText">
+                        <div class="btoArticleAbstract">
+                            <div>Pentru a-ţi facilita alegerea, am reunit diferite produse şi preţuri şi le-am
+                                grupat &icirc;n 3 categorii:<br> <br> <strong> Premium</strong>: Michelin<br>
+                                <strong>Calitate</strong>: BF Goodrich, , Kebler <br> <strong>Buget</strong>:
+                                Tigar<br>
+                                <ul>
+                                    <li>Toate preţurile recomandate de v&acirc;nzare includ TVA.</li>
+                                    <li>&Icirc;n plus, toate anvelopele sosesc &icirc;nsoţite de un control de
+                                        siguranţă al tuturor elementelor (standard).
+                                    </li>
+                                    <li>Toate operaţiunile sunt executate de tehnicieni instruiţi de Ford.</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
-    <div class="center_item">
-    </div>
-    <div class="center_item">
-        <!--<START_MPP001 >-->
-        <!-- EMPTY REC [AdvCols] with id [1205094745046] in site [RORO4_ENGINE] -->
-        <!--<END_MPP001 >-->
-    </div>
-    <div class="center_item">
-    </div>
-    <div id="center_btt">
-    </div>
-    <!-- TD 8042 - AddThis Social Book Marking tool display Starts-->
-    <!-- TD 8042 - AddThis Ends-->
-    <!-- AddThis Replacement Starts-->
-    <!-- AddThis Replacement Ends-->
+    <div class="tab001_footer"><!-- CLOSES THE BOTTOM OF THE CONTENT --></div>
+</div>
+</div>
+<div class="center_item">
+</div>
+<div class="center_item">
+    <!--<START_MPP001 >-->
+    <!-- EMPTY REC [AdvCols] with id [1205094745046] in site [RORO4_ENGINE] -->
+    <!--<END_MPP001 >-->
+</div>
+<div class="center_item">
+</div>
+<div id="center_btt">
+</div>
+<!-- TD 8042 - AddThis Social Book Marking tool display Starts-->
+<!-- TD 8042 - AddThis Ends-->
+<!-- AddThis Replacement Starts-->
+<!-- AddThis Replacement Ends-->
 </div>
 <div id="container_right">
     <div class="right_item">
@@ -716,12 +731,12 @@ return false;"
     <!-- <End> -->
     <div class="right_item">
         <!--<START_SSP001 >-->
-        <div class="skyscraper_promo">
+      <!--  <div class="skyscraper_promo">
             <a href='https://wwwprod-ro.engine.ford.com/SBE/OSBOV?dc=10300' target="_self">
                 <img src="/assets/img/service/1214513078990.jpg" border="0" alt="Book an Appointment"
                      title="Book an Appointment" height='185' width='185'/>
             </a>
-        </div>
+        </div> -->
         <!--<END_SSP001 >-->
         <!--<START_SSP001 >-->
         <div class="skyscraper_promo">

@@ -343,7 +343,7 @@
                     </script>
                 </li>
                 <li id='menu1205094744286' class=''>
-                    <a href='Motorcraft/Anvelope'/>Anvelope de vara</a>
+                    <a href='Motorcraft/Anvelope'/>Anvelope de iarna</a>
                     <div id="navsubmenu" class="navsubmenu">
                         <div class="navsubmenutop">
                         </div>
@@ -644,10 +644,13 @@
                 <div class='BTIarticleText'>
                     <div><em>
                             *Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin TVA conform
-                            legislatiei in vigoare. Aceasta oferta este supusa unor termene si conditii si este valabila
-                            in limita stocului disponibil. Oferta poate varia in functie de seria de sasiu. Detaliile
-                            aferente ofertei sunt disponibile in paginile de promotie si in rereaua de reprezentante
-                            Ford. Perioada derularii acestei campanii: 1 martie 2017 - 31 septembrie 2017. <br> </em>
+                            legislatiei în vigoare. Oferta nu include componentele tehnologice, este supusa termenilor
+                            si conditiilor afisate si este valabila in limita stocului disponibil. De asemenea, oferta
+                            se poate modifica in functie de seria de sasiu. Schimbul de ulei este inclus in preturile
+                            mentionate in limita a 5l pentru autoturisme si 7l pentru autoutilitare. Alte detalii
+                            aferente ofertei sunt disponibile in paginile de promotie detaliate pe ford.ro si in reteaua
+                            de reparatori autorizati Ford.
+                            Perioada derularii acestei campanii: 01 septembrie 2017 - 31 decembrie 2017 <br> </em>
                     </div>
                 </div>
             </div>

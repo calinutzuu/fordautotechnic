@@ -336,7 +336,7 @@
                             <li class=''>
                                 <a href='Service'>Service</a></li>
                             <li class=''>
-                                <a href='Anvelope'>Anvelope de var&#259;</a></li>
+                                <a href='Anvelope'>Anvelope de iarna</a></li>
                             <li class=''>
                                 <a href='Pre-verificareITP'>Pre-verificare I.T.P.</a></li>
                         </ul>

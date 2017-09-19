@@ -342,7 +342,7 @@
                     </script>
                 </li>
                 <li id='menu1205094744286' class=''>
-                    <a href='Anvelope'/>Anvelope de var&#259;</a>
+                    <a href='Anvelope'/>Anvelope de iarna</a>
                     <div id="navsubmenu" class="navsubmenu">
                         <div class="navsubmenutop">
                         </div>

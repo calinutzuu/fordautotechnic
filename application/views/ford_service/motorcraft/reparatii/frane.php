@@ -281,6 +281,7 @@
 
             #wrapper #frame {
                 top: -3 px\9
+
             }
         </style>
         <div class="navmenu">
@@ -405,112 +406,328 @@
 </div>
 <!-- <End> -->
 <div id="container_main">
-    <div style="height: 115px">&nbsp;</div>
-    <div id="container_center">
-        <div class="center_item">
-            <div class="btoArticleTitle">Sisteme de frânare</div>
-            <div class="btoArticleText">
-                <div class="btoArticleAbstract">
-                    <div>&nbsp;&nbsp; </div>
-                </div>
-            </div>
+<div style="height: 115px">&nbsp;</div>
+<div id="container_center">
+<div class="center_item">
+    <div class="btoArticleTitle">Sisteme de frânare</div>
+    <div class="btoArticleText">
+        <div class="btoArticleAbstract">
+            <div>&nbsp;&nbsp; </div>
         </div>
-        <div class="center_item">
-            <!-- TD No:8174 This method has been added to escape special characters
-            -->
-            <img src="../../../cs/ENGInE/img/arrow_r_o_tab.gif" alt="" style="display:none">
+    </div>
+</div>
+<div class="center_item">
+<!-- TD No:8174 This method has been added to escape special characters
+-->
+<img src="../../../cs/ENGInE/img/arrow_r_o_tab.gif" alt="" style="display:none">
 
-            <div class="btoArticleTitle"></div>
-            <div class="BTIRow">
-                <div class="BTIOneItem">
-                    <div class="BTIImage">
-                        <div class="imgNonZoom">
-                            <img
-                                src="/assets/img/service/1214513079767.jpg"
-                                border="0" width="97"
-                                height="97"
-                                alt="Ford Brakes"
-                                title="Ford Brakes"
-                                style="border: solid 1px #999999;">
-                        </div>
-                    </div>
-                    <div class="BTIarticleTitle">
-                    </div>
-                    <div class='BTIarticleBody'>
-                        <div class='BTIarticleText'>
-                            <div><strong><span style="font-size: medium;">Puterea de a te opri pe care poţi conta</span></strong><br> <br> Sistemul de fr&acirc;nare reprezintă un element-cheie pentru conceptul de siguranţă; prin urmare, verificarea sa periodică este vitală. <br> <br> Kiturile cu plăcuţe de fr&acirc;nă Motorcraft sunt special concepute pentru modelul tău Ford; cu ele, scapi de griji şi beneficiezi şi de reparaţii la un &icirc;nalt nivel calitativ. <br> <br> După cum poti constata din tabelul de mai jos, discurile şi plăcuţele nostre de fr&acirc;nă vin şi la un preţ prietenos. <br> <br> Prin urmare,  &icirc;n cazul &icirc;n care doreşti o verificare, &icirc;nlocuire sau reparaţie a sistemului de fr&acirc;nare efectuată la cel mai apropiat Dealer Ford, te rugăm să fixezi o programare.</div>
-                        </div>
-                    </div>
+<div class="btoArticleTitle"></div>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIImage">
+            <div class="imgNonZoom">
+                <img
+                    src="/assets/img/service/1214513079767.jpg"
+                    border="0" width="97"
+                    height="97"
+                    alt="Ford Brakes"
+                    title="Ford Brakes"
+                    style="border: solid 1px #999999;">
+            </div>
+        </div>
+        <div class="BTIarticleTitle">
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                <div><strong><span
+                            style="font-size: medium;">Puterea de a te opri pe care poţi conta</span></strong><br>
+                    <br> Sistemul de fr&acirc;nare reprezintă un element-cheie pentru conceptul de
+                    siguranţă; prin urmare, verificarea sa periodică este vitală. <br> <br> Kiturile cu
+                    plăcuţe de fr&acirc;nă Motorcraft sunt special concepute pentru modelul tău Ford; cu
+                    ele, scapi de griji şi beneficiezi şi de reparaţii la un &icirc;nalt nivel calitativ.
+                    <br> <br> După cum poti constata din tabelul de mai jos, discurile şi plăcuţele nostre
+                    de fr&acirc;nă vin şi la un preţ prietenos. <br> <br> Prin urmare, &icirc;n
+                    cazul &icirc;n care doreşti o verificare, &icirc;nlocuire sau reparaţie a sistemului de
+                    fr&acirc;nare efectuată la cel mai apropiat Dealer Ford, te rugăm să fixezi o
+                    programare.
                 </div>
             </div>
-            <div class="BTIRow">
-                <div class="BTIOneItem">
-                    <div class="BTIarticleTitle">
-                    </div>
-                    <div class='BTIarticleBody'>
-                        <div class='BTIarticleText'>
-                            <h2><font size="2">Plăcuţe de fr&acirc;nă la preţuri competitive pentru modelul tău Ford</font></h2> <div><style type="text/css">        .floatedTable {            float:left;        }        .inlineTable {            display: inline-block;        }</style><style type="text/css">.CusTab { margin-top: 1em; }.CusTab td { padding: 6px; height: 25px; vertical-align: middle; border-left: white 1px solid; border-right: white 1pt solid; text-align: center; color:#474847; }.CusTab-header, .CusTab-header:hover { background-color: #455968; color: #FFF; }.CusTab-header td { font-weight: bold; color: #FFF; }.CusTab-dark, .CusTab-dark-left, .CusTab-dark td, .CusTab-dark-left td { background-color:#ececec; }.CusTab-light, .CusTab-light-left, .CusTab-light td, .CusTab-light-left td { background-color:#FFF; }td.CusTab-dark-left, td.CusTab-light-left { text-align: left; }td.CusTab-tick { color: #0070c0; }</style> <table style="BORDER-COLLAPSE: collapse" class="CusTab" cellspacing="0" cellpadding="0" border="0" width="100%">     <colgroup><col style="WIDTH: 20%" /><col style="WIDTH: 16%" /><col style="WIDTH: 16%" /><col style="WIDTH: 16%" /><col style="WIDTH: 16%" /><col style="WIDTH: 16%" /> </colgroup>     <tbody>         <tr class="CusTab-header">             <td>Reparaţii</td>             <td>Fiesta, Fusion</td>             <td>Focus, C-MAX</td>             <td>Mondeo, S-MAX, Galaxy, Kuga</td>             <td>Transit / Tourneo Connect</td>             <td>Ford Transit</td>         </tr>         <tr class="CusTab-dark">             <td class="CusTab-dark-left">Inlocuire set placute de fr&acirc;na fata</td>             <td><span style="font-size: large">270 lei <br>             </span></td>             <td><span style="font-size: large">320 lei <br>             </span></td>             <td><span style="font-size: large">350 lei <br>             </span></td>             <td><span style="font-size: large">320 lei <br>             </span></td>             <td><span style="font-size: large">310 lei <br>             </span></td>         </tr>         <tr class="CusTab-light">             <td class="CusTab-light-left">Inlocuire set placute si discuri de fr&acirc;na fata</td>             <td><span style="font-size: large">700 lei <br>             </span></td>             <td><span style="font-size: large">830 lei <br>             </span></td>             <td><span style="font-size: large">930 lei <br>             </span></td>             <td><span style="font-size: large">620 lei <br>             </span></td>             <td><span style="font-size: large">1.200 lei <br>             </span></td>         </tr>         <tr class="CusTab-dark">             <td class="CusTab-dark-left">Schimb lichid de fr&acirc;na</td>             <td><span style="font-size: large">125 lei </span></td>             <td><span style="font-size: large">125 lei </span></td>             <td><span style="font-size: large">125 lei </span></td>             <td><span style="font-size: large">125 lei <br>             </span></td>             <td><span style="font-size: large">125 lei <br>             </span></td>         </tr>      </tbody> </table> <br> <br> Toate kiturile cu plăcuţe de fr&acirc;nă  Motorcraft  au fost &icirc;mbunătăţite şi testate &icirc;n concordanţă cu cele mai stricte directive Ford şi sunt special concepute pentru modelele Ford. <br> <br> De asemenea, şi-au demonstrat longevitatea mulţumită rezistenţei la temperaturi &icirc;nalte, oferind comfortul necesar chiar şi &icirc;n condiţiile unei sarcini mari pe pneu.</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="BTIRow">
-                <div class="BTIOneItem">
-                    <div class="BTIarticleTitle">
-                    </div>
-                    <div class='BTIarticleBody'>
-                        <div class='BTIarticleText'>
-                            <div><em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate in lei, contin TVA conform legislatiei in vigoare si includ pretul manoperei. Oferta nu include componentele tehnologice. Oferta este valabila in limita stocului disponibil si nu se aplica autovehiculelor utilitare echipate cu jante din aliaj si/sau a celor cu roti duble spate. Aceasta oferta este supusa unor termene si conditii si poate varia in functie de seria de sasiu. Perioada derularii acestei campanii: 8 martie 2017 - 31 septembrie 2017.</em></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="center_item">
-        </div>
-        <div class="center_item">
-            <!--<START_MPP001 >-->
-            <!-- EMPTY REC [AdvCols] with id [1205094745046] in site [RORO4_ENGINE] -->
-            <!--<END_MPP001 >-->
-        </div>
-        <div class="center_item">
-        </div>
-        <div id="center_btt">
-        </div>
-        <!-- TD 8042 - AddThis Social Book Marking tool display Starts-->
-        <!-- TD 8042 - AddThis Ends-->
-        <!-- AddThis Replacement Starts-->
-        <!-- AddThis Replacement Ends-->
-    </div>
-    <div id="container_right">
-        <div class="right_item">
-        </div>
-        <!-- Technical Highlights -->
-        <!-- <Start> -->
-        <div class="right_item">
-        </div>
-        <!-- <End> -->
-        <div class="right_item">
-            <!--<START_SSP001 >-->
-            <div class="skyscraper_promo">
-                <a href='https://wwwprod-ro.engine.ford.com/SBE/OSBOV?dc=10300' target="_self">
-                    <img
-                        src="/assets/img/service/1214513078990.jpg"
-                        border="0" alt="Book an Appointment" title="Book an Appointment" height='185' width='185'/>
-                </a>
-            </div>
-            <!--<END_SSP001 >-->
-            <!--<START_SSP001 >-->
-            <div class="skyscraper_promo">
-                <a href='../../FordAsistenta12' target="_self">
-                    <img
-                        src="/assets/img/service/1214544577603.jpg"
-                        border="0" alt="Asistenta Ford 12" title="Asistenta Ford 12" height='185' width='185'/>
-                </a>
-            </div>
-            <!--<END_SSP001 >-->
         </div>
     </div>
+</div>
+<div class="BTIRow">
+<div class="BTIOneItem">
+<div class="BTIarticleTitle">
+</div>
+<div class='BTIarticleBody'>
+<div class='BTIarticleText'>
+    <h2><font size="2">Plăcuţe de fr&acirc;nă la preţuri competitive pentru modelul tău
+            Ford</font></h2>
+
+    <div>
+        <style type="text/css">        .floatedTable {
+                float: left;
+            }
+
+            .inlineTable {
+                display: inline-block;
+            }</style>
+        <style type="text/css">.CusTab {
+                margin-top: 1em;
+            }
+
+            .CusTab td {
+                padding: 6px;
+                height: 25px;
+                vertical-align: middle;
+                border-left: white 1px solid;
+                border-right: white 1pt solid;
+                text-align: center;
+                color: #474847;
+            }
+
+            .CusTab-header, .CusTab-header:hover {
+                background-color: #455968;
+                color: #FFF;
+            }
+
+            .CusTab-header td {
+                font-weight: bold;
+                color: #FFF;
+            }
+
+            .CusTab-dark, .CusTab-dark-left, .CusTab-dark td, .CusTab-dark-left td {
+                background-color: #ececec;
+            }
+
+            .CusTab-light, .CusTab-light-left, .CusTab-light td, .CusTab-light-left td {
+                background-color: #FFF;
+            }
+
+            td.CusTab-dark-left, td.CusTab-light-left {
+                text-align: left;
+            }
+
+            td.CusTab-tick {
+                color: #0070c0;
+            }</style>
+        <table style="BORDER-COLLAPSE: collapse" class="CusTab" cellspacing="0" cellpadding="0"
+               border="0" width="100%">
+            <colgroup>
+                <col style="WIDTH: 20%"/>
+                <col style="WIDTH: 16%"/>
+                <col style="WIDTH: 16%"/>
+                <col style="WIDTH: 16%"/>
+                <col style="WIDTH: 16%"/>
+                <col style="WIDTH: 16%"/>
+            </colgroup>
+            <tbody>
+            <tr class="CusTab-header">
+                <td>Reparaţii</td>
+                <td>Fiesta, Fusion</td>
+                <td>Focus, C-MAX</td>
+                <td>Mondeo, S-MAX, Galaxy, Kuga</td>
+                <td>Transit / Tourneo Connect</td>
+                <td>Ford Transit</td>
+            </tr>
+            <tr class="CusTab-dark">
+                <td class="CusTab-dark-left">Inlocuire set placute de fr&acirc;na fata</td>
+                <td><span style="font-size: large">270 lei <br>             </span></td>
+                <td><span style="font-size: large">320 lei <br>             </span></td>
+                <td><span style="font-size: large">350 lei <br>             </span></td>
+                <td><span style="font-size: large">320 lei <br>             </span></td>
+                <td><span style="font-size: large">310 lei <br>             </span></td>
+            </tr>
+            <tr class="CusTab-light">
+                <td class="CusTab-light-left">Inlocuire set placute si discuri de fr&acirc;na
+                    fata
+                </td>
+                <td><span style="font-size: large">700 lei <br>             </span></td>
+                <td><span style="font-size: large">830 lei <br>             </span></td>
+                <td><span style="font-size: large">930 lei <br>             </span></td>
+                <td><span style="font-size: large">620 lei <br>             </span></td>
+                <td><span style="font-size: large">1.200 lei <br>             </span></td>
+            </tr>
+            <tr class="CusTab-dark">
+                <td class="CusTab-dark-left">Schimb lichid de fr&acirc;na</td>
+                <td><span style="font-size: large">125 lei </span></td>
+                <td><span style="font-size: large">125 lei </span></td>
+                <td><span style="font-size: large">125 lei </span></td>
+                <td><span style="font-size: large">125 lei <br>             </span></td>
+                <td><span style="font-size: large">125 lei <br>             </span></td>
+            </tr>
+            </tbody>
+        </table>
+        <br> <br>
+
+        <div>
+            <style type="text/css">        .floatedTable {
+                    float: left;
+                }
+
+                .inlineTable {
+                    display: inline-block;
+                }</style>
+            <style type="text/css">.CusTab {
+                    margin-top: 1em;
+                }
+
+                .CusTab td {
+                    padding: 6px;
+                    height: 25px;
+                    vertical-align: middle;
+                    border-left: white 1px solid;
+                    border-right: white 1pt solid;
+                    text-align: center;
+                    color: #474847;
+                }
+
+                .CusTab-header, .CusTab-header:hover {
+                    background-color: #455968;
+                    color: #FFF;
+                }
+
+                .CusTab-header td {
+                    font-weight: bold;
+                    color: #FFF;
+                }
+
+                .CusTab-dark, .CusTab-dark-left, .CusTab-dark td, .CusTab-dark-left td {
+                    background-color: #ececec;
+                }
+
+                .CusTab-light, .CusTab-light-left, .CusTab-light td, .CusTab-light-left td {
+                    background-color: #FFF;
+                }
+
+                td.CusTab-dark-left, td.CusTab-light-left {
+                    text-align: left;
+                }
+
+                td.CusTab-tick {
+                    color: #0070c0;
+                }</style>
+            <table style="BORDER-COLLAPSE: collapse" class="CusTab" cellspacing="0" cellpadding="0"
+                   border="0" width="100%">
+                <colgroup>
+                    <col style="WIDTH: 20%">
+                    <col style="WIDTH: 16%">
+                    <col style="WIDTH: 16%">
+                    <col style="WIDTH: 16%">
+                    <col style="WIDTH: 16%">
+                    <col style="WIDTH: 16%">
+                </colgroup>
+                <tbody>
+                <tr class="CusTab-header">
+                    <td>Reparaţii</td>
+                    <td>Fiesta, Fusion</td>
+                    <td>Focus, C-MAX</td>
+                    <td>Mondeo, S-MAX, Galaxy, Kuga</td>
+                    <td>Transit / Tourneo Connect</td>
+                    <td>Ford Transit</td>
+                </tr>
+                <tr class="CusTab-dark">
+                    <td class="CusTab-dark-left">Inlocuire set placute de frâna fata</td>
+                    <td><span style="font-size: large">270 lei <br>             </span></td>
+                    <td><span style="font-size: large">320 lei <br>             </span></td>
+                    <td><span style="font-size: large">350 lei <br>             </span></td>
+                    <td><span style="font-size: large">320 lei <br>             </span></td>
+                    <td><span style="font-size: large">310 lei <br>             </span></td>
+                </tr>
+                <tr class="CusTab-light">
+                    <td class="CusTab-light-left">Inlocuire set placute si discuri de frâna fata
+                    </td>
+                    <td><span style="font-size: large">700 lei <br>             </span></td>
+                    <td><span style="font-size: large">830 lei <br>             </span></td>
+                    <td><span style="font-size: large">930 lei <br>             </span></td>
+                    <td><span style="font-size: large">620 lei <br>             </span></td>
+                    <td><span style="font-size: large">1.200 lei <br>             </span></td>
+                </tr>
+                <tr class="CusTab-dark">
+                    <td class="CusTab-dark-left">Schimb lichid de frâna</td>
+                    <td><span style="font-size: large">125 lei </span></td>
+                    <td><span style="font-size: large">125 lei </span></td>
+                    <td><span style="font-size: large">125 lei </span></td>
+                    <td><span style="font-size: large">125 lei <br>             </span></td>
+                    <td><span style="font-size: large">125 lei <br>             </span></td>
+                </tr>
+                </tbody>
+            </table>
+            <br> <br> Toate kiturile cu plăcuţe de frână Motorcraft au fost îmbunătăţite şi testate
+            în concordanţă cu cele mai stricte directive Ford şi sunt special concepute pentru
+            modelele Ford. <br> <br> De asemenea, şi-au demonstrat longevitatea mulţumită
+            rezistenţei la temperaturi înalte, oferind comfortul necesar chiar şi în condiţiile unei
+            sarcini mari pe pneu.
+        </div>
+    </div>
+</div>
+</div>
+</div>
+</div>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIarticleTitle">
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                <div><em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate in lei, contin TVA conform
+                        legislatiei in vigoare si includ pretul manoperei. Oferta nu include componentele tehnologice.
+                        Oferta nu se aplica autovehiculelor utilitare echipate cu roți duble spate. De asemenea, aceasta
+                        oferta este supusa termenilor si conditiilor afisate, este valabila in limita stocului
+                        disponibil si se poate modifica in functie de seria de sasiu. Alte detalii aferente ofertei sunt
+                        disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de reparatori autorizati
+                        Ford. <br>
+                        &nbsp;Perioada derularii acestei campanii: 01 septembrie 2017 - 31 decembrie 2017.</em></div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="center_item">
+</div>
+<div class="center_item">
+    <!--<START_MPP001 >-->
+    <!-- EMPTY REC [AdvCols] with id [1205094745046] in site [RORO4_ENGINE] -->
+    <!--<END_MPP001 >-->
+</div>
+<div class="center_item">
+</div>
+<div id="center_btt">
+</div>
+<!-- TD 8042 - AddThis Social Book Marking tool display Starts-->
+<!-- TD 8042 - AddThis Ends-->
+<!-- AddThis Replacement Starts-->
+<!-- AddThis Replacement Ends-->
+</div>
+<div id="container_right">
+    <div class="right_item">
+    </div>
+    <!-- Technical Highlights -->
+    <!-- <Start> -->
+    <div class="right_item">
+    </div>
+    <!-- <End> -->
+    <div class="right_item">
+        <!--<START_SSP001 >-->
+        <div class="skyscraper_promo">
+            <a href='https://wwwprod-ro.engine.ford.com/SBE/OSBOV?dc=10300' target="_self">
+                <img
+                    src="/assets/img/service/1214513078990.jpg"
+                    border="0" alt="Book an Appointment" title="Book an Appointment" height='185' width='185'/>
+            </a>
+        </div>
+        <!--<END_SSP001 >-->
+        <!--<START_SSP001 >-->
+        <div class="skyscraper_promo">
+            <a href='../../FordAsistenta12' target="_self">
+                <img
+                    src="/assets/img/service/1214544577603.jpg"
+                    border="0" alt="Asistenta Ford 12" title="Asistenta Ford 12" height='185' width='185'/>
+            </a>
+        </div>
+        <!--<END_SSP001 >-->
+    </div>
+</div>
 </div>
 <!-- Footer -->
 <!-- <Start> -->

@@ -280,6 +280,7 @@
 
             #wrapper #frame {
                 top: -3 px\9
+
             }
         </style>
         <div class="navmenu">
@@ -520,12 +521,16 @@
                                     </tbody>
                                 </table>
                             </div>
-                            <div>&nbsp;<br> <br> <em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate in lei, contin TVA
-                                    conform legislatiei in vigoare si includ pretul manoperei. Oferta nu include componentele tehnologice.
-                                    Oferta este valabila in limita stocului disponibil si nu se aplica autovehiculelor utilitare echipate cu
-                                    jante din aliaj si/sau a celor cu roti duble spate. Aceasta oferta este supusa unor termene si conditii
-                                    si poate varia in functie de seria de sasiu. Perioada derularii acestei campanii: 8 martie 2017 - 31
-                                    septembrie 2017.</em></div>
+                            <div>&nbsp;<br> <br> <em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate
+                                    in lei, contin TVA conform legislatiei in vigoare si includ pretul manoperei. Oferta
+                                    nu include componentele tehnologice. Oferta nu se aplica autovehiculelor utilitare
+                                    echipate cu roți duble spate. De asemenea, aceasta oferta este supusa termenilor si
+                                    conditiilor afisate, este valabila in limita stocului disponibil si se poate
+                                    modifica in functie de seria de sasiu. Alte detalii aferente ofertei sunt
+                                    disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de reparatori
+                                    autorizati Ford. <br>
+                                    &nbsp;Perioada derularii acestei campanii: 01 septembrie 2017 - 31 decembrie
+                                    2017.</em></div>
                         </div>
                     </div>
                 </div>

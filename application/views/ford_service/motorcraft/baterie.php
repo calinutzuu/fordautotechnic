@@ -335,7 +335,7 @@
                             <li class=''>
                                 <a href='/FordService/Motorcraft/Service'>Service</a></li>
                             <li class=''>
-                                <a href='/FordService/Motorcraft/Anvelope'>Anvelope de larna</a></li>
+                                <a href='/FordService/Motorcraft/Anvelope'>Anvelope de iarna</a></li>
                             <li class=''>
                                 <a href='/FordService/Motorcraft/Pre-verificareITP'>Pre-verificare I.T.P.</a></li>
                             <li class=''>
