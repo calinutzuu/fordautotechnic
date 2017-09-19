@@ -515,14 +515,14 @@
                 </div>
                 <div class='BTIarticleBody'>
                     <div class='BTIarticleText'>
-                        <div><h2><font size="2">Anvelope vara</font></h2>
+                        <div><h2><font size="2">Anvelope iarna</font></h2>
 
                             <div></div>
                             <div><strong><br> de la <span style="color: rgb(0, 0, 128);"><span
                                             style="font-size: medium;"><span
                                                 style="font-size: x-large;">166 lei </span></span></span></strong><br>
                                 <br> <br> <br> <a
-                                    HREF="/FordService/Motorcraft/Anvelope">&gt;Anvelope vara</a></div>
+                                    HREF="/FordService/Motorcraft/Anvelope">&gt;Anvelope iarna</a></div>
                         </div>
                     </div>
                 </div>
