@@ -330,6 +330,7 @@ $route['FordService/Motorcraft/Anvelope/Fusion'] = 'ford_service/motorcraft/fusi
 $route['FordService/Motorcraft/Anvelope/Fiesta'] = 'ford_service/motorcraft/fiesta/index';
 $route['FordService/Motorcraft/Anvelope/Ka'] = 'ford_service/motorcraft/ka/index';
 $route['FordService/Motorcraft/Anvelope'] = 'ford_service/motorcraft/anvelope/index';
+$route['FordService/Motorcraft/10lasuta'] = 'ford_service/motorcraft/lasuta/index';
 $route['FordService/Motorcraft/Service'] = 'ford_service/motorcraft/service/index';
 $route['FordService/Motorcraft'] = 'ford_service/motorcraft/index';
 $route['FordService/Accesorii'] = 'ford_service/accesorii_a/index';

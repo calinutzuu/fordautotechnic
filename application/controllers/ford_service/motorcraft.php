@@ -26,6 +26,14 @@ class motorcraft extends CI_Controller
             ->build('ford_service/motorcraft/anvelope');
     }
 
+    public function lasuta()
+    {
+        $this->template
+            ->set_layout('promotii')
+            ->title('Reducere', 'Ford AutoTechnic')
+            ->build('ford_service/motorcraft/lasuta');
+    }
+
     public function ka()
     {
     $this->template
@@ -163,10 +171,12 @@ class motorcraft extends CI_Controller
     }
 
     public function baterie()
-    {
-        $this->template
-            ->set_layout('promotii')
-            ->title('AerConditionat', 'Ford AutoTechnic')
-            ->build('ford_service/motorcraft/reparatii/baterie');
-    }
+{
+    $this->template
+        ->set_layout('promotii')
+        ->title('AerConditionat', 'Ford AutoTechnic')
+        ->build('ford_service/motorcraft/reparatii/baterie');
+}
+
+
 }

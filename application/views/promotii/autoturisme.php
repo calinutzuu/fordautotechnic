@@ -134,7 +134,31 @@
                                 src="/assets/img/1214616900879.jpg"
                                 alt="Redescopera placerea condusului"/><span class="fv-overlay-icon"></span></a></div>
                 </article>
-                <article class="content-column right">
+
+                <article class="content-column left">
+                    <div class="img-column"> <img
+                                src="/assets/img/promotii/1214638483742.jpg"
+                                alt="Noul Kuga Ford"/><span class="fv-overlay-icon"></span></a></div>
+                    <div class="content centered">
+                        <h3 class="bigHeading02">
+                            CEL MAI NOU SUV FORD, CU O OFERTA SPECIALA
+                        </h3>
+
+                        <p>
+
+                        <p>Gandit pentru actiune; dotat pentru confort; cu un design care impresioneaza si cu numeroase tehnologii
+                            inteligente,<br> noul Kuga este cel mai recent Smart Utility Vehicle de la Ford. Iar cu oferta promotionala ai
+                            un pret special pentru<br>
+                        <nobr>SUV-ul</nobr>
+                        care iti va deschide noi posibilitati: doar
+                        <nobr>18.000 &euro;*</nobr>
+                        (TVA inclus).<br> <br> <a HREF="/Promotii/Autoturisme/NoulKUGA"><span style="color: rgb(0, 0, 255);"><u>Vezi
+                                    oferta speciala</u></span><u> </u></a></p>
+                        </p>
+                    </div>
+                </article>
+
+           <!--     <article class="content-column right">
                     <div class="content centered">
                         <div class="img-column">
                             <img src="/assets/img/1214616617939.jpg" alt="Noul Ford Kuga Oferta"/><span
@@ -157,7 +181,7 @@
                         </p>
                     </div>
                     <br>
-                </article>
+                </article> -- >
              <!--   <article class="content-column centered">
                     <div class="img-column"><img src="/assets/img/1214619333771.jpg"
                                                  alt="Ford Business Weeks Autoturisme"/><span

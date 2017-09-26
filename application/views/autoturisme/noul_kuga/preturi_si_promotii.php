@@ -327,10 +327,10 @@
                                         cu numeroase tehnologii inteligente, noul Kuga este cel mai recent Smart Utility
                                         Vehicle de la Ford. Iar cu oferta promotionala ai un pret special pentru SUV-ul
                                         care iti va deschide noi posibilitati:
-                                    <nobr>19.500 &euro;*</nobr>
+                                    <nobr>18.000 &euro;*</nobr>
                                     (TVA inclus).<br> <br> <a
                                         HREF="/Promotii/Autoturisme/NoulKUGA"><span
-                                            style="color: rgb(0, 0, 255);"><u>Vezi oferta speciala de lansare</u></span></a></p>
+                                            style="color: rgb(0, 0, 255);"><u>Vezi oferta speciala</u></span></a></p>
                                     </p>
                                 </header>
                             </div>
