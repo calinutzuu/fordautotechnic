@@ -1,11 +1,11 @@
 <div class="mainContent">
     <div class="img-column"><img
-            src="/assets/img/1214627766047.jpg"
+            src="/assets/img/promotii/fiest_500.jpg"
             alt="Ford Fiesta"/>
 
     </div>
 
-    <section id="fv-wrapper">
+  <!--  <section id="fv-wrapper">
         <section id="carouselize" class="carousel-container carousel"></section>
         <section class="mid-page-content">
             <div class="tab-content">
@@ -212,7 +212,8 @@
         <p></p>
     </article>
 </div>
-<script type="text/javascript">
+
+<!--   <script type="text/javascript">
     String.prototype.endsWith = function (str) {
         return (this.match(str + "$") == str)
     }
@@ -247,4 +248,4 @@
         var x = document.getElementsByTagName('script')[0];
         x.parentNode.insertBefore(sophusScript, x);
     }
-</script>
+</script> -->

@@ -1,11 +1,11 @@
 
 <div class="mainContent">
     <div class="img-column"><img
-            src="/assets/img/1214627766061.jpg"
+            src="/assets/img/promotii/fiest_500.jpg"
             alt="Ford Fiesta"/>
 
     </div>
-    <section id="fv-wrapper">
+ <!--   <section id="fv-wrapper">
         <section id="carouselize" class="carousel-container carousel"></section>
         <section class="mid-page-content">
             <div class="tab-content">
