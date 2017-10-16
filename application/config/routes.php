@@ -269,6 +269,7 @@ $route['Promotii/Autoturisme/programul-rabla/OfertaFocus'] = 'promotii/autoturis
 $route['Promotii/Autoturisme/programul-rabla/OfertaEcosport'] = 'promotii/autoturisme/oferta_ecosport';
 $route['Promotii/Autoturisme/programul-rabla/Rezervare'] = 'promotii/autoturisme/rezervare';
 
+$route['Promotii/Autoturisme/Noul-EcoSport'] = 'promotii/autoturisme/noul_ecosport';
 $route['Promotii/Autoturisme/NoulFordFIESTA'] = 'promotii/autoturisme/fiesta_fizice';
 $route['Promotii/Autoturisme/NoulFordFIESTAFlote'] = 'promotii/autoturisme/fiesta_juridice';
 

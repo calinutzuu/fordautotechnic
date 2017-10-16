@@ -201,4 +201,12 @@ class Autoturisme extends CI_Controller
             ->title('NoulFiesta', 'Ford AutoTechnic')
             ->build('promotii/autoturisme/fiesta_juridice');
     }
+
+    public function noul_ecosport()
+    {
+        $this->template
+            ->set_layout('promotii')
+            ->title('NoulFiesta', 'Ford AutoTechnic')
+            ->build('promotii/autoturisme/noul_ecosport');
+    }
 }

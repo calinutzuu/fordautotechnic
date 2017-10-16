@@ -213,39 +213,4 @@
     </article>
 </div>
 
-<!--   <script type="text/javascript">
-    String.prototype.endsWith = function (str) {
-        return (this.match(str + "$") == str)
-    }
-    function createPath() {
-        var currentURL = window.location.href;
-        if (!currentURL.indexOf("/cs/ContentServer?") > -1 && !currentURL.indexOf("/cs/Satellite?") > -1) {
-            if (currentURL.indexOf("=") > -1 && currentURL.indexOf("http://www.ford.ro/") > -1 && !currentURL.indexOf("?") > -1) {
-                currentURL = currentURL.substring(0, currentURL.indexOf("="));
-                currentURL = currentURL.substring(0, currentURL.lastIndexOf("http://www.ford.ro/"));
-            }
-            if (currentURL.indexOf("?") > -1) {
-                currentURL = currentURL.substring(0, currentURL.indexOf("?"));
-                if (currentURL.indexOf("=") > -1 && currentURL.indexOf("http://www.ford.ro/") > -1) {
-                    currentURL = currentURL.substring(0, currentURL.indexOf("="));
-                    currentURL = currentURL.substring(0, currentURL.lastIndexOf("http://www.ford.ro/"));
-                }
-            }
-        }
-//Remove all trailing / 
-        while (currentURL.endsWith("http://www.ford.ro/")) {
-            currentURL = currentURL.substring(0, currentURL.lastIndexOf("http://www.ford.ro/"));
-        }
-        return currentURL;
-    }
-    tc_page_alias = createPath();
-</script>
-<script>
-    if (typeof TagIT != 'object' || typeof TagIT.handlesSophus == 'function' && !TagIT.handlesSophus()) {
-        console.log("layoutosbov testing2");
-        var sophusScript = document.createElement('script');
-        sophusScript.src = '../../cs/ENGInE/js/logging/sophus/logging.js';
-        var x = document.getElementsByTagName('script')[0];
-        x.parentNode.insertBefore(sophusScript, x);
-    }
-</script> -->
+
