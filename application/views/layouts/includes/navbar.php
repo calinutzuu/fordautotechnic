@@ -51,6 +51,10 @@
                                     data-selenium="doormat_car_selection EcoSport"
                                     class="om_he_pv_np " href="/Autoturisme/Noul-EcoSport">EcoSport</a>
     </li>
+    <li role="menuitem" class=""><a role="link"
+                                    data-selenium="doormat_car_selection EcoSport"
+                                    class="om_he_pv_np " href="/Autoturisme/NoulEcosport">Noul EcoSport</a>
+    </li>
     <li role="menuitem" class=""><a role="link" data-selenium="doormat_car_selection Focus"
                                     class="om_he_pv_np " href="/Autoturisme/Focus">Focus</a>
     </li>

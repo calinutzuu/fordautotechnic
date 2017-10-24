@@ -8,7 +8,8 @@
         <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/Fiesta"> Fiesta</a></h4></dd>
         <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/noul-fiesta"> NOUL FORD FIESTA</a></h4></dd>
         <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/NoulB-MAX"> B-MAX</a></h4></dd>
-        <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/Noul-EcoSport"> Noul EcoSport</a></h4></dd>
+        <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/Noul-EcoSport"> EcoSport</a></h4></dd>
+        <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/NoulEcosport"> Noul EcoSport</a></h4></dd>
         <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/Focus"> Focus</a></h4></dd>
         <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/NewFocusST"> The New Focus ST</a></h4></dd>
         <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/FocusRS"> Focus RS</a></h4></dd>

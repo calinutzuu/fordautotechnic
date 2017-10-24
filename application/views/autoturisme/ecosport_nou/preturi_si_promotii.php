@@ -1,10 +1,106 @@
+<!doctype html>
+<!--[if IE 8]>
+<html class="no-js lt-ie10 lt-ie9" lang="en" xmlns:fb="http://ogp.me/ns/fb#"> <![endif]-->
+<!--[if IE 9]>
+<html class="no-js lt-ie10" lang="en" xmlns:fb="http://ogp.me/ns/fb#"> <![endif]-->
+<!--[if gt IE 9]>
+<style type="text/css">
+.gradient {
+filter: none;
+}
+</style>
+<!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+
+<body id="default" itemscope itemtype="http://schema.org/WebPage">
+<script>
+</script>
+<script>
+    var TagIT = TagIT || {};
+</script>
+<script>
+    var TagIT = TagIT || {};
+    TagIT.GtmId = 'GTM-WL5HW9';
+</script>
+<noscript>
+    <iframe
+        src="http://www.googletagmanager.com/ns.html?id=GTM-WL5HW9" height="0"
+        width="0" style="display: none; visibility: hidden"></iframe>
+</noscript>
+<script
+    src='http://www.ford.ro/cs/ContentServer?pagename=RORO4_ENGINE/script/tagit/assembler&amp;c=Page&amp;cid=1&amp;location=body&amp;isMobile=false&amp;require=NONE'
+    defer></script>
+<script
+    src='http://www.ford.ro/cs/ContentServer?cid=1&amp;isMobile=false&amp;pagename=RORO4_ENGINE%2Fscript%2Ftagit%2Fstatic&amp;require=NONE&amp;location=body&amp;c=Page'></script>
+<script type="text/javascript">
+    String.prototype.endsWith = function (str) {
+        return (this.match(str + "$") == str)
+    }
+    function createPath() {
+        var currentURL = window.location.href;
+        if (!currentURL.indexOf("/cs/ContentServer?") > -1 && !currentURL.indexOf("/cs/Satellite?") > -1) {
+            if (currentURL.indexOf("=") > -1 && currentURL.indexOf("http://www.ford.ro/") > -1 && !currentURL.indexOf("?") > -1) {
+                currentURL = currentURL.substring(0, currentURL.indexOf("="));
+                currentURL = currentURL.substring(0, currentURL.lastIndexOf("http://www.ford.ro/"));
+            }
+            if (currentURL.indexOf("?") > -1) {
+                currentURL = currentURL.substring(0, currentURL.indexOf("?"));
+                if (currentURL.indexOf("=") > -1 && currentURL.indexOf("http://www.ford.ro/") > -1) {
+                    currentURL = currentURL.substring(0, currentURL.indexOf("="));
+                    currentURL = currentURL.substring(0, currentURL.lastIndexOf("http://www.ford.ro/"));
+                }
+            }
+        }
+//Remove all trailing / 
+        while (currentURL.endsWith("http://www.ford.ro/")) {
+            currentURL = currentURL.substring(0, currentURL.lastIndexOf("http://www.ford.ro/"));
+        }
+        return currentURL;
+    }
+    tc_page_alias = createPath();
+</script>
+<script>
+    if (typeof TagIT != 'object' || typeof TagIT.handlesSophus == 'function' && !TagIT.handlesSophus()) {
+        console.log("layoutosbov testing2");
+        var sophusScript = document.createElement('script');
+        sophusScript.src = '../../cs/ENGInE/js/logging/sophus/logging.js';
+        var x = document.getElementsByTagName('script')[0];
+        x.parentNode.insertBefore(sophusScript, x);
+    }
+</script>
+<div id="wrapper">
+<!--<START_EP2_HEADER >-->
+<!--<START_EP2_HEADER >-->
+<script type="text/javascript">        var fw_animationSpeed = 350;    </script>
+<div id="cookieAlertBoxID" class="cookieAlertBox">
+    <div class="midContent">
+        <div class="cookie-closebtn"><a id="closeBtnID" class="icon closeBtn" href="#" title="Close">Close</a></div>
+        <p>
+
+        <p align="left">Fişierele de tip cookie sunt esenţiale pentru ca dumneavoastră să utilizaţi la maximum site-ul
+            nostru Web. De fapt, aproape toate site-urile Web utilizează acest tip de fişiere. Fişierele de tip cookie
+            stochează preferinţele dumneavoastră şi alte informaţii care ne ajută să ne &icirc;mbunătăţim site-ul Web -
+            dar nu vă faceţi griji, nicio informaţie colectată de pe site-ul nostru nu vă identifică &icirc;n mod
+            personal. Puteţi afla mai multe despre fişierele de tip cookie şi despre cum puteţi să le controlaţi cu
+            ajutorul setărilor dumneavoastră de navigare din Ghidul Ford privind fişierele de tip cookie.</p>
+        <a id="linkID" class="link"
+           href="http://www.ford.ro/Footer/GhidulFordPrivindFisiereleDeTipCookie?intcmp=other-nwp-cookies-cookie-alert-link">
+            Aflați mai multe </a>                                </p>
+    </div>
+</div>
+
+<!--<END_EP2_HEADER >-->
+<!--<END_EP2_HEADER >-->
 <script type="text/javascript">
     // mobile sniffer
     ForceRedirectUserAgents = 'android,iphone,blackberry';
     ForceRedirectUserAgentsBypass = 'Win64,Win32';
     ForceRedirectMinWidth = '480';
-    MobileHomePageRedirectURL = 'PreturiSiPromotii\/\/m.ford.ro';
-    MobileRedirectURL = MobileHomePageRedirectURL + '/autoturisme/noul-ecosport';
+    MobileHomePageRedirectURL = 'PreturisiPromotii\/\/m.ford.ro';
+    MobileRedirectURL = MobileHomePageRedirectURL + '/promotii/Autoturisme/Noul-EcoSport';
 </script>
 <div id="xAxis-detailed">
     <nav class="breadCrumb visuallyhidden" role="navigation">
@@ -18,10 +114,10 @@
         </ul>
     </nav>
     <script>
-        var vehicleimagepackpresid = '1205091200728';
+        var vehicleimagepackpresid = '1205150772859';
         var vehicleimagepackyear = 'NONE';
     </script>
-    <div class="fblike-locale">ro_RO</div>
+    <div class="fblike-locale">en_RO</div>
     <script>
         var googleAdServerNameplateId = 'AUTHORED';
         var googleAdServerNameplateName = 'EcoSport';
@@ -40,17 +136,17 @@
             return obj;
         };
         var bootstrapVehicleData = {"vehicles": [
-            {"strIntroToFord": "Iti prezentam Noul", "selector": {"bodystyles": {"options": [
+            {"strIntroToFord": " Noul", "selector": {"bodystyles": {"options": [
                 {}
             ]}, "exteriorImages": {"options": [
                 {}
             ]}, "interiorImages": {"options": [
                 {}
-            ]}}, "brand": "Ford", "vehicleType": "PV", "catalogId": "NONE", "nameplate": "EcoSport", "labelAvailableFrom": "&nbsp;", "formattedCurrency": "", "nameplateText": "Inteligent, compact dar si spatios, puternic dar si eficient din punct de vedere al consumului de combustibil: un SUV adaptat nevoilor tale.", "imagePack": false, "hideVehicleImage": false, "facebookImagePath": "", "facebookAppId": "facebookAppId", "images": [], "billBoardImagePath": null, "backgroundImagePath": ["/assets/img/noul_ecosport/1214507093618.jpg", "null", "null"], "disclaimerTextColor": ["364957", null, null], "current": true, "cid": "1205091149631", "cta": [
+            ]}}, "brand": "Ford", "vehicleType": "PV", "catalogId": "NONE", "nameplate": "EcoSport", "labelAvailableFrom": "&nbsp;", "formattedCurrency": "", "nameplateText": "Inteligent, compact dar si spatios, puternic dar si eficient din punct de vedere al consumului de combustibil: un SUV adaptat nevoilor tale.", "imagePack": false, "hideVehicleImage": false, "facebookImagePath": "", "facebookAppId": "facebookAppId", "images": [], "billBoardImagePath": null, "backgroundImagePath": ["/assets/img/ecosport/1214641467623.jpg", "null", "null"], "disclaimerTextColor": ["364957", null, null], "current": true, "cid": "1205150774478", "cta": [
                 {"linkTitle": "DESCARC\u0102 BRO\u015EUR\u0102 ", "linkURL": "\/SBE\/BrosuriSiPreturi", "linkType": "primary", "linkTarget": "_blank", "omid": "va"},
                 {"linkTitle": "\u00CENSCRIE-TE LA TEST DRIVE ", "linkURL": "\/SBE\/TestDrive\/TestDriveAutoturisme?shopcode=AUTHORED&derivcode=AUTHORED", "linkType": "tertiary", "linkTarget": "_blank", "omid": "tr"}
-            ], "social": {"facebook": "https://facebook.com", "facebookPage": "fordromania"}, "disclaimer": "Modelul prezentat este un Ford EcoSport", "seriesCode": "AUTHORED", "uscCode": "AUTHORED", "presId": "1205091200728", "promos": [
-                {"imagePath": "/assets/img/noul_ecosport/1214553887403.jpg", "overlay": false, "link": "/cs/ContentServer?pagename=RORO4_ENGINE/EP2/common/promo/M48_PromoBlock&c=Promo_C&cid=1205113209435", "text": "Oferta speciala prin programul Ecobonus!"}
+            ], "social": {"facebook": "https://facebook.com", "facebookPage": "fordromania"}, "disclaimer": "Modelul prezentat este un Ford EcoSport", "seriesCode": "AUTHORED", "uscCode": "AUTHORED", "presId": "1205150772859", "promos": [
+                {"imagePath": "/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobwhere=1214641470417&blobkey=id", "overlay": false, "link": "/cs/ContentServer?pagename=RORO4_ENGINE/EP2/common/promo/M48_PromoBlock&c=Promo_C&cid=1205150859731", "text": "Vezi oferta speciala"}
             ], "idf": {"options": []}}
         ]} || {};
         var retrieveUserOptions = JSON.parse(localStorage.getItem('userSelection')) || {};
@@ -60,13 +156,12 @@
             bootstrapVehicleData.vehicles[0].images = [retrieveUserOptions.selectedImageAngle];
         }
     </script>
-    <div id="fb-root"></div>
-    <!-- commented for Release 1604 <section id="billboard" style="height:0;"></section> -->
+    <section id="billboard" style="height:0;"></section>
     <section class="x-axis-wrapper" id="vvmWrapper">
         <div itemscope itemtype="http://schema.org/ImageObject">
             <ul class="nameplate x-axis" id="vvmRoot">
                 <li class="default-nameplate-vehicle"
-                    style="background-image:url(/assets/img/noul_ecosport/1214507093618.jpg)">
+                    style="background-image:url(http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpg&amp;blobwhere=1214641467623&amp;blobkey=id)">
                     <div class="layered-nameplate-image">
                         <div class="image-holder">
                         </div>
@@ -79,7 +174,7 @@
             <div itemscope itemtype="http://schema.org/Product" id="nameplateDetails" class="nameplate-vehicle">
                 <!--the text description-->
                 <div class="name-plate-text">
-                    <p class="intro">Iti prezentam Noul</p>
+                    <p class="intro"> Noul</p>
 
                     <h1 class="bigHeading">
                         <span data-selenium="XA_namePlate" itemprop="member" class="nameplate boldTxt">EcoSport</span>
@@ -95,10 +190,8 @@
                 </div>
             </div>
         </div>
-        <nav class="vehicle-tools" id="vehicleTools">
-        </nav>
-        <aside class="vehicle-links box-shadow" id="ctaDetails">
-        </aside>
+        <nav class="vehicle-tools" id="vehicleTools"></nav>
+        <aside class="vehicle-links box-shadow" id="ctaDetails"></aside>
         <div id="intImageCarousel" class="interior-image-carousel">
             <div class="slide-wrapper">
                 <article class="slide"></article>
@@ -106,16 +199,13 @@
         </div>
     </section>
     <!-- bill board -->
-    <!-- commented for Release 1604
     <script type="text/x-handlebars-template" id="billboardTemplate">
-    {{#each vehicles}}
-    {{#if current}}
-    <div style="background:url({{billBoardImagePath}}) no-repeat;"></div>
-    {{/if}}
-    {{/each}}
+        {{#each vehicles}}
+        {{#if current}}
+        <div style="background:url({{billBoardImagePath}}) no-repeat;"></div>
+        {{/if}}
+        {{/each}}
     </script>
-    -->
-    <!-- VIEW TEMPLATES -->
     <script type="text/x-handlebars-template" id="vehicleTemplate">
         {{#each vehicles}}
         <li>
@@ -153,6 +243,9 @@
                   data-selenium="XA_model">{{brand}}</span>
             <span itemprop="member" class="nameplate boldTxt" data-selenium="XA_namePlate">{{nameplate}}</span>
         </h1>
+        <!--suppressPrice - Y,  removePrice - RemovePrice-->
+        <!--strDisclaimer - -->
+        <!--isComponentPricingEnabled - false,  strPrice - -->
         <!--The blurb-->
         <p class="blurb">{{nameplateText}}</p>
     </div>
@@ -264,33 +357,30 @@
     <div id="promo-carousel-timer">7500</div>
     <div class="slide-wrapper">
         <article class="slate slide">
-            <a href='http://www.ford.ro/Promotii/Autoturisme/Rabla/OfertaEcoSport'>
+            <a href='http://www.ford.ro/Promotii/Autoturisme/Noul-EcoSport'>
 <span class="active-promo-rover">
 <span class="bg-opacity"></span>
 <span class="link-icon"></span>
 </span>
-                <img src="/assets/img/noul_ecosport/1214553887403.jpg" alt="Ford Fiesta">
+                <img
+                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpg&amp;blobwhere=1214641470417&amp;blobkey=id"
+                    alt="Noul Ford EcoSport Offerta Speciala">
 
-                <p class="promo-carousel-text"><span
-                        class="promo-carousel-bold">Oferta speciala prin programul Ecobonus</span></p></a>
+                <p class="promo-carousel-text"><span class="promo-carousel-bold">Vezi oferta speciala</span></p></a>
         </article>
     </div>
 </section>
 <section id="non-js-promoCarousel" class="non-js-promo-carousel box-shadow">
     <div class="slide-wrapper">
         <p class="promo-carousel-text"><a
-                href="http://www.ford.ro/cs/ContentServer?pagename=RORO4_ENGINE/EP2/common/promo/M48_PromoBlock&amp;c=Promo_C&amp;cid=Oferta%20speciala%20prin%20programul%20rabla!"
-                target="_blank">Ford Fiesta</a></p>
+                href="http://www.ford.ro/cs/ContentServer?pagename=RORO4_ENGINE/EP2/common/promo/M48_PromoBlock&amp;c=Promo_C&amp;cid=Vezi%20oferta%20speciala"
+                target="_blank">Noul Ford EcoSport Offerta Speciala</a></p>
     </div>
 </section>
 <!-- Tabs -->
 <script
     type="text/javascript"> var nameplateTabErrorMsg = 'Ne pare r&#259;u, momentan nu putem s&#259; &icirc;nc&#259;rc&#259;m con&#539;inutul pe care l-a&#539;i solicitat. &Icirc;ncerca&#539;i din nou, mai t&acirc;rziu.'; </script>
 <!-- Addthis Replacement : Start -->
-<!-- SocialShare END -->
-<script type="text/javascript">
-    var bootstrapsocialshare = {"shareBtn": {"googleplus": {"url": "https:\/\/plus.google.com\/share", "id": ""}, "facebook": {"url": "https:\/\/www.facebook.com\/sharer\/sharer.php", "id": "619904354830748"}, "email": "{}", "twitter": {"url": "https:\/\/twitter.com\/share", "id": ""}}, "emailSubject": "Un model Ford care poate te intereseaza", "subline": "Distribuie prietenilor t&#259;i!", "enable": true, "items": ["facebook", "twitter", "googleplus", "email"], "emailBodyContent": "Salut, ma uitam pe ford.ro si m-am gandit ca, in mod sigur, ti-ar placea acest model: \r\n\r\n\r\n", "headline": "Ai nevoie de o a doua opinie?"};
-</script>
 <!-- Addthis Replacement : End -->
 <section id="primary-tab-content" class="nameplate-tab-content" data-dynamic-tabcontent="true"
          data-siteterm-backtotop="Back To Top !!!">
@@ -298,68 +388,47 @@
         <nav class="tabs" id="primaryTabs">
             <ul>
                 <!--  isBtfTab true -->
-                <!--  tabUrl /cs/ContentServer?cid=1205091149631&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE -->
-                <li><a href="/Autoturisme/Noul-EcoSport" class=" "
-                       data-ajaxlink="/cs/ContentServer?cid=1205091149631&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE">Prezentare
+                <!--  tabUrl /cs/ContentServer?cid=1205150774478&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE -->
+                <li><a href="/Autoturisme/NoulEcosport" class=" "
+                       data-ajaxlink="/cs/ContentServer?cid=1205150774478&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE">Prezentare
                         generala</a>
                     <!-- secondary tabs -->
-                    <!--  midPageTabId : 1205091148573 -->
+                    <!--  midPageTabId : 1205150777553 -->
                 </li>
                 <!--  isBtfTab  -->
-                <!--  tabUrl /cs/ContentServer?cid=1205091149631&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205096191903&amp;tabName=PreturiSiPromotii&amp;c=Page&amp;site=RORO4_ENGINE -->
+                <!--  tabUrl /cs/ContentServer?cid=1205150774478&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205150862962&amp;tabName=PreturisiPromotii&amp;c=Page&amp;site=RORO4_ENGINE -->
                 <!-- IntoID ::: articleAssetId -->
-                <li class="selected"><a href="PreturiSiPromotii#primaryTabs"
-                                        data-ajaxlink="/cs/ContentServer?cid=1205091149631&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205096191903&amp;tabName=PreturiSiPromotii&amp;c=Page&amp;site=RORO4_ENGINE">Preturi
-                        Si Promotii</a>
+                <li class="selected"><a href="PreturisiPromotii#primaryTabs"
+                                        data-ajaxlink="/cs/ContentServer?cid=1205150774478&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205150862962&amp;tabName=PreturisiPromotii&amp;c=Page&amp;site=RORO4_ENGINE">PROMOTII</a>
                     <!--This is where the main content for the selected tab will go -->
                     <!-- secondary tabs -->
                     <div class="secondary-tabs tab-content">
                         <nav class="sub-nav">
                             <ul>
                                 <li><a href='#tab1' class='omt_tabName'>PROMOTII</a></li>
-                                <li><a href='#tab2' class='omt_tabName'>PREŢURI</a></li>
                             </ul>
                         </nav>
                         <!-- isBtfTab : from MidPageTabs true -->
                         <div class="innertab-wrapper">
-                            <!--  tabTitle : PROMOTII :: btfTabContent : 1205098892306 :: tabContent :  -->
+                            <!--  tabTitle : PROMOTII :: btfTabContent : 1205150859296 :: tabContent :  -->
                             <div id='tab1' class="secondary-tab-content">
                                 <header class="intro-header">
                                     <h1 class="bigHeading">
-                                        Oferta speciala prin programul Ecobonus
+                                        AVENTURA TA ECOSPORT INCEPE CU DOAR 750 LEI / LUNA*
                                     </h1>
                                     <span class="highlighter"></span>
+
                                     <p class="intro-text">
-                                    <p>Beneficiezi de un bonus de 1.500 &euro;, la casarea masinii vechi. <br> <br> Afla mai multe <u><a HREF="/Promotii/Autoturisme/programul-rabla" >aici</a></u></p>
+
+                                    <p>Iti doresti o masina eficienta si inteligenta? Care sa arate si sa se comporte ca
+                                        un SUV, dar cu un plus de rafinament si design? Si care sa iti garanteze
+                                        incredere la volan?<br>
+                                        <br>
+                                        Fii gata sa faci cunostinta cu noul model Ford EcoSport!<br>
+                                        <br>
+                                        <a HREF="/Promotii/Autoturisme/Noul-EcoSport"><span
+                                                style="color: rgb(0, 0, 255);"><u>Vezi oferta speciala de prelansare</u></span></a>
                                     </p>
-                                </header>
-                            </div>
-                            <!--  tabTitle : PREŢURI :: btfTabContent : 1205112211058 :: tabContent :  -->
-                            <div id='tab2' class="secondary-tab-content">
-                                <header class="intro-header">
-                                    <h1 class="bigHeading">
-                                        Lista de preturi
-                                    </h1>
-                                    <span class="highlighter"></span>
-
-                                    <p class="intro-text">
-
-                                    <p style="text-align: justify;">Daca te intereseaza un anumit model, consulta
-                                        ofertele noastre actuale. Sau vizitează cel mai apropiat dealer pentru cele mai
-                                        bune oferte disponibile. <br> <br> <a
-                                            TITLE="Lista de preturi noul Ford EcoSport (1,99 MB)"
-                                            HREF="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheadervalue1=attachment%3Bfilename%3D%22Lista_de_preturi_noul_Ford_EcoSport.pdf%22&amp;blobheadervalue2=abinary%3Bcharset%3DUTF-8&amp;blobheadername1=Content-Disposition&amp;blobheadername2=MDT-Type&amp;blobheader=application%2Fpdf&amp;blobwhere=1214549936647&amp;blobkey=id"
-                                            CLASS="download"
-                                            onClick="if (typeof sford == 'object') omnitureLinkDownloadClick('brand:pricelist download:vehicle:confirm:<nameplate>','event15,event43','','event: pricelist:pdf','download pricelist:vehicle','pdf download','',false,'ford ecosport','2013','car');">Descarca
-                                            lista de preturi pentru Ford EcoSport.</a> <br> <br> Fisierul in format PDF
-                                        a fost creat pentru a-ti permite sa vizualizezi si sa tiparesti fisiere fara a
-                                        avea nevoie de programul in care au fost create initial. Adobe&trade; iti pune
-                                        la dispozitie o aplicaţie software gratuita (Acrobat Reader) care iti permite sa
-                                        lucrezi cu aceste fisiere. Daca ai instalat deja aceasta aplicatie pe computerul
-                                        tau, in mod normal o poti gasi la &bdquo;Programe&quot;, in &bdquo;Meniul Start&quot;.
-                                        In caz contrar, acceseza link-ul de mai jos pentru a o descarca.<br> <a
-                                            target="_blank" href="http://get.adobe.com/reader/">Descarcă Acrobat Reader
-                                            de pe situl adobe.com</a></p>
                                     </p>
                                 </header>
                             </div>
@@ -368,8 +437,11 @@
                             <!--<div id='tab1' class="mp-tab-wrapper">
                             <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">PROMOTII</a></h2> -->
                             <!--</div>-->
-                            <!--<div id='tab2' class="mp-tab-wrapper">
-                            <h2><a href='#tab2' class="mp-tab omt_xd_mt_ti">PREŢURI</a></h2> -->
+                            <!-- END [MidPageTabs] -->
+                            <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
+                            <!-- BEGIN [MidPageTabs] -->
+                            <!--<div id='tab1' class="mp-tab-wrapper">
+                            <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">PROMOTII</a></h2> -->
                             <!--</div>-->
                             <!-- END [MidPageTabs] -->
                             <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
@@ -377,35 +449,29 @@
                             <!--<div id='tab1' class="mp-tab-wrapper">
                             <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">PROMOTII</a></h2> -->
                             <!--</div>-->
-                            <!--<div id='tab2' class="mp-tab-wrapper">
-                            <h2><a href='#tab2' class="mp-tab omt_xd_mt_ti">PREŢURI</a></h2> -->
-                            <!--</div>-->
                             <!-- END [MidPageTabs] -->
                             <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
                             <!-- BEGIN [MidPageTabs] -->
                             <!--<div id='tab1' class="mp-tab-wrapper">
                             <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">PROMOTII</a></h2> -->
-                            <!--</div>-->
-                            <!--<div id='tab2' class="mp-tab-wrapper">
-                            <h2><a href='#tab2' class="mp-tab omt_xd_mt_ti">PREŢURI</a></h2> -->
                             <!--</div>-->
                             <!-- END [MidPageTabs] -->
                         </div>
                     </div>
                 </li>
                 <!--  isBtfTab  -->
-                <!--  tabUrl /cs/ContentServer?cid=1205091149631&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205091148891&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE -->
+                <!--  tabUrl /cs/ContentServer?cid=1205150774478&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205150774240&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE -->
                 <li><a href="Design#primaryTabs" class=" "
-                       data-ajaxlink="/cs/ContentServer?cid=1205091149631&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205091148891&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE">Design</a>
+                       data-ajaxlink="/cs/ContentServer?cid=1205150774478&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205150774240&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE">Design</a>
                     <!-- secondary tabs -->
-                    <!--  midPageTabId : 1205091148864 -->
+                    <!--  midPageTabId : 1205150775188 -->
                 </li>
                 <!--  isBtfTab  -->
-                <!--  tabUrl /cs/ContentServer?cid=1205091149631&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205091148170&amp;tabName=Caracteristici&amp;c=Page&amp;site=RORO4_ENGINE -->
+                <!--  tabUrl /cs/ContentServer?cid=1205150774478&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205150774231&amp;tabName=Caracteristici&amp;c=Page&amp;site=RORO4_ENGINE -->
                 <li><a href="Caracteristici#primaryTabs" class=" "
-                       data-ajaxlink="/cs/ContentServer?cid=1205091149631&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205091148170&amp;tabName=Caracteristici&amp;c=Page&amp;site=RORO4_ENGINE">Caracteristici</a>
+                       data-ajaxlink="/cs/ContentServer?cid=1205150774478&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205150774231&amp;tabName=Caracteristici&amp;c=Page&amp;site=RORO4_ENGINE">Caracteristici</a>
                     <!-- secondary tabs -->
-                    <!--  midPageTabId : 1205091146107 -->
+                    <!--  midPageTabId : 1205150777472 -->
                 </li>
             </ul>
         </nav>
@@ -426,6 +492,103 @@
         }
     </script>
 </section>
-<script id="TagIT.load" defer></script>
+<script id="TagIT.load"></script>
+</div>
+<!--<START_EP2_FOOTER >-->
+<!-- Footer section--> <!--<START_EP2_FOOTER >-->
+
+<!--<END_EP2_FOOTER >-->
+<!--<END_EP2_FOOTER >-->
 </div>
 
+<script> EP2.Globals.siteName = 'RORO4_ENGINE';
+    EP2.Globals.gforceMode = 'LIVE'</script>
+<script type="text/javascript">
+    var EP2 = EP2 || {};
+    EP2.cookieLegislation.trigger();
+    //FB : apply css rule for the footer SBE expandable list
+    EP2.applyCssToFooterSBE = function () {
+        var expandable = $('dd > .expand');
+        var ordinaryLink = $('.listColumn > dl > dd > .sbe');
+        expandable.each(function (i, v) {
+            var findSpan = $(this).find('> span');
+            console.log();
+            if (!findSpan.length) {
+                $(this).append('<span></span>');
+            }
+        });
+        ordinaryLink.each(function (i, v) {
+            var findLink = $(this).find('> span');
+            if (!findLink.length) {
+                $(this).append('<span></span>');
+            }
+        });
+    }();
+</script>
+<script type='text/javascript'>var OM = OM || {};
+    //ONCLICK 1205060261500om_he_pv_tc
+    OM.om_he_pv_tc = { "tag": "pv nav true choice link", "clickType": "o"};</script>
+<!-- OMNITURE ME -->
+<script type="text/javascript"
+        src="http://www.ford.ro/cs/ContentServer?cid=1204986890525&amp;pagename=ENGInE%2Ftagging%2FOmnitureScript"></script>
+<script type="text/javascript">var sford = new Object;
+    sford.tabName = '';
+    sford.pageName = 'brand:passenger:vehicle:promotions:<tab name>:ford ecosport';
+    sford.dlwasSent = false;
+    sford.eVar11 = 'brand:passenger:vehicle:promotions:<tab name>';
+    sford.hier1 = 'vehicle:promotions:car:ford ecosport:2017';
+    sford.tagViewPhoto = '';
+    sford.tagHighlights = '';
+    sford.tagDownload = '';
+    s.pageName = 'brand:passenger:vehicle:promotions:<tab name>:ford ecosport';
+    s.hier1 = 'vehicle:promotions:car:ford ecosport:2017';
+    s.channel = 'vehicle';
+    s.eVar4 = 'rum';
+    s.prop4 = 'rum';
+    s.eVar11 = 'brand:passenger:vehicle:promotions:<tab name>';
+    s.prop11 = 'brand:passenger:vehicle:promotions:<tab name>';
+    s.eVar12 = '2017';
+    s.prop12 = '2017';
+    sford.my = '2017';
+    s.eVar14 = 'ford-ro';
+    s.prop14 = 'ford-ro';
+    s.eVar15 = 'ford-brand';
+    s.prop15 = 'ford-brand';
+    s.eVar16 = 'ford ecosport';
+    s.prop16 = 'ford ecosport';
+    sford.np = 'ford ecosport';
+    sford.vc = 'car';</script>
+<script type="text/javascript">
+    // <![CDATA[
+    var __dOC = false;
+    if (typeof(sford) == 'object') {
+        s.pageName = s.pageName.replace(":<tab name>", "");
+        s.eVar11 = s.eVar11.replace(":<tab name>", "");
+        s.prop11 = s.eVar11;
+// searchResultPageNumber
+        if (typeof searchResultPageNumber == "string") {
+            sford.searchPagenumber = searchResultPageNumber;
+        }
+    }
+    if (typeof(attachLoadEvent) == 'function') {
+        attachLoadEvent(onPageLoad);
+    } else {
+        $(document).ready(onPageLoad);
+    }
+    // ]]>
+</script>
+<script>
+    var TagIT = TagIT || {};
+</script>
+<script
+    src='http://www.ford.ro/cs/ContentServer?cid=1&amp;isMobile=false&amp;pagename=RORO4_ENGINE%2Fscript%2Ftagit%2Fassembler&amp;require=NONE&amp;location=load&amp;c=Page'
+    defer></script>
+<script
+    src='http://www.ford.ro/cs/ContentServer?cid=1&amp;isMobile=false&amp;pagename=RORO4_ENGINE%2Fscript%2Ftagit%2Fstatic&amp;require=NONE&amp;location=load&amp;c=Page'></script>
+<!-- 'null' bodybottom template name -->
+<!-- Engine tag - loading '/EP2/body/cars/xaxis_detailed/Body::BodyBottom' -->
+<!-- Loading sitesetup -->
+<!-- enableiPerceptions is - 'null' -->
+</body>
+
+</html>

@@ -86,6 +86,12 @@ $route['Autoturisme/Noul-EcoSport/PreturiSiPromotii'] = 'autoturisme/noul_ecospo
 $route['Autoturisme/Noul-EcoSport/PrezentareGenerala'] = 'autoturisme/noul_ecosport/prezentare_generala';
 $route['Autoturisme/Noul-EcoSport'] = 'autoturisme/noul_ecosport/index';
 
+$route['Autoturisme/NoulEcosport/Caracteristici'] = 'autoturisme/ecosport_nou/caracteristici';
+$route['Autoturisme/NoulEcosport/Design'] = 'autoturisme/ecosport_nou/design';
+$route['Autoturisme/NoulEcosport/PreturisiPromotii'] = 'autoturisme/ecosport_nou/preturi_si_promotii';
+$route['Autoturisme/NoulEcosport/PrezentareGenerala'] = 'autoturisme/ecosport_nou/prezentare_generala';
+$route['Autoturisme/NoulEcosport'] = 'autoturisme/ecosport_nou/index';
+
 $route['Autoturisme/Ka/Culorisitapiterie'] = 'autoturisme/ka/culori_si_tapiterie';
 $route['Autoturisme/Ka/PreturisiPromotii'] = 'autoturisme/ka/preturi_si_promotii';
 $route['Autoturisme/Ka/MaterialeDescarcabile'] = 'autoturisme/ka/materiale_descarcabile';
