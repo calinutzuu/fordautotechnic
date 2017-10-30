@@ -25,214 +25,210 @@
 <section id="fv-wrapper">
 <section id="carouselize" class="carousel-container carousel"></section>
 <section class="mid-page-content">
-    <div class="tab-content">
-        <!--    <article class="content-column centered">
-                <div class="content">
-                    <h3 class="bigHeading">
-                        PREGATESTE-TE DE FIESTA!
-                    </h3>
+<div class="tab-content">
+<!--    <article class="content-column centered">
+        <div class="content">
+            <h3 class="bigHeading">
+                PREGATESTE-TE DE FIESTA!
+            </h3>
 
-                    <p>
+            <p>
 
-                    <p>Alatura-te celor care sarbatoresc in fiecare zi placerea de a conduce!<br> <br> Vino in perioada
-                        14-16 iulie la cel mai apropiat showroom Ford, la FIESTA <strong>SOCIAL CLUB!</strong><br> <br>
-                <span style="color: rgb(0, 0, 255); font-size: 18pt"><u><a HREF="/Promotii/Autoturisme/FiestaSocialClub"><span
-                                style="color: rgb(0, 0, 255);">Afla mai multe</span> </a></u></span></p><br>
-                    </p>
-                </div>
-                <div class="img-column"><img
-                        src="/assets/img/promotii/1214625511068.jpg"
-                        alt="Fiesta Social Club"/></div>
-            </article> -->
+            <p>Alatura-te celor care sarbatoresc in fiecare zi placerea de a conduce!<br> <br> Vino in perioada
+                14-16 iulie la cel mai apropiat showroom Ford, la FIESTA <strong>SOCIAL CLUB!</strong><br> <br>
+        <span style="color: rgb(0, 0, 255); font-size: 18pt"><u><a HREF="/Promotii/Autoturisme/FiestaSocialClub"><span
+                        style="color: rgb(0, 0, 255);">Afla mai multe</span> </a></u></span></p><br>
+            </p>
+        </div>
+        <div class="img-column"><img
+                src="/assets/img/promotii/1214625511068.jpg"
+                alt="Fiesta Social Club"/></div>
+    </article> -->
 
 
-        <!--
-        <article class="content-column centered ">
-            <div class="img-column"><a href="/assets/img/1205137954524.jpg" class="js-overlay"
-                                       data-media-overlay='{"mediaType":"Image", "height":439, "width":780}'>
-                    <img src="/assets/img/1214616900879.jpg" alt="Redescopera placerea condusului"/><span
-                        class="fv-overlay-icon"></span></a></div>
-            <div class="content">
-                <h3 class="bigHeading02">
-                    PROFITA DE PROGRAMUL RABLA!
-                </h3>
+<!--
+<article class="content-column centered ">
+    <div class="img-column"><a href="/assets/img/1205137954524.jpg" class="js-overlay"
+                               data-media-overlay='{"mediaType":"Image", "height":439, "width":780}'>
+            <img src="/assets/img/1214616900879.jpg" alt="Redescopera placerea condusului"/><span
+                class="fv-overlay-icon"></span></a></div>
+    <div class="content">
+        <h3 class="bigHeading02">
+            PROFITA DE PROGRAMUL RABLA!
+        </h3>
 
-                <p>
+        <p>
 
-                <p>Vrei sa schimbi masina veche? Profita acum de ofertele prin programul rabla si inlocuieste
-                    masina veche cu un model nou Ford.<br> <br> <a
-                        HREF="http://www.ford.ro/Promotii/Autoturisme/programul-rabla/Rezervare"><span
-                            style="color: rgb(0, 0, 255);"><u>Afla mai multe detalii despre modelele din
-                                campanie</u></span></a><br> Sau<br> <a
-                        HREF="/Promotii/Autoturisme/programul-rabla/Rezervare"><span
-                            style="color: rgb(0, 0, 255);"><u>Rezerva chiar acum oferta!</u></span></a></p>
-                </p>
-            </div>
-        </article>
-        <br><br> -->
-        <article class="content-column centered">
-            <div class="img-column centered"> <img
-                    src="/assets/img/1214641470334.jpg"
-                    alt="Noul Ford EcoSport"/><span class="fv-overlay-icon"></span></a></div>
-            <div class="content centered">
-                <h3 class="bigHeading02">
-                    AVENTURA TA ECOSPORT INCEPE CU DOAR 750 LEI / LUNA*
-                </h3>
+        <p>Vrei sa schimbi masina veche? Profita acum de ofertele prin programul rabla si inlocuieste
+            masina veche cu un model nou Ford.<br> <br> <a
+                HREF="http://www.ford.ro/Promotii/Autoturisme/programul-rabla/Rezervare"><span
+                    style="color: rgb(0, 0, 255);"><u>Afla mai multe detalii despre modelele din
+                        campanie</u></span></a><br> Sau<br> <a
+                HREF="/Promotii/Autoturisme/programul-rabla/Rezervare"><span
+                    style="color: rgb(0, 0, 255);"><u>Rezerva chiar acum oferta!</u></span></a></p>
+        </p>
+    </div>
+</article>
+<br><br> -->
+<article class="content-column centered">
+    <div class="img-column centered"><img
+            src="/assets/img/1214641470334.jpg"
+            alt="Noul Ford EcoSport"/><span class="fv-overlay-icon"></span></a></div>
+    <div class="content centered">
+        <h3 class="bigHeading02">
+            AVENTURA TA ECOSPORT INCEPE CU DOAR 750 LEI / LUNA*
+        </h3>
 
-                <p>
+        <p>
 
-                <p>Iti doresti o masina eficienta si inteligenta? Care sa arate si sa se comporte ca un SUV, dar <br>cu un
-                    plus de rafinament si design? Si care sa iti garanteze incredere la volan?<br>
-                    <br>
-                    Fii gata sa faci cunostinta cu noul model Ford EcoSport!<br>
-                    <br>
-                    <u><span style="color: rgb(0, 0, 255);"><a HREF="/Promotii/Autoturisme/Noul-EcoSport"><span
-                                    style="color: rgb(0, 0, 255);">Vezi oferta speciala de prelansare</span></a></span></u>
-                </p>
-                </p>
-            </div>
+        <p>Iti doresti o masina eficienta si inteligenta? Care sa arate si sa se comporte ca un SUV, dar <br>cu un
+            plus de rafinament si design? Si care sa iti garanteze incredere la volan?<br>
+            <br>
+            Fii gata sa faci cunostinta cu noul model Ford EcoSport!<br>
+            <br>
+            <u><span style="color: rgb(0, 0, 255);"><a HREF="/Promotii/Autoturisme/Noul-EcoSport"><span
+                            style="color: rgb(0, 0, 255);">Vezi oferta speciala de prelansare</span></a></span></u>
+        </p>
+        </p>
+    </div>
 
-        </article>
-        <article class="content-column centered">
-            <div class="img-column"><a
-                    href="#"
-                    class="js-overlay" data-media-overlay='{"mediaType":"Image", "height":439, "width":780}'> <img
-                        src="/assets/img/1214637197006.jpg"
-                        alt="Noul Ford FIESTA"/><span class="fv-overlay-icon"></span></a></div>
-            <div class="content center">
-                <h3 class="bigHeading02 centered">
-                    NOUL FORD FIESTA
-                </h3>
+</article>
+<article class="content-column centered">
+    <div class="img-column"><a
+            href="#"
+            class="js-overlay" data-media-overlay='{"mediaType":"Image", "height":439, "width":780}'> <img
+                src="/assets/img/1214637197006.jpg"
+                alt="Noul Ford FIESTA"/><span class="fv-overlay-icon"></span></a></div>
+    <div class="content center">
+        <h3 class="bigHeading02 centered">
+            NOUL FORD FIESTA
+        </h3>
 
-                <p>
+        <p>
 
-                <p>Atractiv, inovator si unic, noul Ford Fiesta redefineste sensul vietii urbane elegante si
-                    contemporane. Incepe aventura zilnica <br> cu noua generatie Ford Fiesta si fa-ti simtita prezenta
-                    in
-                    oras. <br> <br> <a HREF="/Promotii/Autoturisme/NoulFordFIESTA"><span
-                            style="color: rgb(0, 0, 255);"><u>DESCOPERA OFERTA!</u></span></a><span
-                        style="color: rgb(0, 0, 255);"><u> </u></span></p>
-                </p>
-            </div>
-        </article>
+        <p>Atractiv, inovator si unic, noul Ford Fiesta redefineste sensul vietii urbane elegante si
+            contemporane. Incepe aventura zilnica <br> cu noua generatie Ford Fiesta si fa-ti simtita prezenta
+            in
+            oras. <br> <br> <a HREF="/Promotii/Autoturisme/NoulFordFIESTA"><span
+                    style="color: rgb(0, 0, 255);"><u>DESCOPERA OFERTA!</u></span></a><span
+                style="color: rgb(0, 0, 255);"><u> </u></span></p>
+        </p>
+    </div>
+</article>
 
-        <!-- <article class="content-column left">
-            <div class="img-column"> <img src="/assets/img/1214627766081.jpg" alt="Noul Ford FIESTA" /></div>
-            <div class="content centered">
-                <h3 class="bigHeading02">
-                    NOUL FORD FIESTA
-                </h3>
-                <p>
-                <p>Atractiv, inovator si unic, noul Ford Fiesta redefineste sensul vietii urbane elegante si contemporane. Incepe aventura zilnica <br> cu noua generatie Ford Fiesta si fa-ti simtita prezenta in oras. <br> <br> <a HREF="/Promotii/Autoturisme/NoulFordFIESTA" ><span style="color: rgb(0, 0, 255);"><u>PROMOTIE PERSOANE FIZICE </u></span></a><span style="color: rgb(0, 0, 255);"><u><br> </u></span><a HREF="/Promotii/Autoturisme/NoulFordFIESTAFlote" ><span style="color: rgb(0, 0, 255);"><u> PROMOTIE PERSOANE JURIDICE </u></span></a></p>
-                </p>
-            </div>
-        </article>
-        <article class="content-column right">
-            <div class="content centered">
-                <h3 class="bigHeading02">
-                    Mergi mai departe cu Ford Ecobonus!
-                </h3>
-                <p>
-                <p>Vrei sa schimbi masina veche? Nu mai e nevoie sa astepti programul rabla. Ford a reluat <br> campania Ecobonus si iti oferta un bonus garantat de 1.500 &euro;, la casarea masinii vechi.  <br> <br> Concret, asta inseamna: <br> - Rata lunara de la 700 lei, prin creditul auto in lei;<br> - Garantie extinsa 2+3 ani / 100.000 km;<br> - Dotari suplimentare prin pachetele optionale incluse in pret.<br> <br> Oferta se cumuleaza cu celelalte promotii si oferte aflate in derulare. <br> <u><br> </u><a HREF="/Promotii/Autoturisme/Ecobonus" ><u> Click aici pentru mai multe detalii </u></a></p>
+<!-- <article class="content-column left">
+    <div class="img-column"> <img src="/assets/img/1214627766081.jpg" alt="Noul Ford FIESTA" /></div>
+    <div class="content centered">
+        <h3 class="bigHeading02">
+            NOUL FORD FIESTA
+        </h3>
+        <p>
+        <p>Atractiv, inovator si unic, noul Ford Fiesta redefineste sensul vietii urbane elegante si contemporane. Incepe aventura zilnica <br> cu noua generatie Ford Fiesta si fa-ti simtita prezenta in oras. <br> <br> <a HREF="/Promotii/Autoturisme/NoulFordFIESTA" ><span style="color: rgb(0, 0, 255);"><u>PROMOTIE PERSOANE FIZICE </u></span></a><span style="color: rgb(0, 0, 255);"><u><br> </u></span><a HREF="/Promotii/Autoturisme/NoulFordFIESTAFlote" ><span style="color: rgb(0, 0, 255);"><u> PROMOTIE PERSOANE JURIDICE </u></span></a></p>
+        </p>
+    </div>
+</article>
+<article class="content-column right">
+    <div class="content centered">
+        <h3 class="bigHeading02">
+            Mergi mai departe cu Ford Ecobonus!
+        </h3>
+        <p>
+        <p>Vrei sa schimbi masina veche? Nu mai e nevoie sa astepti programul rabla. Ford a reluat <br> campania Ecobonus si iti oferta un bonus garantat de 1.500 &euro;, la casarea masinii vechi.  <br> <br> Concret, asta inseamna: <br> - Rata lunara de la 700 lei, prin creditul auto in lei;<br> - Garantie extinsa 2+3 ani / 100.000 km;<br> - Dotari suplimentare prin pachetele optionale incluse in pret.<br> <br> Oferta se cumuleaza cu celelalte promotii si oferte aflate in derulare. <br> <u><br> </u><a HREF="/Promotii/Autoturisme/Ecobonus" ><u> Click aici pentru mai multe detalii </u></a></p>
                         </p>
                     </div>
                     <div class="img-column"> <img src="/assets/img/1214629483691.jpg" alt="Ecobonus" /></div>
                 </article> -->
 
-        <article class="content-column centered">
-            <div class="content">
-                <h3 class="bigHeading02 centered">
-                    IA-TI O MASINA FORD PRIN PROGRAMUL RABLA!
-                </h3>
+<article class="content-column centered">
+    <div class="content">
+        <h3 class="bigHeading02 centered">
+            IA-TI O MASINA FORD PRIN PROGRAMUL RABLA!
+        </h3>
 
-                <p>
+        <p>
 
-                <p>Schimba acum vechea ta masina cu una noua de la Ford si profita din plin de ofertele programului
-                    rabla!<br> <br> <a HREF="/Promotii/Autoturisme/programul-rabla"><span
-                            style="color: rgb(0, 0, 255);"><u>Vezi aici modelele din campanie</u></span></a><br> Sau<br>
-                    <a HREF="/Promotii/Autoturisme/programul-rabla/Rezervare"><span
-                            style="color: rgb(0, 0, 255);"><u>Rezerva acum masina preferata!</u></span></a></p>
-                </p>
-            </div>
-            <div class="img-column"><img
-                    src="/assets/img/1214616900879.jpg"
-                    alt="Redescopera placerea condusului"/><span class="fv-overlay-icon"></span></a></div>
-        </article>
+        <p>Schimba acum vechea ta masina cu una noua de la Ford si profita din plin de ofertele programului
+            rabla!<br> <br> <a HREF="/Promotii/Autoturisme/programul-rabla"><span
+                    style="color: rgb(0, 0, 255);"><u>Vezi aici modelele din campanie</u></span></a><br> Sau<br>
+            <a HREF="/Promotii/Autoturisme/programul-rabla/Rezervare"><span
+                    style="color: rgb(0, 0, 255);"><u>Rezerva acum masina preferata!</u></span></a></p>
+        </p>
+    </div>
+    <div class="img-column"><img
+            src="/assets/img/1214616900879.jpg"
+            alt="Redescopera placerea condusului"/><span class="fv-overlay-icon"></span></a></div>
+</article>
 
-        <article class="content-column left">
-            <div class="img-column"><img
-                    src="/assets/img/promotii/1214638483742.jpg"
-                    alt="Noul Kuga Ford"/><span class="fv-overlay-icon"></span></a></div>
-            <div class="content centered">
-                <h3 class="bigHeading02">
-                    CEL MAI NOU SUV FORD, CU O OFERTA SPECIALA
-                </h3>
+<article class="content-column left">
+    <div class="img-column"><img
+                src="/assets/img/1214643010241.jpg"
+                alt="Noul Kuga Ford"/><span class="fv-overlay-icon"></span></a></div>
+    <div class="content centered">
+        <h3 class="bigHeading02">
+            CEL MAI NOU SUV FORD, CU O OFERTA SPECIALA
+        </h3>
 
-                <p>
+        <p>
 
-                <p>Gandit pentru actiune; dotat pentru confort; cu un design care impresioneaza si cu numeroase
-                    tehnologii
-                    inteligente,<br> noul Kuga este cel mai recent Smart Utility Vehicle de la Ford. Iar cu oferta
-                    promotionala ai
-                    un pret special pentru<br>
-                <nobr>SUV-ul</nobr>
-                care iti va deschide noi posibilitati: doar
-                <nobr>18.000 &euro;*</nobr>
-                (TVA inclus).<br> <br> <a HREF="/Promotii/Autoturisme/NoulKUGA"><span style="color: rgb(0, 0, 255);"><u>Vezi
-                            oferta speciala</u></span><u> </u></a></p>
-                </p>
-            </div>
-        </article>
+        <p>Gandit pentru actiune; dotat pentru confort; cu un design care impresioneaza si cu numeroase tehnologii
+            inteligente,<br> noul Kuga este cel mai recent Smart Utility Vehicle de la Ford. Iar cu oferta promotionala ai
+            un pret special pentru <br>SUV-ul care iti va deschide noi posibilitati: doar 19.500 &euro;* (TVA inclus).<br>
+            <br> <a HREF="/Promotii/Autoturisme/NoulKUGA"><span style="color: rgb(0, 0, 255);"><u>Vezi oferta
+                        speciala</u></span> </a></p>
+        </p>
+    </div>
+</article>
 
-        <!--     <article class="content-column right">
-                 <div class="content centered">
-                     <div class="img-column">
-                         <img src="/assets/img/1214616617939.jpg" alt="Noul Ford Kuga Oferta"/><span
-                             class="fv-overlay-icon"></span></div>
-                     <br>
 
-                     <h3 class="bigHeading02">
-                         CEL MAI NOU SUV FORD, CU O OFERTA SPECIALA!
-                     </h3>
+<!--     <article class="content-column right">
+         <div class="content centered">
+             <div class="img-column">
+                 <img src="/assets/img/1214616617939.jpg" alt="Noul Ford Kuga Oferta"/><span
+                     class="fv-overlay-icon"></span></div>
+             <br>
 
-                     <p>
+             <h3 class="bigHeading02">
+                 CEL MAI NOU SUV FORD, CU O OFERTA SPECIALA!
+             </h3>
 
-                     <p>Gandit pentru actiune; dotat pentru confort; cu un design care impresioneaza si cu numeroase
-                         tehnologii inteligente, noul Kuga<br> este cel mai recent Smart Utility Vehicle de la Ford.
-                         Iar
-                         cu oferta promotionala ai un pret special pentru SUV-ul care iti va<br>deschide noi
-                         posibilitati: doar 19.500 &euro;* (TVA inclus).<br> <br> <a
+             <p>
+
+             <p>Gandit pentru actiune; dotat pentru confort; cu un design care impresioneaza si cu numeroase
+                 tehnologii inteligente, noul Kuga<br> este cel mai recent Smart Utility Vehicle de la Ford.
+                 Iar
+                 cu oferta promotionala ai un pret special pentru SUV-ul care iti va<br>deschide noi
+                 posibilitati: doar 19.500 &euro;* (TVA inclus).<br> <br> <a
                                 HREF="/Promotii/Autoturisme/NoulKUGA"><span style="color: rgb(0, 0, 255);"><u>Vezi
                                         oferta speciala</u></span></a></p>
                         </p>
                     </div>
                     <br>
                 </article> -- >
-        <!--   <article class="content-column centered">
-               <div class="img-column"><img src="/assets/img/1214619333771.jpg"
-                                            alt="Ford Business Weeks Autoturisme"/><span
-                       class="fv-overlay-icon"></span></div>
-               <div class="content centered">
-                   <h3 class="bigHeading02">
-                       BENEFICII DE EXCEPTIE PENTRU AFACEREA TA!
-                   </h3>
+<!--   <article class="content-column centered">
+       <div class="img-column"><img src="/assets/img/1214619333771.jpg"
+                                    alt="Ford Business Weeks Autoturisme"/><span
+               class="fv-overlay-icon"></span></div>
+       <div class="content centered">
+           <h3 class="bigHeading02">
+               BENEFICII DE EXCEPTIE PENTRU AFACEREA TA!
+           </h3>
 
-                   <p>
+           <p>
 
-                   <p>Cand ai propria afacere, ai nevoie de parteneri pe care sa te poti baza.<br>
-                       <br>
-                       Vino la Ford Business Weeks si alege, din gama noastra de autoturisme, modelul care ti se
-                       potriveste. Fie ca alegi Ford Fiesta, <br> Focus, Mondeo sau Kuga, te sprijinim in drumul spre
-                       succes, cu beneficii de exceptie pentru afacerea ta: conditii speciale de <br>finantare si un
-                       pachet complet de avantaje.<br>
-                       <br>
-                       <a HREF="/Promotii/Autoturisme/BusinessWeeks"><span style="color: rgb(0, 0, 255);"><u>Vezi
-                                   detaliile promotiei</u></span> </a></p>
-                   </p>
-               </div>
-           </article>
-           -->
-    </div>
+           <p>Cand ai propria afacere, ai nevoie de parteneri pe care sa te poti baza.<br>
+               <br>
+               Vino la Ford Business Weeks si alege, din gama noastra de autoturisme, modelul care ti se
+               potriveste. Fie ca alegi Ford Fiesta, <br> Focus, Mondeo sau Kuga, te sprijinim in drumul spre
+               succes, cu beneficii de exceptie pentru afacerea ta: conditii speciale de <br>finantare si un
+               pachet complet de avantaje.<br>
+               <br>
+               <a HREF="/Promotii/Autoturisme/BusinessWeeks"><span style="color: rgb(0, 0, 255);"><u>Vezi
+                           detaliile promotiei</u></span> </a></p>
+           </p>
+       </div>
+   </article>
+   -->
+</div>
 </section>
 <br>
 <script type='text/javascript'>var OM = OM || {};

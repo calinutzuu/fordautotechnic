@@ -1,3 +1,3 @@
 <img
-    src="/assets/img/1214629483589.jpg"
+    src="/assets/img/kuga_nov.jpg"
     alt="Ford Fiesta"/>
