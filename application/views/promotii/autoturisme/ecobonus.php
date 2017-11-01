@@ -72,12 +72,12 @@
             </ul>
             <div class="navdivider"></div>
             <ul id="nextSteps" class="nextSteps">
-              <!--  <li id='menu1205111254125' class=''>
+                <li id='menu1205111254125' class=''>
                     <a href='EcoBonus/OfertaFiesta'/>Oferta Fiesta</a>
                     <script type="text/javascript">
                         document.id('menu1205111254125').addClass("navnextSteps");
                     </script>
-                </li> -->
+                </li>
                 <li id='menu1205110704441' class=''>
                     <a href='EcoBonus/OfertaFocus'/>Oferta Focus</a>
                     <script type="text/javascript">
@@ -96,12 +96,12 @@
                              document.id('menu1205111255593').addClass("navnextSteps");
                          </script>
                      </li> -->
-                <li id='menu1205111254474' class=''>
-                    <a href='EcoBonus/OfertaEcoSport'/>Oferta EcoSport</a>
-                    <script type="text/javascript">
-                        document.id('menu1205111254474').addClass("navnextSteps");
-                    </script>
-                </li>
+                <!--     <li id='menu1205111254474' class=''>
+                         <a href='EcoBonus/OfertaEcoSport'/>Oferta EcoSport</a>
+                         <script type="text/javascript">
+                             document.id('menu1205111254474').addClass("navnextSteps");
+                         </script>
+                     </li> -->
                 <li id='menu1205111254478' class=''>
                     <a href='http://www.ford.ro/Promotii/Autoturisme/EcoBonus/Rezervare'/>Rezervare</a>
                     <script type="text/javascript">
@@ -138,14 +138,14 @@
             </script>
             <div id="mdp">
                 <img
-                    src='/assets/img/1214629483687.jpg'
+                    src='/assets/img/ecobonus/1214643442107.jpg'
                     alt='FordFleet' onclick="omnitureViewPhoto()">
             </div>
             <div class="mdp2" id="mdpImageControl">
                 <table>
                     <tr>
                         <td id="mdp2Fullscreen">
-                            <a href="/assets/img/1214629483687.jpg"
+                            <a href="/assets/img/ecobonus/1214643442107.jpg"
                                onclick="engine.media.mdp.onFullScreen('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214564411913&amp;blobkey=id', 'FordFleet');
 if(typeof(sford)=='object') omnitureMDPFullScreen('1205110699178'); return false;">
                                 Fullscreen
@@ -187,7 +187,19 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205110699178'); return false
             <div class="btoArticleTitle">Mergi mai departe cu Ford Ecobonus!</div>
             <div class="btoArticleText">
                 <div class="btoArticleAbstract">
-                    <div>Ford reia campania Ecobonus &ndash; nu mai e nevoie sa astepti programul rabla, pentru ca la Ford ai 1.500 &euro; Ecobonus garantat, la casarea autoturismului vechi. Si il poti folosi cu modelul Ford pe care ti-l doresti &ndash; toate modelele din promotie vin cu pachete de dotari optionale deja incluse in pret. <br> <br> Tehnologii inteligente, motorizari prietenoase cu mediul, design care se face remarcat si echipari care fac sa va simtiti in siguranta &ndash; atat tu, cat si pasagerii: acestea sunt doar o parte dintre atributele gamei Ford.  Sigur vei gasi modelul care ti se potriveste. <br> <br> Iar cu Ford Ecobonus beneficiezi de:<br> - Rata lunara de la 700 lei, prin creditul auto in lei;<br> - Garantie extinsa 2+3 ani / 100.000 km;<br> - Dotari suplimentare prin pachetele optionale incluse in pret.<br> <br> Afla mai multe despre avantajele client pentru fiecare dintre modelele incluse in aceasta campanie: <br> <br> Ford Focus &ndash; sofisticat, modern, spatios - detalii <a HREF="/Promotii/Autoturisme/Ecobonus/OfertaFocus" ><u>aici</u></a><br> Ford EcoSport &ndash; compact, confortabil, performant - detalii <a HREF="/Promotii/Autoturisme/Ecobonus/OfertaEcoSport" ><u>aici</u></a><br> <br> Ai decis ce model ti se potriveste? <a HREF="/Promotii/Autoturisme/Ecobonus/Rezervare" ><u>Rezerva</u></a>-l acum! <br> <br> Pentru detalii despre procedura de casare si cum poti beneficia de Ecobonus, click <a HREF="/Promotii/Autoturisme/Ecobonus/Procedura" ><u>aici</u></a>.</div>
+                    <div>Ford reia campania Ecobonus – chiar daca nu ai prins tichete in programul rabla, la Ford ai 1.500 € Ecobonus
+                        garantat, la casarea autoturismului vechi. Iar modelele din promotie vin cu pachete de dotari optionale deja incluse
+                        in pret.</p> <p>Tehnologii inteligente, motorizari prietenoase cu mediul, design care se face remarcat si echipari
+                            care fac sa va simtiti in siguranta – atat tu, cat si pasagerii: acestea sunt doar o parte dintre atributele gamei
+                            Ford. Sigur vei gasi modelul care ti se potriveste.</p> <p>Iar cu Ford Ecobonus beneficiezi de:</p> <p>- Rata lunara
+                            de la 600 lei, prin creditul auto in lei;</p> <p>- Garantie extinsa de la 2+3 ani / 100.000 km;</p> <p>- Dotari
+                            suplimentare prin pachetele optionale incluse in pret.<br> <br> Afla mai multe despre avantajele client pentru
+                            fiecare modelele incluse in aceasta campanie:<br> <br> Ford Fiesta – contemporan, agil si eficient - detalii <a
+                                href="/Promotii/Autoturisme/EcoBonus/OfertaFiesta"><u>aici</u></a><br> Ford Focus – sofisticat, modern, spatios
+                            - detalii <a href="/Promotii/Autoturisme/EcoBonus/OfertaFocus"><u>aici</u></a><br> <br> Ai decis ce model ti se
+                            potriveste? <a href="/Promotii/Autoturisme/Ecobonus/Rezervare"><u>Rezerva</u></a>-l acum!<br> <br> Pentru detalii
+                            despre procedura de casare si cum poti beneficia de Ecobonus, click aici.</u></a>.
+                    </div>
                 </div>
             </div>
         </div>
@@ -210,7 +222,8 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205110699178'); return false
         <div class="right_item">
             <!--<START_MDC001 >-->
             <div class="mdc001Container" id="dummyDiv">
-                <p class="mdc001Header" id="mdcHeader" ></p>
+                <p class="mdc001Header" id="mdcHeader"></p>
+
                 <div class="mdc001" id="mdc1416477130979">
                     <div class="mdc001Gradient">
                         <div class="mdc001GradientContainer"></div>
@@ -219,9 +232,9 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205110699178'); return false
             </div>
             <script>
                 var theDiv = document.getElementById("mdpImageControl");
-                if(theDiv.style.display == "none"){
+                if (theDiv.style.display == "none") {
                     dummyDiv.style.display = "none";
-                }else{
+                } else {
                     dummyDiv.style.display = "block";
                 }
             </script>

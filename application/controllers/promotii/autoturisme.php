@@ -209,4 +209,12 @@ class Autoturisme extends CI_Controller
             ->title('NoulFiesta', 'Ford AutoTechnic')
             ->build('promotii/autoturisme/noul_ecosport');
     }
+
+    public function finantare_fiesta()
+    {
+        $this->template
+            ->set_layout('promotii')
+            ->title('Finantare Fiesta', 'Ford AutoTechnic')
+            ->build('promotii/autoturisme/finantare_fiesta');
+    }
 }

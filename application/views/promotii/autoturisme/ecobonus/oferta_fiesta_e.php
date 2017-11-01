@@ -1,56 +1,97 @@
 <div class="mainContent">
     <img
-        src="/assets/img/1214607506684_1.jpg"
+        src="/assets/img/ecobonus/1214643441909.jpg"
         alt="Ecobonus Fiesta"/>
     <section id="fv-wrapper">
         <section id="carouselize" class="carousel-container carousel"></section>
         <section class="center_item_Layout2">
-            <div class="tab-content">
+            <div class="tab-content centered">
                 <header class="intro-header">
-                    <h1 class="bigHeading">
-                        <b>Ford Ecobonus – Doar 500 lei / luna* pentru Ford Fiesta!</b>
+                    <h1 class="bigHeading centered">
+                        <b>Ford Ecobonus – Doar 600 lei / luna* pentru Ford Fiesta! </b>
                     </h1>
                     <br><br>
                     <span class="hmc-highlight"></span>
 
                     <p class="intro-text">
 
-                    <p style="text-align: justify;"><strong><span style="font-size: larger;">Prin programul Ford Ecobonus beneficiezi de un bonus de 1.500 &euro;, la casarea masinii vechi, adica de un pret special de numai 9.700 &euro;. Iar multumita conditiilor speciale de finantare, poti alege o rata lunara de la 500 de lei pentru Ford Fiesta &ndash;
-                                fara comision de administrare sau rate reziduale.</span></strong><br> <br> Pentru ca
-                        daca iti doresti un autoturism cu stil contemporan, dinamic, modern, dotat cu tehnologii
-                        inteligente menite sa te faca sa te bucuri de timpul petrecut la volan, atunci Ford Fiesta este
-                        modelul perfect pentru tine. <br> <br> Modelul Ford Fiesta in 5 usi dispune de dotari standard
-                        printre care se numara: <br> <br> &bull; Airbag-uri frontale, laterale, cortina si pentru
-                        genunchi, sofer si pasager;<br> &bull; Sisteme inteligente de siguranta si stabilitate &ndash;
-                        ESP (Program Electronic de Stabilitate), HLA (Asistenta la Pornirea in Rampa), ABS (Sistem
-                        Anti-Blocare la Franare), EBD (Distributie Electronica a Fortei de Franare), EBA (Asistenta la
-                        Franarea de Urgenta);<br> &bull; Sistem Ford MyKey;<br> &bull; Incarcare regenerativa a
-                        bateriei;<br> &bull; Oglinzi exterioare electrice si incalzite;<br> &bull; Volan si schimbator
-                        de viteze imbracat in piele;<br> &bull; Sistem avansat de monitorizare a presiunii in
-                        pneuri.<br> <br> Pachetul Trend, inclus in pret, iti aduce si mai multe dotari importante:<br>
-                        <br> &bull; Aer conditionat manual;<br> &bull; Radio CD cu MP3, display monocrom 3.5&rdquo;, 6
-                        difuzoare, USB, comenzi audio pe volan;<br> &bull; Bluetooth<sup>&reg;</sup> Voice Control
-                        (limba engleza);<br> &bull; SYNC cu sistem de asistenta in caz de urgenta (112);<br> &bull;
-                        Faruri de ceata;<br> &bull; Covorase velur fata/ spate.<br> <br> In plus, beneficiezi fara
-                        niciun cost suplimentar de <strong>garantia extinsa:</strong> 2+3 ani sau 100.000 km.<br> <br>
-                        <br> <strong>Rezerva acum oferta speciala pentru Ford Fiesta &ndash; click <a
-                                HREF="/Promotii/Autoturisme/EcoBonus/Rezervare"><u>aici</u></a>! <br> <br> Vrei totusi
-                            sa astepti inceputul programului rabla? Inscrie-te <a
-                                HREF="/Promotii/Autoturisme/programulrabla"><u>aici</u></a> si fii primul care afla
-                            lansarea programului!<br> <br> Pentru detalii despre procedura de casare si cum poti
-                            beneficia de Ford Ecobonus, click <a
-                                HREF="/Promotii/Autoturisme/EcoBonus/Procedura"><u>aici</u></a>.<br> <br> Ai nevoie de
-                            mai multe informatii? Toate detaliile despre Ford Fiesta si oferta speciala iti stau la
-                            dispozitie in cel mai apropiat <u><a HREF="/SBE/dealeri-ford">showroom Ford</a></u>!
-                        </strong></p><br>
+                    <p class="intro-text">
+                    </p>
 
+                    <p>Daca iti doresti un autoturism cu stil contemporan, dinamic, modern, dotat cu tehnologii
+                        inteligente menite sa te
+                        faca sa te bucuri <br> de timpul petrecut la volan, atunci Ford Fiesta este modelul perfect pentru
+                        tine.</p>
+
+                    <p><br>
+                        <strong> </strong></p>
+
+                    <p><strong> Prin programul Ecobonus beneficiezi de un bonus de 1.500 €, la casarea masinii
+                            vechi, ajungand la o rata lunara de 600 de lei <br>pentru Ford Fiesta – fara taxe de
+                            administrare, rate reziduale
+                            sau orice alte costuri suplimentare. </strong></p> <br>
+
+                    <p><strong> </strong></p>
+
+                    <p>Astfel, poti inlocui vechea ta
+                        masina cu un model Ford Fiesta in 5 usi, cu motor 1,1l si 85 CP, cu dotari standard printre care
+                        se numara:</p>
+                    <br>
+                    <p>
+                        <strong> </strong></p>
+
+                    <p>· Airbag-uri frontale, laterale, cortina si pentru genunchi, sofer si pasager;</p>
+
+                    <p>·
+                        Sisteme inteligente de siguranta si stabilitate – ESP (Program Electronic de Stabilitate), HLA
+                        (Asistenta la
+                        Pornirea in Rampa), ABS (Sistem Anti-Blocare la Franare), EBD (Distributie Electronica a Fortei
+                        de Franare), EBA
+                        (Asistenta la Franarea de Urgenta);</p>
+
+                    <p>· Sistem Ford MyKey;</p>
+
+                    <p>· Incarcare regenerativa a bateriei;</p>
+
+                    <p>·
+                        Oglinzi exterioare electrice si incalzite;</p>
+
+                    <p>· Volan si schimbator de viteze imbracat in piele;</p>
+
+                    <p>· Sistem
+                        avansat de monitorizare a presiunii in pneuri.</p>
+
+                    <p>Iar pachetul Trend iti aduce, in plus, urmatoarele dotari
+                        optionale, fara costuri suplimentare:</p>
+
+                    <p>· Aer conditionat manual;</p>
+
+                    <p>· Sistem SYNC III cu radio, Bluetooth, conexiune USB, display 6.5" cu sistem de asistenta in caz
+                        de urgenta (112)
+                        <del cite="mailto:Iason,%20Radu" datetime="2017-10-23T11:36"></del>
+                        , 6 difuzoare;
+                    </p>
+                    <p>· Faruri de ceata .</p>
+                    <br>
+                    <p>In plus, beneficiezi fara niciun cost suplimentar de <strong>garantia
+                            extinsa</strong>: 2+4 ani sau 100.000 km.<br> <br> <strong>Rezerva acum oferta speciala
+                            pentru Ford Fiesta –
+                            click <a href="/Promotii/Autoturisme/Ecobonus/Rezervare"><u>aici</u></a>! <br> <br> Pentru
+                            detalii despre
+                            procedura de casare si cum poti beneficia de Ecobonus, click <a
+                                href="/Promotii/Autoturisme/Ecobonus/Procedura"><u>aici</u></a>.<br>
+                            <br> Ai nevoie de mai multe informatii? Toate detaliile despre Ford Fiesta si oferta
+                            speciala iti stau la
+                            dispozitie in cel mai apropiat <a href="/SBE/dealeri-ford"><u>showroom Ford</u></a>!
+                        </strong></p>
+                    <br>
                     <div></div>
                     <div></div>
                     <div><font onmouseout="this.style.color='#000000'" color="#000000">
                             <div><strong> <font onmouseout="this.style.color='#000000'"
                                                 color="#000000"> </font></strong></div>
                             <div></div>
-                            <div><span style="font-size: medium;"><span color="#005f97"> <div style="text-align: left;"
+                            <div><span style="font-size: medium;"><span color="#005f97"> <div style="text-align: center;"
                                                                                               id="replie2"><font
                                                 onmouseout="this.style.color='#000000'" color="#000000"><span
                                                     onclick="document.getElementById('deplie2').style.display = 'block'; document.getElementById('replie2').style.display = 'none';"><a><span
@@ -65,42 +106,12 @@
                                                     onmouseout="this.style.color='#000000'" color="#000000"><br> <br>
                                                 </font> <div style="text-align: left;"><font
                                                         onmouseout="this.style.color='#000000'"
-                                                        color="#000000"><span><em> * Pentru un autovehicul FIESTA Trend
-                                                                5usi 1.2 82 CP , in valoare de 9.700 Euro (pret lei
-                                                                43.650 lei la un curs cu titlu de exemplu de [4,5] RON/1
-                                                                EUR )TVA inclus, avans 16.900 lei (38,7 %), valoarea
-                                                                totala a creditului Prima Masina Ford va fi de 26.750
-                                                                lei pe 60 luni: rata anuala a dobanzii 4,57% (ROBOR la 3
-                                                                luni + marja 3,75%), comision de analiza dosar 0 lei,
-                                                                comision lunar de administrare credit 0 lei, valoarea
-                                                                ratei lunare 500 lei, valoarea totala platibila
-                                                                29.973,08 lei, DAE 4,67 %. In calculul ratei lunare nu
-                                                                s-a inclus asigurarea optionala de viata si asigurarea
-                                                                CASCO.<br> <br> Oferta este supusa unor termeni si
-                                                                conditii, este adresata exclusiv persoanelor fizice si
-                                                                este valabila in limita stocului disponibil la dealerii
-                                                                participanti la program pana la data de 31.03.2017.
-                                                                Oferta prezentata include TVA si este obtinuta dupa
-                                                                includerea cumulativa a: 1. contravalorii suportului
-                                                                flat acordat de Ford Romania, 2. contributiei dealerilor
-                                                                participanti la acest program, 3. contravaloarea
-                                                                garantiei extinse 5 ani (2+3 ani) sau 100.000 km. Oferta
-                                                                nu include echipamente, accesorii sau dotari optionale.
-                                                                Consumul mixt si emisiile de co<sub>2</sub>, masurate in
-                                                                conformitate cu dispozitiile legale in vigoare (e.g
-                                                                Directiva Europeana nr. 715/2007): pentru modelul Fiesta
-                                                                Trend 5 usi 1.2 82CP M5: consum 5,2 l/100 km; emisii
-                                                                co<sub>2</sub>: 122 g/km. Imaginile sunt cu titlu de
-                                                                prezentare. Aceasta oferta include garantia complexa
-                                                                (2+3 ani de garantie conventionala) in limita a 100.000
-                                                                km sau 5 ani (incluzand perioada de 2 ani de garantie
-                                                                legala) in functie de care dintre cele doua elemente
-                                                                (kilometraj sau timp) expira primul. Pentru detalii si
-                                                                specificitati aferente garantiei complexe va rugam sa
-                                                                consultati detalii si explicatii suplimentare despre
-                                                                campanie - la dealerii autorizati Ford participanti la
-                                                                campanie. Campanie realizata exclusiv prin UniCredit
-                                                                Consumer Financing. </em><br> <br> </span></font></div> </span>
+                                                        color="#000000"><span><em> Imaginea este cu titlu de prezentare si nu creeaza obligatii contractuale. Oferta financiara este adresata exclusiv persoanelor fizice si este realizata de UniCredit Consumer Financing pentru modelul Fiesta Trend (5 usi, motor 1.1 85CP, cutie manuala 5 trepte, pachet Trend inclus, garantie complexa: 2 ani garantie legala + 4 ani garantie conventionala (in limita a 100.000 km) in valoare de 10.750 Euro (pret 48.375 Lei la un curs exemplificativ de [4,5] Lei/1 Euro) TVA inclus, avans 20.325 Lei (42%). Valoarea totala estimativa a creditului va fi de 28.050 Lei pe o perioada de 60 luni, astfel: rata anuala dobanda 5,99% (ROBOR la 3 luni + marja 4,94%), analiza dosar 790 Lei, administrare lunara credit 0 Lei, rata lunara estimativa 600 Lei, valoarea totala estimativa platibila a creditului 35.984 Lei, DAE 10,77 %
+                                                                <br><br> Valoarea estimativa a ratei lunare de mai sus nu include asigurarea optionala de viata si asigurarea CASCO.<br>
+                                                                <br>  Pretul modelului este obtinut dupa includerea cumulativa a: 1. contravalorii suportului acordat de Ford Romania, 2. contributiei dealerilor participanti la acest program, 3. contravaloarea garantiei extinse 6 ani (2+4 ani) sau 100.000 km.
+                                                                <br>
+                                                                <br> Oferta nu include echipamente/accesorii/dotari optionale suplimentare pachetului Trend, este supusa unor termene si conditii si este valabila pana la data de 31.12.2017 in limita stocului disponibil. Consumul mixt estimativ – 4,7 l /100 km si nivelul emisiilor CO
+                                                                <sub>2</sub> - 107 (g/km) sunt masurate in conformitate cu dispozitiile legale in vigoare.    </em><br> <br> </span></font></div> </span>
                                         </div> </span></span></div>
                             <p><span style="font-size: x-small;"><font onmouseout="this.style.color='#000000'"
                                                                        color="#000000"> <strong><br>

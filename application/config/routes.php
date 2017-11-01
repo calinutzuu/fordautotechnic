@@ -268,6 +268,8 @@ $route['Promotii/Autoturisme/EcoBonus/OfertaEcoSport'] = 'promotii/autoturisme/o
 $route['Promotii/Autoturisme/EcoBonus/Procedura'] = 'promotii/autoturisme/procedura';
 $route['Promotii/Autoturisme/EcoBonus/WeekendulInovatiei'] = 'promotii/autoturisme/weekendul_inovatiei';
 
+$route['Promotii/Autoturisme/Finantare-Fiesta'] = 'promotii/autoturisme/finantare_fiesta';
+
 $route['Promotii/Autoturisme/programul-rabla'] = 'promotii/autoturisme/programul_rabla';
 $route['Promotii/Autoturisme/programul-rabla/OfertaFiesta'] = 'promotii/autoturisme/oferta_fiesta';
 $route['Promotii/Autoturisme/programul-rabla/OfertaKA'] = 'promotii/autoturisme/oferta_ka';
