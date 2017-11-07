@@ -46,7 +46,7 @@ class Autoturisme extends CI_Controller
     {
         $this->template
             ->set_layout('promotii')
-            ->title('BusinessWeeks', 'Ford AutoTechnic')
+            ->title('Business Weeks', 'Ford AutoTechnic')
             ->build('promotii/autoturisme/business_weeks');
     }
 
@@ -217,4 +217,13 @@ class Autoturisme extends CI_Controller
             ->title('Finantare Fiesta', 'Ford AutoTechnic')
             ->build('promotii/autoturisme/finantare_fiesta');
     }
+
+    public function mondeo_stline()
+    {
+        $this->template
+            ->set_layout('promotii')
+            ->title('Mondeo StLine', 'Ford AutoTechnic')
+            ->build('promotii/autoturisme/mondeo_stline');
+    }
+
 }

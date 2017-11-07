@@ -26,50 +26,7 @@
 <section id="carouselize" class="carousel-container carousel"></section>
 <section class="mid-page-content">
     <div class="tab-content">
-        <!--    <article class="content-column centered">
-                <div class="content">
-                    <h3 class="bigHeading">
-                        PREGATESTE-TE DE FIESTA!
-                    </h3>
 
-                    <p>
-
-                    <p>Alatura-te celor care sarbatoresc in fiecare zi placerea de a conduce!<br> <br> Vino in perioada
-                        14-16 iulie la cel mai apropiat showroom Ford, la FIESTA <strong>SOCIAL CLUB!</strong><br> <br>
-                <span style="color: rgb(0, 0, 255); font-size: 18pt"><u><a HREF="/Promotii/Autoturisme/FiestaSocialClub"><span
-                                style="color: rgb(0, 0, 255);">Afla mai multe</span> </a></u></span></p><br>
-                    </p>
-                </div>
-                <div class="img-column"><img
-                        src="/assets/img/promotii/1214625511068.jpg"
-                        alt="Fiesta Social Club"/></div>
-            </article> -->
-
-
-        <!--
-        <article class="content-column centered ">
-            <div class="img-column"><a href="/assets/img/1205137954524.jpg" class="js-overlay"
-                                       data-media-overlay='{"mediaType":"Image", "height":439, "width":780}'>
-                    <img src="/assets/img/1214616900879.jpg" alt="Redescopera placerea condusului"/><span
-                        class="fv-overlay-icon"></span></a></div>
-            <div class="content">
-                <h3 class="bigHeading02">
-                    PROFITA DE PROGRAMUL RABLA!
-                </h3>
-
-                <p>
-
-                <p>Vrei sa schimbi masina veche? Profita acum de ofertele prin programul rabla si inlocuieste
-                    masina veche cu un model nou Ford.<br> <br> <a
-                        HREF="http://www.ford.ro/Promotii/Autoturisme/programul-rabla/Rezervare"><span
-                            style="color: rgb(0, 0, 255);"><u>Afla mai multe detalii despre modelele din
-                                campanie</u></span></a><br> Sau<br> <a
-                        HREF="/Promotii/Autoturisme/programul-rabla/Rezervare"><span
-                            style="color: rgb(0, 0, 255);"><u>Rezerva chiar acum oferta!</u></span></a></p>
-                </p>
-            </div>
-        </article>
-        <br><br> -->
         <article class="content-column centered">
             <div class="img-column centered"><img
                     src="/assets/img/1214641470334.jpg"
@@ -119,9 +76,28 @@
         </article>
 
         <article class="content-column centered">
+            <div class="content centered">
+                <div class="img-column"> <img
+                        src="/assets/img/promotii/1214643441446.jpg"
+                        alt="Promotii STLine"/><span class="fv-overlay-icon"></span></a></div>
+                <h3 class="bigHeading02 centered">
+                    REDEFINESTE STILUL SPORT ELEGANT - MONDEO ST-LINE CU 0% DOBANDA!
+                </h3>
+
+                <p>
+
+                <p>Ce te inspira mai mult? Tehnologia, eleganta, designul sau fiabilitatea?<br> Cu Ford Mondeo ST Line
+                    nu trebuie sa alegi. Le ai pe toate, cu un plus de sportivitate, stil si confort.<br><br> <span
+                        style="color: rgb(0, 0, 255);"><u><a HREF="/Promotii/Autoturisme/Mondeo-STLine">Vezi detaliile
+                                promotiei </a></u></span></p>
+                </p>
+            </div>
+
+        </article>
+        <article class="content-column centered">
             <div class="img-column"><img
-                        src="/assets/img/1214643442579.jpg"
-                        alt="Ford Business Weeks"/><span class="fv-overlay-icon"></span></a></div>
+                    src="/assets/img/1214643442579.jpg"
+                    alt="Ford Business Weeks"/><span class="fv-overlay-icon"></span></a></div>
             <div class="content centered">
                 <h3 class="bigHeading02">
                     Ford Business Weeks
@@ -129,16 +105,17 @@
 
                 <p>
 
-                <p>Cand ai propria afacere, te afli pe un drum lung, plin de provocari si obstacole. Un drum <br>pentru care
+                <p>Cand ai propria afacere, te afli pe un drum lung, plin de provocari si obstacole. Un drum <br>pentru
+                    care
                     ai nevoie de un partener pe masura.<br> <br> Descopera oferta speciala FORD<strong> BUSINESS
                         PARTNER</strong> - 0% avans si pachet de servicii all inclusive.<br> <br> <a
-                        HREF="/Promotii/Autoturisme/BusinessWeeks"><u>Vezi oferta speciala</u></a></p>
+                        HREF="/Promotii/Autoturisme/Business-Weeks"><u>Vezi oferta speciala</u></a></p>
                 </p>
             </div>
         </article>
 
         <article class="content-column centered">
-            <div class="img-column"> <img
+            <div class="img-column"><img
                     src="/assets/img/1214643442382.jpg"
                     alt="Ford Focus"/><span class="fv-overlay-icon"></span></div>
             <div class="content centered">
