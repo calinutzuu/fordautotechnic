@@ -33,4 +33,12 @@ class comerciale extends CI_Controller
             ->title('NoulRanger', 'Ford AutoTechnic')
             ->build('promotii/comerciale/transit_ok');
     }
+
+    public function black_friday_co()
+    {
+        $this->template
+            ->set_layout('promotii')
+            ->title('Black Friday Comerciale', 'Ford AutoTechnic')
+            ->build('promotii/comerciale/black_friday_co');
+    }
 }

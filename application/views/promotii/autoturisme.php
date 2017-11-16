@@ -27,6 +27,27 @@
 <section class="mid-page-content">
     <div class="tab-content">
 
+        <article class="content-column left">
+            <div class="img-column"> <img
+                        src="/assets/img/promotii/1214645264014.jpg"
+                        alt="Black Friday"/><span class="fv-overlay-icon"></span></div>
+            <div class="content">
+                <br>
+                <h3 class="bigHeading02">
+                    FORD BLACK FRIDAY UPGRADE EVENT – avantaj client de pana la 9.000 €*!
+                </h3>
+
+                <p>
+
+                <p>La Ford, Black Friday inseamna UPGRADE EVENT &ndash; cele mai mari avantaje pentru clienti!<br> <br>
+                    Iti doresti o masina noua cu dotari cat mai bogate? Te tenteaza un nivel de echipare superior? Cauti
+                    motorizari moderne, <br>puternice si eficiente?<br> <br> Acum ai un avantaj client impresionant, de pana
+                    la <strong>9.000 &euro;*</strong>. <br> Afla <a HREF="/Promotii/Autoturisme/BlackFriday"><u>aici</u></a>
+                    mai multe detalii despre promotie!</p>
+                </p>
+            </div>
+        </article>
+
         <article class="content-column centered">
             <div class="img-column centered"><img
                     src="/assets/img/1214641470334.jpg"
@@ -77,7 +98,7 @@
 
         <article class="content-column centered">
             <div class="content centered">
-                <div class="img-column"> <img
+                <div class="img-column"><img
                         src="/assets/img/promotii/1214643441446.jpg"
                         alt="Promotii STLine"/><span class="fv-overlay-icon"></span></a></div>
                 <h3 class="bigHeading02 centered">

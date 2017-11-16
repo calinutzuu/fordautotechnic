@@ -292,7 +292,7 @@ $route['Promotii/comerciale'] = 'promotii/comerciale/index';
 $route['Promotii/comerciale/Ranger'] = 'promotii/comerciale/noul_ranger';
 $route['Promotii/comerciale/Transit'] = 'promotii/comerciale/transit_ok';
 $route['Promotii/comerciale/Business-Weeks'] = 'promotii/comerciale/business_weeks_co';
-
+$route['Promotii/comerciale/BlackFriday'] = 'promotii/comerciale/black_friday_co';
 
 $route['Promotii/FiestaRedBlack'] = 'promotii/fiesta_red_black/index';
 $route['Promotii/Rabla2015'] = 'promotii/rabla/index';
