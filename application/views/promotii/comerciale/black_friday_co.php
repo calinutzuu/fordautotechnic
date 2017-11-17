@@ -89,7 +89,7 @@
                         ca <strong>UPGRADE EVENT se desfasoara intre 15 si 26 noiembrie.</strong><br> <br> Atentie
                         insa &ndash; oferta este valabila in limita stocului disponibil! Asa ca nu mai
                         astepta &ndash;
-                        <a HREF="BlackFriday/Rezervare.html"><u><strong>inscrie-te</strong></u></a> acum, iar un
+                        <a HREF="http://www.ford.ro/Promotii/comerciale/BlackFriday/Rezervare"><u><strong>inscrie-te</strong></u></a> acum, iar un
                         dealer<br>
                         Ford te va contacta in cel mai scurt timp pentru a rezerva pretul special de Black Friday.
                     </p>

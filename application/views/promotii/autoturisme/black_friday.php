@@ -75,7 +75,7 @@
                         poti lua decizia intr-o singura zi, asa ca <strong>UPGRADE EVENT se desfasoara intre 15 si 26
                             noiembrie. </strong><br> Atentie insa &ndash; oferta este valabila in limita stocului
                         disponibil! Asa ca nu mai astepta &ndash; <a
-                            HREF="/Promotii/comerciale/BlackFriday/Rezervare"><u><strong>inscrie-te</strong></u></a>
+                            HREF="http://www.ford.ro/Promotii/comerciale/BlackFriday/Rezervare"><u><strong>inscrie-te</strong></u></a>
                         acum, iar un dealer Ford<br> te va contacta in cel mai scurt timp pentru a rezerva pretul special de
                         Black Friday.</p>
                     </p>
@@ -103,7 +103,7 @@
                             <a HREF="/Autoturisme/noul-fiesta"><strong><u>Afla mai multe</u></strong></a>
                             despre Ford Fiesta sau<br>
                             Inscrie-te <a
-                                HREF="/Promotii/comerciale/BlackFriday/Rezervare"><u><strong>aici</strong></u></a>
+                                HREF="http://www.ford.ro/Promotii/comerciale/BlackFriday/Rezervare"><u><strong>aici</strong></u></a>
                             pentru a rezerva pretul special.</p>
                         </p>
                     </div>
@@ -131,7 +131,7 @@
                             asistenta in caz de urgenta (112);<br> - Faruri de ceata;<br> - Consola centrala cu cotiera.<br>
                             <br> <a HREF="/Autoturisme/Focus"><u><strong>Afla mai
                                         multe</strong></u></a> despre Ford Focus sau<br> Inscrie-te <a
-                                HREF="/Promotii/comerciale/BlackFriday/Rezervare"><u><strong>aici</strong></u></a>
+                                HREF="http://www.ford.ro/Promotii/comerciale/BlackFriday/Rezervare"><u><strong>aici</strong></u></a>
                             pentru a rezerva pretul special.</p>
                         </p>
                     </div>
@@ -160,7 +160,7 @@
                             (763U) include scaun sofer reglabil electric, cu functie Memory. <br> <br> <a
                                 HREF="/Autoturisme/Mondeo"><u><strong>Afla mai multe</strong></u></a>
                             despre Ford Mondeo sau<br> Inscrie-te <a
-                                HREF="/Promotii/comerciale/BlackFriday/Rezervare"><u><strong>aici</strong></u></a>
+                                HREF="http://www.ford.ro/Promotii/comerciale/BlackFriday/Rezervare"><u><strong>aici</strong></u></a>
                             pentru a rezerva pretul special.</p> <br>
                         </p>
                     </div>
@@ -188,7 +188,7 @@
                             cu sistem de asistenta in caz de urgenta (112).<br> <br> <a
                                 HREF="/Autoturisme/Noul_Kuga"><u><strong> Afla mai multe</strong></u></a>
                             despre Ford Kuga sau<br> Inscrie-te <a
-                                HREF="/Promotii/comerciale/BlackFriday/Rezervare"><u><strong>aici</strong></u></a>
+                                HREF="http://www.ford.ro/Promotii/comerciale/BlackFriday/Rezervare"><u><strong>aici</strong></u></a>
                             pentru a rezerva pretul special.</p>
                         </p>
                     </div>
@@ -214,7 +214,7 @@
                             oglinzi exterioare cu functia de memorie;<br> - jante de aliaj 20&quot;.<br> <br> <a
                                 HREF="/Autoturisme/Noul-FordEdge"><u><strong> Afla mai multe</strong></u></a>
                             despre Ford Edge sau<br> Inscrie-te <a
-                                HREF="/Promotii/comerciale/BlackFriday/Rezervare"><u><strong>aici</strong></u></a>
+                                HREF="http://www.ford.ro/Promotii/comerciale/BlackFriday/Rezervare"><u><strong>aici</strong></u></a>
                             pentru a rezerva pretul special.</p>
 
                         <div><font onmouseout="this.style.color='#000000'" color="#000000">
