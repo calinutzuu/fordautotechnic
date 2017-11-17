@@ -94,7 +94,7 @@ class Autoturisme extends CI_Controller
     {
         $this->template
             ->set_layout('promotii')
-            ->title('Ecobonus', 'Ford AutoTechnic')
+            ->title('BlackFriday', 'Ford AutoTechnic')
             ->build('promotii/autoturisme/black_friday');
     }
 
