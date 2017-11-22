@@ -510,30 +510,27 @@
                                             <td>Mondeo, S-MAX, Galaxy, Kuga</td>
                                         </tr>
                                         <tr class="CusTab-dark">
-                                            <td class="CusTab-dark-left">Kit distributie - benzina</td>
-                                            <td><span style="font-size: large">920 lei <br>             </span></td>
-                                            <td><span style="font-size: large">980 lei <br>             </span></td>
-                                            <td><span style="font-size: large">980 lei <br>             </span></td>
+                                            <td class="CusTab-dark-left">Kit distributie benzina (inclusiv curea accesorii)</td>
+                                            <td><span style="font-size: large">1.096 lei <br>
+</span></td>
+                                            <td><span style="font-size: large">1.099 lei <br>
+</span></td>
+                                            <td><span style="font-size: large">1.099 lei <br>
+</span></td>
                                         </tr>
                                         <tr class="CusTab-light">
                                             <td class="CusTab-dark-left">Kit distributie diesel, cu pompa de apa</td>
-                                            <td><span style="font-size: large">1.130 lei <br>             </span></td>
-                                            <td><span style="font-size: large">1.280 lei <br>             </span></td>
-                                            <td><span style="font-size: large">1.320 lei <br>             </span></td>
+                                            <td><span style="font-size: large">1.130 lei <br>
+</span></td>
+                                            <td><span style="font-size: large">1.280 lei <br>
+</span></td>
+                                            <td><span style="font-size: large">1.320 lei <br>
+</span></td>
                                         </tr>
                                         </tbody>
                                     </table>
-                                    <div><br> <br> <em>*Toate preturile afisate in aceasta oferta sunt preturi
-                                            recomandate in lei, contin TVA conform legislatiei in vigoare si includ
-                                            pretul manoperei. Oferta nu include componentele tehnologice. Oferta nu se
-                                            aplica autovehiculelor utilitare echipate cu roți duble spate. De asemenea,
-                                            aceasta oferta este supusa termenilor si conditiilor afisate, este valabila
-                                            in limita stocului disponibil si se poate modifica in functie de seria de
-                                            sasiu. Alte detalii aferente ofertei sunt disponibile in paginile de
-                                            promotie detaliate pe ford.ro si in reteaua de reparatori autorizati Ford.
-                                            <br>
-                                            &nbsp;Perioada derularii acestei campanii: 01 septembrie 2017 - 31 decembrie
-                                            2017.</em></div>
+                                    <div><br> <br> <em>
+                                            *Toate preturile afisate in aceasta oferta sunt preturi recomandate in lei, contin TVA conform legislatiei in vigoare si includ pretul manoperei. Oferta nu include componentele tehnologice. Campania nu se aplica motorizarilor 1.8 diesel si 1.0 benzina. De asemenea, aceasta oferta este supusa termenilor si conditiilor afisate, este valabila in limita stocului disponibil si se poate modifica in functie de seria de sasiu. Alte detalii aferente ofertei sunt disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de reparatori autorizati Ford. </em></div>
                                 </div>
                             </div>
                         </div>

@@ -174,7 +174,7 @@ class motorcraft extends CI_Controller
 {
     $this->template
         ->set_layout('promotii')
-        ->title('AerConditionat', 'Ford AutoTechnic')
+        ->title('Baterie', 'Ford AutoTechnic')
         ->build('ford_service/motorcraft/reparatii/baterie');
 }
 

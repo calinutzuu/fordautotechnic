@@ -535,14 +535,15 @@
                                 </div>
                                 <br> <em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate in lei,
                                     contin TVA conform legislatiei in vigoare si includ pretul manoperei. Oferta nu
-                                    include componentele tehnologice. Oferta nu se aplica autovehiculelor utilitare
-                                    echipate cu roți duble spate. De asemenea, aceasta oferta este supusa termenilor si
-                                    conditiilor afisate, este valabila in limita stocului disponibil si se poate
-                                    modifica in functie de seria de sasiu. Alte detalii aferente ofertei sunt
-                                    disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de reparatori
-                                    autorizati Ford. <br>
-                                    &nbsp;Perioada derularii acestei campanii: 01 septembrie 2017 - 31 decembrie
-                                    2017.</em></div>
+                                    include componentele tehnologice. De asemenea, aceasta oferta este supusa termenilor
+                                    si conditiilor afisate, este valabila in limita stocului disponibil si se poate
+                                    modifica in functie de seria de sasiu. Oferta nu se aplica anumitor modele de
+                                    autovehicule (spre exemplu: modelul Fiesta fabricat ulterior anului 2012; modelul
+                                    Focus fabricat in intervalul 2011-2015; modelele S-Max/Galaxy fabricate in
+                                    intervalul 2006-2015). Alte detalii aferente ofertei sunt disponibile in paginile de
+                                    promotie detaliate pe ford.ro si in reteaua de reparatori autorizati Ford.
+                                    Perioada derularii acestei campanii: 01 septembrie 2017 - 31 decembrie 2017. </em>
+                            </div>
                         </div>
                     </div>
                 </div>

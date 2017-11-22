@@ -515,27 +515,25 @@
                                 </tr>
                                 <tr class="CusTab-dark">
                                     <td class="CusTab-dark-left">Inlocuire set lamele stergator parbriz</td>
-                                    <td><span style="font-size: large">110 lei <br>             </span></td>
-                                    <td><span style="font-size: large">110 lei <br>             </span></td>
-                                    <td><span style="font-size: large">135 lei <br>             </span></td>
-                                    <td><span style="font-size: large">90 lei </span></td>
-                                    <td><span style="font-size: large">100 lei <br>             </span></td>
+                                    <td><span style="font-size: large">138 lei <br>
+</span></td>
+                                    <td><span style="font-size: large">138 lei <br>
+</span></td>
+                                    <td><span style="font-size: large">170 lei <br>
+</span></td>
+                                    <td><span style="font-size: large">94 lei </span></td>
+                                    <td><span style="font-size: large">111 lei <br>
+</span></td>
                                 </tr>
                                 <tr class="CusTab-light">
-                                    <td class="CusTab-dark-left">&Icirc;nlocuire lichid de parbriz</td>
-                                    <td colspan="5"><span style="font-size: large">19,9 lei <br>             </span>
-                                    </td>
+                                    <td class="CusTab-dark-left">Inlocuire lichid parbriz 5l (-20⁰)</td>
+                                    <td colspan="5"><span style="font-size: large">24,9 lei <br>
+</span></td>
                                 </tr>
                                 </tbody>
                             </table>
-                            <br> <br> <em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate in lei,
-                                contin TVA conform legislatiei in vigoare si includ pretul manoperei. Oferta nu include
-                                componentele tehnologice. Oferta nu se aplica autovehiculelor utilitare echipate cu roți
-                                duble spate. De asemenea, aceasta oferta este supusa termenilor si conditiilor afisate,
-                                este valabila in limita stocului disponibil si se poate modifica in functie de seria de
-                                sasiu. Alte detalii aferente ofertei sunt disponibile in paginile de promotie detaliate
-                                pe ford.ro si in reteaua de reparatori autorizati Ford. <br>
-                                &nbsp;Perioada derularii acestei campanii: 01 septembrie 2017 - 31 decembrie 2017.</em>
+                            <br> <br> <em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate in lei, contin TVA conform legislatiei in vigoare si includ pretul manoperei. Oferta nu include componentele tehnologice. Oferta nu se aplica autovehiculelor utilitare echipate cu roți duble spate. De asemenea, aceasta oferta este supusa termenilor si conditiilor afisate, este valabila in limita stocului disponibil si se poate modifica in functie de seria de sasiu. Alte detalii aferente ofertei sunt disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de reparatori autorizati Ford.
+                                Perioada derularii acestei campanii: 01 septembrie 2017 - 31 decembrie 2017. </em>
                         </div>
                     </div>
                 </div>
