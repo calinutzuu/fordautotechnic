@@ -25,28 +25,7 @@
             </div>  -->
         <section class="mid-page-content">
             <div class="tab-content">
-                <article class="content-column centered">
-                    <div class="img-column">
-                            <img
-                                src="/assets/img/promotii/1214645264213.jpg"
-                                alt="Black Friday"/><span class="fv-overlay-icon"></span></a></div>
-                    <br>
-                    <div class="content">
-                        <h3 class="bigHeading">
-                            FORD BLACK FRIDAY UPGRADE EVENT – <br><br>avantaj client de pana la 7.600 €*!
-                        </h3>
-                        <br>
-                        <p>
-
-                        <p>La Ford, Black Friday inseamna UPGRADE EVENT &ndash; cele mai mari avantaje pentru
-                            clienti!<br> <br> Iti doresti o masina noua cu dotari cat mai bogate? Te tenteaza un nivel
-                            de echipare superior?<br> Cauti motorizari moderne, puternice si eficiente?<br> <br> Acum ai un
-                            avantaj client impresionant, de pana la <strong>7.600 &euro;*</strong>. <br>Afla <a
-                                HREF="/Promotii/comerciale/BlackFriday"><u>aici</u></a> mai multe detalii despre
-                            promotie!</p>
-                        </p>
-                    </div>
-                </article>
+                
                 <article class="content-column centered">
                     <div class="content centered">
                         <div class="img-column">

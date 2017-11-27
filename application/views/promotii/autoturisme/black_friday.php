@@ -248,7 +248,7 @@
                                                                         program, 3. pentru modelele Fiesta, Focus,
                                                                         Mondeo, Kuga, Edge contravalorii suportului
                                                                         acordat de Ford Romania prin programul Ford
-                                                                        ECOBONUS. Oferta nu include echipamente,
+                                                                        1214645264178S. Oferta nu include echipamente,
                                                                         accesorii sau dotari optionale, cu exceptia
                                                                         celor din Pachetele Trend sau Titanium aferente
                                                                         fiecarui model. Consumul mixt si emisiile de
