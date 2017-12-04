@@ -174,25 +174,18 @@
 </article>
 
 <article role="option">
-    <a class="carImg" href="#img1"><img src="/assets/img/1214637793425.jpg"
-                                        alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt;FORD &lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt;MOTORCRAFT&lt;/span&gt;&lt;/span&gt;"
-                                        role="presentation"></a>
-
-    <div class="innerBox posBottomRight WhiteText">
-        <div class="">
+    <a class="carImg" href="#img1"><img src="/assets/img/service/1214647041711.jpg" alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt;FORD &lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt;MOTORCRAFT&lt;/span&gt;&lt;/span&gt;" role="presentation"></a>
+    <div class="innerBox posBottomLeft GreyBlock">
+        <div class="blockTransparent">
             <h2 class="bigHeading02">
-                <span style="font-size:28px;"><span style="font-family:FordAntennaRegular;">FORD </span><span
-                        style="font-family:FordAntennaBlack;">MOTORCRAFT</span></span>
+                <span style="font-size:28px;"><span style="font-family:FordAntennaRegular;">FORD </span><span style="font-family:FordAntennaBlack;">MOTORCRAFT</span></span>
             </h2>
-
             <p class="captionTxt">
-                <span style="font-size:22px;"><span style="font-family:FordAntennaRegular;">Pregateste-te pentru toamna.<br> Cu putin ajutor de la Ford Service.</span><span
-                        style="font-family:FordAntennaBlack;"></span></span>
+                <span style="font-size:22px;"><span style="font-family:FordAntennaRegular;">Iarna este asa cum o faci tu sa fie</span><span style="font-family:FordAntennaBlack;"></span></span>
             </p>
-
             <div class="btnwrapper">
                 <div class="btnLink light">
-                    <a role="button" class="om_ca_in" href="/FordService/Motorcraft">DESCOPER&#258; PROMO&#538;IILE</a>
+                    <a role="button" class="om_ca_in" href="/FordService/Motorcraft" >DESCOPER&#258; PROMO&#538;IILE</a>
                 </div>
             </div>
         </div>
