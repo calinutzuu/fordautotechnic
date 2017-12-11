@@ -28,7 +28,6 @@
     <div class="tab-content">
 
 
-
         <article class="content-column centered">
             <div class="img-column centered"><img
                     src="/assets/img/1214641470334.jpg"
@@ -146,6 +145,26 @@
 
         </article>
 
+        <article class="content-column centered">
+            <div class="img-column"> <img
+                        src="/assets/img/1214648120428.jpg"
+                        alt="Ford Edge"/><span class="fv-overlay-icon"></span></div>
+            <div class="content centered">
+                <h3 class="bigHeading02">
+                    Urca in varf...de gama!
+                </h3>
+
+                <p>
+
+                <p>Tehnologie, design, confort, siguranta - poti experimenta chiar acum toate acestea, la volanul unui
+                    Ford Edge,</br> profitand de oferta speciala: avantaj client de 8.500&nbsp;&euro;* (TVA inclus), pentru</br>
+                    modelul Titanium, cu motorizare 2.0&nbsp;TDCi 210&nbsp;CP, transmisie Powershift.<br>
+                    <br>
+                    <a HREF="/Promotii/Autoturisme/Edge"><span style="color: rgb(0, 0, 255);"><u>Descopera promotia</u></span></a>
+                </p>
+                </p>
+            </div>
+        </article>
         <!--     <article class="content-column right">
                  <div class="content centered">
                      <div class="img-column">

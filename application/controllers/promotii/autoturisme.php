@@ -226,4 +226,12 @@ class Autoturisme extends CI_Controller
             ->build('promotii/autoturisme/mondeo_stline');
     }
 
+    public function edge_prom()
+    {
+        $this->template
+            ->set_layout('promotii')
+            ->title('Edge promo', 'Ford AutoTechnic')
+            ->build('promotii/autoturisme/edge_prom');
+    }
+
 }
