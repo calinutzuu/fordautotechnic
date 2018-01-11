@@ -372,12 +372,12 @@
                         document.id('menu1205094744306').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205094747404' class=''>
-                    <a href='Antigel'/>Lichid de r&#259;cire (antigel)</a>
-                    <script type="text/javascript">
-                        document.id('menu1205094747404').addClass("navnextSteps");
-                    </script>
-                </li>
+                <!--    <li id='menu1205094747404' class=''>
+                        <a href='Antigel'/>Lichid de r&#259;cire (antigel)</a>
+                        <script type="text/javascript">
+                            document.id('menu1205094747404').addClass("navnextSteps");
+                        </script>
+                    </li>  -->
                 <li id='menu1205094743125' class=''>
                     <a href='Suspensii'/>Suspensii</a>
                     <script type="text/javascript">
@@ -438,14 +438,12 @@
                 </div>
                 <div class='BTIarticleBody'>
                     <div class='BTIarticleText'>
-                        <div><span style="font-size: medium;"><strong>Ca să ai o imagine clară asupra drumului ce ţi
-                                    se aşterne in faţă</strong></span><br> <br> Lamele ştergătoarelor de parbriz ar
-                            putea să nu pară extraordinar de imprtante. Totuşi, chiar şi o ploaie uşoară &icirc;ţi
-                            poate limita considerabil vizibilitatea &icirc;n timp ce conduci.<br> <br> La fel, şi
-                            praful care trebuie curăţat rapid şi eficient. Prin urmare, este important să păstrezi
-                            lamelele ştergătoarelor de parbriz de pe modelul tău Ford &icirc;n cea mai bună formă.
-                            Aceasta se face prin verificarea modului cum funcţionează şi &icirc;nlocuirea lor
-                            periodică.
+                        <div><span style="font-size: medium;"><strong>Ca să ai o imagine clară asupra drumului ce ţi se aşterne in
+                                    faţă</strong></span><br> <br> Lamele ştergătoarelor de parbriz ar putea să nu pară extraordinar de
+                            imprtante. Totuşi, chiar şi o ploaie uşoară &icirc;ţi poate limita considerabil vizibilitatea &icirc;n timp
+                            ce conduci.<br> <br> La fel, şi praful care trebuie curăţat rapid şi eficient. Prin urmare, este important
+                            să păstrezi lamelele ştergătoarelor de parbriz de pe modelul tău Ford &icirc;n cea mai bună formă. Aceasta
+                            se face prin verificarea modului cum funcţionează şi &icirc;nlocuirea lor periodică.
                         </div>
                         <div>
                             <style type="text/css">        .floatedTable {
@@ -494,8 +492,8 @@
                                 td.CusTab-tick {
                                     color: #0070c0;
                                 }</style>
-                            <table width="100%" cellspacing="0" cellpadding="0" border="0"
-                                   style="BORDER-COLLAPSE: collapse" class="CusTab">
+                            <table style="BORDER-COLLAPSE: collapse" class="CusTab" cellspacing="0" cellpadding="0" border="0"
+                                   width="100%">
                                 <colgroup>
                                     <col style="WIDTH: 20%"/>
                                     <col style="WIDTH: 16%"/>
@@ -509,32 +507,27 @@
                                     <td>Reparatii</td>
                                     <td>Fiesta, Fusion</td>
                                     <td>Focus, C-MAX</td>
-                                    <td>Mondeo, S-MAX, Galaxy, Kuga</td>
+                                    <td>Mondeo, S-MAX, Kuga</td>
                                     <td>Ford Transit Connect, Ford Tourneo Connect</td>
                                     <td>Ford Transit</td>
                                 </tr>
                                 <tr class="CusTab-dark">
                                     <td class="CusTab-dark-left">Inlocuire set lamele stergator parbriz</td>
-                                    <td><span style="font-size: large">138 lei <br>
-</span></td>
-                                    <td><span style="font-size: large">138 lei <br>
-</span></td>
-                                    <td><span style="font-size: large">170 lei <br>
-</span></td>
-                                    <td><span style="font-size: large">94 lei </span></td>
-                                    <td><span style="font-size: large">111 lei <br>
-</span></td>
-                                </tr>
-                                <tr class="CusTab-light">
-                                    <td class="CusTab-dark-left">Inlocuire lichid parbriz 5l (-20⁰)</td>
-                                    <td colspan="5"><span style="font-size: large">24,9 lei <br>
-</span></td>
+                                    <td><span style="font-size: large">145 lei <br>             </span></td>
+                                    <td><span style="font-size: large">145 lei <br>             </span></td>
+                                    <td><span style="font-size: large">180 lei <br>             </span></td>
+                                    <td><span style="font-size: large">100 lei </span></td>
+                                    <td><span style="font-size: large">120 lei <br>             </span></td>
                                 </tr>
                                 </tbody>
                             </table>
-                            <br> <br> <em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate in lei, contin TVA conform legislatiei in vigoare si includ pretul manoperei. Oferta nu include componentele tehnologice. Oferta nu se aplica autovehiculelor utilitare echipate cu roți duble spate. De asemenea, aceasta oferta este supusa termenilor si conditiilor afisate, este valabila in limita stocului disponibil si se poate modifica in functie de seria de sasiu. Alte detalii aferente ofertei sunt disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de reparatori autorizati Ford.
-                                Perioada derularii acestei campanii: 01 septembrie 2017 - 31 decembrie 2017. </em>
-                        </div>
+                            <br> <br> <em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin TVA conform
+                                legislatiei &icirc;n vigoare. Oferta nu include componentele tehnologice, este supusa termenilor si
+                                conditiilor afisate si este valabila in limita stocului disponibil. De asemenea, oferta se poate
+                                modifica in functie de seria de sasiu. Schimbul de ulei este inclus in preturile mentionate in limita a
+                                5l pentru autoturisme si 7l &nbsp;pentru autoutilitare. Alte detalii aferente ofertei sunt disponibile
+                                in paginile de promotie detaliate pe ford.ro si in reteaua de reparatori autorizati Ford. <br> &nbsp;Perioada
+                                derularii acestei campanii: 1 Ianuarie 2018 &ndash; 28 Februarie 2018. </em></div>
                     </div>
                 </div>
             </div>

@@ -372,12 +372,12 @@
                         document.id('menu1205094744306').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205094747404' class=''>
-                    <a href='Antigel'/>Lichid de r&#259;cire (antigel)</a>
-                    <script type="text/javascript">
-                        document.id('menu1205094747404').addClass("navnextSteps");
-                    </script>
-                </li>
+                <!--     <li id='menu1205094747404' class=''>
+                         <a href='Antigel'/>Lichid de r&#259;cire (antigel)</a>
+                         <script type="text/javascript">
+                             document.id('menu1205094747404').addClass("navnextSteps");
+                         </script>
+                     </li> -->
                 <li id='menu1205094743125' class=''>
                     <a href='Suspensii'/>Suspensii</a>
                     <script type="text/javascript">
@@ -438,12 +438,11 @@
                     </div>
                     <div class='BTIarticleBody'>
                         <div class='BTIarticleText'>
-                            <div><strong><span
-                                        style="font-size: medium"><br> Solutia ce permite un cost corect</span></strong><br>
+                            <div><strong><span style="font-size: medium">Solutia ce permite un cost corect</span></strong><br>
                                 <ul>
                                     <li>Ajustata la v&acirc;rsta autovehiculului tau</li>
-                                    <li>Piese remanufacturate, cu respactarea specificatiilor Ford</li>
-                                    <li>Pret fix, care include piesele si manopera</li>
+                                    <li>Piese remanufacturate, cu respectarea specificatiilor Ford</li>
+                                    <li>Pret recomandat, care include piesele si manopera</li>
                                 </ul>
                                 <div>
                                     <style type="text/css">        .floatedTable {
@@ -492,8 +491,8 @@
                                         td.CusTab-tick {
                                             color: #0070c0;
                                         }</style>
-                                    <table width="100%" cellspacing="0" cellpadding="0" border="0"
-                                           style="border-collapse: collapse" class="CusTab">
+                                    <table style="border-collapse: collapse;" class="CusTab" width="553" height="102" cellspacing="0"
+                                           cellpadding="0" border="0">
                                         <colgroup>
                                             <col style="width: 20%"/>
                                             <col style="width: 16%"/>
@@ -507,25 +506,28 @@
                                             <td>Reparatii</td>
                                             <td>Fiesta, Fusion</td>
                                             <td>Focus, C-MAX</td>
-                                            <td>Mondeo, S-MAX, Galaxy, Kuga</td>
-                                            <td>Ford Transit Connect / Ford Tourneo Conect</td>
+                                            <td>Mondeo, S-MAX, Kuga</td>
                                             <td>Ford Transit</td>
+                                            <td>Ford Transit Connect</td>
                                         </tr>
                                         <tr class="CusTab-dark">
-                                            <td class="CusTab-dark-left">Inlocuire set ambreiaj (placa, disc, rulment)
-                                            </td>
-                                            <td><span style="font-size: large"> 1.320 lei  <br>             </span></td>
-                                            <td><span style="font-size: large"> 1.490 lei  <br>             </span></td>
-                                            <td><span style="font-size: large"> 1.615 lei  <br>             </span></td>
-                                            <td><span style="font-size: large">  1.700 lei  <br>             </span>
-                                            </td>
-                                            <td><span style="font-size: large"> 1.560 lei  <br>             </span></td>
+                                            <td class="CusTab-dark-left">Inlocuire set ambreiaj (placa, disc, rulment)</td>
+                                            <td><span style="font-size: large"> 1.361 lei  <br>             </span></td>
+                                            <td><span style="font-size: large"> 1.645 lei  <br>             </span></td>
+                                            <td><span style="font-size: large"> 1.726 lei  <br>             </span></td>
+                                            <td><span style="font-size: large">&nbsp;1.730 lei  <br>             </span></td>
+                                            <td><span style="font-size: large">&nbsp;1.900 lei  <br>             </span></td>
                                         </tr>
                                         </tbody>
                                     </table>
-                                    <br> <br> <em>
-                                        *Toate preturile afisate in aceasta oferta sunt preturi recomandate in lei, contin TVA conform legislatiei in vigoare si includ pretul manoperei. Oferta nu include componentele tehnologice. Oferta nu se aplica autovehiculelor utilitare echipate cu roți duble spate. De asemenea, aceasta oferta este supusa termenilor si conditiilor afisate, este valabila in limita stocului disponibil si se poate modifica in functie de seria de sasiu. Alte detalii aferente ofertei sunt disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de reparatori autorizati Ford.
-                                        Perioada derularii acestei campanii: 01 septembrie 2017 - 31 decembrie 2017.</em></div>
+                                    <br> <br> <em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin TVA conform
+                                        legislatiei &icirc;n vigoare. Oferta nu include componentele tehnologice, este supusa termenilor si
+                                        conditiilor afisate si este valabila in limita stocului disponibil. De asemenea, oferta se poate
+                                        modifica in functie de seria de sasiu. Schimbul de ulei este inclus in preturile mentionate in
+                                        limita a 5l pentru autoturisme si 7l &nbsp;pentru autoutilitare. Alte detalii aferente ofertei sunt
+                                        disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de reparatori autorizati
+                                        Ford.&nbsp;<br> Perioada derularii acestei campanii: 1 Ianuarie 2018 &ndash; 28 Februarie 2018.</em>
+                                </div>
                             </div>
                         </div>
                     </div>

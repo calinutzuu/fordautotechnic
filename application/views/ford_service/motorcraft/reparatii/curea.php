@@ -372,12 +372,12 @@
                     </script>
                 </li>
                 <li class="selected"><p>Kit distribu&#355;ie</p></li>
-                <li id='menu1205094747404' class=''>
+             <!--   <li id='menu1205094747404' class=''>
                     <a href='Antigel'/>Lichid de r&#259;cire (antigel)</a>
                     <script type="text/javascript">
                         document.id('menu1205094747404').addClass("navnextSteps");
                     </script>
-                </li>
+                </li> -->
                 <li id='menu1205094743125' class=''>
                     <a href='Suspensii'/>Suspensii</a>
                     <script type="text/javascript">
@@ -438,103 +438,27 @@
                     </div>
                     <div class='BTIarticleBody'>
                         <div class='BTIarticleText'>
-                            <div><strong><span
-                                        style="font-size: medium;">Pentru funcţionarea &icirc;ndelungată si &icirc;n siguranţă a motorului<br> </span></strong>
-                                <ul>
-                                    <li>Calitate excelentă, cu respectarea specificaţiilor Ford OE</li>
-                                    <li>Preţ fix, care include piesele şi manopera</li>
-                                </ul>
-                                &nbsp;<br> <br>
-
-                                <div>
-                                    <style type="text/css">        .floatedTable {
-                                            float: left;
-                                        }
-
-                                        .inlineTable {
-                                            display: inline-block;
-                                        }</style>
-                                    <style type="text/css">.CusTab {
-                                            margin-top: 1em;
-                                        }
-
-                                        .CusTab td {
-                                            padding: 6px;
-                                            height: 25px;
-                                            vertical-align: middle;
-                                            border-left: white 1px solid;
-                                            border-right: white 1pt solid;
-                                            text-align: center;
-                                            color: #474847;
-                                        }
-
-                                        .CusTab-header, .CusTab-header:hover {
-                                            background-color: #455968;
-                                            color: #FFF;
-                                        }
-
-                                        .CusTab-header td {
-                                            font-weight: bold;
-                                            color: #FFF;
-                                        }
-
-                                        .CusTab-dark, .CusTab-dark-left, .CusTab-dark td, .CusTab-dark-left td {
-                                            background-color: #ececec;
-                                        }
-
-                                        .CusTab-light, .CusTab-light-left, .CusTab-light td, .CusTab-light-left td {
-                                            background-color: #FFF;
-                                        }
-
-                                        td.CusTab-dark-left, td.CusTab-light-left {
-                                            text-align: left;
-                                        }
-
-                                        td.CusTab-tick {
-                                            color: #0070c0;
-                                        }</style>
-                                    <table width="100%" cellspacing="0" cellpadding="0" border="0"
-                                           style="BORDER-COLLAPSE: collapse"
-                                           class="CusTab">
-                                        <colgroup>
-                                            <col style="WIDTH: 20%"/>
-                                            <col style="WIDTH: 16%"/>
-                                            <col style="WIDTH: 16%"/>
-                                            <col style="WIDTH: 16%"/>
-                                        </colgroup>
-                                        <tbody>
-                                        <tr class="CusTab-header">
-                                            <td>Reparatii</td>
-                                            <td>Fiesta, Fusion</td>
-                                            <td>Focus, C-MAX</td>
-                                            <td>Mondeo, S-MAX, Galaxy, Kuga</td>
-                                        </tr>
-                                        <tr class="CusTab-dark">
-                                            <td class="CusTab-dark-left">Kit distributie benzina (inclusiv curea accesorii)</td>
-                                            <td><span style="font-size: large">1.096 lei <br>
-</span></td>
-                                            <td><span style="font-size: large">1.099 lei <br>
-</span></td>
-                                            <td><span style="font-size: large">1.099 lei <br>
-</span></td>
-                                        </tr>
-                                        <tr class="CusTab-light">
-                                            <td class="CusTab-dark-left">Kit distributie diesel, cu pompa de apa</td>
-                                            <td><span style="font-size: large">1.130 lei <br>
-</span></td>
-                                            <td><span style="font-size: large">1.280 lei <br>
-</span></td>
-                                            <td><span style="font-size: large">1.320 lei <br>
-</span></td>
-                                        </tr>
-                                        </tbody>
-                                    </table>
-                                    <div><br> <br> <em>
-                                            *Toate preturile afisate in aceasta oferta sunt preturi recomandate in lei, contin TVA conform legislatiei in vigoare si includ pretul manoperei. Oferta nu include componentele tehnologice. Campania nu se aplica motorizarilor 1.8 diesel si 1.0 benzina. De asemenea, aceasta oferta este supusa termenilor si conditiilor afisate, este valabila in limita stocului disponibil si se poate modifica in functie de seria de sasiu. Alte detalii aferente ofertei sunt disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de reparatori autorizati Ford. </em></div>
-                                </div>
-                            </div>
+                            <div><strong><span style="font-size: medium;">Pentru funcţionarea &icirc;ndelungată si &icirc;n siguranţă a motorului<br> </span></strong> <ul>     <li>Calitate excelentă, cu respectarea specificaţiilor Ford OE</li>     <li>Preţ fix, care include piesele şi manopera</li> </ul> &nbsp;<br> <br> <div><style type="text/css">        .floatedTable {            float:left;        }        .inlineTable {            display: inline-block;        }</style><style type="text/css">.CusTab { margin-top: 1em; }.CusTab td { padding: 6px; height: 25px; vertical-align: middle; border-left: white 1px solid; border-right: white 1pt solid; text-align: center; color:#474847; }.CusTab-header, .CusTab-header:hover { background-color: #455968; color: #FFF; }.CusTab-header td { font-weight: bold; color: #FFF; }.CusTab-dark, .CusTab-dark-left, .CusTab-dark td, .CusTab-dark-left td { background-color:#ececec; }.CusTab-light, .CusTab-light-left, .CusTab-light td, .CusTab-light-left td { background-color:#FFF; }td.CusTab-dark-left, td.CusTab-light-left { text-align: left; }td.CusTab-tick { color: #0070c0; }</style> <table style="BORDER-COLLAPSE: collapse" class="CusTab" cellspacing="0" cellpadding="0" border="0" width="100%">     <colgroup><col style="WIDTH: 20%" /><col style="WIDTH: 16%" /><col style="WIDTH: 16%" /><col style="WIDTH: 16%" /></colgroup>     <tbody>         <tr class="CusTab-header">             <td>Reparatii</td>             <td>Fiesta, Fusion</td>             <td>Focus, C-MAX</td>             <td>Mondeo, S-MAX, Kuga</td>         </tr>         <tr class="CusTab-dark">             <td class="CusTab-dark-left">Kit distributie benzina (inclusiv curea accesorii)</td>             <td><span style="font-size: large">1.096 lei <br>             </span></td>             <td><span style="font-size: large">1.099 lei <br>             </span></td>             <td><span style="font-size: large">1.099 lei <br>             </span></td>         </tr>         <tr class="CusTab-light">             <td class="CusTab-dark-left">Kit distributie diesel, cu pompa de apa</td>             <td><span style="font-size: large">1.195 lei <br>             </span></td>             <td><span style="font-size: large">1.362 lei <br>             </span></td>             <td><span style="font-size: large">1.420 lei <br>             </span></td>         </tr>     </tbody> </table> <div><br> <br> <em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate in lei, contin TVA conform legislatiei in vigoare si includ pretul manoperei. Oferta nu include componentele tehnologice. Campania nu se aplica motorizarilor 1.8 diesel si 1.0 benzina. De asemenea, aceasta oferta este supusa termenilor si conditiilor afisate, este valabila in limita stocului disponibil si se poate modifica in functie de seria de sasiu. Alte detalii aferente ofertei sunt disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de reparatori autorizati Ford.  </em></div></div></div>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+        <div class="center_item">
+        </div>
+        <div class="center_item">
+            <!--<START_MPP001 >-->
+            <div class="mid_page_promo">
+                <a href='/SBE/OSBOV' target="_self" >
+                    <img src="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214613372064&#38;blobkey=id" border="0" alt="Programari service" title="Programari service"  height = '113'  width = '557' />
+                </a>
+            </div>
+            <!--<END_MPP001 >-->
+        </div>
+        <div class="center_item">
+        </div>
+        <div id="center_btt">
+        </div>
                 </div>
             </div>
         </div>

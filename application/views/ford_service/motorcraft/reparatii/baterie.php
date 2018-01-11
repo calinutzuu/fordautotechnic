@@ -379,12 +379,12 @@
                         document.id('menu1205094744306').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205094747404' class=''>
-                    <a href='Antigel'/>Lichid de r&#259;cire (antigel)</a>
-                    <script type="text/javascript">
-                        document.id('menu1205094747404').addClass("navnextSteps");
-                    </script>
-                </li>
+                <!--  <li id='menu1205094747404' class=''>
+                      <a href='Antigel'/>Lichid de r&#259;cire (antigel)</a>
+                      <script type="text/javascript">
+                          document.id('menu1205094747404').addClass("navnextSteps");
+                      </script>
+                  </li> -->
                 <li id='menu1205094743125' class=''>
                     <a href='Suspensii'/>Suspensii</a>
                     <script type="text/javascript">
@@ -489,8 +489,8 @@
                                     td.CusTab-tick {
                                         color: #0070c0;
                                     }</style>
-                                <table width="100%" cellspacing="0" cellpadding="0" border="0" class="CusTab"
-                                       style="BORDER-COLLAPSE: collapse">
+                                <table class="CusTab" style="BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0" border="0"
+                                       width="100%">
                                     <colgroup>
                                         <col style="WIDTH: 20%"/>
                                         <col style="WIDTH: 16%"/>
@@ -504,41 +504,33 @@
                                         <td>Reparaţii</td>
                                         <td>Fiesta, Fusion</td>
                                         <td>Focus, C-MAX</td>
-                                        <td>Mondeo, S-MAX, Galaxy, Kuga</td>
+                                        <td>Mondeo, S-MAX, Kuga</td>
                                         <td>Ford Transit Connect, Ford Tourneo Connect</td>
                                         <td>Ford Transit</td>
                                     </tr>
                                     <tr class="CusTab-dark">
-                                        <td style="vertical-align: top; text-align: center;" class="CusTab-dark-left">
-                                            Schimb baterie
-                                        </td>
-                                        <td style="vertical-align: top;"><span style="font-size: large;">311 lei </span><br>
-                                            <br> (44Ah)
-                                        </td>
-                                        <td style="vertical-align: top;"><span style="font-size: large;">403 lei </span><br>
-                                            <br>
+                                        <td style="vertical-align: top; text-align: center;" class="CusTab-dark-left">Schimb baterie</td>
+                                        <td style="vertical-align: top;"><span style="font-size: large;">327 lei </span><br></td>
+                                        <td style="vertical-align: top;"><span style="font-size: large;">425 lei </span><br> <br>
 
-                                            <div>(60Ah<span style="font-size: smaller;">)</span></div>
+                                            <div></div>
                                         </td>
-                                        <td style="vertical-align: top;"><span style="font-size: large;">558 lei </span><br>
-                                            <br>
+                                        <td style="vertical-align: top;"><span style="font-size: large;">586 lei </span><br> <br>
 
-                                            <div>(80Ah)</div>
+                                            <div></div>
                                         </td>
-                                        <td style="vertical-align: top;"><span style="font-size: large;">441 lei </span><br>
-                                            <br>
+                                        <td style="vertical-align: top;"><span style="font-size: large;">452 lei </span><br> <br>
 
-                                            <div>(70 Ah<span style="font-size: smaller;">)</span></div>
+                                            <div></div>
                                         </td>
-                                        <td style="vertical-align: top;"><span style="font-size: large;">431 lei </span><br>
-                                            <br>
+                                        <td style="vertical-align: top;"><span style="font-size: large;">463 lei </span>
 
-                                            <div>(70Ah<span style="font-size: smaller;">)</span></div>
+                                            <div></div>
                                         </td>
                                     </tr>
                                     </tbody>
                                 </table>
-                                <br></div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -550,15 +542,14 @@
                     <div class='BTIarticleBody'>
                         <div class='BTIarticleText'>
                             <div><em>
-                                    Toate preturile afisate in aceasta oferta sunt preturi recomandate in lei si contin
-                                    TVA conform legislatiei in vigoare. Pretul afisat nu contine taxa de 10% (taxa de
-                                    depozit) pentru returnarea bateriei vechi (uzate) la schimb, conform legislatiei in
-                                    vigoare. De asemenea, aceasta oferta este supusa termenilor si conditiilor afisate,
-                                    este valabila in limita stocului disponibil si se poate modifica in functie de
-                                    specificatiile autovehiculului si seria de sasiu. Alte detalii aferente ofertei sunt
-                                    disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de reparatori
-                                    autorizati Ford.
-                                    Perioada derularii acestei campanii: 01 septembrie 2017 - 31 decembrie 2017.
+                                    *Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin TVA conform
+                                    legislatiei &icirc;n vigoare. Oferta nu include componentele tehnologice, este supusa termenilor
+                                    si conditiilor afisate si este valabila in limita stocului disponibil. De asemenea, oferta se
+                                    poate modifica in functie de seria de sasiu. Schimbul de ulei este inclus in preturile
+                                    mentionate in limita a 5l pentru autoturisme si 7l &nbsp;pentru autoutilitare. Alte detalii
+                                    aferente ofertei sunt disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de
+                                    reparatori autorizati Ford.<br>Perioada derularii acestei campanii: 1 Ianuarie 2018 &ndash; 28
+                                    Februarie 2018.
                                 </em></div>
                         </div>
                     </div>

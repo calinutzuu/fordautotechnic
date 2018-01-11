@@ -377,7 +377,7 @@
                         document.id('menu1205094744306').addClass("navnextSteps");
                     </script>
                 </li>
-                <li class="selected"><p>Lichid de r&#259;cire (antigel)</p></li>
+             <!--   <li class="selected"><p>Lichid de r&#259;cire (antigel)</p></li> -->
                 <li id='menu1205094743125' class=''>
                     <a href='Suspensii'/>Suspensii</a>
                     <script type="text/javascript">

@@ -590,7 +590,7 @@ return false;"
                     <div>&nbsp;</div>
                     <div><strong><span style="color: rgb(0,0,0)">Doar</span> </strong><span
                             style="color: rgb(0,0,128)"><strong><span
-                                    style="font-size: x-large">319 lei</span></strong></span></div>
+                                    style="font-size: x-large">349 lei</span></strong></span></div>
                     <div><br></div>
                 </div>
             </div>
@@ -628,11 +628,8 @@ return false;"
             </div>
             <div class='BTIarticleBody'>
                 <div class='BTIarticleText'>
-                    <div><em*Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin TVA conform
-                        legislatiei in vigoare. Aceasta oferta este supusa unor termene si conditii si este valabila in
-                        limita stocului disponibil. Oferta poate varia in functie de seria de sasiu. Detaliile aferente
-                        ofertei sunt disponibile in paginile de promotie si in rereaua de reprezentante Ford. Perioada
-                        derularii acestei campanii: 1 martie 2017 - 31 septembrie 2017. </em></div>
+                    <div><em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin TVA conform legislatiei în vigoare. Oferta nu include componentele tehnologice, este supusa termenilor si conditiilor afisate si este valabila in limita stocului disponibil. De asemenea, oferta se poate modifica in functie de seria de sasiu. Schimbul de ulei este inclus in preturile mentionate in limita a 5l pentru autoturisme si 7l  pentru autoutilitare. Alte detalii aferente ofertei sunt disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de reparatori autorizati Ford.  <br>
+                            Perioada derularii acestei campanii: 1 Ianuarie 2018 – 28 Februarie 2018.</em></div>
                 </div>
             </div>
         </div>

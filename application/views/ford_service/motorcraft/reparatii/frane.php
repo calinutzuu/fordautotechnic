@@ -373,12 +373,12 @@
                         document.id('menu1205094744306').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205094747404' class=''>
+               <!-- <li id='menu1205094747404' class=''>
                     <a href='Antigel'/>Lichid de r&#259;cire (antigel)</a>
                     <script type="text/javascript">
                         document.id('menu1205094747404').addClass("navnextSteps");
                     </script>
-                </li>
+                </li>  -->
                 <li id='menu1205094743125' class=''>
                     <a href='Suspensii'/>Suspensii</a>
                     <script type="text/javascript">
@@ -456,116 +456,114 @@
     </div>
 </div>
 <div class="BTIRow">
-<div class="BTIOneItem">
-<div class="BTIarticleTitle">
-</div>
-<div class='BTIarticleBody'>
-<div class='BTIarticleText'>
-    <h2><font size="2">Plăcuţe de fr&acirc;nă la preţuri competitive pentru modelul tău
-            Ford</font></h2>
+    <div class="BTIOneItem">
+        <div class="BTIarticleTitle">
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                <h2><font size="2">Plăcuţe de fr&acirc;nă la preţuri competitive pentru modelul tău Ford</font></h2>
 
-    <div>
-        <style type="text/css">        .floatedTable {
-                float: left;
-            }
+                <div>
+                    <style type="text/css">        .floatedTable {
+                            float: left;
+                        }
 
-            .inlineTable {
-                display: inline-block;
-            }</style>
-        <style type="text/css">.CusTab {
-                margin-top: 1em;
-            }
+                        .inlineTable {
+                            display: inline-block;
+                        }</style>
+                    <style type="text/css">.CusTab {
+                            margin-top: 1em;
+                        }
 
-            .CusTab td {
-                padding: 6px;
-                height: 25px;
-                vertical-align: middle;
-                border-left: white 1px solid;
-                border-right: white 1pt solid;
-                text-align: center;
-                color: #474847;
-            }
+                        .CusTab td {
+                            padding: 6px;
+                            height: 25px;
+                            vertical-align: middle;
+                            border-left: white 1px solid;
+                            border-right: white 1pt solid;
+                            text-align: center;
+                            color: #474847;
+                        }
 
-            .CusTab-header, .CusTab-header:hover {
-                background-color: #455968;
-                color: #FFF;
-            }
+                        .CusTab-header, .CusTab-header:hover {
+                            background-color: #455968;
+                            color: #FFF;
+                        }
 
-            .CusTab-header td {
-                font-weight: bold;
-                color: #FFF;
-            }
+                        .CusTab-header td {
+                            font-weight: bold;
+                            color: #FFF;
+                        }
 
-            .CusTab-dark, .CusTab-dark-left, .CusTab-dark td, .CusTab-dark-left td {
-                background-color: #ececec;
-            }
+                        .CusTab-dark, .CusTab-dark-left, .CusTab-dark td, .CusTab-dark-left td {
+                            background-color: #ececec;
+                        }
 
-            .CusTab-light, .CusTab-light-left, .CusTab-light td, .CusTab-light-left td {
-                background-color: #FFF;
-            }
+                        .CusTab-light, .CusTab-light-left, .CusTab-light td, .CusTab-light-left td {
+                            background-color: #FFF;
+                        }
 
-            td.CusTab-dark-left, td.CusTab-light-left {
-                text-align: left;
-            }
+                        td.CusTab-dark-left, td.CusTab-light-left {
+                            text-align: left;
+                        }
 
-            td.CusTab-tick {
-                color: #0070c0;
-            }</style>
-        <table style="BORDER-COLLAPSE: collapse" class="CusTab" cellspacing="0" cellpadding="0"
-               border="0" width="100%">
-            <colgroup>
-                <col style="WIDTH: 20%"/>
-                <col style="WIDTH: 16%"/>
-                <col style="WIDTH: 16%"/>
-                <col style="WIDTH: 16%"/>
-                <col style="WIDTH: 16%"/>
-                <col style="WIDTH: 16%"/>
-            </colgroup>
-            <tbody>
-            <tr class="CusTab-header">
-                <td>Reparaţii</td>
-                <td>Fiesta, Fusion</td>
-                <td>Focus, C-MAX</td>
-                <td>Mondeo, S-MAX, Galaxy, Kuga</td>
-                <td>Transit / Tourneo Connect</td>
-                <td>Ford Transit</td>
-            </tr>
-            <tr class="CusTab-dark">
-                <td class="CusTab-dark-left">Inlocuire set placute de fr&acirc;na fata</td>
-                <td><span style="font-size: large">270 lei <br>             </span></td>
-                <td><span style="font-size: large">320 lei <br>             </span></td>
-                <td><span style="font-size: large">350 lei <br>             </span></td>
-                <td><span style="font-size: large">320 lei <br>             </span></td>
-                <td><span style="font-size: large">310 lei <br>             </span></td>
-            </tr>
-            <tr class="CusTab-light">
-                <td class="CusTab-light-left">Inlocuire set placute si discuri de fr&acirc;na fata</td>
-                <td><span style="font-size: large">700 lei <br>             </span></td>
-                <td><span style="font-size: large">830 lei <br>             </span></td>
-                <td><span style="font-size: large">930 lei <br>             </span></td>
-                <td><span style="font-size: large">620 lei <br>             </span></td>
-                <td><span style="font-size: large">1.200 lei <br>             </span></td>
-            </tr>
-            <tr class="CusTab-dark">
-                <td class="CusTab-dark-left">Schimb lichid de fr&acirc;na</td>
-                <td><span style="font-size: large">125 lei </span></td>
-                <td><span style="font-size: large">125 lei </span></td>
-                <td><span style="font-size: large">125 lei </span></td>
-                <td><span style="font-size: large">125 lei <br>             </span></td>
-                <td><span style="font-size: large">125 lei <br>             </span></td>
-            </tr>
-            </tbody>
-        </table>
-
-        <br> <br> Toate kiturile cu plăcuţe de fr&acirc;nă Motorcraft au fost &icirc;mbunătăţite şi testate &icirc;n
-        concordanţă cu cele mai stricte directive Ford şi sunt special concepute pentru modelele Ford. <br> <br> De
-        asemenea, şi-au demonstrat longevitatea mulţumită rezistenţei la temperaturi &icirc;nalte, oferind comfortul
-        necesar chiar şi &icirc;n condiţiile unei sarcini mari pe pneu.
-
+                        td.CusTab-tick {
+                            color: #0070c0;
+                        }</style>
+                    <table style="BORDER-COLLAPSE: collapse" class="CusTab" width="100%" cellspacing="0" cellpadding="0"
+                           border="0">
+                        <colgroup>
+                            <col style="WIDTH: 20%"/>
+                            <col style="WIDTH: 16%"/>
+                            <col style="WIDTH: 16%"/>
+                            <col style="WIDTH: 16%"/>
+                            <col style="WIDTH: 16%"/>
+                            <col style="WIDTH: 16%"/>
+                        </colgroup>
+                        <tbody>
+                        <tr class="CusTab-header">
+                            <td>Reparaţii</td>
+                            <td>Fiesta, Fusion</td>
+                            <td>Focus, C-MAX</td>
+                            <td>Mondeo, S-MAX, Kuga</td>
+                            <td>Transit / Tourneo Connect</td>
+                            <td>Ford Transit</td>
+                        </tr>
+                        <tr class="CusTab-dark">
+                            <td class="CusTab-dark-left">Inlocuire set placute de fr&acirc;na fata</td>
+                            <td><span style="font-size: large">290 lei <br>             </span></td>
+                            <td><span style="font-size: large">320 lei <br>             </span></td>
+                            <td><span style="font-size: large">350 lei <br>             </span></td>
+                            <td><span style="font-size: large">285 lei<br>             </span></td>
+                            <td><span style="font-size: large">327 lei <br>             </span></td>
+                        </tr>
+                        <tr class="CusTab-light">
+                            <td class="CusTab-light-left">Inlocuire set placute si discuri de fr&acirc;na fata</td>
+                            <td><span style="font-size: large">825 lei <br>             </span></td>
+                            <td><span style="font-size: large">950 lei <br>             </span></td>
+                            <td><span style="font-size: large">1.050 lei <br>             </span></td>
+                            <td><span style="font-size: large">975 lei <br>             </span></td>
+                            <td><span style="font-size: large">1.550 lei <br>             </span></td>
+                        </tr>
+                        <tr class="CusTab-dark">
+                            <td class="CusTab-dark-left">Schimb lichid de fr&acirc;na</td>
+                            <td><span style="font-size: large">135 lei </span></td>
+                            <td><span style="font-size: large">135 lei </span></td>
+                            <td><span style="font-size: large">135 lei </span></td>
+                            <td><span style="font-size: large">-<br>             </span></td>
+                            <td><span style="font-size: large">-<br>             </span></td>
+                        </tr>
+                        </tbody>
+                    </table>
+                    <br> <br> Toate kiturile cu plăcuţe de fr&acirc;nă Motorcraft au fost &icirc;mbunătăţite şi
+                    testate &icirc;n concordanţă cu cele mai stricte directive Ford şi sunt special concepute pentru
+                    modelele Ford. <br> <br> De asemenea, şi-au demonstrat longevitatea mulţumită rezistenţei la
+                    temperaturi &icirc;nalte, oferind comfortul necesar chiar şi &icirc;n condiţiile unei sarcini mari
+                    pe pneu.
+                </div>
+            </div>
+        </div>
     </div>
-</div>
-</div>
-</div>
 </div>
 <div class="BTIRow">
     <div class="BTIOneItem">
@@ -574,8 +572,8 @@
         <div class='BTIarticleBody'>
             <div class='BTIarticleText'>
                 <div><em>
-                        *Toate preturile afisate in aceasta oferta sunt preturi recomandate in lei, contin TVA conform legislatiei in vigoare si includ pretul manoperei. Oferta nu include componentele tehnologice. Oferta nu se aplica autovehiculelor utilitare echipate cu roți duble spate. De asemenea, aceasta oferta este supusa termenilor si conditiilor afisate, este valabila in limita stocului disponibil si se poate modifica in functie de seria de sasiu. Alte detalii aferente ofertei sunt disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de reparatori autorizati Ford.
-                        Perioada derularii acestei campanii: 01 septembrie 2017 - 31 decembrie 2017.
+                        *Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin TVA conform legislatiei în vigoare. Oferta nu include componentele tehnologice, este supusa termenilor si conditiilor afisate si este valabila in limita stocului disponibil. De asemenea, oferta se poate modifica in functie de seria de sasiu. Schimbul de ulei este inclus in preturile mentionate in limita a 5l pentru autoturisme si 7l  pentru autoutilitare. Alte detalii aferente ofertei sunt disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de reparatori autorizati Ford.
+                        Perioada derularii acestei campanii: 1 Ianuarie 2018 – 28 Februarie 2018.
                     </em></div>
             </div>
         </div>

@@ -499,7 +499,7 @@
                     <div class='BTIarticleText'>
                         <div><h2><font size="2">Ford Service</font></h2><br><span
                                 style="color: rgb(0,0,128)">&nbsp; <strong><span
-                                        style="font-size: x-large">319 lei</span></strong><strong><span
+                                        style="font-size: x-large">349 lei</span></strong><strong><span
                                         style="font-size: x-large">&nbsp;</span></strong></span><br><br><br><br><a
                                 HREF="/FordService/Motorcraft/Service">&gt; Ford Service</a></div>
                     </div>
@@ -576,7 +576,7 @@
                     <div class='BTIarticleText'>
                         <div><h2><font size="2">Reparaţii uzuale<br> </font></h2> <strong><br> de la&nbsp; <span
                                     style="color: rgb(0, 0, 128);"><span style="font-size: medium;"><span
-                                            style="font-size: x-large;">270 lei</span></span></span></strong><br>
+                                            style="font-size: x-large;">290 lei</span></span></span></strong><br>
                             <br> <br> <a HREF="/FordService/Motorcraft/Reparatii">Reparaţii uzuale</a></div>
                     </div>
                 </div>
@@ -634,7 +634,7 @@
                         <div><h2><font size="2">Stergatoare de parbriz</font></h2> <br> <span
                                 style="color: rgb(0, 0, 0);"><strong>de la <span
                                         style="color: rgb(0, 0, 128);"><span
-                                            style="font-size: x-large;">94 lei</span></span></strong></span><br>
+                                            style="font-size: x-large;">145 lei</span></span></strong></span><br>
                             <br> <a HREF="/FordService/Motorcraft/Reparatii/Stergatoare">&gt;Stergatoare de parbriz</a>
                         </div>
                     </div>
@@ -649,14 +649,10 @@
             <div class='BTIarticleBody'>
                 <div class='BTIarticleText'>
                     <div><em>
-                            *Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin TVA conform
-                            legislatiei în vigoare. Oferta nu include componentele tehnologice, este supusa termenilor
-                            si conditiilor afisate si este valabila in limita stocului disponibil. De asemenea, oferta
-                            se poate modifica in functie de seria de sasiu. Schimbul de ulei este inclus in preturile
-                            mentionate in limita a 5l pentru autoturisme si 7l pentru autoutilitare. Alte detalii
-                            aferente ofertei sunt disponibile in paginile de promotie detaliate pe ford.ro si in reteaua
-                            de reparatori autorizati Ford.
-                            Perioada derularii acestei campanii: 01 septembrie 2017 - 31 decembrie 2017 <br> </em>
+
+                            *Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin TVA conform legislatiei în vigoare. Oferta nu include componentele tehnologice, este supusa termenilor si conditiilor afisate si este valabila in limita stocului disponibil. De asemenea, oferta se poate modifica in functie de seria de sasiu. Schimbul de ulei este inclus in preturile mentionate in limita a 5l pentru autoturisme si 7l  pentru autoutilitare. Alte detalii aferente ofertei sunt disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de reparatori autorizati Ford.
+                            Perioada derularii acestei campanii: 1 Ianuarie 2018 – 28 Februarie 2018.
+                            <br> </em>
                     </div>
                 </div>
             </div>

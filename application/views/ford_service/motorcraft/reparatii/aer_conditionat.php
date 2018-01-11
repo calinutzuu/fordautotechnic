@@ -378,12 +378,12 @@
                         document.id('menu1205094744306').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205094747404' class=''>
+             <!--   <li id='menu1205094747404' class=''>
                     <a href='Antigel'/>Lichid de r&#259;cire (antigel)</a>
                     <script type="text/javascript">
                         document.id('menu1205094747404').addClass("navnextSteps");
                     </script>
-                </li>
+                </li> -->
                 <li id='menu1205094743125' class=''>
                     <a href='Suspensii'/>Suspensii</a>
                     <script type="text/javascript">
@@ -528,13 +528,14 @@
                     </div>
                     <div class='BTIarticleBody'>
                         <div class='BTIarticleText'>
-                            <div><em>Toate preturile afisate in aceasta oferta sunt preturi recomandate in lei si contin
-                                    TVA conform legislatiei in vigoare. De asemenea, aceasta oferta este supusa
-                                    termenilor si conditiilor afisate, este valabila in limita stocului disponibil si se
-                                    poate modifica in functie de seria de sasiu. Alte detalii aferente ofertei sunt
-                                    disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de reparatori
-                                    autorizati Ford. Perioada derularii acestei campanii: 01 septembrie 2017 - 31
-                                    decembrie 2017.</em></div>
+                            <div><em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin TVA
+                                    conform legislatiei &icirc;n vigoare. Oferta nu include componentele tehnologice, este
+                                    supusa termenilor si conditiilor afisate si este valabila in limita stocului disponibil.
+                                    De asemenea, oferta se poate modifica in functie de seria de sasiu. Schimbul de ulei
+                                    este inclus in preturile mentionate in limita a 5l pentru autoturisme si 7l &nbsp;pentru
+                                    autoutilitare. Alte detalii aferente ofertei sunt disponibile in paginile de promotie
+                                    detaliate pe ford.ro si in reteaua de reparatori autorizati Ford.<br>Perioada derularii
+                                    acestei campanii: 1 Ianuarie 2018 &ndash; 28 Februarie 2018.</em></div>
                         </div>
                     </div>
                 </div>

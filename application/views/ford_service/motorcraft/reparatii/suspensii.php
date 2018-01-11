@@ -377,12 +377,12 @@
                         document.id('menu1205094744306').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205094747404' class=''>
-                    <a href='Antigel'/>Lichid de r&#259;cire (antigel)</a>
-                    <script type="text/javascript">
-                        document.id('menu1205094747404').addClass("navnextSteps");
-                    </script>
-                </li>
+                <!--       <li id='menu1205094747404' class=''>
+                           <a href='Antigel'/>Lichid de r&#259;cire (antigel)</a>
+                           <script type="text/javascript">
+                               document.id('menu1205094747404').addClass("navnextSteps");
+                           </script>
+                       </li>  -->
                 <li class="selected"><p>Suspensii</p></li>
                 <li id='menu1205094745568' class=''>
                     <a href='AerConditionat'/>Verificare vizuala AC</a>
@@ -494,9 +494,8 @@
                                         td.CusTab-tick {
                                             color: #0070c0;
                                         }</style>
-                                    <table width="100%" cellspacing="0" cellpadding="0" border="0"
-                                           style="border-collapse: collapse"
-                                           class="CusTab">
+                                    <table style="border-collapse: collapse" class="CusTab" width="100%" cellspacing="0" cellpadding="0"
+                                           border="0">
                                         <colgroup>
                                             <col style="width: 20%"/>
                                             <col style="width: 16%"/>
@@ -510,40 +509,36 @@
                                             <td>Reparatii</td>
                                             <td>Fiesta, Fusion</td>
                                             <td>Focus, C-MAX</td>
-                                            <td>Mondeo, S-MAX, Galaxy, Kuga</td>
+                                            <td>Mondeo, S-MAX, Kuga</td>
                                             <td>Ford Transit Connect, Ford Tourneo Connect</td>
                                             <td>Ford Transit</td>
                                         </tr>
                                         <tr class="CusTab-dark">
                                             <td class="CusTab-dark-left">Set amortizoare spate</td>
-                                            <td><span style="font-size: large">410 lei <br>             </span></td>
-                                            <td><span style="font-size: large">540 lei <br>             </span></td>
+                                            <td><span style="font-size: large">435 lei <br>             </span></td>
+                                            <td><span style="font-size: large">550 lei <br>             </span></td>
                                             <td><span style="font-size: large">600 lei <br>             </span></td>
-                                            <td><span style="font-size: large">450 lei </span></td>
+                                            <td><span style="font-size: large">472 lei </span></td>
                                             <td><span style="font-size: large">-</span></td>
                                         </tr>
                                         <tr class="CusTab-light">
                                             <td class="CusTab-dark-left">Set amortizoare fata</td>
-                                            <td><span style="font-size: large">530 lei <br>             </span></td>
-                                            <td><span style="font-size: large">590 lei <br>             </span></td>
-                                            <td><span style="font-size: large">755 lei <br>             </span></td>
-                                            <td><span style="font-size: large">560 lei </span></td>
-                                            <td><span style="font-size: large">1.520 lei </span></td>
+                                            <td><span style="font-size: large">560 lei <br>             </span></td>
+                                            <td><span style="font-size: large">625 lei <br>             </span></td>
+                                            <td><span style="font-size: large">760 lei <br>             </span></td>
+                                            <td><span style="font-size: large">588 lei </span></td>
+                                            <td><span style="font-size: large">1.610 lei </span></td>
                                         </tr>
                                         </tbody>
                                     </table>
                                 </div>
-                                <br> <em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate in lei,
-                                    contin TVA conform legislatiei in vigoare si includ pretul manoperei. Oferta nu
-                                    include componentele tehnologice. De asemenea, aceasta oferta este supusa termenilor
-                                    si conditiilor afisate, este valabila in limita stocului disponibil si se poate
-                                    modifica in functie de seria de sasiu. Oferta nu se aplica anumitor modele de
-                                    autovehicule (spre exemplu: modelul Fiesta fabricat ulterior anului 2012; modelul
-                                    Focus fabricat in intervalul 2011-2015; modelele S-Max/Galaxy fabricate in
-                                    intervalul 2006-2015). Alte detalii aferente ofertei sunt disponibile in paginile de
-                                    promotie detaliate pe ford.ro si in reteaua de reparatori autorizati Ford.
-                                    Perioada derularii acestei campanii: 01 septembrie 2017 - 31 decembrie 2017. </em>
-                            </div>
+                                <br> <em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin TVA conform
+                                    legislatiei &icirc;n vigoare. Oferta nu include componentele tehnologice, este supusa termenilor si
+                                    conditiilor afisate si este valabila in limita stocului disponibil. De asemenea, oferta se poate
+                                    modifica in functie de seria de sasiu. Schimbul de ulei este inclus in preturile mentionate in limita a
+                                    5l pentru autoturisme si 7l &nbsp;pentru autoutilitare. Alte detalii aferente ofertei sunt disponibile
+                                    in paginile de promotie detaliate pe ford.ro si in reteaua de reparatori autorizati Ford. <br> Perioada
+                                    derularii acestei campanii: 1 Ianuarie 2018 &ndash; 28 Februarie 2018. </em></div>
                         </div>
                     </div>
                 </div>

@@ -280,6 +280,7 @@
 
             #wrapper #frame {
                 top: -3 px\9
+
             }
         </style>
         <div class="navmenu">
@@ -612,7 +613,8 @@ return false;"
                             </div>
                             <div class='BTIarticleBody'>
                                 <div class='BTIarticleText'>
-                                    <div><em><span style="font-size: x-small;">Pre-verificarea ITP este gratuită doar pentru autovehiculele Ford şi reprezintă o inspecţie sumară (la nivel vizual şi mecanic) a autovehiculelor; eventualele reparaţii necesare &icirc;n urma acesteia reprezintă servicii contra cost şi se comandă separat. Inspecţia ITP se face &icirc;n service-uri autorizate &icirc;n acest sens de Registrul Auto Roman. </span></em>
+                                    <div><em><span style="font-size: x-small;">*Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin TVA conform legislatiei în vigoare. Oferta nu include componentele tehnologice, este supusa termenilor si conditiilor afisate si este valabila in limita stocului disponibil. De asemenea, oferta se poate modifica in functie de seria de sasiu. Schimbul de ulei este inclus in preturile mentionate in limita a 5l pentru autoturisme si 7l  pentru autoutilitare. Alte detalii aferente ofertei sunt disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de reparatori autorizati Ford.
+Perioada derularii acestei campanii: 1 Ianuarie 2018 – 28 Februarie 2018. </span></em>
                                     </div>
                                 </div>
                             </div>
@@ -687,8 +689,9 @@ return false;"
 </div>
 
 <div class="mid_page_promo">
-    <a href='https://wwwprod-ro.engine.ford.com/SBE/OSBOV?dc=10300' target="_self" >
-        <img src="/assets/img/1214613372064.jpg" border="0" alt="Programari service" title="Programari service"  height = '113'  width = '557' />
+    <a href='https://wwwprod-ro.engine.ford.com/SBE/OSBOV?dc=10300' target="_self">
+        <img src="/assets/img/1214613372064.jpg" border="0" alt="Programari service" title="Programari service"
+             height='113' width='557'/>
     </a>
 </div>
 <!-- TD 8042 - AddThis Social Book Marking tool display Starts-->
@@ -706,12 +709,12 @@ return false;"
     <!-- <End> -->
     <div class="right_item">
         <!--<START_SSP001 >-->
-      <!--  <div class="skyscraper_promo">
-            <a href='https://wwwprod-ro.engine.ford.com/SBE/OSBOV?dc=10300' target="_self">
-                <img src="/assets/img/service/1214513078990.jpg" border="0" alt="Book an Appointment"
-                     title="Book an Appointment" height='185' width='185'/>
-            </a>
-        </div> -->
+        <!--  <div class="skyscraper_promo">
+              <a href='https://wwwprod-ro.engine.ford.com/SBE/OSBOV?dc=10300' target="_self">
+                  <img src="/assets/img/service/1214513078990.jpg" border="0" alt="Book an Appointment"
+                       title="Book an Appointment" height='185' width='185'/>
+              </a>
+          </div> -->
         <!--<END_SSP001 >-->
         <!--<START_SSP001 >-->
         <div class="skyscraper_promo">
