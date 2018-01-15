@@ -112,6 +112,14 @@
                             Email: <a href="mailto:crcro@ford.com">adi.brezeanu@fordautotechnic.ro</a>
                             <br>
                         </blockquote>
+                        <blockquote><strong> GARANTII </strong><br>
+                            Responsabil Garantii - <b>Eduard Botas</b>
+                            <br>
+                            Tel: 0737 992 852
+                            <br>
+                            Email: <a href="mailto:crcro@ford.com">garantii@fordautotechnic.ro</a>
+                            <br>
+                        </blockquote>
                         <blockquote><strong>ITP </strong><br>
                             Responsabil ITP - <b>Pop Florin</b>
                             <br>
