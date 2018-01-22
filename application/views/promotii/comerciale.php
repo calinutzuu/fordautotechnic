@@ -25,8 +25,8 @@
             </div>  -->
         <section class="mid-page-content">
             <div class="tab-content">
-                1214643622010
-                <article class="content-column centered">
+                
+         <!--       <article class="content-column centered">
                     <div class="content centered">
                         <div class="img-column">
                             <img src="/assets/img/promotii/1214644135696.jpg"
@@ -47,7 +47,7 @@
                     </div>
 
                     <br>
-                </article>
+                </article> -->
             </div>
 
             <script type='text/javascript'>var OM = OM || {};

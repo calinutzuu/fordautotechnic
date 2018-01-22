@@ -53,67 +53,7 @@
 
         </article>
 
-        <article class="content-column left">
-            <div class="img-column"><img
-                    src="/assets/img/1214643010241.jpg"
-                    alt="Noul Kuga Ford"/><span class="fv-overlay-icon"></span></a></div>
-            <div class="content centered">
-                <h3 class="bigHeading02">
-                    CEL MAI NOU SUV FORD, CU O OFERTA SPECIALA
-                </h3>
 
-                <p>
-
-                <p>Gandit pentru actiune; dotat pentru confort; cu un design care impresioneaza si cu numeroase
-                    tehnologii
-                    inteligente,<br> noul Kuga este cel mai recent Smart Utility Vehicle de la Ford. Iar cu oferta
-                    promotionala ai
-                    un pret special pentru <br>SUV-ul care iti va deschide noi posibilitati: doar 19.500 &euro;* (TVA
-                    inclus).<br>
-                    <br> <a HREF="/Promotii/Autoturisme/NoulKUGA"><span style="color: rgb(0, 0, 255);"><u>Vezi oferta
-                                speciala</u></span> </a></p>
-                </p>
-            </div>
-        </article>
-
-        <article class="content-column centered">
-            <div class="content centered">
-                <div class="img-column"><img
-                        src="/assets/img/promotii/1214643441446.jpg"
-                        alt="Promotii STLine"/><span class="fv-overlay-icon"></span></a></div>
-                <h3 class="bigHeading02 centered">
-                    REDEFINESTE STILUL SPORT ELEGANT - MONDEO ST-LINE CU 0% DOBANDA!
-                </h3>
-
-                <p>
-
-                <p>Ce te inspira mai mult? Tehnologia, eleganta, designul sau fiabilitatea?<br> Cu Ford Mondeo ST Line
-                    nu trebuie sa alegi. Le ai pe toate, cu un plus de sportivitate, stil si confort.<br><br> <span
-                        style="color: rgb(0, 0, 255);"><u><a HREF="/Promotii/Autoturisme/Mondeo-STLine">Vezi detaliile
-                                promotiei </a></u></span></p>
-                </p>
-            </div>
-
-        </article>
-        <article class="content-column centered">
-            <div class="img-column"><img
-                    src="/assets/img/1214643442579.jpg"
-                    alt="Ford Business Weeks"/><span class="fv-overlay-icon"></span></a></div>
-            <div class="content centered">
-                <h3 class="bigHeading02">
-                    Ford Business Weeks
-                </h3>
-
-                <p>
-
-                <p>Cand ai propria afacere, te afli pe un drum lung, plin de provocari si obstacole. Un drum <br>pentru
-                    care
-                    ai nevoie de un partener pe masura.<br> <br> Descopera oferta speciala FORD<strong> BUSINESS
-                        PARTNER</strong> - 0% avans si pachet de servicii all inclusive.<br> <br> <a
-                        HREF="/Promotii/Autoturisme/Business-Weeks"><u>Vezi oferta speciala</u></a></p>
-                </p>
-            </div>
-        </article>
 
         <article class="content-column centered">
             <div class="img-column"><img
@@ -145,7 +85,7 @@
 
         </article>
 
-        <article class="content-column centered">
+      <!--  <article class="content-column centered">
             <div class="img-column"> <img
                         src="/assets/img/1214648120428.jpg"
                         alt="Ford Edge"/><span class="fv-overlay-icon"></span></div>
@@ -164,7 +104,7 @@
                 </p>
                 </p>
             </div>
-        </article>
+        </article> -->
         <!--     <article class="content-column right">
                  <div class="content centered">
                      <div class="img-column">
