@@ -23,81 +23,102 @@
 
 </nav>
 <section id="fv-wrapper">
-<section id="carouselize" class="carousel-container carousel"></section>
-<section class="mid-page-content">
-    <div class="tab-content">
+    <section id="carouselize" class="carousel-container carousel"></section>
+    <section class="mid-page-content">
+        <div class="tab-content">
 
 
-        <article class="content-column centered">
-            <div class="img-column centered"><img
-                    src="/assets/img/1214641470334.jpg"
-                    alt="Noul Ford EcoSport"/><span class="fv-overlay-icon"></span></a></div>
-            <div class="content centered">
-                <h3 class="bigHeading02">
-                    AVENTURA TA ECOSPORT INCEPE CU DOAR 750 LEI / LUNA*
-                </h3>
+            <article class="content-column centered">
+                <div class="img-column centered"><img
+                        src="/assets/img/1214641470334.jpg"
+                        alt="Noul Ford EcoSport"/><span class="fv-overlay-icon"></span></a></div>
+                <div class="content centered">
+                    <h3 class="bigHeading02">
+                        AVENTURA TA ECOSPORT INCEPE CU DOAR 750 LEI / LUNA*
+                    </h3>
 
-                <p>
+                    <p>
 
-                <p>Iti doresti o masina eficienta si inteligenta? Care sa arate si sa se comporte ca un SUV, dar <br>cu
-                    un
-                    plus de rafinament si design? Si care sa iti garanteze incredere la volan?<br>
-                    <br>
-                    Fii gata sa faci cunostinta cu noul model Ford EcoSport!<br>
-                    <br>
-                    <u><span style="color: rgb(0, 0, 255);"><a HREF="/Promotii/Autoturisme/Noul-EcoSport"><span
-                                    style="color: rgb(0, 0, 255);">Vezi oferta speciala de prelansare</span></a></span></u>
-                </p>
-                </p>
-            </div>
+                    <p>Iti doresti o masina eficienta si inteligenta? Care sa arate si sa se comporte ca un SUV, dar
+                        <br>cu
+                        un
+                        plus de rafinament si design? Si care sa iti garanteze incredere la volan?<br>
+                        <br>
+                        Fii gata sa faci cunostinta cu noul model Ford EcoSport!<br>
+                        <br>
+                        <u><span style="color: rgb(0, 0, 255);"><a HREF="/Promotii/Autoturisme/Noul-EcoSport"><span
+                                        style="color: rgb(0, 0, 255);">Vezi oferta speciala de prelansare</span></a></span></u>
+                    </p>
+                    </p>
+                </div>
 
-        </article>
+            </article>
 
 
+            <article class="content-column centered">
+                <div class="img-column"><img
+                        src="/assets/img/1214643442382.jpg"
+                        alt="Ford Focus"/><span class="fv-overlay-icon"></span></div>
+                <div class="content centered">
+                    <h3 class="bigHeading02">
+                        Mergi mai departe cu Ford Ecobonus!
+                    </h3>
 
-        <article class="content-column centered">
-            <div class="img-column"><img
-                    src="/assets/img/1214643442382.jpg"
-                    alt="Ford Focus"/><span class="fv-overlay-icon"></span></div>
-            <div class="content centered">
-                <h3 class="bigHeading02">
-                    Mergi mai departe cu Ford Ecobonus!
-                </h3>
+                    <p>
 
-                <p>
+                    <p>Vrei sa schimbi masina veche? Inca poti sa o faci, chiar daca nu ai prins programul rabla. Ford a
+                        relansat <br>campania Ecobonus si iti oferta un bonus garantat de 1.500 &euro;, la casarea
+                        masinii
+                        vechi.</p>
 
-                <p>Vrei sa schimbi masina veche? Inca poti sa o faci, chiar daca nu ai prins programul rabla. Ford a
-                    relansat <br>campania Ecobonus si iti oferta un bonus garantat de 1.500 &euro;, la casarea masinii
-                    vechi.</p>
+                    <p>Concret, asta inseamna:</p>
 
-                <p>Concret, asta inseamna:</p>
+                    <p>- Rata lunara de la 600 lei, prin creditul auto in lei;</p>
 
-                <p>- Rata lunara de la 600 lei, prin creditul auto in lei;</p>
+                    <p>- Garantie extinsa de la 2+3 ani / 100.000 km;</p>
 
-                <p>- Garantie extinsa de la 2+3 ani / 100.000 km;</p>
+                    <p>- Dotari suplimentare prin pachetele optionale incluse in pret.</p>
 
-                <p>- Dotari suplimentare prin pachetele optionale incluse in pret.</p>
+                    <p>Oferta se cumuleaza cu celelalte promotii si oferte aflate in derulare.<br> <br> <a
+                            HREF="/Promotii/Autoturisme/Ecobonus"><u>Click aici pentru mai multe detalii</u></a></p>
+                    </p> <br>
+                </div>
 
-                <p>Oferta se cumuleaza cu celelalte promotii si oferte aflate in derulare.<br> <br> <a
-                        HREF="/Promotii/Autoturisme/Ecobonus"><u>Click aici pentru mai multe detalii</u></a></p>
-                </p> <br>
-            </div>
+            </article>
 
-        </article>
+            <article class="content-column centered">
+                <div class="content">
+                    <h3 class="bigHeading02">
+                        CEL MAI NOU SUV FORD, CU O OFERTA SPECIALA
+                    </h3>
 
-      <!--  <article class="content-column centered">
-            <div class="img-column"> <img
-                        src="/assets/img/1214648120428.jpg"
-                        alt="Ford Edge"/><span class="fv-overlay-icon"></span></div>
-            <div class="content centered">
-                <h3 class="bigHeading02">
-                    Urca in varf...de gama!
-                </h3>
+                    <p>
 
-                <p>
+                    <p>Gandit pentru actiune; dotat pentru confort; cu un design care impresioneaza si cu numeroase
+                        tehnologii inteligente, noul Kuga <br> este cel mai recent Smart Utility Vehicle de la Ford. Iar cu
+                        oferta promotionala ai un pret special pentru SUV-ul <br>care iti va deschide noi posibilitati: doar
+                        18.500 &euro;* (TVA inclus).<br> <br> <a HREF="/Promotii/Autoturisme/NoulKUGA"><u>Vezi oferta
+                                speciala </u></a></p>
+                    </p>
+                </div>
+                <div class="img-column"><img
+                            src="/assets/img/1214653307381."
+                            alt="Ford Kuga"/><span class="fv-overlay-icon"></span></a></div>
+            </article>
 
-                <p>Tehnologie, design, confort, siguranta - poti experimenta chiar acum toate acestea, la volanul unui
-                    Ford Edge,</br> profitand de oferta speciala: avantaj client de 8.500&nbsp;&euro;* (TVA inclus), pentru</br>
+            <!--  <article class="content-column centered">
+                  <div class="img-column"> <img
+                              src="/assets/img/1214648120428.jpg"
+                              alt="Ford Edge"/><span class="fv-overlay-icon"></span></div>
+                  <div class="content centered">
+                      <h3 class="bigHeading02">
+                          Urca in varf...de gama!
+                      </h3>
+
+                      <p>
+
+                      <p>Tehnologie, design, confort, siguranta - poti experimenta chiar acum toate acestea, la volanul unui
+                          Ford Edge,</br> profitand de oferta speciala: avantaj client de 8.500&nbsp;&euro;* (TVA inclus), pentru</br>
                     modelul Titanium, cu motorizare 2.0&nbsp;TDCi 210&nbsp;CP, transmisie Powershift.<br>
                     <br>
                     <a HREF="/Promotii/Autoturisme/Edge"><span style="color: rgb(0, 0, 255);"><u>Descopera promotia</u></span></a>
@@ -105,102 +126,102 @@
                 </p>
             </div>
         </article> -->
-        <!--     <article class="content-column right">
-                 <div class="content centered">
-                     <div class="img-column">
-                         <img src="/assets/img/1214616617939.jpg" alt="Noul Ford Kuga Oferta"/><span
-                             class="fv-overlay-icon"></span></div>
-                     <br>
+            <!--     <article class="content-column right">
+                     <div class="content centered">
+                         <div class="img-column">
+                             <img src="/assets/img/1214616617939.jpg" alt="Noul Ford Kuga Oferta"/><span
+                                 class="fv-overlay-icon"></span></div>
+                         <br>
 
-                     <h3 class="bigHeading02">
-                         CEL MAI NOU SUV FORD, CU O OFERTA SPECIALA!
-                     </h3>
+                         <h3 class="bigHeading02">
+                             CEL MAI NOU SUV FORD, CU O OFERTA SPECIALA!
+                         </h3>
 
-                     <p>
+                         <p>
 
-                     <p>Gandit pentru actiune; dotat pentru confort; cu un design care impresioneaza si cu numeroase
-                         tehnologii inteligente, noul Kuga<br> este cel mai recent Smart Utility Vehicle de la Ford.
-                         Iar
-                         cu oferta promotionala ai un pret special pentru SUV-ul care iti va<br>deschide noi
-                         posibilitati: doar 19.500 &euro;* (TVA inclus).<br> <br> <a
+                         <p>Gandit pentru actiune; dotat pentru confort; cu un design care impresioneaza si cu numeroase
+                             tehnologii inteligente, noul Kuga<br> este cel mai recent Smart Utility Vehicle de la Ford.
+                             Iar
+                             cu oferta promotionala ai un pret special pentru SUV-ul care iti va<br>deschide noi
+                             posibilitati: doar 19.500 &euro;* (TVA inclus).<br> <br> <a
                                 HREF="/Promotii/Autoturisme/NoulKUGA"><span style="color: rgb(0, 0, 255);"><u>Vezi
                                         oferta speciala</u></span></a></p>
                         </p>
                     </div>
                     <br>
                 </article> -- >
-        <!--   <article class="content-column centered">
-               <div class="img-column"><img src="/assets/img/1214619333771.jpg"
-                                            alt="Ford Business Weeks Autoturisme"/><span
-                       class="fv-overlay-icon"></span></div>
-               <div class="content centered">
-                   <h3 class="bigHeading02">
-                       BENEFICII DE EXCEPTIE PENTRU AFACEREA TA!
-                   </h3>
+            <!--   <article class="content-column centered">
+                   <div class="img-column"><img src="/assets/img/1214619333771.jpg"
+                                                alt="Ford Business Weeks Autoturisme"/><span
+                           class="fv-overlay-icon"></span></div>
+                   <div class="content centered">
+                       <h3 class="bigHeading02">
+                           BENEFICII DE EXCEPTIE PENTRU AFACEREA TA!
+                       </h3>
 
-                   <p>
+                       <p>
 
-                   <p>Cand ai propria afacere, ai nevoie de parteneri pe care sa te poti baza.<br>
-                       <br>
-                       Vino la Ford Business Weeks si alege, din gama noastra de autoturisme, modelul care ti se
-                       potriveste. Fie ca alegi Ford Fiesta, <br> Focus, Mondeo sau Kuga, te sprijinim in drumul spre
-                       succes, cu beneficii de exceptie pentru afacerea ta: conditii speciale de <br>finantare si un
-                       pachet complet de avantaje.<br>
-                       <br>
-                       <a HREF="/Promotii/Autoturisme/BusinessWeeks"><span style="color: rgb(0, 0, 255);"><u>Vezi
-                                   detaliile promotiei</u></span> </a></p>
-                   </p>
-               </div>
-           </article>
-           -->
-    </div>
-</section>
-<br>
-<script type='text/javascript'>var OM = OM || {};
-    //ONCLICK 1205060261500om_he_pv_tc
-    OM.om_he_pv_tc = { "tag": "pv nav true choice link", "clickType": "o"};</script>
-<!-- OMNITURE ME -->
-<script type="text/javascript"
-        src="../cs/ContentServer1756?cid=1204986890525&amp;pagename=ENGInE%2Ftagging%2FOmnitureScript"></script>
-<script type="text/javascript">var sford = new Object;
-    sford.tabName = '';
-    sford.pageName = 'brand:promotions:car:overview';
-    sford.dlwasSent = false;
-    sford.eVar11 = 'brand:promotions:car:overview';
-    sford.hier1 = 'shopping tools:promotions';
-    sford.tagViewPhoto = '';
-    sford.tagHighlights = '';
-    sford.tagDownload = '';
-    s.pageName = 'brand:promotions:car:overview';
-    s.hier1 = 'shopping tools:promotions';
-    s.channel = 'promotions';
-    s.eVar4 = 'rum';
-    s.prop4 = 'rum';
-    s.eVar11 = 'brand:promotions:car:overview';
-    s.prop11 = 'brand:promotions:car:overview';
-    s.eVar14 = 'ford-ro';
-    s.prop14 = 'ford-ro';
-    s.eVar15 = 'ford-brand';
-    s.prop15 = 'ford-brand';</script>
-<script type="text/javascript">
-    // <![CDATA[
-    var __dOC = false;
-    if (typeof(sford) == 'object') {
-        s.pageName = s.pageName.replace(":<tab name>", "");
-        s.eVar11 = s.eVar11.replace(":<tab name>", "");
-        s.prop11 = s.eVar11;
+                       <p>Cand ai propria afacere, ai nevoie de parteneri pe care sa te poti baza.<br>
+                           <br>
+                           Vino la Ford Business Weeks si alege, din gama noastra de autoturisme, modelul care ti se
+                           potriveste. Fie ca alegi Ford Fiesta, <br> Focus, Mondeo sau Kuga, te sprijinim in drumul spre
+                           succes, cu beneficii de exceptie pentru afacerea ta: conditii speciale de <br>finantare si un
+                           pachet complet de avantaje.<br>
+                           <br>
+                           <a HREF="/Promotii/Autoturisme/BusinessWeeks"><span style="color: rgb(0, 0, 255);"><u>Vezi
+                                       detaliile promotiei</u></span> </a></p>
+                       </p>
+                   </div>
+               </article>
+               -->
+        </div>
+    </section>
+    <br>
+    <script type='text/javascript'>var OM = OM || {};
+        //ONCLICK 1205060261500om_he_pv_tc
+        OM.om_he_pv_tc = { "tag": "pv nav true choice link", "clickType": "o"};</script>
+    <!-- OMNITURE ME -->
+    <script type="text/javascript"
+            src="../cs/ContentServer1756?cid=1204986890525&amp;pagename=ENGInE%2Ftagging%2FOmnitureScript"></script>
+    <script type="text/javascript">var sford = new Object;
+        sford.tabName = '';
+        sford.pageName = 'brand:promotions:car:overview';
+        sford.dlwasSent = false;
+        sford.eVar11 = 'brand:promotions:car:overview';
+        sford.hier1 = 'shopping tools:promotions';
+        sford.tagViewPhoto = '';
+        sford.tagHighlights = '';
+        sford.tagDownload = '';
+        s.pageName = 'brand:promotions:car:overview';
+        s.hier1 = 'shopping tools:promotions';
+        s.channel = 'promotions';
+        s.eVar4 = 'rum';
+        s.prop4 = 'rum';
+        s.eVar11 = 'brand:promotions:car:overview';
+        s.prop11 = 'brand:promotions:car:overview';
+        s.eVar14 = 'ford-ro';
+        s.prop14 = 'ford-ro';
+        s.eVar15 = 'ford-brand';
+        s.prop15 = 'ford-brand';</script>
+    <script type="text/javascript">
+        // <![CDATA[
+        var __dOC = false;
+        if (typeof(sford) == 'object') {
+            s.pageName = s.pageName.replace(":<tab name>", "");
+            s.eVar11 = s.eVar11.replace(":<tab name>", "");
+            s.prop11 = s.eVar11;
 // searchResultPageNumber
-        if (typeof searchResultPageNumber == "string") {
-            sford.searchPagenumber = searchResultPageNumber;
+            if (typeof searchResultPageNumber == "string") {
+                sford.searchPagenumber = searchResultPageNumber;
+            }
         }
-    }
-    if (typeof(attachLoadEvent) == 'function') {
-        attachLoadEvent(onPageLoad);
-    } else {
-        $(document).ready(onPageLoad);
-    }
-    // ]]>
-</script>
+        if (typeof(attachLoadEvent) == 'function') {
+            attachLoadEvent(onPageLoad);
+        } else {
+            $(document).ready(onPageLoad);
+        }
+        // ]]>
+    </script>
 </section>
 <article class="btfDisclaimer">
     <p></p>

@@ -25,7 +25,7 @@
             </div>  -->
         <section class="mid-page-content">
             <div class="tab-content">
-                
+
          <!--       <article class="content-column centered">
                     <div class="content centered">
                         <div class="img-column">
