@@ -26,28 +26,52 @@
         <section class="mid-page-content">
             <div class="tab-content">
 
-         <!--       <article class="content-column centered">
-                    <div class="content centered">
-                        <div class="img-column">
-                            <img src="/assets/img/promotii/1214644135696.jpg"
-                                 alt="Ford Transit Custom Business"/><span class="fv-overlay-icon"></span></div>
-                        <h3 class="bigHeading02 centered">
-                            Ford Business Weeks
-                        </h3>
+                <article class="content-column centered">
+                    <div class="content">
 
+                        <div class="img-column"><img
+                                src="/assets/img/1214653399538.jpg"
+                                alt="Ranger off road"/></div>
+<br>
+                        <h3 class="bigHeading02">
+                            NOUL FORD RANGER, DE LA 290 €* / LUNA, CU PACHETUL OFF-ROAD
+                        </h3>
+<br>
                         <p>
 
-                        <p>Cand ai propria afacere, te afli pe un drum lung, plin de <br> provocari si obstacole. Un
-                            drum
-                            pentru care ai nevoie de un partener pe masura.<br> <br> Descopera oferta speciala
-                            FORD<strong> BUSINESS PARTNER</strong> - 0% avans* <br>si pachet de servicii all
-                            inclusive.<br>
-                            <br> <a HREF="/Promotii/comerciale/Business-Weeks"><u>Vezi oferta speciala</u></a></p>
+                        <p>Ford a proiectat pentru tine un pick-up truck 4x4 de exceptie, pentru ca tu sa poti fauri noi
+                            drumuri, acolo <br> unde altii vad numai obstacole. Misiunea ta poate incepe acum, avand alaturi
+                            un partener <br>cum n-ai mai intalnit, de la 290 de euro/luna!<br> <br> <a
+                                HREF="/Promotii/comerciale/Ranger"><u>Vezi oferta speciala </u></a><br> <br> <em><span
+                                    style="font-size: smaller;">*Termeni si conditii in pagina de promotie</span></em>
+                        </p>
                         </p>
                     </div>
 
-                    <br>
-                </article> -->
+                </article>
+
+                <!--       <article class="content-column centered">
+                           <div class="content centered">
+                               <div class="img-column">
+                                   <img src="/assets/img/promotii/1214644135696.jpg"
+                                        alt="Ford Transit Custom Business"/><span class="fv-overlay-icon"></span></div>
+                               <h3 class="bigHeading02 centered">
+                                   Ford Business Weeks
+                               </h3>
+
+                               <p>
+
+                               <p>Cand ai propria afacere, te afli pe un drum lung, plin de <br> provocari si obstacole. Un
+                                   drum
+                                   pentru care ai nevoie de un partener pe masura.<br> <br> Descopera oferta speciala
+                                   FORD<strong> BUSINESS PARTNER</strong> - 0% avans* <br>si pachet de servicii all
+                                   inclusive.<br>
+                                   <br> <a HREF="/Promotii/comerciale/Business-Weeks"><u>Vezi oferta speciala</u></a></p>
+                               </p>
+                           </div>
+
+                           <br>
+                       </article> -->
             </div>
 
             <script type='text/javascript'>var OM = OM || {};

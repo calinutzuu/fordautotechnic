@@ -102,7 +102,7 @@
                     </p>
                 </div>
                 <div class="img-column"><img
-                            src="/assets/img/1214653307381."
+                            src="/assets/img/1214653307381.jpg"
                             alt="Ford Kuga"/><span class="fv-overlay-icon"></span></a></div>
             </article>
 

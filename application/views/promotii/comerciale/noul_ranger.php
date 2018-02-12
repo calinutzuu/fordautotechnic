@@ -11,52 +11,57 @@
             <div class="tab-content">
                 <header class="intro-header">
                     <h1 class="bigHeading">
-                        NOUL FORD <b>RANGER</b> CU DOAR 288 €* / LUNA, </br></br>CU PACHETUL OFF-ROAD
+                        RANGER. NOUL FORD RANGER. AL TAU DE LA 290 DE EURO PE LUNA!
                     </h1>
+                    <br>
                     <span class="highlighter"></span>
 
                     <p class="intro-text">
-                        </br>
-                    <p style="text-align: left;">Stilat, dar solid. Indraznet, dar sofisticat. Utilitar, dar
-                        remarcabil.<br>
-                        &nbsp;</p>
 
-                    <p style="text-align: justify;">Cu o reputatie solida ca pick-up-ul pentru orice destinatie si
-                        incarcatura, Ford Ranger duce, prin noua generatie, si mai departe traditia off-road, adaugand
-                        un nou nivel de comfort si functionalitate. Cu un design mai atragator, tehnologii avansate si
-                        toate caracteristicile de eficienta si utilitate care l-au consacrat, noul Ranger este pregatit
-                        sa transforme atat aventurile off-road cat si experientele urbane. <br>
-                        <br>
-                        Avand capacitatea sa transporte 1.403 kg si sa treaca prin apa adanca de pana la 800 mm, noul
-                        Ranger nu se limiteaza doar la aceste aspecte de utilitate si durabilitate. Seria de tehnologii
-                        inteligente precum Ford SYNC3, tempomatul adaptiv cu avertizare frontala sau sistemul de
-                        mentinere al benzii imbogatesc experienta si placerea condusului, pentru orice sofer. <br>
-                        <br>
-                        <br>
-                        Noul Ford Ranger este disponibil, acum, in cadrul unei oferte speciale:
-                    <nobr><strong>doar 288 &euro;*/luna</strong>;</nobr>
-                    oferta include <strong>garantia extinsa</strong> (2+2 ani sau 150.000 km) si <strong>pachetul
-                        Off-road</strong> &ndash; adica diferential spate blocabil si protectie metalica pentru motor,
-                    cutie de transfer si rezervor &ndash; la care se adauga vopseaua metalizata si carligul de
-                    remorcare.</p>
-                    <p style="text-align: left">In plus, beneficiezi de numeroase dotari de confort, cum ar fi:</p>
-
-                    <p style="text-align: left; margin-left: 150px;">&bull; Aer conditionat manual;<br>
-                        &bull; Oglinzi exterioare electrice si incalzite, rabatabile, in carcasa cromata;<br>
-                        &bull; Faruri automate;<br>
-                        &bull; Stergatoare parbriz automate cu senzor de ploaie;<br>
-                        &bull; Parbriz incalzit si duze spalare parbriz incalzite;<br>
-                        &bull; Volan imbracat in piele cu comenzi audio si pilot automat;</p>
-
-                    <p style="text-align: justify;">Vino sa descoperi noul Ford Ranger la noi in showroom si profita de
-                        oferta speciala! <br>
-<span style="font-size: x-small;"><br>
-* Pentru un Ford Ranger D-CAB XLT 2.2 160 CP cu pachet Off-road, carlig de remorcare si vopsea metalizata in valoare de 23.125 EUR + TVA ( 27.518 EUR TVA inclus), avans 6.937,5 EUR+ TVA ( 8.255,63 EUR TVA inclus), pe 60 luni: rata anuala a dobanzii (variabila) 1,99%, comision de analiza dosar 2,5% din prețul mașinii (578,13 EUR+ TVA / 687,97 EUR TVA inclus), comision lunar de administrare 0,05% (8,09 EUR + TVA ), valoarea ratei lunare 287,62 EUR + TVA ( 342,27 EUR TVA inclus) , valoarea totala platibila 25.136,08 EUR + TVA ( 29.912,07 EUR TVA inclus), DAE 4,76%. In calculul ratei lunare nu s-a inclus asigurarea CASCO. <br>
-<br>
-Aceasta oferta este supusa unor termene si conditii; se adreseaza persoanelor juridice; este realizata exclusiv prin UniCredit Leasing Corporation IFN SA. Oferta este valabila pana la data de 31.03.2017. Imaginea este cu titlu de prezentare. </span>
-                    </p>
-
-                    <div></div>
+                    <p>Design sau functionalitate? Constructie solida sau dotari inteligente? Viteza sau putere de
+                        tractiune?<br> <br> ...De ce nu toate la un loc?<br> <br> In definitiv, Ford Ranger a fost construit ca
+                        sa cucereasca lumea! Noua generatie Ford Ranger duce si mai departe calitatile care au consacrat gama
+                        Ranger in trecut si poti fi sigur ca, la volanul sau, vei transforma in realitate sloganul &bdquo;OFFROAD?
+                        DA! OFF-LINE? NICIODATA!&rdquo; <br> <br> Pentru un vehicul cu tractiune 4x4 si motor de 2.2 TDCi,
+                        performanta e lege datorita sistemelor inteligente de control si performanta: <br> <br> &bull; Sistemul
+                        Electronic de Stabilitate (ESP)<br> &bull; Franare Asistata in Viraje<br> &bull; Control al Fortei de
+                        Franare prin motor (EDC)<br> &bull; Asistenta la Franarea de Urgenta (EBA)<br> &bull; Controlul
+                        Electronic al Distributiei Greutatii (LAC)<br> &bull; Coborare Asistata a Pantelor (HDC) si Pornire
+                        Asistata in Panta (HLA)<br> &bull; Prevenire a Rasturnarii Laterale (TSA)<br> &bull; Controlul al
+                        Balansarii Remorcii (ROM).<br> <br> Acestor sisteme si caracteristici inteligente li se asorteaza
+                        perfect dotarile de functionalitate, cum ar fi farurile automate si stergatoarele de parbriz automate cu
+                        senzor de ploaie, parbrizul incalzit cu duze de spalare de asemenea incalzite, sau carligul de
+                        remorcare.<br> <br> In privinta designului, Ranger XLT e mai elegant ca niciodata, cu volanul si
+                        schimbatorul integral imbracate in piele.<br> <br> Transforma orice misiune aparent imposibila intr-un
+                        succes total, platind o rata lunara de la 290 Euro fara TVA*. Oferta speciala include: <br> <br> &bull;
+                        garantie complexa: 2 ani garantie legala + 2 ani garantie conventionala (in limita a 150.000
+                        km)<br> &bull; pachetul offroad. Acesta se traduce prin diferential spate blocabil, protectie metalica
+                        pentru motor, cutie de transfer si rezervor.<br> <br> Inca mai stai pe ganduri? Depaseste orice obstacol
+                        din calea ta cu noul Ranger XLT! <br> <br> Mergi la <a HREF="/SBE/TestDrive/TestDriveAutoturisme"><u>test
+                                drive</u></a> si convinge-te live de capacitatile unui vehicul cu adevarat unic.<br> <br> Sau
+                        contacteaza cel mai apropiat <a HREF="/SBE/dealeri-ford"><u>showroom</u></a> Ford si descopera mai multe
+                        detalii despre promotie. <br> <br> <em>*Termeni si conditii <br> <br> Oferta financiara se adreseaza
+                            persoanelor juridice si este este aferenta modelului Ford Ranger D-CAB XLT 2.2 TDCi 160CP 4X4, in
+                            valoare de 23.846 euro + TVA avans 31,5%, pe 60 luni: rata anuala a dobanzii (variabila) 1,99%,
+                            comision de analiza dosar 2,5% din pretul mașinii, comision lunar de administrare 0,05%, valoarea
+                            ratei lunare 289,9 Euro + TVA (345,02 Euro TVA inclus). In calculul ratei lunare nu s-a inclus
+                            asigurarea CASCO.<br> <br> Aceasta oferta include garantia extinsa (2+2 ani de garantie
+                            conventionala) sau 150.000 km, in functie de care dintre cele doua elemente (kilometraj sau timp)
+                            expira primul. Garantia extinsa acopera aceleasi componente ca si garantia de baza, cu urmatoarele
+                            exceptii: elemente supuse uzurii normale; piesele de schimb utilizate in cadrul reviziilor
+                            periodice; reparatii de caroserie si vopsitorie; geamuri; elemente de tapiserie precum si accesorii
+                            interioare sau exterioare; consumabile sau elemente supuse uzurii normale si accentuate precum si
+                            distrugerea accidentala a: caroseriei, vopsea, geamuri, scaune, ornamente interioare, sistemul de
+                            evacuare, placute de frana, discuri de frana, tamburi frana, suspensia McPherson, bujii, sigurante,
+                            amortizoare, stergatoare, baterii, filtre de aer, filtre de polen, filtre de ulei, filtre carburant,
+                            baterii autovehicul, roti/anvelope, becuri, curele, disc ambreiaj.<br> <br> Oferta nu include
+                            contravaloarea unor echipamente, accesorii sau dotari optionale, suplimentar fata de cele incluse in
+                            pachetul offroad (diferential spate blocabil si protectie metalica pentru motor, cutie de transfer
+                            si rezervor). Oferta este supusa unor termene si conditii si este valabila in limita stocului de
+                            vehicule disponibil la dealerii participanti in program. Consumul mixt masurat in conformitate cu
+                            dispozitiile legale in vigoare (e.g Directiva Europeana nr 715/2007): 7,0l/100 km, emisii
+                            CO<sub>2</sub>( g/km) 184, valoare masurata in conformitate cu dispozitiile legale in vigoare.<br>
+                            <br> Oferta este valabila pana la data de 31.03.2018. Imaginea este cu titlu de prezentare.</em></p>
                     </p>
                 </header>
             </div>
