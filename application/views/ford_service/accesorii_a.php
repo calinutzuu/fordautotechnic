@@ -281,6 +281,7 @@
 
         #wrapper #frame {
             top: -3 px\9
+
         }
     </style>
     <div class="navmenu">
@@ -355,7 +356,7 @@
                     document.id('menu1205019843955').addClass("navnextSteps");
                 </script>
             </li>
-                        <li id='menu1205019836403' class=''>
+            <li id='menu1205019836403' class=''>
                 <a href='Ford-Lifestyle-Collection'/>Ford Lifestyle Collection</a>
                 <script type="text/javascript">
                     document.id('menu1205019836403').addClass("navnextSteps");
@@ -663,459 +664,477 @@ return false;"
 <div class="tab001_content_container">
 <div class="tab001_content">
 <div id="tab001-contentpane-0" class="tab001-pane-selected">
-    <div class='tab001_TabReco_ShowBTI001Collection'>
-        <div class="BTIRow">
-            <div class="BTIOneItem">
-                <div class="BTIImage">
-                    <div class="imgZoom">
-                        <a href="/assets/img/service/1214440980162.jpg"
-                           target="_blank"
-                           onmouseover="changeClassbyID('izid59918641205019833764','imgZoom_png_hovern')"
-                           onmouseout="changeClassbyID('izid59918641205019833764','imgZoom_png')"
-                           onclick="overlayStart('/assets/img/service/1214440980162.jpg'); return false;">
-                            <img
-                                src="/assets/img/service/1214440980163.jpg"
-                                border="0" width="97"
-                                height="97"
-                                alt="Accesorii online"
-                                title="Accesorii online"
-                                style="border: solid 1px #999999;">
-                        </a>
+<div class='tab001_TabReco_ShowBTI001Collection'>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIImage">
+            <div class="imgZoom">
+                <a href="/assets/img/service/1214440980162.jpg"
+                   target="_blank"
+                   onmouseover="changeClassbyID('izid59918641205019833764','imgZoom_png_hovern')"
+                   onmouseout="changeClassbyID('izid59918641205019833764','imgZoom_png')"
+                   onclick="overlayStart('/assets/img/service/1214440980162.jpg'); return false;">
+                    <img
+                        src="/assets/img/service/1214440980163.jpg"
+                        border="0" width="97"
+                        height="97"
+                        alt="Accesorii online"
+                        title="Accesorii online"
+                        style="border: solid 1px #999999;">
+                </a>
 
-                        <div>
-                            <a href="../cs/BlobServer9b39.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440980162&amp;blobkey=id"
-                               target="_blank" id="izid59918641205019833764" class="imgZoom_png" title='Zoom'
-                               onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440980162&#38;blobkey=id','image','Accesorii online','Închide'); return false;"></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="BTIarticleTitle">
-                    Toate accesoriile într-un singur loc.
-                </div>
-                <div class='BTIarticleBody'>
-                    <div class='BTIarticleText'>
-                        Adaugă o notă personal maşinii tale Ford, cu ajutorul gamei noastre ample de accesorii de calitate.
-                        Pe lângă broşurile pe care le găseşti la dealerul tău Ford, catalogul on-line îţi stă la dispoziţie
-                        la adresa <a href="http://www.accesorii-ford.ro/">www.accesorii-ford.ro</a>
-                    </div>
+                <div>
+                    <a href="../cs/BlobServer9b39.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440980162&amp;blobkey=id"
+                       target="_blank" id="izid59918641205019833764" class="imgZoom_png" title='Zoom'
+                       onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440980162&#38;blobkey=id','image','Accesorii online','Închide'); return false;"></a>
                 </div>
             </div>
         </div>
-        <div class="BTIRow">
-            <div class="BTIOneItem">
-                <div class="BTIImage">
-                    <div class="imgZoom">
-                        <a href="/assets/img/service/1214440980035.jpg"
-                           target="_blank" onmouseover="changeClassbyID('izid85687911205019833373','imgZoom_png_hovern')"
-                           onmouseout="changeClassbyID('izid85687911205019833373','imgZoom_png')"
-                           onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440980035&#38;blobkey=id','image','Focus','Închide'); return false;">
-                            <img
-                                src="/assets/img/service/1214440980036.jpg"
-                                border="0" width="97"
-                                height="97"
-                                alt="Focus"
-                                title="Focus"
-                                style="border: solid 1px #999999;">
-                        </a>
+        <div class="BTIarticleTitle">
+            Toate accesoriile într-un singur loc.
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                Adaugă o notă personal maşinii tale Ford, cu ajutorul gamei noastre ample de accesorii de calitate.
+                Pe lângă broşurile pe care le găseşti la dealerul tău Ford, catalogul on-line îţi stă la dispoziţie
+                la adresa <a href="http://www.accesorii-ford.ro/">www.accesorii-ford.ro</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIImage">
+            <div class="imgZoom">
+                <a href="/assets/img/service/1214440980035.jpg"
+                   target="_blank" onmouseover="changeClassbyID('izid85687911205019833373','imgZoom_png_hovern')"
+                   onmouseout="changeClassbyID('izid85687911205019833373','imgZoom_png')"
+                   onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440980035&#38;blobkey=id','image','Focus','Închide'); return false;">
+                    <img
+                        src="/assets/img/service/1214440980036.jpg"
+                        border="0" width="97"
+                        height="97"
+                        alt="Focus"
+                        title="Focus"
+                        style="border: solid 1px #999999;">
+                </a>
 
-                        <div>
-                            <a href="/assets/img/service/1214440980035.jpg"
-                               target="_blank" id="izid85687911205019833373" class="imgZoom_png" title='Zoom'
-                               onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440980035&#38;blobkey=id','image','Focus','Închide'); return false;"></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="BTIarticleTitle">
-                    Praguri
-                </div>
-                <div class='BTIarticleBody'>
-                    <div class='BTIarticleText'>
-                        Bucură-te de un Ford plin de stil. Poţi alege dintr-o gamă largă de praguri decorative, de &icirc;naltă
-                        calitate, pentru aproape toate modelele Ford. Iar dacă vrei ceva deosebit, poţi alege, chiar, praguri cu
-                        iluminare &icirc;n tonuri de albastru ori de roşu.
-                    </div>
+                <div>
+                    <a href="/assets/img/service/1214440980035.jpg"
+                       target="_blank" id="izid85687911205019833373" class="imgZoom_png" title='Zoom'
+                       onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440980035&#38;blobkey=id','image','Focus','Închide'); return false;"></a>
                 </div>
             </div>
         </div>
-        <div class="BTIRow">
-            <div class="BTIOneItem">
-                <div class="BTIImage">
-                    <div class="imgZoom">
-                        <a href="/assets/img/service/1214440982670.jpg"
-                           target="_blank" onmouseover="changeClassbyID('izid59551205019831649','imgZoom_png_hovern')"
-                           onmouseout="changeClassbyID('izid59551205019831649','imgZoom_png')"
-                           onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440982670&#38;blobkey=id','image','Focus','Închide'); return false;">
-                            <img
-                                src="/assets/img/service/1214440982671.jpg"
-                                border="0" width="97"
-                                height="97"
-                                alt="Focus"
-                                title="Focus"
-                                style="border: solid 1px #999999;">
-                        </a>
+        <div class="BTIarticleTitle">
+            Praguri
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                Bucură-te de un Ford plin de stil. Poţi alege dintr-o gamă largă de praguri decorative, de &icirc;naltă
+                calitate, pentru aproape toate modelele Ford. Iar dacă vrei ceva deosebit, poţi alege, chiar, praguri cu
+                iluminare &icirc;n tonuri de albastru ori de roşu.
+            </div>
+        </div>
+    </div>
+</div>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIImage">
+            <div class="imgZoom">
+                <a href="/assets/img/service/1214440982670.jpg"
+                   target="_blank" onmouseover="changeClassbyID('izid59551205019831649','imgZoom_png_hovern')"
+                   onmouseout="changeClassbyID('izid59551205019831649','imgZoom_png')"
+                   onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440982670&#38;blobkey=id','image','Focus','Închide'); return false;">
+                    <img
+                        src="/assets/img/service/1214440982671.jpg"
+                        border="0" width="97"
+                        height="97"
+                        alt="Focus"
+                        title="Focus"
+                        style="border: solid 1px #999999;">
+                </a>
 
-                        <div>
-                            <a href="/assets/img/service/1214440982670.jpg"
-                               target="_blank" id="izid59551205019831649" class="imgZoom_png" title='Zoom'
-                               onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440982670&#38;blobkey=id','image','Focus','Închide'); return false;"></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="BTIarticleTitle">
-                    Pachetul ornamental Sport
-                </div>
-                <div class='BTIarticleBody'>
-                    <div class='BTIarticleText'>
-                        Vehiculul tău Ford a fost stilizat şi construit cu atenţie, pentru a putea fi sigur că drumul tău prin
-                        viaţa este at&acirc;t inspirit, c&acirc;t şi relaxat. Aleg&acirc;nd din gama noastră de
-                        accesorii, &icirc;ţi poţi duce maşina cu &icirc;ncă un pas &icirc;n direcţia dinamismului,
-                        individualităţii &ndash; &icirc;n direcţia caracteristică ţie. Un exemplu &icirc;n acest sens &icirc;l
-                        constituie kiturile de caroserie tip sport, proiectate şi testate pentru a se potriv I perfect cu maşina
-                        ta şi cu stilul tău de viaţă.
-                    </div>
+                <div>
+                    <a href="/assets/img/service/1214440982670.jpg"
+                       target="_blank" id="izid59551205019831649" class="imgZoom_png" title='Zoom'
+                       onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440982670&#38;blobkey=id','image','Focus','Închide'); return false;"></a>
                 </div>
             </div>
         </div>
-        <div class="BTIRow">
-            <div class="BTIOneItem">
-                <div class="BTIImage">
-                    <div class="imgZoom">
-                        <a href="/assets/img/service/1214440983107.jpg"
-                           target="_blank" onmouseover="changeClassbyID('izid35538871205019842030','imgZoom_png_hovern')"
-                           onmouseout="changeClassbyID('izid35538871205019842030','imgZoom_png')"
-                           onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440983107&#38;blobkey=id','image','Portbagaj Thule','Închide'); return false;">
-                            <img
-                                src="/assets/img/service/1214440983108.jpg"
-                                border="0" width="97"
-                                height="97"
-                                alt="Portbagaj Thule"
-                                title="Portbagaj Thule"
-                                style="border: solid 1px #999999;">
-                        </a>
+        <div class="BTIarticleTitle">
+            Pachetul ornamental Sport
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                Vehiculul tău Ford a fost stilizat şi construit cu atenţie, pentru a putea fi sigur că drumul tău prin
+                viaţa este at&acirc;t inspirit, c&acirc;t şi relaxat. Aleg&acirc;nd din gama noastră de
+                accesorii, &icirc;ţi poţi duce maşina cu &icirc;ncă un pas &icirc;n direcţia dinamismului,
+                individualităţii &ndash; &icirc;n direcţia caracteristică ţie. Un exemplu &icirc;n acest sens &icirc;l
+                constituie kiturile de caroserie tip sport, proiectate şi testate pentru a se potriv I perfect cu maşina
+                ta şi cu stilul tău de viaţă.
+            </div>
+        </div>
+    </div>
+</div>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIImage">
+            <div class="imgZoom">
+                <a href="/assets/img/service/1214440983107.jpg"
+                   target="_blank" onmouseover="changeClassbyID('izid35538871205019842030','imgZoom_png_hovern')"
+                   onmouseout="changeClassbyID('izid35538871205019842030','imgZoom_png')"
+                   onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440983107&#38;blobkey=id','image','Portbagaj Thule','Închide'); return false;">
+                    <img
+                        src="/assets/img/service/1214440983108.jpg"
+                        border="0" width="97"
+                        height="97"
+                        alt="Portbagaj Thule"
+                        title="Portbagaj Thule"
+                        style="border: solid 1px #999999;">
+                </a>
 
-                        <div>
-                            <a href="../cs/BlobServer0a72.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440983107&amp;blobkey=id"
-                               target="_blank" id="izid35538871205019842030" class="imgZoom_png" title='Zoom'
-                               onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440983107&#38;blobkey=id','image','Portbagaj Thule','Închide'); return false;"></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="BTIarticleTitle">
-                    Bare transversale şi portbagaje de acoperiş Thule®
-                </div>
-                <div class='BTIarticleBody'>
-                    <div class='BTIarticleText'>
-                        Sistemul de bare transversal Ford este esenţial pentru instalarea echipamentelor pentru acoperiş.
-                        Sistemul permite instalarea unei mari varietăţi de echipamente pentru transport, adaptabile nevoilor
-                        fiecăruia. &Icirc;ţi punem la dispoziţie, de asemenea, o gamă amplă de echipamente Thule&reg; pentru
-                        transportarea materialelor pe acoperiş &ndash; cum ar fi cutiile de transport, suporturile pentru skiuri
-                        sau bicicletă.
-                    </div>
+                <div>
+                    <a href="../cs/BlobServer0a72.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440983107&amp;blobkey=id"
+                       target="_blank" id="izid35538871205019842030" class="imgZoom_png" title='Zoom'
+                       onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440983107&#38;blobkey=id','image','Portbagaj Thule','Închide'); return false;"></a>
                 </div>
             </div>
         </div>
-        <div class="BTIRow">
-            <div class="BTIOneItem">
-                <div class="BTIImage">
-                    <div class="imgZoom">
-                        <a href="/assets/img/service/1214440983043.jpg"
-                           target="_blank" onmouseover="changeClassbyID('izid30225151205019841933','imgZoom_png_hovern')"
-                           onmouseout="changeClassbyID('izid30225151205019841933','imgZoom_png')"
-                           onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440983043&#38;blobkey=id','image','Jante de aliaj','Închide'); return false;">
-                            <img
-                                src="/assets/img/service/1214440983044.jpg"
-                                border="0" width="97"
-                                height="97"
-                                alt="Jante de aliaj"
-                                title="Jante de aliaj"
-                                style="border: solid 1px #999999;">
-                        </a>
+        <div class="BTIarticleTitle">
+            Bare transversale şi portbagaje de acoperiş Thule®
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                Sistemul de bare transversal Ford este esenţial pentru instalarea echipamentelor pentru acoperiş.
+                Sistemul permite instalarea unei mari varietăţi de echipamente pentru transport, adaptabile nevoilor
+                fiecăruia. &Icirc;ţi punem la dispoziţie, de asemenea, o gamă amplă de echipamente Thule&reg; pentru
+                transportarea materialelor pe acoperiş &ndash; cum ar fi cutiile de transport, suporturile pentru skiuri
+                sau bicicletă.
+            </div>
+        </div>
+    </div>
+</div>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIImage">
+            <div class="imgZoom">
+                <a href="/assets/img/service/1214440983043.jpg"
+                   target="_blank" onmouseover="changeClassbyID('izid30225151205019841933','imgZoom_png_hovern')"
+                   onmouseout="changeClassbyID('izid30225151205019841933','imgZoom_png')"
+                   onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440983043&#38;blobkey=id','image','Jante de aliaj','Închide'); return false;">
+                    <img
+                        src="/assets/img/service/1214440983044.jpg"
+                        border="0" width="97"
+                        height="97"
+                        alt="Jante de aliaj"
+                        title="Jante de aliaj"
+                        style="border: solid 1px #999999;">
+                </a>
 
-                        <div>
-                            <a href="../cs/BlobServer7aba.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440983043&amp;blobkey=id"
-                               target="_blank" id="izid30225151205019841933" class="imgZoom_png" title='Zoom'
-                               onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440983043&#38;blobkey=id','image','Jante de aliaj','Închide'); return false;"></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="BTIarticleTitle">
-                    Jante din aliaj
-                </div>
-                <div class='BTIarticleBody'>
-                    <div class='BTIarticleText'>
-                        Modifică aspectul maşinii tale Ford, aleg&acirc;nd din gama noastră de jante din aliaj. Discrete, solide
-                        sau elegante &ndash; indifferent de tipul pe care &icirc;l prefer, poţi fi sigur că au fost realizate cu
-                        respectarea celor mai &icirc;nalte standard, din cele mai bune materiale şi că au trecut teste
-                        minuţioase, de lungă durată, pentru ca tu să fii &icirc;n deplină siguranţă pe şosea. Şi, cum fiecare
-                        jantă este testată cu raze X, poţi fi sigur că jantele tale sunt la fel de bune pe c&acirc;t arată.
-                    </div>
+                <div>
+                    <a href="../cs/BlobServer7aba.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440983043&amp;blobkey=id"
+                       target="_blank" id="izid30225151205019841933" class="imgZoom_png" title='Zoom'
+                       onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440983043&#38;blobkey=id','image','Jante de aliaj','Închide'); return false;"></a>
                 </div>
             </div>
         </div>
-        <div class="BTIRow">
-            <div class="BTIOneItem">
-                <div class="BTIImage">
-                    <div class="imgZoom">
-                        <a href="/assets/img/service/1214440979782.jpg"
-                           target="_blank" onmouseover="changeClassbyID('izid23037421205019844923','imgZoom_png_hovern')"
-                           onmouseout="changeClassbyID('izid23037421205019844923','imgZoom_png')"
-                           onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440979782&#38;blobkey=id','image','Trusa','Închide'); return false;">
-                            <img
-                                src="/assets/img/service/1214440979783.jpg"
-                                border="0" width="97"
-                                height="97"
-                                alt="Trusa"
-                                title="Trusa"
-                                style="border: solid 1px #999999;">
-                        </a>
+        <div class="BTIarticleTitle">
+            Jante din aliaj
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                Modifică aspectul maşinii tale Ford, aleg&acirc;nd din gama noastră de jante din aliaj. Discrete, solide
+                sau elegante &ndash; indifferent de tipul pe care &icirc;l prefer, poţi fi sigur că au fost realizate cu
+                respectarea celor mai &icirc;nalte standard, din cele mai bune materiale şi că au trecut teste
+                minuţioase, de lungă durată, pentru ca tu să fii &icirc;n deplină siguranţă pe şosea. Şi, cum fiecare
+                jantă este testată cu raze X, poţi fi sigur că jantele tale sunt la fel de bune pe c&acirc;t arată.
+            </div>
+        </div>
+    </div>
+</div>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIImage">
+            <div class="imgZoom">
+                <a href="/assets/img/service/1214440979782.jpg"
+                   target="_blank" onmouseover="changeClassbyID('izid23037421205019844923','imgZoom_png_hovern')"
+                   onmouseout="changeClassbyID('izid23037421205019844923','imgZoom_png')"
+                   onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440979782&#38;blobkey=id','image','Trusa','Închide'); return false;">
+                    <img
+                        src="/assets/img/service/1214440979783.jpg"
+                        border="0" width="97"
+                        height="97"
+                        alt="Trusa"
+                        title="Trusa"
+                        style="border: solid 1px #999999;">
+                </a>
 
-                        <div>
-                            <a href="../cs/BlobServer13cb.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440979782&amp;blobkey=id"
-                               target="_blank" id="izid23037421205019844923" class="imgZoom_png" title='Zoom'
-                               onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440979782&#38;blobkey=id','image','Trusa','Închide'); return false;"></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="BTIarticleTitle">
-                    Pachetul de siguranţă Ford Premium
-                </div>
-                <div class='BTIarticleBody'>
-                    <div class='BTIarticleText'>
-                        Pachetul nostru de siguranţă Ford Premium conţine toate lucrurile de care ai putea avea nevoie, &icirc;n
-                        caz de pană ori de rănire uşoară. Printre echipamentele de siguranţă Ford se numără, de exemplu, un set
-                        complet de prim-ajutor, o folie termoizolantă şi multe altele. &Icirc;n plus, pachetul de siguranţă este
-                        dotat cu f&acirc;şii din Velcro&reg;, care &icirc;l fixează &icirc;n portbagaj sau &icirc;n habitaclu.
-                    </div>
+                <div>
+                    <a href="../cs/BlobServer13cb.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440979782&amp;blobkey=id"
+                       target="_blank" id="izid23037421205019844923" class="imgZoom_png" title='Zoom'
+                       onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440979782&#38;blobkey=id','image','Trusa','Închide'); return false;"></a>
                 </div>
             </div>
         </div>
-        <div class="BTIRow">
-            <div class="BTIOneItem">
-                <div class="BTIImage">
-                    <div class="imgZoom">
-                        <a href="/assets/img/service/1214440979846.jpg"
-                           target="_blank" onmouseover="changeClassbyID('izid26454611205019845468','imgZoom_png_hovern')"
-                           onmouseout="changeClassbyID('izid26454611205019845468','imgZoom_png')"
-                           onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440979846&#38;blobkey=id','image','ClimAir','Închide'); return false;">
-                            <img
-                                src="/assets/img/service/1214440979847.jpg"
-                                border="0" width="97"
-                                height="97"
-                                alt="ClimAir"
-                                title="ClimAir"
-                                style="border: solid 1px #999999;">
-                        </a>
+        <div class="BTIarticleTitle">
+            Pachetul de siguranţă Ford Premium
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                Pachetul nostru de siguranţă Ford Premium conţine toate lucrurile de care ai putea avea nevoie, &icirc;n
+                caz de pană ori de rănire uşoară. Printre echipamentele de siguranţă Ford se numără, de exemplu, un set
+                complet de prim-ajutor, o folie termoizolantă şi multe altele. &Icirc;n plus, pachetul de siguranţă este
+                dotat cu f&acirc;şii din Velcro&reg;, care &icirc;l fixează &icirc;n portbagaj sau &icirc;n habitaclu.
+            </div>
+        </div>
+    </div>
+</div>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIImage">
+            <div class="imgZoom">
+                <a href="/assets/img/service/1214440979846.jpg"
+                   target="_blank" onmouseover="changeClassbyID('izid26454611205019845468','imgZoom_png_hovern')"
+                   onmouseout="changeClassbyID('izid26454611205019845468','imgZoom_png')"
+                   onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440979846&#38;blobkey=id','image','ClimAir','Închide'); return false;">
+                    <img
+                        src="/assets/img/service/1214440979847.jpg"
+                        border="0" width="97"
+                        height="97"
+                        alt="ClimAir"
+                        title="ClimAir"
+                        style="border: solid 1px #999999;">
+                </a>
 
-                        <div>
-                            <a href="../cs/BlobServer69ec.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440979846&amp;blobkey=id"
-                               target="_blank" id="izid26454611205019845468" class="imgZoom_png" title='Zoom'
-                               onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440979846&#38;blobkey=id','image','ClimAir','Închide'); return false;"></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="BTIarticleTitle">
-                    Apărătoare de vânt ClimAir®
-                </div>
-                <div class='BTIarticleBody'>
-                    <div class='BTIarticleText'>
-                        Pregăteşte-ţi maşina pentru vară, cu accesoriile de sezon. Apărătoarele de vânt ClimAir® împiedică toate
-                        gâzele să îţi mai murdărească parbrizul şi curentul să îţi mai răvăşească lucrurile din maşină. Cu
-                        apărătoarele de vânt ClimAir® scapi de o mulţime de murdarie şi de neplăceri.
-                    </div>
+                <div>
+                    <a href="../cs/BlobServer69ec.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440979846&amp;blobkey=id"
+                       target="_blank" id="izid26454611205019845468" class="imgZoom_png" title='Zoom'
+                       onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440979846&#38;blobkey=id','image','ClimAir','Închide'); return false;"></a>
                 </div>
             </div>
         </div>
-        <div class="BTIRow">
-            <div class="BTIOneItem">
-                <div class="BTIImage">
-                    <div class="imgZoom">
-                        <a href="/assets/img/service/1214440980290.jpg"
-                           target="_blank" onmouseover="changeClassbyID('izid92258071205019834222','imgZoom_png_hovern')"
-                           onmouseout="changeClassbyID('izid92258071205019834222','imgZoom_png')"
-                           onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440980290&#38;blobkey=id','image','Lada frigorific\u0103 Waeco','Închide'); return false;">
-                            <img
-                                src="/assets/img/service/1214440980291.jpg"
-                                border="0" width="97"
-                                height="97"
-                                alt="Lada frigorific? Waeco"
-                                title="Lada frigorific? Waeco"
-                                style="border: solid 1px #999999;">
-                        </a>
+        <div class="BTIarticleTitle">
+            Apărătoare de vânt ClimAir®
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                Pregăteşte-ţi maşina pentru vară, cu accesoriile de sezon. Apărătoarele de vânt ClimAir® împiedică toate
+                gâzele să îţi mai murdărească parbrizul şi curentul să îţi mai răvăşească lucrurile din maşină. Cu
+                apărătoarele de vânt ClimAir® scapi de o mulţime de murdarie şi de neplăceri.
+            </div>
+        </div>
+    </div>
+</div>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIImage">
+            <div class="imgZoom">
+                <a href="/assets/img/service/1214440980290.jpg"
+                   target="_blank" onmouseover="changeClassbyID('izid92258071205019834222','imgZoom_png_hovern')"
+                   onmouseout="changeClassbyID('izid92258071205019834222','imgZoom_png')"
+                   onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440980290&#38;blobkey=id','image','Lada frigorific\u0103 Waeco','Închide'); return false;">
+                    <img
+                        src="/assets/img/service/1214440980291.jpg"
+                        border="0" width="97"
+                        height="97"
+                        alt="Lada frigorific? Waeco"
+                        title="Lada frigorific? Waeco"
+                        style="border: solid 1px #999999;">
+                </a>
 
-                        <div>
-                            <a href="../cs/BlobServer889a.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440980290&amp;blobkey=id"
-                               target="_blank" id="izid92258071205019834222" class="imgZoom_png" title='Zoom'
-                               onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440980290&#38;blobkey=id','image','Lada frigorific\u0103 Waeco','Închide'); return false;"></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="BTIarticleTitle">
-                    Cutiile frigorifice Waeco®
-                </div>
-                <div class='BTIarticleBody'>
-                    <div class='BTIarticleText'>
-                        Gama de cutii frigorifice Waeco&reg;, practice şi elegante, fac din picnicuri o indeletnicire mult mai
-                        simplă şi mai plăcută. Nu mai e nevoie de gheaţă ori de capsule frigorifice &ndash; cutiile se
-                        alimentează direct de la prize ori pricheta maşinii. Cutia din imagine este dotată şi cu sistem de
-                        prindere ISOFIX, pentru un plus de siguranţă.
-                    </div>
+                <div>
+                    <a href="../cs/BlobServer889a.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440980290&amp;blobkey=id"
+                       target="_blank" id="izid92258071205019834222" class="imgZoom_png" title='Zoom'
+                       onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440980290&#38;blobkey=id','image','Lada frigorific\u0103 Waeco','Închide'); return false;"></a>
                 </div>
             </div>
         </div>
-        <div class="BTIRow">
-            <div class="BTIOneItem">
-                <div class="BTIImage">
-                    <div class="imgZoom">
-                        <a href="/assets/img/service/1214440983528.jpg"
-                           target="_blank" onmouseover="changeClassbyID('izid23867661205019842144','imgZoom_png_hovern')"
-                           onmouseout="changeClassbyID('izid23867661205019842144','imgZoom_png')"
-                           onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440983528&#38;blobkey=id','image','Parasolar ClimAir','Închide'); return false;">
-                            <img
-                                src="/assets/img/service/1214440983529.jpg"
-                                border="0" width="97"
-                                height="97"
-                                alt="Parasolar ClimAir"
-                                title="Parasolar ClimAir"
-                                style="border: solid 1px #999999;">
-                        </a>
+        <div class="BTIarticleTitle">
+            Cutiile frigorifice Waeco®
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                Gama de cutii frigorifice Waeco&reg;, practice şi elegante, fac din picnicuri o indeletnicire mult mai
+                simplă şi mai plăcută. Nu mai e nevoie de gheaţă ori de capsule frigorifice &ndash; cutiile se
+                alimentează direct de la prize ori pricheta maşinii. Cutia din imagine este dotată şi cu sistem de
+                prindere ISOFIX, pentru un plus de siguranţă.
+            </div>
+        </div>
+    </div>
+</div>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIImage">
+            <div class="imgZoom">
+                <a href="/assets/img/service/1214440983528.jpg"
+                   target="_blank" onmouseover="changeClassbyID('izid23867661205019842144','imgZoom_png_hovern')"
+                   onmouseout="changeClassbyID('izid23867661205019842144','imgZoom_png')"
+                   onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440983528&#38;blobkey=id','image','Parasolar ClimAir','Închide'); return false;">
+                    <img
+                        src="/assets/img/service/1214440983529.jpg"
+                        border="0" width="97"
+                        height="97"
+                        alt="Parasolar ClimAir"
+                        title="Parasolar ClimAir"
+                        style="border: solid 1px #999999;">
+                </a>
 
-                        <div>
-                            <a href="../cs/BlobServer36ec.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440983528&amp;blobkey=id"
-                               target="_blank" id="izid23867661205019842144" class="imgZoom_png" title='Zoom'
-                               onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440983528&#38;blobkey=id','image','Parasolar ClimAir','Închide'); return false;"></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="BTIarticleTitle">
-                    Parasolare ClimAir®
-                </div>
-                <div class='BTIarticleBody'>
-                    <div class='BTIarticleText'>
-                        Parasolarele reduc nivelul radiaţiilor solare şi pot fi folosite şi cu geamurile deschise. &Icirc;n
-                        acelaşi timp, confer maşinii un aspect distinctive, de geam fumuriu. Iar sistemul de prindere este
-                        extreme de facil de amplasat, neffind nevoie de niciun fel de găuri sau amenajări suplimentare.
-                    </div>
+                <div>
+                    <a href="../cs/BlobServer36ec.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440983528&amp;blobkey=id"
+                       target="_blank" id="izid23867661205019842144" class="imgZoom_png" title='Zoom'
+                       onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440983528&#38;blobkey=id','image','Parasolar ClimAir','Închide'); return false;"></a>
                 </div>
             </div>
         </div>
-        <div class="BTIRow">
-            <div class="BTIOneItem">
-                <div class="BTIImage">
-                    <div class="imgZoom">
-                        <a href="/assets/img/service/1214440980226.jpg"
-                           target="_blank" onmouseover="changeClassbyID('izid17408711205019833861','imgZoom_png_hovern')"
-                           onmouseout="changeClassbyID('izid17408711205019833861','imgZoom_png')"
-                           onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440980226&#38;blobkey=id','image','Scaun copil','Închide'); return false;">
-                            <img
-                                src="/assets/img/service/1214440980227.jpg"
-                                border="0" width="97"
-                                height="97"
-                                alt="Scaun copil"
-                                title="Scaun copil"
-                                style="border: solid 1px #999999;">
-                        </a>
+        <div class="BTIarticleTitle">
+            Parasolare ClimAir®
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                Parasolarele reduc nivelul radiaţiilor solare şi pot fi folosite şi cu geamurile deschise. &Icirc;n
+                acelaşi timp, confer maşinii un aspect distinctive, de geam fumuriu. Iar sistemul de prindere este
+                extreme de facil de amplasat, neffind nevoie de niciun fel de găuri sau amenajări suplimentare.
+            </div>
+        </div>
+    </div>
+</div>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIImage">
+            <div class="imgZoom">
+                <a href="/assets/img/service/1214440980226.jpg"
+                   target="_blank" onmouseover="changeClassbyID('izid17408711205019833861','imgZoom_png_hovern')"
+                   onmouseout="changeClassbyID('izid17408711205019833861','imgZoom_png')"
+                   onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440980226&#38;blobkey=id','image','Scaun copil','Închide'); return false;">
+                    <img
+                        src="/assets/img/service/1214440980227.jpg"
+                        border="0" width="97"
+                        height="97"
+                        alt="Scaun copil"
+                        title="Scaun copil"
+                        style="border: solid 1px #999999;">
+                </a>
 
-                        <div>
-                            <a href="../cs/BlobServer6c81.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440980226&amp;blobkey=id"
-                               target="_blank" id="izid17408711205019833861" class="imgZoom_png" title='Zoom'
-                               onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440980226&#38;blobkey=id','image','Scaun copil','Închide'); return false;"></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="BTIarticleTitle">
-                    Scaune pentru copii
-                </div>
-                <div class='BTIarticleBody'>
-                    <div class='BTIarticleText'>
-                        Din momentul &icirc;n care s-a impus, prin lege, folosirea scaunelor pentru copii, standardele pentru
-                        acest tip de accesorii au devenit din ce &icirc;n ce mai stringente. Gama noastră include scaune pentru
-                        copii de toate taliile, merg&acirc;nd p&acirc;nă la 36 de kilograme; toate scaunele sunt testate şi
-                        aprobate conform normelor ECE 44/04. Scaunele Britax-R&ouml;mer&reg; sunt prevăzute cu sistem de fixare
-                        ISOFIX, aduc&acirc;nd un plus de siguranţă.
-                    </div>
+                <div>
+                    <a href="../cs/BlobServer6c81.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440980226&amp;blobkey=id"
+                       target="_blank" id="izid17408711205019833861" class="imgZoom_png" title='Zoom'
+                       onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440980226&#38;blobkey=id','image','Scaun copil','Închide'); return false;"></a>
                 </div>
             </div>
         </div>
-        <div class="BTIRow">
-            <div class="BTIOneItem">
-                <div class="BTIImage">
-                    <div class="imgZoom">
-                        <a href="/assets/img/service/1214440983656.jpg"
-                           target="_blank" onmouseover="changeClassbyID('izid49576751205019844141','imgZoom_png_hovern')"
-                           onmouseout="changeClassbyID('izid49576751205019844141','imgZoom_png')"
-                           onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440983656&#38;blobkey=id','image','Sistem de navigatie','Închide'); return false;">
-                            <img
-                                src="/assets/img/service/1214440983657.jpg"
-                                border="0" width="97"
-                                height="97"
-                                alt="Sistem de navigatie"
-                                title="Sistem de navigatie"
-                                style="border: solid 1px #999999;">
-                        </a>
+        <div class="BTIarticleTitle">
+            Scaune pentru copii
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                Din momentul &icirc;n care s-a impus, prin lege, folosirea scaunelor pentru copii, standardele pentru
+                acest tip de accesorii au devenit din ce &icirc;n ce mai stringente. Gama noastră include scaune pentru
+                copii de toate taliile, merg&acirc;nd p&acirc;nă la 36 de kilograme; toate scaunele sunt testate şi
+                aprobate conform normelor ECE 44/04. Scaunele Britax-R&ouml;mer&reg; sunt prevăzute cu sistem de fixare
+                ISOFIX, aduc&acirc;nd un plus de siguranţă.
+            </div>
+        </div>
+    </div>
+</div>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIImage">
+            <div class="imgZoom">
+                <a href="/assets/img/service/1214440983656.jpg"
+                   target="_blank" onmouseover="changeClassbyID('izid49576751205019844141','imgZoom_png_hovern')"
+                   onmouseout="changeClassbyID('izid49576751205019844141','imgZoom_png')"
+                   onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440983656&#38;blobkey=id','image','Sistem de navigatie','Închide'); return false;">
+                    <img
+                        src="/assets/img/service/1214440983657.jpg"
+                        border="0" width="97"
+                        height="97"
+                        alt="Sistem de navigatie"
+                        title="Sistem de navigatie"
+                        style="border: solid 1px #999999;">
+                </a>
 
-                        <div>
-                            <a href="../cs/BlobServer6ace.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440983656&amp;blobkey=id"
-                               target="_blank" id="izid49576751205019844141" class="imgZoom_png" title='Zoom'
-                               onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440983656&#38;blobkey=id','image','Sistem de navigatie','Închide'); return false;"></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="BTIarticleTitle">
-                    Sistem integrat de navigaţie prin satelit
-                </div>
-                <div class='BTIarticleBody'>
-                    <div class='BTIarticleText'>
-                        MirrorNavi este un fantastic nou sistem de navigaţie, care &icirc;nlocuieşte oglinda retrovizoare
-                        tradiţională cu un ansamblu care include un sistem GPS Garmin&reg; N&uuml;vi 2250, cu ecran tactil;
-                        astfel, te poţi orienta şi păstra, &icirc;n acelaşi timp, ochii la drum.
-                    </div>
+                <div>
+                    <a href="../cs/BlobServer6ace.gif?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214440983656&amp;blobkey=id"
+                       target="_blank" id="izid49576751205019844141" class="imgZoom_png" title='Zoom'
+                       onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214440983656&#38;blobkey=id','image','Sistem de navigatie','Închide'); return false;"></a>
                 </div>
             </div>
         </div>
-        <div class="BTIRow">
-            <div class="BTIOneItem">
-                <div class="BTIarticleTitle">
-                </div>
-                <div class='BTIarticleBody'>
-                    <div class='BTIarticleText'>
-                        <em>Acest website prezintă at&acirc;t accesorii de origine Ford, c&acirc;t şi accesorii atent
-                            selecţionate ale unor producători de prestigiu, agreaţi de Ford. Garanţia accesoriilor
-                            comercializate de producătorii agreaţi, este oferită de producătorul respectiv, &icirc;n acord cu
-                            legislaţia &icirc;n vigoare. Pentru mai multe detalii te rugăm să contactezi dealerul tău Ford.</em>
-                    </div>
+        <div class="BTIarticleTitle">
+            Sistem integrat de navigaţie prin satelit
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                MirrorNavi este un fantastic nou sistem de navigaţie, care &icirc;nlocuieşte oglinda retrovizoare
+                tradiţională cu un ansamblu care include un sistem GPS Garmin&reg; N&uuml;vi 2250, cu ecran tactil;
+                astfel, te poţi orienta şi păstra, &icirc;n acelaşi timp, ochii la drum.
+            </div>
+        </div>
+    </div>
+</div>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIarticleTitle">
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                <em>Acest website prezintă at&acirc;t accesorii de origine Ford, c&acirc;t şi accesorii atent
+                    selecţionate ale unor producători de prestigiu, agreaţi de Ford. Garanţia accesoriilor
+                    comercializate de producătorii agreaţi, este oferită de producătorul respectiv, &icirc;n acord cu
+                    legislaţia &icirc;n vigoare. Pentru mai multe detalii te rugăm să contactezi dealerul tău Ford.</em>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIImage">
+            <div class="imgZoom">
+                <a href="/assets/img/service/1214476327851.jpg" target="_blank"
+                   onmouseover="changeClassbyID('izid15166041205067955017','imgZoom_png_hovern')"
+                   onmouseout="changeClassbyID('izid15166041205067955017','imgZoom_png')"
+                   onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214476327851&#38;blobkey=id','image','Senzori de parcare Xvision','Închide'); return false;">
+                    <img
+                        src="/assets/img/service/1214476327852.jpg"
+                        border="0" width="97"
+                        height="97"
+                        alt="Senzori de parcare Xvision"
+                        title="Senzori de parcare Xvision"
+                        style="border: solid 1px #999999;">
+                </a>
+
+                <div>
+                    <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214476327851&#38;blobkey=id"
+                       target="_blank" id="izid15166041205067955017" class="imgZoom_png" title='Zoom'
+                       onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214476327851&#38;blobkey=id','image','Senzori de parcare Xvision','Închide'); return false;"></a>
                 </div>
             </div>
         </div>
-        <div class="BTIRow">
-            <div class="BTIOneItem">
-                <div class="BTIImage">
-                    <div class="imgZoom">
-                        <a href="/assets/img/service/1214476327851.jpg" target="_blank" onmouseover="changeClassbyID('izid15166041205067955017','imgZoom_png_hovern')" onmouseout="changeClassbyID('izid15166041205067955017','imgZoom_png')"
-                           onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214476327851&#38;blobkey=id','image','Senzori de parcare Xvision','Închide'); return false;">
-                            <img
-                                src="/assets/img/service/1214476327852.jpg"
-                                border="0" width="97"
-                                height="97"
-                                alt="Senzori de parcare Xvision"
-                                title="Senzori de parcare Xvision"
-                                style="border: solid 1px #999999;">
-                        </a>
-                        <div>
-                            <a href="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214476327851&#38;blobkey=id" target="_blank" id="izid15166041205067955017" class="imgZoom_png" title='Zoom' onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214476327851&#38;blobkey=id','image','Senzori de parcare Xvision','Închide'); return false;"></a>
-                        </div>
-                    </div>
+        <div class="BTIarticleTitle">
+            Senzori de parcare
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                <div>Alege ca experienţa la volanul maşinii tale să fie una lipsită de stres. Aglomeraţia oraşului,
+                    spaţiile de parcare tot mai incomode, toate acestea pot creşte riscul deteriorării maşinii tale.
+                    Ford vine &icirc;n &icirc;nt&acirc;mpinarea acestor probleme din viaţa de zi cu zi a oricărui şofer,
+                    oferindu-ţi un set performant de senzori de parcare faţă şi spate. Mai mult, senzorii pot fi
+                    vopsiţi &icirc;n culoarea maşinii, iar &icirc;n cazul &icirc;n care maşina este deja echipată cu un
+                    set de senzori pe bara de protecţie spate, acum poţi opta pentru senzori şi pe bara de protecţie
+                    faţă. Ce mai aştepţi? Solicită montarea senzorilor de parcare chiar la următoarea vizită &icirc;n
+                    service!
                 </div>
-                <div class="BTIarticleTitle">
-                    Senzori de parcare
-                </div>
-                <div class='BTIarticleBody'>
-                    <div class='BTIarticleText'>
-                        <div>Alege ca experienţa la volanul maşinii tale să fie una lipsită de stres. Aglomeraţia oraşului, spaţiile de parcare tot mai incomode, toate acestea pot creşte riscul deteriorării maşinii tale. Ford vine &icirc;n &icirc;nt&acirc;mpinarea acestor probleme din viaţa de zi cu zi a oricărui şofer, oferindu-ţi un set performant de senzori de parcare faţă şi spate. Mai mult, senzorii pot fi vopsiţi &icirc;n culoarea maşinii, iar &icirc;n cazul &icirc;n care maşina este deja echipată cu un set de senzori pe bara de protecţie spate, acum poţi opta pentru senzori şi pe bara de protecţie faţă. Ce mai aştepţi? Solicită montarea senzorilor de parcare chiar la următoarea vizită &icirc;n service! <br> <br> Preţ recomandat de v&acirc;nzare:<br> Set senzori de parcare faţă (765 lei) / spate (599 lei)<br> Manopera şi TVA incluse!</div> <div><br> <em>Toate preţurile afişate &icirc;n această ofertă sunt preţuri recomandate, conţin TVA conform legislatiei &icirc;n vigoare şi nu conţin preţul manoperei.  <br> <br> Această ofertă: este supusă unor termene şi condiţii; este valabilă &icirc;n limita stocului disponibil şi poate varia &icirc;n funcţie de seria de şasiu. Perioada derulării acestei campanii: 01 octombrie 2015 - 31 martie 2016 Pentru gama completă de accesorii marca Ford, vizitaţi <a href="http://www.accesorii-ford.ro" target="_blank"><u>www.accesorii-ford.ro</u></a></em></div>
-                    </div>
+                <div><br> <em>Toate preţurile afişate &icirc;n această ofertă sunt preţuri recomandate, conţin TVA
+                        conform legislatiei &icirc;n vigoare şi nu conţin preţul manoperei. <br> <br> Această ofertă:
+                        este supusă unor termene şi condiţii;<a
+                            href="http://www.accesorii-ford.ro" target="_blank"><u>www.accesorii-ford.ro</u></a></em>
                 </div>
             </div>
         </div>
     </div>
+</div>
+</div>
 </div>
 <div id="tab001-contentpane-1" class="tab001-pane-unselected">
 <div class='tab001_TabReco_ShowBTI001Collection'>
