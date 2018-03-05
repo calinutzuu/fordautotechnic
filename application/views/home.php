@@ -7,7 +7,7 @@
 
 <article role="option">
     <a class="carImg" href="#img1"><img
-            src="/assets/img/1214654399788.jpg"
+            src="/assets/img/1214654702290.jpg"
             alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt;&lt;/span&gt;&lt;/span&gt;"
             role="presentation"></a>
 
@@ -25,9 +25,7 @@
 
             <div class="btnwrapper">
                 <div class="btnLink light">
-                    <a role="button" class="om_ca_in"
-                       href="http://www.ford.ro/Promotii/Autoturisme/Redescopera/Rezervare">REZERVA ACUM
-                        OFERTA SPECIALA </a>
+                    <a role="button" class="om_ca_in" href="/Promotii/Autoturisme/Redescopera">VEZI OFERTELE</a>
                 </div>
             </div>
         </div>

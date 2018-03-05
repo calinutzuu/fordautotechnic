@@ -234,4 +234,44 @@ class Autoturisme extends CI_Controller
             ->build('promotii/autoturisme/edge_prom');
     }
 
+    public function redescopera()
+    {
+        $this->template
+            ->set_layout('promotii')
+            ->title('Redescopera', 'Ford AutoTechnic')
+            ->build('promotii/autoturisme/redescopera');
+    }
+
+    public function oferta_fiestared()
+    {
+        $this->template
+            ->set_layout('promotii')
+            ->title('Redescopera', 'Ford AutoTechnic')
+            ->build('promotii/autoturisme/redescopera/oferta_fiestared');
+    }
+
+    public function oferta_focusred()
+    {
+        $this->template
+            ->set_layout('promotii')
+            ->title('Redescopera', 'Ford AutoTechnic')
+            ->build('promotii/autoturisme/redescopera/oferta_focusred');
+    }
+
+    public function oferta_kared()
+    {
+        $this->template
+            ->set_layout('promotii')
+            ->title('Redescopera', 'Ford AutoTechnic')
+            ->build('promotii/autoturisme/redescopera/oferta_kared');
+    }
+
+    public function procedurared()
+    {
+        $this->template
+            ->set_layout('promotii')
+            ->title('Redescopera', 'Ford AutoTechnic')
+            ->build('promotii/autoturisme/redescopera/procedurared');
+    }
+
 }

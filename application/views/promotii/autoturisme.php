@@ -29,6 +29,33 @@
 
 
                 <article class="content-column centered">
+
+                    <div class="content">
+                        <h3 class="bigHeading02">
+                            Redescopera placerea condusului!
+                        </h3>
+
+                        <p>
+
+                        <p>Simti nevoia de schimbare? Ford te sustine, de la primul gand pana la drive test-ul decisiv!
+                            <br> <br> Iti doresti o masina impunatoare, dotata cu ultimele tehnologii Ford? Sau vrei un
+                            autoturism mic,  <br>dar spatios, cu consum redus? Sau poate visezi la o masina rapida, cu design
+                            seducator? <br> <br> Oricare ti-ar fi dorintele, Ford e aici sa le implineasca! <br> <br>
+                            Programul rabla revine cu oferte generoase, pentru toate gusturile! <br> <br> Concret,
+                            vorbim de rate lunare de la 450 lei, cu TVA inclus si de un bon valoric de 6.500 de lei, la
+                            casarea <br> autoturismului vechi. Suna tentant? Chiar este! <br> <br> <a
+                                HREF="/Promotii/Autoturisme/Redescopera"><u>Click aici pentru mai multe detalii</u> </a>
+                        </p>
+                        <div class="img-column">
+                            <img
+                                src="/assets/img/1214654702364.jpg"
+                                alt="Redescopera"/><span class="fv-overlay-icon"></span></div>
+                        </p>
+                    </div>
+
+                </article>
+
+                <article class="content-column centered">
                     <div class="content">
                         <h3 class="bigHeading02">
                             AVENTURA TA ECOSPORT INCEPE CU DOAR 750 LEI / LUNA*
@@ -36,7 +63,8 @@
 
                         <p>
 
-                        <p>Iti doresti o masina eficienta si inteligenta? Care sa arate si sa se comporte ca un SUV, <br> dar
+                        <p>Iti doresti o masina eficienta si inteligenta? Care sa arate si sa se comporte ca un SUV,
+                            <br> dar
                             cu
                             un plus de rafinament si design? Si care sa iti garanteze incredere la volan?<br>
                             <br>
@@ -46,9 +74,9 @@
                         </p>
                     </div>
                     <div class="img-column">
-                            <img
-                                src="/assets/img/1214641470334.jpg"
-                                alt="Noul Ford EcoSport"/><span class="fv-overlay-icon"></span></div>
+                        <img
+                            src="/assets/img/1214641470334.jpg"
+                            alt="Noul Ford EcoSport"/><span class="fv-overlay-icon"></span></div>
                 </article>
 
 

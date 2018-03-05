@@ -256,6 +256,13 @@ $route['Promotii/Autoturisme/PromotieFlote'] = 'promotii/autoturisme/promotie_fl
 $route['Promotii/Autoturisme/FiestaSocialClub'] = 'promotii/autoturisme/fiesta_social_club';
 $route['Promotii/Autoturisme/Edge'] = 'promotii/autoturisme/edge_prom';
 
+$route['Promotii/Autoturisme/Redescopera'] = 'promotii/autoturisme/redescopera';
+$route['Promotii/Autoturisme/Redescopera/OfertaKA'] = 'promotii/autoturisme/oferta_kared';
+$route['Promotii/Autoturisme/Redescopera/OfertaFiesta'] = 'promotii/autoturisme/oferta_fiestared';
+$route['Promotii/Autoturisme/Redescopera/OfertaFocus'] = 'promotii/autoturisme/oferta_focusred';
+$route['Promotii/Autoturisme/Redescopera/Procedura'] = 'promotii/autoturisme/procedurared';
+
+
 $route['Promotii/Autoturisme/Ecobonus'] = 'promotii/autoturisme/ecobonus';
 $route['Promotii/Autoturisme/BlackFriday'] = 'promotii/autoturisme/black_friday';
 $route['Promotii/Autoturisme/NoulKUGA'] = 'promotii/autoturisme/noul_kuga_o';
