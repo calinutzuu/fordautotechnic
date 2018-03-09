@@ -80,7 +80,7 @@
                 </article>
 
 
-                <article class="content-column centered">
+        <!--        <article class="content-column centered">
                     <div class="content">
                         <h3 class="bigHeading02">
                             CEL MAI NOU SUV FORD, CU O OFERTA SPECIALA
@@ -101,7 +101,7 @@
                     <div class="img-column"><img
                             src="/assets/img/1214653307381.jpg"
                             alt="Ford Kuga"/><span class="fv-overlay-icon"></span></a></div>
-                </article>
+                </article> -->
 
                 <!--  <article class="content-column centered">
                       <div class="img-column"> <img

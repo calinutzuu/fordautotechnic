@@ -32,7 +32,7 @@
     </div>
 </article>
 
-<article role="option">
+<!-- <article role="option">
     <a class="carImg" href="#img1"><img
             src="/assets/img/1214653893908.jpg"
             alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt;&lt;/span&gt;&lt;/span&gt;"
@@ -57,7 +57,7 @@
             </div>
         </div>
     </div>
-</article>
+</article>  -->
 
 <article role="option">
     <a class="carImg" href="#img1"><img
