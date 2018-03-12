@@ -338,6 +338,17 @@ $route['FordService/Motorcraft/Reparatii/Ambreiaje'] = 'ford_service/motorcraft/
 $route['FordService/Motorcraft/Reparatii/Frane'] = 'ford_service/motorcraft/frane/index';
 $route['FordService/Motorcraft/Reparatii'] = 'ford_service/motorcraft/reparatii/index';
 $route['FordService/Motorcraft/Pre-verificareITP'] = 'ford_service/motorcraft/preitp/index';
+
+$route['FordService/Motorcraft/AnvelopeVara/Transit'] = 'ford_service/motorcraft2/transitvara/index';
+$route['FordService/Motorcraft/AnvelopeVara/Kuga'] = 'ford_service/motorcraft2/kugavara/index';
+$route['FordService/Motorcraft/AnvelopeVara/Mondeo'] = 'ford_service/motorcraft2/mondeovara/index';
+$route['FordService/Motorcraft/AnvelopeVara/C-MAX'] = 'ford_service/motorcraft2/cmaxvara/index';
+$route['FordService/Motorcraft/AnvelopeVara/Focus'] = 'ford_service/motorcraft2/focusvara/index';
+$route['FordService/Motorcraft/AnvelopeVara/Fusion'] = 'ford_service/motorcraft2/fusionvara/index';
+$route['FordService/Motorcraft/AnvelopeVara/Fiesta'] = 'ford_service/motorcraft2/fiestavara/index';
+$route['FordService/Motorcraft/AnvelopeVara/Ka'] = 'ford_service/motorcraft2/kavara/index';
+$route['FordService/Motorcraft/AnvelopeVara'] = 'ford_service/motorcraft2/anv_vara/index';
+
 $route['FordService/Motorcraft/Anvelope/Transit'] = 'ford_service/motorcraft/transit/index';
 $route['FordService/Motorcraft/Anvelope/Kuga'] = 'ford_service/motorcraft/kuga/index';
 $route['FordService/Motorcraft/Anvelope/Mondeo'] = 'ford_service/motorcraft/mondeo/index';
@@ -347,6 +358,7 @@ $route['FordService/Motorcraft/Anvelope/Fusion'] = 'ford_service/motorcraft/fusi
 $route['FordService/Motorcraft/Anvelope/Fiesta'] = 'ford_service/motorcraft/fiesta/index';
 $route['FordService/Motorcraft/Anvelope/Ka'] = 'ford_service/motorcraft/ka/index';
 $route['FordService/Motorcraft/Anvelope'] = 'ford_service/motorcraft/anvelope/index';
+
 $route['FordService/Motorcraft/10lasuta'] = 'ford_service/motorcraft/lasuta/index';
 $route['FordService/Motorcraft/Service'] = 'ford_service/motorcraft/service/index';
 $route['FordService/Motorcraft'] = 'ford_service/motorcraft/index';
