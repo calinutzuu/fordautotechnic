@@ -86,7 +86,8 @@
                         <h3 class="bigHeading">
                             NOUL FORD FIESTA – AVANTAJ CLIENT DE 4.500 €*, TVA inclus
                         </h3>
-                        <br><div class="img-column">
+                        <br>
+                        <div class="img-column">
                             <img
                                 src="/assets/img/promotii/1214606261260.jpg"
                                 alt="Cum ar arata modelul ST-Line ideal pentru tine?"/><span

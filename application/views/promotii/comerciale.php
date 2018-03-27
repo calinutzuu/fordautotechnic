@@ -27,20 +27,49 @@
             <div class="tab-content">
 
                 <article class="content-column centered">
+                    <div class="img-column">
+                            <img
+                                src="/assets/img/1214655418419.jpg"
+                                alt="Oferte SIAB"/><span class="fv-overlay-icon"></span></div>
+                    <div class="content">
+                        <h3 class="bigHeading">
+                            ZILELE FORD LA SIAB ITI ADUC OFERTE SPECIALE!
+                        </h3>
+
+                        <p>
+<br>
+                        <p>Salonul International De Automobile Bucuresti inseamna stralucire, inovatie, performanta si
+                            cai putere.<br>
+                            <br>
+                            Dar daca ai o afacere, SIAB inseamna si eficienta, functionalitate si siguranta, <br>intr-o gama
+                            de vehicule comerciale potrivita oricaror nevoi de business.<br>
+                            <br>
+                            Afla acum mai multe despre ofertele pe care ti le-am pregatit! <br>
+                            <br>
+                            <a HREF="/Promotii/comerciale/OferteSIAB_PJ"><u>Vezi oferta de vehicule comerciale</u> </a>
+                        </p>
+                        </p>
+                    </div>
+                </article>
+
+                <article class="content-column centered">
                     <div class="content">
 
                         <div class="img-column"><img
                                 src="/assets/img/1214653399538.jpg"
                                 alt="Ranger off road"/></div>
-<br>
+                        <br>
+
                         <h3 class="bigHeading02">
                             NOUL FORD RANGER, DE LA 290 €* / LUNA, CU PACHETUL OFF-ROAD
                         </h3>
-<br>
+                        <br>
+
                         <p>
 
                         <p>Ford a proiectat pentru tine un pick-up truck 4x4 de exceptie, pentru ca tu sa poti fauri noi
-                            drumuri, acolo <br> unde altii vad numai obstacole. Misiunea ta poate incepe acum, avand alaturi
+                            drumuri, acolo <br> unde altii vad numai obstacole. Misiunea ta poate incepe acum, avand
+                            alaturi
                             un partener <br>cum n-ai mai intalnit, de la 290 de euro/luna!<br> <br> <a
                                 HREF="/Promotii/comerciale/Ranger"><u>Vezi oferta speciala </u></a><br> <br> <em><span
                                     style="font-size: smaller;">*Termeni si conditii in pagina de promotie</span></em>

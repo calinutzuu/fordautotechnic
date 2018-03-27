@@ -21,10 +21,10 @@
         width="0" style="display: none; visibility: hidden"></iframe>
 </noscript>
 <script
-    src='http://www.ford.ro/cs/ContentServer?pagename=RORO4_ENGINE/script/tagit/assembler&amp;c=Page&amp;cid=1&amp;location=body&amp;isMobile=false&amp;require=NONE'
+    src='/cs/ContentServer?pagename=RORO4_ENGINE/script/tagit/assembler&amp;c=Page&amp;cid=1&amp;location=body&amp;isMobile=false&amp;require=NONE'
     defer></script>
 <script
-    src='http://www.ford.ro/cs/ContentServer?cid=1&amp;isMobile=false&amp;pagename=RORO4_ENGINE%2Fscript%2Ftagit%2Fstatic&amp;require=NONE&amp;location=body&amp;c=Page'></script>
+    src='/cs/ContentServer?cid=1&amp;isMobile=false&amp;pagename=RORO4_ENGINE%2Fscript%2Ftagit%2Fstatic&amp;require=NONE&amp;location=body&amp;c=Page'></script>
 <div id="wrapper">
 <!--<START_EP2_HEADER >-->
 <script type="text/javascript">
@@ -42,7 +42,7 @@
             personal. Puteţi afla mai multe despre fişierele de tip cookie şi despre cum puteţi să le controlaţi cu
             ajutorul setărilor dumneavoastră de navigare din Ghidul Ford privind fişierele de tip cookie.</p>
         <a id="linkID" class="link"
-           href="http://www.ford.ro/Footer/GhidulFordPrivindFisiereleDeTipCookie?intcmp=other-nwp-cookies-cookie-alert-link">
+           href="/Footer/GhidulFordPrivindFisiereleDeTipCookie?intcmp=other-nwp-cookies-cookie-alert-link">
             Aflați mai multe </a>
         </p>
     </div>
@@ -51,13 +51,21 @@
 <!--<END_EP2_HEADER >-->
 <div class="mainContent">
 
-
+<img
+    src="/assets/img/1214655418374.jpg"
+    alt="Ford Ranger"/>
 <section id="fv-wrapper">
 <section id="carouselize" class="carousel-container carousel"></section>
 <section class="mid-page-content">
 <div class="tab-content">
 <article class="content-column centered">
     <div class="content">
+                <div class="img-column">
+            <img
+                src="/assets/img/1214574859853.jpg"
+                alt="Linii stilate si fluide, din orice unghi"/><span
+                class="fv-overlay-icon"></span></div>
+        <br>
         <h3 class="bigHeading">
             FORD <strong>KA+</strong>
         </h3>
@@ -76,8 +84,8 @@
             <br> Iar pachetul Essential iti aduce, in plus, urmatoarele dotari optionale:<br> - Aer
             conditionat manual;<br> - ICE Pack 6 &ndash; Radio;<br> - Bluetooth;<br> - Dock My Ford;<br>
             - conexiune USB <br> <br> Rezerva acum oferta speciala pentru Ford Ka+ &ndash; click <a
-                HREF="OferteSIAB_PF/Rezervare.html"><u>aici </u></a>! <br> Sau contacteaza cel mai
-            apropiat <a HREF="http://www.ford.ro/SBE/dealeri-ford"><u>showroom Ford</u></a> , pentru
+                HREF="OferteSIAB_PF/Rezervare"><u>aici </u></a>! <br> Sau contacteaza cel mai
+            apropiat <a HREF="/SBE/dealeri-ford"><u>showroom Ford</u></a> , pentru
             detalii suplimentare despre promotie.<br> &nbsp;</p>
 
         <div><font onmouseout="this.style.color='#000000'" color="#000000">
@@ -135,28 +143,22 @@
             </em></div>
         </p>
     </div>
-    <div class="img-column"><a
-            href="http://www.ford.ro/cs/ContentServer?cid=1205115902157&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-            class="js-overlay" data-media-overlay='{"mediaType":"Image", "height":439, "width":780}'>
-            <img
-                src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214574859853&amp;blobkey=id"
-                alt="Linii stilate si fluide, din orice unghi"/><span
-                class="fv-overlay-icon"></span></a></div>
+
 </article>
-<article class="content-column left">
-    <div class="img-column"><a
-            href="http://www.ford.ro/cs/ContentServer?cid=1205135249664&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-            class="js-overlay" data-media-overlay='{"mediaType":"Image", "height":439, "width":780}'>
-            <img
-                src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214606266719&amp;blobkey=id"
-                alt="O grila exlusivista, cu design hexagonal"/><span
-                class="fv-overlay-icon"></span></a></div>
+<article class="content-column centered">
+    <div class="img-column">
+        <img
+            src="/assets/img/1214606266719.jpg"
+            alt="O grila exlusivista, cu design hexagonal"/><span
+            class="fv-overlay-icon"></span></div>
     <div class="content">
-        <h3 class="bigHeading02">
-            NOUL FORD <strong>FIESTA</strong>
+        <br>
+        <h3 class="bigHeading">
+                       NOUL FORD <strong>FIESTA</strong>
         </h3>
 
         <p>
+            <br>
 
         <p>Stil si personalizate ultracontemporane. Tehnologii avansate si functii vitale. Un condus
             dinamic si antrenant, conceput pentru a aduce mereu zambetul pe buze. Descopera acum noul
@@ -167,8 +169,8 @@
             acum, un <strong>avantaj client de 4.950&euro;*</strong>! Iar pachetul Trend iti aduce, in
             plus, urmatoarele dotari:<br> - Aer conditionat manual<br> - Sistem SYNC III cu radio,
             Bluetooth, conexiune USB, display 6.5&quot;<br> - Faruri de ceata <br> <br> Rezerva acum
-            oferta speciala pentru Ford Fiesta &ndash; click <a HREF="OferteSIAB_PF/Rezervare.html"><u>aici</u></a>
-            !<br> Sau contacteaza cel mai apropiat <a HREF="http://www.ford.ro/SBE/dealeri-ford"><u>showroom
+            oferta speciala pentru Ford Fiesta &ndash; click <a HREF="OferteSIAB_PF/Rezervare"><u>aici</u></a>
+            !<br> Sau contacteaza cel mai apropiat <a HREF="/SBE/dealeri-ford"><u>showroom
                     Ford</u></a> , pentru detalii suplimentare despre promotie.<br> &nbsp;</p>
 
         <div><font onmouseout="this.style.color='#000000'" color="#000000">
@@ -176,7 +178,7 @@
                                     color="#000000"> </font></strong></div>
                 <div></div>
                 <div><span style="font-size: medium;"><span color="#000000"> <div
-                                style="text-align: left;" id="replie2"><font
+                                style="text-align: center;" id="replie2"><font
                                     onmouseout="this.style.color='#000000'" color="#000000"><span
                                         onclick="document.getElementById('deplie2').style.display = 'block'; document.getElementById('replie2').style.display = 'none';"><a><span
                                                 style="color: rgb(0, 0, 0);"><u><span><font
@@ -228,14 +230,19 @@
         </p>
     </div>
 </article>
-<article class="content-column right">
+<article class="content-column centered">
+    <div class="img-column">
+        <img
+            src="/assets/img/1214556270473.jpg"
+            alt="Ford Focus - varianta Wagon"/><span class="fv-overlay-icon"></span></div>
+    <br>
     <div class="content">
-        <h3 class="bigHeading02">
+        <h3 class="bigHeading">
             FORD <strong>FOCUS</strong>
         </h3>
 
         <p>
-
+<br>
         <p>Sofisticat, cu un design superb si tehnologii inovatoare in domeniul sigurantei auto care iti
             vor schimba perceptia despre condus si care vor face fiecare moment petrecut la volan sa fie
             cat mai confortabil, sigur si placut cu putinta &ndash; acesta este Ford Focus. Dotarile
@@ -252,8 +259,8 @@
             Faruri de ceata;<br> - radio CD cu MP3 player, USB, 6 difuzoare, comenzi audio pe volan;<br>
             - SYNC 3 cu touchscreen color de 8&quot;, Blue Tooth, Voice Control si Sistem de asistenta
             in caz de urgenta (112). <br> <br> Rezerva acum oferta speciala pentru Ford Focus &ndash;
-            click <a HREF="OferteSIAB_PF/Rezervare.html"><u>aici</u></a> !<br> Sau contacteaza cel mai
-            apropiat <a HREF="http://www.ford.ro/SBE/dealeri-ford"><u>showroom Ford</u></a> , pentru
+            click <a HREF="OferteSIAB_PF/Rezervare"><u>aici</u></a> !<br> Sau contacteaza cel mai
+            apropiat <a HREF="/SBE/dealeri-ford"><u>showroom Ford</u></a> , pentru
             detalii suplimentare despre promotie. <br> &nbsp;</p>
 
         <div><font onmouseout="this.style.color='#000000'" color="#000000">
@@ -261,7 +268,7 @@
                                     color="#000000"> </font></strong></div>
                 <div></div>
                 <div><span style="font-size: medium;"><span color="#000000"> <div
-                                style="text-align: left;" id="replie3"><font
+                                style="text-align: center;" id="replie3"><font
                                     onmouseout="this.style.color='#000000'" color="#000000"><span
                                         onclick="document.getElementById('deplie3').style.display = 'block'; document.getElementById('replie3').style.display = 'none';"><a><span
                                                 style="color: rgb(0, 0, 0);"><u><span><font
@@ -311,36 +318,30 @@
             </em></div>
         </p>
     </div>
-    <div class="img-column"><a
-            href="http://www.ford.ro/cs/ContentServer?cid=1205072235198&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-            class="js-overlay" data-media-overlay='{"mediaType":"Image", "height":439, "width":780}'>
-            <img
-                src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214556270473&amp;blobkey=id"
-                alt="Ford Focus - varianta Wagon"/><span class="fv-overlay-icon"></span></a></div>
+
 </article>
-<article class="content-column left">
-    <div class="img-column"><a
-            href="http://www.ford.ro/cs/ContentServer?cid=1205150778411&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-            class="js-overlay" data-media-overlay='{"mediaType":"Image", "height":439, "width":780}'>
+<article class="content-column centered">
+    <div class="img-column">
             <img
-                src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214641470065&amp;blobkey=id"
-                alt="Noul Ford EcoSport albastru parcat"/><span class="fv-overlay-icon"></span></a>
+                src="/assets/img/1214641470065.jpg"
+                alt="Noul Ford EcoSport albastru parcat"/><span class="fv-overlay-icon"></span>
     </div>
     <div class="content">
-        <h3 class="bigHeading02">
+        <br>
+        <h3 class="bigHeading">
             NOUL FORD <strong>ECOSPORT</strong>
         </h3>
 
         <p>
-
+<br>
         <p>Capabil, eficient si inteligent. Cu stilul, rafinamentul si toate beneficiile unui SUV. Adica
-            toate atributele care garanteaza increderea la volan.<br> <br> Descopera acum noul EcoSport
+            toate atributele care garanteaza increderea la volan. Descopera acum noul EcoSport
             si profita de un <strong>avantaj client de 4.125&euro;*</strong>! Iar pachetul Trend iti
             aduce, in plus, urmatoarele dotari:<br> - bare plafon negre;<br> - jante aliaj 16&quot;;<br>
             - pachet Cool&amp;Sound (EATC, SYNC 3, ecran de 6.5&quot;). <br> <br> Rezerva acum oferta
             speciala pentru Ford EcoSport &ndash; click <a
-                HREF="OferteSIAB_PF/Rezervare.html"><u>aici</u></a> !<br> Sau contacteaza cel mai
-            apropiat <a HREF="http://www.ford.ro/SBE/dealeri-ford"><u>showroom Ford</u></a> , pentru
+                HREF="OferteSIAB_PF/Rezervare"><u>aici</u></a> !<br> Sau contacteaza cel mai
+            apropiat <a HREF="/SBE/dealeri-ford"><u>showroom Ford</u></a> , pentru
             detalii suplimentare despre promotie. <br> &nbsp;</p>
 
         <div><font onmouseout="this.style.color='#000000'" color="#000000">
@@ -348,7 +349,7 @@
                                     color="#000000"> </font></strong></div>
                 <div></div>
                 <div><span style="font-size: medium;"><span color="#000000"> <div
-                                style="text-align: left;" id="replie4"><font
+                                style="text-align: center;" id="replie4"><font
                                     onmouseout="this.style.color='#000000'" color="#000000"><span
                                         onclick="document.getElementById('deplie4').style.display = 'block'; document.getElementById('replie4').style.display = 'none';"><a><span
                                                 style="color: rgb(0, 0, 0);"><u><span><font
@@ -397,9 +398,15 @@
         </p>
     </div>
 </article>
-<article class="content-column right">
+<article class="content-column centered">
     <div class="content">
-        <h3 class="bigHeading02">
+        <div class="img-column">
+            <img
+                src="/assets/img/1214576539518.jpg"
+                alt="Grey Ford Kuga side angle infront of building"/><span
+                class="fv-overlay-icon"></span></div>
+        <br>
+        <h3 class="bigHeading">
             FORD <strong>KUGA</strong>
         </h3>
 
@@ -418,8 +425,8 @@
             touchscreen, display central, 6 difuzoare, comenzi audio pe volan, BlueTooth/Voice control
             (limba engleza), USB;<br> - SYNC Gen 3 cu Sistem de asistenta in caz de urgenta (112). <br>
             <br> Rezerva acum oferta speciala pentru Ford Kuga &ndash; click <a
-                HREF="OferteSIAB_PF/Rezervare.html"><u>aici</u></a> !<br> Sau contacteaza cel mai
-            apropiat <a HREF="http://www.ford.ro/SBE/dealeri-ford"><u>showroom Ford</u></a> , pentru
+                HREF="OferteSIAB_PF/Rezervare"><u>aici</u></a> !<br> Sau contacteaza cel mai
+            apropiat <a HREF="/SBE/dealeri-ford"><u>showroom Ford</u></a> , pentru
             detalii suplimentare despre promotie. <br> &nbsp;</p>
 
         <div><font onmouseout="this.style.color='#000000'" color="#000000">
@@ -427,7 +434,7 @@
                                     color="#000000"> </font></strong></div>
                 <div></div>
                 <div><span style="font-size: medium;"><span color="#000000"> <div
-                                style="text-align: left;" id="replie5"><font
+                                style="text-align: center;" id="replie5"><font
                                     onmouseout="this.style.color='#000000'" color="#000000"><span
                                         onclick="document.getElementById('deplie5').style.display = 'block'; document.getElementById('replie5').style.display = 'none';"><a><span
                                                 style="color: rgb(0, 0, 0);"><u><span><font
@@ -475,29 +482,22 @@
             </em></div>
         </p>
     </div>
-    <div class="img-column"><a
-            href="http://www.ford.ro/cs/ContentServer?cid=1205126724744&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-            class="js-overlay" data-media-overlay='{"mediaType":"Image", "height":439, "width":780}'>
-            <img
-                src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214576539518&amp;blobkey=id"
-                alt="Grey Ford Kuga side angle infront of building"/><span
-                class="fv-overlay-icon"></span></a></div>
+
 </article>
-<article class="content-column left">
-    <div class="img-column"><a
-            href="http://www.ford.ro/cs/ContentServer?cid=1205078764811&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-            class="js-overlay" data-media-overlay='{"mediaType":"Image", "height":439, "width":780}'>
+<article class="content-column centered">
+    <div class="img-column">
             <img
-                src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214645264099&amp;blobkey=id"
+                src="/assets/img/1214645264099.jpg"
                 alt="Mondeo - versiunea in 5 usi, in culoarea Ruby Red"/><span
                 class="fv-overlay-icon"></span></a></div>
     <div class="content">
-        <h3 class="bigHeading02">
+        <br>
+        <h3 class="bigHeading">
             FORD <strong>MONDEO</strong>
         </h3>
 
         <p>
-
+<br>
         <p>Elegant. Modern. Performant. Ford Mondeo te va impresiona cu siguranta. Conceput pentru a
             atinge cele mai inalte standarde de design si eficienta, acest model se impune prin
             constructia inteligenta, executia precisa si tehnologiile de ultima ora ce iti vor duce
@@ -512,8 +512,8 @@
             electric;<br> - Faruri autoadaptive cu tehnologie LED;<br> - Sistem Keyless Start ;<br> -
             Jante aliaj 18&quot; cu anvelope 235/ 45 R18;<br> - Scaun sofer reglabil electric, cu
             functie Memory. <br> <br> Rezerva acum oferta speciala pentru Ford Mondeo &ndash; click <a
-                HREF="OferteSIAB_PF/Rezervare.html"><u>aici</u></a> ! <br> Sau contacteaza cel mai
-            apropiat <a HREF="http://www.ford.ro/SBE/dealeri-ford"><u>showroom Ford</u></a> , pentru
+                HREF="OferteSIAB_PF/Rezervare"><u>aici</u></a> ! <br> Sau contacteaza cel mai
+            apropiat <a HREF="/SBE/dealeri-ford"><u>showroom Ford</u></a> , pentru
             detalii suplimentare despre promotie. <br> &nbsp;</p>
 
         <div><font onmouseout="this.style.color='#000000'" color="#000000">
@@ -521,7 +521,7 @@
                                     color="#000000"> </font></strong></div>
                 <div></div>
                 <div><span style="font-size: medium;"><span color="#000000"> <div
-                                style="text-align: left;" id="replie6"><font
+                                style="text-align: center;" id="replie6"><font
                                     onmouseout="this.style.color='#000000'" color="#000000"><span
                                         onclick="document.getElementById('deplie6').style.display = 'block'; document.getElementById('replie6').style.display = 'none';"><a><span
                                                 style="color: rgb(0, 0, 0);"><u><span><font
@@ -570,14 +570,20 @@
         </p>
     </div>
 </article>
-<article class="content-column right">
+<article class="content-column centered">
     <div class="content">
-        <h3 class="bigHeading02">
+        <div class="img-column">
+            <img
+                src="/assets/img/1214487221877.jpg"
+                alt="Mondeo - versiunea Wagon, Titanium Grey"/><span class="fv-overlay-icon"></span>
+        </div>
+        <br>
+        <h3 class="bigHeading">
             FORD MONDEO <strong>HYBRID</strong>
         </h3>
 
         <p>
-
+<br>
         <p>Savureaza rafinamentul si confortul care au consacrat Ford Mondeo, protejand in acelasi timp
             mediul inconjurator &ndash; si reducand considerabil costurile de utilizare! <br> <br> Cu o
             putere totala de 187 CP, Mondeo Hybrid este echipat cu un motor de 2 litri benzina, asortat
@@ -590,8 +596,8 @@
             Scaune fata incalzite, parbriz incalzit, volan incalzit;<br> - Faruri autoadaptive cu
             tehnologie LED;<br> - Sistem Keyless Start;<br> - Jante aliaj 18&quot;;<br> - Scaun sofer
             reglabil pe 10 directii. <br> <br> Rezerva acum oferta speciala pentru Ford Mondeo
-            Hybrid &ndash; click <a HREF="OferteSIAB_PF/Rezervare.html"><u>aici</u></a> !<br> Sau
-            contacteaza cel mai apropiat <a HREF="http://www.ford.ro/SBE/dealeri-ford"><u>showroom
+            Hybrid &ndash; click <a HREF="OferteSIAB_PF/Rezervare"><u>aici</u></a> !<br> Sau
+            contacteaza cel mai apropiat <a HREF="/SBE/dealeri-ford"><u>showroom
                     Ford</u></a> , pentru detalii suplimentare despre promotie. <br> &nbsp;</p>
 
         <div><font onmouseout="this.style.color='#000000'" color="#000000">
@@ -599,7 +605,7 @@
                                     color="#000000"> </font></strong></div>
                 <div></div>
                 <div><span style="font-size: medium;"><span color="#000000"> <div
-                                style="text-align: left;" id="replie7"><font
+                                style="text-align: center;" id="replie7"><font
                                     onmouseout="this.style.color='#000000'" color="#000000"><span
                                         onclick="document.getElementById('deplie7').style.display = 'block'; document.getElementById('replie7').style.display = 'none';"><a><span
                                                 style="color: rgb(0, 0, 0);"><u><span><font
@@ -649,13 +655,7 @@
             </em></div>
         </p>
     </div>
-    <div class="img-column"><a
-            href="http://www.ford.ro/cs/ContentServer?cid=1205078768957&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-            class="js-overlay" data-media-overlay='{"mediaType":"Image", "height":439, "width":780}'>
-            <img
-                src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobwhere=1214487221877&amp;blobkey=id"
-                alt="Mondeo - versiunea Wagon, Titanium Grey"/><span class="fv-overlay-icon"></span></a>
-    </div>
+
 </article>
 </div>
 </section>
@@ -673,21 +673,21 @@
     function createPath() {
         var currentURL = window.location.href;
         if (!currentURL.indexOf("/cs/ContentServer?") > -1 && !currentURL.indexOf("/cs/Satellite?") > -1) {
-            if (currentURL.indexOf("=") > -1 && currentURL.indexOf("http://www.ford.ro/") > -1 && !currentURL.indexOf("?") > -1) {
+            if (currentURL.indexOf("=") > -1 && currentURL.indexOf("/") > -1 && !currentURL.indexOf("?") > -1) {
                 currentURL = currentURL.substring(0, currentURL.indexOf("="));
-                currentURL = currentURL.substring(0, currentURL.lastIndexOf("http://www.ford.ro/"));
+                currentURL = currentURL.substring(0, currentURL.lastIndexOf("/"));
             }
             if (currentURL.indexOf("?") > -1) {
                 currentURL = currentURL.substring(0, currentURL.indexOf("?"));
-                if (currentURL.indexOf("=") > -1 && currentURL.indexOf("http://www.ford.ro/") > -1) {
+                if (currentURL.indexOf("=") > -1 && currentURL.indexOf("/") > -1) {
                     currentURL = currentURL.substring(0, currentURL.indexOf("="));
-                    currentURL = currentURL.substring(0, currentURL.lastIndexOf("http://www.ford.ro/"));
+                    currentURL = currentURL.substring(0, currentURL.lastIndexOf("/"));
                 }
             }
         }
 //Remove all trailing / 
-        while (currentURL.endsWith("http://www.ford.ro/")) {
-            currentURL = currentURL.substring(0, currentURL.lastIndexOf("http://www.ford.ro/"));
+        while (currentURL.endsWith("/")) {
+            currentURL = currentURL.substring(0, currentURL.lastIndexOf("/"));
         }
         return currentURL;
     }
@@ -705,7 +705,7 @@
 <!-- Footer section-->
 
 </div>
-<script src="http://www.ford.ro/cs/ContentServer?pagename=EP2%2fENGInE%2fscript%2fGroupedJS"
+<script src="/cs/ContentServer?pagename=EP2%2fENGInE%2fscript%2fGroupedJS"
         type="text/javascript"></script>
 <script> EP2.Globals.siteName = 'RORO4_ENGINE';
     EP2.Globals.gforceMode = 'LIVE'</script>
@@ -731,17 +731,17 @@
         });
     }();
 </script>
-<script src="http://www.ford.ro/cs/ContentServer?pagename=EP2/ENGInE/script/carouselize"></script>
-<script src="http://www.ford.ro/cs/ContentServer?pagename=EP2/ENGInE/script/future-vehicle-tabs"></script>
+<script src="/cs/ContentServer?pagename=EP2/ENGInE/script/carouselize"></script>
+<script src="/cs/ContentServer?pagename=EP2/ENGInE/script/future-vehicle-tabs"></script>
 <!--  var noEp1Overlay = true; -->
 <script>
     var TagIT = TagIT || {};
 </script>
 <script
-    src='http://www.ford.ro/cs/ContentServer?cid=1&amp;isMobile=false&amp;pagename=RORO4_ENGINE%2Fscript%2Ftagit%2Fassembler&amp;require=NONE&amp;location=load&amp;c=Page'
+    src='/cs/ContentServer?cid=1&amp;isMobile=false&amp;pagename=RORO4_ENGINE%2Fscript%2Ftagit%2Fassembler&amp;require=NONE&amp;location=load&amp;c=Page'
     defer></script>
 <script
-    src='http://www.ford.ro/cs/ContentServer?cid=1&amp;isMobile=false&amp;pagename=RORO4_ENGINE%2Fscript%2Ftagit%2Fstatic&amp;require=NONE&amp;location=load&amp;c=Page'></script>
+    src='/cs/ContentServer?cid=1&amp;isMobile=false&amp;pagename=RORO4_ENGINE%2Fscript%2Ftagit%2Fstatic&amp;require=NONE&amp;location=load&amp;c=Page'></script>
 </body>
 
 </html> 

@@ -298,7 +298,7 @@ $route['Promotii/Autoturisme/Rabla/OfertaFocus'] = 'promotii/autoturisme/oferta_
 $route['Promotii/Autoturisme/Rabla/OfertaMondeo'] = 'promotii/autoturisme/oferta_mondeo';
 $route['Promotii/Autoturisme/Rabla/OfertaEcoSport'] = 'promotii/autoturisme/oferta_ecosport';
 
-$route['Promotii/comerciale/OferteSIAB_Pj'] = 'promotii/comerciale/oferte_siab_pj';
+$route['Promotii/comerciale/OferteSIAB_PJ'] = 'promotii/comerciale/oferte_siab_pj';
 
 $route['Promotii/comerciale'] = 'promotii/comerciale/index';
 $route['Promotii/comerciale/Ranger'] = 'promotii/comerciale/noul_ranger';
