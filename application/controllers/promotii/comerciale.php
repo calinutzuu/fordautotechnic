@@ -41,4 +41,14 @@ class comerciale extends CI_Controller
             ->title('Black Friday Comerciale', 'Ford AutoTechnic')
             ->build('promotii/comerciale/black_friday_co');
     }
+
+    public function oferte_siab_pj()
+    {
+        $this->template
+            ->set_layout('promotii')
+            ->title('OferteSIAB_PJ', 'Ford AutoTechnic')
+            ->build('promotii/comerciale/oferte_siab_pj');
+    }
+
 }
+

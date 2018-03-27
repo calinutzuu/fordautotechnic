@@ -4,6 +4,31 @@
 <div id="hpCarousel" role="listbox">
 <!--Rendering the Image Panel-->
 
+<article role="option">
+    <a class="carImg" href="#img1"><img
+            src="/assets/img/1214655418497.jpg" alt=""
+            role="presentation"></a>
+
+    <div class="innerBox posBottomRight SlateText">
+        <div class="">
+            <h2 class="bigHeading02">
+            </h2>
+
+            <p class="captionTxt">
+            </p>
+
+            <div class="btnwrapper">
+                <div class="btnLink light">
+                    <a role="button" class="om_ca_in" href="/Promotii/Autoturisme">Vezi oferta de autoturisme</a>
+                </div>
+                <div class="ctaLink slate">
+                    <a href="/Promotii/comerciale/OferteSIAB_PJ" class="om_ca_tl_in"><span class="icon ctaArrow"></span>Vezi
+                        oferta pentru vehicule comerciale</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</article>
 
 <article role="option">
     <a class="carImg" href="#img1"><img
@@ -136,10 +161,12 @@
     </div>
 </article>
 
+
 <article role="option">
-    <a class="carImg" href="#img1"><img src="/assets/img/service/1214647041711.jpg"
-                                        alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt;FORD &lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt;MOTORCRAFT&lt;/span&gt;&lt;/span&gt;"
-                                        role="presentation"></a>
+    <a class="carImg" href="#img1"><img
+            src="/assets/img/1214656038269.jpg"
+            alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt;FORD &lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt;MOTORCRAFT&lt;/span&gt;&lt;/span&gt;"
+            role="presentation"></a>
 
     <div class="innerBox posBottomLeft GreyBlock">
         <div class="blockTransparent">
@@ -149,7 +176,7 @@
             </h2>
 
             <p class="captionTxt">
-                <span style="font-size:22px;"><span style="font-family:FordAntennaRegular;">Iarna este asa cum o faci tu sa fie</span><span
+                <span style="font-size:22px;"><span style="font-family:FordAntennaRegular;">Primavara este aici - masina ta Ford are nevoie de putina atentie.</span><span
                         style="font-family:FordAntennaBlack;"></span></span>
             </p>
 
@@ -161,7 +188,6 @@
         </div>
     </div>
 </article>
-
 
 <!-- <article role="option">
     <a class="carImg" href="#img1"><img src="/assets/img/1214652955024.jpg"

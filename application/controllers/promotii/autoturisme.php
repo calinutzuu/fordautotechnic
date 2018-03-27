@@ -210,6 +210,7 @@ class Autoturisme extends CI_Controller
             ->build('promotii/autoturisme/noul_ecosport');
     }
 
+
     public function finantare_fiesta()
     {
         $this->template
@@ -272,6 +273,14 @@ class Autoturisme extends CI_Controller
             ->set_layout('promotii')
             ->title('Redescopera', 'Ford AutoTechnic')
             ->build('promotii/autoturisme/redescopera/procedurared');
+    }
+
+    public function oferte_siab_pf()
+    {
+        $this->template
+            ->set_layout('promotii')
+            ->title('NoulFiesta', 'Ford AutoTechnic')
+            ->build('promotii/autoturisme/oferte_siab_pf');
     }
 
 }

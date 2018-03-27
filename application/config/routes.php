@@ -289,12 +289,16 @@ $route['Promotii/Autoturisme/Noul-EcoSport'] = 'promotii/autoturisme/noul_ecospo
 $route['Promotii/Autoturisme/NoulFordFIESTA'] = 'promotii/autoturisme/fiesta_fizice';
 $route['Promotii/Autoturisme/NoulFordFIESTAFlote'] = 'promotii/autoturisme/fiesta_juridice';
 
+$route['Promotii/Autoturisme/OferteSIAB_PF'] = 'promotii/autoturisme/oferte_siab_pf';
+
 $route['Promotii/Autoturisme/Rabla'] = 'promotii/autoturisme/rabla_p';
 $route['Promotii/Autoturisme/Rabla/OfertaFiesta'] = 'promotii/autoturisme/oferta_fiesta';
 $route['Promotii/Autoturisme/Rabla/OfertaBMAX'] = 'promotii/autoturisme/oferta_bmax';
 $route['Promotii/Autoturisme/Rabla/OfertaFocus'] = 'promotii/autoturisme/oferta_focus';
 $route['Promotii/Autoturisme/Rabla/OfertaMondeo'] = 'promotii/autoturisme/oferta_mondeo';
 $route['Promotii/Autoturisme/Rabla/OfertaEcoSport'] = 'promotii/autoturisme/oferta_ecosport';
+
+$route['Promotii/comerciale/OferteSIAB_Pj'] = 'promotii/comerciale/oferte_siab_pj';
 
 $route['Promotii/comerciale'] = 'promotii/comerciale/index';
 $route['Promotii/comerciale/Ranger'] = 'promotii/comerciale/noul_ranger';
