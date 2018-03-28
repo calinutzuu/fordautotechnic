@@ -70,7 +70,7 @@
 
         <p>
 <br>
-        <p>Profita de oferta speciala pentru persoane juridice: Ford Transit Custom VAN 300L TREND
+        <p>Profita de oferta speciala pentru persoane juridice: <br>Ford Transit Custom VAN 300L TREND
             2.0TD105 S6 M6 FWD LWB, la <strong>doar 240&euro;/luna*</strong>!<br> <br> Mai mult, cu
             aceasta oferta beneficiezi de:<br> - dobanda 0%;<br> - garantie extinsa 2 + 2 ani, fara
             limita de kilometri<br> <br> In plus, <strong>pretul include dotari optionale</strong>
@@ -166,13 +166,18 @@
 </article>
 <article class="content-column centered">
     <div class="content">
+        <div class="img-column">
+            <img
+                src="/assets/img/1214655418293.jpg"
+                alt="Transit Custom Kombi Van"/><span class="fv-overlay-icon"></span></div>
+        <br>
         <h3 class="bigHeading">
             FORD <strong>TRANSIT CUSTOM KOMBI</strong>, LA DOAR 285€/LUNA*!
         </h3>
 
         <p>
-
-        <p>Profita de oferta speciala pentru persoane juridice: Ford Transit Custom KOMBI M1 320L TREND
+<br>
+        <p>Profita de oferta speciala pentru persoane juridice:<br> Ford Transit Custom KOMBI M1 320L TREND
             2.0TD130 S6 M6 FWD LWB, la <strong>doar 285&euro;/luna*</strong>!<br> Mai mult, cu aceasta
             oferta beneficiezi de:<br> - dobanda 0%;<br> - garantie extinsa 2 + 2 ani, fara limita de
             kilometri<br> <br> In plus, <strong>pretul include dotari optionale</strong> pentru confort:<br>
@@ -266,10 +271,7 @@
             </em></div>
         </p>
     </div>
-    <div class="img-column">
-            <img
-                src="/assets/img/1214655418293.jpg"
-                alt="Transit Custom Kombi Van"/><span class="fv-overlay-icon"></span></div>
+
 </article>
 <article class="content-column centered">
     <div class="img-column">
@@ -277,14 +279,15 @@
                 src="/assets/img/1214594187522.jpg"
                 alt="Striking design, high-tech headlamps"/><span class="fv-overlay-icon"></span>
     </div>
+    <br>
     <div class="content">
         <h3 class="bigHeading">
             FORD <strong>TRANSIT VAN</strong>, LA DOAR 245€/LUNA*!
         </h3>
 
         <p>
-
-        <p>Profita de oferta speciala pentru persoane juridice: Ford Transit VAN 350L BASE 2.0TD105 T5
+<br>
+        <p>Profita de oferta speciala pentru persoane juridice:<br>  Ford Transit VAN 350L BASE 2.0TD105 T5
             M6 FWD LWB, la <strong>doar 245&euro;/luna*</strong>!<br> <br> Mai mult, cu aceasta oferta
             beneficiezi de:<br> - dobanda 0%;<br> - garantie extinsa 2 + 2 ani, fara limita de
             kilometrii<br> <br> In plus, <strong>pretul include dotari optionale</strong> pentru
@@ -380,13 +383,17 @@
 </article>
 <article class="content-column centered">
     <div class="content">
+        <div class="img-column">
+            <img
+                src="/assets/img/1214575322981.jpg"
+                alt="Ford Transit Connect load space"/><span class="fv-overlay-icon"></span></div> <br>
         <h3 class="bigHeading">
             FORD <strong>TRANSIT CONNECT</strong>, LA DOAR 175€/LUNA*!
         </h3>
 
         <p>
 <br>
-        <p>Profita de oferta speciala pentru persoane juridice: Ford Transit Connect - VAN LWB Trend 1.5
+        <p>Profita de oferta speciala pentru persoane juridice:<br>  Ford Transit Connect - VAN LWB Trend 1.5
             100HP, la <strong>doar 175&euro;/luna*</strong>!<br> <br> Mai mult, cu aceasta oferta
             beneficiezi de:<br> - dobanda 0%;<br> - garantie extinsa 2 + 2 ani sau 150.000 de
             kilometri<br> <br> In plus, <strong>pretul include dotari optionale</strong> pentru confort:<br>
@@ -479,16 +486,13 @@
             </em></div>
         </p>
     </div>
-    <div class="img-column">
-            <img
-                src="/assets/img/1214575322981.jpg"
-                alt="Ford Transit Connect load space"/><span class="fv-overlay-icon"></span></div>
+
 </article>
 <article class="content-column centered">
     <div class="img-column">
             <img
                 src="/assets/img/1214600653967.jpg"
-                alt="Striking, aerodynamic design"/><span class="fv-overlay-icon"></span></div>
+                alt="Striking, aerodynamic design"/><span class="fv-overlay-icon"></span></div> <br>
     <div class="content">
         <h3 class="bigHeading">
             FORD <strong>TRANSIT COURIER</strong>, LA DOAR 135€/LUNA*!
@@ -590,6 +594,10 @@
 </article>
 <article class="content-column centered">
     <div class="content">
+        <div class="img-column">
+            <img
+                src="/assets/img/1214544821900.jpg"
+                alt="Stil indraznet si contemporan"/><span class="fv-overlay-icon"></span></div> <br>
         <h3 class="bigHeading">
             FORD <strong>RANGER</strong>, LA DOAR 290€/LUNA*!
         </h3>
@@ -688,10 +696,7 @@
             </em></div>
         </p>
     </div>
-    <div class="img-column">
-            <img
-                src="/assets/img/1214544821900.jpg"
-                alt="Stil indraznet si contemporan"/><span class="fv-overlay-icon"></span></div>
+
 </article>
 </div>
 </section>
