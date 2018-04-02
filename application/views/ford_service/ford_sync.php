@@ -729,7 +729,7 @@ return false;"
                            onmouseout="changeClassbyID('izid22037281205027022637','imgZoom_png')"
                            onclick="overlayStart('/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214443369844&#38;blobkey=id','image','Ford SYNC control vocal','Închide'); return false;">
                             <img
-                                src="/assets/img/service/1214443369845.jpg"
+                                src="/assets/img/service/12144433698451.jpg"
                                 border="0" width="97"
                                 height="97"
                                 alt="Ford SYNC control vocal"

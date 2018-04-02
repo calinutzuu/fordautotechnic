@@ -170,7 +170,7 @@
 
     </li> -->
     <li class="levelOne" role="menuitem" data-nav="generic">
-        <a role="link" href="/FordFleet" class="om_he_at_li"><span>Flote</span></a>
+        <a role="link" href="/FordFleet/PrezentareGenerala" class="om_he_at_li"><span>Flote</span></a>
     </li>
     <li class="levelOne" role="menuitem" data-nav="generic">
         <a role="link" href="/Business_Service_Club" class="om_he_at_li"><span>Business Service Club</span></a>

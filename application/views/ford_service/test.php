@@ -1,3 +1,5 @@
+<li class="selected"><p>Plan de revizii Ford Service</p></li>
+</ul>
 <div class="navbottom"></div>
 </div>
 </div>
@@ -6,287 +8,356 @@
 </div>
 <!-- <End> -->
 <div id="container_main">
-<div style="height: 115px">&nbsp;</div>
-<div id="container_center">
-<div class="center_item">
-    <div class="btoArticleTitle"><h1><font size="5">FORD <strong>MOTORCRAFT</strong> </font></h1></div>
-    <div class="btoArticleText">
-        <div class="btoArticleAbstract">
-            <div><strong><span style="font-size: medium">Servicii de calitate la preturi all-inclusive pentru autovehiculele Ford cu varsta de peste 4 ani</span></strong><br><br>De
-                la revizie si reparatii uzuale pana la Pre-verificare I.T.P si anvelope, la Ford Motorcraft 4+ vei gasi
-                tot ce iţi trebuie. Un brand special conceput pentru modelele Ford cu o vechime de minimum 4 ani, Ford
-                Motorcraft ofera preturi clare si transparente, fara costuri ascunse. Mai mult, de autoturismul tau se
-                vor ocupa profesionistii de la Ford, ajutati de cele mai noi echipamente si piese originale Ford.
-            </div>
-        </div>
-    </div>
-</div>
-<div class="center_item">
-    <!-- TD No:8174 This method has been added to escape special characters
-    -->
-    <img src="/cs/ENGInE/img/arrow_r_o_tab.gif" alt="" style="display:none">
-
-    <div class="btoArticleTitle"></div>
-    <div class="BTIRow">
-        <div class="BTITwoItems">
-            <div class="BTIItem">
-                <div class="BTIImage">
-                    <div class="imgNonZoom">
-                        <img
-                            src="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214513079266&#38;blobkey=id"
-                            border="0" width="97"
-                            height="97"
-                            alt="Ford Service"
-                            title="Ford Service"
-                            style="border: solid 1px #999999;">
-                    </div>
-                </div>
-                <div class="BTIarticleTitle">
-                </div>
-                <div class='BTIarticleBody'>
-                    <div class='BTIarticleText'>
-                        <div><h2><font size="2">Ford Service</font></h2><br><span
-                                style="color: rgb(0,0,128)">&nbsp; <strong><span
-                                        style="font-size: x-large">349 lei</span></strong><strong><span
-                                        style="font-size: x-large">&nbsp;</span></strong></span><br><br><br><br><a
-                                HREF="/FordService/Motorcraft/Service">&gt; Ford Service</a></div>
-                    </div>
-                </div>
-            </div>
-            <div class="BTIItemSecond">
-                <div class="BTIImage">
-                    <div class="imgNonZoom">
-                        <img
-                            src="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214513079684&#38;blobkey=id"
-                            border="0" width="97"
-                            height="97"
-                            alt="Ford Tyres"
-                            title="Ford Tyres"
-                            style="border: solid 1px #999999;">
-                    </div>
-                </div>
-                <div class="BTIarticleTitle">
-                </div>
-                <div class='BTIarticleBody'>
-                    <div class='BTIarticleText'>
-                        <div><h2><font size="2">Anvelope vara</font></h2>
-
-                            <div></div>
-                            <div><strong><br> de la <span style="color: rgb(0, 0, 128);"><span
-                                            style="font-size: medium;"><span style="font-size: x-large;">151 lei </span></span></span></strong><br>
-                                <br> <br> <br> <a HREF="/FordService/Motorcraft/Anvelope">&gt;Anvelope vara<br></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="BTIRow">
-        <div class="BTITwoItems">
-            <div class="BTIItem">
-                <div class="BTIImage">
-                    <div class="imgNonZoom">
-                        <img
-                            src="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214513079684&#38;blobkey=id"
-                            border="0" width="97"
-                            height="97"
-                            alt="Ford Tyres"
-                            title="Ford Tyres"
-                            style="border: solid 1px #999999;">
-                    </div>
-                </div>
-                <div class="BTIarticleTitle">
-                </div>
-                <div class='BTIarticleBody'>
-                    <div class='BTIarticleText'>
-                        <div><h2><font size="2">Anvelope iarna</font></h2>
-
-                            <div></div>
-                            <div><strong><br> de la <span style="color: rgb(0, 0, 128);"><span
-                                            style="font-size: medium;"><span style="font-size: x-large;">170 lei </span></span></span></strong><br>
-                                <br> <br> <br> <a HREF="/FordService/Motorcraft/AnvelopeIarna">&gt;Anvelope iarna</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="BTIItemSecond">
-                <div class="BTIImage">
-                    <div class="imgNonZoom">
-                        <img
-                            src="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214513078661&#38;blobkey=id"
-                            border="0" width="97"
-                            height="97"
-                            alt="Ford MOT"
-                            title="Ford MOT"
-                            style="border: solid 1px #999999;">
-                    </div>
-                </div>
-                <div class="BTIarticleTitle">
-                </div>
-                <div class='BTIarticleBody'>
-                    <div class='BTIarticleText'>
-                        <div><h2><font size="2">Pre verificare ITP gratuita<br> </font></h2> <br> <br> <br> <a
-                                HREF="/FordService/Motorcraft/Pre-verificareITP">&gt; Pre-verificare I.T.P</a></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="BTIRow">
-        <div class="BTITwoItems">
-            <div class="BTIItem">
-                <div class="BTIImage">
-                    <div class="imgNonZoom">
-                        <img
-                            src="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214513079598&#38;blobkey=id"
-                            border="0" width="97"
-                            height="97"
-                            alt="Ford Repairs"
-                            title="Ford Repairs"
-                            style="border: solid 1px #999999;">
-                    </div>
-                </div>
-                <div class="BTIarticleTitle">
-                </div>
-                <div class='BTIarticleBody'>
-                    <div class='BTIarticleText'>
-                        <div><h2><font size="2">Reparaţii uzuale<br> </font></h2> <strong><br> de la&nbsp; <span
-                                    style="color: rgb(0, 0, 128);"><span style="font-size: medium;"><span
-                                            style="font-size: x-large;">290 lei</span></span></span></strong><br> <br>
-                            <br> <a HREF="/FordService/Motorcraft/Reparatii">&gt;Reparaţii uzuale</a></div>
-                    </div>
-                </div>
-            </div>
-            <div class="BTIItemSecond">
-                <div class="BTIImage">
-                    <div class="imgNonZoom">
-                        <img
-                            src="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214609482801&#38;blobkey=id"
-                            border="0" width="97"
-                            height="97"
-                            alt="Verificare vizuala sistem A/C "
-                            title="Verificare vizuala sistem A/C "
-                            style="border: solid 1px #999999;">
-                    </div>
-                </div>
-                <div class="BTIarticleTitle">
-                </div>
-                <div class='BTIarticleBody'>
-                    <div class='BTIarticleText'>
-                        <div><h2><font size="2">Verificare vizuala sistem A/C </font></h2> <br> <span
-                                style="color: rgb(0, 0, 0);"><strong> </strong></span><span
-                                style="color: rgb(0, 0, 128);"><strong><span
-                                        style="font-size: x-large;">30 lei</span></strong></span><span
-                                style="color: red"><span style="color:#425968"><br> <div><strong><span
-                                                style="font-size: medium;"><br>  </span></strong></div> </span></span><a
-                                HREF="/FordService/Motorcraft/Reparatii/AerConditionat">&gt;Verificare aer
-                                conditionat</a></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="BTIRow">
-        <div class="BTITwoItems">
-            <div class="BTIItem">
-                <div class="BTIImage">
-                    <div class="imgNonZoom">
-                        <img
-                            src="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214609482715&#38;blobkey=id"
-                            border="0" width="97"
-                            height="97"
-                            alt="Stergatoare de parbriz "
-                            title="Stergatoare de parbriz "
-                            style="border: solid 1px #999999;">
-                    </div>
-                </div>
-                <div class="BTIarticleTitle">
-                </div>
-                <div class='BTIarticleBody'>
-                    <div class='BTIarticleText'>
-                        <div><h2><font size="2">Stergatoare de parbriz</font></h2> <br> <span
-                                style="color: rgb(0, 0, 0);"><strong>de la <span style="color: rgb(0, 0, 128);"><span
-                                            style="font-size: x-large;">145 lei</span></span></strong></span><br> <br>
-                            <a HREF="/FordService/Motorcraft/Reparatii/Stergatoare">&gt;Stergatoare de parbriz</a></div>
-                    </div>
-                </div>
-            </div>
-            <div class="BTIItemSecond">
-                <div class="BTIarticleTitle">
-                </div>
-                <div class='BTIarticleBody'>
-                    <div class='BTIarticleText'>
-                        <div></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="BTIRow">
-        <div class="BTIOneItem">
-            <div class="BTIarticleTitle">
-            </div>
-            <div class='BTIarticleBody'>
-                <div class='BTIarticleText'>
-                    <div><em>Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin TVA conform
-                            legislatiei in vigoare. Oferta nu include componentele tehnologice, este supusa termenilor
-                            si conditiilor afisate si este valabila in limita stocului disponibil. De asemenea, oferta
-                            se poate modifica in functie de seria de sasiu. Alte detalii aferente ofertei sunt
-                            disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de reparatori
-                            autorizati Ford.<br>
-                            Perioada derularii acestei campanii: 01 Martie 2018 - 31 Mai 2018
-                            <br>
-                        </em></div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="collectionClear"></div>
-</div>
-<div class="center_item">
-</div>
-<div class="center_item">
-    <!--<START_MPP001 >-->
-    <div class="mid_page_promo">
-        <a href='/SBE/OSBOV' target="_self">
-            <img
-                src="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214613372064&#38;blobkey=id"
-                border="0" alt="Programari service" title="Programari service" height='113' width='557'/>
-        </a>
-    </div>
-    <!--<END_MPP001 >-->
-</div>
-<div class="center_item">
-</div>
-<div id="center_btt">
-</div>
-<!-- TD 8042 - AddThis Social Book Marking tool display Starts-->
-<!-- TD 8042 - AddThis Ends-->
-<!-- AddThis Replacement Starts-->
-<!-- AddThis Replacement Ends-->
-</div>
-<div id="container_right">
-    <div class="right_item">
-    </div>
-    <!-- Technical Highlights -->
-    <!-- <Start> -->
-    <div class="right_item">
-    </div>
-    <!-- <End> -->
-    <div class="right_item">
-        <!--<START_SSP001 >-->
-        <div class="skyscraper_promo">
-            <a href='/FordService/FordAsistenta12' target="_self">
+    <div id="mediaplayer1">
+        <!--<START_MDP001>-->
+        <script type="text/javascript">
+            engine.media.mdp.labelClose = 'Închide';
+        </script>
+        <div class="mdp2Box">
+            <script type="text/javascript">
+                detectBW = false;
+                window.addEvent('domready', function () {
+                    fd.doDetection();
+                });
+            </script>
+            <div id="mdp">
                 <img
-                    src="/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214637791009&#38;blobkey=id"
-                    border="0" alt="Asistenta Ford 12" title="Asistenta Ford 12" height='185' width='185'/>
-            </a>
+                    src='/cs/BlobServer?blobtable=MungoBlobs&#38;blobcol=urldata&#38;blobwhere=1214647469014&#38;blobkey=id'
+                    alt='Uită de griji, cu pachetul complet de revizii' onclick="omnitureViewPhoto()">
+            </div>
+            <div class="mdp2" id="mdpImageControl">
+                <table>
+                    <tr>
+                        <td id="mdp2Fullscreen">
+                            <a class="js-overlay"
+                               href='/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214647469015&amp;blobkey=id'
+                               data-media-overlay='{"mediaType":"Image", "height":600, "width":800}'">
+                            Fullscreen
+                            </a>
+                        </td>
+                        <td id="mdp2Description" style="width:50%">
+                            <a id="mdpCaption">
+                            </a>
+                        </td>
+                        <td id="mdp2Right">
+                        </td>
+                    </tr>
+                </table>
+            </div>
         </div>
-        <!--<END_SSP001 >-->
+        <script type="text/javascript">
+            //ENG-8108	changed the parameter of doshow function
+            // msukhia1: wrong way, right way would be to publish an event
+            // but it would reload initial flash;
+            function mdpOnLoad() {
+                engine.media.lockup.doshow('');
+            }
+            if (window.addEventListener) {
+                window.addEventListener("load", mdpOnLoad, false);
+            } else if (window.attachEvent) {
+                window.attachEvent('onload', mdpOnLoad);
+            }
+            if (document.id('mdp') != null && typeof document.id('mdp') != 'undefined') {
+                document.id('mdp').addEvent("contextmenu", function (event) {
+                    event.preventDefault();
+                });
+            }
+        </script>
+        <!--<END_MDP001>-->
     </div>
-</div>
+    <div id="container_center">
+        <div class="center_item">
+            <div class="btoArticleTitle">Uita de griji, cu planul complet de revizii Ford Service</div>
+            <div class="btoArticleText">
+                <div class="btoArticleAbstract">
+                    <div>Uita de grija reviziilor sau a altor operatiuni costisitoare. Planul de revizii Ford Service te
+                        ajuta sa ai mereu masina in stare buna de functionare, te scuteste de cumparatul pieselor de
+                        schimb sau de timpul pierdut in cautarea celui mai avantajos service auto. <br> <br> Ford
+                        Service te asteapta cu preturi speciale la noile Pachete de Revizii, create in functie de model,
+                        pentru o anumita perioada, numar de intretineri de rutina si kilometraj. <br> <br> Alege-l pe
+                        cel potivit:<br> &nbsp;</div>
+                    <table cellspacing="0" cellpadding="3" width="448" border="1">
+                        <colgroup>
+                            <col width="146"/>
+                            <col width="156"/>
+                            <col width="146"/>
+                        </colgroup>
+                        <tbody>
+                        <tr height="40">
+                            <td style="text-align: center; background-color:#42596B; vertical-align:middle;" width="146"
+                                height="34"><strong><span
+                                        style="color: rgb(255, 255, 255);">Plan de revizii</span></strong></td>
+                            <td style="text-align: center; background-color:#42596B; vertical-align:middle;"
+                                width="156"><strong><span style="color: rgb(255, 255, 255);">Model</span></strong><span
+                                    style="color: rgb(255, 255, 255);">             </span></td>
+                            <td style="text-align: center; background-color:#42596B; vertical-align:middle;"
+                                width="146"><strong><span style="color: rgb(255, 255, 255);">                 Pret cu TVA ( Euro )             </span></strong>
+                            </td>
+                        </tr>
+                        <tr height="17">
+                            <td rowspan="8"
+                                style="background-color: rgb(237, 237, 237); text-align: center; vertical-align:middle;"
+                                height="136">5 ani / 2 revizii
+                            </td>
+                            <td>Tourneo Custom</td>
+                            <td style="text-align: right;">550 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">Transit Custom</td>
+                            <td style="text-align: right;">550 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">TRANSIT V363</td>
+                            <td style="text-align: right;">550 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">New Fiesta B479</td>
+                            <td style="text-align: right;">400 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">Mondeo Diesel</td>
+                            <td style="text-align: right;">550 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">Ranger</td>
+                            <td style="text-align: right;">600 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">Edge</td>
+                            <td style="text-align: right;">600 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">S-Max Diesel</td>
+                            <td style="text-align: right;">600 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td colspan="3" height="17"></td>
+                        </tr>
+                        <tr height="17">
+                            <td rowspan="8"
+                                style="background-color: rgb(237, 237, 237); text-align: center; vertical-align:middle;"
+                                height="136">5 ani / 3 revizii
+                            </td>
+                            <td>Ranger</td>
+                            <td style="text-align: right;">780 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">S-Max Diesel</td>
+                            <td style="text-align: right;">740 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">New Fiesta B479</td>
+                            <td style="text-align: right;">550 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">Mondeo Diesel</td>
+                            <td style="text-align: right;">740 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">Edge</td>
+                            <td style="text-align: right;">750 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">Transit Custom</td>
+                            <td style="text-align: right;">800 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">Tourneo Custom</td>
+                            <td style="text-align: right;">800 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">TRANSIT V363</td>
+                            <td style="text-align: right;">800 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td colspan="3" height="17"></td>
+                        </tr>
+                        <tr height="17">
+                            <td rowspan="21"
+                                style="background-color: rgb(237, 237, 237); text-align: center; vertical-align:middle;"
+                                height="357">5 ani / 4 revizii
+                            </td>
+                            <td>Fiesta</td>
+                            <td style="text-align: right;">600 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">New Fiesta B479</td>
+                            <td style="text-align: right;">700 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">B-Max</td>
+                            <td style="text-align: right;">600 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">Focus excl. Electric</td>
+                            <td style="text-align: right;">650 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">C-Max</td>
+                            <td style="text-align: right;">650 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">EcoSport</td>
+                            <td style="text-align: right;">650 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">Kuga</td>
+                            <td style="text-align: right;">700 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">Kuga 2l Diesel</td>
+                            <td style="text-align: right;">900 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">Mondeo excl. Diesel</td>
+                            <td style="text-align: right;">700 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">Mondeo Diesel</td>
+                            <td style="text-align: right;">1 000 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">S-Max Diesel</td>
+                            <td style="text-align: right;">1 000 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">S-Max Petrol</td>
+                            <td style="text-align: right;">700 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">Edge</td>
+                            <td style="text-align: right;">1 000 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">Ranger</td>
+                            <td style="text-align: right;">1 000 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">Transit Courier</td>
+                            <td style="text-align: right;">650 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">Tourneo Courier</td>
+                            <td style="text-align: right;">650 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">Transit Connect</td>
+                            <td style="text-align: right;">700 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">Tourneo Connect</td>
+                            <td style="text-align: right;">700 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">Transit Custom / Tourneo</td>
+                            <td style="text-align: right;">1 400 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">Transit V363</td>
+                            <td style="text-align: right;">1 400 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">Mustang</td>
+                            <td style="text-align: right;">700 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td colspan="3" height="17"></td>
+                        </tr>
+                        <tr height="17">
+                            <td rowspan="3"
+                                style="background-color: rgb(237, 237, 237); text-align: center; vertical-align:middle;"
+                                height="51">4 ani / 4 revizii
+                            </td>
+                            <td>Transit Custom</td>
+                            <td style="text-align: right;">1 350 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">Tourneo Custom</td>
+                            <td style="text-align: right;">1 350 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">TRANSIT V363</td>
+                            <td style="text-align: right;">1 350 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td colspan="3" height="17"></td>
+                        </tr>
+                        <tr height="17">
+                            <td rowspan="5"
+                                style="background-color: rgb(237, 237, 237); text-align: center; vertical-align:middle;"
+                                height="85">4 ani / 3 revizii
+                            </td>
+                            <td>Ranger</td>
+                            <td style="text-align: right;">770 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">Tourneo Courier</td>
+                            <td style="text-align: right;">500 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">Transit Courier</td>
+                            <td style="text-align: right;">500 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">Tourneo Connect</td>
+                            <td style="text-align: right;">550 &euro;</td>
+                        </tr>
+                        <tr height="17">
+                            <td height="17">Transit Connect</td>
+                            <td style="text-align: right;">550 &euro;</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="center_item">
+        </div>
+        <div class="center_item">
+        </div>
+        <div class="center_item">
+            <!--<START_MPP001 >-->
+            <!--<END_MPP001 >-->
+        </div>
+        <div class="center_item">
+        </div>
+        <div id="center_btt">
+        </div>
+        <!-- TD 8042 - AddThis Social Book Marking tool display Starts-->
+        <!-- TD 8042 - AddThis Ends-->
+        <!-- AddThis Replacement Starts-->
+        <!-- AddThis Replacement Ends-->
+    </div>
+    <div id="container_right">
+        <div class="right_item">
+            <!--<START_MDC001 >-->
+            <div class="mdc001Container" id="dummyDiv">
+                <p class="mdc001Header" id="mdcHeader"></p>
+
+                <div class="mdc001" id="mdc1416477130979">
+                    <div class="mdc001Gradient">
+                        <div class="mdc001GradientContainer"></div>
+                    </div>
+                </div>
+            </div>
+            <script>
+                var theDiv = document.getElementById("mdpImageControl");
+                if (theDiv.style.display == "none") {
+                    dummyDiv.style.display = "none";
+                } else {
+                    dummyDiv.style.display = "block";
+                }
+            </script>
+            <!--<END_MDC001 >-->
+        </div>
+        <!-- Technical Highlights -->
+        <!-- <Start> -->
+        <div class="right_item">
+        </div>
+        <!-- <End> -->
+        <div class="right_item">
+        </div>
+    </div>
 </div>
 <!-- Footer -->
 <!-- <Start> -->
@@ -497,9 +568,3 @@
             var findSpan = $(this).find('> span');
             console.log();
             if (!findSpan.length) {
-                $(this).append('<span></span>');
-            }
-        });
-        ordinaryLink.each(function (i, v) {
-            var findLink = $(this).find('> span');
-            if (!findLink.length) {

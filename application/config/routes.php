@@ -329,6 +329,7 @@ $route['FordLeasing/creditauto'] = 'ford_leasing/credit_auto/index';
 $route['FordLeasing/Overview'] = 'ford_leasing/overview/index';
 
 $route['FordFleet'] = 'flote/flote/index';
+$route['FordFleet/PrezentareGenerala'] = 'flote/prezentare_generala_fl/index';
 
 $route['Tehnologie'] = 'tehnologie/prezentare/index';
 
