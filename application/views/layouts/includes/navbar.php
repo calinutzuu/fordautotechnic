@@ -116,7 +116,7 @@
     <li role="menuitem" class=""><a role="link"
                                     data-selenium="doormat_car_selection Tourneo Courier"
                                     class="om_he_pv_np "
-                                    href="/Autoturisme/focus_2018">Focus
+                                    href="/Autoturisme/focus-2018">Focus
         </a></li>
     <li role="menuitem" class=""><a role="link"
                                     data-selenium="doormat_car_selection Noul Ford GT"
