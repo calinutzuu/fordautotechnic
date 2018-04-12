@@ -17,7 +17,5 @@ class focus_2018 extends CI_Controller
             ->build('autoturisme/focus_2018/design');
     }
 
-
-
 }
 

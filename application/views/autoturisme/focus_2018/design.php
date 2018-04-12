@@ -14,6 +14,9 @@ filter: none;
 <!--<![endif]-->
 
 
+<meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+<!-- /Added by HTTrack -->
+
 <body id="default" itemscope itemtype="http://schema.org/WebPage">
 <script>
 </script>
@@ -41,21 +44,21 @@ filter: none;
     function createPath() {
         var currentURL = window.location.href;
         if (!currentURL.indexOf("/cs/ContentServer?") > -1 && !currentURL.indexOf("/cs/Satellite?") > -1) {
-            if (currentURL.indexOf("=") > -1 && currentURL.indexOf("/") > -1 && !currentURL.indexOf("?") > -1) {
+            if (currentURL.indexOf("=") > -1 && currentURL.indexOf("http://www.ford.ro/") > -1 && !currentURL.indexOf("?") > -1) {
                 currentURL = currentURL.substring(0, currentURL.indexOf("="));
-                currentURL = currentURL.substring(0, currentURL.lastIndexOf("/"));
+                currentURL = currentURL.substring(0, currentURL.lastIndexOf("http://www.ford.ro/"));
             }
             if (currentURL.indexOf("?") > -1) {
                 currentURL = currentURL.substring(0, currentURL.indexOf("?"));
-                if (currentURL.indexOf("=") > -1 && currentURL.indexOf("/") > -1) {
+                if (currentURL.indexOf("=") > -1 && currentURL.indexOf("http://www.ford.ro/") > -1) {
                     currentURL = currentURL.substring(0, currentURL.indexOf("="));
-                    currentURL = currentURL.substring(0, currentURL.lastIndexOf("/"));
+                    currentURL = currentURL.substring(0, currentURL.lastIndexOf("http://www.ford.ro/"));
                 }
             }
         }
 //Remove all trailing / 
-        while (currentURL.endsWith("/")) {
-            currentURL = currentURL.substring(0, currentURL.lastIndexOf("/"));
+        while (currentURL.endsWith("http://www.ford.ro/")) {
+            currentURL = currentURL.substring(0, currentURL.lastIndexOf("http://www.ford.ro/"));
         }
         return currentURL;
     }
@@ -86,13 +89,11 @@ filter: none;
             personal. Puteţi afla mai multe despre fişierele de tip cookie şi despre cum puteţi să le controlaţi cu
             ajutorul setărilor dumneavoastră de navigare din Ghidul Ford privind fişierele de tip cookie.</p>
         <a id="linkID" class="link"
-           href="/Footer/GhidulFordPrivindFisiereleDeTipCookie?intcmp=other-nwp-cookies-cookie-alert-link">
+           href="http://www.ford.ro/Footer/GhidulFordPrivindFisiereleDeTipCookie?intcmp=other-nwp-cookies-cookie-alert-link">
             Aflați mai multe </a>                                </p>
     </div>
 </div>
 
-<!--<END_EP2_HEADER >-->
-<!--<END_EP2_HEADER >-->
 <script type="text/javascript">
     // mobile sniffer
     ForceRedirectUserAgents = 'android,iphone,blackberry';
@@ -103,9 +104,9 @@ filter: none;
 <div id="xAxis-detailed">
     <nav class="breadCrumb visuallyhidden" role="navigation">
         <ul itemprop="breadcrumb">
-            <li class="home"><a href="/" data-selenium="breadcrumb_home" class="om_bc_li"
+            <li class="home"><a href="http://www.ford.ro/" data-selenium="breadcrumb_home" class="om_bc_li"
                                 title="Pagina principal&#259;">Pagina principal&#259;</a><span></span></li>
-            <li data-selenium="breadcrumb_cars"><a href="/Autoturisme" class="om_bc_li">
+            <li data-selenium="breadcrumb_cars"><a href="http://www.ford.ro/Autoturisme" class="om_bc_li">
                     Autoturisme
                 </a><span></span></li>
             <li data-selenium="breadcrumb_nameplate">Focus</li>
@@ -385,8 +386,8 @@ filter: none;
                             <article class='three-column'>
                                 <div class="content-block">
                                     <img
-                                            src="/assets/img/1214656620816.jpg"
-                                            alt="Ford Focus parked by trees"/><span class="fv-overlay-icon"></span>
+                                        src="/assets/img/1214656620816.jpg"
+                                        alt="Ford Focus parked by trees"/><span class="fv-overlay-icon"></span>
 
                                     <h3 class="bigHeading02">
                                     </h3>
@@ -398,9 +399,9 @@ filter: none;
                                 </div>
                                 <div class="content-block">
                                     <img
-                                            src="/assets/img/1214656621345.jpg"
-                                            alt="Ford Focus interior rear seats view"/><span
-                                            class="fv-overlay-icon"></span>
+                                        src="/assets/img/1214656621345.jpg"
+                                        alt="Ford Focus interior rear seats view"/><span
+                                        class="fv-overlay-icon"></span>
 
                                     <h3 class="bigHeading02">
                                     </h3>
@@ -412,9 +413,9 @@ filter: none;
                                 </div>
                                 <div class="content-block last">
                                     <img
-                                            src="/assets/img/1214656620902.jpg"
-                                            alt="Ford Focus parked by the beach"/><span
-                                            class="fv-overlay-icon"></span>
+                                        src="/assets/img/1214656620902.jpg"
+                                        alt="Ford Focus parked by the beach"/><span
+                                        class="fv-overlay-icon"></span>
 
                                     <h3 class="bigHeading02">
                                     </h3>
@@ -427,10 +428,10 @@ filter: none;
                             </article>
                             <article class='three-column'>
                                 <div class="content-block">
-                                    <img
-                                            src="/assets/img/1214656620630.jpg"
-                                            alt="Ford Focus interior cockpit view"/><span
-                                            class="fv-overlay-icon"></span>
+                                    ><img
+                                        src="/assets/img/1214656620630.jpg"
+                                        alt="Ford Focus interior cockpit view"/><span
+                                        class="fv-overlay-icon"></span>
 
                                     <h3 class="bigHeading02">
                                     </h3>
@@ -442,9 +443,9 @@ filter: none;
                                 </div>
                                 <div class="content-block">
                                     <img
-                                            src="/assets/img/1214656621431.jpg"
-                                            alt="Ford Focus interior cockpit view"/><span
-                                            class="fv-overlay-icon"></span>
+                                        src="/assets/img/1214656621431.jpg"
+                                        alt="Ford Focus interior cockpit view"/><span
+                                        class="fv-overlay-icon"></span>
 
                                     <h3 class="bigHeading02">
                                     </h3>
@@ -456,9 +457,9 @@ filter: none;
                                 </div>
                                 <div class="content-block last">
                                     <img
-                                            src="/assets/img/1214656620988.jpg"
-                                            alt="Ford Focus turning corner side view"/><span
-                                            class="fv-overlay-icon"></span>
+                                        src="/assets/img/1214656620988.jpg"
+                                        alt="Ford Focus turning corner side view"/><span
+                                        class="fv-overlay-icon"></span>
 
                                     <h3 class="bigHeading02">
                                     </h3>
@@ -472,9 +473,9 @@ filter: none;
                             <article class='three-column'>
                                 <div class="content-block">
                                     <img
-                                            src="/assets/img/1214656621161.jpg"
-                                            alt="Ford Focus rear load space view"/><span
-                                            class="fv-overlay-icon"></span>
+                                        src="/assets/img/1214656621161.jpg"
+                                        alt="Ford Focus rear load space view"/><span
+                                        class="fv-overlay-icon"></span>
 
                                     <h3 class="bigHeading02">
                                     </h3>
@@ -486,8 +487,8 @@ filter: none;
                                 </div>
                                 <div class="content-block">
                                     <img
-                                            src="/assets/img/1214656621075.jpg"
-                                            alt="Ford Focus side view"/><span class="fv-overlay-icon"></span>
+                                        src="/assets/img/1214656621075.jpg"
+                                        alt="Ford Focus side view"/><span class="fv-overlay-icon"></span>
 
                                     <h3 class="bigHeading02">
                                     </h3>
@@ -498,9 +499,9 @@ filter: none;
                                     </p>
                                 </div>
                                 <div class="content-block last">
-                                   <img
-                                            src="/assets/img/1214656621517.jpg"
-                                            alt="Ford Focus parked on grass"/><span class="fv-overlay-icon"></span>
+                                    <img
+                                        src="/assets/img/1214656621517.jpg"
+                                        alt="Ford Focus parked on grass"/><span class="fv-overlay-icon"></span>
 
                                     <h3 class="bigHeading02">
                                     </h3>
@@ -562,7 +563,7 @@ filter: none;
 </div>
 
 </div>
-<script src="/cs/ContentServer?pagename=EP2%2fENGInE%2fscript%2fGroupedJS"
+<script src="http://www.ford.ro/cs/ContentServer?pagename=EP2%2fENGInE%2fscript%2fGroupedJS"
         type="text/javascript"></script>
 <script
     src="/cs/ContentServer?pagename=ENGInE/EP2/common/GetScript&amp;elements=/EP2/body/cars/xaxis_detailed/xaxisctaview_script"></script>
