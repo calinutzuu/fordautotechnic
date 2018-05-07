@@ -1,35 +1,4 @@
-<!DOCTYPE html>
-<!--[if IE 8]>
-<html class="no-js lt-ie10 lt-ie9" lang="en" xmlns:fb="http://ogp.me/ns/fb#"> <![endif]-->
-<!--[if IE 9]>
-<html class="no-js lt-ie10" lang="en" xmlns:fb="http://ogp.me/ns/fb#"> <![endif]-->
-<!--[if gt IE 9]><!-->
-<html class="no-js" lang="en"> <!--<![endif]-->
 
-
-<body data-carousel="1205113502855" class="overrideBody">
-<script>
-    var TagIT = TagIT || {};
-</script>
-<script>
-    var TagIT = TagIT || {};
-    TagIT.GtmId = 'GTM-WL5HW9';
-</script>
-<noscript>
-    <iframe
-        src="http://www.googletagmanager.com/ns.html?id=GTM-WL5HW9" height="0"
-        width="0" style="display: none; visibility: hidden"></iframe>
-</noscript>
-<script
-    src='/cs/ContentServer?pagename=RORO4_ENGINE/script/tagit/assembler&amp;c=Page&amp;cid=1&amp;location=body&amp;isMobile=false&amp;require=NONE'
-    defer></script>
-<script
-    src='/cs/ContentServer?cid=1&amp;isMobile=false&amp;pagename=RORO4_ENGINE%2Fscript%2Ftagit%2Fstatic&amp;require=NONE&amp;location=body&amp;c=Page'></script>
-<div id="wrapper">
-<!--<START_EP2_HEADER >-->
-<script type="text/javascript">
-    var fw_animationSpeed = 350;
-</script>
 <div id="cookieAlertBoxID" class="cookieAlertBox">
     <div class="midContent">
         <div class="cookie-closebtn"><a id="closeBtnID" class="icon closeBtn" href="#" title="Close">Close</a></div>
@@ -50,285 +19,331 @@
 
 <!--<END_EP2_HEADER >-->
 <div class="mainContent">
-<img
-    src="/assets/img/promotii/1214644134891.jpg"
-    alt="Business Weeks"/>
+
+<div class="img-column"><img
+        src="/assets/img/ecobonus/1214657252183.jpg"
+        alt="Ford Edge"/>
+
+</div>
 <section id="fv-wrapper">
 <section id="carouselize" class="carousel-container carousel"></section>
-<section class="mid-page-content centered">
-<div class="tab-content">
-<header class="intro-header">
-    <h1 class="bigHeading">
-        Ford Business Weeks
-    </h1>
-    <br>
-    <span class="highlighter"></span>
-
-    <p class="intro-text">
-
-    <p>Cand ai propria afacere, te afli pe un drum lung, plin de provocari si obstacole. Un drum pentru
-        care ai nevoie <br> de un partener pe masura: Ford Business Partner.<br> <br> Ford este un partener
-        traditional pentru oamenii de afaceri, depunand permanent eforturi<br> pentru a oferi sprijin in mod
-        real, prin solutii eficiente si beneficii multiple. <br> <br> In cadrul promotiei Ford Business
-        Partner poti alege modelul cel mai potrivit pentru afacerea ta,<br> dintr-o gama de autoturisme
-        adaptate fiecarei nevoi, dar care au in comun calitatea, eficienta si siguranta. <br>In plus,
-        beneficiezi de conditii speciale de finantare: <strong>0% avans* pentru leasing
-            operational</strong>, impreuna<br> cu un set complet de <strong>servicii incluse in
-            pret:</strong> <br> <br> o Costuri complete de inmatriculare, inclusiv vigneta;<br> o
-        Costuri de asigurare &ndash; Casco, RCA si Asigurare pentru sofer si persoanele transportate;
-        <br> o Asistenta pentru vehicul si sofer;<br> o Mentenanta cu piese originale;<br> o Anvelope de
-        iarna si de vara, precum si administrarea acestora.<br> <br> Alege, deci, unul dintre modelele
-        participante la promotie si ia legatura cu cel mai apropiat consultant de flote Ford,<br> pentru a
-        discuta optiunile cele mai potrivite pentru afacerea ta:</p>
-    </p>
-    <br>
-</header>
-<article class="content-column right">
-    <div class="content">
-        <h3 class="bigHeading">
-            <strong>NOUL FORD FIESTA</strong>
-        </h3>
-        <br>
-
-        <div class="img-column">
-            <img src="/assets/img/promotii/1214619333199.jpg"
-                 alt="Ford Fiesta"/><span class="fv-overlay-icon"></span></a></div>
-        <br>
-
-        <p>
-
-        <p>Daca ai nevoie de o masina inteligenta, de dimensiuni mici, care atrage privirile la orice
-            intalnire cu clientii, Ford Fiesta, <br>cu motor 1.5 TDCi 85 CP, este alegerea perfecta - acum
-            disponibila cu <strong> 0% avans* si toate serviciile incluse</strong>, <br> la o <strong>rata
-                lunara de 239 Euro</strong> prin leasing operational. In plus, pretul include dotarile
-            din pachetul Trend:</p>
-
-        <p>- aer conditionat manual;<br> - sistem SYNC III cu Bluetooth, conexiune USB, display 6.5&quot;
-            si Asistenta in caz de urgenta (112);<br> - faruri de ceata.<br> <br> <a
-                HREF="/Autoturisme/noul-fiesta"><u><strong>Afla mai
-                        multe </strong></u></a>despre Ford Fiesta sau</p>
-
-        <p>Contacteaza cel mai apropiat <a HREF="/SBE/dealeri-ford"><u><strong>dealer
-                        Ford.</strong></u></a><br> &nbsp;&nbsp;</p>
-
-        <div><font onmouseout="this.style.color='#000000'" color="#000000">
-                <div><span style="font-size: medium;"><span color="#005f97"> <div
-                                style="text-align: center;" id="replie2"><font
-                                    onmouseout="this.style.color='#000000'" color="#000000"><span
-                                        onclick="document.getElementById('deplie2').style.display = 'block'; document.getElementById('replie2').style.display = 'none';"><a><span
-                                                style="font-size: medium;"><font
-                                                    onmouseover="this.style.color='#fa5514'"
-                                                    onmouseout="this.style.color='#0d4bb3'"
-                                                    color="#0d4bb3"><u>*Termeni si
-                                                        conditii </u></font></span></a></span></font>
-                            </div> <div style="display: none; text-align: left;" id="deplie2"><span
-                                    onclick="document.getElementById('replie2').style.display = 'block'; document.getElementById('deplie2').style.display = 'none';"><font
-                                        onmouseout="this.style.color='#0d4bb3'" color="#0d4bb3"><u>*Termeni
-                                            si conditii</u></font> <font
-                                        onmouseout="this.style.color='#000000'" color="#000000"><br>
-                                        <br> </font> <div style="text-align: left;"><font
-                                            onmouseout="this.style.color='#000000'"
-                                            color="#000000"><span> <p><em>Imagine cu titlu de
-                                                        prezentare, care nu creeaza obligatii
-                                                        contractuale. <br> <br> Oferta de leasing
-                                                        operational este adresata exclusiv persoanelor
-                                                        juridice si PFA-urilor si este realizata de ALD
-                                                        Automotive pentru modelul Ford Fiesta 1.5 TDCI
-                                                        85CP Trend, motorizare Diesel, CO<sub>2</sub>:93
-                                                        g/km., avand consum mediu de 3,60l/100km.
-                                                        Serviciile incluse in cadrul contractului de
-                                                        leasing operational sunt urmatoarele: Costuri de
-                                                        inmatriculare, Vigneta, Asigurari CASCO si RCA,
-                                                        Mentenanta cu piese originale in reteaua
-                                                        autorizata Ford, Anvelope iarna-vara premium si
-                                                        administrarea acestora, Asistenta Vehicul si
-                                                        Sofer valabila 24/7.<br> <br> La stabilirea
-                                                        ratei lunare s-au luat in considerare urmatorii
-                                                        parametri: un kilometraj de 90.000km/ contract
-                                                        si o durata a contractului de 57 luni. Oferta de
-                                                        leasing operational este indicativa si poate fi
-                                                        supusa unor termene si conditii suplimentare in
-                                                        functie de rezultatul analizei financiare a
-                                                        aplicantului. <br> <br> Oferta e valabila pentru
-                                                        contractele de leasing operational semnate pana
-                                                        la data de 31.12.2017, in limita stocului
-                                                        disponibil. <br> <br> Oferta nu include
-                                                        echipamente/accesorii/dotari optionale
-                                                        suplimentare pachetului Trend. </em>
-                                                </p> <br> <br> </span></font></div> </span>
-                            </div> </span></span></div>
-                <p><span style="font-size: x-small;"><font onmouseout="this.style.color='#000000'"
-                                                           color="#000000"> <strong><br>
-                            </strong></font></span></p></font></div>
-        <div><font onmouseout="this.style.color='#000000'" color="#000000"> </font></div>
-        </p>
-    </div>
-
-</article>
-
-<article class="content-column left">
-    <br><br>
-    <div class="content">
-        <h3 class="bigHeading">
-            <strong>FORD FOCUS</strong>
-        </h3>
-        <br>
-               <div class="img-column">
-            <img src="/assets/img/promotii/1214644134811.jpg"
-                 alt="Ford Focus"/><span class="fv-overlay-icon"></span></div>
-        <p>
-            <br>
-
-        <p>Vrei sa faci fata cu succes provocarilor urbane fara a face rabat de la eleganta? Daca da,
-            alege Ford Focus &ndash; inteligent, sofisticat si eficient!<br> <br> Focus Trend cu 5 usi
-            si motor 1.5 TDCi 95CP poate fi al tau acum, <br>cu <strong>0% avans* si toate serviciile
-                incluse</strong>, la o <strong>rata lunara de 250 Euro</strong> prin leasing
-            operational, <br>cu Pachetul Trend inclus:<br> - aer conditionat automat cu reglare separata
-            stanga/dreapta;<br> - covorase de velur fata si spate cu logo Ford;<br> - consola centrala
-            cu cotiera;<br> - faruri de ceata;<br> - radio CD cu MP3 player, USB, 6 difuzoare, comenzi
-            audio pe volan, SYNC Gen 3 cu touchscreen <br> color de 8&quot;, Blue Tooth si Voice Control si
-            Sistem de asistenta in caz de urgenta (112)<br> <br> <u><strong><a
-                        HREF="/Autoturisme/Focus">Afla mai multe</a></strong></u>
-            despre Ford Focus sau<br> Contacteaza cel mai apropiat<a
-                HREF="/SBE/dealeri-ford"> <u><strong>dealer
-                        Ford</strong></u></a><u><strong>.</strong></u></p>
-
-        <div>&nbsp;</div>
-        <div><span style="font-size: medium;"><span color="#005f97"> <div style="text-align: center;"
-                                                                          id="replie6"><font
-                            onmouseout="this.style.color='#000000'" color="#000000"><span
-                                onclick="document.getElementById('deplie6').style.display = 'block'; document.getElementById('replie6').style.display = 'none';"><a><span
-                                        style="font-size: medium;"><font
-                                            onmouseover="this.style.color='#fa5514'"
-                                            onmouseout="this.style.color='#0d4bb3'" color="#0d4bb3"><u>*Termeni
-                                                si conditii </u></font></span></a></span></font></div> <div
-                        style="display: none; text-align: center;" id="deplie6"><span
-                            onclick="document.getElementById('replie6').style.display = 'block'; document.getElementById('deplie6').style.display = 'none';"><font
-                                onmouseout="this.style.color='#0d4bb3'" color="#0d4bb3"><u>*Termeni si
-                                    conditii</u></font> <font onmouseout="this.style.color='#000000'"
-                                                              color="#000000"><br> <br> </font> <div
-                                style="text-align: center;"><font onmouseout="this.style.color='#000000'"
-                                                                color="#000000"><span> <p><em>Imagine cu
-                                                titlu de prezentare, care nu creeaza obligatii
-                                                contractuale. <br> <br> Oferta de leasing operational de
-                                                mai jos este adresata exclusiv persoanelor juridice si
-                                                PFA-urilor si este realizata de ALD Automotive pentru
-                                                modelul Ford Focus 1.5 TDCI 95CP Trend, motorizare
-                                                Diesel, CO<sub>2</sub>: 105g/km.,avand consum mediu de
-                                                4,10l/100km. Serviciile incluse in cadrul contractului
-                                                de leasing operational sunt urmatoarele: Costuri de
-                                                inmatriculare, Vigneta, Asigurari CASCO si RCA,
-                                                Mentenanta cu piese originale in reteaua autorizata
-                                                Ford, Anvelope iarna-vara premium si administrarea
-                                                acestora, Asistenta Vehicul si Sofer valabila 24/7. La
-                                                stabilirea ratei lunare s-au luat in considerare
-                                                urmatorii parametrii: un kilometraj total de 90.000 km
-                                                si o durata a contractului de 57 luni. Oferta de leasing
-                                                operational este indicativa si poate fi supusa unor
-                                                termene si conditii suplimentare in functie de
-                                                rezultatul analizei financiare a aplicantului. <br> <br>
-                                                Oferta este valabila pentru contractele de leasing
-                                                operational semnate pana la data de 31.12.2017, in
-                                                limita stocului disponibil. <br> <br> Oferta nu include
-                                                echipamente/accesorii/dotari optionale suplimentare
-                                                pachetului Trend. </em></p> <br> <br> </span></font>
-                            </div> </span></div> </span></span></div>
-        <p><span style="font-size: x-small;"><font onmouseout="this.style.color='#000000'"
-                                                   color="#000000"> <strong><br> </strong></font></span>
-        </p>
-
-        <div><font onmouseout="this.style.color='#000000'" color="#000000"> </font></div>
-        </p>
-    </div>
-</article>
-<article class="content-column right">
-    <div class="content">
-        <br> <br>
-        <h3 class="bigHeading">
-            <strong>FORD KUGA</strong>
-        </h3>
+<section class="mid-page-content">
+    <div class="tab-content">
+        <article class="content-column right">
+            <div class="img-column"><img
+                    src="/assets/img/ecobonus/1214657252921.jpg"
+                    alt="Ford Business Weeks Autoturisme"/><span class="fv-overlay-icon"></span></div> <br>
+            <div class="content">
+                <h3 class="bigHeading">
+                    FORD FIESTA ACTIVE
+                </h3>
 <br>
-        <div class="img-column">
-            <img src="/assets/img/promotii/1214619333451.jpg"
-                 alt="Ford Kuga"/><span class="fv-overlay-icon"></span></a></div>
+                <p>
+
+                <p>Un stil de business activ impune o masina pe masura. Noul Fiesta Active ofera flexibilitate si
+                    utilitate pe sosea si nu numai, fiind primul model de Fiesta crossover de pana acum. <br>
+                    Designul ei e inspirat de SUV-urile impunatoare, cu garda la sol ridicata, scaune sport si protectii
+                    suplimentare. Pentru ca tu sa conduci mai dinamic si sa te bucuri de o experienta hatchback unica. O
+                    masina mica, care face economie mare si impresie si mai mare, la intalnirile cu clientii.</p>
+
+                <p>Oferta pentru <strong>Fiesta Active I, 5 usi, 1.0, 100CP</strong> include pachetul de optiuni
+                    <strong>ACTIVE I</strong> si anume:<br>
+                    &bull; Oglinzi electrice, rabatabile si incalzite cu sistem de semnalizare incorporat<br>
+                    &bull; SYNC III,touchescreen 6,5''<br>
+                    &bull; 10 difuzoare, 2 usb, DAB, sistem de sonorizare B&amp;O<br>
+                    &nbsp;&nbsp;&nbsp;</p>
+
+                <p>Vino in showroom-urile Ford la Business Weeks si profita de oferta speciala pentru <strong>Fiesta
+                        Active I: numai 11.990 euro fara TVA*</strong> <br>
+                    <strong>Sau rezerva acum oferta speciala, <a
+                            HREF="https://secure.ford.ro/Promotii/Autoturisme/BusinessWeeks/rezervare">aici</a>:</strong><br>
+                    <br>
+                    <a HREF="/SBE/dealeri-ford">Gaseste cel mai apropiat dealer Ford.</a><br>
+                </p>
+
+                <div id="replie2" style="display: block"><span
+                        onclick="document.getElementById('deplie2').style.display = 'block'; document.getElementById('replie2').style.display = 'none';">
+<p><a class="linkText"><u> *Termeni si conditii</u></a></p>
+</span></div>
+                <div id="deplie2" style="display: none"><span
+                        onclick="document.getElementById('replie2').style.display = 'block'; document.getElementById('deplie2').style.display = 'none';">
+<p><a class="linkText"><u> Mai putin</u></a></p>
+<p><em>* Imaginea este cu titlu de prezentare si nu creeaza obligatii contractuale. Oferta financiara este adresata
+        exclusiv persoanelor juridice si este realizata pentru modelul FIESTA ACTIVE I, 5 usi, 1.0, 100CP, cutie manuala
+        6 trepte, dotata cu pachetul de optiuni ACTIVE I (EATC / Oglinzi electrice, rabatabile si incalzite cu sistem de
+        semnalizare incorporat / ICE PACK 17 : SYNC III, touchescreen 6,5'', 10 difuzoare, 2 usb, DAB, B&amp;O) in
+        valoare totala de 11.990 Euro fara TVA. <br>
         <br>
-        <p>
+        Oferta: 1. nu include contravaloarea altor echipamente, accesorii sau dotari optionale suplimentare celor expuse
+        mai sus;&nbsp; 2. este supusa unor termene, respectiv conditii suplimentare celor afisate; 3. este valabila in
+        limita stocului de vehicule disponibil la dealerii participanti in program; 4. este valabila pana la 31.05.2018.<br>
+        <br>
+        Consumul mixt masurat in conformitate cu dispozitiile legale in vigoare (e.g Directiva Europeana nr. 715/2007):
+        4.8 l /100 km, emisii CO2 (g/km): 120, valoare masurata in conformitate cu dispozitiile legale in vigoare. <br>
+        <br>
+        Detalii si explicatii suplimentare despre campanie - la dealerii autorizati Ford participanti la campanie si pe
+        <a HREF="/">www.ford.ro</a>.</em></p>
+</span></div>
+                </p>
+            </div>
 
-        <p>Pentru cei care nu se opresc din explorare &ndash; nici in afaceri si nici in viata
-            personala, Kuga este raspunsul pentru orice intrebare. <br>Urca la volanul unui Ford Kuga,
-            echipat cu motor 1.5 TDCi 120CP, gratie unei oferte speciale: <strong>0% avans* si toate
-                serviciile incluse,<br></strong> cu o<strong> rata lunara de 318 Euro</strong> prin leasing
-            operational. Oferta include dotarile din pachetul Trend:<br> <br> - jante aliaj 17''<br> -
-            aer conditionat automat cu reglare separata stanga/dreapta;<br> - Radio CD cu MP3, 8&quot;
-            touchscreen, display central, 6 difuzoare, comenzi audio pe volan, BlueTooth/Voice control
-            (limba engleza),<br> USB, SYNC Gen 3, Sistem de asistenta in caz de urgenta (112).<br> <br> <a
-                HREF="/Autoturisme/Noul_Kuga"><u><strong>Afla mai
-                        multe</strong></u></a> despre Ford Kuga sau<br> Contacteaza cel mai apropiat <a
-                HREF="/SBE/dealeri-ford"><u><strong>dealer Ford.</strong></u></a><br>
-            <br> &nbsp;</p>
+        </article>
+        <br>
+        <article class="content-column left">
+            <div class="img-column"><img
+                        src="/assets/img/ecobonus/1214657253007.jpg"
+                        alt="Ford Business Weeks Autoturisme"/><span class="fv-overlay-icon"></span></div>
+            <div class="content"> <br>
+                <h3 class="bigHeading">
+                    FORD MONDEO TITANIUM HEV
+                </h3>
+<br>
+                <p>
 
-        <div></div>
-        <div></div>
-        <div><font onmouseout="this.style.color='#000000'" color="#000000">
-                <div><strong> <font onmouseout="this.style.color='#000000'"
-                                    color="#000000"> </font></strong></div>
-                <div></div>
-                <div><span style="font-size: medium;"><span color="#005f97"> <div
-                                style="text-align: center;" id="replie10"><font
-                                    onmouseout="this.style.color='#000000'" color="#000000"><span
-                                        onclick="document.getElementById('deplie10').style.display = 'block'; document.getElementById('replie10').style.display = 'none';"><a><span
-                                                style="font-size: medium;"><font
-                                                    onmouseover="this.style.color='#fa5514'"
-                                                    onmouseout="this.style.color='#0d4bb3'"
-                                                    color="#0d4bb3"><u>*Termeni si
-                                                        conditii </u></font></span></a></span></font>
-                            </div> <div style="display: none; text-align: left;" id="deplie10"><span
-                                    onclick="document.getElementById('replie10').style.display = 'block'; document.getElementById('deplie10').style.display = 'none';"><font
-                                        onmouseout="this.style.color='#0d4bb3'" color="#0d4bb3"><u>*Termeni
-                                            si conditii</u></font> <font
-                                        onmouseout="this.style.color='#000000'" color="#000000"><br>
-                                        <br> </font> <div style="text-align: left;"><font
-                                            onmouseout="this.style.color='#000000'"
-                                            color="#000000"><span> <p><em>Imaginea afisata este cu titlu
-                                                        de prezentare si nu creeaza obligatii
-                                                        contractuale<br> <br> Imagine cu titlu de
-                                                        prezentare, care nu creeaza obligatii
-                                                        contractuale. <br> <br> Oferta de leasing
-                                                        operational de mai jos este adresata exclusiv
-                                                        persoanelor juridice si PFA-urilor si este
-                                                        realizata de ALD Automotive pentru modelul Ford
-                                                        Kuga 1.5 TDCI si 120 CP Trend, motorizare
-                                                        Diesel, CO<sub>2</sub>: 115gr., avand consum
-                                                        mediu de 4,40l/100km. Serviciile incluse in
-                                                        cadrul contractului de leasing operational sunt
-                                                        urmatoarele: Costuri de inmatriculare, Vigneta,
-                                                        Asigurari CASCO si RCA, Mentenanta cu piese
-                                                        originale in reteaua autorizata Ford, Anvelope
-                                                        iarna-vara premium si administrarea acestora,
-                                                        Asistenta Vehicul si Sofer valabila 24/7. La
-                                                        stabilirea ratei lunare s-au luat in considerare
-                                                        urmatorii parametrii: un kilometraj total de
-                                                        90.000 km si o durata a contractului de 57 luni.
-                                                        Oferta de leasing operational este indicativa si
-                                                        poate fi supusa unor termene si conditii
-                                                        suplimentare in functie de rezultatul analizei
-                                                        financiare a aplicantului. <br> <br> Oferta este
-                                                        valabila pentru contractele de leasing
-                                                        operational semnate pana la data de 31.12.2017,
-                                                        in limita stocului disponibil. <br> <br> Oferta
-                                                        nu include echipamente/accesorii/dotari
-                                                        optionale suplimentare pachetului Trend. </em>
-                                                </p> <br> <br> </span></font></div> </span>
-                            </div> </span></span></div>
-                <p><span style="font-size: x-small;"><font onmouseout="this.style.color='#000000'"
-                                                           color="#000000"> <strong><br>
-                            </strong></font></span></p></font></div>
-        <div><font onmouseout="this.style.color='#000000'" color="#000000"> </font></div>
-        </p>
+                <p>In afaceri, cauti mereu sa salvezi costuri si sa fii cu un pas inaintea tuturor. Poate e momentul sa
+                    iti extinzi echipa cu un leader al eficientei de combustibil si al tehnologiilor inovatoare. <br>
+                    Fa acum trecerea de la motorul pe benzina, la cel electric si du-ti afacerea la urmatorul nivel.<br>
+                    &nbsp;&nbsp;&nbsp;</p>
+
+                <p><strong>Ford Mondeo Titanium HEV, 2.0 HY, 187 CP</strong>, este inzestrat cu un motor de 2 litri
+                    benzina, asortat cu doua motoare electrice si ultimele dotari si tehnologii din pachetul Titanium,
+                    precum:<br>
+                    &bull; Sistem navigatie<br>
+                    &bull; SYNC III cu display 8&quot; cu touch screen&ugrave;<br>
+                    &bull; 9 difuzoare, radio SONY, comenzi audio pe volan, Bluetooth / Voice Control (limba engleza)
+                    conexiune USB<br>
+                    &bull; Sistem Keyless Start<br>
+                    &bull; Sistem de asistenta in caz de urgenta<br>
+                    &bull; Scaune fata incalzite, parbriz incalzit<br>
+                    &bull; Faruri autoadaptive cu tehnologie LED<br>
+                    &bull; Geamuri fumurii</p>
+
+                <p>Vino in showroom-urile Ford la Business Weeks si primesti beneficii de exceptie pentru afacerea ta:
+                    <br>
+                    - <strong>20.900 euro fara TVA*</strong><br>
+                    - <strong>Pachet Titanium inclus in pret*</strong><br>
+                    &nbsp;&nbsp;&nbsp;&nbsp; <br>
+                    <strong>Sau rezerva acum oferta speciala, <a
+                            HREF="https://secure.ford.ro/Promotii/Autoturisme/BusinessWeeks/rezervare">aici</a>:<br>
+                        &nbsp;&nbsp;&nbsp; <br>
+                    </strong><a HREF="/SBE/dealeri-ford">Gaseste cel mai apropiat dealer
+                        Ford.</a><strong><br>
+                        &nbsp;&nbsp;&nbsp; </strong></p>
+
+                <div id="replie3" style="display: block"><span
+                        onclick="document.getElementById('deplie3').style.display = 'block'; document.getElementById('replie3').style.display = 'none';">
+<p><a class="linkText"><u> *Termeni si conditii</u></a></p>
+</span></div>
+                <div id="deplie3" style="display: none"><span
+                        onclick="document.getElementById('replie3').style.display = 'block'; document.getElementById('deplie3').style.display = 'none';">
+<p><a class="linkText"><u> Mai putin</u></a></p>
+<p><em>&ldquo;Imaginea este cu titlu de prezentare si nu creeaza obligatii contractuale. Oferta financiara este adresata
+        exclusiv persoanelor juridice si este realizata pentru modelul Mondeo Titanium Hybrid 2.0 HY 187 CP dotat cu:&ndash;
+        sistem navigatie,SYNC generatia a III-a, display 8&quot; cu touch screen, 9 difuzoare, radio SONY, comenzi audio
+        pe volan, Bluetooth / Voice Control (limba engleza), conexiune USB, Sistem de asistenta in caz de urgenta,
+        scaune fata incalzite, parbriz incalzit, faruri autoadaptive cu tehnologie LED, sistem Keyless Start, geamuri
+        fumurii,&nbsp; in valoare totala de 20.900 Euro fara TVA <br>
+        <br>
+        Oferta: 1.nu include contravaloarea altor echipamente, accesorii sau dotari optionale suplimentare celor expuse
+        mai sus; 2. este supusa unor termene, respectiv conditii suplimentare celor afisate aici; 3.este valabila in
+        limita stocului de vehicule disponibil la dealerii participanti in program; 4. este valabila pana la 31.05.2018.<br>
+        <br>
+        Consumul mixt masurat in conformitate cu dispozitiile legale in vigoare (e.g Directiva Europeana nr. 715/2007):
+        4.8 l /100 km; Ememisii CO2 (g/km): 115, valoare masurata in conformitate cu dispozitiile legale in vigoare.
+        <br>
+        <br>
+        Detalii si explicatii suplimentare despre campanie - la dealerii autorizati Ford participanti la campanie si pe
+    </em><a HREF="/"><em>www.ford.ro</em></a><em>.&rdquo;</em></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</span></div>
+                </p>
+            </div>
+        </article>
+        <article class="content-column right">
+            <div class="content">
+                <div class="img-column"><img
+                        src="/assets/img/ecobonus/1214657253093.jpg"
+                        alt="Ford Business Weeks Autoturisme"/><span class="fv-overlay-icon"></span></div><br>
+                <h3 class="bigHeading">
+                    FORD ECOSPORT
+                </h3>
+<br>
+                <p>
+
+                <p>Partenerul care iti poate garanta increderea la volan, iti garanteaza si incredere pe parcursul
+                    businessului tau.<br>
+                    &nbsp;&nbsp;&nbsp;&nbsp; <br>
+                    Iesi la intalnirile de afaceri cu o masina ce are toate atributele unui SUV, cu un plus de
+                    rafinament si design care impresioneaza la primul contact.<br>
+                    &nbsp;&nbsp;</p>
+
+                <p><strong>EcoSport 4x2 Trend, 1.5 EcoBlue, 125 CP</strong>&nbsp; se remarca prin tehnologii si
+                    caracteristici create sa poti cuceri atat terenul urban cat si pe cel mai putin accesibil, oriunde
+                    te-ar duce afacerea ta.<br>
+                    &nbsp;&nbsp;&nbsp; <br>
+                    <strong>Pachetul Trend</strong> iti aduce in plus, fara costuri suplimentare:<br>
+                    &nbsp;&nbsp;&nbsp;&nbsp; <br>
+                    bare de plafon negre<br>
+                    &bull; jante aliaj 16&quot;<br>
+                    &bull; pachetul Cool&amp;Sound (EATC, SYNC 3, ecran de 6.5&quot;)<br>
+                    &nbsp;&nbsp;</p>
+
+                <p>Vino in showroom-urile Ford la Business Weeks &ndash; te asteapta beneficii de exceptie pentru
+                    afacerea ta:<br>
+                    &nbsp;&nbsp;&nbsp;&nbsp; <br>
+                    <strong>- dobanda 0%*<br>
+                        - rata lunara 170 euro *</strong><br>
+                    &nbsp;&nbsp;&nbsp;&nbsp; <br>
+                    <strong>Sau rezerva acum oferta speciala, <a
+                            HREF="https://secure.ford.ro/Promotii/Autoturisme/BusinessWeeks/rezervare">aici</a>:</strong><br>
+                    &nbsp;&nbsp;&nbsp;&nbsp; <br>
+                    <a HREF="/SBE/dealeri-ford">Gaseste cel mai apropiat dealer Ford.</a><br>
+                    <br>
+                    &nbsp;&nbsp;&nbsp; </p>
+
+                <div id="replie1" style="display: block"><span
+                        onclick="document.getElementById('deplie1').style.display = 'block'; document.getElementById('replie1').style.display = 'none';">
+<p><a class="linkText"><u> *Termeni si conditii</u></a></p>
+</span></div>
+                <div id="deplie1" style="display: none"><span
+                        onclick="document.getElementById('replie1').style.display = 'block'; document.getElementById('deplie1').style.display = 'none';">
+<p><a class="linkText"><u> Mai putin</u></a></p>
+<p><em>Imaginea este cu titlu de prezentare si nu creeaza obligatii contractuale. <br>
+        &nbsp;&nbsp; <br>
+        Oferta financiara este adresata exclusiv persoanelor juridice si este oferita de UniCredit Leasing Corporation
+        IFN SA, pentru modelul Ecosport 4x2 TREND 1.5 EcoBlue 125 CP M6, in valoare de 13373.77 Euro + TVA (15,914.79
+        Euro TVA inclus), avans 25% in valoare de 3,343 Euro+TVA (3,979 Euro TVA inclus), pe 60 luni; rata anuala a
+        dobanzii 0% fixa, comision analiza dosar 2,5% din pretul masinii (334.34 Euro + TVA), comision lunar de
+        administrare 0,05% (5.02 Euro +TVA), valoarea ratei lunare 170 Euro+TVA (202.3 Euro TVA inclus).<br>
+        &nbsp;Rata lunara contine prinicipal, dobanda si comision de administrare lunar.<br>
+        In calculul ratei lunare nu s-a inclus asigurarea CASCO.</em></p>
+<p></p>
+<p></p>
+</span></div>
+                </p>
+            </div>
+
+        </article>
+        <article class="content-column left">
+            <div class="img-column"><img
+                        src="/assets/img/ecobonus/1214657253179.jpg"
+                        alt="Ford Business Weeks Autoturisme"/><span class="fv-overlay-icon"></span></div>
+            <div class="content"><br>
+                <h3 class="bigHeading">
+                    FORD KUGA TITANIUM
+                </h3>
+<br>
+                <p>
+
+                <p>Daca nu faci compromisuri in afaceri, de ce ai face la volan? Si daca partenerul tau e un model de
+                    eficienta si performanta, de ce n-ar fi un Ford Kuga?<br>
+                    &nbsp;&nbsp; <br>
+                    Intampina viitorul in afaceri dintr-o pozitie avantajata, la volanul unui SUV ultra-contemporan,
+                    spatios si practic, care iti va imbunatati fiecare calatorie de business.<br>
+                    &nbsp; <br>
+                    Redescopera placerea condusului cu <strong>Kuga Titanium 4x4,5&nbsp; 2.0 TDCI, 150 CP</strong>.<br>
+                    &nbsp;&nbsp; <br>
+                    Experimenteaza dotari unice cu <strong>pachetul Titanium</strong>, inclus in pret:<br>
+                    &bull; Oglinzi pliabile electric<br>
+                    &bull; Jante aliaj 18&quot;<br>
+                    &bull; Radio CD cu MP3 player<br>
+                    &bull; 8&quot; touchscreen, display central<br>
+                    &bull; 9 difuzoare, comenzi audio pe volan, BlueTooth/Voice Control (limba engleza)<br>
+                    &bull; USB, SYNC Gen III cu Sistem de Asistenta in caz de urgenta (112)<br>
+                    &bull; Sistem de navigatie si camera video spate<br>
+                    &bull; Geamuri fumurii si bare pavilion cromate<br>
+                    &nbsp;</p>
+
+                <p>Vino in showroom-urile Ford la Business Weeks! Te asteapta beneficii de exceptie pentru afacerea
+                    ta:<strong><br>
+                        &nbsp;&nbsp;&nbsp; <br>
+                        - dobanda 0%*</strong><br>
+                    <strong>- rata lunara 265 euro*</strong> <br>
+                    <br>
+                    <strong>Sau rezerva acum oferta speciala, <a
+                            HREF="https://secure.ford.ro/Promotii/Autoturisme/BusinessWeeks/rezervare">aici</a>:</strong><br>
+                    &nbsp;&nbsp; <br>
+                    <a HREF="/SBE/dealeri-ford">Gaseste cel mai apropiat dealer Ford.</a><br>
+                    <br>
+                    &nbsp;&nbsp;</p>
+
+                <div id="replie4" style="display: block"><span
+                        onclick="document.getElementById('deplie4').style.display = 'block'; document.getElementById('replie4').style.display = 'none';">
+<p><a class="linkText"><u> *Termeni si conditii</u></a></p>
+</span></div>
+                <div id="deplie4" style="display: none"><span
+                        onclick="document.getElementById('replie4').style.display = 'block'; document.getElementById('deplie4').style.display = 'none';">
+<p><a class="linkText"><u> Mai putin</u></a></p>
+<p>Imaginea este cu titlu de prezentare si nu creeaza obligatii contractuale. <br>
+    &nbsp;&nbsp; <br>
+    <em>Oferta financiara este adresata exclusiv persoanelor juridice si este oferita de UniCredit Leasing Corporation
+        IFN SA, pentru modelul Kuga TITANIUM 4X4 2.0 TDCI 150 CP M6, in valoare de 20,847.35 Euro+TVA (24,808.34 Euro
+        TVA inclus), avans 25% in valoare de5,212 Euro+TVA (6,202 Euro TVA inclus), pe 60 luni; rata anuala a dobanzii
+        0% fixa, comision analiza dosar 2,5% din pretul masinii (521.18 Euro + TVA), comision lunar de administrare
+        0,05% (7,82 Euro +TVA), valoarea ratei lunare 265 Euro + TVA (315.35 Euro TVA inclus). <br>
+        <br>
+        Rata lunara contine prinicipal, dobanda si comision de administrare lunar.In calculul ratei lunare nu s-a inclus
+        asigurarea CASCO.</em></p>
+<p></p>
+<p></p>
+</span></div>
+                </p>
+            </div>
+        </article>
+        <article class="content-column right">
+            <div class="content">
+                <div class="img-column"> <img
+                        src="/assets/img/ecobonus/1214657253265.jpg"
+                        alt="Ford Business Weeks Autoturisme"/><span class="fv-overlay-icon"></span></div><br>
+                <h3 class="bigHeading">
+                    FORD EDGE
+                </h3>
+<br>
+                <p>
+
+                <p>In afaceri, e greu sa ajungi in varf dar si mai greu e sa-ti pastrezi pozitia. Iar cand ajungi la
+                    asemenea nivel, meriti o recompensa care sa-ti reflecte ambitia si dedicarea. Pe scurt, meriti un
+                    varf de gama. Un Ford Edge, culmea tehnologiei si designului SUV-urilor Ford.<br> <br> <strong>Edge
+                        Titanium 2.0 TDCI 210CP, Powershift AWD</strong>, vine insotit de caracteristici si sisteme
+                    ultra-moderne, in pachetul Titanium inclus in pret: <br> &bull; Camera frontala cu Split View
+                    <br> &bull; ICE 59 SONY, cu radio CD si mp3 player, ecran tactil de 8&quot;, sistem de navigatie, 12
+                    difuzoare, BT cu VC <br> &bull; Sistem de asistenta in caz de urgenta &bull; Display central,
+                    comenzi audio pe volan, TMC (Traffic Message Channel) <br> &bull; USB, DAB <br> &bull; Tapiterie
+                    piele Salerno cu scaune sofer si pasager reglaj electric pe 10 pozitii <br> &bull; Scaun sofer cu
+                    functie de memorie <br> &bull; Oglinzi exterioare cu functia de memorie <br> &bull; Jante de aliaj
+                    20&quot;&nbsp; <br> &nbsp;</p>
+
+                <p>Vino in showroom-urile Ford la Business Weeks! Te asteapta beneficii de exceptie pentru afacerea
+                    ta:<br> &nbsp;&nbsp; <br> <strong>- dobanda 0%*<br> - rata lunara 435 euro*</strong><br> &nbsp;&nbsp;&nbsp;&nbsp;
+                    <br> <strong>Sau rezerva acum oferta speciala, <a
+                            HREF="https://secure.ford.ro/Promotii/Autoturisme/BusinessWeeks/rezervare">aici</a>:</strong>
+                    <br> &nbsp; <br> <a HREF="/SBE/dealeri-ford">Gaseste cel mai apropiat dealer
+                        Ford.</a><br> <br> &nbsp;&nbsp;</p>
+
+                <div id="replie5" style="display: block"><span
+                        onclick="document.getElementById('deplie5').style.display = 'block'; document.getElementById('replie5').style.display = 'none';"> <p>
+                            <a class="linkText"><u> *Termeni si conditii</u></a></p> </span></div>
+                <div id="deplie5" style="display: none"><span
+                        onclick="document.getElementById('replie5').style.display = 'block'; document.getElementById('deplie5').style.display = 'none';"> <p>
+                            <a class="linkText"><u> Mai putin</u></a></p> <p><em>Imaginea este cu titlu de prezentare si
+                                nu creeaza obligatii contractuale. <br> &nbsp;&nbsp;&nbsp; <br> Oferta financiara este
+                                adresata exclusiv persoanelor juridice si este oferita de UniCredit Leasing Corporation
+                                IFN SA pentru modelul Edge TITANIUM 2.0 TDCI 210CP POWESHIFT AWD , in valoare de
+                                34,221.12 Euro+TVA (40,723.13 Euro TVA inclus), avans 25% in valoare de 8,555 Euro+TVA
+                                (10,181 Euro TVA inclus), pe 60 luni; rata anuala a dobanzii 0% fixa, comision analiza
+                                dosar 2,5% din pretul masinii (855.53 Euro + TVA), comision lunar de administrare 0,05%
+                                (12.83 Euro +TVA), valoarea ratei lunare 435 Euro+TVA (517.65 Euro TVA inclus). Rata
+                                lunara contine principal, dobanda si comision de administrare lunar. In calculul ratei
+                                lunare nu s-a inclus asigurarea CASCO.</em></p> <p></p> <p></p> </span></div>
+                </p>
+            </div>
+
+        </article>
     </div>
-
-</article>
-</div>
 </section>
 <script type='text/javascript'>var OM = OM || {};
     //ONCLICK 1205060261500om_he_pv_tc
@@ -419,7 +434,7 @@
     }
 </script>
 
-</div>
+
 <script src="/cs/ContentServer?pagename=EP2%2fENGInE%2fscript%2fGroupedJS"
         type="text/javascript"></script>
 <script> EP2.Globals.siteName = 'RORO4_ENGINE';
@@ -458,5 +473,7 @@
 <script
     src='/cs/ContentServer?cid=1&amp;isMobile=false&amp;pagename=RORO4_ENGINE%2Fscript%2Ftagit%2Fstatic&amp;require=NONE&amp;location=load&amp;c=Page'></script>
 </body>
+
+
 
 </html> 

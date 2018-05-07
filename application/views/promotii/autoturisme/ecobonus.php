@@ -68,7 +68,7 @@
                         </div>
                     </div>
                 </li>
-                <li><p>Ecobonus</p></li>
+                <li><p>EcoBonus</p></li>
             </ul>
             <div class="navdivider"></div>
             <ul id="nextSteps" class="nextSteps">
@@ -84,24 +84,38 @@
                         document.id('menu1205110704441').addClass("navnextSteps");
                     </script>
                 </li>
-                <!--     <li id='menu1205111254306' class=''>
-                         <a href='Ecobonus/OfertaBMAX'/>Oferta B-MAX</a>
+                     <li id='menu1205111254306' class=''>
+                         <a href='EcoBonus/OfertaFiestaActive'/>Oferta Fiesta Active</a>
                          <script type="text/javascript">
                              document.id('menu1205111254306').addClass("navnextSteps");
                          </script>
                      </li>
                      <li id='menu1205111255593' class=''>
-                         <a href='Ecobonus/OfertaMondeo'/>Oferta Mondeo</a>
+                         <a href='EcoBonus/OfertaMondeo'/>Oferta Mondeo</a>
                          <script type="text/javascript">
                              document.id('menu1205111255593').addClass("navnextSteps");
                          </script>
-                     </li> -->
-                <!--     <li id='menu1205111254474' class=''>
-                         <a href='EcoBonus/OfertaEcoSport'/>Oferta EcoSport</a>
+                     </li>
+                     <li id='menu1205111254474' class=''>
+                         <a href='EcoBonus/OfertaEcosport'/>Oferta EcoSport</a>
                          <script type="text/javascript">
                              document.id('menu1205111254474').addClass("navnextSteps");
                          </script>
-                     </li> -->
+                     </li>
+                <li id='menu1205157947943' class=''>
+                    <a href='EcoBonus/OfertaKuga'/>Oferta Kuga</a>
+                    <script type="text/javascript">
+                        document.id('menu1205157947943').addClass("navnextSteps");
+                    </script>
+                </li>
+
+                <li id='menu1205157947963' class=''>
+                    <a href='EcoBonus/OfertaMondeoTitaniumHEV'/>Oferta Mondeo Titanium HEV</a>
+                    <script type="text/javascript">
+                        document.id('menu1205157947963').addClass("navnextSteps");
+                    </script>
+                </li>
+
                 <li id='menu1205111254478' class=''>
                     <a href='http://www.ford.ro/Promotii/Autoturisme/EcoBonus/Rezervare'/>Rezervare</a>
                     <script type="text/javascript">
@@ -187,18 +201,27 @@ if(typeof(sford)=='object') omnitureMDPFullScreen('1205110699178'); return false
             <div class="btoArticleTitle">Mergi mai departe cu Ford Ecobonus!</div>
             <div class="btoArticleText">
                 <div class="btoArticleAbstract">
-                    <div>Ford reia campania Ecobonus – chiar daca nu ai prins tichete in programul rabla, la Ford ai 1.500 € Ecobonus
-                        garantat, la casarea autoturismului vechi. Iar modelele din promotie vin cu pachete de dotari optionale deja incluse
-                        in pret.</p> <p>Tehnologii inteligente, motorizari prietenoase cu mediul, design care se face remarcat si echipari
-                            care fac sa va simtiti in siguranta – atat tu, cat si pasagerii: acestea sunt doar o parte dintre atributele gamei
-                            Ford. Sigur vei gasi modelul care ti se potriveste.</p> <p>Iar cu Ford Ecobonus beneficiezi de:</p> <p>- Rata lunara
-                            de la 600 lei, prin creditul auto in lei;</p> <p>- Garantie extinsa de la 2+3 ani / 100.000 km;</p> <p>- Dotari
-                            suplimentare prin pachetele optionale incluse in pret.<br> <br> Afla mai multe despre avantajele client pentru
-                            fiecare modelele incluse in aceasta campanie:<br> <br> Ford Fiesta – contemporan, agil si eficient - detalii <a
-                                href="/Promotii/Autoturisme/EcoBonus/OfertaFiesta"><u>aici</u></a><br> Ford Focus – sofisticat, modern, spatios
-                            - detalii <a href="/Promotii/Autoturisme/EcoBonus/OfertaFocus"><u>aici</u></a><br> <br> Ai decis ce model ti se
-                            potriveste? <a href="/Promotii/Autoturisme/Ecobonus/Rezervare"><u>Rezerva</u></a>-l acum!<br> <br> Pentru detalii
-                            despre procedura de casare si cum poti beneficia de Ecobonus, click aici.</u></a>.
+                    <div>Schimba-ti masina veche acum cu un nou model de la Ford! Daca nu ai prins programul Rabla, mergi mai departe cu
+                        EcoBonus! Primesti pe loc 1.500 &euro; Ecobonus garantat, la casarea autoturismului vechi. In plus, noile modele
+                        vin cu dotari optionale deja incluse in pret!<br><br> Descopera cele mai noi tehnologii si sisteme Ford, care
+                        iti fac experienta la volan mai placuta, in timp ce reduc consumul de combustibil si emisiile. Transforma orice
+                        drum intr-o calatorie de neuitat, atat pentru tine, cat si pentru pasagerii tai.<br><br> EcoBonus iti poate
+                        aduce:<br> - Un avantaj client de pana la 9875 de euro <br> - Dotari suplimentare incluse in pret<br><br>
+                        Descopera mai jos avantajele client pentru fiecare model din aceasta campanie:<br><br> Afla mai multe despre
+                        avantajele client pentru fiecare modelele incluse in aceasta campanie:<br><br> Ford Focus &ndash; contemporan,
+                        eficient, spatios - detalii <a HREF="/Promotii/Autoturisme/EcoBonus/OfertaFocus"><u>aici</u></a><br> Ford
+                        Fiesta &ndash; economic, atragator si agil - detalii <a HREF="/Promotii/Autoturisme/EcoBonus/OfertaFiesta"><u>aici</u></a><br>
+                        Ford Fiesta Active &ndash; sportiv, flexibil, practic &ndash; detalii <a
+                            HREF="/Promotii/Autoturisme/EcoBonus/OfertaFiestaActive"><u>aici</u></a><br> Ford EcoSport &ndash; compact,
+                        spatios, puternic &ndash; detalii <a HREF="/Promotii/Autoturisme/EcoBonus/OfertaEcosport"><u>aici</u></a><br>
+                        Ford Kuga &ndash; impunator, ultra-contemporan, performant &ndash; detalii <a
+                            HREF="/Promotii/Autoturisme/EcoBonus/OfertaKuga"><u>aici</u></a><br> Ford Mondeo &ndash; sofisticat,
+                        elegant, impresionant &ndash; detalii <a HREF="/Promotii/Autoturisme/EcoBonus/OfertaMondeo"><u>aici</u></a><br>
+                        Ford Mondeo Titanium HEV &ndash; inovator, prietenos cu mediul, aspirational &ndash; detalii <a
+                            HREF="/Promotii/Autoturisme/EcoBonus/OfertaMondeoTitaniumHEV"><u>aici</u></a><br><br> Ai ales un model? <a
+                            HREF="/Promotii/Autoturisme/EcoBonus/Rezervare"><u>Rezerva</u></a>-l acum!<br><br> Detalii <a
+                            HREF="/promotii/Autoturisme/EcoBonus/Procedura"><u>aici </u></a>despre procedura de casare si cum poti
+                        beneficia de Ecobonus.
                     </div>
                 </div>
             </div>

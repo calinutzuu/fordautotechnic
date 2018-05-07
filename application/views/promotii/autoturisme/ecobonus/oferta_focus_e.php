@@ -1,156 +1,81 @@
 <div class="mainContent">
 <img
-    src="/assets/img/1214607506696.jpg"
+    src="/assets/img/ecobonus/1214657262654.jpg"
     alt="Ecobonus Focus"/>
 <section id="fv-wrapper">
     <section id="carouselize" class="carousel-container carousel"></section>
     <section class="center_item_Layout2">
         <div class="tab-content centered">
             <header class="intro-header">
-                <h1 class="bigHeading centered">
-                    <b>Ford Ecobonus – de la 700 lei / luna* pentru Ford Focus! </b>
-                </h1>
-                <br>
+                <h1 class="bigHeading">
+                    Ford Ecobonus – avantaj client pana la 4700 euro* pentru Ford Focus!
+                </h1> <br>
                 <span class="highlighter"></span>
 
-                <p>Vrei sa schimbi masina veche? Ford Focus poate fi modelul perfect pentru tine, daca iti doresti o
-                    masina care iti va
-                    redefini experienta la volan si care in plus are un design sculptural si este echipat cu
-                    tehnologii de varf.</p>
-                <br>
+                <p class="intro-text">
 
-                <p>
-                    <strong> </strong></p>
-
-                <p><strong> Prin programul Ecobonus beneficiezi de un bonus de 1.500 €, la casarea masinii
-                        vechi – adica de un pret special de numai 12.950 €. Mai mult, ai si conditii speciale de
-                        finantare, prin credit
-                        auto, ajungand la o rata lunara incepand cu 700 lei pentru Ford Focus – fara comision de
-                        administrare sau rate
-                        reziduale. </strong></p>
-                <br>
-
-                <p><strong> </strong></p>
-
-                <p>Modelul din promotie, Ford Focus 5 usi 1.0 EcoBoost 100
-                    CP, are printre dotarile standard:</p>
-                <br>
-
-                <p>· Sisteme inteligente de siguranta si stabilitate – ESP (Program
-                    Electronic de Stabilitate), HLA (Asistenta la Pornirea in Rampa), ABS (Sistem Anti-Blocare la
-                    Franare), EBD
-                    (Distributie Electronica a Fortei de Franare), EBA (Asistenta la Franarea de Urgenta);</p>
-
-                <p>· Airbag-uri frontale
-                    si laterale pentru sofer si pasager; airbaguri cortina fata si spate;</p>
-
-                <p>· Sisteme de siguranta si stabilitate:
-                    sistem de control avansat al cuplului motor (Torque Vectoring Control), ABS (Sistem Anti-Blocare
-                    la Franare), EBA
-                    (Asistenta la Franarea de Urgenta), ESP (Program Electronic de Stabilitate), HLA (Sistem de
-                    asistenta la urcarea in
-                    rampa), sistem avansat de monitorizare a presiunii in pneuri;</p>
-
-                <p>· Sistem Ford My Key;</p>
-
-                <p>· Volan si
-                    schimbator de viteze imbracate in piele</p>
-
-                <p>· Dotari prietenoase cu mediul: incarcare regenerativa inteligenta a
-                    bateriei, Active Grille Shutter si sistemul Ford ECOmode cu indicator de schimbare a
-                    vitezelor.</p>
-                <br>
-
-                <p><strong>Pachetul
-                        Trend</strong> , inclus in pretul din oferta, iti aduce dotari suplimentare cum ar fi:</p>
-                <br>
-
-                <p>· aer conditionat
-                    automat;</p>
-
-                <p>· radio CD cu MP3 player, USB, 6 difuzoare, comenzi audio pe volan;</p>
-
-                <p>· SYNC 3 cu touchscreen
-                    color de 8", Blue Tooth, Voice Control si Sistem de asistenta in caz de urgenta (112);</p>
-
-                <p>· Faruri de ceata;</p>
-
-                <p>· Consola centrala cu cotiera.</p>
-
-                <p></p>
-                <br>
-
-                <p>In plus, beneficiezi fara niciun cost suplimentar de <strong>garantia
-                        extinsa</strong>: 2+3 ani sau 100.000 km.<br> <br> <strong>Rezerva acum oferta speciala
-                        pentru Ford Focus –
-                        click <a href="/Promotii/Autoturisme/Ecobonus/Rezervare"><u>aici</u></a>! <br> <br> Pentru
-                        detalii despre
-                        procedura de casare si cum poti beneficia de Ecobonus, click <a
-                            href="/Promotii/Autoturisme/Ecobonus/Procedura"><u>aici</u></a>.<br>
-                        <br> Ai nevoie de mai multe informatii? Toate detaliile despre Ford Focus si oferta speciala
-                        iti stau la
-                        dispozitie in cel mai apropiat <a href="/SBE/dealeri-ford"><u>showroom Ford</u></a>!
-                    </strong></p>
-
-
-                <br><br>
+                <p>Daca simti ca a venit momentul pentru un upgrade de confort și siguranță la volan, Focus poate fi alegerea
+                    ideala. Dotat cu tehnologii de ultima ora si design sofisticat, Ford Focus impresioneaza prin eleganta si
+                    performanta.<br> <br> <strong>Prin programul Ecobonus beneficiezi de un bonus de 1.500 &euro;, la casarea
+                        masinii vechi. Mai mult, ai si conditii speciale de finantare, </strong><br> <br> Modelul din promotie, Ford
+                    Focus 5 usi 1.0 EcoBoost 100 CP, cutie manuala cu 5 trepte, are ca dotari standard:<br> <br> &bull; Motorul
+                    multi-premiat Ford EcoBoost<br> &bull; Tehnologia Ford SYNC 3 cu comanda vocala si ecran tactil de 8&rdquo;
+                    <br> &bull; Tehnologia inovatoare Active City Stop. <br> &bull; Sisteme de siguranta si stabilitate: Sistem de
+                    control avansat al cuplului motor (Torque Vectoring Control), ABS (Sistem Anti-Blocare la Franare), EBA
+                    (Asistenta la Franarea de Urgenta), ESP (Program Electronic de Stabilitate), HLA (Sistem de asistenta la urcarea
+                    in rampa), Sistem avansat de monitorizare a presiunii in pneuri;<br> &bull; Sistem Ford My Key;<br> &bull; Volan
+                    si schimbator de viteze imbracate in piele.<br> &bull; Dotari prietenoase cu mediul: Incarcare regenerativa
+                    inteligenta a bateriei, Active Grille Shutter si Sistemul Ford ECOmode cu indicator de schimbare a
+                    vitezelor.<br> <br> <strong>Pachetul Trend</strong>, inclus in pretul din oferta, iti aduce dotari suplimentare
+                    cum ar fi:<br> <br> &bull; Radio CD cu MP3 player, USB, 6 difuzoare, comenzi audio pe volan, SYNC Gen 3 cu
+                    touchscreen color de 8&quot;, Blue Tooth si Voice Control si Sistem de asistenta in caz de urgenta (112)
+                    <br> &bull; Aer conditionat automat cu reglare separata stanga/dreapta<br> &bull; Covorase de velur fata si
+                    spate cu logo Ford<br> &bull; Consola centrala cu cotiera<br> &bull; Faruri de ceata<br> <br> <strong>Rezerva
+                        acum oferta speciala pentru Ford Focus &ndash; click <a HREF="/Promotii/Autoturisme/Ecobonus/Rezervare"><u>aici</u></a>!
+                        <br> <br> Pentru detalii despre procedura de casare si cum poti beneficia de Ecobonus, click <a
+                            HREF="/Promotii/Autoturisme/Ecobonus/Procedura"><u>aici</u></a>.<br> <br> Ai nevoie de mai multe
+                        informatii? Toate detaliile despre Ford Focus si oferta speciala iti stau la dispozitie in cel mai apropiat
+                        <u><a HREF="/SBE/dealeri-ford"><u>showroom Ford</u></a></u>!</strong></p> <br>
 
                 <div></div>
-                <div><font onmouseout="this.style.color='#000000'" color="#000000">
-                        <div><strong> <font onmouseout="this.style.color='#000000'"
-                                            color="#000000"> </font></strong></div>
-                        <div></div>
-                        <div><span style="font-size: medium;"><span color="#005f97"> <div style="text-align: center;"
-                                                                                          id="replie2"><font
-                                            onmouseout="this.style.color='#000000'" color="#000000"><span
-                                                onclick="document.getElementById('deplie2').style.display = 'block'; document.getElementById('replie2').style.display = 'none';"><a><span
-                                                        style="font-size: medium;"><font
-                                                            onmouseover="this.style.color='#fa5514'"
-                                                            onmouseout="this.style.color='#0d4bb3'" color="#0d4bb3"><u>Termeni
-                                                                si conditii </u></font></span></a></span></font>
-                                    </div> <div style="display: none; text-align: left;" id="deplie2"><span
-                                            onclick="document.getElementById('replie2').style.display = 'block'; document.getElementById('deplie2').style.display = 'none';"><font
-                                                onmouseout="this.style.color='#0d4bb3'" color="#0d4bb3"><u>Termeni
-                                                    si conditii</u></font> <font
-                                                onmouseout="this.style.color='#000000'" color="#000000"><br> <br>
-                                            </font> <div style="text-align: left;"><font
-                                                    onmouseout="this.style.color='#000000'"
-                                                    color="#000000"><span><em> Imaginea este cu titlu de prezentare si
-                                                            nu creeaza obligatii contractuale . Oferta financiara este
-                                                            adresata
-                                                            exclusiv persoanelor fizice si este realizata de UniCredit
-                                                            Consumer Financing pentru modelul Focus 1.0 Ecoboost
-                                                            100CP M5 5 usi in valoare de 12.800 Euro (pret 57.600 Lei la
-                                                            un curs exemplificativ de [4,5] Lei/1 Euro) TVA inclus,
-                                                            avans 24.750 Lei (43%). Valoarea totala estimativa a
-                                                            creditului va fi de 32.850 Lei pe o perioada de 60 luni,
-                                                            astfel: rata anuala dobanda 5,99% (ROBOR la 3 luni + marja
-                                                            3,88%), analiza dosar 790 Lei, administrare lunara credit
-                                                            0 Lei, rata lunara estimativa 700 Lei, valoarea totala
-                                                            estimativa platibila a creditului 41.984 Lei, DAE 10,59 %.
-                                                            Valoarea estimativa a ratei lunare de mai sus nu include
-                                                            asigurarea de viata. <br>
-                                                            <br>
-                                                            Pretul modelului este obtinut dupa includerea cumulativa a:
-                                                            1. contravalorii suportului acordat de Ford Romania, 2.
-                                                            contributiei dealerilor participanti la acest program. <br>
-                                                            <br>
-                                                            Oferta nu include echipamente/accesorii/dotari optionale
-                                                            suplimentare pachetului Trend, este supusa unor termene si
-                                                            conditii si este valabila pana la data de 31.03.2018 in
-                                                            limita stocului disponibil. Consumul mixt estimativ 4.6 l
-                                                            /100 km si nivelul emisiilor CO<sub>2 </sub>105 (g/km) sunt
-                                                            masurate in conformitate cu dispozitiile legale in
-                                                            vigoare.
-
-                                                        </em><br> <br> </span></font></div> </span>
-                                    </div> </span></span></div>
-                        <p><span style="font-size: x-small;"><font onmouseout="this.style.color='#000000'"
-                                                                   color="#000000"> <strong><br>
-                                    </strong></font></span></p>
-
+                <div><span style="font-size: medium;"><span color="#000000"> <div style="text-align: left;" id="replie2"><font
+                                    onmouseout="this.style.color='#000000'" color="#000000"><span
+                                        onclick="document.getElementById('deplie2').style.display = 'block'; document.getElementById('replie2').style.display = 'none';"><a><span
+                                                style="color: rgb(0, 0, 0);"><u><span><font onmouseover="this.style.color='#000000'"
+                                                                                            onmouseout="this.style.color='#000000'">
+                                                            <em><p style="text-align: center;">Termeni si conditii</p></em> </font></span></u></span><span><font
+                                                    onmouseover="this.style.color='#000000'" onmouseout="this.style.color='#000000'"
+                                                    color="#000000"><u> </u></font></span></a></span></font></div> <div
+                                style="display: none; text-align: left;" id="deplie2"><span
+                                    onclick="document.getElementById('replie2').style.display = 'block'; document.getElementById('deplie2').style.display = 'none';"><font
+                                        onmouseout="this.style.color='#000000'" color="#000000"><u><em><p>Termeni si conditii</p>
+                                            </em> </u></font> <font onmouseout="this.style.color='#000000'" color="#000000"><br>
+                                    </font> <div style="text-align: justify;"><font onmouseout="this.style.color='#000000'"
+                                                                                    color="#000000"><span> <p><em>Imaginea este cu
+                                                        titlu de prezentare si nu creeaza obligatii contractuale. Oferta: 1) este
+                                                        supusa unor termeni si conditii si se va concretiza in reducerea pretului de
+                                                        lista al autoturismului, cu valoarea afisata in termenii si conditiile
+                                                        campaniei; 2) este adresata exclusiv persoanelor fizice; 3) este valabila in
+                                                        limita stocului disponibil, la dealerii participanti la program, cu
+                                                        valabilitate pana la 30.06.2018; 4) include TVA si este rezultatul
+                                                        includerii cumulative a: i) contravalorii suportului acordat de Ford
+                                                        Romania; ii) contravalorii suportului acordat de Ford Romania prin programul
+                                                        Ford ECOBONUS; iii) contravalorii suportului acordat de dealerii
+                                                        participanti in campanie. <br> Oferta nu include echipamente, accesorii sau
+                                                        dotari optionale suplimentare componentelor din pachetului Trend. <br>
+                                                        Consumul mixt masurat in conformitate cu dispozitiile legale in vigoare (e.g
+                                                        Directiva Europeana nr. 715/2007): 4.6l /100 km, emisii CO<sub>2</sub>
+                                                        (g/km): 105, valoare masurata in conformitate cu dispozitiile legale in
+                                                        vigoare. </em></p> </span></font></div> <em> </em></span>
+                            </div> <em> </em></span></span></div>
+                <div><em><p><span style="font-size: x-small;"><font onmouseout="this.style.color='#000000'" color="#000000">
+                                    <strong><br> </strong></font></span></p></em></div>
+                <div><em>
                         <div><font onmouseout="this.style.color='#000000'" color="#000000"> </font></div>
-                    </font></div>
+                        <p></p></em></div>
+                <p></p>
+
+                <p></p>
                 </p>
             </header>
         </div>

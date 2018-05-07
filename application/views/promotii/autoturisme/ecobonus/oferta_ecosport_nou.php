@@ -1,6 +1,6 @@
 <div class="mainContent">
     <img
-        src="/assets/img/ecobonus/1214643441909.jpg"
+        src="/assets/img/ecobonus/1214657252398.jpg"
         alt="Ecobonus Fiesta"/>
     <section id="fv-wrapper">
         <section id="carouselize" class="carousel-container carousel"></section>
@@ -8,67 +8,76 @@
             <div class="tab-content centered">
                 <header class="intro-header">
                     <h1 class="bigHeading">
-                        Ford Ecobonus – Avantaj client pana la 4050 de euro* pentru Ford Fiesta!
-                    </h1>
+                        Ford Ecobonus – Avantaj client pana la 3475 de euro* pentru Ford EcoSport!
+                    </h1><br>
                     <span class="highlighter"></span>
-<br>
+
                     <p class="intro-text">
 
-                    <p>O masina moderna, inteligenta si atragatoare, care transforma notiunea de &bdquo;destinatie&rdquo; in &bdquo;placere&rdquo;.
-                        Tehnologiile si caracteristicile sale avansate, reduc semnificativ consumul de combustibil si sporesc siguranta
-                        si confortul la volan.<br><strong><br> Prin programul Ecobonus beneficiezi de un bonus de 1.500 &euro;, la
-                            casarea masinii vechi si ai un avantaj client de pana la 4050 de euro*.</strong><br><br> Inlocuieste acum
-                        vechea masina cu un model Ford Fiesta in 5 usi, cu motor 1,1l si 85 CP, cutie manuala in 5 trepte, cu
-                        urmatoarele dotari standard:<br> &bull; Sisteme inteligente de siguranta si stabilitate &ndash; ESP (Program
-                        Electronic de Stabilitate), HLA (Asistenta la Pornirea in Rampa), ABS (Sistem Anti-Blocare la Franare), EBD
-                        (Distributie Electronica a Fortei de Franare), EBA (Asistenta la Franarea de Urgenta);<br> &bull; Sistem Ford
-                        MyKey;<br> &bull; Sistem de incarcare regenerativa a bateriei;<br> &bull; Oglinzi exterioare electrice,
-                        incalzite;<br> &bull; Volan si schimbator de viteze imbracat in piele;<br> &bull; Sistem avansat de monitorizare
-                        a presiunii in pneuri.<br> &bull; Airbag-uri frontale, laterale, cortina si pentru genunchi, sofer si
-                        pasager;<br><br> Iar pachetul Trend iti aduce urmatoarele dotari optionale, fara costuri suplimentare:
-                        <br> &bull; Sistem SYNC III cu radio, Bluetooth, conexiune USB, display 6.5&quot; cu Sistem de asistenta in caz
-                        de urgenta (112), 6 difuzoare;<br> &bull; Aer conditionat manual;<br> &bull; Faruri de ceata .<br><br> <strong>Rezerva
-                            acum oferta speciala pentru Ford Fiesta &ndash; click <a HREF="/Promotii/Autoturisme/Ecobonus/Rezervare"><u>aici</u></a>!
-                            <br><br> Pentru detalii despre procedura de casare si cum poti beneficia de Ecobonus, click <a
-                                HREF="/Promotii/Autoturisme/Ecobonus/Procedura"><u>aici</u></a>.<br><br> Ai nevoie de mai multe
-                            informatii? Toate detaliile despre Ford Fiesta si oferta speciala iti stau la dispozitie in cel mai apropiat
-                            <a HREF="/SBE/dealeri-ford"><u>showroom Ford</u></a>! </strong></p> <br>
+                    <p>Profita la maxim de orice oportunitate si iesi in lume cu o masina care are toate atributele unui
+                        SUV, dar cu un plus de rafinament si design.<br> Daca esti in cautarea unui 4x4 spatios dar
+                        compact, puternic dar eficient in consum, atunci probabil EcoSport e raspunsul la toate
+                        cerintele tale. Cu un plus de inovatie.<br> <br> <strong>Prin programul Ecobonus beneficiezi de
+                            un bonus de 1.500 &euro;, la casarea masinii vechi si ai un avantaj client de pana la 3475
+                            de euro*.</strong><br> <br> Inlocuieste acum vechea masina cu un EcoSport Trend 2WD 1,0
+                        EcoBoost 100 CP si cutie manuala in 6 trepte.<br> <br> EcoSport e dotat cu tehnologii și
+                        caracteristici precum:<br> <br> &bull; Sistem de Control Electronic al Stabilitatii<br> &bull;
+                        Controlul Tractiunii<br> &bull; Sistem de Monitorizare a Presiunii din Pneuri<br> &bull; Sistem
+                        de Asistenta la Pornirea din Rampa<br> &bull; Airbaguri care protejeaza din orice
+                        unghi<br> &bull; Garda la sol inalta <br> <br> Iar Pachetul Trend iti aduce in plus, dotari
+                        suplimentare atragatoare, precum:<br> <br> &bull; Pachet Cool&amp;Sound (Aer conditionat
+                        automat, SYNC 3 cu ecran de 6.5&quot;)<br> &bull; Jante aliaj 16&quot;<br> &bull; Bare plafon
+                        negre<br> <br> <strong>Rezerva acum oferta speciala pentru Ford EcoSport&ndash; click <a
+                                HREF="/Promotii/Autoturisme/Ecobonus/Rezervare"><u>aici</u></a>! <br> <br> Pentru
+                            detalii despre procedura de casare si cum poti beneficia de Ecobonus, click <a
+                                HREF="/Promotii/Autoturisme/Ecobonus/Procedura"><u>aici</u></a>.<br> <br> Ai nevoie de
+                            mai multe informatii? Toate detaliile despre Ford EcoSport si oferta speciala iti stau la
+                            dispozitie in cel mai apropiat <a HREF="/SBE/dealeri-ford"><u>showroom Ford</u></a>!
+                        </strong></p><br>
 
-                    <div><span style="font-size: medium;"><span color="#000000"> <div style="text-align: left;" id="replie2"><font
+                    <div></div>
+                    <div><span style="font-size: medium;"><span color="#000000"> <div style="text-align: left;"
+                                                                                      id="replie2"><font
                                         onmouseout="this.style.color='#000000'" color="#000000"><span
                                             onclick="document.getElementById('deplie2').style.display = 'block'; document.getElementById('replie2').style.display = 'none';"><a><span
-                                                    style="color: rgb(0, 0, 0);"><u><span><font onmouseover="this.style.color='#000000'"
-                                                                                                onmouseout="this.style.color='#000000'">
-                                                                <em><p style="text-align: center;">Termeni si conditii</p></em> </font></span></u></span><span><font
-                                                        onmouseover="this.style.color='#000000'" onmouseout="this.style.color='#000000'"
-                                                        color="#000000"><u> </u></font></span></a></span></font></div> <div
-                                    style="display: none; text-align: center;" id="deplie2"><span
+                                                    style="color: rgb(0, 0, 0);"><u><span><font
+                                                                onmouseover="this.style.color='#000000'"
+                                                                onmouseout="this.style.color='#000000'"> <em><p
+                                                                        style="text-align: center;">Termeni si
+                                                                        conditii</p></em>
+                                                            </font></span></u></span><span><font
+                                                        onmouseover="this.style.color='#000000'"
+                                                        onmouseout="this.style.color='#000000'" color="#000000"><u> </u></font></span></a></span></font>
+                                </div> <div style="display: none; text-align: left;" id="deplie2"><span
                                         onclick="document.getElementById('replie2').style.display = 'block'; document.getElementById('deplie2').style.display = 'none';"><font
-                                            onmouseout="this.style.color='#000000'" color="#000000"><u><em><p>Termeni si conditii</p>
-                                                </em> </u></font> <font onmouseout="this.style.color='#000000'" color="#000000"><br>
-                                        </font> <div style="text-align: justify;"><font onmouseout="this.style.color='#000000'"
-                                                                                        color="#000000"><span> <p><em>Imaginea este cu
-                                                            titlu de prezentare si nu creeaza obligatii contractuale. Oferta financiara
-                                                            este adresata exclusiv persoanelor fizice si este realizata de UniCredit
-                                                            Consumer Financing pentru modelul Fiesta Trend 5usi 1.1 85 CP cutie manuala
-                                                            5 trepte, pachet Trend inclus in valoare de 10.900 Euro (pret 49.050 Lei la
-                                                            un curs exemplificativ de [4,5] Lei/1 Euro) TVA inclus, avans 21.000 Lei
-                                                            (43%). Valoarea totala estimativa a creditului va fi de 28.050 Lei pe o
-                                                            perioada de 60 luni, astfel: rata anuala dobanda 5,99% (ROBOR la 3 luni +
-                                                            marja 3,88%), analiza dosar 790 Lei, administrare lunara credit 0 Lei, rata
-                                                            lunara estimativa 600 Lei, valoarea totala estimativa platibila a creditului
-                                                            35.984 Lei, DAE 10,77 %. Valoarea estimativa a ratei lunare de mai sus nu
-                                                            include asigurarea de viata.<br> <br> Pretul modelului este obtinut dupa
-                                                            includerea cumulativa a: 1. contravalorii suportului acordat de Ford
-                                                            Romania, 2. contributiei dealerilor participanti la acest program. <br> <br>
-                                                            Oferta nu include echipamente/accesorii/dotari optionale suplimentare
-                                                            pachetului Trend, este supusa unor termene si conditii si este valabila pana
-                                                            la data de 31.03.2018 in limita stocului disponibil. Consumul mixt estimativ
-                                                            4.7 l /100 km si nivelul emisiilor CO<sub>2</sub> 107 (g/km) sunt masurate
-                                                            in conformitate cu dispozitiile legale in vigoare. </em></p> </span></font>
-                                        </div> <em> </em></span></div> <em> </em></span></span></div>
-                    <div><em><p><span style="font-size: x-small;"><font onmouseout="this.style.color='#000000'" color="#000000">
-                                        <strong><br> </strong></font></span></p></em></div>
+                                            onmouseout="this.style.color='#000000'" color="#000000"><u><em><p>Termeni si
+                                                        conditii</p></em> </u></font> <font
+                                            onmouseout="this.style.color='#000000'" color="#000000"><br> </font> <div
+                                            style="text-align: justify;"><font onmouseout="this.style.color='#000000'"
+                                                                               color="#000000"><span> <p><em>Imaginea
+                                                            este cu titlu de prezentare si nu creeaza obligatii
+                                                            contractuale. Oferta: 1) este supusa unor termeni si
+                                                            conditii si se va concretiza in reducerea pretului de lista
+                                                            al autoturismului cu valoarea afisata in termenii si
+                                                            conditiile campaniei; 2) este adresata exclusiv persoanelor
+                                                            fizice; 3)este valabila in limita stocului disponibil la
+                                                            dealerii participanti la program, cu valabilitate pana la
+                                                            30.06.2018; 4) include TVA si este rezultatul includerii
+                                                            cumulative a: i) contravalorii suportului acordat de Ford
+                                                            Romania; ii) contravalorii suportului acordat de Ford
+                                                            Romania prin programul Ford ECOBONUS; iii) contravalorii
+                                                            suportului acordat de dealerii participanti in campanie.
+                                                            <br> Oferta nu include echipamente, accesorii sau dotari
+                                                            optionale, suplimentare componentelor din pachetului Trend.
+                                                            <br> Consumul mixt masurat in conformitate cu dispozitiile
+                                                            legale in vigoare (e.g Directiva Europeana nr. 715/2007):
+                                                            5,3 l/100 km, emisii CO<sub>2</sub> (g/km): 121, valoare
+                                                            masurata in conformitate cu dispozitiile legale in vigoare.
+                                                        </em></p> </span></font></div> <em> </em></span>
+                                </div> <em> </em></span></span></div>
+                    <div><em><p><span style="font-size: x-small;"><font onmouseout="this.style.color='#000000'"
+                                                                        color="#000000"> <strong><br>
+                                        </strong></font></span></p></em></div>
                     <div><em>
                             <div><font onmouseout="this.style.color='#000000'" color="#000000"> </font></div>
                             <p></p></em></div>

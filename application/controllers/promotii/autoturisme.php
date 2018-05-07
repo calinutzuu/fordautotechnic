@@ -106,12 +106,21 @@ class Autoturisme extends CI_Controller
             ->build('promotii/autoturisme/ecobonus');
     }
 
+
     public function oferta_fiesta_e()
     {
         $this->template
             ->set_layout('promotii')
             ->title('Ecobonus - Fiesta', 'Ford AutoTechnic')
             ->build('promotii/autoturisme/ecobonus/oferta_fiesta_e');
+    }
+
+    public function oferta_fiestaactive_e()
+    {
+        $this->template
+            ->set_layout('promotii')
+            ->title('Ecobonus - Fiesta', 'Ford AutoTechnic')
+            ->build('promotii/autoturisme/ecobonus/oferta_fiestaactive_e');
     }
 
     public function oferta_focus_e()
@@ -130,13 +139,30 @@ class Autoturisme extends CI_Controller
             ->build('promotii/autoturisme/ecobonus/oferta_mondeo_e');
     }
 
-    public function oferta_ecosport_e()
+    public function oferta_ecosport_nou()
     {
         $this->template
             ->set_layout('promotii')
             ->title('Ecobonus - Ecosport', 'Ford AutoTechnic')
-            ->build('promotii/autoturisme/ecobonus/oferta_ecosport_e');
+            ->build('promotii/autoturisme/ecobonus/oferta_ecosport_nou');
     }
+
+    public function oferta_kuga_nou()
+    {
+        $this->template
+            ->set_layout('promotii')
+            ->title('Ecobonus - Kuga', 'Ford AutoTechnic')
+            ->build('promotii/autoturisme/ecobonus/oferta_kuga_nou');
+    }
+
+    public function oferta_mondeo_hev()
+    {
+        $this->template
+            ->set_layout('promotii')
+            ->title('Ecobonus - Kuga', 'Ford AutoTechnic')
+            ->build('promotii/autoturisme/ecobonus/oferta_mondeo_hev');
+    }
+
 
     public function procedura()
     {

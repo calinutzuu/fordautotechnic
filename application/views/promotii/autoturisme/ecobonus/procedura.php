@@ -1,8 +1,8 @@
 <div id="top_anchor"><a name="top"></a></div>
 <!--<START_MHB001 >-->
 <div id="masthead">
-    <img
-        src="/assets/img/1214607506672_1.jpg">
+  <!--  <img
+        src="/assets/img/1214607506672_1.jpg"> -->
 </div>
 <!--<END_MHB001 >-->
 <!-- <End> -->

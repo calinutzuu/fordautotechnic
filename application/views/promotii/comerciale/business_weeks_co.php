@@ -1,35 +1,4 @@
-<!DOCTYPE html>
-<!--[if IE 8]>
-<html class="no-js lt-ie10 lt-ie9" lang="en" xmlns:fb="http://ogp.me/ns/fb#"> <![endif]-->
-<!--[if IE 9]>
-<html class="no-js lt-ie10" lang="en" xmlns:fb="http://ogp.me/ns/fb#"> <![endif]-->
-<!--[if gt IE 9]><!-->
-<html class="no-js" lang="en"> <!--<![endif]-->
 
-
-<body data-carousel="1205113503318" class="overrideBody">
-<script>
-    var TagIT = TagIT || {};
-</script>
-<script>
-    var TagIT = TagIT || {};
-    TagIT.GtmId = 'GTM-WL5HW9';
-</script>
-<noscript>
-    <iframe
-        src="http://www.googletagmanager.com/ns.html?id=GTM-WL5HW9" height="0"
-        width="0" style="display: none; visibility: hidden"></iframe>
-</noscript>
-<script
-    src='http://www.ford.ro/cs/ContentServer?pagename=RORO4_ENGINE/script/tagit/assembler&amp;c=Page&amp;cid=1&amp;location=body&amp;isMobile=false&amp;require=NONE'
-    defer></script>
-<script
-    src='http://www.ford.ro/cs/ContentServer?cid=1&amp;isMobile=false&amp;pagename=RORO4_ENGINE%2Fscript%2Ftagit%2Fstatic&amp;require=NONE&amp;location=body&amp;c=Page'></script>
-<div id="wrapper">
-<!--<START_EP2_HEADER >-->
-<script type="text/javascript">
-    var fw_animationSpeed = 350;
-</script>
 <div id="cookieAlertBoxID" class="cookieAlertBox">
     <div class="midContent">
         <div class="cookie-closebtn"><a id="closeBtnID" class="icon closeBtn" href="#" title="Close">Close</a></div>
@@ -42,7 +11,7 @@
             personal. Puteţi afla mai multe despre fişierele de tip cookie şi despre cum puteţi să le controlaţi cu
             ajutorul setărilor dumneavoastră de navigare din Ghidul Ford privind fişierele de tip cookie.</p>
         <a id="linkID" class="link"
-           href="http://www.ford.ro/Footer/GhidulFordPrivindFisiereleDeTipCookie?intcmp=other-nwp-cookies-cookie-alert-link">
+           href="/Footer/GhidulFordPrivindFisiereleDeTipCookie?intcmp=other-nwp-cookies-cookie-alert-link">
             Aflați mai multe </a>
         </p>
     </div>
@@ -51,378 +20,448 @@
 <!--<END_EP2_HEADER >-->
 <div class="mainContent">
 
-<img
-    src="/assets/img/promotii/1214644259850.jpg"
-    alt="Business Weeks"/>
+<div class="img-column"><img
+        src="/assets/img/ecobonus/1214657252197.jpg"
+        alt="Ford Edge"/>
+
+</div>
 <section id="fv-wrapper">
 <section id="carouselize" class="carousel-container carousel"></section>
-<section class="centered content">
+<section class="mid-page-content">
 <div class="tab-content">
-<header class="intro-header">
-    <h1 class="bigHeading">
-        Ford Business Weeks
-    </h1>
-    <br>
-    <span class="highlighter"></span>
-
-    <p class="intro-text">
-
-    <p>Indiferent de nevoile de transport ale afacerii tale, ele isi gasesc raspunsul in gama de
-        vehicule comerciale Ford Transit. Transportul de marfa este eficientizat datorita
-        caracteristicilor specifice, de la spatiul de incarcare la costurile de intretinere, in timp ce
-        modelele pentru transportul persoanelor ofera niveluri ridicate de confort si eficienta. Gama
-        Transit beneficiaza de tehnologii avansate in domeniul sigurantei, confortului si nivelurilor de
-        consum si emisii, precum si de designul impunator si modern, adecvat unei afaceri de succes.
-        <br> <br> Iar acum gama Ford Transit aduce, in plus, ofertele speciale din programul Ford Fleet
-        Partner: preturi promotionale si finantare in conditii speciale, cu <strong>0% avans* pentru
-            leasing operational,</strong> impreuna cu un set complet de <strong>servicii incluse in
-            pret:</strong><br> <br> o Costuri complete de inmatriculare, inclusiv vigneta;<br> o Costuri
-        de asigurare &ndash; Casco, RCA si Asigurare pentru sofer si persoanele transportate; <br> o
-        Asistenta pentru vehicul si sofer;<br> o Mentenanta cu piese originale;<br> o Anvelope de iarna
-        si de vara, precum si administrarea acestora.<br><br> Alege, deci, unul dintre modelele
-        participante la promotie si ia legatura cu cel mai apropiat consultant de flote Ford, pentru a
-        discuta optiunile cele mai potrivite pentru afacerea ta:</p> <br>
-    </p>
-</header>
 <article class="content-column right">
     <div class="content">
+        <div class="img-column"> <img
+                src="/assets/img/ecobonus/1214657253351.jpg"
+                alt="Ford Business Weeks Comerciale"/><span class="fv-overlay-icon"></span></div><br>
         <h3 class="bigHeading">
-
-
-            <strong>FORD TRANSIT </strong>
-
-        </h3>
-        <br>
-        <div class="img-column">
-            <img src="/assets/img/promotii/1214644134624.jpg"
-                 alt="Ford Transit Van"/><span class="fv-overlay-icon"></span></div>
-        <p>
-            <br>
-        <p>Pentru a scrie istorie cu afacerea ta, ai nevoie de o legenda in gama vehiculelor comerciale.<br>
-            Iar aceasta legenda este Ford Transit, cea mai mare utilitara din gama Transit.<br> <br>
-            Versiunea cu motor 2.0 TDCI 105CP se poate alatura parcului auto al companiei tale <br>cu
-            <strong>0% avans* si toate serviciile incluse</strong>, la o <strong>rata lunara de 405
-                Euro</strong>, <br>prin leasing operational. Pretul include si urmatoarele dotari optionale:<br>
-            <br> - Aer conditionat;<br> - Pachet optional Ice pack 2 (radio cu mufa AUX, conexiune USB
-            si Bluetooth, 2 difuzoare si comenzi pe volan);<br> - pachet fumatori.<br> <br> <strong><a
-                    HREF="/VehiculeComerciale/Transit"><u>Afla mai
-                        multe</u></a></strong> despre Ford Transit sau<br> Contacteaza cel mai apropiat
-            <a HREF="/SBE/dealeri-ford"><u><strong>dealer Ford.</strong></u></a></p>
-
-        <div><br> &nbsp;</div>
-        <p></p>
-
-        <div></div>
-        <div></div>
-        <div><font onmouseout="this.style.color='#000000'" color="#000000">
-                <div><strong> <font onmouseout="this.style.color='#000000'"
-                                    color="#000000"> </font></strong></div>
-                <div></div>
-                <div><span style="font-size: medium;"><span color="#005f97"> <div
-                                style="text-align: center;" id="replie6"><font
-                                    onmouseout="this.style.color='#000000'" color="#000000"><span
-                                        onclick="document.getElementById('deplie6').style.display = 'block'; document.getElementById('replie6').style.display = 'none';"><a><span
-                                                style="font-size: medium;"><font
-                                                    onmouseover="this.style.color='#fa5514'"
-                                                    onmouseout="this.style.color='#0d4bb3'"
-                                                    color="#0d4bb3"><u>*Termeni si
-                                                        conditii </u></font></span></a></span></font>
-                            </div> <div style="display: none; text-align: center;" id="deplie6"><span
-                                    onclick="document.getElementById('replie6').style.display = 'block'; document.getElementById('deplie6').style.display = 'none';"><font
-                                        onmouseout="this.style.color='#0d4bb3'" color="#0d4bb3"><u>*Termeni
-                                            si conditii</u></font> <font
-                                        onmouseout="this.style.color='#000000'" color="#000000"><br>
-                                        <br> </font> <div style="text-align: left;"><font
-                                            onmouseout="this.style.color='#000000'"
-                                            color="#000000"><span> <p><em>Imagine cu titlu de
-                                                        prezentare, care nu creeaza obligatii
-                                                        contractuale. <br> <br> Oferta de leasing
-                                                        operational de mai jos este adresata exclusiv
-                                                        persoanelor juridice si PFA-urilor si este
-                                                        realizata de ALD Automotive pentru modelul Ford
-                                                        Transit 350 L3H2 Base 2.0 TDCI105CP T5 M6 FWD
-                                                        LWB, motorizare Diesel, CO<sub>2</sub>:179g/km.
-                                                        avand consum mediu de 6,90l/100km. Serviciile
-                                                        incluse in cadrul contractului de leasing
-                                                        operational sunt urmatoarele: Costuri de
-                                                        inmatriculare, Vigneta, Asigurari CASCO si RCA,
-                                                        Mentenanta cu piese originale in reteaua
-                                                        autorizata Ford, Anvelope iarna-vara premium si
-                                                        administrarea acestora, Asistenta Vehicul si
-                                                        Sofer valabila 24/7. La stabilirea ratei lunare
-                                                        s-au luat in considerare urmatorii parametrii:
-                                                        un kilometraj total de 120.000 km si o durata a
-                                                        contractului de 57 luni. Oferta de leasing
-                                                        operational este indicativa si poate fi supusa
-                                                        unor termene si conditii suplimentare in functie
-                                                        de rezultatul analizei financiare a
-                                                        aplicantului. <br> <br> Oferta este valabila
-                                                        pentru contractele de leasing operational
-                                                        semnate pana la data de 31.12.2017, in limita
-                                                        stocului disponibil. <br> <br> Oferta include
-                                                        echipamente/accesorii/dotari optionale
-                                                        suplimentare in valoare de 967 euro, fara TVA.
-                                                    </em></p> <br> <br> </span></font></div> </span>
-                            </div> </span></span></div>
-                <p><span style="font-size: x-small;"><font onmouseout="this.style.color='#000000'"
-                                                           color="#000000"> <strong><br>
-                            </strong></font></span></p></font></div>
-        <div><font onmouseout="this.style.color='#000000'" color="#000000"> </font></div>
-        </p>
-    </div>
-
-</article>
-<article class="content-column centered">
-
-    <div class="content centered">
-        <h3 class="bigHeading">
-            <strong>FORD TRANSIT CUSTOM</strong>
-        </h3>
-        <br>
-        <div class="img-column">
-            <img
-                src="/assets/img/promotii/1214644134540.jpg"
-                alt="Ford Transit Custom"/><span class="fv-overlay-icon"></span></div>
-        <p>
-
-        <p>Uneori simti ca ai nevoie de spatiu. Iar afacerea ta, de spatiu pentru transport. Si ai
-            nevoie de un <br> vehicul comercial care sa ofere echilibrul perfect intre eficienta si
-            capacitate.<br> <br> Poti beneficia chiar acum de un model Ford Transit Custom, cu
-            motorizare 2.0 TDCI 130CP 310 TREND LWB, cu <br> <strong>0% avans* si toate serviciile
-                incluse</strong> la o <strong>rata lunara de 440 Euro</strong> prin leasing operational.
-            De asemenea, oferta include,<br> fara costuri suplimentare, si:<br> <br> - aer conditionat fata/
-            spate;<br> - vopsea metalizata;<br> - geamuri fumurii;<br> - pachet fumatori;<br> -
-            instalatie spalare/stergere.<br> <strong><u><br> </u></strong><a
-                HREF="/VehiculeComerciale/Transit-Custom"><strong><u>Afla mai
-                        multe</u></strong></a> despre Ford Transit Custom sau<br> Contacteaza cel mai
-            apropiat <a HREF="/SBE/dealeri-ford"><strong><u>dealer Ford.</u></strong></a>
-        </p>
-
-        <div><br> &nbsp;</div>
-        <p></p>
-
-        <div></div>
-        <div></div>
-        <div><font onmouseout="this.style.color='#000000'" color="#000000">
-                <div><strong> <font onmouseout="this.style.color='#000000'"
-                                    color="#000000"> </font></strong></div>
-                <div></div>
-                <div><span style="font-size: medium;"><span color="#005f97"> <div
-                                style="text-align: center;" id="replie20"><font
-                                    onmouseout="this.style.color='#000000'" color="#000000"><span
-                                        onclick="document.getElementById('deplie20').style.display = 'block'; document.getElementById('replie20').style.display = 'none';"><a><span
-                                                style="font-size: medium;"><font
-                                                    onmouseover="this.style.color='#fa5514'"
-                                                    onmouseout="this.style.color='#0d4bb3'"
-                                                    color="#0d4bb3"><u>*Termeni si
-                                                        conditii </u></font></span></a></span></font>
-                            </div> <div style="display: none; text-align: center;" id="deplie20"><span
-                                    onclick="document.getElementById('replie20').style.display = 'block'; document.getElementById('deplie20').style.display = 'none';"><font
-                                        onmouseout="this.style.color='#0d4bb3'" color="#0d4bb3"><u>*Termeni
-                                            si conditii</u></font> <font
-                                        onmouseout="this.style.color='#000000'" color="#000000"><br>
-                                        <br> </font> <div style="text-align: left;"><font
-                                            onmouseout="this.style.color='#000000'"
-                                            color="#000000"><span> <p><em>Imagine cu titlu de
-                                                        prezentare, care nu creeaza obligatii
-                                                        contractuale. <br> <br> Oferta de leasing
-                                                        operational de mai jos se adreseaza exclusiv
-                                                        persoanelor juridice si PFA-urilor si este
-                                                        realizata de ALD Automotive pentru modelul Ford
-                                                        Transit Custom, cu motor 2.0 TDCI 130CP 310 LWB
-                                                        Trend, motorizare Diesel, CO<sub>2</sub>:
-                                                        156g/km.,avand consum mediu de 6,00l/100km.
-                                                        Serviciile incluse in cadrul contractului de
-                                                        leasing operational sunt urmatoarele: Costuri de
-                                                        inmatriculare, Vigneta, Asigurari CASCO si RCA,
-                                                        Mentenanta cu piese originale in reteaua
-                                                        autorizata Ford, Anvelope iarna-vara premium si
-                                                        administrarea acestora, Asistenta Vehicul si
-                                                        Sofer valabila 24/7. La stabilirea ratei lunare
-                                                        s-au luat in considerare urmatorii parametrii:
-                                                        un kilometraj total de 120.000 km si o durata a
-                                                        contractului de 57 luni. Oferta de leasing
-                                                        operational este indicativa si poate fi supusa
-                                                        unor termene si conditii suplimentare in functie
-                                                        de rezultatul analizei financiare a
-                                                        aplicantului. <br> <br> Oferta este valabila
-                                                        pentru contractele de leasing operational
-                                                        semnate pana la data de 31.12.2017, in limita
-                                                        stocului disponibil. <br> <br> Oferta include
-                                                        echipamente/accesorii/dotari optionale
-                                                        suplimentare in valoare de 1.317 euro fara TVA.
-                                                    </em></p> <br> <br> </span></font></div> </span>
-                            </div> </span></span></div>
-                <p><span style="font-size: x-small;"><font onmouseout="this.style.color='#000000'"
-                                                           color="#000000"> <strong><br>
-                            </strong></font></span></p></font></div>
-        <div><font onmouseout="this.style.color='#000000'" color="#000000"> </font></div>
-        </p>
-    </div>
-</article>
-<article class="content-column centered">
-    <div class="content centered">
-        <h3 class="bigHeading">
-            <strong>FORD TRANSIT CONNECT</strong>
+            FORD RANGER
         </h3>
 <br>
-        <div class="img-column"><img
-                src="/assets/img/promotii/1214644134358.jpg"
-                alt=" Ford Transit Connect "/></div>
         <p>
 
-        <p>In orice afacere trebuie sa fii mereu conectat la reteaua ta de clienti. Rapid,<br> eficient si
-            sigur. Pentru asta iti trebuie un partener pe masura.<br> <br> Il poti gasi in Ford Transit
-            Connect &ndash; versiunea cu ampatament lung si motorizare 1.5 TDCI 100CP, poate intra in
-            parcul tau auto cu <br> <strong>0% avans* si toate serviciile incluse</strong>, pentru <strong>o
-                rata lunara de numai 320 Euro</strong>, prin leasing operational. <br> <br> <a
-                HREF="/VehiculeComerciale/TransitConnect"><u><strong>Afla mai
-                        multe</strong></u> </a>despre Ford Transit Connect sau<br> Contacteaza cel mai
-            apropiat<a HREF="/SBE/dealeri-ford"> <u><strong>dealer
-                        Ford</strong></u></a>.</p>
+        <p>Fii o forta in business, cu un partener de calibrul tau!<br>
+            &nbsp;&nbsp; <br>
+            Constructie solida, putere de tractiune si dotari de ultima ora. Ford Ranger duce si mai departe calitatile
+            care au consacrat gama, prin upgradeuri spectaculoase la nivel de comfort, design si functionalitate.<br>
+            &nbsp;&nbsp;</p>
 
-        <div><br> &nbsp;</div>
-        <p></p>
+        <p><strong>Ford Ranger XLT 2.2 si 160 CP</strong> e mereu gata de actiune si vine echipat cu: <br>
+            &bull; aer conditionat manual<br>
+            &bull; radio, Bluetooth, conexiune USB<br>
+            &bull; faruri de ceata, oglinzi electrice si incalzite si geamuri electrice<br>
+            &bull; pachetul offroad, carlig de remorcare, vopsea metalizata</p>
 
-        <div></div>
-        <div></div>
-        <div><font onmouseout="this.style.color='#000000'" color="#000000">
-                <div><strong> <font onmouseout="this.style.color='#000000'"
-                                    color="#000000"> </font></strong></div>
-                <div></div>
-                <div><span style="font-size: medium;"><span color="#005f97"> <div
-                                style="text-align: center;" id="replie16"><font
-                                    onmouseout="this.style.color='#000000'" color="#000000"><span
-                                        onclick="document.getElementById('deplie16').style.display = 'block'; document.getElementById('replie16').style.display = 'none';"><a><span
-                                                style="font-size: medium;"><font
-                                                    onmouseover="this.style.color='#fa5514'"
-                                                    onmouseout="this.style.color='#0d4bb3'"
-                                                    color="#0d4bb3"><u>*Termeni si
-                                                        conditii </u></font></span></a></span></font>
-                            </div> <div style="display: none; text-align: center;" id="deplie16"><span
-                                    onclick="document.getElementById('replie16').style.display = 'block'; document.getElementById('deplie16').style.display = 'none';"><font
-                                        onmouseout="this.style.color='#0d4bb3'" color="#0d4bb3"><u>*Termeni
-                                            si conditii</u></font> <font
-                                        onmouseout="this.style.color='#000000'" color="#000000"><br>
-                                        <br> </font> <div style="text-align: center;"><font
-                                            onmouseout="this.style.color='#000000'"
-                                            color="#000000"><span> <p><em>Imagine cu titlu de
-                                                        prezentare, care nu creeaza obligatii
-                                                        contractuale. <br> <br> Oferta de leasing
-                                                        operational de mai jos este adresata exclusiv
-                                                        persoanelor juridice si PFA-urilor si este
-                                                        realizata de ALD Automotive pentru modelul Ford
-                                                        Transit Connect LWB 1.5 TDCI 100hp Trend,
-                                                        motorizare Diesel, CO<sub>2</sub>:
-                                                        124g/km.,avand consum mediu de 4,80l/100km.
-                                                        Serviciile incluse in cadrul contractului de
-                                                        leasing operational sunt urmatoarele: Costuri de
-                                                        inmatriculare, Vigneta, Asigurari CASCO si RCA,
-                                                        Mentenanta cu piese originale in reteaua
-                                                        autorizata Ford, Anvelope iarna-vara premium si
-                                                        administrarea acestora, Asistenta Vehicul si
-                                                        Sofer valabila 24/7. <br> <br> La stabilirea
-                                                        ratei lunare s-au luat in considerare urmatorii
-                                                        parametrii: un kilometraj total de 120.000 km si
-                                                        o durata a contractului de 57 luni. Oferta de
-                                                        leasing operational este indicativa si poate fi
-                                                        supusa unor termene si conditii suplimentare in
-                                                        functie de rezultatul analizei financiare a
-                                                        aplicantului. <br><br>Oferta este valabila
-                                                        pentru contractele de leasing operational
-                                                        semnate pana la data de 31.12.2017, in limita
-                                                        stocului disponibil. <br> <br> Oferta include
-                                                        echipamente/accesorii/dotari optionale
-                                                        suplimentare in valoare de 17 euro. </em>
-                                                </p> <br> <br> </span></font></div> </span>
-                            </div> </span></span></div>
-                <p><span style="font-size: x-small;"><font onmouseout="this.style.color='#000000'"
-                                                           color="#000000"> <strong><br>
-                            </strong></font></span></p></font></div>
-        <div><font onmouseout="this.style.color='#000000'" color="#000000"> </font></div>
+        <p>Vino in showroom-urile Ford la Business Weeks si primesti beneficii de exceptie pentru afacerea ta: <br>
+            <strong>- dobanda 0%<br>
+                - rata lunara 300 euro*<br>
+                - garantie extinsa (2+2 ani sau 150.000 km)</strong><br>
+            &nbsp; <br>
+            <strong>Sau rezerva acum oferta speciala, <a
+                    HREF="https://secure.ford.ro/Promotii/comerciale/BusinessWeeks/rezervare">aici</a>:</strong><br>
+            &nbsp;&nbsp; <br>
+            <a HREF="http://www.ford.ro/SBE/dealeri-ford">Gaseste cel mai apropiat dealer Ford.</a></p>
+
+        <div id="replie2" style="display: block"><span
+                onclick="document.getElementById('deplie2').style.display = 'block'; document.getElementById('replie2').style.display = 'none';">
+<p><br>
+    <a class="linkText"><u> *Termeni si conditii</u></a></p>
+</span></div>
+        <div id="deplie2" style="display: none"><span
+                onclick="document.getElementById('replie2').style.display = 'block'; document.getElementById('deplie2').style.display = 'none';">
+<p><a class="linkText"><u> Mai putin</u></a></p>
+<p><em>Imaginea este cu titlu de prezentare si nu creeaza obligatii contractuale. <br>
+        &nbsp; <br>
+        Oferta financiara este adresata exclusiv persoanelor juridice si este oferita de UniCredit Leasing Corporation
+        IFN SA pentru modelul Ranger XLT 2.2 160CP, in valoare de 23,600.77 Euro+TVA (28,084.92 Euro TVA inclus), avans
+        25% in valoare de 5,900.19 Euro+TVA (7,021.23 Euro TVA inclus), pe 60 luni; rata anuala a dobanzii 0% fixa,
+        comision analiza dosar 2,5% din pretul masinii (590.02 Euro + TVA), comision lunar de administrare 0,05% (8.85
+        Euro +TVA), valoarea ratei lunare 300 Euro+TVA (357 Euro TVA inclus). Rata lunara contine prinicipal, dobanda si
+        comision de administrare lunar. In calculul ratei lunare nu s-a inclus asigurarea CASCO.<br>
+        &nbsp; <br>
+        Aceasta oferta include garantia extinsa (2+2 ani de garantie sau 150,000 kilometrii).<br>
+        &nbsp; <br>
+        IMPORTANT: Garantia extinsa acopera aceleasi componente ca si garantia de baza, cu anumite exceptii pe care va
+        rugam sa le consultati pe www.ford.ro pentru a avea imaginea completa a acestui produs.<br>
+        &nbsp; <br>
+        Oferta nu include contravaloarea unor echipamente, accesorii sau dotari optionale, este supusa unor termene si
+        conditii fiind valabila in limita stocului dealerilor participanti in acest&nbsp; program pana la 31.05.2018.
+        <br>
+        &nbsp; <br>
+        Consumul de carburant mixt masurat in conformitate cu dispozitiile legale in vigoare (e.g Directiva Europeana nr
+        715/2007): consum 7.1 L/ 100 km, emisii CO2: 184 g/km, valorile sunt&nbsp; masurate in conformitate cu
+        dispozitiile legale in vigoare. <br>
+        &nbsp;&nbsp; <br>
+        Detalii si explicatii suplimentare despre campanie - la dealerii autorizati Ford participanti la campanie.</em>
+</p>
+<p></p>
+<p></p>
+</span></div>
         </p>
     </div>
 
 </article>
-<article class="content-column centered">
+<article class="content-column left">
+    <div class="img-column"> <img
+                src="/assets/img/ecobonus/1214657253437.jpg"
+                alt="Ford Business Weeks Comerciale"/><span class="fv-overlay-icon"></span></div><br>
+    <div class="content">
 
-    <div class="content centered">
         <h3 class="bigHeading">
-            <strong>FORD TRANSIT COURIER</strong>
+            TRANSIT COURIER VAN
         </h3>
         <br>
-        <div class="img-column"><img
-                src="/assets/img/promotii/1214552948795.jpg"
-                alt="Ford Transit Courier"/></div>
         <p>
+
+        <p>Pentru livrari mai dificile, ai nevoie de un partener plin de resurse.<br>
+            &nbsp;&nbsp; <br>
+            Un parter inteligent ca o masina de oras, eficient ca o utilitara si performant ca o masina sport. Pe scurt,
+            ai nevoie de Ford Transit Courier Van, sa poti face cat mai multe drumuri, in cel mai scurt timp si in
+            deplina siguranta.<br>
+            &nbsp;&nbsp;&nbsp; <br>
+            <strong>Transit Courier VAN Trend 1.5 75 CP</strong> vine la pachet cu:<br>
+            &bull; aer conditionat manual<br>
+            &bull; radio, Bluetooth, conexiune USB<br>
+            &bull; faruri de ceata, oglinzi electrice si incalzite, geamuri electrice. <br>
             <br>
-        <p>Capabil, eficient, de incredere si placut? La fel ca afacerea ta, cel mai mobil vehicul<br> din
-            gama Transit indeplineste toate criteriile de mai sus, cu un plus de viteza si
-            fiabilitate.<br> <br> Poti urca la bordul unui Ford Transit Courier, cu motorizare 1.5 TDCI
-            75CP, beneficiind <br> de <strong>0% avans* si toate serviciile incluse</strong>, la o <strong>rata
-                lunara de 267 Euro</strong> prin leasing operational.<br> <br> <u><strong> </strong></u><a
-                HREF="http://www.ford.ro/VehiculeComerciale/Transit-Courier"><u><strong>Afla mai
-                        multe</strong></u></a> despre Ford Transit Courier sau<br> Contacteaza cel mai
-            apropiat <a HREF="http://www.ford.ro/SBE/dealeri-ford"><u><strong>dealer Ford.</strong></u></a><br>
+            Vino in showroom-urile Ford la Business Weeks si primesti beneficii de exceptie pentru afacerea ta:</p>
+
+        <p>&nbsp; <strong><br>
+                - dobanda 0%<br>
+                - rata lunara 130 euro*<br>
+                - garantie extinsa (2+2 ani sau 150.000 km)</strong><br>
+            &nbsp; <br>
+            <strong>Sau rezerva acum oferta speciala, <a
+                    HREF="https://secure.ford.ro/Promotii/comerciale/BusinessWeeks/rezervare">aici</a>:</strong><br>
+            &nbsp; <br>
+            <a HREF="http://www.ford.ro/SBE/dealeri-ford">Gaseste cel mai apropiat dealer Ford.</a></p>
+
+        <div id="replie3" style="display: block"><span
+                onclick="document.getElementById('deplie3').style.display = 'block'; document.getElementById('replie3').style.display = 'none';">
+<p><br>
+    <a class="linkText"><u> *Termeni si conditii</u></a></p>
+</span></div>
+        <div id="deplie3" style="display: none"><span
+                onclick="document.getElementById('replie3').style.display = 'block'; document.getElementById('deplie3').style.display = 'none';">
+<p><a class="linkText"><u> Mai putin</u></a></p>
+<p><em>Imaginea este cu titlu de prezentare si nu creeaza obligatii contractuale.<br>
+        &nbsp;&nbsp; <br>
+        Oferta financiara este adresata exclusiv persoanelor juridice si este oferita de UniCredit Leasing Corporation
+        IFN SA pentru modelulTransit Courier VAN Trend, 1.5 75CP, in valoare de 10,227 Euro+TVA (12,170.13 Euro TVA
+        inclus), avans 25% in valoare de 2,556.75 Euro+TVA (3,042.53 Euro TVA inclus), pe 60 luni; rata anuala a
+        dobanzii 0% fixa, comision analiza dosar 2,5% din pretul masinii (255.68 Euro + TVA), comision lunar de
+        administrare 0,05% (3.84Euro +TVA), valoarea ratei lunare 130 Euro+TVA (154.7 Euro TVA inclus). Rata lunara
+        contine prinicipal, dobanda si comision de administrare lunar. In calculul ratei lunare nu s-a inclus asigurarea
+        CASCO.<br>
+        &nbsp;&nbsp; <br>
+        Aceasta oferta include garantia extinsa (2 + 2 ani sau 150.000 kilometri).<br>
+        &nbsp;&nbsp;&nbsp; <br>
+        IMPORTANT: Garantia extinsa acopera aceleasi componente ca si garantia de baza, cu anumite exceptii pe care va
+        rugam sa le consultati pe www.ford.ro, pentru a avea imaginea completa a acestui produs.<br>
+        &nbsp;&nbsp;&nbsp; <br>
+        Oferta nu include contravaloarea unor echipamente, accesorii sau dotari optionale, este supusa unor termene si
+        conditii fiind valabila in limita stocului dealerilor participanti in acest program pana la 31.05.2018.<br>
+        &nbsp;&nbsp; <br>
+        Consumul de carburant mixt masurat in conformitate cu dispozitiile legale in vigoare (e.g Directiva Europeana
+        nr.715/2007): consum 4 l/100 km; emisii CO2: 123 g/km, valorile sunt masurate in conformitate cu dispozitiile
+        legale in vigoare. <br>
+        &nbsp;&nbsp; <br>
+        Detalii si explicatii suplimentare despre campanie - la dealerii autorizati Ford, participanti la campanie.<br>
+        <br>
+    </em></p>
+</span>
+
+            <p></p>
+        </div>
+        </p>
+    </div>
+</article>
+<article class="content-column right">
+    <div class="content">
+        <div class="img-column"> <img
+                src="/assets/img/ecobonus/1214657253523.jpg"
+                alt="Ford Business Weeks Comerciale"/><span class="fv-overlay-icon"></span></div><br>
+        <h3 class="bigHeading">
+            TRANSIT CONNECT VAN
+        </h3>
+        <br>
+        <p>
+
+        <p>Gaseste partenerul care sa-ti conecteze afacerea la viitor!<br>
+            <br>
+            Un partener cu viteza sporita, spatiu versatil si inovatie din plin! Inzestrat cu design contemporan si o
+            cabina sofisticata si comfortabila, Transit Connect Van iti va schimba definitiv perceptia despre o masina
+            utilitara.<br>
+            <br>
+            <strong>Transit Connect VAN LWB Trend 1.5 100 CP</strong> este echipat cu:<br>
+            &bull; Aer conditionat manual<br>
+            &bull; Radio, Bluetooth, conexiune USB<br>
+            &bull; Faruri de ceata, oglinzi electrice si incalzite si geamuri electrice<br>
+            &nbsp;<br>
+            Vino in showroom-urile Ford la Business Weeks si primesti beneficii de exceptie pentru afacerea ta: <br>
             &nbsp;</p>
+
+        <p><strong>- dobanda 0%<br>
+                - rata lunara 170 euro*<br>
+                - garantie extinsa (2+2 ani sau 150.000 km)</strong><br>
+            &nbsp;&nbsp;&nbsp; <br>
+            <strong>Sau rezerva acum oferta speciala, <a
+                    HREF="https://secure.ford.ro/Promotii/comerciale/BusinessWeeks/rezervare">aici</a>:</strong><br>
+            &nbsp;&nbsp; <br>
+            <a HREF="http://www.ford.ro/SBE/dealeri-ford">Gaseste cel mai apropiat dealer Ford.</a></p>
+
+        <div id="replie4" style="display: block"><span
+                onclick="document.getElementById('deplie4').style.display = 'block'; document.getElementById('replie4').style.display = 'none';">
+<p><br>
+    <a class="linkText"><u> *Termeni si conditii</u></a></p>
+</span></div>
+        <div id="deplie4" style="display: none"><span
+                onclick="document.getElementById('replie4').style.display = 'block'; document.getElementById('deplie4').style.display = 'none';">
+<p><a class="linkText"><u> Mai putin</u></a></p>
+<p><em>Imaginea este cu titlu de prezentare si nu creeaza obligatii contractuale.<br>
+        &nbsp;&nbsp; <br>
+        Oferta financiara este adresata exclusiv persoanelor juridice si este oferita de UniCredit Leasing Corporation
+        IFN SA, pentru modelul Transit Connect VAN LWB Trend 1.5 100 CP, in valoare de 13373.77 Euro+TVA (15,914.79 Euro
+        TVA inclus), avans 25% in valoare de 3,343,44 Euro+TVA (3,978.7 Euro TVA inclus), pe 60 luni; rata anuala a
+        dobanzii 0% fixa, comision analiza dosar 2,5% din pretul masinii (334.34 Euro + TVA), comision lunar de
+        administrare 0,05% (5.02 Euro +TVA), valoarea ratei lunare 170 Euro+TVA (202.3 Euro TVA inclus). Rata lunara
+        contine prinicipal, dobanda si comision de administrare lunar. In calculul ratei lunare nu s-a inclus asigurarea
+        CASCO.<br>
+        &nbsp;&nbsp;&nbsp; <br>
+        Aceasta oferta include garantia extinsa (2+2 ani de garantie sau 150,000 kilometri).<br>
+        &nbsp;&nbsp;&nbsp; <br>
+        IMPORTANT: Garantia extinsa acopera aceleasi componente ca si garantia de baza, cu anumite exceptii pe care va
+        rugam sa le consultati pe www.ford.ro, pentru a avea imaginea completa a acestui produs.<br>
+        &nbsp;&nbsp;&nbsp; <br>
+        Oferta nu include contravaloarea unor echipamente, accesorii sau dotari optionale, este supusa unor termene si
+        conditii fiind valabila in limita stocului dealerilor participanti in acest program, pana la 31.05.2018. <br>
+        &nbsp;&nbsp;&nbsp; <br>
+        Consumul de carburant mixt masurat in conformitate cu dispozitiile legale in vigoare (e.g Directiva Europeana nr
+        715/2007): consum 4.8 l/100 km; emisii CO2: 124 g/km, valorile sunt masurate in conformitate cu dispozitiile
+        legale in vigoare. <br>
+        &nbsp;&nbsp; <br>
+        Detalii si explicatii suplimentare despre campanie - la dealerii autorizati Ford, participanti la campanie.<br>
+    </em></p>
+</span></div>
+        <p></p>
+        </p>
+    </div>
+
+</article>
+<article class="content-column left">
+    <div class="img-column"><img
+                src="/assets/img/ecobonus/1214657253609.jpg"
+                alt="Ford Business Weeks Comerciale"/><span class="fv-overlay-icon"></span></div><br>
+    <div class="content">
+        <h3 class="bigHeading">
+            TRANSIT VAN
+        </h3>
+        <br>
+        <p>
+
+        <p>Un vehicul din gama Transit este un partener pe cat de flexibil, pe atat de practic si eficient. Cu Transit
+            Van, o legenda in gama vehiculelor comerciale, iti poti transporta atat echipa, cat si materialele, fara
+            efort.<br>
+            <br>
+            Desi e cea mai mare utilitara a gamei, Transit Van este si economica, gratie gamei de motoare EcoBlue TDCi
+            de 2 litri. <br>
+            &nbsp; <br>
+            Aproape fiecare aspect al unui Transit poate fi modificat, astfel incat sa iti satisfaca nevoile de afaceri.<br>
+            &nbsp; <br>
+            <strong>Transit Van 350L BASE 2.0, TD 105 T5 M6 FWD LWB</strong>, vine la pachet cu:<br>
+            &bull; Aer&nbsp; conditionat manual<br>
+            &bull; radio, Bluetooth, conexiune USB<br>
+            &bull; faruri de ceata, geamuri electrice</p>
+
+        <p>Vino in showroom-urile Ford la Business Weeks si primesti beneficii de exceptie pentru afacerea ta: <br>
+            &nbsp; <strong>- dobanda 0%<br>
+                - rata lunara 200 euro*<br>
+                - garantie extinsa (2+2 ani fara limita de km)</strong><br>
+            &nbsp; <br>
+            <strong>Sau rezerva acum oferta speciala, <a
+                    HREF="https://secure.ford.ro/Promotii/comerciale/BusinessWeeks/rezervare">aici</a>:</strong><br>
+            &nbsp;<br>
+            <a HREF="http://www.ford.ro/SBE/dealeri-ford">Gaseste cel mai apropiat dealer Ford.</a></p>
+
+        <div id="replie6" style="display: block"><span
+                onclick="document.getElementById('deplie6').style.display = 'block'; document.getElementById('replie6').style.display = 'none';">
+<p><br>
+    <a class="linkText"><u> *Termeni si conditii</u></a></p>
+</span></div>
+        <div id="deplie6" style="display: none"><span
+                onclick="document.getElementById('replie6').style.display = 'block'; document.getElementById('deplie6').style.display = 'none';">
+<p><a class="linkText"><u> Mai putin</u></a></p>
+<p><em>Imaginea este cu titlu de prezentare si nu creeaza obligatii contractuale.<br>
+        &nbsp; <br>
+        Oferta financiara este adresata exclusiv persoanelor juridice si este oferita de UniCredit Leasing Corporation
+        IFN SA pentru modelul Transit VAN 350L BASE 2.0 TD105 T5 M6 FWD LWB, in valoare de 15,733.85 Euro+TVA (18,723.28
+        Euro TVA inclus), avans 25% in valoare de 3,933.46 Euro+TVA (4,680.82 Euro TVA inclus), pe 60 luni; rata anuala
+        a dobanzii 0% fixa, comision analiza dosar 2,5% din pretul masinii (393.35 Euro + TVA), comision lunar de
+        administrare 0,05% (5.9 Euro +TVA), valoarea ratei lunare 200 Euro+TVA (238 Euro TVA inclus). Rata lunara
+        contine prinicipal, dobanda si comision de administrare lunar. In calculul ratei lunare nu s-a inclus asigurarea
+        CASCO.<br>
+        &nbsp; <br>
+        Aceasta oferta include garantia extinsa (2+2 ani garantie fara limita de kilometrii).<br>
+        &nbsp; <br>
+        IMPORTANT: Garantia extinsa acopera aceleasi componente ca si garantia de baza, cu anumite exceptii pe care va
+        rugam sa le consultati pe www.ford.ro pentru a avea imaginea completa a acestui produs.<br>
+        &nbsp; <br>
+        Oferta nu include contravaloarea unor echipamente, accesorii sau dotari optionale, este supusa unor termene si
+        conditii fiind valabila in limita stocului dealerilor participanti inacest&nbsp; program pana la 31.05.2018 <br>
+        &nbsp; <br>
+        Consumul de carburant mixt masurat in conformitate cu dispozitiile legale in vigoare (e.g Directiva Europeana
+        nr. 715/2007): consum 6.9- 7.1 L/ 100 km, emisii CO2: 179-184 g/km; valorile sunt masurate in conformitate cu
+        dispozitiile legale in vigoare. <br>
+        &nbsp; <br>
+        Detalii si explicatii suplimentare despre campanie - la dealerii autorizati Ford participanti la campanie.</em>
+</p>
+</span>
+
+            <p></p>
+        </div>
+        </p>
+    </div>
+</article>
+<article class="content-column right">
+    <div class="content">
+        <div class="img-column"> <img
+                src="/assets/img/ecobonus/1214657253695.jpg"
+                alt="Ford Business Weeks Comerciale"/><span class="fv-overlay-icon"></span></div><br>
+        <h3 class="bigHeading">
+            TRANSIT COUSTOM KOMBI
+        </h3>
+<br>
+        <p>
+
+        <p>Afaceri sau placere? Greu de zis, cand ai un partener surprinzator.<br>
+            &nbsp; <br>
+            Modelul Transit Custom Kombi este cel mai versatil partener in domeniul transportului de persoane. Flexibil,
+            spatios si surprinzator de inteligent, acest van poate crea oricand o zona noua si generoasa de incarcare,
+            gratie scaunelor rabatabile.<br>
+            &nbsp; <br>
+            <strong>Transit Custom KOMBI M1 320L TREND 2.0TD130 S6 M6 FWD LWB</strong> vine la pachet cu:<br>
+            &bull; aer conditionat manual<br>
+            &bull; radio, Bluetooth, conexiune USB<br>
+            &bull; faruri de ceata, oglinzi electrice si incalzite si geamuri electrice <br>
+            <br>
+            Vino in showroom-urile Ford la Business Weeks si primesti beneficii de exceptie pentru afacerea ta: <br>
+            <strong>- dobanda 0%<br>
+                - rata lunara 280 euro*<br>
+                - garantie extinsa (2+2 ani fara limita de km)</strong><br>
+            &nbsp; <br>
+            <strong>Sau rezerva acum oferta speciala, <a
+                    HREF="https://secure.ford.ro/Promotii/comerciale/BusinessWeeks/rezervare">aici</a>:</strong><br>
+            <br>
+            <a HREF="http://www.ford.ro/SBE/dealeri-ford">Gaseste cel mai apropiat dealer Ford.</a></p>
+
+        <div id="replie8" style="display: block"><span
+                onclick="document.getElementById('deplie8').style.display = 'block'; document.getElementById('replie8').style.display = 'none';">
+<p><br>
+    <a class="linkText"><u> *Termeni si conditii</u></a></p>
+</span></div>
+        <div id="deplie8" style="display: none"><span
+                onclick="document.getElementById('replie8').style.display = 'block'; document.getElementById('deplie8').style.display = 'none';">
+<p><a class="linkText"><u> Mai putin</u></a></p>
+<p><em>Imaginea este cu titlu de prezentare si nu creeaza obligatii contractuale<br>
+        &nbsp; <br>
+        Oferta financiara este adresata exclusiv persoanelor juridice si este oferita de UniCredit Leasing Corporation
+        IFN SA, pentru modelul Transit Custom KOMBI M1 320L TREND 2.0TD130 S6 M6 FWD LWB, in valoare de 22,027.39
+        Euro+TVA (26,212.59 Euro TVA inclus), avans 25% in valoare de 5,506.85 Euro+TVA (6,553.15 Euro TVA inclus), pe
+        60 luni; rata anuala a dobanzii 0% fixa, comision analiza dosar 2,5% din pretul masinii (550.68 Euro + TVA),
+        comision lunar de administrare 0,05% (8.26 Euro +TVA), valoarea ratei lunare 280 Euro+TVA (550.68 Euro TVA
+        inclus). Rata lunara contine prinicipal, dobanda si comision de administrare lunar. In calculul ratei lunare nu
+        s-a inclus asigurarea CASCO.<br>
+        &nbsp; <br>
+        Aceasta oferta include garantia extinsa (2 + 2 ani garantie, fara limita de kilometrii).<br>
+        &nbsp; <br>
+        IMPORTANT: Garantia extinsa acopera aceleasi componente ca si garantia de baza, cu anumite exceptii pe care va
+        rugam sa le consultati pe www.ford.ro pentru a avea imaginea completa a acestui produs.<br>
+        &nbsp; <br>
+        Oferta nu include contravaloarea unor echipamente, accesorii sau dotari optionale, este supusa unor termene si
+        conditii fiind valabila in limita stocului dealerilor participanti in acest&nbsp; program pana la 31.05.2018.
+        <br>
+        &nbsp; <br>
+        Consumul de carburant mixt masurat in conformitate cu dispozitiile legale in vigoare (e.g Directiva Europeana
+        nr. 715/2007): consum 6.8-7.1 l/100 km; emisii CO2: 177-183 g/km, valorile sunt masurate in conformitate cu
+        dispozitiile legale in vigoare. <br>
+        &nbsp;&nbsp; <br>
+        Detalii si explicatii suplimentare despre campanie - la dealerii autorizati Ford participanti la campanie.<br>
+    </em></p>
+<p></p>
+<p></p>
+</span></div>
+        </p>
+    </div>
+
+</article>
+<article class="content-column left">
+    <div class="img-column"> <img
+                src="/assets/img/ecobonus/1214657253781.jpg"
+                alt="Ford Business Weeks Comerciale"/><span class="fv-overlay-icon"></span>></div> <br>
+    <div class="content">
+        <h3 class="bigHeading">
+            TRANSIT CUSTOM VAN
+        </h3>
+
+        <p>
+
+        <p>Fa o impresie placuta, chiar si cand transporti marfa sau iti duci echipa spre un nou proiect! Transit Custom
+            Van inspira performanta si siguranta de la distanta. Echipat cu tehnologii si caracteristici de invidiat si
+            inzestrat un design incantator, acest van transforma un drum de serviciu, intr-o plimbare surprinzator de
+            placuta.<br>
+            &nbsp;&nbsp; <br>
+            <strong>Transit Custom VAN 300L TREND 2.0TD105 S6 M6 FWD LWB</strong>, vine la pachet cu:<br>
+            &bull; aer conditionat manual<br>
+            &bull; radio, Bluetooth, conexiune USB<br>
+            &bull; faruri de ceata, oglinzi electrice si incalzite si geamuri electrice<br>
+            &nbsp;&nbsp; <br>
+            Vino in showroom-urile Ford la Business Weeks si primesti beneficii de exceptie pentru afacerea ta: <br>
+            &nbsp;</p>
+
+        <p><strong>- dobanda 0%<br>
+                - rata lunara 230 euro*<br>
+                - garantie extinsa (2+2 ani fara limita de km)</strong><br>
+            &nbsp;&nbsp;</p>
+
+        <p><strong>Sau rezerva acum oferta speciala, <a
+                    HREF="https://secure.ford.ro/Promotii/comerciale/BusinessWeeks/rezervare">aici</a>:</strong><br>
+            &nbsp;&nbsp; <br>
+            <a HREF="http://www.ford.ro/SBE/dealeri-ford">Gaseste cel mai apropiat dealer Ford.</a></p>
 
         <p></p>
 
+        <div id="replie9" style="display: block"><span
+                onclick="document.getElementById('deplie9').style.display = 'block'; document.getElementById('replie9').style.display = 'none';">
+<p><br>
+    <a class="linkText"><u> *Termeni si conditii</u></a></p>
+</span></div>
+        <div id="deplie9" style="display: none"><span
+                onclick="document.getElementById('replie9').style.display = 'block'; document.getElementById('deplie9').style.display = 'none';">
+<p><a class="linkText"><u> Mai putin</u></a></p>
+<p><em>Oferta financiara este adresata exclusiv persoanelor juridice si este oferita de UniCredit Leasing Corporation
+        IFN SA pentru modelul Transit Custom VAN 300L TREND 2.0TD105 S6 M6 FWD LWB, in valoare de 18,093.92 Euro+TVA
+        (21,531.77 Euro TVA inclus), avans 25% in valoare de 4,523.48 Euro+TVA (5,382.94 Euro TVA inclus), pe 60 luni;
+        rata anuala a dobanzii 0% fixa, comision analiza dosar 2,5% din pretul masinii (452.35 Euro + TVA), comision
+        lunar de administrare 0,05% (6.79 Euro +TVA), valoarea ratei lunare 230 Euro+TVA (273.7 Euro TVA inclus). Rata
+        lunara contine prinicipal, dobanda si comision de administrare lunar. In calculul ratei lunare nu s-a inclus
+        asigurarea CASCO.<br>
+        &nbsp; <br>
+        IMPORTANT: Garantia extinsa acopera aceleasi componente ca si garantia de baza, cu anumite exceptii pe care va
+        rugam sa le consultati pe www.ford.ro, pentru a avea imaginea completa a acestui produs.<br>
+        &nbsp; <br>
+        Oferta nu include contravaloarea unor echipamente, accesorii sau dotari optionale, este supusa unor termene si
+        conditii fiind valabila in limita stocului dealerilor participanti inacest&nbsp; program pana la 31.05.2018.<br>
+        &nbsp;&nbsp; <br>
+        Consumul de carburant mixt masurat in conformitate cu dispozitiile legale in vigoare (e.g Directiva Europeana
+        nr. 715/2007): consum 6.1-6.6 l/100 km; emisii CO2: 157-172 g/km, valorile sunt masurate in conformitate cu
+        dispozitiile legale in vigoare <br>
+        &nbsp; <br>
+        Detalii si explicatii suplimentare despre campanie - la dealerii autorizati Ford participanti la campanie.</em>
+</p>
+</span></div>
+        <p></p>
+
         <div></div>
-        <div></div>
-        <div><font onmouseout="this.style.color='#000000'" color="#000000">
-                <div><strong> <font onmouseout="this.style.color='#000000'"
-                                    color="#000000"> </font></strong></div>
-                <div></div>
-                <div><span style="font-size: medium;"><span color="#005f97"> <div
-                                style="text-align: center;" id="replie22"><font
-                                    onmouseout="this.style.color='#000000'" color="#000000"><span
-                                        onclick="document.getElementById('deplie22').style.display = 'block'; document.getElementById('replie22').style.display = 'none';"><a><span
-                                                style="font-size: medium;"><font
-                                                    onmouseover="this.style.color='#fa5514'"
-                                                    onmouseout="this.style.color='#0d4bb3'"
-                                                    color="#0d4bb3"><u>*Termeni si
-                                                        conditii </u></font></span></a></span></font>
-                            </div> <div style="display: none; text-align: center;" id="deplie22"><span
-                                    onclick="document.getElementById('replie22').style.display = 'block'; document.getElementById('deplie22').style.display = 'none';"><font
-                                        onmouseout="this.style.color='#0d4bb3'" color="#0d4bb3"><u>*Termeni
-                                            si conditii</u></font> <font
-                                        onmouseout="this.style.color='#000000'" color="#000000"><br>
-                                        <br> </font> <div style="text-align: center;"><font
-                                            onmouseout="this.style.color='#000000'"
-                                            color="#000000"><span> <p><em>Imagine cu titlu de
-                                                        prezentare, care nu creeaza obligatii
-                                                        contractuale. <br> <br> Oferta de leasing
-                                                        operational de mai jos este adresata exclusiv
-                                                        persoanelor juridice si PFA-urilor si este
-                                                        realizata de ALD Automotive pentru modelul Ford
-                                                        Transit Courier 1.5 TDCI 75CP Trend, motorizare
-                                                        Diesel, CO<sub>2</sub>: 123 g/km., avand consum
-                                                        mediu de 4,00l/100km. Serviciile incluse in
-                                                        cadrul contractului de leasing operational sunt
-                                                        urmatoarele: Costuri de inmatriculare, Vigneta,
-                                                        Asigurari CASCO si RCA, Mentenanta cu piese
-                                                        originale in reteaua autorizata Ford, Anvelope
-                                                        iarna-vara premium si administrarea acestora,
-                                                        Asistenta Vehicul si Sofer, valabila 24/7. La
-                                                        stabilirea ratei lunare s-au luat in considerare
-                                                        urmatorii parametrii: un kilometraj total de
-                                                        120.000 km si o durata a contractului de 57
-                                                        luni. Oferta de leasing operational este
-                                                        indicativa si poate fi supusa unor termene si
-                                                        conditii suplimentare in functie de rezultatul
-                                                        analizei financiare a aplicantului. <br> <br>
-                                                        Oferta este valabila pentru contractele de
-                                                        leasing operational semnate pana la data de
-                                                        31.12.2017, in limita stocului disponibil. <br>
-                                                        <br> Oferta include echipamente/accesorii/dotari
-                                                        optionale suplimentare in valoare de 67 euro
-                                                        fara TVA. </em></p> <br> <br> </span></font>
-                                    </div> </span></div> </span></span></div>
-                <p><span style="font-size: x-small;"><font onmouseout="this.style.color='#000000'"
-                                                           color="#000000"> <strong><br>
-                            </strong></font></span></p></font></div>
-        <div><font onmouseout="this.style.color='#000000'" color="#000000"> </font></div>
         </p>
     </div>
 </article>
@@ -517,7 +556,6 @@
     }
 </script>
 
-</div>
 <script src="http://www.ford.ro/cs/ContentServer?pagename=EP2%2fENGInE%2fscript%2fGroupedJS"
         type="text/javascript"></script>
 <script> EP2.Globals.siteName = 'RORO4_ENGINE';
@@ -557,5 +595,4 @@
     src='http://www.ford.ro/cs/ContentServer?cid=1&amp;isMobile=false&amp;pagename=RORO4_ENGINE%2Fscript%2Ftagit%2Fstatic&amp;require=NONE&amp;location=load&amp;c=Page'></script>
 </body>
 
-<!-- Mirrored from www.ford.ro/Promotii/comerciale/Business-Weeks by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 07 Nov 2017 08:40:23 GMT -->
 </html> 

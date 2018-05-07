@@ -254,7 +254,7 @@ $route['Promotii/Autoturisme'] = 'promotii/autoturisme/index';
 $route['Promotii/Autoturisme/NoulKAPlus'] = 'promotii/autoturisme/noul_ka_plus';
 $route['Promotii/Autoturisme/NoulFordEdge'] = 'promotii/autoturisme/noul_ford_edge';
 $route['Promotii/Autoturisme/KugaSummerEdition'] = 'promotii/autoturisme/kuga_summer';
-$route['Promotii/Autoturisme/Business-Weeks'] = 'promotii/autoturisme/business_weeks';
+$route['Promotii/Autoturisme/BusinessWeeks'] = 'promotii/autoturisme/business_weeks';
 $route['Promotii/Autoturisme/PromotieFlote'] = 'promotii/autoturisme/promotie_flote';
 $route['Promotii/Autoturisme/FiestaSocialClub'] = 'promotii/autoturisme/fiesta_social_club';
 $route['Promotii/Autoturisme/Edge'] = 'promotii/autoturisme/edge_prom';
@@ -266,16 +266,18 @@ $route['Promotii/Autoturisme/Redescopera/OfertaFocus'] = 'promotii/autoturisme/o
 $route['Promotii/Autoturisme/Redescopera/Procedura'] = 'promotii/autoturisme/procedurared';
 
 
-$route['Promotii/Autoturisme/Ecobonus'] = 'promotii/autoturisme/ecobonus';
+$route['Promotii/Autoturisme/EcoBonus'] = 'promotii/autoturisme/ecobonus';
 $route['Promotii/Autoturisme/BlackFriday'] = 'promotii/autoturisme/black_friday';
 $route['Promotii/Autoturisme/NoulKUGA'] = 'promotii/autoturisme/noul_kuga_o';
 $route['Promotii/Autoturisme/Mondeo-STLine'] = 'promotii/autoturisme/mondeo_stline';
 
 $route['Promotii/Autoturisme/EcoBonus/OfertaFiesta'] = 'promotii/autoturisme/oferta_fiesta_e';
-$route['Promotii/Autoturisme/EcoBonus/OfertaBMAX'] = 'promotii/autoturisme/oferta_bmax_e';
+$route['Promotii/Autoturisme/EcoBonus/OfertaFiestaActive'] = 'promotii/autoturisme/oferta_fiestaactive_e';
 $route['Promotii/Autoturisme/EcoBonus/OfertaFocus'] = 'promotii/autoturisme/oferta_focus_e';
 $route['Promotii/Autoturisme/EcoBonus/OfertaMondeo'] = 'promotii/autoturisme/oferta_mondeo_e';
-$route['Promotii/Autoturisme/EcoBonus/OfertaEcoSport'] = 'promotii/autoturisme/oferta_ecosport_e';
+$route['Promotii/Autoturisme/EcoBonus/OfertaEcosport'] = 'promotii/autoturisme/oferta_ecosport_nou';
+$route['Promotii/Autoturisme/EcoBonus/OfertaKuga'] = 'promotii/autoturisme/oferta_kuga_nou';
+$route['Promotii/Autoturisme/EcoBonus/OfertaMondeoTitaniumHEV'] = 'promotii/autoturisme/oferta_mondeo_hev';
 $route['Promotii/Autoturisme/EcoBonus/Procedura'] = 'promotii/autoturisme/procedura';
 $route['Promotii/Autoturisme/EcoBonus/WeekendulInovatiei'] = 'promotii/autoturisme/weekendul_inovatiei';
 
@@ -285,7 +287,7 @@ $route['Promotii/Autoturisme/programul-rabla'] = 'promotii/autoturisme/programul
 $route['Promotii/Autoturisme/programul-rabla/OfertaFiesta'] = 'promotii/autoturisme/oferta_fiesta';
 $route['Promotii/Autoturisme/programul-rabla/OfertaKA'] = 'promotii/autoturisme/oferta_ka';
 $route['Promotii/Autoturisme/programul-rabla/OfertaFocus'] = 'promotii/autoturisme/oferta_focus';
-$route['Promotii/Autoturisme/programul-rabla/OfertaEcosport'] = 'promotii/autoturisme/oferta_ecosport';
+$route['Promotii/Autoturisme/programul-rabla/OfertaEcosportsds'] = 'promotii/autoturisme/oferta_ecosport';
 $route['Promotii/Autoturisme/programul-rabla/Rezervare'] = 'promotii/autoturisme/rezervare';
 
 $route['Promotii/Autoturisme/Noul-EcoSport'] = 'promotii/autoturisme/noul_ecosport';
@@ -306,7 +308,7 @@ $route['Promotii/comerciale/OferteSIAB_PJ'] = 'promotii/comerciale/oferte_siab_p
 $route['Promotii/comerciale'] = 'promotii/comerciale/index';
 $route['Promotii/comerciale/Ranger'] = 'promotii/comerciale/noul_ranger';
 $route['Promotii/comerciale/Transit'] = 'promotii/comerciale/transit_ok';
-$route['Promotii/comerciale/Business-Weeks'] = 'promotii/comerciale/business_weeks_co';
+$route['Promotii/comerciale/BusinessWeeks'] = 'promotii/comerciale/business_weeks_co';
 $route['Promotii/comerciale/BlackFriday'] = 'promotii/comerciale/black_friday_co';
 
 $route['Promotii/FiestaRedBlack'] = 'promotii/fiesta_red_black/index';
