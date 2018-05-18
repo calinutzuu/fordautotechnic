@@ -296,6 +296,8 @@ $route['Promotii/Autoturisme/NoulFordFIESTAFlote'] = 'promotii/autoturisme/fiest
 
 $route['Promotii/Autoturisme/OferteSIAB_PF'] = 'promotii/autoturisme/oferte_siab_pf';
 
+$route['Promotii/Autoturisme/OfertaFiestaActive'] = 'promotii/autoturisme/oferta_fiesta_active';
+
 $route['Promotii/Autoturisme/Rabla'] = 'promotii/autoturisme/rabla_p';
 $route['Promotii/Autoturisme/Rabla/OfertaFiesta'] = 'promotii/autoturisme/oferta_fiesta';
 $route['Promotii/Autoturisme/Rabla/OfertaBMAX'] = 'promotii/autoturisme/oferta_bmax';

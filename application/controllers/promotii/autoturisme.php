@@ -307,6 +307,16 @@ class Autoturisme extends CI_Controller
             ->set_layout('promotii')
             ->title('NoulFiesta', 'Ford AutoTechnic')
             ->build('promotii/autoturisme/oferte_siab_pf');
+
+    }
+
+    public function oferta_fiesta_active()
+    {
+        $this->template
+            ->set_layout('promotii')
+            ->title('NoulFiestaActive', 'Ford AutoTechnic')
+            ->build('promotii/autoturisme/oferta_fiesta_active');
+
     }
 
 }
