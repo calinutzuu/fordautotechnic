@@ -29,12 +29,32 @@
 
 
         <article class="content-column left">
-            <div class="img-column"> <img
-                        src="/assets/img/1214657763008.jpg"
-                        alt="Ford Fiesta Active "/><span class="fv-overlay-icon"></span></div>
-            <div class="content"> <br>
+            <div class="img-column"><img
+                    src="/assets/img/1214658395138.jpg"
+                    alt="Ford Focus"/></div>
+            <div class="content">
                 <h3 class="bigHeading02">
-                    Un stil de viata activ impune o masina pe masura. Descopera <br>primul model de Fiesta crossover de pana
+                    Ford Focus – promotie cu livrare imediata!
+                </h3>
+
+                <p>
+
+                <p>Profita de promotia speciala FORD FOCUS – beneficiezi de avantaj client de 4.700€* si de livrare
+                    imediata!<br>
+                    <u><br>
+                        <a HREF="/Promotii/Autoturisme/OfertaFocus"><u>Detalii despre promotie</u></a></u></p>
+                </p>
+            </div>
+        </article>
+        <article class="content-column left">
+            <div class="img-column"><img
+                    src="/assets/img/1214657763008.jpg"
+                    alt="Ford Fiesta Active "/><span class="fv-overlay-icon"></span></div>
+            <div class="content"><br>
+
+                <h3 class="bigHeading02">
+                    Un stil de viata activ impune o masina pe masura. Descopera <br>primul model de Fiesta crossover de
+                    pana
                     acum: Noul Fiesta Active.
                 </h3>
 
@@ -47,8 +67,8 @@
         </article>
         <article class="content-column left">
             <div class="img-column"><img
-                        src="/assets/img/1214657762922.jpg"
-                        alt="Programul Rabla"/><span class="fv-overlay-icon"></span></div>
+                    src="/assets/img/1214657762922.jpg"
+                    alt="Programul Rabla"/><span class="fv-overlay-icon"></span></div>
             <div class="content">
                 <h3 class="bigHeading02">
                     Te intereseaza ofertele Ford dar vrei si sa astepti demararea programului rabla?
@@ -56,8 +76,11 @@
 
                 <p>
 
-                <p>Inscrie-te <a HREF="https://secure.ford.ro/Promotii/Autoturisme/Ecobonus/programul-rabla"><u>aici </u></a>si te vom tine la
-                    curent cu relansarea programului si cu cele mai bune oferte <br>Ford care includ voucherul din program.
+                <p>Inscrie-te <a
+                        HREF="https://secure.ford.ro/Promotii/Autoturisme/Ecobonus/programul-rabla"><u>aici </u></a>si
+                    te vom tine la
+                    curent cu relansarea programului si cu cele mai bune oferte <br>Ford care includ voucherul din
+                    program.
                 </p>
                 </p>
             </div>

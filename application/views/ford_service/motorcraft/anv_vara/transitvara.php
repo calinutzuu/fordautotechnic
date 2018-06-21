@@ -486,8 +486,7 @@ return false;"
                                             td.CusTab-tick {
                                                 color: #0070c0;
                                             }</style>
-                                        Toate preturile afisate sunt preturi recomandate de v&acirc;nzare cu TVA inclus.
-                                        Nu includ manopera pentru montare si echilibrare anvelope.<br> <br>
+
                                         <table class="floatedTable" width="100%">
                                             <tbody>
                                             <tr class="CusTab-header">
@@ -634,15 +633,13 @@ return false;"
                                     </div>
                                     <div class='BTIarticleBody'>
                                         <div class='BTIarticleText'>
-                                            <div><em>Toate preturile afisate in aceasta oferta sunt preturi recomandate
-                                                    si contin TVA conform legislatiei in vigoare . Oferta nu include
-                                                    montajul, echilibrarea si sistemul de monitorizare a presiunii in
-                                                    anvelope. De asemenea, oferta se poate modifica in functie de seria
-                                                    de sasiu. Alte detalii aferente ofertei sunt disponibile in paginile
-                                                    de promotie detaliate pe ford.ro si in reteaua de reparatori
-                                                    autorizati Ford.<br>
-                                                    Perioada derularii acestei campanii: 01 Martie 2018 - 31 Mai
-                                                    2018<br>
+                                            <div><em>Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin
+                                                    TVA conform legislatiei in vigoare. Oferta nu include montajul, echilibrarea si
+                                                    sistemul de monitorizare a presiunii in anvelope. De asemenea, oferta se poate
+                                                    modifica in functie de seria de sasiu. Alte detalii aferente ofertei sunt
+                                                    disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de
+                                                    reparatori autorizati Ford.<br>
+                                                    Perioada derularii acestei campanii: 1 Iunie 2018 - 31 August 2018.<br>
                                                     * Anvelopele Motorcraft sunt marca Tigar
                                                 </em></div>
                                         </div>

@@ -4,6 +4,29 @@
 <div id="hpCarousel" role="listbox">
 <!--Rendering the Image Panel-->
 
+
+<article role="option">
+    <a class="carImg" href="#img1"><img
+            src="/assets/img/1214658395105.jpg" alt=""
+            role="presentation"></a>
+
+    <div class="innerBox posBottomLeft WhiteText">
+        <div class="">
+            <h2 class="bigHeading02">
+            </h2>
+
+            <p class="captionTxt">
+            </p>
+
+            <div class="btnwrapper">
+                <div class="btnLink light">
+                    <a role="button" class="om_ca_in" href="/Promotii/Autoturisme">Vezi promotia</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</article>
+
 <article role="option">
     <a class="carImg" href="#img1"><img
             src="/assets/img/1214657795888.jpg"
@@ -169,11 +192,11 @@
 
 <article role="option">
     <a class="carImg" href="#img1"><img
-            src="/assets/img/1214656038269.jpg"
+            src="/assets/img/1214658245798.jpg"
             alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt;FORD &lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt;MOTORCRAFT&lt;/span&gt;&lt;/span&gt;"
             role="presentation"></a>
 
-    <div class="innerBox posBottomLeft GreyBlock">
+    <div class="innerBox posBottomRight GreyBlock">
         <div class="blockTransparent">
             <h2 class="bigHeading02">
                 <span style="font-size:28px;"><span style="font-family:FordAntennaRegular;">FORD </span><span
@@ -181,13 +204,13 @@
             </h2>
 
             <p class="captionTxt">
-                <span style="font-size:22px;"><span style="font-family:FordAntennaRegular;">Primavara este aici - masina ta Ford are nevoie de putina atentie.</span><span
+                <span style="font-size:22px;"><span style="font-family:FordAntennaRegular;"></span><span
                         style="font-family:FordAntennaBlack;"></span></span>
             </p>
 
             <div class="btnwrapper">
                 <div class="btnLink light">
-                    <a role="button" class="om_ca_in" href="/FordService/Motorcraft">DESCOPER&#258; PROMO&#538;IILE</a>
+                    <a role="button" class="om_ca_in" href="/FordService/Motorcraft">Vezi promotiile</a>
                 </div>
             </div>
         </div>

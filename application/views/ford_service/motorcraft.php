@@ -342,7 +342,7 @@
                         document.id('menu1205094744296').addClass("navnextSteps");
                     </script>
                 </li>
-                <li id='menu1205094744286' class=''>
+             <!--   <li id='menu1205094744286' class=''>
                     <a href='Motorcraft/Anvelope'/>Anvelope de iarna</a>
                     <div id="navsubmenu" class="navsubmenu">
                         <div class="navsubmenutop">
@@ -368,7 +368,7 @@
                         <div class="navsubmenubottom">
                         </div>
                     </div>
-                </li>
+                </li> -->
 
                 <li id='menu1205094747812' class=''>
                     <a href='Motorcraft/AnvelopeVara'/>Anvelope de vara</a>

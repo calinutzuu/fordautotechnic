@@ -339,7 +339,7 @@
             <ul id="nextSteps" class="nextSteps">
                 <li class="selected"><p>Service</p></li>
                 <li id='menu1205094744286' class=''>
-                    <a href='Anvelope'/>Anvelope de iarna</a>
+                    <a href='Motorcraft/AnvelopeVara'//>Anvelope de vara</a>
                     <div id="navsubmenu" class="navsubmenu">
                         <div class="navsubmenutop">
                         </div>
@@ -628,8 +628,10 @@ return false;"
             </div>
             <div class='BTIarticleBody'>
                 <div class='BTIarticleText'>
-                    <div><em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin TVA conform legislatiei în vigoare. Oferta nu include componentele tehnologice, este supusa termenilor si conditiilor afisate si este valabila in limita stocului disponibil. De asemenea, oferta se poate modifica in functie de seria de sasiu. Schimbul de ulei este inclus in preturile mentionate in limita a 5l pentru autoturisme si 7l  pentru autoutilitare. Alte detalii aferente ofertei sunt disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de reparatori autorizati Ford.  <br>
-                            Perioada derularii acestei campanii: 1 Ianuarie 2018 – 28 Februarie 2018.</em></div>
+                    <div><em>
+                            *Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin TVA conform legislatiei in vigoare. Oferta nu include componentele tehnologice, este supusa termenilor si conditiilor afisate si este valabila in limita stocului disponibil. De asemenea, oferta se poate modifica in functie de seria de sasiu. Schimbul de ulei este inclus in preturile mentionate in limita a 5l pentru autoturisme si 7l pentru autoutilitare. Alte detalii aferente ofertei sunt disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de reparatori autorizati Ford.
+                            Perioada derularii acestei campanii: 1 Iunie 2018 - 31 August 2018.
+                        </em></div>
                 </div>
             </div>
         </div>

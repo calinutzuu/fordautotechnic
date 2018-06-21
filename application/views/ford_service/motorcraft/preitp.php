@@ -613,8 +613,8 @@ return false;"
                             </div>
                             <div class='BTIarticleBody'>
                                 <div class='BTIarticleText'>
-                                    <div><em><span style="font-size: x-small;">*Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin TVA conform legislatiei în vigoare. Oferta nu include componentele tehnologice, este supusa termenilor si conditiilor afisate si este valabila in limita stocului disponibil. De asemenea, oferta se poate modifica in functie de seria de sasiu. Schimbul de ulei este inclus in preturile mentionate in limita a 5l pentru autoturisme si 7l  pentru autoutilitare. Alte detalii aferente ofertei sunt disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de reparatori autorizati Ford.
-Perioada derularii acestei campanii: 1 Ianuarie 2018 – 28 Februarie 2018. </span></em>
+                                    <div><em><span style="font-size: x-small;">Reparatiile necesare in urma verificarii reprezinta servicii contra cost si se comanda separat. Inspectia se face in service-uri autorizate R.A.R. Alte detalii aferente ofertei sunt disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de reparatori autorizati Ford.
+Perioada derularii acestei campanii: 01 Iunie 2018 - 31 August 2018. </span></em>
                                     </div>
                                 </div>
                             </div>

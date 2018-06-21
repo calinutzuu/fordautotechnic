@@ -319,4 +319,14 @@ class Autoturisme extends CI_Controller
 
     }
 
+    public function oferta_focus_nou()
+    {
+        $this->template
+            ->set_layout('promotii')
+            ->title('NoulFocus', 'Ford AutoTechnic')
+            ->build('promotii/autoturisme/oferta_focus_nou');
+
+    }
+
+
 }
