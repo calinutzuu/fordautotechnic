@@ -339,7 +339,7 @@
             <ul id="nextSteps" class="nextSteps">
                 <li class="selected"><p>Service</p></li>
                 <li id='menu1205094744286' class=''>
-                    <a href='Motorcraft/AnvelopeVara'//>Anvelope de vara</a>
+                    <a href='AnvelopeVara'>Anvelope de vara</a>
                     <div id="navsubmenu" class="navsubmenu">
                         <div class="navsubmenutop">
                         </div>

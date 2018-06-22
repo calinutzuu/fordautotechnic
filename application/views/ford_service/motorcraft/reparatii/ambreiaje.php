@@ -520,13 +520,8 @@
                                         </tr>
                                         </tbody>
                                     </table>
-                                    <br> <br> <em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin TVA conform
-                                        legislatiei &icirc;n vigoare. Oferta nu include componentele tehnologice, este supusa termenilor si
-                                        conditiilor afisate si este valabila in limita stocului disponibil. De asemenea, oferta se poate
-                                        modifica in functie de seria de sasiu. Schimbul de ulei este inclus in preturile mentionate in
-                                        limita a 5l pentru autoturisme si 7l &nbsp;pentru autoutilitare. Alte detalii aferente ofertei sunt
-                                        disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de reparatori autorizati
-                                        Ford.&nbsp;<br> Perioada derularii acestei campanii: 1 Ianuarie 2018 &ndash; 28 Februarie 2018.</em>
+                                    <br> <br> <em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate in lei, contin TVA conform legislatiei in vigoare si includ pretul manoperei. Oferta nu include componentele tehnologice. Oferta NU SE APLICA autovehiculelor utilitare echipate cu roti duble spate. De asemenea, aceasta oferta este supusa termenilor si conditiilor afisate, este valabila in limita stocului disponibil si se poate modifica in functie de seria de sasiu. Alte detalii aferente ofertei sunt disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de reparatori autorizati Ford.
+                                        Perioada derularii acestei campanii: 01 Iunie 2018 - 31 August 2018.</em>
                                 </div>
                             </div>
                         </div>

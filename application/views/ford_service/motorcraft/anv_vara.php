@@ -131,7 +131,7 @@
 <!--<START_MHB001 >-->
 <div id="masthead">
     <img
-        src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214655267554&amp;blobkey=id"
+        src="/assets/img/1214655267554.jpg"
         border="0" alt="Ford Motorcraft" title="Ford Motorcraft" height='115' width='980'/>
 </div>
 <!--<END_MHB001 >-->

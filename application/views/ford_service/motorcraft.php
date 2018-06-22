@@ -342,33 +342,33 @@
                         document.id('menu1205094744296').addClass("navnextSteps");
                     </script>
                 </li>
-             <!--   <li id='menu1205094744286' class=''>
-                    <a href='Motorcraft/Anvelope'/>Anvelope de iarna</a>
-                    <div id="navsubmenu" class="navsubmenu">
-                        <div class="navsubmenutop">
-                        </div>
-                        <ul class="navsubmenu">
-                            <li class=''>
-                                <a href='Motorcraft/Anvelope/Ka'>Ka</a></li>
-                            <li class=''>
-                                <a href='Motorcraft/Anvelope/Fiesta'>Fiesta</a></li>
-                            <li class=''>
-                                <a href='Motorcraft/Anvelope/Fusion'>Fusion</a></li>
-                            <li class=''>
-                                <a href='Motorcraft/Anvelope/Focus'>Focus</a></li>
-                            <li class=''>
-                                <a href='Motorcraft/Anvelope/C-MAX'>C-MAX</a></li>
-                            <li class=''>
-                                <a href='Motorcraft/Anvelope/Mondeo'>Mondeo</a></li>
-                            <li class=''>
-                                <a href='Motorcraft/Anvelope/Kuga'>Kuga</a></li>
-                            <li class=''>
-                                <a href='Motorcraft/Anvelope/Transit'>Transit</a></li>
-                        </ul>
-                        <div class="navsubmenubottom">
-                        </div>
-                    </div>
-                </li> -->
+                <!--   <li id='menu1205094744286' class=''>
+                       <a href='Motorcraft/Anvelope'/>Anvelope de iarna</a>
+                       <div id="navsubmenu" class="navsubmenu">
+                           <div class="navsubmenutop">
+                           </div>
+                           <ul class="navsubmenu">
+                               <li class=''>
+                                   <a href='Motorcraft/Anvelope/Ka'>Ka</a></li>
+                               <li class=''>
+                                   <a href='Motorcraft/Anvelope/Fiesta'>Fiesta</a></li>
+                               <li class=''>
+                                   <a href='Motorcraft/Anvelope/Fusion'>Fusion</a></li>
+                               <li class=''>
+                                   <a href='Motorcraft/Anvelope/Focus'>Focus</a></li>
+                               <li class=''>
+                                   <a href='Motorcraft/Anvelope/C-MAX'>C-MAX</a></li>
+                               <li class=''>
+                                   <a href='Motorcraft/Anvelope/Mondeo'>Mondeo</a></li>
+                               <li class=''>
+                                   <a href='Motorcraft/Anvelope/Kuga'>Kuga</a></li>
+                               <li class=''>
+                                   <a href='Motorcraft/Anvelope/Transit'>Transit</a></li>
+                           </ul>
+                           <div class="navsubmenubottom">
+                           </div>
+                       </div>
+                   </li> -->
 
                 <li id='menu1205094747812' class=''>
                     <a href='Motorcraft/AnvelopeVara'/>Anvelope de vara</a>
@@ -409,12 +409,12 @@
                         </div>
                     </div>
                 </li>
-      <!--          <li id='menu1205149628715' class=''>
-                    <a href='/FordService/Motorcraft/10lasuta'/>10 lasuta</a>
-                    <script type="text/javascript">
-                        document.id('menu1205149628715').addClass("navnextSteps");
-                    </script>
-                </li> -->
+                <!--          <li id='menu1205149628715' class=''>
+                              <a href='/FordService/Motorcraft/10lasuta'/>10 lasuta</a>
+                              <script type="text/javascript">
+                                  document.id('menu1205149628715').addClass("navnextSteps");
+                              </script>
+                          </li> -->
             </ul>
             <div class="navbottom"></div>
         </div>
@@ -482,234 +482,263 @@
     </div>
 </div>
 <div class="center_item">
-    <!-- TD No:8174 This method has been added to escape special characters
-    -->
-    <img src="../cs/ENGInE/img/arrow_r_o_tab.gif" alt="" style="display:none">
+<!-- TD No:8174 This method has been added to escape special characters
+-->
+<img src="../cs/ENGInE/img/arrow_r_o_tab.gif" alt="" style="display:none">
 
-    <div class="btoArticleTitle"></div>
-    <div class="BTIRow">
-        <div class="BTITwoItems">
-            <div class="BTIItem">
-                <div class="BTIImage">
-                    <div class="imgNonZoom">
-                        <img
-                            src="/assets/img/1214513079266.jpg"
-                            border="0" width="97"
-                            height="97"
-                            alt="Ford Service"
-                            title="Ford Service"
-                            style="border: solid 1px #999999;">
-                    </div>
-                </div>
-                <div class="BTIarticleTitle">
-                </div>
-                <div class='BTIarticleBody'>
-                    <div class='BTIarticleText'>
-                        <div><h2><font size="2">Ford Service</font></h2><br><span
-                                style="color: rgb(0,0,128)">&nbsp; <strong><span
-                                        style="font-size: x-large">349 lei</span></strong><strong><span
-                                        style="font-size: x-large">&nbsp;</span></strong></span><br><br><br><br><a
-                                HREF="/FordService/Motorcraft/Service">&gt; Ford Service</a></div>
-                    </div>
+<div class="btoArticleTitle"></div>
+<div class="BTIRow">
+    <div class="BTITwoItems">
+        <div class="BTIItem">
+            <div class="BTIImage">
+                <div class="imgNonZoom">
+                    <img
+                        src="/assets/img/1214513079266.jpg"
+                        border="0" width="97"
+                        height="97"
+                        alt="Ford Service"
+                        title="Ford Service"
+                        style="border: solid 1px #999999;">
                 </div>
             </div>
-            <div class="BTIItemSecond">
-                <div class="BTIImage">
-                    <div class="imgNonZoom">
-                        <img
-                            src="/assets/img/1214513079684.jpg"
-                            border="0" width="97"
-                            height="97"
-                            alt="Ford Tyres"
-                            title="Ford Tyres"
-                            style="border: solid 1px #999999;">
-                    </div>
-                </div>
-                <div class="BTIarticleTitle">
-                </div>
-                <div class='BTIarticleBody'>
-                    <div class='BTIarticleText'>
-                        <div><h2><font size="2">Anvelope vara</font></h2>
-
-                            <div></div>
-                            <div><strong><br> de la <span style="color: rgb(0, 0, 128);"><span
-                                            style="font-size: medium;"><span style="font-size: x-large;">151 lei </span></span></span></strong><br>
-                                <br> <br> <br> <a HREF="/FordService/Motorcraft/AnvelopeVara">&gt;Anvelope vara<br></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="BTIRow">
-        <div class="BTITwoItems">
-            <div class="BTIItem">
-                <div class="BTIImage">
-                    <div class="imgNonZoom">
-                        <img
-                            src="/assets/img/1214513079684.jpg"
-                            border="0" width="97"
-                            height="97"
-                            alt="Ford Tyres"
-                            title="Ford Tyres"
-                            style="border: solid 1px #999999;">
-                    </div>
-                </div>
-                <div class="BTIarticleTitle">
-                </div>
-                <div class='BTIarticleBody'>
-                    <div class='BTIarticleText'>
-                        <div><h2><font size="2">Anvelope iarna</font></h2>
-
-                            <div></div>
-                            <div><strong><br> de la <span style="color: rgb(0, 0, 128);"><span
-                                            style="font-size: medium;"><span style="font-size: x-large;">170 lei </span></span></span></strong><br>
-                                <br> <br> <br> <a HREF="/FordService/Motorcraft/Anvelope">&gt;Anvelope iarna</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="BTIItemSecond">
-                <div class="BTIImage">
-                    <div class="imgNonZoom">
-                        <img
-                            src="/assets/img/service/1214513078661.jpg"
-                            border="0" width="97"
-                            height="97"
-                            alt="Ford MOT"
-                            title="Ford MOT"
-                            style="border: solid 1px #999999;">
-                    </div>
-                </div>
-                <div class="BTIarticleTitle">
-                </div>
-                <div class='BTIarticleBody'>
-                    <div class='BTIarticleText'>
-                        <div><h2><font size="2">Pre verificare ITP gratuita<br> </font></h2> <br> <br> <br> <a
-                                HREF="/FordService/Motorcraft/Pre-verificareITP">&gt; Pre-verificare I.T.P</a></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="BTIRow">
-        <div class="BTITwoItems">
-            <div class="BTIItem">
-                <div class="BTIImage">
-                    <div class="imgNonZoom">
-                        <img
-                            src="/assets/img/service/1214513079598.jpg"
-                            border="0" width="97"
-                            height="97"
-                            alt="Ford Repairs"
-                            title="Ford Repairs"
-                            style="border: solid 1px #999999;">
-                    </div>
-                </div>
-                <div class="BTIarticleTitle">
-                </div>
-                <div class='BTIarticleBody'>
-                    <div class='BTIarticleText'>
-                        <div><h2><font size="2">Reparaţii uzuale<br> </font></h2> <strong><br> de la&nbsp; <span
-                                    style="color: rgb(0, 0, 128);"><span style="font-size: medium;"><span
-                                            style="font-size: x-large;">290 lei</span></span></span></strong><br> <br>
-                            <br> <a HREF="/FordService/Motorcraft/Reparatii">&gt;Reparaţii uzuale</a></div>
-                    </div>
-                </div>
-            </div>
-            <div class="BTIItemSecond">
-                <div class="BTIImage">
-                    <div class="imgNonZoom">
-                        <img
-                            src="/assets/img/1214609482801.jpg"
-                            border="0" width="97"
-                            height="97"
-                            alt="Verificare vizuala sistem A/C "
-                            title="Verificare vizuala sistem A/C "
-                            style="border: solid 1px #999999;">
-                    </div>
-                </div>
-                <div class="BTIarticleTitle">
-                </div>
-                <div class='BTIarticleBody'>
-                    <div class='BTIarticleText'>
-                        <div><h2><font size="2">Verificare vizuala sistem A/C </font></h2> <br> <span
-                                style="color: rgb(0, 0, 0);"><strong> </strong></span><span
-                                style="color: rgb(0, 0, 128);"><strong><span
-                                        style="font-size: x-large;">30 lei</span></strong></span><span
-                                style="color: red"><span style="color:#425968"><br> <div><strong><span
-                                                style="font-size: medium;"><br>  </span></strong></div> </span></span><a
-                                HREF="/FordService/Motorcraft/Reparatii/AerConditionat">&gt;Verificare aer
-                                conditionat</a></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="BTIRow">
-        <div class="BTITwoItems">
-            <div class="BTIItem">
-                <div class="BTIImage">
-                    <div class="imgNonZoom">
-                        <img
-                            src="/assets/img/service/1214609482715.jpg"
-                            border="0" width="97"
-                            height="97"
-                            alt="Stergatoare de parbriz "
-                            title="Stergatoare de parbriz "
-                            style="border: solid 1px #999999;">
-                    </div>
-                </div>
-                <div class="BTIarticleTitle">
-                </div>
-                <div class='BTIarticleBody'>
-                    <div class='BTIarticleText'>
-                        <div><h2><font size="2">Stergatoare de parbriz</font></h2> <br> <span
-                                style="color: rgb(0, 0, 0);"><strong>de la <span style="color: rgb(0, 0, 128);"><span
-                                            style="font-size: x-large;">145 lei</span></span></strong></span><br> <br>
-                            <a HREF="/FordService/Motorcraft/Reparatii/Stergatoare">&gt;Stergatoare de parbriz</a></div>
-                    </div>
-                </div>
-            </div>
-            <div class="BTIItemSecond">
-                <div class="BTIarticleTitle">
-                </div>
-                <div class='BTIarticleBody'>
-                    <div class='BTIarticleText'>
-                        <div></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="BTIRow">
-        <div class="BTIOneItem">
             <div class="BTIarticleTitle">
             </div>
             <div class='BTIarticleBody'>
                 <div class='BTIarticleText'>
-                    <div><em>Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin TVA conform
-                            legislatiei in vigoare. Oferta nu include componentele tehnologice, este supusa termenilor
-                            si conditiilor afisate si este valabila in limita stocului disponibil. De asemenea, oferta
-                            se poate modifica in functie de seria de sasiu. Alte detalii aferente ofertei sunt
-                            disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de reparatori
-                            autorizati Ford.<br>
-                            Perioada derularii acestei campanii: 01 Martie 2018 - 31 Mai 2018
-                            <br>
-                        </em></div>
+                    <div><h2><font size="2">Ford Service</font></h2><br><span
+                            style="color: rgb(0,0,128)">&nbsp; <strong><span
+                                    style="font-size: x-large">349 lei</span></strong><strong><span
+                                    style="font-size: x-large">&nbsp;</span></strong></span><br><br><br><br><a
+                            HREF="/FordService/Motorcraft/Service">&gt; Ford Service</a></div>
+                </div>
+            </div>
+        </div>
+        <div class="BTIItemSecond">
+            <div class="BTIImage">
+                <div class="imgNonZoom">
+                    <img
+                        src="/assets/img/1214513079684.jpg"
+                        border="0" width="97"
+                        height="97"
+                        alt="Ford Tyres"
+                        title="Ford Tyres"
+                        style="border: solid 1px #999999;">
+                </div>
+            </div>
+            <div class="BTIarticleTitle">
+            </div>
+            <div class='BTIarticleBody'>
+                <div class='BTIarticleText'>
+                    <div><h2><font size="2">Anvelope vara</font></h2>
+
+                        <div></div>
+                        <div><strong><br> de la <span style="color: rgb(0, 0, 128);"><span
+                                        style="font-size: medium;"><span
+                                            style="font-size: x-large;">151 lei </span></span></span></strong><br>
+                            <br> <br> <br> <a HREF="/FordService/Motorcraft/AnvelopeVara">&gt;Anvelope vara<br></a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
-    <div class="mid_page_promo">
-        <a href='https://wwwprod-ro.engine.ford.com/SBE/OSBOV?dc=10300' target="_self">
-            <img src="/assets/img/1214613372064.jpg" border="0" alt="Programari service" title="Programari service"
-                 height='113' width='557'/>
-        </a>
+</div>
+
+<div class="BTIRow">
+    <div class="BTITwoItems">
+        <div class="BTIItem">
+            <div class="BTIImage">
+                <div class="imgNonZoom">
+                    <img
+                        src="/assets/img/service/1214513078661.jpg"
+                        border="0" width="97"
+                        height="97"
+                        alt="Ford MOT"
+                        title="Ford MOT"
+                        style="border: solid 1px #999999;">
+                </div>
+            </div>
+            <div class="BTIarticleTitle">
+            </div>
+            <div class='BTIarticleBody'>
+                <div class='BTIarticleText'>
+                    <div><h2><font size="2">Pre verificare ITP gratuita<br> </font></h2> <br> <br> <br> <a
+                            HREF="/FordService/Motorcraft/Pre-verificareITP">&gt; Pre-verificare I.T.P</a></div>
+                </div>
+            </div>
+        </div>
+
     </div>
-    <div class="collectionClear"></div>
+</div>
+
+<!--<div class="BTIRow">
+    <div class="BTITwoItems">
+        <div class="BTIItem">
+            <div class="BTIImage">
+                <div class="imgNonZoom">
+                    <img
+                        src="/assets/img/1214513079684.jpg"
+                        border="0" width="97"
+                        height="97"
+                        alt="Ford Tyres"
+                        title="Ford Tyres"
+                        style="border: solid 1px #999999;">
+                </div>
+            </div>
+            <div class="BTIarticleTitle">
+            </div>
+            <div class='BTIarticleBody'>
+                <div class='BTIarticleText'>
+                   <div><h2><font size="2">Anvelope iarna</font></h2>
+
+                        <div></div>
+                        <div><strong><br> de la <span style="color: rgb(0, 0, 128);"><span
+                                        style="font-size: medium;"><span
+                                            style="font-size: x-large;">170 lei </span></span></span></strong><br>
+                            <br> <br> <br> <a HREF="/FordService/Motorcraft/Anvelope">&gt;Anvelope iarna</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="BTIItemSecond">
+            <div class="BTIImage">
+                <div class="imgNonZoom">
+                    <img
+                        src="/assets/img/service/1214513078661.jpg"
+                        border="0" width="97"
+                        height="97"
+                        alt="Ford MOT"
+                        title="Ford MOT"
+                        style="border: solid 1px #999999;">
+                </div>
+            </div>
+            <div class="BTIarticleTitle">
+            </div>
+            <div class='BTIarticleBody'>
+                <div class='BTIarticleText'>
+                    <div><h2><font size="2">Pre verificare ITP gratuita<br> </font></h2> <br> <br> <br> <a
+                            HREF="/FordService/Motorcraft/Pre-verificareITP">&gt; Pre-verificare I.T.P</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div> -->
+<div class="BTIRow">
+    <div class="BTITwoItems">
+        <div class="BTIItem">
+            <div class="BTIImage">
+                <div class="imgNonZoom">
+                    <img
+                        src="/assets/img/service/1214513079598.jpg"
+                        border="0" width="97"
+                        height="97"
+                        alt="Ford Repairs"
+                        title="Ford Repairs"
+                        style="border: solid 1px #999999;">
+                </div>
+            </div>
+            <div class="BTIarticleTitle">
+            </div>
+            <div class='BTIarticleBody'>
+                <div class='BTIarticleText'>
+                    <div><h2><font size="2">Reparaţii uzuale<br> </font></h2> <strong><br> de la&nbsp; <span
+                                style="color: rgb(0, 0, 128);"><span style="font-size: medium;"><span
+                                        style="font-size: x-large;">290 lei</span></span></span></strong><br> <br>
+                        <br> <a HREF="/FordService/Motorcraft/Reparatii">&gt;Reparaţii uzuale</a></div>
+                </div>
+            </div>
+        </div>
+        <div class="BTIItemSecond">
+            <div class="BTIImage">
+                <div class="imgNonZoom">
+                    <img
+                        src="/assets/img/1214609482801.jpg"
+                        border="0" width="97"
+                        height="97"
+                        alt="Verificare vizuala sistem A/C "
+                        title="Verificare vizuala sistem A/C "
+                        style="border: solid 1px #999999;">
+                </div>
+            </div>
+            <div class="BTIarticleTitle">
+            </div>
+            <div class='BTIarticleBody'>
+                <div class='BTIarticleText'>
+                    <div><h2><font size="2">Verificare vizuala sistem A/C </font></h2> <br> <span
+                            style="color: rgb(0, 0, 0);"><strong> </strong></span><span
+                            style="color: rgb(0, 0, 128);"><strong><span
+                                    style="font-size: x-large;">30 lei</span></strong></span><span
+                            style="color: red"><span style="color:#425968"><br> <div><strong><span
+                                            style="font-size: medium;"><br>  </span></strong></div> </span></span><a
+                            HREF="/FordService/Motorcraft/Reparatii/AerConditionat">&gt;Verificare aer
+                            conditionat</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="BTIRow">
+    <div class="BTITwoItems">
+        <div class="BTIItem">
+            <div class="BTIImage">
+                <div class="imgNonZoom">
+                    <img
+                        src="/assets/img/service/1214609482715.jpg"
+                        border="0" width="97"
+                        height="97"
+                        alt="Stergatoare de parbriz "
+                        title="Stergatoare de parbriz "
+                        style="border: solid 1px #999999;">
+                </div>
+            </div>
+            <div class="BTIarticleTitle">
+            </div>
+            <div class='BTIarticleBody'>
+                <div class='BTIarticleText'>
+                    <div><h2><font size="2">Stergatoare de parbriz</font></h2> <br> <span
+                            style="color: rgb(0, 0, 0);"><strong>de la <span style="color: rgb(0, 0, 128);"><span
+                                        style="font-size: x-large;">145 lei</span></span></strong></span><br> <br>
+                        <a HREF="/FordService/Motorcraft/Reparatii/Stergatoare">&gt;Stergatoare de parbriz</a></div>
+                </div>
+            </div>
+        </div>
+        <div class="BTIItemSecond">
+            <div class="BTIarticleTitle">
+            </div>
+            <div class='BTIarticleBody'>
+                <div class='BTIarticleText'>
+                    <div></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="BTIRow">
+    <div class="BTIOneItem">
+        <div class="BTIarticleTitle">
+        </div>
+        <div class='BTIarticleBody'>
+            <div class='BTIarticleText'>
+                <div><em>Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin TVA conform
+                        legislatiei in vigoare. Oferta nu include componentele tehnologice, este supusa termenilor si
+                        conditiilor afisate si este valabila in limita stocului disponibil. De asemenea, oferta se poate
+                        modifica in functie de seria de sasiu. Alte detalii aferente ofertei sunt disponibile in
+                        paginile de promotie detaliate pe ford.ro si in reteaua de reparatori autorizati Ford. <br>
+                        Perioada derularii acestei campanii: 01 Iunie 2018 - 31 August 2018
+                        <br>
+                    </em></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="mid_page_promo">
+    <a href='https://wwwprod-ro.engine.ford.com/SBE/OSBOV?dc=10300' target="_self">
+        <img src="/assets/img/1214613372064.jpg" border="0" alt="Programari service" title="Programari service"
+             height='113' width='557'/>
+    </a>
+</div>
+<div class="collectionClear"></div>
 </div>
 <div class="center_item">
 </div>
