@@ -303,7 +303,7 @@
         <div class="BTIImage">
             <div class="imgNonZoom">
                 <img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214513078578&amp;blobkey=id"
+                    src="/assets/img/service/1214513078578.jpg"
                     border="0" width="97"
                     height="97"
                     alt="Ford Tyres"
@@ -338,7 +338,7 @@
             <div class="CATarticleImg">
                 <div class="imgNonZoom">
                     <img
-                        src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214513078919&amp;blobkey=id"
+                        src="/assets/img/service/1214513078919.jpg"
                         border="0" width="178"
                         height="100"
                         alt="Ford Ka"
@@ -360,7 +360,7 @@
             <div class="CATarticleImg">
                 <div class="imgNonZoom">
                     <img
-                        src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214513078338&amp;blobkey=id"
+                        src="/assets/img/service/1214513078338.jpg"
                         border="0" width="178"
                         height="100"
                         alt="Ford Fiesta"
@@ -382,7 +382,7 @@
             <div class="CATarticleImg">
                 <div class="imgNonZoom">
                     <img
-                        src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214513079863&amp;blobkey=id"
+                        src="/assets/img/service/1214513079863.jpg"
                         border="0" width="178"
                         height="100"
                         alt="Ford Fusion"
@@ -407,7 +407,7 @@
             <div class="CATarticleImg">
                 <div class="imgNonZoom">
                     <img
-                        src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214513079524&amp;blobkey=id"
+                        src="/assets/img/service/1214513079524.jpg"
                         border="0" width="178"
                         height="100"
                         alt="Ford Focus"
@@ -429,7 +429,7 @@
             <div class="CATarticleImg">
                 <div class="imgNonZoom">
                     <img
-                        src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214513078172&amp;blobkey=id"
+                        src="/assets/img/service/1214513078172.jpg"
                         border="0" width="178"
                         height="100"
                         alt="Ford C-MAX"
@@ -451,7 +451,7 @@
             <div class="CATarticleImg">
                 <div class="imgNonZoom">
                     <img
-                        src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214513079014&amp;blobkey=id"
+                        src="/assets/img/service/1214513079014.jpg"
                         border="0" width="178"
                         height="100"
                         alt="Ford Mondeo"
@@ -476,7 +476,7 @@
             <div class="CATarticleImg">
                 <div class="imgNonZoom">
                     <img
-                        src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214513079946&amp;blobkey=id"
+                        src="/assets/img/service/1214513079946.jpg"
                         border="0" width="178"
                         height="100"
                         alt="Ford Kuga"
@@ -498,7 +498,7 @@
             <div class="CATarticleImg">
                 <div class="imgNonZoom">
                     <img
-                        src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214513080031&amp;blobkey=id"
+                        src="/assets/img/service/1214513080031.jpg"
                         border="0" width="178"
                         height="100"
                         alt="Ford Transit"
@@ -540,9 +540,9 @@
     <div class="right_item">
         <!--<START_SSP001 >-->
         <div class="skyscraper_promo">
-            <a href='http://www.ford.ro/FordService/FordAsistenta12' target="_self">
+            <a href='' target="_self">
                 <img
-                    src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214637791009&amp;blobkey=id"
+                    src=""
                     border="0" alt="Asistenta Ford 12" title="Asistenta Ford 12" height='185' width='185'/>
             </a>
         </div>
