@@ -28,7 +28,7 @@
     <div class="tab-content">
 
 
-        <article class="content-column left">
+      <!--  <article class="content-column left">
             <div class="img-column"><img
                     src="/assets/img/1214658395138.jpg"
                     alt="Ford Focus"/></div>
@@ -45,7 +45,7 @@
                         <a HREF="/Promotii/Autoturisme/OfertaFocus"><u>Detalii despre promotie</u></a></u></p>
                 </p>
             </div>
-        </article>
+        </article> -->
         <article class="content-column left">
             <div class="img-column"><img
                     src="/assets/img/1214657763008.jpg"
@@ -65,7 +65,7 @@
                 </p>
             </div>
         </article>
-        <article class="content-column left">
+       <!-- <article class="content-column left">
             <div class="img-column"><img
                     src="/assets/img/1214657762922.jpg"
                     alt="Programul Rabla"/><span class="fv-overlay-icon"></span></div>
@@ -84,9 +84,9 @@
                 </p>
                 </p>
             </div>
-        </article>
+        </article> -->
 
-        <article class="content-column centered">
+   <!--     <article class="content-column centered">
             <div class="img-column">
                 <img
                     src="/assets/img/ecobonus/1214657260994.jpg"
@@ -130,7 +130,7 @@
                             pentru mai multe detalii </u></a></p>
                 </p>
             </div>
-        </article>
+        </article> -->
 
         <!--        <article class="content-column centered">
                     <div class="content">

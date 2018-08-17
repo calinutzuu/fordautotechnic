@@ -5,22 +5,28 @@
 <!--Rendering the Image Panel-->
 
 
+
 <article role="option">
     <a class="carImg" href="#img1"><img
-            src="/assets/img/1214658395105.jpg" alt=""
+            src="/assets/img/1214656780122.jpg"
+            alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt;Este timpul sa decizi&lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt;&lt;/span&gt;&lt;/span&gt;"
             role="presentation"></a>
 
-    <div class="innerBox posBottomLeft WhiteText">
+    <div class="innerBox posBottomRight WhiteText">
         <div class="">
             <h2 class="bigHeading02">
+                <span style="font-size:28px;"><span style="font-family:FordAntennaRegular;">Ce fel de test drive preferi cu</span><span
+                        style="font-family:FordAntennaBlack;"></span></span>
             </h2>
 
             <p class="captionTxt">
+                <span style="font-size:22px;"><span style="font-family:FordAntennaRegular;">NOUL FORD FOCUS</span><span
+                        style="font-family:FordAntennaBlack;"></span></span>
             </p>
 
             <div class="btnwrapper">
                 <div class="btnLink light">
-                    <a role="button" class="om_ca_in" href="/Promotii/Autoturisme">Vezi promotia</a>
+                    <a role="button" class="om_ca_in" href="http://www.mergimaideparte.ro">Afla mai multe</a>
                 </div>
             </div>
         </div>
@@ -55,140 +61,6 @@
     </div>
 </article>
 
-<article role="option">
-    <a class="carImg" href="#img1"><img
-            src="/assets/img/1214657254414.jpg"
-            alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt;&lt;/span&gt;&lt;/span&gt;"
-            role="presentation"></a>
-
-    <div class="innerBox posBottomRight WhiteText">
-        <div class="">
-            <h2 class="bigHeading02">
-                <span style="font-size:28px;"><span style="font-family:FordAntennaRegular;"></span><span
-                        style="font-family:FordAntennaBlack;"></span></span>
-            </h2>
-
-            <p class="captionTxt">
-                <span style="font-size:22px;"><span style="font-family:FordAntennaRegular;"></span><span
-                        style="font-family:FordAntennaBlack;"></span></span>
-            </p>
-
-            <div class="btnwrapper">
-                <div class="btnLink light">
-                    <a role="button" class="om_ca_in" href="/Promotii/Autoturisme/EcoBonus">VEZI OFERTELE </a>
-                </div>
-            </div>
-        </div>
-    </div>
-</article>
-
-<article role="option">
-    <a class="carImg" href="#img1"><img
-            src="/assets/img/1214657252901.jpg"
-            alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt;&lt;/span&gt;&lt;/span&gt;"
-            role="presentation"></a>
-
-    <div class="innerBox posBottomLeft WhiteText">
-        <div class="">
-            <h2 class="bigHeading02">
-                <span style="font-size:28px;"><span style="font-family:FordAntennaRegular;"></span><span
-                        style="font-family:FordAntennaBlack;"></span></span>
-            </h2>
-
-            <p class="captionTxt">
-                <span style="font-size:22px;"><span style="font-family:FordAntennaRegular;"></span><span
-                        style="font-family:FordAntennaBlack;"></span></span>
-            </p>
-
-            <div class="btnwrapper">
-                <div class="btnLink light">
-                    <a role="button" class="om_ca_in" href="/Promotii/Autoturisme/BusinessWeeks">Mai multe
-                        informatii</a>
-                </div>
-            </div>
-        </div>
-    </div>
-</article>
-
-<article role="option">
-    <a class="carImg" href="#img1"><img
-            src="/assets/img/1214657252155.jpg"
-            alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt;&lt;/span&gt;&lt;/span&gt;"
-            role="presentation"></a>
-
-    <div class="innerBox posBottomLeft WhiteText">
-        <div class="">
-            <h2 class="bigHeading02">
-                <span style="font-size:28px;"><span style="font-family:FordAntennaRegular;"></span><span
-                        style="font-family:FordAntennaBlack;"></span></span>
-            </h2>
-
-            <p class="captionTxt">
-                <span style="font-size:22px;"><span style="font-family:FordAntennaRegular;"></span><span
-                        style="font-family:FordAntennaBlack;"></span></span>
-            </p>
-
-            <div class="btnwrapper">
-                <div class="btnLink light">
-                    <a role="button" class="om_ca_in" href="/Promotii/comerciale/BusinessWeeks">Mai multe informatii</a>
-                </div>
-            </div>
-        </div>
-    </div>
-</article>
-
-<article role="option">
-    <a class="carImg" href="#img1"><img
-            src="/assets/img/1214656780122.jpg"
-            alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt;Este timpul sa decizi&lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt;&lt;/span&gt;&lt;/span&gt;"
-            role="presentation"></a>
-
-    <div class="innerBox posBottomRight WhiteText">
-        <div class="">
-            <h2 class="bigHeading02">
-                <span style="font-size:28px;"><span style="font-family:FordAntennaRegular;">Este timpul sa decizi</span><span
-                        style="font-family:FordAntennaBlack;"></span></span>
-            </h2>
-
-            <p class="captionTxt">
-                <span style="font-size:22px;"><span style="font-family:FordAntennaRegular;">NOUL FORD FOCUS</span><span
-                        style="font-family:FordAntennaBlack;"></span></span>
-            </p>
-
-            <div class="btnwrapper">
-                <div class="btnLink light">
-                    <a role="button" class="om_ca_in" href="/Autoturisme/focus-2018">Afla mai multe</a>
-                </div>
-            </div>
-        </div>
-    </div>
-</article>
-
-<article role="option">
-    <a class="carImg" href="#img1"><img src="/assets/img/1214618619268.jpg"
-                                        alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt;&lt;/span&gt;&lt;/span&gt;"
-                                        role="presentation"></a>
-
-    <div class="innerBox posBottomRight WhiteText">
-        <div class="">
-            <h2 class="bigHeading02">
-                <span style="font-size:28px;"><span style="font-family:FordAntennaRegular;"></span><span
-                        style="font-family:FordAntennaBlack;"></span></span>
-            </h2>
-
-            <p class="captionTxt">
-                <span style="font-size:22px;"><span style="font-family:FordAntennaRegular;"></span><span
-                        style="font-family:FordAntennaBlack;"></span></span>
-            </p>
-
-            <div class="btnwrapper">
-                <div class="btnLink light">
-                    <a role="button" class="om_ca_in" href="/FordService/FordAsistenta12">VEZI DETALII</a>
-                </div>
-            </div>
-        </div>
-    </div>
-</article>
 
 <article role="option">
     <a class="carImg" href="#img1"><img

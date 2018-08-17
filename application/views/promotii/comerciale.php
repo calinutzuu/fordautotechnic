@@ -26,7 +26,7 @@
         <section class="mid-page-content">
             <div class="tab-content">
 
-                <article class="content-column centered">
+         <!--       <article class="content-column centered">
                     <div class="img-column">
                             <img
                                 src="/assets/img/ecobonus/1214657252419.jpg"
@@ -51,7 +51,7 @@
                                         detaliile promotiei</a></u></span></p>
                         </p>
                     </div>
-                </article>
+                </article> -->
 
                 <!--       <article class="content-column centered">
                            <div class="content centered">
