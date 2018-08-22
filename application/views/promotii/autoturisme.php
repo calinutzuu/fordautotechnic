@@ -25,105 +25,130 @@
 <section id="fv-wrapper">
 <section id="carouselize" class="carousel-container carousel"></section>
 <section class="mid-page-content">
-    <div class="tab-content">
+<div class="tab-content">
 
 
-      <!--  <article class="content-column left">
-            <div class="img-column"><img
-                    src="/assets/img/1214658395138.jpg"
-                    alt="Ford Focus"/></div>
-            <div class="content">
-                <h3 class="bigHeading02">
-                    Ford Focus – promotie cu livrare imediata!
-                </h3>
+<!--  <article class="content-column left">
+      <div class="img-column"><img
+              src="/assets/img/1214658395138.jpg"
+              alt="Ford Focus"/></div>
+      <div class="content">
+          <h3 class="bigHeading02">
+              Ford Focus – promotie cu livrare imediata!
+          </h3>
 
-                <p>
+          <p>
 
-                <p>Profita de promotia speciala FORD FOCUS – beneficiezi de avantaj client de 4.700€* si de livrare
-                    imediata!<br>
-                    <u><br>
-                        <a HREF="/Promotii/Autoturisme/OfertaFocus"><u>Detalii despre promotie</u></a></u></p>
-                </p>
-            </div>
-        </article> -->
-        <article class="content-column left">
-            <div class="img-column"><img
-                    src="/assets/img/1214657763008.jpg"
-                    alt="Ford Fiesta Active "/><span class="fv-overlay-icon"></span></div>
-            <div class="content"><br>
+          <p>Profita de promotia speciala FORD FOCUS – beneficiezi de avantaj client de 4.700€* si de livrare
+              imediata!<br>
+              <u><br>
+                  <a HREF="/Promotii/Autoturisme/OfertaFocus"><u>Detalii despre promotie</u></a></u></p>
+          </p>
+      </div>
+  </article> -->
+<article class="content-column left">
+    <div class="img-column"><img
+            src="/assets/img/1214657763008.jpg"
+            alt="Ford Fiesta Active "/><span class="fv-overlay-icon"></span></div>
+    <div class="content"><br>
 
-                <h3 class="bigHeading02">
-                    Un stil de viata activ impune o masina pe masura. Descopera <br>primul model de Fiesta crossover de
-                    pana
-                    acum: Noul Fiesta Active.
-                </h3>
+        <h3 class="bigHeading02">
+            Un stil de viata activ impune o masina pe masura. Descopera <br>primul model de Fiesta crossover de
+            pana
+            acum: Noul Fiesta Active.
+        </h3>
 
-                <p>
+        <p>
 
-                <p>Profita de oferta speciala, cu avantaj client de pana la 4.250 &euro;*.<br> <br> <a
-                        HREF="/Promotii/Autoturisme/OfertaFiestaActive"><u>Detalii despre promotie</u></a></p>
-                </p>
-            </div>
-        </article>
-       <!-- <article class="content-column left">
-            <div class="img-column"><img
-                    src="/assets/img/1214657762922.jpg"
-                    alt="Programul Rabla"/><span class="fv-overlay-icon"></span></div>
-            <div class="content">
-                <h3 class="bigHeading02">
-                    Te intereseaza ofertele Ford dar vrei si sa astepti demararea programului rabla?
-                </h3>
+        <p>Profita de oferta speciala, cu avantaj client de pana la 4.250 &euro;*.<br> <br> <a
+                HREF="/Promotii/Autoturisme/OfertaFiestaActive"><u>Detalii despre promotie</u></a></p>
+        </p>
+    </div>
+</article>
 
-                <p>
+<article class="content-column left">
+    <div class="img-column"><img
+            src="/assets/img/rabla18_1.jpg"
+            alt="Ford Fiesta Active "/><span class="fv-overlay-icon"></span></div>
+    <div class="content"><br>
 
-                <p>Inscrie-te <a
-                        HREF="https://secure.ford.ro/Promotii/Autoturisme/Ecobonus/programul-rabla"><u>aici </u></a>si
-                    te vom tine la
-                    curent cu relansarea programului si cu cele mai bune oferte <br>Ford care includ voucherul din
-                    program.
-                </p>
-                </p>
-            </div>
-        </article> -->
+        <h3 class="bigHeading02">
+            OFERTA SPECIALA PRIN PROGRAMUL RABLA
+        </h3>
 
-   <!--     <article class="content-column centered">
-            <div class="img-column">
-                <img
-                    src="/assets/img/ecobonus/1214657260994.jpg"
-                    alt="Ford Business Weeks Autoturisme"/><span class="fv-overlay-icon"></span></a></div>
-            <div class="content"><br>
+        <p>
 
-                <h3 class="bigHeading02">
-                    UN SINGUR PARTENER. SOLUTII NENUMARATE PENTRU AFACEREA TA!
-                </h3>
-                <br>
+        <p>Acum este mai simplu ca oricand sa iti schimbi masina veche cu modelul Ford preferat!
 
-                <p>
+            De la modelul KA+,<br> mic si functional, pana la Kuga, SUV-ul inteligent, ai preturi speciale si dotari
+            importante incluse in pret:.<br> <br>
+            <img
+                src="/assets/img/rabla18_2.jpg"
+                alt="Ford Fiesta Active "/><span class="fv-overlay-icon">
+<br> <br>
+            <a HREF="https://tehnologieauto.ro/FordRabla2018"><u>Detalii despre promotie</u></a></p>
+        </p>
+    </div>
+</article>
+<!-- <article class="content-column left">
+     <div class="img-column"><img
+             src="/assets/img/1214657762922.jpg"
+             alt="Programul Rabla"/><span class="fv-overlay-icon"></span></div>
+     <div class="content">
+         <h3 class="bigHeading02">
+             Te intereseaza ofertele Ford dar vrei si sa astepti demararea programului rabla?
+         </h3>
 
-                <p>Cand ai propria afacere, te afli pe un drum plin de provocari si obstacole. Un drum pentru
-                    care ai nevoie de un partener de incredere. <br> <br> La Ford Business Weeks iti poti alege
-                    unul din gama noastra de autoturisme. <br> <br> Fie ca iei in echipa ta un Fiesta Active,
-                    Mondeo, EcoSport, Kuga sau Edge, noi te sprijinim <br>in drumul spre succes cu un pachet unic de
-                    avantaje si conditii speciale de finantare.<br> Pentru ca tu sa-ti duci afacerea cat de departe
-                    doresti. <br> <br> <a HREF="/Promotii/Autoturisme/BusinessWeeks"><span
-                            style="color: rgb(0, 0, 255);"><u>Vezi detaliile promotiei</u></span> </a></p>
-                </p>
-            </div>
-        </article>
-        <article class="content-column centered">
-            <div class="img-column">
-                <img
-                    src="/assets/img/ecobonus/1214657268983.jpg"
-                    alt="Ford EcoBonus"/><span class="fv-overlay-icon"></span></div>
-            <div class="content">
-                <h3 class="bigHeading02">
-                    Mergi mai departe cu Ford Ecobonus!
-                </h3>
+         <p>
 
-                <p>
+         <p>Inscrie-te <a
+                 HREF="https://secure.ford.ro/Promotii/Autoturisme/Ecobonus/programul-rabla"><u>aici </u></a>si
+             te vom tine la
+             curent cu relansarea programului si cu cele mai bune oferte <br>Ford care includ voucherul din
+             program.
+         </p>
+         </p>
+     </div>
+ </article> -->
 
-                <p>Nu ai prins programul Rabla? Poti sa-ti schimbi masina veche cu Ecobonus,<br> alternativa Ford
-                    prin care ai un bonus garantat de 1.500 &euro;, la casarea masinii vechi. <br> <br> Concret,
+<!--     <article class="content-column centered">
+         <div class="img-column">
+             <img
+                 src="/assets/img/ecobonus/1214657260994.jpg"
+                 alt="Ford Business Weeks Autoturisme"/><span class="fv-overlay-icon"></span></a></div>
+         <div class="content"><br>
+
+             <h3 class="bigHeading02">
+                 UN SINGUR PARTENER. SOLUTII NENUMARATE PENTRU AFACEREA TA!
+             </h3>
+             <br>
+
+             <p>
+
+             <p>Cand ai propria afacere, te afli pe un drum plin de provocari si obstacole. Un drum pentru
+                 care ai nevoie de un partener de incredere. <br> <br> La Ford Business Weeks iti poti alege
+                 unul din gama noastra de autoturisme. <br> <br> Fie ca iei in echipa ta un Fiesta Active,
+                 Mondeo, EcoSport, Kuga sau Edge, noi te sprijinim <br>in drumul spre succes cu un pachet unic de
+                 avantaje si conditii speciale de finantare.<br> Pentru ca tu sa-ti duci afacerea cat de departe
+                 doresti. <br> <br> <a HREF="/Promotii/Autoturisme/BusinessWeeks"><span
+                         style="color: rgb(0, 0, 255);"><u>Vezi detaliile promotiei</u></span> </a></p>
+             </p>
+         </div>
+     </article>
+     <article class="content-column centered">
+         <div class="img-column">
+             <img
+                 src="/assets/img/ecobonus/1214657268983.jpg"
+                 alt="Ford EcoBonus"/><span class="fv-overlay-icon"></span></div>
+         <div class="content">
+             <h3 class="bigHeading02">
+                 Mergi mai departe cu Ford Ecobonus!
+             </h3>
+
+             <p>
+
+             <p>Nu ai prins programul Rabla? Poti sa-ti schimbi masina veche cu Ecobonus,<br> alternativa Ford
+                 prin care ai un bonus garantat de 1.500 &euro;, la casarea masinii vechi. <br> <br> Concret,
                     asta inseamna:<br> <br> - Avantaj client pana la 9875 de euro<br> - Dotari suplimentare prin
                     pachetele optionale incluse in pret. <br> Oferta se cumuleaza cu celelalte promotii si
                     oferte aflate in derulare.<br> <br> <a HREF="/Promotii/Autoturisme/Ecobonus"><u>Click aici
@@ -132,20 +157,20 @@
             </div>
         </article> -->
 
-        <!--        <article class="content-column centered">
-                    <div class="content">
-                        <h3 class="bigHeading02">
-                            CEL MAI NOU SUV FORD, CU O OFERTA SPECIALA
-                        </h3>
+<!--        <article class="content-column centered">
+            <div class="content">
+                <h3 class="bigHeading02">
+                    CEL MAI NOU SUV FORD, CU O OFERTA SPECIALA
+                </h3>
 
-                        <p>
+                <p>
 
-                        <p>Gandit pentru actiune; dotat pentru confort; cu un design care impresioneaza si cu numeroase
-                            tehnologii inteligente, noul Kuga <br> este cel mai recent Smart Utility Vehicle de la Ford.
-                            Iar cu
-                            oferta promotionala ai un pret special pentru SUV-ul <br>care iti va deschide noi
-                            posibilitati: doar
-                            18.500 &euro;* (TVA inclus).<br> <br> <a HREF="/Promotii/Autoturisme/NoulKUGA"><u>Vezi
+                <p>Gandit pentru actiune; dotat pentru confort; cu un design care impresioneaza si cu numeroase
+                    tehnologii inteligente, noul Kuga <br> este cel mai recent Smart Utility Vehicle de la Ford.
+                    Iar cu
+                    oferta promotionala ai un pret special pentru SUV-ul <br>care iti va deschide noi
+                    posibilitati: doar
+                    18.500 &euro;* (TVA inclus).<br> <br> <a HREF="/Promotii/Autoturisme/NoulKUGA"><u>Vezi
                                     oferta
                                     speciala </u></a></p>
                         </p>
@@ -155,19 +180,19 @@
                             alt="Ford Kuga"/><span class="fv-overlay-icon"></span></a></div>
                 </article> -->
 
-        <!--  <article class="content-column centered">
-              <div class="img-column"> <img
-                          src="/assets/img/1214648120428.jpg"
-                          alt="Ford Edge"/><span class="fv-overlay-icon"></span></div>
-              <div class="content centered">
-                  <h3 class="bigHeading02">
-                      Urca in varf...de gama!
-                  </h3>
+<!--  <article class="content-column centered">
+      <div class="img-column"> <img
+                  src="/assets/img/1214648120428.jpg"
+                  alt="Ford Edge"/><span class="fv-overlay-icon"></span></div>
+      <div class="content centered">
+          <h3 class="bigHeading02">
+              Urca in varf...de gama!
+          </h3>
 
-                  <p>
+          <p>
 
-                  <p>Tehnologie, design, confort, siguranta - poti experimenta chiar acum toate acestea, la volanul unui
-                      Ford Edge,</br> profitand de oferta speciala: avantaj client de 8.500&nbsp;&euro;* (TVA inclus), pentru</br>
+          <p>Tehnologie, design, confort, siguranta - poti experimenta chiar acum toate acestea, la volanul unui
+              Ford Edge,</br> profitand de oferta speciala: avantaj client de 8.500&nbsp;&euro;* (TVA inclus), pentru</br>
                     modelul Titanium, cu motorizare 2.0&nbsp;TDCi 210&nbsp;CP, transmisie Powershift.<br>
                     <br>
                     <a HREF="/Promotii/Autoturisme/Edge"><span style="color: rgb(0, 0, 255);"><u>Descopera promotia</u></span></a>
@@ -175,55 +200,55 @@
                 </p>
             </div>
         </article> -->
-        <!--     <article class="content-column right">
-                 <div class="content centered">
-                     <div class="img-column">
-                         <img src="/assets/img/1214616617939.jpg" alt="Noul Ford Kuga Oferta"/><span
-                             class="fv-overlay-icon"></span></div>
-                     <br>
+<!--     <article class="content-column right">
+         <div class="content centered">
+             <div class="img-column">
+                 <img src="/assets/img/1214616617939.jpg" alt="Noul Ford Kuga Oferta"/><span
+                     class="fv-overlay-icon"></span></div>
+             <br>
 
-                     <h3 class="bigHeading02">
-                         CEL MAI NOU SUV FORD, CU O OFERTA SPECIALA!
-                     </h3>
+             <h3 class="bigHeading02">
+                 CEL MAI NOU SUV FORD, CU O OFERTA SPECIALA!
+             </h3>
 
-                     <p>
+             <p>
 
-                     <p>Gandit pentru actiune; dotat pentru confort; cu un design care impresioneaza si cu numeroase
-                         tehnologii inteligente, noul Kuga<br> este cel mai recent Smart Utility Vehicle de la Ford.
-                         Iar
-                         cu oferta promotionala ai un pret special pentru SUV-ul care iti va<br>deschide noi
-                         posibilitati: doar 19.500 &euro;* (TVA inclus).<br> <br> <a
+             <p>Gandit pentru actiune; dotat pentru confort; cu un design care impresioneaza si cu numeroase
+                 tehnologii inteligente, noul Kuga<br> este cel mai recent Smart Utility Vehicle de la Ford.
+                 Iar
+                 cu oferta promotionala ai un pret special pentru SUV-ul care iti va<br>deschide noi
+                 posibilitati: doar 19.500 &euro;* (TVA inclus).<br> <br> <a
                                 HREF="/Promotii/Autoturisme/NoulKUGA"><span style="color: rgb(0, 0, 255);"><u>Vezi
                                         oferta speciala</u></span></a></p>
                         </p>
                     </div>
                     <br>
                 </article> -- >
-        <!--   <article class="content-column centered">
-               <div class="img-column"><img src="/assets/img/1214619333771.jpg"
-                                            alt="Ford Business Weeks Autoturisme"/><span
-                       class="fv-overlay-icon"></span></div>
-               <div class="content centered">
-                   <h3 class="bigHeading02">
-                       BENEFICII DE EXCEPTIE PENTRU AFACEREA TA!
-                   </h3>
+<!--   <article class="content-column centered">
+       <div class="img-column"><img src="/assets/img/1214619333771.jpg"
+                                    alt="Ford Business Weeks Autoturisme"/><span
+               class="fv-overlay-icon"></span></div>
+       <div class="content centered">
+           <h3 class="bigHeading02">
+               BENEFICII DE EXCEPTIE PENTRU AFACEREA TA!
+           </h3>
 
-                   <p>
+           <p>
 
-                   <p>Cand ai propria afacere, ai nevoie de parteneri pe care sa te poti baza.<br>
-                       <br>
-                       Vino la Ford Business Weeks si alege, din gama noastra de autoturisme, modelul care ti se
-                       potriveste. Fie ca alegi Ford Fiesta, <br> Focus, Mondeo sau Kuga, te sprijinim in drumul spre
-                       succes, cu beneficii de exceptie pentru afacerea ta: conditii speciale de <br>finantare si un
-                       pachet complet de avantaje.<br>
-                       <br>
-                       <a HREF="/Promotii/Autoturisme/BusinessWeeks"><span style="color: rgb(0, 0, 255);"><u>Vezi
-                                   detaliile promotiei</u></span> </a></p>
-                   </p>
-               </div>
-           </article>
-           -->
-    </div>
+           <p>Cand ai propria afacere, ai nevoie de parteneri pe care sa te poti baza.<br>
+               <br>
+               Vino la Ford Business Weeks si alege, din gama noastra de autoturisme, modelul care ti se
+               potriveste. Fie ca alegi Ford Fiesta, <br> Focus, Mondeo sau Kuga, te sprijinim in drumul spre
+               succes, cu beneficii de exceptie pentru afacerea ta: conditii speciale de <br>finantare si un
+               pachet complet de avantaje.<br>
+               <br>
+               <a HREF="/Promotii/Autoturisme/BusinessWeeks"><span style="color: rgb(0, 0, 255);"><u>Vezi
+                           detaliile promotiei</u></span> </a></p>
+           </p>
+       </div>
+   </article>
+   -->
+</div>
 </section>
 <br>
 <script type='text/javascript'>var OM = OM || {};
