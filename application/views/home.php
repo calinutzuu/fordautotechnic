@@ -86,11 +86,11 @@
 
 <article role="option">
     <a class="carImg" href="#img1"><img
-            src="/assets/img/1214658245798.jpg"
+            src="/assets/img/img-slider-motorcraft.png"
             alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt;FORD &lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt;MOTORCRAFT&lt;/span&gt;&lt;/span&gt;"
             role="presentation"></a>
 
-    <div class="innerBox posBottomRight GreyBlock">
+    <div class="innerBox posBottomLeft GreyBlock">
         <div class="blockTransparent">
             <h2 class="bigHeading02">
                 <span style="font-size:28px;"><span style="font-family:FordAntennaRegular;">FORD </span><span
@@ -226,7 +226,7 @@
     <!--Rendering the Teaser Image-->
     <div class="teaserBox layout-3 last">
         <a href="/FordService/Motorcraft"><img
-                src='/assets/img/service/1214620008500.jpg'
+                src='/assets/img/1214620008500.jpg'
                 alt="Teaser"/></a>
         <!--Rendering the CTA Button-->
         <div class="btnLink">
