@@ -26,32 +26,31 @@
         <section class="mid-page-content">
             <div class="tab-content">
 
-         <!--       <article class="content-column centered">
+         <article class="content-column centered">
                     <div class="img-column">
                             <img
-                                src="/assets/img/ecobonus/1214657252419.jpg"
+                                src="/assets/img/1214657252419.jpg"
                                 alt="Ford Business Weeks vehiculul comercial"/><span class="fv-overlay-icon"></span></a>
                     </div>
                     <div class="content">
                         <h3 class="bigHeading02">
-                            SOLUTII NEASTEPTATE PENTRU AFACEREA TA!
+                            BENEFICII DE EXCEPTIE PENTRU AFACEREA TA
                         </h3>
-
+<br>
                         <p>
 
-                        <p>Sa ai propria afacere implica zilnic provocari neasteptate. Tocmai de aceea ai nevoie si de
-                            solutii neasteptate.<br>
-                            &nbsp; <br>
-                            Te asteptam la Ford Business Weeks sa-ti alegi vehiculul comercial Ford de care ai nevoie.
-                            Fie ca urci la volanul unui Transit Courier Van, Transit Conect Van, Transit Van, Ranger
-                            XLT, Transit Custom Kombi sau Transit Custom Van, te vei bucura de costuri optimizate si
-                            beneficii de exceptie: dobanda 0% si garantie extinsa.<br>
-                            &nbsp; <br>
-                            <span style="color: rgb(0, 0, 255);"><u><a HREF="/Promotii/comerciale/BusinessWeeks">Vezi
-                                        detaliile promotiei</a></u></span></p>
+
+                        <p style="text-align: center;">Sa ai propria afacere implica zilnic provocari neasteptate. Tocmai de aceea ai nevoie si de solutii neasteptate.</p>
+
+                        <p style="text-align: center;">Te asteptam la Ford Business Weeks sa-ti alegi vehiculul comercial Ford de care ai nevoie. Descopera <br> noua gama Ford Transit Custom – de la agilul Courier la competentul Custom Van; Vei gasi aici si consacratul model <br>comercial Transit Van, versiunile Tourneo Custom pentru transport de persoane si,<br> desigur, Ford Ranger, pentru care niciun tip de teren nu constituie o piedica.</p>
+
+                        <p style="text-align: center;">Indiferent de modelul potrivit pentru afacerea ta, te vei bucura de <br>costuri optimizate si beneficii de exceptie: <strong>dobanda 0%</strong> si preturi speciale:</p>
+                        <img
+                            src="/assets/img/pretu_com.jpg"
+                            alt="Business Weeks "/><span class="fv-overlay-icon">
                         </p>
                     </div>
-                </article> -->
+                </article>
 
                 <!--       <article class="content-column centered">
                            <div class="content centered">

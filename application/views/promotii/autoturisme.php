@@ -73,20 +73,26 @@
     <div class="content"><br>
 
         <h3 class="bigHeading02">
-            OFERTA SPECIALA PRIN PROGRAMUL RABLA
+            PROMOTIE FORD CROSSOVER & SUV
         </h3>
-
+        <br>
         <p>
 
-        <p>Acum este mai simplu ca oricand sa iti schimbi masina veche cu modelul Ford preferat!
+        <p>Fiecare dintre noi se concentreaza pe diferite perspective: unii asupra traficului urban, altii asupra unor trasee neasfaltate; <br>
+            unii au nevoie de noi perspective pentru vacante pline de aventura, in timp ce altii vor sa fie priviti in mod diferit de<br>  catre partenerii de afaceri.
 
-            De la modelul KA+,<br> mic si functional, pana la Kuga, SUV-ul inteligent, ai preturi speciale si dotari
-            importante incluse in pret:.<br> <br>
+            Indiferent de felul in care folosesti si in care iti privesti masina, gama crossover si SUV Ford include,<br>  cu siguranta, modelul care iti ofera exact perspectiva
+            de care ai nevoie. Iar asta inseamna mult mai mult decat pozitia la volan: <br>inseamna incredere pe drumuri putin umblate, tehnologii avansate pentru confort si siguranta,
+            flexibilitate in viata sau in<br> afacerile de zi-cu-zi.
+
+            De la noul Ka+ Active si Fiesta Active, agile si functionale, pana la Ecosport si Kuga, SUV-ul inteligent,<br> ai preturi speciale si dotari importante incluse in pret.
+
+            Oferta este valabila atat pentru persoane fizice, cat si pentru persoane juridice:.<br> <br>
             <img
                 src="/assets/img/rabla18_2.jpg"
                 alt="Ford Fiesta Active "/><span class="fv-overlay-icon">
 <br> <br>
-            <a HREF="https://tehnologieauto.ro/FordRabla2018"><u>Detalii despre promotie</u></a></p>
+           </p>
         </p>
     </div>
 </article>
