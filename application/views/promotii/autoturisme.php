@@ -46,7 +46,7 @@
           </p>
       </div>
   </article> -->
-<article class="content-column left">
+<!--<article class="content-column left">
     <div class="img-column"><img
             src="/assets/img/1214657763008.jpg"
             alt="Ford Fiesta Active "/><span class="fv-overlay-icon"></span></div>
@@ -64,7 +64,7 @@
                 HREF="/Promotii/Autoturisme/OfertaFiestaActive"><u>Detalii despre promotie</u></a></p>
         </p>
     </div>
-</article>
+</article>  -->
 
 <article class="content-column left">
     <div class="img-column"><img
