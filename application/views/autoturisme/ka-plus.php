@@ -333,63 +333,128 @@
                             <div id='tab1' class="secondary-tab-content">
                                 <header class="intro-header">
                                     <h1 class="bigHeading">
-                                        NOUL FORD <strong>KA+</strong>
+                                        NOUL FORD <strong>KA+</strong> si <strong>KA ACTIVE</strong>
                                     </h1>
                                     <span class="highlighter"></span>
 
                                     <p class="intro-text">
 
-                                    <p>Nou. Economic. Spatios.<br>
+                                    <p>Noul KA+ este conceput sa-ti ofere toate tehnologiile de care ai nevoie de la o
+                                        masina - intr-un singur pachet compact si elegant. Iar daca iti doresti un
+                                        aspect mai robust, noul KA+ Active ar putea fi exact masina pe care o cauti.
+                                        <br><br>Garda la sol inaltata, sine pentru acoperis, jante din aliaj, de 15”, cu
+                                        finisate subtile ... Noul KA+ Active este mereu gata de aventura.<br>
                                         <br>
-                                        Si cu numeroase dotari practice, care fac condusul mai sigur, mai confortabil
-                                        si, desigur, distractiv.<br>
+                                        Orice model vei alege, te vei bucura de o tehnologie utila, o experienta la
+                                        volan distractiva si mult mai multa eficienta..<br>
                                         <br>
-                                        Descopera avantajele pe care Noul KA+ le aduce in viata ta si bucura-te din plin
-                                        de fiecare moment petrecut la volan.</p>
+                                    </p>
                                     </p>
                                 </header>
                                 <article class="content-column left">
-                                    <div class="img-column"> <img
-                                                src="/assets/img/ka-plus/1214559170373.jpg"
-                                                alt="Spatiu din belsug pentru toata lumea"/><span
-                                                class="fv-overlay-icon"></span></div>
+                                    <div class="img-column"><img
+                                            src="/assets/img/ka-plus/1214559170373.jpg"
+                                            alt="Spatiu din belsug pentru toata lumea"/><span
+                                            class="fv-overlay-icon"></span></div>
                                     <div class="content">
                                         <h3 class="bigHeading02">
-                                            Spatiu din belsug pentru toata lumea
+                                            Face totul sa fie mai usor
                                         </h3>
 
                                         <p>
 
-                                        <p>KA+ este o masina compacta si surprinzator de spatioasa. Pe scaunele din
-                                            spate pot incapea cu usurinta trei pasageri, multumita unui spatiu generos
-                                            la nivelul umerilor. Avem vesti bune chiar si pentru cei inalti: se vor mai
-                                            simti mult mai confortabil - acum au suficient spatiu pentru picioare.</p>
+                                        <p>Datorita agilitatii si manevrabilitatii lejere, vei fi intotdeauna nerabdator
+                                            sa te asezi la volan. Sistemul de directie asistata electric (EPAS), special
+                                            calibrata, mentine KA+ agil, facilitand parcarea si navigarea in traficul
+                                            urban si facand din condusul pe autostrada o placere relaxanta. Tempomatul
+                                            adaptiv cu dispozitiv reglabil de limitare a vitezei este conceput pentru a
+                                            te mentine in limita de viteza alesa, reducand riscul de a depasi limita de
+                                            viteza de pe acel sector de drum. </p>
                                         </p>
                                     </div>
                                 </article>
                                 <article class="content-column right">
                                     <div class="content">
                                         <h3 class="bigHeading02">
-                                            Utilizeaza la maximum fiecare litru de combustibil
+                                            Faci economie de combustibil, nu de distractie
                                         </h3>
 
                                         <p>
 
-                                        <p>Noul KA+ este dotat cu un motor pe benzina Ti-VCT de 1,2 litri, energic si
-                                            prompt, disponibil in versiunile de 70 CP si 85 CP. Indiferent pe care il
-                                            alegi, te vei bucura de costuri de intretinere scazute si multumita
-                                            consumului redus, de pana la
-                                        <nobr>5 litri/100 km*.</nobr>
-                                        <br>
-                                        <sup><br>
-                                        </sup><span style="font-size: smaller;">*consum mixt, pentru versiunea 1.19L, 70 CP</span></p>
+                                        <p>Noul KA+ te ajuta sa reduci la minim frecventa vizitelor la benzinarie. In
+                                            primul rand, noul si agilul motor pe benzina, de 1,2 litri, este construit
+                                            pentru a imbunatati eficienta, oferind, in acelasi timp, performanta de 70
+                                            sau 85 CP. O caracteristica noua pentru KA+, Sistemul Auto-Start-Stop
+                                            opreste motorul atunci cand astepti in coloana sau la semafor, de indata ce
+                                            esti gata sa pleci de pe loc, apasa, ca de obicei, pe pedala de ambreiaj si
+                                            selecteaza prima treapta de viteza, iar sistemul porneste din nou motorul.
+                                            De fapt, eficienta este incorporata: anvelope cu rezistenta redusa la
+                                            rulare, design aerodinamic, ulei de motor proiectat pentru a reduce forta de
+                                            frecare... fiecare detaliu este conceput pentru a reduce consumul de
+                                            combustibil.
+                                            <br>
+
+                                        </p>
+
                                         <div></div>
                                         </p>
                                     </div>
-                                    <div class="img-column"> <img
-                                                src="/assets/img/ka-plus/1214559170460.jpg"
-                                                alt="Utilizeaza la maximum fiecare litru de combustibil"/><span
-                                                class="fv-overlay-icon"></span></div>
+                                    <div class="img-column"><img
+                                            src="/assets/img/ka-plus/1214559170460.jpg"
+                                            alt="Utilizeaza la maximum fiecare litru de combustibil"/><span
+                                            class="fv-overlay-icon"></span></div>
+                                </article>
+                                <article class="content-column left">
+                                    <div class="img-column"><img
+                                            src="/assets/img/ka-plus/12145591703733.jpeg"
+                                            alt="Spatiu din belsug pentru toata lumea"/><span
+                                            class="fv-overlay-icon"></span></div>
+                                    <div class="content">
+                                        <h3 class="bigHeading02">
+                                            Pret minim. Confort.
+                                        </h3>
+
+                                        <p>
+
+                                        <p>Noul KA+ este compact, dar ofera spatiu pentru cinci adulti. Si este
+                                            disponibil cu o gama impresionanta de tehnologii inteligente, toate avand
+                                            scopul de a-ti face viata mai usoara. Accesul convenabil fara cheie este
+                                            doar un exemplu in acest sens. Te vei bucura, de asemenea, de sistemul SYNC
+                                            3, care te ajuta sa fii conectat in permanenta, permitandu-ti sa controlezi
+                                            telefonul si muzica cu ajutorul unor comenzi vocale intuitive. Sistemul se
+                                            conecteaza, de asemenea, si CarPlay de la Apple si cu Android Auto. Pe
+                                            deasupra, cu ajutorul tehnologiei AppLink, poti sa accezi unele dintre
+                                            aplicatiile tale preferate de pe telefonul mobil. </p>
+                                        </p>
+                                    </div>
+                                </article>
+                                <article class="content-column right">
+                                    <div class="content">
+                                        <h3 class="bigHeading02">
+                                            Te mentine in siguranta
+                                        </h3>
+
+                                        <p>
+
+                                        <p>Noul KA+ foloseste sisteme de siguranta inteligente, concepute pentru a te
+                                            proteja atat pe tine si pasagerii tai, cat si vehiculul. Controlul
+                                            electronic al stabilitatii va monitorizeaza constant deplasarea, iar atunci
+                                            cand detecteaza o pierdere a controlului, actioneaza automat franele si
+                                            reduce cuplul, pentru a iti mentine traiectoria. Iar pentru ca anvelopele
+                                            umflate insuficient reduc controlul si maresc consumul de combustibil, noul
+                                            KA+ are, de asemenea, un Sistem de monitorizare a presiunii din pneuri,
+                                            pentru a te atentiona atunci cand pneurile tale trebuie sa fie umflate.
+                                            <br>
+
+                                        </p>
+
+                                        <div></div>
+                                        </p>
+                                    </div>
+                                    <div class="img-column"><img
+                                            src="/assets/img/ka-plus/12145591704600.jpeg"
+                                            alt="Utilizeaza la maximum fiecare litru de combustibil"/><span
+                                            class="fv-overlay-icon"></span></div>
                                 </article>
                             </div>
 

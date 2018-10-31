@@ -33,18 +33,19 @@
                                 alt="Ford Business Weeks vehiculul comercial"/><span class="fv-overlay-icon"></span></a>
                     </div>
                     <div class="content">
-                        <h3 class="bigHeading02">
-                            BENEFICII DE EXCEPTIE PENTRU AFACEREA TA
-                        </h3>
+
 <br>
                         <p>
 
 
-                        <p style="text-align: center;">Sa ai propria afacere implica zilnic provocari neasteptate. Tocmai de aceea ai nevoie si de solutii neasteptate.</p>
-
-                        <p style="text-align: center;">Te asteptam la Ford Business Weeks sa-ti alegi vehiculul comercial Ford de care ai nevoie. Descopera <br> noua gama Ford Transit Custom – de la agilul Courier la competentul Custom Van; Vei gasi aici si consacratul model <br>comercial Transit Van, versiunile Tourneo Custom pentru transport de persoane si,<br> desigur, Ford Ranger, pentru care niciun tip de teren nu constituie o piedica.</p>
-
-                        <p style="text-align: center;">Indiferent de modelul potrivit pentru afacerea ta, te vei bucura de <br>costuri optimizate si beneficii de exceptie: <strong>dobanda 0%</strong> si preturi speciale:</p>
+                            <header class="intro-header">
+                                <h1 class="bigHeading">
+                                    BENEFICII DE EXCEPTIE PENTRU AFACEREA TA              </h1> <br>
+                                <span class="highlighter"></span>
+                                <p>Sa ai propria afacere implica zilnic provocari neasteptate. Tocmai de aceea ai nevoie si de solutii neasteptate.</p>
+                                <p>Te asteptam la Ford Business Weeks sa-ti alegi vehiculul comercial Ford de care ai nevoie.<br> Descopera noua gama Ford Transit Custom – de la agilul Courier la competentul Custom Van; Vei gasi<br> aici si consacratul model comercial Transit Van, versiunile Tourneo Custom pentru transport de persoane si, desigur, Ford Ranger,<br> pentru care niciun tip de teren nu constituie o piedica.</p>
+                                <p>Indiferent de modelul potrivit pentru afacerea ta, te vei bucura de costuri optimizate<br> si beneficii de exceptie: <strong>dobanda 0%</strong> si preturi speciale:</p>
+                                <div class="table-content vehicle-specifications" data-mobile-transposed="0"> </header>
                         <img
                             src="/assets/img/pretu_com.jpg"
                             alt="Business Weeks "/><span class="fv-overlay-icon">

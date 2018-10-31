@@ -72,7 +72,7 @@
             alt="Ford Fiesta Active "/><span class="fv-overlay-icon"></span></div>
     <div class="content"><br>
 
-        <h3 class="bigHeading02">
+        <h3 class="bigHeading centered">
             PROMOTIE FORD CROSSOVER & SUV
         </h3>
         <br>
@@ -88,11 +88,12 @@
             De la noul Ka+ Active si Fiesta Active, agile si functionale, pana la Ecosport si Kuga, SUV-ul inteligent,<br> ai preturi speciale si dotari importante incluse in pret.
 
             Oferta este valabila atat pentru persoane fizice, cat si pentru persoane juridice:.<br> <br>
-            <img
-                src="/assets/img/rabla18_2.jpg"
-                alt="Ford Fiesta Active "/><span class="fv-overlay-icon">
+
 <br> <br>
            </p>
+        <img
+            src="/assets/img/rabla18_2.jpg"
+            alt="Ford Fiesta Active "/><span class="fv-overlay-icon">
         </p>
     </div>
 </article>

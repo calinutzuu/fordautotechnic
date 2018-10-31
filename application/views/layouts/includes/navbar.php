@@ -36,7 +36,7 @@
 <!-- Displaying market nameplates  -->
 <ul class="subMenu" role="menu">
     <li role="menuitem" class=""><a role="link" data-selenium="doormat_car_selection Ka+"
-                                    class="om_he_pv_np " href="/Autoturisme/ka-plus">Ka+</a>
+                                    class="om_he_pv_np " href="/Autoturisme/ka-plus">Noul Ka+</a>
     </li>
     <li role="menuitem" class=""><a role="link" data-selenium="doormat_car_selection Fiesta"
                                     class="om_he_pv_np "

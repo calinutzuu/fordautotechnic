@@ -272,26 +272,58 @@
 <div id='tab1' class="secondary-tab-content">
     <header class="intro-header">
         <h1 class="bigHeading">
-            CONDUCI CU MAI MULTA PLACERE
+            Condusul este intotdeauna o placere
         </h1>
         <span class="highlighter"></span>
 
         <p class="intro-text">
 
-        <p>Usor si agil. Receptiv si sigur. Noul KA+ se descurca fantastic, indiferent de conditiile de condus.<br>
-            <br>
-            Ofera beneficii excelente, multumita unei serii de tehnologii inteligente, care transforma fiecare drum
-            intr-o calatorie usoara si distractiva si care ajuta la protejarea ta si a pasagerilor cu care
-            calatoresti.<br>
-            <br>
-            De la drumuri scurte prin oras la deplasari mai lungi, noul KA+ aduce un plus de placere la fiecare
-            calatorie.</p>
+        <p>Indiferent ca te plimbi prin oras sau mergi pe autostrada, noul KA+ este mereu distractiv de condus si
+            reactioneaza prompt.<br> In interior, este plin de tehnologii inteligente, care iti fac viata mai usoara si
+            te
+            ajuta sa reduceti costurile. <br>De exemplu, Tempomatul adaptiv te poate ajuta sa economisiti carburant,
+            mentinand noul KA+ in cadrul unei viteze prestabilite de tine. </p>
         </p>
     </header>
     <article class="content-column left">
-        <div class="img-column"> <img
-                    src="/assets/img/ka-plus/1214559180794.jpg"
-                    alt="Parcare usoara in spatii inguste"/><span class="fv-overlay-icon"></span></div>
+        <div class="img-column"><img
+                src="/assets/img/ka-plus/1214559180794.jpg"
+                alt="Parcare usoara in spatii inguste"/><span class="fv-overlay-icon"></span></div>
+        <div class="content">
+            <h3 class="bigHeading02">
+                Faruri care se aprind automat atunci cand este necesar
+            </h3>
+
+            <p>
+
+            <p>Farurile automate sunt prevazute cu senzori care detecteaza lumina atunci cand incepe sa se intunece
+                afara sau la schimbarea brusca a conditiilor de iluminat. Aceasta declanseaza aprinderea automata a
+                farurilor, ceea ce face condusul mai usor.</p>
+            </p>
+        </div>
+    </article>
+    <article class="content-column right">
+        <div class="content">
+            <h3 class="bigHeading02">
+                Drumuri mai putin obositoare, mai economice
+            </h3>
+
+            <p>
+
+            <p>Tempomatul adaptiv te ajuta sa-ti mentii vehiculul in limita de viteza prestabilita de tine. Te poate
+                ajuta sa economisesti combustibil, sa reduci situatiile de depasire a vitezei si, la fel ca toate
+                sistemele de control al vitezei, iti permite sa mentii viteza aleasa fara sa fi nevoit sa tii piciorul
+                pe pedala de acceleratie.</p>
+            </p>
+        </div>
+        <div class="img-column"><img
+                src="/assets/img/ka-plus/1214559180114.jpg"
+                alt="Calatorii mai relaxante"/><span class="fv-overlay-icon"></span></div>
+    </article>
+    <article class="content-column left">
+        <div class="img-column"><img
+                src="/assets/img/ka-plus/1214559179860.jpg"
+                alt="Pornire din rampa mai usoara"/><span class="fv-overlay-icon"></span></div>
         <div class="content">
             <h3 class="bigHeading02">
                 Parcare usoara in spatii inguste
@@ -302,98 +334,66 @@
             <p>Noul KA+ este suficient de compact si de agil pentru a incapea in locurile de parcare inguste din oras,
                 iar senzorii spate te vor ajuta sa parchezi cu toata increderea. Acestia detecteaza momentul in care te
                 afli prea aproape de un obiect si te alerteaza vizual pe consola centrala, impreuna cu un avertisment
-                sonor. Parcare fara probleme si fara sa atingi nimic!</p>
-            </p>
-        </div>
-    </article>
-    <article class="content-column right">
-        <div class="content">
-            <h3 class="bigHeading02">
-                Calatorii mai relaxante
-            </h3>
-
-            <p>
-
-            <p>Noul KA+ este dotat cu limitator de viteza. Dotare optionala - tempomatul - poate fi folosit pentru a
-                seta o viteza cu care te simti confortabil, iar noul KA+ va mentine acea viteza fara a mai fi nevoie sa
-                tii piciorul pe pedala de acceleratie. Daca doresti sa accelerezi sau sa incetinesti, nu trebuie decat
-                sa actionezi pedala de acceleratie sau frana, ca de obicei, iar aceasta actiune va avea prioritate fata
-                de setarea tempomatului. Limitatorul de viteza este extrem de util pentru condusul in zone urbane,
-                ajutandu-te sa mentii viteza legala, fiind usor de ajustat pe masura ce limita de viteza se schimba.</p>
-            </p>
-        </div>
-        <div class="img-column"> <img
-                    src="/assets/img/ka-plus/1214559180114.jpg"
-                    alt="Calatorii mai relaxante"/><span class="fv-overlay-icon"></span></div>
-    </article>
-    <article class="content-column left">
-        <div class="img-column"> <img
-                    src="/assets/img/ka-plus/1214559179860.jpg"
-                    alt="Pornire din rampa mai usoara"/><span class="fv-overlay-icon"></span></div>
-        <div class="content">
-            <h3 class="bigHeading02">
-                Pornire din rampa mai usoara
-            </h3>
-
-            <p>
-
-            <p>Sistemul de asistenta la pornirea din rampa foloseste sistemul de franare pentru a impiedica alunecarea
-                in spate a noului KA+ atunci cand pornesti din rampa. Daca sistemul este activ, KA+ ramane pe loc timp
-                de 2-3 secunde dupa eliberarea franei. Acest lucru iti ofera timp suficient pentru a muta piciorul pe
-                pedala de acceleratie, ajutandu-te sa pornesti mai usor si cu mai multa siguranta in pante dificile, mai
-                ales daca ai alte masini parcate in spate.</p>
+                sonor.</p>
             </p>
         </div>
     </article>
     <article class='three-column'>
         <div class="content-block">
             <img
-                    src="/assets/img/ka-plus/1214559180464.jpg"
-                    alt="Mentine controlul in permanenta"/><span class="fv-overlay-icon"></span>
+                src="/assets/img/ka-plus/1214559180464.jpg"
+                alt="Mentine controlul in permanenta"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
-                Mentine controlul in permanenta
+                Un plus de control in cazul pornirilor in rampa
             </h3>
 
             <p>
 
-            <p>Controlul tractiunii ajuta la prevenirea alunecarii rotii (sau a „supra-rotirii”) atunci cand conduci pe
-                suprafete alunecoase. Controlul tractiunii este util in special atunci cand trebuie sa accelerezi din
-                pozitie de stationare, la viteza redusa sau cand urci o panta. Usureaza condusul, ajutandu-te sa
-                pastrezi controlul asupra noului KA+ pe drumuri cu gheata si in conditii de drum umed.</p>
+            <p>Sistemul de asistenta la pornirea din rampa impiedica temporar alunecarea in spate sau in fata, cand
+                pornesti din panta. Sistemul functioneaza prin mentinerea presiunii la nivelul sistemului de franare
+                pentru un interval suplimentar de 2-3 secunde, asigurandu-ti mai mult timp si control, cand muti
+                piciorul de pe pedala de frana, pe cea de acceleratie. Acest sistem este de asemenea util cand opresti
+                si pornesti autovehiculul pe suprafete alunecoase.</p>
             </p>
         </div>
         <div class="content-block">
-           <img
-                    src="/assets/img/ka-plus/1214559181134.jpg"
-                    alt="Manevrabilitate mai usoara"/><span class="fv-overlay-icon"></span>
+            <img
+                src="/assets/img/ka-plus/1214559181134.jpg"
+                alt="Manevrabilitate mai usoara"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
-                Manevrabilitate mai usoara
+                Directie servoasistata care reactioneaza la orice situatie
             </h3>
 
             <p>
 
-            <p>Sistemul de directie asistata electric (EPAS) se regleaza automat pentru a permite virarea mai simpla si
-                mai usoara atunci cand parchezi si pentru a oferi o directie mai ferma, pentru mai mult control, pe
-                autostrada. Spre deosebire de servodirectia conventionala (care functioneaza continuu si consuma mai
-                multa energie si mai mult combustibil), sistemul nostru EPAS functioneaza numai atunci cand este
-                necesar, facilitand un consum redus de combustibil.</p>
+            <p>Directia servoasistata electric (EPAS) se ajusteaza automat la viteza de rulare si la conditiile de drum.
+                La viteze reduse, sistemul face ca rotirea volanului sa fie mai usoara, imbunatatind manevrabilitatea.
+                La viteze ridicate, cand ai nevoie de mai mult control , directia devine mai rigida. Acum, cu ajutorul
+                controlului asupra devierii de la cursul normal, EPAS ia de asemenea in calcul, vantul care bate din
+                fata si alte conditii de drum, in timp ce Controlul activ al vibratiilor reduce vibratiile nedorite,
+                resimtite la nivelul volanului.</p>
             </p>
         </div>
         <div class="content-block last">
             <img
-                    src="/assets/img/ka-plus/1214559179435.jpg"
-                    alt="Vizibilitate excelenta atat ziua, cat si noaptea"/><span class="fv-overlay-icon"></span>
+                src="/assets/img/ka-plus/1214559179435.jpg"
+                alt="Vizibilitate excelenta atat ziua, cat si noaptea"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
-                Vizibilitate excelenta atat ziua, cat si noaptea
+                Asistenta de urgenta Ford SYNC
             </h3>
 
             <p>
 
-            <p>Multumita designului inteligent, noul KA+ este acum si mai vizibil. Farurile de ceata includ si luminile
-                de zi, ajutandu-te sa iesi in evidenta indiferent daca este zi sau noapte, ceata sau cer senin.</p>
+            <p>Un aspect important al tehnologiei Ford SYNC care iti poate salva viata este Asistenta de urgenta*. In
+                cazul putin probabil al unui accident, cand se activeaza airbagul sau se dezactiveaza pompa de
+                carburant, tehnologia poate folosi un telefon mobil imperecheat si conectat prin Bluetooth® pentru a
+                efectua automat un apel direct catre Serviciile de urgenta, in locul tau Poti alege sa intrerupi apelul
+                sau sa discuti cu personalul serviciului de urgenta, daca e cazul. Extrem de important, sistemul va
+                furniza informatii vitale, precum coordonatele tale GPS, chiar si atunci cand ti-ai pierdut
+                cunostinta.</p>
             </p>
         </div>
     </article>
@@ -402,92 +402,126 @@
 <div id='tab2' class="secondary-tab-content">
     <header class="intro-header">
         <h1 class="bigHeading">
-            FOARTE PROMPT SI EFICIENT
+            Tehnologia de ultima generatie reduce costul<br><br> carburantului
         </h1>
         <span class="highlighter"></span>
 
         <p class="intro-text">
 
-        <p>Noul KA+ este conceput pentru a va purta pe tine, pasagerii tai si combustibilul cu care ai alimentat pe un
-            drum foarte lung.<br>
-            <br>
-            Motorul Ti-VCT pe benzina, de 1,2 litri, este receptiv, agil,consuma putin si face ca fiecare litru sa
-            conteze.</p>
+        <p>Vei vedea ca a conduce noile KA+ si KA+ Active este pe cat de distractiv, pe atat de economic. Noul motor pe
+            benzina, de 1,2 litri, imbunatateste eficienta consumului de carburant. De asemenea, tehnologia
+            Auto-Start-Stop poate reduce consumul de combustibil cu pana la 10%. Intervalele lungi dintre service-uri
+            fac mai simpla prelungirea duratei de viata a vehiculului.</p>
         </p>
     </header>
     <article class="content-column left">
-        <div class="img-column"> <img
-                    src="/assets/img/ka-plus/1214559180628.jpg"
-                    alt="Un motor nou, care sa aiba grija de combustibilul tau"/><span
-                    class="fv-overlay-icon"></span></div>
+        <div class="img-column"><img
+                src="/assets/img/ka-plus/1214559180628.jpg"
+                alt="Un motor nou, care sa aiba grija de combustibilul tau"/><span
+                class="fv-overlay-icon"></span></div>
         <div class="content">
             <h3 class="bigHeading02">
-                Un motor nou, care sa aiba grija de combustibilul tau
+                Folosesti mai putin combustibil cu functia pornire-oprire automata
             </h3>
 
             <p>
 
-            <p>Noul KA+ este dotat cu un motor Ti-VCT pe benzina, de 1,2 l, cu patru cilindri, prompt si economic. Este
-                disponibil in variante de 70 CP sau 85 CP si cu o cutie de viteze manuala cu cinci trepte. Consumul este
-                redus, iar nivelurile de emisii de CO<sub>2</sub> sunt foarte mici, de doar 110 g/km.</p>
+            <p>Atunci cand te opresti la semafor sau cand astepti intr-o coloana, aceasta tehnologie poate opri automat
+                motorul (fara a opri insa alimentarea sistemelor esentiale, precum farurile, aerul conditionat, radioul
+                si sistemul Ford SYNC). De indata ce esti gata sa pleci de pe loc, apasa, ca de obicei, pe pedala de
+                ambreiaj si selecteaza prima treapta de viteza, iar sistemul porneste din nou motorul. Sistemul
+                Auto-Start-Stop e deosebit de eficient in orase, unde poate reduce consumul de combustibil cu pana la
+                10% (in mediul urban).</p>
             </p>
         </div>
     </article>
     <article class="content-column right">
         <div class="content">
             <h3 class="bigHeading02">
-                Economiseste bani atunci cand schimbi treptele de viteza
+                Noul KA+ are grija de carburantul si buzunarul tau
             </h3>
 
             <p>
 
-            <p>Noul KA+ este echipat cu un indicator pe panoul de bord, care iti indica momentul optim de schimbare a
-                treptei de viteza. Acest lucru te ajuta sa mentii turatia la un nivel mai redus, imbunatatind eficienta
-                consumului si parcurgand mai multi kilometri, cu un cost mai mic.</p>
+            <p>KA+ isi ia puterea de la noul motor avansat, pe benzina, de 1,2 l, si de la cutia de viteza manuala, cu 5
+                trepte. Cuplul imbunatatit, chiar si la turatie redusa, ofera o performanta excelenta si o experienta de
+                condus mai buna, per total. Motorul este conceput pentru eficienta, asadar consumul de carburant este
+                excelent, cu emisii de CO2 reduse. Este disponibila o versiune pe motorina, cu un impresionant motor de
+                1,5 l.</p>
             </p>
         </div>
-        <div class="img-column"> <img
-                    src="/assets/img/ka-plus/1214559180711.jpg"
-                    alt="Economiseste bani atunci cand schimbi treptele de viteza"/><span
-                    class="fv-overlay-icon"></span></div>
+        <div class="img-column"><img
+                src="/assets/img/ka-plus/1214559180711.jpg"
+                alt="Economiseste bani atunci cand schimbi treptele de viteza"/><span
+                class="fv-overlay-icon"></span></div>
+    </article>
+    <article class="content-column left">
+        <div class="img-column"><img
+                src="/assets/img/ka-plus/2145591806288.jpg"
+                alt="Un motor nou, care sa aiba grija de combustibilul tau"/><span
+                class="fv-overlay-icon"></span></div>
+        <div class="content">
+            <h3 class="bigHeading02">
+                Schimbari ale treptelor de viteza, mai eficiente din punct de vedere al consumului de combustibil
+            </h3>
+
+            <p>
+
+            <p>Un indicator luminos de pe panoul de bord iti arata momentul optim de schimbare a treptei de viteza,
+                pentru o eficienta maxima a consumului de combustibil. Aceasta reprezinta o modalitate simpla si
+                eficienta, de a asigura deplasari cat mai economice.</p>
+            </p>
+        </div>
+    </article>
+    <article class="content-column right">
+        <div class="content">
+            <h3 class="bigHeading02">
+                Informatii esentiale despre calatorie
+            </h3>
+
+            <p>
+
+            <p>Computerul de bord iti ofera informatii si cifre utile despre distanta parcursa, consumul de combustibil,
+                viteza si temperatura aerului din exterior. De asemenea, acesta precizeaza „distanta pana la golire”:
+                aproximativ ce distanta poti parcurge cu combustibilul ramas in rezervor. Aceasta informatie este utila
+                mai ales in timpul calatoriilor lungi sau daca urmeaza sa te deplasezi intr-un loc izolat.</p>
+            </p>
+        </div>
+        <div class="img-column"><img
+                src="/assets/img/ka-plus/12145591807111.jpg"
+                alt="Economiseste bani atunci cand schimbi treptele de viteza"/><span
+                class="fv-overlay-icon"></span></div>
     </article>
 </div>
 <!--  tabTitle : Confort si avantaje :: btfTabContent : 1205115900570 :: tabContent :  -->
 <div id='tab3' class="secondary-tab-content">
     <header class="intro-header">
         <h1 class="bigHeading">
-            O MASINA PRACTICA SI UN PLUS DE DISTRACTIE
+            Simte-te in largul tau, in mai multe feluri
         </h1>
         <span class="highlighter"></span>
 
         <p class="intro-text">
 
-        <p>Pentru o masina compacta, noul KA+ ofera o gama variata de dotari practice, tehnologii avansate si
-            divertisment. Impreuna, toate acestea ofera beneficiile excelente care definesc noul KA+.<br> <br> Ford SYNC
-            iti ofera control vocal avansat asupra functiilor telefonului mobil si a muzicii. Noul Dock MyFord reflecta
-            importanta pe care o au smartphone-urile in timpul condusului, asigurandu-se ca al tau se afla in siguranta,
-            in raza ta vizuala.<br> <br> Dupa cum vei descoperi, noul KA+ este mai mult decat un vehicul care arata
-            bine. Este si inteligent si bine crescut.</p>
+        <p>Noile KA+ si KA+ Active sunt inzestrate cu o gama larga de tehnologii inteligente pentru a asigura o pozitie
+            mult mai confortabila, in timpul condusului.<br> Pentru prima oara, si modelul KA+ beneficiaza de sistemul
+            avansat de info-divertisment SYNC 3, cu ecran tactil si comanda vocala. </p>
         </p>
     </header>
     <article class="content-column left">
-        <div class="img-column"> <img
-                    src="/assets/img/ka-plus/1214559181043.jpg"
-                    alt="Ford SYNC. Tehnologie avansata hands-free."/><span class="fv-overlay-icon"></span></div>
+        <div class="img-column"><img
+                src="/assets/img/ka-plus/1214559181043.jpg"
+                alt="Ford SYNC. Tehnologie avansata hands-free."/><span class="fv-overlay-icon"></span></div>
         <div class="content">
             <h3 class="bigHeading02">
-                Ford SYNC. Tehnologie avansata hands-free.
+                Preia comanda cu tehnologia avansata hands-free cu SYNC 3
             </h3>
 
             <p>
 
-            <p>Sistemul Ford SYNC optional iti permite sa controlezi muzica si sa initiezi sau sa preiei apeluri de pe
-                telefonul mobil, utilizand comenzi vocale simple. Sistemul iti va citi cu voce tare mesajele text, va
-                reda cantece de pe un dispozitiv USB si poate sa redea in flux muzica de pe un telefon mobil compatibil
-                Bluetooth<sup>&reg;</sup>. Iar cu functia AppLink poti controla, prin comanda vocala, cele mai folosite
-                aplicatii de Android si iOS. Este aproape ca si cum ai avea un asistent personal cu tine, chiar daca
-                esti singur(a) in masina.<br> <br> <span
-                    style="font-size: smaller;">*Marca si siglele Bluetooth<sup>&reg;</sup> sunt oferite si detinute de Bluetooth SIG Inc si orice utilizare a acestor marci de catre Ford Motor Company Limited si de catre companiile sale partenere se face in baza unei licente. Alte marci inregistrate si denumiri comerciale apartin proprietarilor lor.</span>
+            <p>SYNC 3 este cea mai avansata versiune de pana acum. Este mai rapida si mai usor de utilizat, cu comenzi
+                vocale imbunatatite si mai multe functii. SYNC 3 include, de asemenea, aplicatiile AppLink, CarPlay si
+                Android Auto, pentru a afisa informatiile smartphoneului tau pe ecranul tactilde, 6.5”</span>
             </p>
             </p>
         </div>
@@ -495,97 +529,146 @@
     <article class="content-column right">
         <div class="content">
             <h3 class="bigHeading02">
-                Depozitare inteligenta pentru smartphone-uri
+                Curata parbrizul rapid cu Quickclear
             </h3>
 
             <p>
 
-            <p>Dock-ul MyFord reprezinta un concept bine gandit, in care poti pune in siguranta smartphone-ul, playerul
-                MP3 sau dispozitivul de navigatie, astfel incat sa il poti vedea clar, fara a lua ochii de la drum.
-                Statia de andocare se afla deasupra consolei centrale si este prevazuta cu un capac rabatabil, care
-                blocheaza dispozitivul in pozitie fixa.</p>
+            <p>Aceasta dotare inteligenta e creata pentru a-ti permite sa pornesti rapid in diminetile geroase. Trebuie
+                doar sa atingi un buton si filamente extrem de subtiri se supraincalzesc, pentru a curata parbrizul de
+                gheata, ceata si abur, precum si pentru a ajuta la dezghetarea stergatoarelor. Sistemul actioneaza in
+                cateva secunde, chiar si la temperaturi negative.</p>
             </p>
         </div>
-        <div class="img-column"> <img
-                    src="/assets/img/ka-plus/1214559180545.jpg"
-                    alt="Depozitare inteligenta pentru smartphone-uri"/><span class="fv-overlay-icon"></span></div>
+        <div class="img-column"><img
+                src="/assets/img/ka-plus/1214559180545.jpg"
+                alt="Depozitare inteligenta pentru smartphone-uri"/><span class="fv-overlay-icon"></span></div>
     </article>
     <article class="content-column left">
-        <div class="img-column"> <img
-                    src="/assets/img/ka-plus/1214559179943.jpg"
-                    alt="Coloana ta sonora in miscare"/><span class="fv-overlay-icon"></span></div>
+        <div class="img-column"><img
+                src="/assets/img/ka-plus/1214559179943.jpg"
+                alt="Coloana ta sonora in miscare"/><span class="fv-overlay-icon"></span></div>
         <div class="content">
             <h3 class="bigHeading02">
-                Coloana ta sonora in miscare
+                Stergatoare care se regleaza automat, in functie de ploaie
             </h3>
 
             <p>
 
-            <p>Noul KA+ poate fi livrat cu unul dintre diferitele sisteme audio disponibile. Sistemul standard Ford
-                Stereo include un radio stereo, conector USB, pentru a putea reda muzica de pe smartphone, un doc
-                securizat pentru dispozitive si conectivitate Bluetooth.<br>
-                <br>
-                Sistemul Ford SYNC optional vine in completarea acestuia cu posibilitatea de a-ti controla muzica cu
-                ajutorul vocii sau al unei telecomenzi aflate pe volan. Iar cu AppLink, poti controla aplicatii populare
-                pentru Android si iOS prin comenzi vocale.</p>
+            <p>Stergatoarele de parbriz cu senzor de ploaie se activeaza in secunda cand detecteaza stropi de apa pe
+                parbrizul autovehiculului, iar apoi isi regleaza viteza pentru a face fata oricaror conditii meteo. Poti
+                alege din mai multe niveluri de sensibilitate, care determina cat de multa umiditate trebuie sa se
+                acumuleze inainte ca stergatoarele sa se activeze.</p>
+            </p>
+        </div>
+    </article>
+
+    <article class="content-column right">
+        <div class="content">
+            <h3 class="bigHeading02">
+                Porneste masina prin simpla atingere a unui buton
+            </h3>
+
+            <p>
+
+            <p>Noul KA+ detecteaza automat prezenta cheii sale unice, chiar daca aceasta se afla in buzunar sau in
+                poseta. Asa ca este suficient sa apesi butonul Ford Power iar motorul se va trezi la viata.</p>
+            </p>
+        </div>
+        <div class="img-column"><img
+                src="/assets/img/ka-plus/12145591805455.jpg"
+                alt="Depozitare inteligenta pentru smartphone-uri"/><span class="fv-overlay-icon"></span></div>
+    </article>
+    <article class="content-column left">
+        <div class="img-column"><img
+                src="/assets/img/ka-plus/12145591799433.jpg"
+                alt="Coloana ta sonora in miscare"/><span class="fv-overlay-icon"></span></div>
+        <div class="content">
+            <h3 class="bigHeading02">
+                Seteaza temperatura dorita
+            </h3>
+
+            <p>
+
+            <p>Cu ajutorul Sistemului optional de climatizare automata, selecteaza pur si simplu temperatura interioara
+                dorita, iar aceasta va mentine cu ajutorul sistemului avansat de climatizare.</p>
+            </p>
+        </div>
+    </article>
+
+    <article class="content-column right">
+        <div class="content">
+            <h3 class="bigHeading02">
+                Confort suplimentar cu scaunele incalzite
+            </h3>
+
+            <p>
+
+            <p>Scapa de frigul din diminetile geroase cu ajutorul scaunele din fata incalzite. Apasa butonul si mentine
+                o temperatura confortabila a scaunului atat timp cat doresti.</p>
+            </p>
+        </div>
+        <div class="img-column"><img
+                src="/assets/img/ka-plus/112145591805455.jpg"
+                alt="Depozitare inteligenta pentru smartphone-uri"/><span class="fv-overlay-icon"></span></div>
+    </article>
+
+    <article class='two-column'>
+        <div class="content-block">
+            <img
+                src="/assets/img/ka-plus/1214559179348.jpg"
+                alt="Control al temperaturii - intuitiv"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+                Un loc sigur pentru toate dispozitivele tale
+            </h3>
+
+            <p>
+
+            <p>Sistemul de andocare e conceput pentru a-ti tine dispozitivul de navigare prin satelit, telefonul
+                inteligent sau player-ul MP3.</p>
+            </p>
+        </div>
+        <div class="content-block last">
+            <img
+                src="/assets/img/ka-plus/1214559180284.jpg"
+                alt="Un plus de confort cu ajutorul scaunelor incalzite"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+                Utilizarea in comun a masinii, fara probleme, cu ajutorul caracteristicii MyKey
+            </h3>
+
+            <p>
+
+            <p>MyKey iti permite sa setezi limita maxima de viteza, semnalul care sa atraga atentia asupra purtarii
+                centurii de siguranta si chiar volumul sistemului audio. Aceasta tehnologie este conceputa pentru a-ti
+                asigura linistea atunci cand imprumuti masina unui prieten sau unui membru al familiei, deoarece poti
+                programa restrictiile dorite pentru cheia respectiva. Poti pastra personal cheia de „admin” si chiar sa
+                ai mai multe exemplare din ambele chei, daca doresti.</p>
             </p>
         </div>
     </article>
     <article class='two-column'>
         <div class="content-block">
             <img
-                    src="/assets/img/ka-plus/1214559179348.jpg"
-                    alt="Control al temperaturii - intuitiv"/><span class="fv-overlay-icon"></span>
+                src="/assets/img/ka-plus/1214559180963.jpg"
+                alt="Oglinzi electrice si pliabile"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
-                Control al temperaturii - intuitiv
+                Cu oglinzi care se pot proteja singure
             </h3>
 
             <p>
 
-            <p>Cu ajutorul sistemului electronic de climatizare automata poti seta temperatura dorita, noul KA+
-                mentinand apoi acest nivel constant. Nici prea frig. Nici prea cald. Exact cum trebuie, de fiecare
-                data.</p>
+            <p>Pentru a evita deteriorarea accidentala, oglinzile laterale pliabile electric se pliaza catre interior
+                dupa ce ai parcat. Atunci cand sunt rabatate, oglinzile protejeaza, de asemenea, elegantele indicatoare
+                integrate.</p>
             </p>
         </div>
         <div class="content-block last">
             <img
-                    src="/assets/img/ka-plus/1214559180284.jpg"
-                    alt="Un plus de confort cu ajutorul scaunelor incalzite"/><span class="fv-overlay-icon"></span>
-
-            <h3 class="bigHeading02">
-                Un plus de confort cu ajutorul scaunelor incalzite
-            </h3>
-
-            <p>
-
-            <p>Indiferent de conditiile de afara, tu si pasagerul din fata puteti sta confortabil la caldura in noul
-                KA+. Scaunele din fata cu incalzire optionala fac din condusul in lunile mai reci o activitate mult mai
-                placuta.</p>
-            </p>
-        </div>
-    </article>
-    <article class='two-column'>
-        <div class="content-block">
-            <img
-                    src="/assets/img/ka-plus/1214559180963.jpg"
-                    alt="Oglinzi electrice si pliabile"/><span class="fv-overlay-icon"></span>
-
-            <h3 class="bigHeading02">
-                Oglinzi electrice si pliabile
-            </h3>
-
-            <p>
-
-            <p>Pentru a evita deteriorarea accidentala, oglinzile laterale pliabile electric, oferite ca dotare
-                optionala, se pliaza catre interior atunci cand autovehiculul este inchis (sau atunci cand utilizezi
-                comutatorul de ajustare a oglinzilor).</p>
-            </p>
-        </div>
-        <div class="content-block last">
-            <img
-                    src="/assets/img/ka-plus/1214559180034.jpg"
-                    alt="Ford EasyFuel, pentru alimentari fara probleme"/><span class="fv-overlay-icon"></span>
+                src="/assets/img/ka-plus/1214559180034.jpg"
+                alt="Ford EasyFuel, pentru alimentari fara probleme"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Ford EasyFuel, pentru alimentari fara probleme
@@ -604,129 +687,130 @@
 <div id='tab4' class="secondary-tab-content">
     <header class="intro-header">
         <h1 class="bigHeading">
-            UN PLUS DE PROTECTIE PENTRU UN CONDUS MAI SIGUR
+            Protectie de jur-imprejur
         </h1>
         <span class="highlighter"></span>
 
         <p class="intro-text">
 
-        <p>Ford KA+ este dotat cu multe caracteristici de siguranta inteligente, proiectate pentru a te proteja atunci
-            cand conduci, precum si atunci cand este parcat.<br>
+        <p>Promotii per Printre acestea se numara Sistemul de control electronic al stabilitatii, care detecteaza orice
+            deviere de la linia de mers aleasa, adica, in cazul in care masina incepe sa derapaze, corecteaza automat
+            pozitia pe drum, ajutandu-te sa mentii controlul vehiculului.<br>
             <br>
-            De exemplu, sistemul Ford SYNC este prevazut cu Asistenta de urgenta, care va apela automat serviciile de
-            urgenta in locul tau, in eventualitatea unui accident.<br>
-            <br>
-            Ford KA+: are intotdeauna grija de tine.</p>
+        </p>
         </p>
     </header>
     <article class="content-column left">
         <div class="img-column"><img
-                    src="/assets/img/ka-plus/1214559180877.jpg"
-                    alt="Ford SYNC cu Asistenta de urgenta"/><span class="fv-overlay-icon"></span></div>
+                src="/assets/img/ka-plus/1214559180877.jpg"
+                alt="Ford SYNC cu Asistenta de urgenta"/><span class="fv-overlay-icon"></span></div>
         <div class="content">
             <h3 class="bigHeading02">
-                Ford SYNC cu Asistenta de urgenta
+                Mentine controlul indiferent de conditii
             </h3>
 
             <p>
 
-            <p>In cazul unui accident, cand se activeaza airbagul sau se dezactiveaza pompa de carburant, SYNC poate
-                efectua un apel catre serviciile de urgenta in locul tau. Daca este cazul, poti alege sa intrerupi
-                apelul sau sa discuti personal, daca este necesar. Un aspect extrem de important este faptul ca sistemul
-                va furniza informatii vitale, precum coordonatele tale GPS, chiar si atunci cand ti-ai pierdut
-                cunostinta.<br> <br> <span style="font-size: smaller;">Asistenta de urgenta Ford este o caracteristica SYNC inovatoare, care utilizeaza telefoanele mobile conectate si recunoscute prin Bluetooth<sup>&reg;</sup> pentru a ajuta ocupantii vehiculului sa efectueze un apel direct catre Centrul local de Comunicatii in cazul unei coliziuni a vehiculului, in care are loc activarea unui airbag sau decuplarea pompei de combustibil. Aceasta caracteristica este disponibila in peste 40 de tari si regiuni din Europa.</span>
-            </p>
+            <p>Controlul electronic al stabilitatii monitorizeaza constant evolutia masinii tale. Detecteaza cand un
+                vehicul pierde din aderenta si aplica automat un impuls de franare pe roti separate, stabilizand astfel
+                masina. Folosind senzorii avansati de la sistemele de franare cu anti-blocare roti si de control al
+                tractiunii, functia de control electronic monitorizeaza total comportamentul vehiculului.<br> <br></p>
             </p>
         </div>
     </article>
     <article class="content-column right">
         <div class="content">
             <h3 class="bigHeading02">
-                Protectie completa
+                Aderenta maxima cu efort minim
             </h3>
 
             <p>
 
-            <p>Pe langa airbagurile frontale pentru pasagerul din fata si sofer, exista si airbaguri laterale pentru
-                protejarea toracelui si airbaguri tip cortina pentru protejarea capului.</p>
+            <p>Un sistem avansat de control al tractiunii elimina alunecarea in exces a rotilor si iti asigura cea mai
+                buna aderenta, performanta si stabilitate, atunci cand ai mai mare nevoie. Sistemul monitorizeaza
+                incontinuu si ajusteaza puterea livrata rotilor individuale ale vehiculului, asigurand contact si
+                aderenta maxime, cand accelerezi.</p>
             </p>
         </div>
-        <div class="img-column"> <img
-                    src="/assets/img/ka-plus/1214559179777.jpg"
-                    alt="Protectie completa"/><span class="fv-overlay-icon"></span></div>
+        <div class="img-column"><img
+                src="/assets/img/ka-plus/1214559179777.jpg"
+                alt="Protectie completa"/><span class="fv-overlay-icon"></span></div>
     </article>
     <article class='two-column'>
         <div class="content-block">
             <img
-                    src="/assets/img/ka-plus/1214559180372.jpg"
-                    alt="Adauga mai multi soferi cu MyKey®"/><span class="fv-overlay-icon"></span>
+                src="/assets/img/ka-plus/1214559180372.jpg"
+                alt="Adauga mai multi soferi cu MyKey®"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
-                Adauga mai multi soferi cu MyKey<sup>®</sup>
+                Airbaguri menite sa te protejeze din orice unghi
             </h3>
 
             <p>
 
-            <p>MyKey<sup>&reg;</sup> iti permite sa adaptezi setarile masinii pentru soferi individuali. Asadar, daca
-                imprumuti noul KA+ unei alte persoane, poti seta limita maxima de viteza, poti seta un semnal care sa
-                atraga atentia asupra purtarii centurii de siguranta si poti chiar sa controlezi volumul sistemului
-                audio. Aceasta tehnologie inovatoare te ajuta la mentinerea sigurantei soferilor si a pasagerilor.</p>
+            <p>Pe langa airbagurile frontale pentru pasagerul din fata si sofer si airbagurile pentru genunchii
+                soferului, cele laterale ofera protectie la nivelul toracelui si sunt concepute pentru a indeparta
+                ocupantul de zona de impact. Pot de asemenea sa ridice bratul ocupantului, asigurand un spatiu mai bun
+                intre acesta si structura periculoasa. Airbagurile tip cortina ofera acoperire maxima, iar tetierele te
+                protejeaza in cazul unui impact fata-spate. Cu dispozitive de pretensionare a centurilor de siguranta si
+                limitatoare de sarcina in fata si in spate, plus sisteme de reamintire pentru centura de siguranta, noul
+                KA+ pune siguranta pe primul loc.</p>
             </p>
         </div>
         <div class="content-block last">
             <img
-                    src="/assets/img/ka-plus/1214559179597.jpg"
-                    alt="Avertizare timpurie in cazul unei pene"/><span class="fv-overlay-icon"></span>
+                src="/assets/img/ka-plus/1214559179597.jpg"
+                alt="Avertizare timpurie in cazul unei pene"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
-                Monitorizare a presiunii in pneuri
+                Te avertizeaza daca pneurile pierd presiune.
             </h3>
 
             <p>
 
-            <p>Daca unul dintre pneuri incepe sa piarda presiune in timpul deplasarii, sistemul de monitorizare a
-                presiunii in pneuri te avertizeaza imediat prin aprinderea unei pictograme pe panoul de bord. Aceasta
-                avertizare timpurie iti permite sa opresti in siguranta, sa verifici presiunea in pneuri si sa remediezi
-                orice eventuala problema.</p>
+            <p>Intotdeauna este important sa mentii presiunea corecta in pneuri, pentru a te ajuta sa economisesti
+                combustibil, sa protejezi pneurile si sa fii in siguranta. De aceea, senzorii monitorizeaza constant
+                fiecare roata si te alerteaza daca apare o problema, astfel incat sa poti trage pe dreapta, sa verifici
+                si sa umfli pneul sau sa schimbi roata.</p>
             </p>
         </div>
     </article>
     <article class='three-column'>
         <div class="content-block">
-           <img
-                    src="/assets/img/ka-plus/1214559180204.jpg"
-                    alt="Avertismente luminoase pentru franare de urgenta"/><span class="fv-overlay-icon"></span>
+            <img
+                src="/assets/img/ka-plus/1214559180204.jpg"
+                alt="Avertismente luminoase pentru franare de urgenta"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
-                Avertismente luminoase pentru franare de urgenta
+                Un avertisment in spate, atunci cand franezi brusc
             </h3>
 
             <p>
 
-            <p>Daca trebuie sa franezi de urgenta, luminile de avarie se vor aprinde automat si luminile de frana se vor
-                aprinde intermitent. Aceasta combinatie avertizeaza soferii din spate cu privire la o situatie posibil
-                periculoasa.</p>
+            <p>Sistemul cu lumina de franare de urgenta (LFU) aprinde luminile de frana pentru a-i avertiza pe ceilalti
+                soferi cand franezi brusc.</p>
             </p>
         </div>
         <div class="content-block">
             <img
-                    src="/assets/img/ka-plus/1214559179069.jpg"
-                    alt="Sisteme de securitate inteligente"/><span class="fv-overlay-icon"></span>
+                src="/assets/img/ka-plus/1214559179069.jpg"
+                alt="Sisteme de securitate inteligente"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
-                Sisteme de securitate inteligente
+                Protejarea si securizarea vehiculului impotriva furtului
             </h3>
 
             <p>
 
-            <p>Noul KA+ este prevazut cu telecomanda. Optional se poate comanda si alarma de perimetru, pentru sporirea
-                sigurantei.</p>
+            <p>Noul KA+ este dotat cu incuietori de usi cu telecomanda si cu un sistem de securitate Thatcham. Acesta
+                include o alarma de perimetru si un sistem de blocare dubla. Cu ajutorul blocarii duble, usile nu pot fi
+                deschise din interior, nici macar daca cineva incerca sa intre in masina spargand un geam lateral.</p>
             </p>
         </div>
         <div class="content-block last">
             <img
-                    src="/assets/img/ka-plus/1214559179518.jpg"
-                    alt="Mentii controlul indiferent de conditii"/><span class="fv-overlay-icon"></span>
+                src="/assets/img/ka-plus/1214559179518.jpg"
+                alt="Mentii controlul indiferent de conditii"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Mentii controlul indiferent de conditii

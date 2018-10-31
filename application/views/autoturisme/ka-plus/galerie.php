@@ -313,7 +313,7 @@
 
             <p>
 
-            <p>Atragator, si in miscare si cand e parcat</p>
+            <p>Design rafinat</p>
             </p>
         </div>
         <div class="content-block">
@@ -326,7 +326,7 @@
 
             <p>
 
-            <p>Design modern, cu detalii de efect</p>
+            <p>Activ? Nemaipomenit? De toate. </p>
             </p>
         </div>
         <div class="content-block last">
@@ -339,7 +339,7 @@
 
             <p>
 
-            <p>Profil agil si aerodinamic</p>
+            <p>Un profil aerodinamic.</p>
             </p>
         </div>
     </article>
@@ -354,7 +354,7 @@
 
             <p>
 
-            <p>Design de impact pentru jantele de aliaj</p>
+            <p>O vedere de la inaltime: garda la sol inalta.</p>
             </p>
         </div>
         <div class="content-block">
@@ -367,7 +367,7 @@
 
             <p>
 
-            <p>Linii stilate si fluide, din orice unghi</p>
+            <p>Imaginea rafinamentului.</p>
             </p>
         </div>
         <div class="content-block last">
@@ -380,7 +380,7 @@
 
             <p>
 
-            <p>Grila indrazneata, distinctiva</p>
+            <p>Contururi suple. Detalii inteligente.</p>
             </p>
         </div>
     </article>
@@ -411,7 +411,7 @@
 
             <p>
 
-            <p>Detalii atent lucrate</p>
+            <p>Un habitactlu conceput pentru stilul tau. </p>
             </p>
         </div>
         <div class="content-block">
@@ -424,7 +424,7 @@
 
             <p>
 
-            <p>Interior spatios si aerisit</p>
+            <p>Scaunele deosebite ale KA+ Active au cusaturi contrastante. </p>
             </p>
         </div>
         <div class="content-block last">
@@ -437,7 +437,7 @@
 
             <p>
 
-            <p>Conectivitate hands-free</p>
+            <p>Spatios</p>
             </p>
         </div>
     </article>
@@ -453,7 +453,7 @@
 
             <p>
 
-            <p>Suficient spatiu pentru trei pasageri pe locurile din spate</p>
+            <p>Cu habitaclu usor, aerisit si confortabil.</p>
             </p>
         </div>
         <div class="content-block">
@@ -466,7 +466,7 @@
 
             <p>
 
-            <p>Simplu - dar in acelasi timp sofisticat</p>
+            <p>Design inteligent peste tot. </p>
             </p>
         </div>
         <div class="content-block last">
@@ -479,7 +479,7 @@
 
             <p>
 
-            <p>Habitaclu proiectat pentru tine</p>
+            <p>Surpriza: portbagaj mai spatios.</p>
             </p>
         </div>
     </article>
@@ -525,6 +525,7 @@
             <p>Capac roata de 15"</p>
             </p>
         </div>
+
     </article>
 </div>
 <!--  tabTitle : Culori :: btfTabContent : 1205115905107 :: tabContent :  -->
@@ -564,7 +565,7 @@
 
             <p>
 
-            <p>Tuxedo Black (Perlata)</p>
+            <p>Absoulute Black</p>
             </p>
         </div>
         <div class="content-block last">
@@ -577,7 +578,7 @@
 
             <p>
 
-            <p>Smoke Grey (Metalizata)</p>
+            <p>White Gold</p>
             </p>
         </div>
     </article>
@@ -592,7 +593,7 @@
 
             <p>
 
-            <p>Sparkling Gold (Perlata)</p>
+            <p>Smoke</p>
             </p>
         </div>
         <div class="content-block">
@@ -605,7 +606,7 @@
 
             <p>
 
-            <p>Ingot Silver (Metalizata)</p>
+            <p>Ingot Silver </p>
             </p>
         </div>
         <div class="content-block last">
@@ -617,7 +618,7 @@
 
             <p>
 
-            <p>Ruby Red (Perlata)</p>
+            <p>Ruby Red </p>
             </p>
         </div>
     </article>
@@ -632,7 +633,7 @@
 
             <p>
 
-            <p>Bright Yellow</p>
+            <p>Deep Impact Blue</p>
             </p>
         </div>
         <div class="content-block">
@@ -645,7 +646,7 @@
 
             <p>
 
-            <p>Deep Impact Blue (Metalizata)</p>
+            <p>Canyon Ridge</p>
             </p>
         </div>
     </article>
