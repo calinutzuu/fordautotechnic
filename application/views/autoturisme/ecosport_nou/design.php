@@ -444,7 +444,7 @@ filter: none;
 
                             <p>
 
-                            <p>O prezenta impunatoare pe sosea</p>
+                            <p>Iesi din oras cu incredere.</p>
                             </p>
                         </div>
                         <div class="content-block">
@@ -458,7 +458,7 @@ filter: none;
                             <p>
 
                             <p>
-                                O imagine care atrage priviri admirative</p>
+                                Design uimitor</p>
                             </p>
                         </div>
                         <div class="content-block last">
@@ -471,7 +471,7 @@ filter: none;
 
                             <p>
 
-                            <p>Increderea la volan este standard</p>
+                            <p>Produs pentru mediul urban</p>
                             </p>
                         </div>
                     </article>
@@ -487,7 +487,7 @@ filter: none;
 
                             <p>
 
-                            <p>Rezistenta imbinata cu sofisticare urbana</p>
+                            <p>Conceput sa iasa in evidenta.</p>
                             </p>
                         </div>
                         <div class="content-block">
@@ -514,7 +514,7 @@ filter: none;
 
                             <p>
 
-                            <p>Noua imagine EcoSport</p>
+                            <p>Un profil inovator, deosebit.</p>
                             </p>
                         </div>
                     </article>
@@ -523,7 +523,7 @@ filter: none;
                 <div id='tab2' class="secondary-tab-content">
                     <header class="intro-header">
                         <h1 class="bigHeading">
-                            Simti ambianta
+                            Elegant din toate unghiurile.
                         </h1>
                         <span class="highlighter"></span>
 
@@ -547,7 +547,7 @@ filter: none;
 
                             <p>
 
-                            <p>Scaune sculptate, care asigura sprijin</p>
+                            <p>Un habitaclu inteligent, sofisticat</p>
                             </p>
                         </div>
                         <div class="content-block">
@@ -560,7 +560,7 @@ filter: none;
 
                             <p>
 
-                            <p>Ai fiecare comanda la indemana</p>
+                            <p>Scaune sculptate, ce asigura sprijin.</p>
                             </p>
                         </div>
                         <div class="content-block last">
@@ -574,7 +574,7 @@ filter: none;
 
                             <p>
 
-                            <p>Tehnologie SYNC 3 cu ecran tactil </p>
+                            <p>Toate comenzile, la indemana. </p>
                             </p>
                         </div>
                     </article>
@@ -589,7 +589,7 @@ filter: none;
 
                             <p>
 
-                            <p>Un bord curat si ordonat </p>
+                            <p>Mai mult loc in spate, pentru pasageri. </p>
                             </p>
                         </div>
                         <div class="content-block">
@@ -602,7 +602,7 @@ filter: none;
 
                             <p>
 
-                            <p>Spatiu din plin pentru pasagerii din spate</p>
+                            <p>Spatiu din belsug la nivelul capului, picioarelor si coatelor. </p>
                             </p>
                         </div>
                         <div class="content-block last">
@@ -615,7 +615,7 @@ filter: none;
 
                             <p>
 
-                            <p>Spatiu generos la nivelul capului, al picioarelor si lateral</p>
+                            <p>Tehnologie SYNC 3 cu ecran tactil.</p>
                             </p>
                         </div>
                     </article>

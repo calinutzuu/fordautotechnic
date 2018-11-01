@@ -414,13 +414,23 @@ filter: none;
                             <div id='tab1' class="secondary-tab-content">
                                 <header class="intro-header">
                                     <h1 class="bigHeading">
-                                        AVENTURA TA ECOSPORT INCEPE CU DOAR 750 LEI / LUNA*
+                                       FORD ECOSPORT - 12.200 €** PRIN PROGRAMUL RABLA
+                                        <br><br>
+                                        <img
+                                            src="/assets/img/ecosport/eco_rabla_18.jpg"
+                                            alt="Ford EcoSport Promotie"/>
+                                        <br><br>
+                                       FORD ECOSPORT - 11.900 €** + TVA
+                                        <br><br>
+                                        <img
+                                            src="/assets/img/ecosport/eco_ofer_18.jpg"
+                                            alt="Ford EcoSport Promotie"/>
                                     </h1>
                                     <span class="highlighter"></span>
 
                                     <p class="intro-text">
 
-                                    <p>Iti doresti o masina eficienta si inteligenta? Care sa arate si sa se comporte ca
+                                  <!--  <p>Iti doresti o masina eficienta si inteligenta? Care sa arate si sa se comporte ca
                                         un SUV, dar cu un plus de rafinament si design? Si care sa iti garanteze
                                         incredere la volan?<br>
                                         <br>
@@ -428,10 +438,12 @@ filter: none;
                                         <br>
                                         <a HREF="/Promotii/Autoturisme/Noul-EcoSport"><span
                                                 style="color: rgb(0, 0, 255);"><u>Vezi oferta speciala de prelansare</u></span></a>
-                                    </p>
+                                    </p> -->
                                     </p>
                                 </header>
                             </div>
+
+
                             <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
                             <!-- BEGIN [MidPageTabs] -->
                             <!--<div id='tab1' class="mp-tab-wrapper">

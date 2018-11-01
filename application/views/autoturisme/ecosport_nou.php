@@ -177,11 +177,12 @@ filter: none;
             <div itemscope itemtype="http://schema.org/Product" id="nameplateDetails" class="nameplate-vehicle">
                 <!--the text description-->
                 <div class="name-plate-text">
-                    <p class="intro"> Noul</p>
+                    <p class="intro"> </p>
 
                     <h1 class="bigHeading">
                         <span data-selenium="XA_namePlate" itemprop="member" class="nameplate read-txt">Ford</span>
-                        <span data-selenium="XA_model" itemprop="model" itemscope="" itemtype="http://schema.org/Organization" class="mark"> Ecosport</span>
+                        <span data-selenium="XA_model" itemprop="model" itemscope=""
+                              itemtype="http://schema.org/Organization" class="mark"> Ecosport</span>
                         <!--The price -->
                     </h1>
                     <!--The blurb -->
@@ -387,208 +388,198 @@ filter: none;
 <section id="primary-tab-content" class="nameplate-tab-content" data-dynamic-tabcontent="true"
          data-siteterm-backtotop="Back To Top !!!">
 <div class="tab-wrapper">
-<nav class="tabs" id="primaryTabs">
-<ul>
-<!--  isBtfTab true -->
-<!--  tabUrl /cs/ContentServer?cid=1205150774478&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE -->
-<!-- IntoID ::: articleAssetId -->
-<li class="selected"><a href="NoulEcosport/PrezentareGenerala#primaryTabs"
-                        data-ajaxlink="/cs/ContentServer?cid=1205150774478&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE">Prezentare
-        generala</a>
-    <!--This is where the main content for the selected tab will go -->
-    <!-- secondary tabs -->
-    <div class="secondary-tabs tab-content">
-        <nav class="sub-nav">
-            <ul>
-                <li><a href='#tab1' class='omt_tabName'>Prezentare Generala</a></li>
-            </ul>
-        </nav>
-        <!-- isBtfTab : from MidPageTabs true -->
-        <div class="innertab-wrapper">
-            <!--  tabTitle : Prezentare Generala :: btfTabContent : 1205150774861 :: tabContent :  -->
-            <div id='tab1' class="secondary-tab-content">
-                <header class="intro-header">
-                    <h1 class="bigHeading">
-                        NOUL FORD <strong>ECOSPORT</strong>
-                    </h1>
-                    <span class="highlighter"></span>
+    <nav class="tabs" id="primaryTabs">
+        <ul>
+            <!--  isBtfTab true -->
+            <!--  tabUrl /cs/ContentServer?cid=1205150774478&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE -->
+            <!-- IntoID ::: articleAssetId -->
+            <li class="selected"><a href="NoulEcosport/PrezentareGenerala#primaryTabs"
+                                    data-ajaxlink="/cs/ContentServer?cid=1205150774478&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE">Prezentare
+                    generala</a>
+                <!--This is where the main content for the selected tab will go -->
+                <!-- secondary tabs -->
+                <div class="secondary-tabs tab-content">
+                    <nav class="sub-nav">
+                        <ul>
+                            <li><a href='#tab1' class='omt_tabName'>Prezentare Generala</a></li>
+                        </ul>
+                    </nav>
+                    <!-- isBtfTab : from MidPageTabs true -->
+                    <div class="innertab-wrapper">
+                        <!--  tabTitle : Prezentare Generala :: btfTabContent : 1205150774861 :: tabContent :  -->
+                        <div id='tab1' class="secondary-tab-content">
+                            <header class="intro-header">
+                                <h1 class="bigHeading">
+                                    Proiectat pentru jungla urbana. <br><br> Construit pentru a evada din ea.
+                                </h1>
+                                <span class="highlighter"></span>
 
-                    <p class="intro-text">
+                                <p class="intro-text">
 
-                    <p>Capabil, eficient si inteligent. Cu stilul, rafinamentul si toate beneficiile
-                        unui SUV. <br>
-                        <br>
-                        Totul contribuie la definirea noului EcoSport: un vehicul
-                        care garanteaza increderea la volan.</p>
-                    </p>
-                </header>
-                <article class="content-column left">
-                    <div class="img-column"> <img
-                                src="/assets/img/ecosport/1214641468303.jpg"
-                                alt="Ford EcoSport intelligent All-Wheel Drive"/><span
-                                class="fv-overlay-icon"></span></a></div>
-                    <div class="content">
-                        <h3 class="bigHeading02">
-                            Increderea la volan este inclusa.
-                        </h3>
 
-                        <p>
+                            </header>
+                            <article class="content-column left">
+                                <div class="img-column"><img
+                                        src="/assets/img/ecosport/1214641468303.jpg"
+                                        alt="Ford EcoSport intelligent All-Wheel Drive"/><span
+                                        class="fv-overlay-icon"></span></a></div>
+                                <div class="content">
+                                    <h3 class="bigHeading02">
+                                        Incredere si in conditii schimbatoare.
+                                    </h3>
 
-                        <p>Imediat ce urci la volan, te vei afla in mijlocul unei game largi de sisteme
-                            avansate de asistare a soferului. Tractiunea integrala inteligenta (AWD)
-                            ofera manevrabilitate exceptionala in conditii dificile. Sistemul de
-                            asistenta la plecarea din rampa impiedica alunecarea masinii, cand pornesti
-                            din panta. Iar luminile de zi cu LED-uri combina vizibilitatea sporita cu un
-                            nivel ridicat de stil. </p>
-                        </p>
+                                    <p>
+
+                                    <p>Un Sistem de Tractiune Integrala (AWD) Inteligenta poate determina cata
+                                        aderenta,
+                                        balans in viraje si ce nivel de reactie sunt necesare in conditii de vreme
+                                        umeda, uscata sau cu gheata si pe teren schimbator. Tehnologia poate muta
+                                        tractiunea pe puntea din fata sau din spate, in functie de cerinte. Iar
+                                        acest
+                                        sistem de „cuplu la cerere” asigura o manevrabilitate exceptionala si
+                                        eficienta
+                                        imbunatatita. </p>
+                                    </p>
+                                </div>
+                            </article>
+                            <article class="content-column right">
+                                <div class="content">
+                                    <h3 class="bigHeading02">
+                                        Bucura-te de performanta si eficienta.
+                                    </h3>
+
+                                    <p>
+
+                                    <p>EcoSport este oferit cu trei optiuni de motorizare - toate trei la fel de
+                                        inovatoare si avansate. Motorul EcoBoost pe benzina, de 1,0 litri, de 6 ori
+                                        castigator al premiului Motorul International al Anului. Acesta este
+                                        disponibil
+                                        cu optiunile de 125 CP si 140 CP, pentru ca tu sa beneficiezi de toata
+                                        puterea
+                                        unui motor de 1,6 litri conventional, cu o economie remarcabila de
+                                        combustibil
+                                        si emisii de CO2 scazute.<br>
+                                        <br>
+                                    </p>
+                                    </p>
+                                </div>
+                                <div class="img-column"><img
+                                        src="/assets/img/ecosport/1214641467368.jpg"
+                                        alt="Ford EcoSport Ford EcoBoost engine"/><span
+                                        class="fv-overlay-icon"></span></a></div>
+                            </article>
+                            <article class="content-column left">
+                                <div class="img-column"><img
+                                        src="/assets/img/ecosport/1214641468220.jpg"
+                                        alt="Ford EcoSport SYNC 3 with touchscreen"/><span
+                                        class="fv-overlay-icon"></span></a></div>
+                                <div class="content">
+                                    <h3 class="bigHeading02">
+                                        In noul Ford EcoSport, utilitatea intalneste inteligenta.
+                                    </h3>
+
+                                    <p>
+
+                                    <p>Fiecare caracteristica si tehnologie are un anumit scop si toate sunt
+                                        concepute pentru a-ti face calatoriile mai placute. Cu Ford SYNC 3 esti
+                                        permanent conectat si controlezi telefonul, muzica si sistemul de navigatie
+                                        cu ajutorul unor comenzi vocale intuitive sau al unui ecran tactil color, de
+                                        8”. Iar sistemul audio B&O PLAY de 675w iti asigura o experienta acustica
+                                        bogata si intensa, prin intermediul a 10 boxe premium. Gratie elementelor
+                                        bine gandite, precum volanul si scaunele incalzite, ajustabile in patru
+                                        directii, te vei bucura cu siguranta de un condus relaxant, dar stimulant,
+                                        ori de cate ori pornesti la drum. </p>
+                                    </p>
+                                </div>
+                            </article>
+                            <article class="content-column right">
+                                <div class="content">
+                                    <h3 class="bigHeading02">
+                                        Sisteme avansate pentru o franare mai controlata
+                                    </h3>
+
+                                    <p>
+
+                                    <p>Sistemul de franare cu anti-blocare roti (ABS) si distributia electronica a
+                                        fortei de franare lucreaza impreuna pentru a se asigura ca tu franezi
+                                        eficient.</p>
+                                    </p>
+                                </div>
+                                <div class="img-column"><img
+                                        src="/assets/img/ecosport/1214641470148.jpg"
+                                        alt="red Ford EcoSport exterior rear view, in motion, n the road"/><span
+                                        class="fv-overlay-icon"></span></a></div>
+                            </article>
+                            <article class="content-column left">
+                                <div class="img-column"><img
+                                        src="/assets/img/ecosport/1214641468137.jpg"
+                                        alt="Ford EcoSport interior, adjustable load floor"/><span
+                                        class="fv-overlay-icon"></span></a></div>
+                                <div class="content">
+                                    <h3 class="bigHeading02">
+                                        O podea de incarcare utila si reglabila
+                                    </h3>
+
+                                    <p>
+
+                                    <p>Podeaua de incarcare din portbagaj dispune de trei setari de inaltime, asa ca
+                                        poti crea un compartiment ascuns de diverse dimensiuni, sub podeaua
+                                        portbagajului. Cand o setezi in cea mai inalta pozitie si cu scaunele din spate
+                                        rabatate, obtii o podea de incarcare complet plata. </p>
+                                    </p>
+                                </div>
+                            </article>
+                        </div>
+                        <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
+                        <!-- BEGIN [MidPageTabs] -->
+                        <!--<div id='tab1' class="mp-tab-wrapper">
+            <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Prezentare Generala</a></h2> -->
+                        <!--</div>-->
+                        <!-- END [MidPageTabs] -->
+                        <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
+                        <!-- BEGIN [MidPageTabs] -->
+                        <!--<div id='tab1' class="mp-tab-wrapper">
+            <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Prezentare Generala</a></h2> -->
+                        <!--</div>-->
+                        <!-- END [MidPageTabs] -->
+                        <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
+                        <!-- BEGIN [MidPageTabs] -->
+                        <!--<div id='tab1' class="mp-tab-wrapper">
+            <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Prezentare Generala</a></h2> -->
+                        <!--</div>-->
+                        <!-- END [MidPageTabs] -->
+                        <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
+                        <!-- BEGIN [MidPageTabs] -->
+                        <!--<div id='tab1' class="mp-tab-wrapper">
+            <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Prezentare Generala</a></h2> -->
+                        <!--</div>-->
+                        <!-- END [MidPageTabs] -->
                     </div>
-                </article>
-                <article class="content-column right">
-                    <div class="content">
-                        <h3 class="bigHeading02">
-                            Bucura-te de performanta si eficienta.
-                        </h3>
-
-                        <p>
-
-                        <p>EcoSport este oferit cu trei optiuni de motorizare - toate trei la fel de
-                            inovatoare si avansate. Motorul EcoBoost pe benzina, de 1,0 litri, de 6 ori
-                            castigator al premiului Motorul International al Anului*. Acesta este
-                            disponibil cu optiunile de 125 CP si 140 CP, pentru ca tu sa beneficiezi de
-                            toata puterea unui motor de 1,6 litri conventional, cu o economie
-                            remarcabila de combustibil si emisii de CO<sub>2</sub> scazute. Motorul TDCi
-                            diesel de 1,5 litri dezvolta 100 CP si prezinta emisii de CO<sub>2</sub> de
-                            doar 107 g/km. Iar motorul diesel EcoBlue supraalimentat, de 1,5 litri,
-                            ofera o putere de 125 CP cu emisii de CO<sub>2</sub> de la 119 g/km. <br>
-                            <br> <span style="font-size: smaller;">*Castigator la categoria sub 1,0 litri.</span>
-                        </p>
-                        </p>
-                    </div>
-                    <div class="img-column"> <img
-                                src="/assets/img/ecosport/1214641467368.jpg"
-                                alt="Ford EcoSport Ford EcoBoost engine"/><span
-                                class="fv-overlay-icon"></span></a></div>
-                </article>
-                <article class="content-column left">
-                    <div class="img-column"> <img
-                                src="/assets/img/ecosport/1214641468220.jpg"
-                                alt="Ford EcoSport SYNC 3 with touchscreen"/><span
-                                class="fv-overlay-icon"></span></a></div>
-                    <div class="content">
-                        <h3 class="bigHeading02">
-                            In noul Ford EcoSport, utilitatea intalneste inteligenta.
-                        </h3>
-
-                        <p>
-
-                        <p>Fiecare caracteristica si tehnologie are un anumit scop si toate sunt
-                            concepute pentru a-ti face calatoriile mai placute. Cu Ford SYNC 3 esti
-                            permanent conectat si controlezi telefonul, muzica si sistemul de navigatie
-                            cu ajutorul unor comenzi vocale intuitive sau al unui ecran tactil color, de
-                            8”. Iar sistemul audio B&O PLAY de 675w iti asigura o experienta acustica
-                            bogata si intensa, prin intermediul a 10 boxe premium. Gratie elementelor
-                            bine gandite, precum volanul si scaunele incalzite, ajustabile in patru
-                            directii, te vei bucura cu siguranta de un condus relaxant, dar stimulant,
-                            ori de cate ori pornesti la drum. </p>
-                        </p>
-                    </div>
-                </article>
-                <article class="content-column right">
-                    <div class="content">
-                        <h3 class="bigHeading02">
-                            Ne gandim mereu la siguranta ta Siguranta ta e prioritatea noastra.
-                        </h3>
-
-                        <p>
-
-                        <p>De aceea, noul EcoSport incorporeaza tehnologii si sisteme concepute sa te
-                            protejeze pe tine, pasagerii si masina ta. Printre dotarile-cheie se numara
-                            Sistemul de Franare cu Anti-blocare Roti, Controlul Electronic al
-                            Stabilitatii, Controlul Tractiunii si Sistemul de Monitorizare a Presiunii
-                            din Pneuri. Este disponibila, de asemenea, o gama completa de airbaguri
-                            frontale, laterale, la nivelul genunchilor si tip cortina. Din aceste
-                            motive, plus multe altele, masina a primit un calificativ de 4 stele din
-                            partea Euro NCAP.</p>
-                        </p>
-                    </div>
-                    <div class="img-column"> <img
-                                src="/assets/img/ecosport/1214641470148.jpg"
-                                alt="red Ford EcoSport exterior rear view, in motion, n the road"/><span
-                                class="fv-overlay-icon"></span></a></div>
-                </article>
-                <article class="content-column left">
-                    <div class="img-column"><img
-                                src="/assets/img/ecosport/1214641468137.jpg"
-                                alt="Ford EcoSport interior, adjustable load floor"/><span
-                                class="fv-overlay-icon"></span></a></div>
-                    <div class="content">
-                        <h3 class="bigHeading02">
-                            Flexibilitate impresionanta.
-                        </h3>
-
-                        <p>
-
-                        <p>Cu noul EcoSport beneficiezi de un interior surprinzator de incapator.
-                            Utilizarea inteligenta a spatiului si a compartimentelor de depozitare e
-                            dublata de posibilitatea de rabatare si divizare 60/40 a scaunelor din
-                            spate. Perna reversibila permite rabatarea completa a spatarelor, pentru o
-                            incarcare mai usoara a bagajelor. Iar podeaua de incarcare ajustabila poate
-                            fi montata in trei pozitii. O caracteristica ideala pentru momentele cand nu
-                            vrei sa pui lucrurile unele peste altele. </p>
-                        </p>
-                    </div>
-                </article>
-            </div>
-            <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
-            <!-- BEGIN [MidPageTabs] -->
-            <!--<div id='tab1' class="mp-tab-wrapper">
-<h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Prezentare Generala</a></h2> -->
-            <!--</div>-->
-            <!-- END [MidPageTabs] -->
-            <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
-            <!-- BEGIN [MidPageTabs] -->
-            <!--<div id='tab1' class="mp-tab-wrapper">
-<h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Prezentare Generala</a></h2> -->
-            <!--</div>-->
-            <!-- END [MidPageTabs] -->
-            <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
-            <!-- BEGIN [MidPageTabs] -->
-            <!--<div id='tab1' class="mp-tab-wrapper">
-<h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Prezentare Generala</a></h2> -->
-            <!--</div>-->
-            <!-- END [MidPageTabs] -->
-            <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
-            <!-- BEGIN [MidPageTabs] -->
-            <!--<div id='tab1' class="mp-tab-wrapper">
-<h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Prezentare Generala</a></h2> -->
-            <!--</div>-->
-            <!-- END [MidPageTabs] -->
-        </div>
-    </div>
-</li>
-<!--  isBtfTab  -->
-<!--  tabUrl /cs/ContentServer?cid=1205150774478&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205150862962&amp;tabName=PreturisiPromotii&amp;c=Page&amp;site=RORO4_ENGINE -->
-<li><a href="NoulEcosport/PreturisiPromotii#primaryTabs" class=" "
-       data-ajaxlink="/cs/ContentServer?cid=1205150774478&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205150862962&amp;tabName=PreturisiPromotii&amp;c=Page&amp;site=RORO4_ENGINE">PROMOTII</a>
-    <!-- secondary tabs -->
-    <!--  midPageTabId : 1205150862808 -->
-</li>
-<!--  isBtfTab  -->
-<!--  tabUrl /cs/ContentServer?cid=1205150774478&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205150774240&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE -->
-<li><a href="NoulEcosport/Design#primaryTabs" class=" "
-       data-ajaxlink="/cs/ContentServer?cid=1205150774478&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205150774240&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE">Design</a>
-    <!-- secondary tabs -->
-    <!--  midPageTabId : 1205150775188 -->
-</li>
-<!--  isBtfTab  -->
-<!--  tabUrl /cs/ContentServer?cid=1205150774478&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205150774231&amp;tabName=Caracteristici&amp;c=Page&amp;site=RORO4_ENGINE -->
-<li><a href="NoulEcosport/Caracteristici#primaryTabs" class=" "
-       data-ajaxlink="/cs/ContentServer?cid=1205150774478&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205150774231&amp;tabName=Caracteristici&amp;c=Page&amp;site=RORO4_ENGINE">Caracteristici</a>
-    <!-- secondary tabs -->
-    <!--  midPageTabId : 1205150777472 -->
-</li>
-</ul>
-</nav>
+                </div>
+            </li>
+            <!--  isBtfTab  -->
+            <!--  tabUrl /cs/ContentServer?cid=1205150774478&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205150862962&amp;tabName=PreturisiPromotii&amp;c=Page&amp;site=RORO4_ENGINE -->
+            <li><a href="NoulEcosport/PreturisiPromotii#primaryTabs" class=" "
+                   data-ajaxlink="/cs/ContentServer?cid=1205150774478&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205150862962&amp;tabName=PreturisiPromotii&amp;c=Page&amp;site=RORO4_ENGINE">PROMOTII</a>
+                <!-- secondary tabs -->
+                <!--  midPageTabId : 1205150862808 -->
+            </li>
+            <!--  isBtfTab  -->
+            <!--  tabUrl /cs/ContentServer?cid=1205150774478&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205150774240&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE -->
+            <li><a href="NoulEcosport/Design#primaryTabs" class=" "
+                   data-ajaxlink="/cs/ContentServer?cid=1205150774478&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205150774240&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE">Design</a>
+                <!-- secondary tabs -->
+                <!--  midPageTabId : 1205150775188 -->
+            </li>
+            <!--  isBtfTab  -->
+            <!--  tabUrl /cs/ContentServer?cid=1205150774478&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205150774231&amp;tabName=Caracteristici&amp;c=Page&amp;site=RORO4_ENGINE -->
+            <li><a href="NoulEcosport/Caracteristici#primaryTabs" class=" "
+                   data-ajaxlink="/cs/ContentServer?cid=1205150774478&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205150774231&amp;tabName=Caracteristici&amp;c=Page&amp;site=RORO4_ENGINE">Caracteristici</a>
+                <!-- secondary tabs -->
+                <!--  midPageTabId : 1205150777472 -->
+            </li>
+        </ul>
+    </nav>
 </div>
 <article class="nameplate-main-content" id="tabs">
 </article>

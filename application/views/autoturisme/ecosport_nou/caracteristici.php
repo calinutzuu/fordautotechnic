@@ -14,7 +14,6 @@ filter: none;
 <!--<![endif]-->
 
 
-
 <body id="default" itemscope itemtype="http://schema.org/WebPage">
 <script>
 </script>
@@ -431,24 +430,22 @@ filter: none;
 <div id='tab1' class="secondary-tab-content">
     <header class="intro-header">
         <h1 class="bigHeading">
-            Tehnologii, nu gadgeturi
+            Experienta la volan
         </h1>
         <span class="highlighter"></span>
 
         <p class="intro-text">
 
-        <p>Intotdeauna cele mai bune tehnologii sunt cele care fac lumea mai buna, rezolva o problema sau au un
-            beneficiu evident.
-            Exact asa ceva vei gasi si in noul EcoSport. <br>
-            <br>
-            De la Tractiunea Integrala Inteligenta, la Sistemul de Asistenta la Pornirea din Rampa si Ford SYNC.
-            Descoperi tehnologii care transforma sofatul intr-o activitate relaxanta si satisfacatoare.</p>
+        <p>Cele mai bune tehnologii sunt mereu cele care aduc un plus in viata de zi cu zi, rezolva o problema sau
+            prezinta un avantaj clar. Exact asta vei descoperi in Ford EcoSport. De la Tractiunea integrala inteligenta,
+            la Asistenta la pornirea din rampa si Ford SYNC, descoperi tehnologii care fac din condus o activitate
+            relaxanta si placuta, iar viata ta va fi cat mai fericita si mai lipsita de stres posibil.</p>
         </p>
     </header>
     <article class="content-column left">
-        <div class="img-column"> <img
-                    src="/assets/img/ecosport/1214641468967.jpg"
-                    alt="Ford EcoSport intelligent All-Wheel Drive"/><span class="fv-overlay-icon"></span></div>
+        <div class="img-column"><img
+                src="/assets/img/ecosport/1214641468967.jpg"
+                alt="Ford EcoSport intelligent All-Wheel Drive"/><span class="fv-overlay-icon"></span></div>
         <div class="content">
             <h3 class="bigHeading02">
                 Incredere si in conditii schimbatoare.
@@ -466,28 +463,86 @@ filter: none;
     <article class="content-column right">
         <div class="content">
             <h3 class="bigHeading02">
-                Un plus de control in cazul pornirilor din rampa
+                Un plus de control in cazul pornirilor in rampa
             </h3>
 
             <p>
 
-            <p>Sistemul de Asistenta la Pornirea din Rampa impiedica temporar alunecarea in spate (sau in fata) cand
-                pleci din panta. Sistemul functioneaza prin mentinerea presiunii la nivelul sistemului de fanare, pentru
-                un interval suplimentar de 2,5 secunde, oferindu-ti mai mult timp si control cand muti piciorul de pe
-                pedala de frana, pe cea de acceleratie. Acest sistem este de asemenea util cand opresti si pornesti
-                masina pe suprafete alunecoase. </p>
+            <p>Sistemul de asistenta la pornirea din rampa impiedica temporar alunecarea in spate sau in fata, cand
+                pornesti din panta. Sistemul functioneaza prin mentinerea presiunii la nivelul sistemului de franare
+                pentru un interval suplimentar de 2-3 secunde, asigurandu-ti mai mult timp si control, cand muti
+                piciorul de pe pedala de frana, pe cea de acceleratie. Acest sistem este de asemenea util cand opresti
+                si pornesti autovehiculul pe suprafete alunecoase. </p>
             </p>
         </div>
-        <div class="img-column"> <img
-                    src="/assets/img/ecosport/1214641467546.jpg"
-                    alt="blue Ford EcoSport exterior rear view, Hill Start Assist"/><span
-                    class="fv-overlay-icon"></span></div>
+        <div class="img-column"><img
+                src="/assets/img/ecosport/1214641467546.jpg"
+                alt="blue Ford EcoSport exterior rear view, Hill Start Assist"/><span
+                class="fv-overlay-icon"></span></div>
     </article>
     <article class='two-column'>
         <div class="content-block">
             <img
-                    src="/assets/img/ecosport/1214641468804.jpg"
-                    alt="red Ford EcoSport headlamp, LED daytime running lights"/><span class="fv-overlay-icon"></span>
+                src="/assets/img/ecosport/1214641468804.jpg"
+                alt="red Ford EcoSport headlamp, LED daytime running lights"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+                Asistenta de urgenta Ford SYNC
+            </h3>
+
+            <p>
+
+            <p>Un aspect important al tehnologiei Ford SYNC care iti poate salva viata este Asistenta de urgenta . In
+                cazul putin probabil al unui accident, cand se activeaza airbagul sau se dezactiveaza pompa de
+                carburant, tehnologia poate folosi un telefon mobil imperecheat si conectat prin Bluetooth® pentru a
+                efectua automat un apel direct catre Serviciile de urgenta, in locul tau Poti alege sa intrerupi apelul
+                sau sa discuti cu personalul serviciului de urgenta, daca e cazul. Extrem de important, sistemul va
+                furniza informatii vitale, precum coordonatele tale GPS, chiar si atunci cand ti-ai pierdut
+                cunostinta.</p>
+            </p>
+        </div>
+        <div class="content-block last">
+            <img
+                src="/assets/img/ecosport/1214641469902.jpg"
+                alt="Ford EcoSport SYNC 3 with Emergency Assistance"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+                Tehnologie care vede ce tu nu poti vedea
+            </h3>
+
+            <p>
+
+            <p>Sistemul de asistenta pentru unghiul mort (BLIS) foloseste senzori RADAR pentru a scana unghiurile moarte
+                de pe ambele parti ale vehiculului. Si daca detecteaza un vehicul pe care tu nu il poti vedea, o lumina
+                portocalie, afisata in mod vizibil in oglinda laterala de pe partea corespunzatoare, se va aprinde
+                pentru a te avertiza.
+            </p>
+            </p>
+        </div>
+    </article>
+
+    <article class='two-column'>
+        <div class="content-block">
+            <img
+                src="/assets/img/ecosport/12146414688044.jpg"
+                alt="red Ford EcoSport headlamp, LED daytime running lights"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+                Marsarier mai simplu si mai sigur
+            </h3>
+
+            <p>
+
+            <p>Stalpi opritori, biciclete, ziduri joase… Camera video pentru vedere spate iti arata tot ce se afla in
+                spatele masinii, pe un ecran integrat in consola centrala. Sistemul iti arata obiecte pe care le-ai
+                putea omite si in plus, afiseaza linii virtuale pentru a te ajuta sa parchezi si in cele mai inguste
+                spatii. Camera se activeaza automat cand selectezi treapta de marsarier.</p>
+            </p>
+        </div>
+        <div class="content-block last">
+            <img
+                src="/assets/img/ecosport/12146414699022.jpg"
+                alt="Ford EcoSport SYNC 3 with Emergency Assistance"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Lumini de zi cu LED-uri pentru stil si vizibilitate
@@ -496,66 +551,104 @@ filter: none;
             <p>
 
             <p>Foarte eficiente energetic, aceste lumini de zi avansate te ajuta sa fii vizibil si in timpul zilei si sa
-                vezi clar pe timpul noptii.</p>
+                vezi clar pe timpul noptii.
+            </p>
             </p>
         </div>
-        <div class="content-block last">
+    </article>
+
+    <article class='two-column'>
+        <div class="content-block">
             <img
-                    src="/assets/img/ecosport/1214641469902.jpg"
-                    alt="Ford EcoSport SYNC 3 with Emergency Assistance"/><span class="fv-overlay-icon"></span>
+                src="/assets/img/ecosport/121464146880441.jpg"
+                alt="red Ford EcoSport headlamp, LED daytime running lights"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
-                Asistenta de urgenta: suna dupa ajutor cand tu nu poti
+                Senzori care faciliteaza procedura de parcare
             </h3>
 
             <p>
 
-            <p>Un aspect important al tehnologiei Ford SYNC este Asistenta de Urgenta*. In caz de accident, cand se
-                activeaza airbagul sau se dezactiveaza pompa de carburant, tehnologia poate utiliza un telefon mobil
-                imperecheat si conectat prin Bluetooth&reg; pentru a te ajuta sa efectuezi un apel direct catre
-                Serviciile de Urgenta. Poti alege sa intrerupi apelul sau sa discuti cu personalul Serviciului de
-                Urgenta. Un aspect extrem de important e ca sistemul va furniza informatii vitale, precum coordonatele
-                tale GPS, chiar si atunci cand tu nu poti face asta* <br> <br> <span style="font-size: smaller;">*Asistenta de Urgenta Ford e disponibila in peste 40 de tari din Europa. Aceasta dotare functioneaza cand este conectata cu un telefon mobil compatibil pe care il ai la tine, in momentul in care un airbag este declansat (cu exceptia airbagurilor pentru genunchi) sau atunci cand un senzor care inregistreaza o defectiune intrerupe pompa de combustibil. Functia de Mesagerie si Asistenta de Urgenta nu sunt acceptate in toate limbile europene. (Consulta site-ul Web Ford local pentru cele mai recente informatii).</span>
+            <p>Senzorii de distanta la parcare te ajuta sa determini distanta dintre vehiculul tau si orice fel de
+                obstacol din spatele tau. Cand detecteaza un obiect, senzorii emit o avertizare sonora care se
+                intensifica, cu cat te apropii mai mult de obstacol.</p>
+            </p>
+        </div>
+        <div class="content-block last">
+            <img
+                src="/assets/img/ecosport/121464146990221.jpg"
+                alt="Ford EcoSport SYNC 3 with Emergency Assistance"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+                Drumuri mai putin obositoare, mai economice
+            </h3>
+
+            <p>
+
+            <p>Tempomatul prevazut cu dispozitivul ajustabil de limitare a vitezei te ajuta sa-ti mentii vehiculul in
+                limita de viteza prestabilita de tine. Te poate ajuta sa economisesti combustibil, sa reduci situatiile
+                de depasire a vitezei si, la fel ca toate sistemele de control al vitezei, iti permite sa mentii viteza
+                aleasa fara sa fi nevoit sa tii piciorul pe pedala de acceleratie.
             </p>
             </p>
         </div>
+    </article>
+
+    <article class='two-column'>
+        <div class="content-block">
+            <img
+                src="/assets/img/ecosport/1221464146880441.jpg"
+                alt="red Ford EcoSport headlamp, LED daytime running lights"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+                Directie servoasistata care reactioneaza la orice situatie
+            </h3>
+
+            <p>
+
+            <p>Directia servoasistata electric (EPAS) se ajusteaza automat la viteza de rulare si la conditiile de drum.
+                La viteze reduse, sistemul face ca rotirea volanului sa fie mai usoara, imbunatatind manevrabilitatea.
+                La viteze ridicate, cand ai nevoie de mai mult control , directia devine mai rigida. Acum, cu ajutorul
+                controlului asupra devierii de la cursul normal, EPAS ia de asemenea in calcul, vantul care bate din
+                fata si alte conditii de drum, in timp ce Controlul activ al vibratiilor reduce vibratiile nedorite,
+                resimtite la nivelul volanului.</p>
+            </p>
+        </div>
+
     </article>
 </div>
 <!--  tabTitle : Performanta si eficienta :: btfTabContent : 1205150774899 :: tabContent :  -->
 <div id='tab2' class="secondary-tab-content">
     <header class="intro-header">
         <h1 class="bigHeading">
-            Performanta si eficienta fara compromis
+            Performanta
         </h1>
         <span class="highlighter"></span>
 
         <p class="intro-text">
 
-        <p>Apreciat in intreaga lume, motorul pe benzina Ford EcoBoost de 1 litru reprezinta perfect nivelul atins de
-            tehnologia motoarelor.
-            <br><br>
-            Proiectat pentru a oferi echilibrul ideal de putere, performanta si emisii reduse, EcoBoost
-            e un motor al viitorului disponibil aici si acum. </p>
+        <p>Apreciatul motor pe benzina Ford EcoBoost de 1 litru este exemplul perfect pentru cat de mult a avansat
+            tehnologia motoarelor. Conceput pentru a oferi echilibrul ideal de putere, performanta si emisii reduse,
+            EcoBoost e neindoielnic, un motor al viitorului. </p>
         </p>
     </header>
     <article class="content-column left">
         <div class="img-column"><img
-                    src="/assets/img/ecosport/1214641469982.jpg"
-                    alt="1.0-litre 3-cylinder EcoBoost petrol engine, 2017 International Engine of the Year, sub-1.0-litre category winner"/><span
-                    class="fv-overlay-icon"></span></div>
+                src="/assets/img/ecosport/1214641469982.jpg"
+                alt="1.0-litre 3-cylinder EcoBoost petrol engine, 2017 International Engine of the Year, sub-1.0-litre category winner"/><span
+                class="fv-overlay-icon"></span></div>
         <div class="content">
             <h3 class="bigHeading02">
-                Profitati la maximum de motor
+                Bucura-te de performanta si eficienta.
             </h3>
 
             <p>
 
-            <p>Motorul revolutionar EcoBoost pe benzina, de 1,0 litri, cu 3 cilindri este castigator de sase ori al
-                premiului Motorul international al anului*. Si nu este de mirare. Cu optiuni de 125 CP si 140 CP, te vei
-                bucura de performantele excelente la care te-ai astepta de la un motor de 1,6 litri conventional, insa
-                cu un consum mai redus de combustibil si un nivel al emisiilor de CO<sub>2</sub> mai scazut. <br>
-                <br>
-                <span style="font-size: smaller;">*Castigator al premiului Motorul international al anului 2017, categoria sub 1 litru.</span>
+            <p>EcoSport este oferit cu trei optiuni de motorizare - toate trei la fel de inovatoare si avansate. Motorul
+                Ford EcoBoost pe benzina, de 1,0 litri, de 6 ori castigator al premiului Motorul International al
+                Anului. Acesta este disponibil cu optiunile de 125 CP si 140 CP, pentru ca tu sa beneficiezi de toata
+                puterea unui motor de 1,6 litri conventional, cu o economie remarcabila de combustibil si emisii de CO2
+                scazute.
             </p>
             </p>
         </div>
@@ -568,149 +661,388 @@ filter: none;
 
             <p>
 
-            <p>Motorul Ford EcoBlue de 1,5 litri este un motor diesel nou-nout, iar noul EcoSport este primul vehicul
-                care isi trage puterea din acesta. Tehnologia sa cu patru cilindri, supraalimentare si injectie de
-                combustibil poate dezvolta o putere remarcabila de 125 CP. Motorul e silentios, rafinat si foarte
-                eficient din punct de vedere al combustibilului: 4,6 l/100 km. in timp ce emisiile de CO<sub>2</sub>
-                sunt de numai 119 g/km.</p>
+            <p>Motorul Ford EcoBlue de 1,5 litri este un motor diesel nou-nout, iar EcoSport este primul vehicul care
+                isi trage puterea din acesta. Tehnologia sa cu patru cilindri, supraalimentare si injectie de
+                combustibil poate dezvolta o putere remarcabila de 125 CP.</p>
             </p>
         </div>
         <div class="img-column"><img
-                    src="/assets/img/ecosport/1214641469139.jpg"
-                    alt="Ford EcoSport Ford EcoBlue engine"/><span class="fv-overlay-icon"></span></div>
+                src="/assets/img/ecosport/1214641469139.jpg"
+                alt="Ford EcoSport Ford EcoBlue engine"/><span class="fv-overlay-icon"></span></div>
     </article>
-</div>
-<!--  tabTitle : Confort si avantaje :: btfTabContent : 1205150776897 :: tabContent :  -->
-<div id='tab3' class="secondary-tab-content">
-    <header class="intro-header">
-        <h1 class="bigHeading">
-            Factorul de surpriza si incantare
-        </h1>
-        <span class="highlighter"></span>
-
-        <p class="intro-text">
-
-        <p>Tehnologie de informare si divertisment de ultima ora, sistem audio B&O PLAY sofisticat, mici elemente de
-            lux, precum scaunele si volanul incalzite, si multe alte surprize placute.</p>
-        </p>
-    </header>
     <article class="content-column left">
-        <div class="img-column"> <img
-                    src="/assets/img/ecosport/1214641468386.jpg"
-                    alt="Ford EcoSport SYNC 3 with touchscreen"/><span class="fv-overlay-icon"></span></div>
+        <div class="img-column"><img
+                src="/assets/img/ecosport/12146414699882.jpg"
+                alt="1.0-litre 3-cylinder EcoBoost petrol engine, 2017 International Engine of the Year, sub-1.0-litre category winner"/><span
+                class="fv-overlay-icon"></span></div>
         <div class="content">
             <h3 class="bigHeading02">
-                Tehnologie fara cusur, pe care o poti controla vocal
+                Folosesti mai putin combustibil, cu functia pornire-oprire automata
             </h3>
 
             <p>
 
-            <p>Ford SYNC 3 este un sistem de ultima ora care iti permite sa fii permanent conectat si sa controlezi
-                telefonul, muzica si sistemul de navigatie, cu ajutorul unor comenzi vocale intuitive sau al unui ecran
-                tactil color de 8”. Se conecteaza la Apple CarPlay si Android Auto, iar cu AppLink poti sa accesezi
-                unele dintre aplicatiile tale preferate de pe smartphone, inclusiv Spotify. Live Traffic te poate ajuta
-                sa eviti ambuteiajele si poti chiar sa ceri o lista cu restaurantele locale, rostind, pur si simplu,
-                „I'm hungry” (Mi-e foame). Sau poti accesa Ghidul Michelin pentru a face o rezervare la un restaurant
-                care te inspira.</p>
+            <p>Atunci cand te opresti la semafor sau cand astepti intr-o coloana, aceasta tehnologie poate opri automat
+                motorul (fara a opri insa alimentarea sistemelor esentiale, precum farurile, aerul conditionat, radioul
+                si sistemul Ford SYNC). De indata ce esti gata sa pleci de pe loc, apasa, ca de obicei, pe pedala de
+                ambreiaj si selecteaza prima treapta de viteza sau apasa pedala de acceleratie, in cazul unei transmisii
+                automate, iar sistemul porneste din nou motorul. Sistemul Auto-Start-Stop e deosebit de eficient in
+                orase, unde poate reduce consumul de combustibil cu pana la 10% (in mediul urban).
+            </p>
             </p>
         </div>
     </article>
     <article class="content-column right">
         <div class="content">
             <h3 class="bigHeading02">
-                Cu B&O PLAY, totul suna live
+                Schimba vitezele rapid, usor, fluid
             </h3>
 
             <p>
 
-            <p>Oricare ar fi gusturile tale, muzica merita sa sune asa cum a intentionat artistul. Si exact asa se
-                intampla in noul EcoSport. De ce? Deoarece este disponibil cu B&O PLAY. Acest sistem audio premium de
-                675 wati ofera un sunet bogat si puternic, printr-un sistem ce include 10 difuzoare, woofer si
-                subwoofer. Iar aceasta tehnologie avansata a fost special conceputa, dezvoltata si reglata pentru noul
-                EcoSport de catre specialistii in acustica ai B&O PLAY. Asa ca mareste volumul si bucura-te de trupele
-                si piesele favorite in sala de concerte a masinii tale.</p>
+            <p>Cutie de viteze manuala, cu 6 viteze, cu tehnologie avansata synchromesh, a fost proiectata pentru a
+                efectua mai rapid si mai precis schimbarea vitezelor, inclusiv in marsarier. Iar asta nu doar ca face
+                sofatul mai placut si mai antrenant, ci poate contribui si la reducerea zgomotului si a consumului de
+                combustibil.</p>
             </p>
         </div>
-        <div class="img-column"> <img
-                    src="/assets/img/ecosport/1214641467971.jpg"
-                    alt="Ford EcoSport B&O Play"/><span class="fv-overlay-icon"></span></div>
+        <div class="img-column"><img
+                src="/assets/img/ecosport/12146414691339.jpg"
+                alt="Ford EcoSport Ford EcoBlue engine"/><span class="fv-overlay-icon"></span></div>
     </article>
-    <article class='three-column'>
-        <div class="content-block">
-            <img
-                    src="/assets/img/ecosport/1214641467895.jpg"
-                    alt="Ford EcoSport heated steering wheel"/><span class="fv-overlay-icon"></span>
 
+    <article class="content-column left">
+        <div class="img-column"><img
+                src="/assets/img/ecosport/1221464146999882.jpg"
+                alt="1.0-litre 3-cylinder EcoBoost petrol engine, 2017 International Engine of the Year, sub-1.0-litre category winner"/><span
+                class="fv-overlay-icon"></span></div>
+        <div class="content">
             <h3 class="bigHeading02">
-                Scaune si volan care tin de cald
+                Schimba vitezele rapid, din varful degetelor
             </h3>
 
             <p>
 
-            <p>Sunt disponibile, optional, scaune incalzite, atat pentru sofer, cat si pentru pasagerul din fata. Exista
-                trei setari de incalzire diferite, pe care le poti stabili cu usurinta prin intermediul comutatoarelor
-                cu buton, care controleaza scaunele incalzite din stanga si din dreapta, o lumina rosie aprinzandu-se
-                pentru a indica setarea nivelului de incalzire ales. Indiferent daca este o dimineata friguroasa, o zi
-                racoroasa sau o noapte geroasa, volanul incalzit iti va incalzi cu siguranta mainile mai bine decat o
-                pereche de manusi.</p>
+            <p>Regasindu-se in mod firesc pe masinile sport de inalta performanta, padele pentru schimbarea vitezelor
+                sunt disponibile cu ambele variante de transmisii: PowerShift si automata cu 6 trepte. Aceasta
+                tehnologie inspirata de masinile de curse faciliteaza schimbarea rapida si fara efort a treptelor de
+                viteza. In plus, poti schimba treptele mai eficient, folosind padelele montate pe volan.
             </p>
-        </div>
-        <div class="content-block">
-            <img
-                    src="/assets/img/ecosport/1214641467729.jpg"
-                    alt="Ford EcoSport windscreen, Quickclear"/><span class="fv-overlay-icon"></span>
-
-            <h3 class="bigHeading02">
-                Curata parbrizul rapid cu Quickclear
-            </h3>
-
-            <p>
-
-            <p>Aceasta dotare inteligenta a fost creata pentru ca tu sa pornesti rapid in diminetile geroase. Trebuie
-                doar sa atingi un buton si filamente extrem de subtiri se supraincalzesc pentru a curata parbrizul de
-                gheata, ceata si abur, precum si pentru a ajuta la dezghetarea stergatoarelor. </p>
-            </p>
-        </div>
-        <div class="content-block last">
-            <img
-                    src="/assets/img/ecosport/1214641469823.jpg"
-                    alt="Ford EcoSport power-foldable wing mirrors"/><span class="fv-overlay-icon"></span>
-
-            <h3 class="bigHeading02">
-                Cu oglinzi care se pot proteja singure
-            </h3>
-
-            <p>
-
-            <p>Pentru a evita deteriorarea accidentala, oglinzile laterale pliabile electric se pliaza catre interior
-                dupa ce ai parcat. Atunci cand sunt rabatate, oglinzile protejeaza, de asemenea, elegantele indicatoare
-                integrate. Sunt si incalzite, ceea ce inseamna ca puteti pleca la drum mai repede in diminetile
-                geroase.</p>
             </p>
         </div>
     </article>
+    <article class="content-column right">
+        <div class="content">
+            <h3 class="bigHeading02">
+                Schimbari ale treptelor de viteza, mai eficiente din punct de vedere al consumului de combustibil
+            </h3>
+
+            <p>
+
+            <p>Un indicator luminos de pe panoul de bord iti arata momentul optim de schimbare a treptei de viteza,
+                pentru o eficienta maxima a consumului de combustibil. Aceasta reprezinta o modalitate simpla si
+                eficienta, de a asigura deplasari cat mai economice.</p>
+            </p>
+        </div>
+        <div class="img-column"><img
+                src="/assets/img/ecosport/121146414691339.jpg"
+                alt="Ford EcoSport Ford EcoBlue engine"/><span class="fv-overlay-icon"></span></div>
+    </article>
+
+    <article class="content-column left">
+        <div class="img-column"><img
+                src="/assets/img/ecosport/12211464146999882.jpg"
+                alt="1.0-litre 3-cylinder EcoBoost petrol engine, 2017 International Engine of the Year, sub-1.0-litre category winner"/><span
+                class="fv-overlay-icon"></span></div>
+        <div class="content">
+            <h3 class="bigHeading02">
+                Informatii esentiale despre calatoria ta
+            </h3>
+
+            <p>
+
+            <p>Computerul de bord iti ofera informatii si cifre utile despre distanta parcursa, consumul de combustibil,
+                viteza si temperatura aerului din exterior. De asemenea, acesta precizeaza „distanta pana la golire”:
+                aproximativ ce distanta poti parcurge cu combustibilul ramas in rezervor. Aceasta informatie este utila
+                mai ales in timpul calatoriilor lungi sau daca urmeaza sa te deplasezi intr-un loc izolat.
+            </p>
+            </p>
+        </div>
+    </article>
+
+</div>
+<!--  tabTitle : Confort si avantaje :: btfTabContent : 1205150776897 :: tabContent :  -->
+<div id='tab3' class="secondary-tab-content">
+<header class="intro-header">
+    <h1 class="bigHeading">
+        Confort
+    </h1>
+    <span class="highlighter"></span>
+
+    <p class="intro-text">
+
+    <p>Unele sisteme de siguranta sunt concepute pentru a te proteja pe tine, pasagerii Tehnologie de
+        info-divertisment de ultima ora, sistem audio B&O PLAY sofisticat, mici elemente de lux, cum ar fi volanul
+        si scaunele incalzite si multe, multe alte surprize placute.</p>
+    </p>
+</header>
+<article class="content-column left">
+    <div class="img-column"><img
+            src="/assets/img/ecosport/1214641468386.jpg"
+            alt="Ford EcoSport SYNC 3 with touchscreen"/><span class="fv-overlay-icon"></span></div>
+    <div class="content">
+        <h3 class="bigHeading02">
+            Tehnologie fara cusur, pe care o poti controla vocal
+        </h3>
+
+        <p>
+
+        <p>Ford SYNC 3 este un sistem de ultima ora care iti permite sa fii permanent conectat si sa controlezi
+            telefonul, muzica si sistemul de navigatie, cu ajutorul unor comenzi vocale intuitive sau al unui ecran
+            tactil color de 8”. Se conecteaza la Apple CarPlay si Android Auto, iar cu AppLink poti sa accesezi
+            unele dintre aplicatiile tale preferate de pe smartphone, inclusiv Spotify. Live Traffic te poate ajuta
+            sa eviti ambuteiajele si poti chiar sa ceri o lista cu restaurantele locale, rostind, pur si simplu,
+            „I'm hungry” (Mi-e foame). Sau poti accesa Ghidul Michelin pentru a face o rezervare la un restaurant
+            care te inspira.</p>
+        </p>
+    </div>
+</article>
+<article class="content-column right">
+    <div class="content">
+        <h3 class="bigHeading02">
+            Cu B&O PLAY, totul suna live
+        </h3>
+
+        <p>
+
+        <p>Oricare ar fi gusturile tale, muzica merita sa sune asa cum a intentionat artistul. Si exact asa se
+            intampla in noul EcoSport. De ce? Deoarece este disponibil cu B&O PLAY. Acest sistem audio premium de
+            675 wati ofera un sunet bogat si puternic, printr-un sistem ce include 10 difuzoare, woofer si
+            subwoofer. Iar aceasta tehnologie avansata a fost special conceputa, dezvoltata si reglata pentru noul
+            EcoSport de catre specialistii in acustica ai B&O PLAY. Asa ca mareste volumul si bucura-te de trupele
+            si piesele favorite in sala de concerte a masinii tale.</p>
+        </p>
+    </div>
+    <div class="img-column"><img
+            src="/assets/img/ecosport/1214641467971.jpg"
+            alt="Ford EcoSport B&O Play"/><span class="fv-overlay-icon"></span></div>
+</article>
+
+<article class="content-column left">
+    <div class="img-column"><img
+            src="/assets/img/ecosport/12146414683.jpg"
+            alt="Ford EcoSport SYNC 3 with touchscreen"/><span class="fv-overlay-icon"></span></div>
+    <div class="content">
+        <h3 class="bigHeading02">
+            Stergatoare care se regleaza automat, in functie de ploaie
+        </h3>
+
+        <p>
+
+        <p>Stergatoarele de parbriz cu senzor de ploaie se activeaza in secunda cand detecteaza stropi de apa pe
+            parbrizul autovehiculului, iar apoi isi regleaza viteza pentru a face fata oricaror conditii meteo. Poti
+            alege din mai multe niveluri de sensibilitate, care determina cat de multa umiditate trebuie sa se
+            acumuleze inainte ca stergatoarele sa se activeze.</p>
+        </p>
+    </div>
+</article>
+<article class="content-column right">
+    <div class="content">
+        <h3 class="bigHeading02">
+            Scaune si volan care tin de cald
+        </h3>
+
+        <p>
+
+        <p>Sunt disponibile, optional, scaune incalzite, atat pentru sofer, cat si pentru pasagerul din fata. Exista
+            trei setari de incalzire diferite, pe care le poti stabili cu usurinta prin intermediul comutatoarelor
+            cu buton, care controleaza scaunele incalzite din stanga si din dreapta, o lumina rosie aprinzandu-se
+            pentru a indica setarea nivelului de incalzire ales. Indiferent daca este o dimineata friguroasa, o zi
+            racoroasa sau o noapte geroasa, volanul incalzit iti va incalzi cu siguranta mainile mai bine decat o
+            pereche de manusi.</p>
+        </p>
+    </div>
+    <div class="img-column"><img
+            src="/assets/img/ecosport/12146414679.jpg"
+            alt="Ford EcoSport B&O Play"/><span class="fv-overlay-icon"></span></div>
+</article>
+
+<article class="content-column left">
+    <div class="img-column"><img
+            src="/assets/img/ecosport/121464146832.jpg"
+            alt="Ford EcoSport SYNC 3 with touchscreen"/><span class="fv-overlay-icon"></span></div>
+    <div class="content">
+        <h3 class="bigHeading02">
+            Seteaza temperatura dorita
+        </h3>
+
+        <p>
+
+        <p>Cu ajutorul Sistemului optional de climatizare automata, selecteaza pur si simplu temperatura interioara
+            dorita, iar aceasta va mentine cu ajutorul sistemului avansat de climatizare.</p>
+        </p>
+    </div>
+</article>
+<article class="content-column right">
+    <div class="content">
+        <h3 class="bigHeading02">
+            Cu Sistemul Key-free ai mai putine griji
+        </h3>
+
+        <p>
+
+        <p>Sistemul Ford KeyFree va permite sa incuiati si sa descuiati vehiculul, fara sa scoateti cheia din
+            buzunar sau din geanta. Ideal pentru situatiile cand ai mainile ocupate.</p>
+        </p>
+    </div>
+    <div class="img-column"><img
+            src="/assets/img/ecosport/1212146414679.jpg"
+            alt="Ford EcoSport B&O Play"/><span class="fv-overlay-icon"></span></div>
+</article>
+
+
+<article class='three-column'>
+    <div class="content-block">
+        <img
+            src="/assets/img/ecosport/1214641467895.jpg"
+            alt="Ford EcoSport heated steering wheel"/><span class="fv-overlay-icon"></span>
+
+        <h3 class="bigHeading02">
+            Porneste masina prin simpla atingere a unui buton
+        </h3>
+
+        <p>
+
+        <p>EcoSport detecteaza automat prezenta cheii sale unice, chiar daca aceasta se afla in buzunar sau in
+            poseta. Asa ca este suficient sa apesi butonul Ford Power iar motorul se va trezi la viata.</p>
+        </p>
+    </div>
+    <div class="content-block">
+        <img
+            src="/assets/img/ecosport/1214641467729.jpg"
+            alt="Ford EcoSport windscreen, Quickclear"/><span class="fv-overlay-icon"></span>
+
+        <h3 class="bigHeading02">
+            Spatiu de depozitare oriunde privesti
+        </h3>
+
+        <p>
+
+        <p>Un spatiu la indemana, sub butonul plafonierei; un spatiu ingust deasupra torpedoului, un torpedo cu raft
+            si un spatiu amplu, iluminat, pentru cutii cu bauturi sau alte obiecte… iar la acestea se adauga un
+            support pentru ochelarii de soare, buzunare generoase pe interiorul portierelor, carlige pentru haine,
+            puncte de ancorare in portbagaj – lista continua. In EcoSport, gasesti spatiu pentru aproape orice. </p>
+        </p>
+    </div>
+    <div class="content-block last">
+        <img
+            src="/assets/img/ecosport/1214641469823.jpg"
+            alt="Ford EcoSport power-foldable wing mirrors"/><span class="fv-overlay-icon"></span>
+
+        <h3 class="bigHeading02">
+            Totul, la indemana
+        </h3>
+
+        <p>
+
+        <p>O noua consola centrala include o cotiera pliabila pentru pasager (glisanta pe modelele Titanium &
+            ST-Line). Sub aceasta se afla un compartiment de depozitare foarte util, iar in fata schimbatorului de
+            viteze ai un spatiu pentru telefoanele mobile. Printre alte caracteristici utile se Numara doua porturi
+            USB, un punct de incarcare alimentat cu 12v si doua suporturi pentru pahare, cu cate un mic spatiu
+            inainte si in spatele lor.</p>
+        </p>
+    </div>
+</article>
+
+<article class='three-column'>
+    <div class="content-block">
+        <img
+            src="/assets/img/ecosport/12146414678895.jpg"
+            alt="Ford EcoSport heated steering wheel"/><span class="fv-overlay-icon"></span>
+
+        <h3 class="bigHeading02">
+            Curata parbrizul rapid cu Quickclear
+        </h3>
+
+        <p>
+
+        <p>Aceasta dotare inteligenta a fost creata pentru ca tu sa pornesti rapid in diminetile geroase. Trebuie doar
+            sa atingi un buton si filamente extrem de subtiri se supraincalzesc pentru a curata parbrizul de gheata,
+            ceata si abur, precum si pentru a ajuta la dezghetarea stergatoarelor.</p>
+        </p>
+    </div>
+    <div class="content-block">
+        <img
+            src="/assets/img/ecosport/1214641465729.jpg"
+            alt="Ford EcoSport windscreen, Quickclear"/><span class="fv-overlay-icon"></span>
+
+        <h3 class="bigHeading02">
+            Cu oglinzi care se pot proteja singure
+        </h3>
+
+        <p>
+
+        <p>Pentru a evita deteriorarea accidentala, oglinzile laterale pliabile electric se pliaza catre interior dupa
+            ce ai parcat. Atunci cand sunt rabatate, oglinzile protejeaza, de asemenea, elegantele indicatoare
+            integrate. Sunt si incalzite, ceea ce inseamna ca puteti pleca la drum mai repede in diminetile
+            geroase. </p>
+        </p>
+    </div>
+    <div class="content-block last">
+        <img
+            src="/assets/img/ecosport/12141469823.jpg"
+            alt="Ford EcoSport power-foldable wing mirrors"/><span class="fv-overlay-icon"></span>
+
+        <h3 class="bigHeading02">
+            O raza de soare
+        </h3>
+
+        <p>
+
+        <p>Daca iti place sa te scalzi in lumina soarelui, poti alege o trapa electrica, disponibila optional pe
+            modelele EcoSport Titanium si ST-Line.</p>
+        </p>
+    </div>
+</article>
 </div>
 <!--  tabTitle : Siguranta si securitate :: btfTabContent : 1205150777055 :: tabContent :  -->
 <div id='tab4' class="secondary-tab-content">
     <header class="intro-header">
         <h1 class="bigHeading">
-            Te simti mai protejat
+            Siguranta
         </h1>
         <span class="highlighter"></span>
 
         <p class="intro-text">
 
-        <p>Unele sisteme de siguranta sunt proiectate pentru a te proteja pe tine, masina ta si alti participanti la
-            trafic, in eventualitatea unui accident. <br><br>
-            Altele au rolul de a preveni accidentele.
-            In noul EcoSport, vei regasi tehnologii concepute sa faca ambele lucruri. </p>
+        <p>Unele sisteme de siguranta sunt concepute pentru a te proteja pe tine, pasagerii tai si vehiculul, in cazul
+            unui accident. Altele au rolul de a preveni accidentele. In EcoSport, vei regasi tehnologii proiectate sa
+            faca ambele lucruri. </p>
         </p>
     </header>
     <article class="content-column left">
-        <div class="img-column"> <img
-                    src="/assets/img/ecosport/1214641469396.jpg"
-                    alt="Ford EcoSport airbags"/><span class="fv-overlay-icon"></span></div>
+        <div class="img-column"><img
+                src="/assets/img/ecosport/1214641469396.jpg"
+                alt="Ford EcoSport airbags"/><span class="fv-overlay-icon"></span></div>
         <div class="content">
+            <h3 class="bigHeading02">
+                Sisteme avansate pentru o franare mai controlata
+            </h3>
+
+            <p>
+
+            <p>Sistemul de franare cu anti-blocare roti (ABS) si distributia electronica a fortei de franare lucreaza
+                impreuna pentru a se asigura ca tu franezi eficient. </p>
+            </p>
+        </div>
+    </article>
+    <article class='two-column'>
+        <div class="content-block">
+            <img
+                src="/assets/img/ecosport/1214641469314.jpg"
+                alt="blue Ford EcoSport exterior view, Anti-lock braking system"/><span
+                class="fv-overlay-icon"></span>
+
             <h3 class="bigHeading02">
                 Airbaguri menite sa te protejeze din orice unghi
             </h3>
@@ -722,32 +1054,34 @@ filter: none;
                 ocupantul de zona de impact. Pot de asemenea sa ridice bratul ocupantului, asigurand un spatiu mai bun
                 intre acesta si structura periculoasa. Airbagurile tip cortina ofera acoperire maxima, iar tetierele te
                 protejeaza in cazul unui impact fata-spate. Cu dispozitive de pretensionare a centurilor de siguranta si
-                limitatoare de sarcina in fata si in spate, plus sisteme de reamintire pentru centura de siguranta, noul
-                EcoSport pune siguranta pe primul loc. </p>
-            </p>
-        </div>
-    </article>
-    <article class='two-column'>
-        <div class="content-block">
-            <img
-                    src="/assets/img/ecosport/1214641469314.jpg"
-                    alt="blue Ford EcoSport exterior view, Anti-lock braking system"/><span
-                    class="fv-overlay-icon"></span>
-
-            <h3 class="bigHeading02">
-                Sisteme avansate pentru o franare mai controlata
-            </h3>
-
-            <p>
-
-            <p>Sistemul de franare cu anti-blocare roti (ABS) si distributia electronica a fortei de franare lucreaza
-                impreuna pentru a se asigura ca tu franezi eficient.</p>
+                limitatoare de sarcina in fata si in spate, plus sisteme de reamintire pentru centura de siguranta,
+                EcoSport pune siguranta pe primul loc.</p>
             </p>
         </div>
         <div class="content-block last">
             <img
-                    src="/assets/img/ecosport/1214641468638.jpg"
-                    alt="red Ford EcoSport exterior top view, on the road"/><span class="fv-overlay-icon"></span>
+                src="/assets/img/ecosport/1214641468638.jpg"
+                alt="red Ford EcoSport exterior top view, on the road"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+                Avertizare timpurie in cazul unei pene
+            </h3>
+
+            <p>
+
+            <p>Daca vreunul dintre pneuri incepe sa piarda presiune in timpul deplasarii, sistemul de monitorizare a
+                presiunii in pneuri (TPMS) te avertizeaza imediat, prin aprinderea unei pictograme pe panoul de
+                bord.</p>
+            </p>
+        </div>
+    </article>
+
+    <article class='two-column'>
+        <div class="content-block">
+            <img
+                src="/assets/img/ecosport/1214469314.jpg"
+                alt="blue Ford EcoSport exterior view, Anti-lock braking system"/><span
+                class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Mentine controlul indiferent de conditii
@@ -761,26 +1095,112 @@ filter: none;
                 tractiunii, functia de control electronic monitorizeaza total comportamentul vehiculului.</p>
             </p>
         </div>
+        <div class="content-block last">
+            <img
+                src="/assets/img/ecosport/12146468638.jpg"
+                alt="red Ford EcoSport exterior top view, on the road"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+                Aderenta maxima cu efort minim
+            </h3>
+
+            <p>
+
+            <p>Un sistem avansat de control al tractiunii elimina alunecarea in exces a rotilor si iti asigura cea mai
+                buna aderenta, performanta si stabilitate, atunci cand ai mai mare nevoie. Sistemul monitorizeaza
+                incontinuu si ajusteaza puterea livrata rotilor individuale ale vehiculului, asigurand contact si
+                aderenta maxime, cand accelerezi..</p>
+            </p>
+        </div>
     </article>
+
+    <article class='two-column'>
+        <div class="content-block">
+            <img
+                src="/assets/img/ecosport/14469314.jpg"
+                alt="blue Ford EcoSport exterior view, Anti-lock braking system"/><span
+                class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+                Ajutor pentru mentinerea copiilor in siguranta
+            </h3>
+
+            <p>
+
+            <p>Daca ai copii la bord, poti dispune montarea de puncte ISOFIX pentru fixarea scaunului pentru copii,
+                pentru cele doua scaune dinspre exterior de pe randul al doilea.</p>
+            </p>
+        </div>
+        <div class="content-block last">
+            <img
+                src="/assets/img/ecosport/121468638.jpg"
+                alt="red Ford EcoSport exterior top view, on the road"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+                Nu uita niciodata sa porti centura de siguranta
+            </h3>
+
+            <p>
+
+            <p>Un sistem de reamintire pentru utilizarea centurii de siguranta a pentru sofer si pasagerul din fata te
+                avertizeaza daca uiti vreodata sa iti pui centura si este montat ca dotare standard pe fiecare
+                model.</p>
+            </p>
+        </div>
+    </article>
+
+    <article class='two-column'>
+        <div class="content-block">
+            <img
+                src="/assets/img/ecosport/1423469314.jpg"
+                alt="blue Ford EcoSport exterior view, Anti-lock braking system"/><span
+                class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+                Alarma de perimetru pentru securitate sporita
+            </h3>
+
+            <p>
+
+            <p>Un sistem de alarma perimetrala iti protejeaza vehiculul, anuntand atunci cand cineva forteaza capota sau
+                portierele.</p>
+            </p>
+        </div>
+
+    </article>
+
 </div>
 <!--  tabTitle : Utilitate :: btfTabContent : 1205150773809 :: tabContent :  -->
 <div id='tab5' class="secondary-tab-content">
     <header class="intro-header">
         <h1 class="bigHeading">
-            Spatiu si functionalitate
+            Utilitate
         </h1>
         <span class="highlighter"></span>
 
         <p class="intro-text">
 
-        <p>Noul EcoSport ofera spatiu flexibil si bine structurat,
-            intr-un singur vehicul util si functional. </p>
+        <p>EcoSport iti ofera spatiu flexibil si bine organizat, intr-un vehicul capabil si practic. </p>
         </p>
     </header>
     <article class="content-column left">
-        <div class="img-column"> <img
-                    src="/assets/img/ecosport/1214641468552.jpg"
-                    alt="Ford EcoSport interior, adjustable load floor"/><span class="fv-overlay-icon"></span></div>
+        <div class="img-column"><img
+                src="/assets/img/ecosport/1214641468552.jpg"
+                alt="Ford EcoSport interior, adjustable load floor"/><span class="fv-overlay-icon"></span></div>
+        <div class="content">
+            <h3 class="bigHeading02">
+                Bancheta usor pliabila
+            </h3>
+
+            <p>
+
+            <p>Sacunele din spate se pot plia pentru a crea o zona de incarcare plata si o capacitate impresionanta, de
+                1.238 litri, cu un compartiment ascuns dedesubt. Bancheta usor pliabila se imparte 60:40 si poate fi
+                rabatata printr-o operatie simpla, cu o singura mana, pentru a crea mai mult spatiu in spate.</p>
+            </p>
+        </div>
+    </article>
+    <article class="content-column right">
         <div class="content">
             <h3 class="bigHeading02">
                 O podea de incarcare utila si reglabila
@@ -793,30 +1213,17 @@ filter: none;
                 scaunele din spate rabatate, obtii o podea de incarcare complet plata.</p>
             </p>
         </div>
-    </article>
-    <article class="content-column right">
-        <div class="content">
-            <h3 class="bigHeading02">
-                Construit pentru a cuceri terenul urban
-            </h3>
-
-            <p>
-
-            <p>Borduri inalte, gropi in asfalt, drumuri in lucru, limitatoare de viteza... Strazile oraselor se pot
-                dovedi periculoase. Tocmai de aceea, noul EcoSport are o garda la sol inaltata.</p>
-            </p>
-        </div>
-        <div class="img-column"> <img
-                    src="/assets/img/ecosport/1214641469650.jpg"
-                    alt="Ford EcoSport wheels, elevated ground clearance"/><span class="fv-overlay-icon"></span>
+        <div class="img-column"><img
+                src="/assets/img/ecosport/1214641469650.jpg"
+                alt="Ford EcoSport wheels, elevated ground clearance"/><span class="fv-overlay-icon"></span>
         </div>
     </article>
     <article class='two-column'>
         <div class="content-block">
             <img
-                    src="/assets/img/ecosport/1214641469569.jpg"
-                    alt="blue Ford EcoSport exterior front view, in motion, tight turning circle: 10.6m ‘kerb-to-kerb’"/><span
-                    class="fv-overlay-icon"></span>
+                src="/assets/img/ecosport/1214641469569.jpg"
+                alt="blue Ford EcoSport exterior front view, in motion, tight turning circle: 10.6m ‘kerb-to-kerb’"/><span
+                class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Usurarea virajelor in U
@@ -824,30 +1231,51 @@ filter: none;
 
             <p>
 
-            <p>Spre deosebire de SUV-urile traditionale, mai masive, noul EcoSport are un diametru de bracaj redus: doar
-                10,6 m. Aceasta inseamna ca virajele in U pe strazile aglomerate sunt rapide si usoare, chiar si cand
-                sunt masini parcate pe ambele parti.</p>
+            <p>Borduri inalte, gropi in asfalt, drumuri in lucru, limitatoare de viteza... Strazile oraselor se pot
+                dovedi periculoase. Tocmai de aceea, EcoSport are o garda la sol inaltata.</p>
             </p>
         </div>
         <div class="content-block last">
             <img
-                    src="/assets/img/ecosport/1214641467808.jpg"
-                    alt="blue Ford EcoSport exterior side view, ‘approach’ and ‘departure’ angles"/><span
-                    class="fv-overlay-icon"></span>
+                src="/assets/img/ecosport/1214641467808.jpg"
+                alt="blue Ford EcoSport exterior side view, ‘approach’ and ‘departure’ angles"/><span
+                class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
-                Treci cu usurinta peste obstacole
+                Usurarea virajelor in U
             </h3>
 
             <p>
 
-            <p>Unghiul de atac si cel de degajare ale noului EcoSport sunt de 21 si respectiv 33,3 grade, cu un unghi
-                ventral de 23,3 grade (descarcat). Aceste valori se refera la unghiurile la care masina poate sa treaca
-                peste un obstacol fara a zgaria partea de dedesubt, lucru esential pentru un SUV modern.</p>
+            <p>Spre deosebire de SUV-urile traditionale, mai masive, EcoSport are un diametru de bracaj redus: doar 10,6
+                m. Aceasta inseamna ca virajele in U pe strazile aglomerate sunt rapide si usoare, chiar si cand sunt
+                masini parcate pe ambele parti.</p>
             </p>
         </div>
     </article>
+
+    <article class='two-column'>
+        <div class="content-block">
+            <img
+                src="/assets/img/ecosport/12123641469569.jpg"
+                alt="blue Ford EcoSport exterior front view, in motion, tight turning circle: 10.6m ‘kerb-to-kerb’"/><span
+                class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+                Transport suplimentar
+            </h3>
+
+            <p>
+
+            <p>Daca ai nevoie sa transporti lucruri voluminoase poti alege optinunile de bare transversale pentru
+                acoperis si/sau carligul de tractare detasabile.</p>
+            </p>
+        </div>
+
+    </article>
 </div>
+
+
 </div>
 </div>
 </li>

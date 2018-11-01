@@ -47,13 +47,13 @@
     <li role="menuitem" class=""><a role="link" data-selenium="doormat_car_selection B-MAX"
                                     class="om_he_pv_np "
                                     href="/Autoturisme/NoulB-MAX">B-MAX</a></li>
-    <li role="menuitem" class=""><a role="link"
+  <!--  <li role="menuitem" class=""><a role="link"
                                     data-selenium="doormat_car_selection EcoSport"
-                                    class="om_he_pv_np " href="/Autoturisme/Noul-EcoSport">EcoSport</a>
+                                    class="om_he_pv_np " href="/Autoturisme/Noul-EcoSport">EcoSport</a>  -->
     </li>
     <li role="menuitem" class=""><a role="link"
                                     data-selenium="doormat_car_selection EcoSport"
-                                    class="om_he_pv_np " href="/Autoturisme/NoulEcosport">Noul EcoSport</a>
+                                    class="om_he_pv_np " href="/Autoturisme/NoulEcosport">EcoSport</a>
     </li>
     <li role="menuitem" class=""><a role="link" data-selenium="doormat_car_selection Focus"
                                     class="om_he_pv_np " href="/Autoturisme/Focus">Focus</a>
@@ -116,7 +116,7 @@
     <li role="menuitem" class=""><a role="link"
                                     data-selenium="doormat_car_selection Tourneo Courier"
                                     class="om_he_pv_np "
-                                    href="/Autoturisme/focus-2018">Focus
+                                    href="/Autoturisme/focus-2018">Noul Focus
         </a></li>
     <li role="menuitem" class=""><a role="link"
                                     data-selenium="doormat_car_selection Noul Ford GT"

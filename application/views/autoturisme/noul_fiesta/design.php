@@ -293,42 +293,13 @@
 <div id='tab1' class="secondary-tab-content">
     <header class="intro-header">
         <h1 class="bigHeading">
-            O imagine noua, uimitoare
+            ST-Line
         </h1>
         <span class="highlighter"></span>
 
-        <p class="intro-text">
 
-        <p>Noul Ford Fiesta are un aspect ultramodern si ultraelegant, dar ofera o&nbsp;senzatie linistitoare de
-            familiaritate: este Fiesta la superlativ. Liniile fluide, sculptate dau forma caroseriei aerodinamice. Si
-            vei observa o&nbsp;nota de rafinament de la prima intalnire.<br> <br> De la sportivul ST-Line si
-            exclusivistul Titanium, pana la impresionantul Vignale si aventurosul Active: cu siguranta gasesti modelul
-            Fiesta care se potriveste perfect gusturilor si imaginii tale.<br> <br> Descopera detaliile individuale ale
-            fiecarui model, mai jos.</p>
-        </p>
     </header>
-    <article class="content-column left">
-        <div class="img-column"> <img
-                    src="/assets/img/1214606261260.jpg"
-                    alt="Cum ar arata modelul ST-Line ideal pentru tine?"/><span class="fv-overlay-icon"></span>
-        </div>
-        <div class="content">
-            <h3 class="bigHeading02">
-                Cum ar arata modelul
-                <nobr>ST-Line</nobr>
-                ideal pentru tine?
-            </h3>
-            <p>
 
-            <p>Versiuni de caroserie, culori exterioare, accente interioare, design al volanului... cu noul Fiesta
-            <nobr>ST-Line</nobr>
-            iti poti personaliza masina pentru a&nbsp;o&nbsp;face, cu adevarat, a&nbsp;ta.<br> <br> Foloseste <a
-                href="http://www.fordeumicrosites.com/campaigns/2017/fiesta/colouriser/index_ro-RO.html"
-                target="_blank"><span style="color: rgb(0, 0, 255);"><u>mini-configuratorul</u></span></a> pentru a&nbsp;iti
-            proiecta masina ideala.</p>
-            </p>
-        </div>
-    </article>
     <article class='three-column'>
         <div class="content-block">
             <img
@@ -340,8 +311,8 @@
 
             <p>
 
-            <p>Atrage toate privirile, cu sportivul
-            <nobr>ST-Line</nobr>
+            <p>Atrage privirile cu ST-Line.
+
             </p>
             </p>
         </div>
@@ -355,7 +326,7 @@
 
             <p>
 
-            <p>Fa-te remarcat</p>
+            <p>Spoiler spate aerodinamic.</p>
             </p>
         </div>
         <div class="content-block last">
@@ -368,10 +339,19 @@
 
             <p>
 
-            <p>O grila exlusivista, cu design hexagonal</p>
+            <p>Iese in evidenta.</p>
             </p>
         </div>
     </article>
+    <br>
+    <header class="intro-header">
+        <h1 class="bigHeading">
+            Vignale
+        </h1>
+        <span class="highlighter"></span>
+
+
+    </header>
     <article class='three-column'>
         <div class="content-block">
             <img
@@ -384,7 +364,7 @@
 
             <p>
 
-            <p>Titanium. Un pas in plus, in materie de inteligenta.</p>
+            <p>O imagine rafinata, plina de incredere.</p>
             </p>
         </div>
         <div class="content-block">
@@ -397,7 +377,7 @@
 
             <p>
 
-            <p>Design elegant, ultra-modern</p>
+            <p>Grila unica Vignale.</p>
             </p>
         </div>
         <div class="content-block last">
@@ -410,10 +390,19 @@
 
             <p>
 
-            <p>Linii fluide, sculpturale</p>
+            <p>Pentru cei cu gusturi alese.</p>
             </p>
         </div>
     </article>
+
+    <header class="intro-header">
+        <h1 class="bigHeading">
+            Titanium
+        </h1>
+        <span class="highlighter"></span>
+
+
+    </header>
     <article class='three-column'>
         <div class="content-block">
             <img
@@ -425,7 +414,7 @@
 
             <p>
 
-            <p>Luxosul plafon panoramic al modelului Vignale</p>
+            <p>Rafinament si eficienta in miscare.</p>
             </p>
         </div>
         <div class="content-block">
@@ -438,7 +427,7 @@
 
             <p>
 
-            <p>Pentru cunoscatori</p>
+            <p>Lumini spate LED.</p>
             </p>
         </div>
         <div class="content-block last">
@@ -455,6 +444,16 @@
             </p>
         </div>
     </article>
+
+
+    <header class="intro-header">
+        <h1 class="bigHeading">
+            Active
+        </h1>
+        <span class="highlighter"></span>
+
+
+    </header>
     <article class='three-column'>
         <div class="content-block">
             <img
@@ -466,7 +465,7 @@
 
             <p>
 
-            <p>Active: construit pentru aventura</p>
+            <p>Stil robust, inspirat de SUV.</p>
             </p>
         </div>
         <div class="content-block">
@@ -492,10 +491,61 @@
 
             <p>
 
-            <p>Din primavara 2018</p>
+            <p>Linii dinamice, sculptate.</p>
             </p>
         </div>
     </article>
+
+    <header class="intro-header">
+        <h1 class="bigHeading">
+            ST
+        </h1>
+        <span class="highlighter"></span>
+
+
+    </header>
+    <article class='three-column'>
+        <div class="content-block">
+            <img
+                src="/assets/img/12606266550.jpg"
+                alt="Active: construit pentru aventura"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+            </h3>
+
+            <p>
+
+            <p>Lumini de zi cu LED impozante.</p>
+            </p>
+        </div>
+        <div class="content-block">
+            <img
+                src="/assets/img/12146266274.jpg"
+                alt="Rezistent. Aventuros. Flexibil"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+            </h3>
+
+            <p>
+
+            <p>Performanta intruchipata.</p>
+            </p>
+        </div>
+        <div class="content-block last">
+            <img
+                src="/assets/img/12146062053.jpg"
+                alt="Din primavara 2018"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+            </h3>
+
+            <p>
+
+            <p>Jante din aliaj unice.</p>
+            </p>
+        </div>
+    </article>
+
 </div>
 <!--  tabTitle : Interior :: btfTabContent : 1205135252463 :: tabContent :  -->
 <div id='tab2' class="secondary-tab-content">
