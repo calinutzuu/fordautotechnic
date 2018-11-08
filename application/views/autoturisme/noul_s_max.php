@@ -1,4 +1,3 @@
-
 <script type="text/javascript">
     // mobile sniffer
     ForceRedirectUserAgents = 'android,iphone,blackberry';
@@ -274,179 +273,199 @@
 <!-- Addthis Replacement : End -->
 <section id="primary-tab-content" class="nameplate-tab-content" data-dynamic-tabcontent="true"
          data-siteterm-backtotop="Back To Top !!!">
-    <div class="tab-wrapper">
-        <nav class="tabs" id="primaryTabs">
+<div class="tab-wrapper">
+<nav class="tabs" id="primaryTabs">
+<ul>
+<!--  isBtfTab true -->
+<!--  tabUrl /cs/ContentServer?cid=1205090681673&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE -->
+<!-- IntoID ::: articleAssetId -->
+<li class="selected"><a href="Noul-S-MAX/PrezentareGenerala#primaryTabs"
+                        data-ajaxlink="/cs/ContentServer?cid=1205090681673&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE">Prezentare
+        generala</a>
+    <!--This is where the main content for the selected tab will go -->
+    <!-- secondary tabs -->
+    <div class="secondary-tabs tab-content">
+        <nav class="sub-nav">
             <ul>
-                <!--  isBtfTab true -->
-                <!--  tabUrl /cs/ContentServer?cid=1205090681673&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE -->
-                <!-- IntoID ::: articleAssetId -->
-                <li class="selected"><a href="Noul-S-MAX/PrezentareGenerala#primaryTabs"
-                                        data-ajaxlink="/cs/ContentServer?cid=1205090681673&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE">Prezentare
-                        generala</a>
-                    <!--This is where the main content for the selected tab will go -->
-                    <!-- secondary tabs -->
-                    <div class="secondary-tabs tab-content">
-                        <nav class="sub-nav">
-                            <ul>
-                                <li><a href='#tab1' class='omt_tabName'>Overview</a></li>
-                            </ul>
-                        </nav>
-                        <!-- isBtfTab : from MidPageTabs true -->
-                        <div class="innertab-wrapper">
-                            <!--  tabTitle : Overview :: btfTabContent : 1205090684363 :: tabContent :  -->
-                            <div id='tab1' class="secondary-tab-content">
-                                <header class="intro-header">
-                                    <h1 class="bigHeading">
-                                        NOUL FORD <strong>S-MAX</strong>
-                                    </h1>
-                                    <span class="highlighter"></span>
-
-                                    <p class="intro-text">
-
-                                    <p>Tehnologii inteligente si stil ultra-contemporan, <br> performanta dinamica si
-                                        manevrabilitate precisa: toate aceste atribute pun in evidenta noul S-MAX.<br>
-                                        <br> Flexibilitatea, utilitatea si eficienta sunt calitati incorporate. Iar cu o
-                                        serie de <br> tehnologii remarcabile, acesta este unul dintre cele mai
-                                        inteligente <br> vehicule cu sapte/cinci locuri de pe piata. <br> <br> Ai o
-                                        viata activa? Ai gasit masina adaptata stilului tau.</p>
-                                    </p>
-                                </header>
-                                <article class="content-column left">
-                                    <div class="img-column"><a
-                                            href="../cs/ContentServere1f8?cid=1205090683925&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                                            class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
-                                                src="/assets/img/s_max/1214504430076.jpg"
-                                                alt="All-Wheel Drive"/><span class="fv-overlay-icon"></span></a></div>
-                                    <div class="content">
-                                        <h3 class="bigHeading02">
-                                            Incredere chiar si in conditii schimbatoare.
-                                        </h3>
-
-                                        <p>
-
-                                        <p>Un sistem disponibil cu tractiune integrala (AWD) inteligenta poate determina
-                                            cata aderenta, cat balans in viraje si ce nivel de reactie sunt necesare in
-                                            conditii de vreme umeda, uscata sau cu gheata si pe teren schimbator.
-                                            Tehnologia poate muta tractiunea pe puntea din fata sau din spate, in
-                                            functie de cerinte. Iar acest sistem de &bdquo;cuplu la cerere&rdquo;
-                                            asigura o manevrabilitate exceptionala si eficienta imbunatatita.</p>
-                                        </p>
-                                    </div>
-                                </article>
-                                <article class="content-column right">
-                                    <div class="content">
-                                        <h3 class="bigHeading02">
-                                            Scaune inteligente, pentru flexibilitate suprema
-                                        </h3>
-
-                                        <p>
-
-                                        <p>Dispunerea flexibila a scaunelor asigura spatiu generos pentru pana la
-                                            cinci/sapte pasageri, scaunele rabatabile de pe randurile doi si trei
-                                            permitand obtinerea unei multitudini de configuratii de locuri si spatii de
-                                            depozitare. De exemplu, scaunele din al doilea rand si din al treilea rand
-                                            pot fi rabatate complet, printr-o simpla apasare de buton, facand loc
-                                            instantaneu pentru echipamentul tau de sport sau pentru cumparaturile de la
-                                            magazinele de bricolaj.</p>
-                                        </p>
-                                    </div>
-                                    <div class="img-column"><a
-                                            href="../cs/ContentServer189c?cid=1205090681684&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                                            class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
-                                                src="/assets/img/s_max/1214504429993.jpg"
-                                                alt="Flexible seating"/><span class="fv-overlay-icon"></span></a></div>
-                                </article>
-                                <article class="content-column left">
-                                    <div class="img-column"><a
-                                            href="../cs/ContentServer0820?cid=1205090677325&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                                            class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
-                                                src="/assets/img/s_max/1214504429910.jpg"
-                                                alt="Panoramic roof"/><span class="fv-overlay-icon"></span></a></div>
-                                    <div class="content">
-                                        <h3 class="bigHeading02">
-                                            Plafon panoramic pentru un spatiu mai luminos si mai aerisit
-                                        </h3>
-
-                                        <p>
-
-                                        <p>Printr-o singura apasare de buton, parasolarul actionat electric din plafon
-                                            se indeparteaza prin glisare, permitand luminii naturale sa treaca prin
-                                            plafonul panoramic fix. In acelasi timp, geamul care reflecta lumina razelor
-                                            mentine racoarea si te protejeaza de razele UV daunatoare.</p>
-                                        </p>
-                                    </div>
-                                </article>
-                            </div>
-                            <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
-                            <!-- BEGIN [MidPageTabs] -->
-                            <!--<div id='tab1' class="mp-tab-wrapper">
-                            <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Overview</a></h2> -->
-                            <!--</div>-->
-                            <!-- END [MidPageTabs] -->
-                            <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
-                            <!-- BEGIN [MidPageTabs] -->
-                            <!--<div id='tab1' class="mp-tab-wrapper">
-                            <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Overview</a></h2> -->
-                            <!--</div>-->
-                            <!-- END [MidPageTabs] -->
-                            <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
-                            <!-- BEGIN [MidPageTabs] -->
-                            <!--<div id='tab1' class="mp-tab-wrapper">
-                            <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Overview</a></h2> -->
-                            <!--</div>-->
-                            <!-- END [MidPageTabs] -->
-                            <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
-                            <!-- BEGIN [MidPageTabs] -->
-                            <!--<div id='tab1' class="mp-tab-wrapper">
-                            <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Overview</a></h2> -->
-                            <!--</div>-->
-                            <!-- END [MidPageTabs] -->
-                        </div>
-                    </div>
-                </li>
-                <!--  isBtfTab  -->
-                <!--  tabUrl /cs/ContentServer?cid=1205090681673&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205104043571&amp;tabName=Preturi-si-promotii&amp;c=Page&amp;site=RORO4_ENGINE -->
-           <!--     <li><a href="Noul-S-MAX/Preturi-si-promotii#primaryTabs" class=" "
-                       data-ajaxlink="/cs/ContentServer?cid=1205090681673&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205104043571&amp;tabName=Preturi-si-promotii&amp;c=Page&amp;site=RORO4_ENGINE">Preturi
-                        si promotii</a>
-                    <!-- secondary tabs -->
-                    <!--  midPageTabId : 1205104016391
-                </li> -->
-                <!--  isBtfTab  -->
-                <!--  tabUrl /cs/ContentServer?cid=1205090681673&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205090680147&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE -->
-                <li><a href="Noul-S-MAX/Design#primaryTabs" class=" "
-                       data-ajaxlink="/cs/ContentServer?cid=1205090681673&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205090680147&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE">Design</a>
-                    <!-- secondary tabs -->
-                    <!--  midPageTabId : 1205090684982 -->
-                </li>
-                <!--  isBtfTab  -->
-                <!--  tabUrl /cs/ContentServer?cid=1205090681673&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205090681116&amp;tabName=Caracteristici&amp;c=Page&amp;site=RORO4_ENGINE -->
-                <li><a href="Noul-S-MAX/Caracteristici#primaryTabs" class=" "
-                       data-ajaxlink="/cs/ContentServer?cid=1205090681673&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205090681116&amp;tabName=Caracteristici&amp;c=Page&amp;site=RORO4_ENGINE">Caracteristici</a>
-                    <!-- secondary tabs -->
-                    <!--  midPageTabId : 1205090681142 -->
-                </li>
-                <!--  isBtfTab  -->
-                <!--  tabUrl /cs/ContentServer?cid=1205090681673&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205107569254&amp;tabName=S-MAX-Vignale&amp;c=Page&amp;site=RORO4_ENGINE -->
-                <li><a href="Noul-S-MAX/S-MAX-Vignale#primaryTabs" class=" "
-                       data-ajaxlink="/cs/ContentServer?cid=1205090681673&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205107569254&amp;tabName=S-MAX-Vignale&amp;c=Page&amp;site=RORO4_ENGINE">S-MAX
-                        Vignale</a>
-                    <!-- secondary tabs -->
-                    <!--  midPageTabId : 1205107569239 -->
-                </li>
+                <li><a href='#tab1' class='omt_tabName'>Overview</a></li>
             </ul>
         </nav>
+        <!-- isBtfTab : from MidPageTabs true -->
+        <div class="innertab-wrapper">
+            <!--  tabTitle : Overview :: btfTabContent : 1205090684363 :: tabContent :  -->
+            <div id='tab1' class="secondary-tab-content">
+                <header class="intro-header">
+                    <h1 class="bigHeading">
+                        Aspect dinamic care iti completeaza stilul de viata activ
+                    </h1>
+                    <span class="highlighter"></span>
+
+                    <p class="intro-text">
+
+                    <p>Tehnologii inteligente si stil ultra-contemporan, <br> performanta dinamica si
+                        manevrabilitate precisa: toate aceste atribute pun in evidenta noul S-MAX.<br>
+                        <br> Flexibilitatea, utilitatea si eficienta sunt calitati incorporate. Iar cu o
+                        serie de <br> tehnologii remarcabile, acesta este unul dintre cele mai
+                        inteligente <br> vehicule cu sapte/cinci locuri de pe piata. <br> <br> Ai o
+                        viata activa? Ai gasit masina adaptata stilului tau.</p>
+                    </p>
+                </header>
+                <article class="content-column left">
+                    <div class="img-column"><a
+                            href="../cs/ContentServere1f8?cid=1205090683925&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
+                            class="js-overlay" data-media-overlay='{"height":439, "width":780}'> <img
+                                src="/assets/img/s_max/1214504430076.jpg"
+                                alt="All-Wheel Drive"/><span class="fv-overlay-icon"></span></a></div>
+                    <div class="content">
+                        <h3 class="bigHeading02">
+                            Parcare si mai usoara
+                        </h3>
+
+                        <p>
+
+                        <p>USistemul activ de asistenta la parcare te ajuta sa parchezi in spatii cu
+                            doar 20% mai lungi sau mai late decat autovehiculul. Pur si simplu, apesi un
+                            buton, iar senzorii acestui sistem inovator vor identifica spatiul suficient
+                            de mare, cand treci pe langa el. Apoi sistemul va prelua controlul directiei
+                            iar tu doar actionezi pedala de acceleratie, cutia de viteze si frana
+                            (urmarind instructiunile de pe ecran si semnalele sonore).</p>
+                        </p>
+                    </div>
+                </article>
+                <article class="content-column right">
+                    <div class="content">
+                        <h3 class="bigHeading02">
+                            Scaune care asigura sprijin suplimentar… si care iti pot oferi un masaj
+                        </h3>
+
+                        <p>
+
+                        <p>Soferul si pasagerul din fata au la dispozitie scaune multi-contur, al caror
+                            design le face complet reglabile. Drept urmare, acestea pot asigura sprijin
+                            suplimentar unde ai nevoie si iti pot oferi chiar si un masaj, ajutandu-te
+                            sa ramai odihnit in timpul calatoriilor lungi. </p>
+                        </p>
+                    </div>
+                    <div class="img-column"> <img
+                                src="/assets/img/s_max/1214504429993.jpg"
+                                alt="Flexible seating"/><span class="fv-overlay-icon"></span></a></div>
+                </article>
+                <article class="content-column left">
+                    <div class="img-column"><img
+                                src="/assets/img/s_max/12145044299110.jpg"
+                                alt="Panoramic roof"/><span class="fv-overlay-icon"></span></a></div>
+                    <div class="content">
+                        <h3 class="bigHeading02">
+                            EcoBoost: putere si eficienta fara compromisuri
+                        </h3>
+
+                        <p>
+
+                        <p>Doua variante de motor pe benzina EcoBoost utilizeaza o combinatie de
+                            injectie directa a combustibilului si un sistem cu turbocompresor, pentru a
+                            oferi niveluri remarcabile de performanta si economie:
+
+                            Un nou motor EcoBoost de 1,5 litri pe benzina se alatura gamei revolutionare
+                            EcoBoost. Redus in mod inteligent de la modelul EcoBoost de 1,6 litri,
+                            motorul asigura un nivel mai redus al emisiilor si o economie de combustibil
+                            de 6,5 litri/100 km (combinat) si dezvolta o putere de 160 CP. O varianta si
+                            mai puternica EcoBoost de 2,0 litri dezvolta o putere impresionanta de 240
+                            CP.</p>
+                        </p>
+                    </div>
+                </article>
+
+                <article class="content-column right">
+                    <div class="content">
+                        <h3 class="bigHeading02">
+                            Putere suplimentara pentru franare de urgenta
+                        </h3>
+
+                        <p>
+
+                        <p>Sistemul de asistenta la franarea de urgenta ajuta vehiculul sa atinga eficienta maxima de
+                            franare in cazul unei situatii de urgenta. Este controlat automat prin intermediul
+                            Sistemului de control electronic al stabilitatii, care detecteaza presiunea pe care o aplici
+                            pe pedala de frana si creste automat aceasta presiune, daca este cazul. </p>
+                        </p>
+                    </div>
+                    <div class="img-column"><img
+                            src="/assets/img/s_max/1214429993.jpg"
+                            alt=""/><span class="fv-overlay-icon"></span></a></div>
+                </article>
+
+
+            </div>
+            <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
+            <!-- BEGIN [MidPageTabs] -->
+            <!--<div id='tab1' class="mp-tab-wrapper">
+            <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Overview</a></h2> -->
+            <!--</div>-->
+            <!-- END [MidPageTabs] -->
+            <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
+            <!-- BEGIN [MidPageTabs] -->
+            <!--<div id='tab1' class="mp-tab-wrapper">
+            <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Overview</a></h2> -->
+            <!--</div>-->
+            <!-- END [MidPageTabs] -->
+            <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
+            <!-- BEGIN [MidPageTabs] -->
+            <!--<div id='tab1' class="mp-tab-wrapper">
+            <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Overview</a></h2> -->
+            <!--</div>-->
+            <!-- END [MidPageTabs] -->
+            <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
+            <!-- BEGIN [MidPageTabs] -->
+            <!--<div id='tab1' class="mp-tab-wrapper">
+            <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Overview</a></h2> -->
+            <!--</div>-->
+            <!-- END [MidPageTabs] -->
+        </div>
     </div>
-    <article class="nameplate-main-content" id="tabs">
-    </article>
-    <script class="script.EP2_Tab_Bootstrap">
-        var __links = document.querySelectorAll('.omt_tabName'), i;
-        for (i = 0; i < __links.length; ++i) {
-            __links[i].onclick = function (e) {
-                TK.broadcast(document.body, "pageload", {tabName: e.currentTarget.innerText.toLowerCase()});
-            }
+</li>
+<!--  isBtfTab  -->
+<!--  tabUrl /cs/ContentServer?cid=1205090681673&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205104043571&amp;tabName=Preturi-si-promotii&amp;c=Page&amp;site=RORO4_ENGINE -->
+<!--     <li><a href="Noul-S-MAX/Preturi-si-promotii#primaryTabs" class=" "
+            data-ajaxlink="/cs/ContentServer?cid=1205090681673&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205104043571&amp;tabName=Preturi-si-promotii&amp;c=Page&amp;site=RORO4_ENGINE">Preturi
+             si promotii</a>
+         <!-- secondary tabs -->
+<!--  midPageTabId : 1205104016391
+</li> -->
+<!--  isBtfTab  -->
+<!--  tabUrl /cs/ContentServer?cid=1205090681673&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205090680147&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE -->
+<li><a href="Noul-S-MAX/Design#primaryTabs" class=" "
+       data-ajaxlink="/cs/ContentServer?cid=1205090681673&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205090680147&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE">Design</a>
+    <!-- secondary tabs -->
+    <!--  midPageTabId : 1205090684982 -->
+</li>
+<!--  isBtfTab  -->
+<!--  tabUrl /cs/ContentServer?cid=1205090681673&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205090681116&amp;tabName=Caracteristici&amp;c=Page&amp;site=RORO4_ENGINE -->
+<li><a href="Noul-S-MAX/Caracteristici#primaryTabs" class=" "
+       data-ajaxlink="/cs/ContentServer?cid=1205090681673&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205090681116&amp;tabName=Caracteristici&amp;c=Page&amp;site=RORO4_ENGINE">Caracteristici</a>
+    <!-- secondary tabs -->
+    <!--  midPageTabId : 1205090681142 -->
+</li>
+<!--  isBtfTab  -->
+<!--  tabUrl /cs/ContentServer?cid=1205090681673&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205107569254&amp;tabName=S-MAX-Vignale&amp;c=Page&amp;site=RORO4_ENGINE -->
+<li><a href="Noul-S-MAX/S-MAX-Vignale#primaryTabs" class=" "
+       data-ajaxlink="/cs/ContentServer?cid=1205090681673&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205107569254&amp;tabName=S-MAX-Vignale&amp;c=Page&amp;site=RORO4_ENGINE">S-MAX
+        Vignale</a>
+    <!-- secondary tabs -->
+    <!--  midPageTabId : 1205107569239 -->
+</li>
+</ul>
+</nav>
+</div>
+<article class="nameplate-main-content" id="tabs">
+</article>
+<script class="script.EP2_Tab_Bootstrap">
+    var __links = document.querySelectorAll('.omt_tabName'), i;
+    for (i = 0; i < __links.length; ++i) {
+        __links[i].onclick = function (e) {
+            TK.broadcast(document.body, "pageload", {tabName: e.currentTarget.innerText.toLowerCase()});
         }
-    </script>
+    }
+</script>
 </section>
 <script id="TagIT.load" defer></script>
 </div>

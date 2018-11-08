@@ -274,7 +274,7 @@
             <ul>
                 <!--  isBtfTab true -->
                 <!--  tabUrl /cs/ContentServer?cid=1205090681673&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE -->
-                <li><a href="PrezentareGenerala#primaryTabs" class=" "
+                <li><a href="/Autoturisme/Noul_Kuga" class=" "
                        data-ajaxlink="/cs/ContentServer?cid=1205090681673&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE">Prezentare
                         generala</a>
                     <!-- secondary tabs -->

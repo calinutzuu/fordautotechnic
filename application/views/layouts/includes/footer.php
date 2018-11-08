@@ -7,7 +7,7 @@
         <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/ka-plus">Noul Ka+</a></h4></dd>
         <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/Fiesta"> Fiesta</a></h4></dd>
         <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/noul-fiesta"> NOUL FORD FIESTA</a></h4></dd>
-        <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/NoulB-MAX"> B-MAX</a></h4></dd>
+      <!--  <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/NoulB-MAX"> B-MAX</a></h4></dd> -- >
       <!--  <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/Noul-EcoSport"> EcoSport</a></h4></dd> -->
         <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/NoulEcosport"> EcoSport</a></h4></dd>
         <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/Focus"> Focus</a></h4></dd>
@@ -18,7 +18,7 @@
         <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/Mondeo"> Mondeo</a></h4></dd>
         <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/mondeo-vignale"> Mondeo Vignale</a></h4></dd>
         <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/NoulMustang"> Noul Mustang</a></h4></dd>
-        <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/Noul-S-MAX"> Noul S-MAX</a></h4></dd>
+        <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/Noul-S-MAX"> S-MAX</a></h4></dd>
         <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/s-max-vignale"> S-Max Vignale</a></h4></dd>
         <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/Noul-FordEdge"> Edge</a></h4></dd>
         <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/NoulGalaxy"> Noul Galaxy</a></h4></dd>

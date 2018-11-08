@@ -1,4 +1,3 @@
-
 <script type="text/javascript">
     // mobile sniffer
     ForceRedirectUserAgents = 'android,iphone,blackberry';
@@ -277,7 +276,7 @@
                 <!--  isBtfTab true -->
                 <!--  tabUrl /cs/ContentServer?cid=1205129234448&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE -->
                 <!-- IntoID ::: articleAssetId -->
-                <li class="selected"><a href="Noul_Kuga/prezentare_generala#primaryTabs"
+                <li class="selected"><a href="/Autoturisme/Noul_Kuga"
                                         data-ajaxlink="/cs/ContentServer?cid=1205129234448&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE">Prezentare
                         Generala</a>
                     <!--This is where the main content for the selected tab will go -->
@@ -294,89 +293,93 @@
                             <div id='tab1' class="secondary-tab-content">
                                 <header class="intro-header">
                                     <h1 class="bigHeading">
-                                        NOUL FORD <strong>KUGA</strong>
+                                        Tehnologie inovatoare. Design sofisticat.
                                     </h1>
                                     <span class="highlighter"></span>
 
                                     <p class="intro-text">
 
-                                    <p>Design impunator, ultra-contemporan, atat la interior, cat si la exterior.
-                                        Performanta si eficienta fara compromisuri. O lista impresionanta de
-                                        caracteristici, sisteme si tehnologii inteligente. Si caracter practic,
-                                        flexibilitate si utilitate exact asa cum iti doresti. <br> <br> Daca acolo unde
-                                        altii vad obstacole tu vezi oportunitati, atunci vei vedea posibilitatile
-                                        infinite oferite de noul Ford Kuga.</p>
-                                    </p>
+
                                 </header>
                                 <article class="content-column left">
                                     <div class="img-column"><img
-                                                src="/assets/img/kuga/1214576857410.jpg"
-                                                alt="Ford Kuga SYNC3 with Touchscreen and Voice Control"/><span
-                                                class="fv-overlay-icon"></span></a></div>
+                                            src="/assets/img/kuga/1214576857410.jpg"
+                                            alt="Ford Kuga SYNC3 with Touchscreen and Voice Control"/><span
+                                            class="fv-overlay-icon"></span></a></div>
                                     <div class="content">
                                         <h3 class="bigHeading02">
-                                            Tehnologie pe care o poti controla cu vocea
+                                            Tempomat care se poate adapta automat la conditiile de trafic
                                         </h3>
 
                                         <p>
 
-                                        <p>Ford SYNC&nbsp;3 iti permite sa fii conectat in permanenta si sa controlezi
-                                            telefonul, muzica, sistemul de navigatie si climatizarea cu ajutorul unor
-                                            comenzi vocale intuitive sau a unui ecran tactil color de&nbsp;8&rdquo;.<br>
-                                            <br> Poti chiar sa soliciti o lista cu restaurantele locale rostind, pur si
-                                            simplu, &bdquo;I'm hungry&rdquo; (Mi-e foame) sau poti accesa Ghidul
-                                            Michelin pentru a te ajuta sa alegi locuri unde sa mananci sau hoteluri si
-                                            sa faci rezervarile.<br> <br> Conectivitatea Wi-Fi este disponibila prin
-                                            intermediul hotspoturilor, cu un modem USB. Iar Sistemul de Asistenta pentru
-                                            situatii de urgenta te poate ajuta sa apelezi serviciile de urgenta in cazul
-                                            unui accident.</p>
+                                        <p>Cu ajutorul tehnologiei tempomatului adaptiv, alegi viteza cu care doresti sa
+                                            te deplasezi, iar sistemul o va mentine constanta. Daca senzorul RADAR
+                                            incorporat detecteaza un vehicul in fata, acesta iti va incetini vehiculul,
+                                            pentru a mentine o distanta prestabilita. De indata ce drumul din fata
+                                            devine liber, sistemul va accelera pana la viteza aleasa.</p>
                                         </p>
                                     </div>
                                 </article>
                                 <article class="content-column right">
                                     <div class="content">
                                         <h3 class="bigHeading02">
-                                            Intrari si iesiri din parcare fara stres
+                                            Hayon cu deschidere hands-free pentru deschidere si inchidere fara efort
                                         </h3>
 
                                         <p>
 
-                                        <p>Cu ajutorul mai multor tehnologii diferite, sistemul de asistenta activa la
-                                            parcare face mai mult decat sa te directioneze automat in locurile de
-                                            parcare. Pe deasupra, te ajuta si sa iesi din acestea.<br> <br> Sistemul de
-                                            asistenta la parcarea paralela si perpendiculara detecteaza un spatiu
-                                            adecvat atunci cand treci pe langa acesta. Apoi sistemul va prelua controlul
-                                            directiei, iar tu doar actionezi pedala de acceleratie, cutia de viteze si
-                                            frana (urmarind instructiunile clare si simple de pe ecran si semnalele
-                                            sonore).</p>
+                                        <p>Daca ai mainile ocupate, iar masina detecteaza in apropiere tocul cheii
+                                            KeyFree, nu trebuie decat sa misti piciorul sub bara de protectie din spate
+                                            si hayonul se va deschide (sau se va inchide) automat.</p>
                                         </p>
                                     </div>
                                     <div class="img-column"><img
-                                                src="/assets/img/kuga/1214576850367.jpg"
-                                                alt="Ford Kuga interior, steering wheel, centre consol with SYNC 3, front-view camera and automatic gearbox"/><span
-                                                class="fv-overlay-icon"></span></a></div>
+                                            src="/assets/img/kuga/1214576850367.jpg"
+                                            alt="Ford Kuga interior, steering wheel, centre consol with SYNC 3, front-view camera and automatic gearbox"/><span
+                                            class="fv-overlay-icon"></span></a></div>
                                 </article>
                                 <article class="content-column left">
                                     <div class="img-column"><img
-                                                src="/assets/img/kuga/1214576853397.jpg"
-                                                alt="frozen white Ford Kuga on the road, exterior, rear angle, auto city stop"/><span
-                                                class="fv-overlay-icon"></span></a></div>
+                                            src="/assets/img/kuga/1214576853397.jpg"
+                                            alt="frozen white Ford Kuga on the road, exterior, rear angle, auto city stop"/><span
+                                            class="fv-overlay-icon"></span></a></div>
                                     <div class="content">
                                         <h3 class="bigHeading02">
-                                            Pentru a&nbsp;evita coliziunile la&nbsp;viteza mica, noul Ford Kuga franeaza
-                                            in&nbsp;locul tau
+                                            Evita coliziunile la viteze reduse
                                         </h3>
 
                                         <p>
 
-                                        <p>Sistemul Active City Stop te ajuta sa eviti sau sa reduci efectele unei
-                                            coliziuni in trafic lent sau la viteze sub
-                                        <nobr>50 km/h</nobr>
-                                        . Daca sistemul detecteaza ca autoturismul din fata s-a oprit brusc, va actiona
-                                        automat franele.</p>
+                                        <p>Tehnologia inovatoare „Oprire activa in oras” il ajuta pe sofer sa evite
+                                            coliziunile in trafic lent si la viteze de pana la 50 km/h. Asistenta este
+                                            oferita continuu, sistemul masurand distanta pana la vehiculul din fata,
+                                            cand acesta se afla in apropiere. Daca sistemul detecteaza ca vehiculul din
+                                            fata a incetinit in mod neasteptat, va actiona franele automat.
                                         </p>
                                     </div>
                                 </article>
+
+                                <article class="content-column right">
+                                    <div class="content">
+                                        <h3 class="bigHeading02">
+                                            O bara de remorcare retractabila: mereu la indemana cand ai nevoie
+                                        </h3>
+
+                                        <p>
+
+                                        <p>Barele de remorcare sunt, de regula, fixe, asa ca se vad in permanenta in
+                                            spatele autoturismului. Insa bara de remorcare optionala cu eliberare
+                                            electrica a noului Kuga faciliteaza ascunderea barei de remorcare in spatele
+                                            barei de protectie atunci cand nu este folosita.</p>
+                                        </p>
+                                    </div>
+                                    <div class="img-column"><img
+                                            src="/assets/img/kuga/12146850367.jpg"
+                                            alt="Ford Kuga interior, steering wheel, centre consol with SYNC 3, front-view camera and automatic gearbox"/><span
+                                            class="fv-overlay-icon"></span></a></div>
+                                </article>
+
                             </div>
                             <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
                             <!-- BEGIN [MidPageTabs] -->
@@ -407,7 +410,9 @@
                 </li>
                 <!--  isBtfTab  -->
                 <!--  tabUrl /cs/ContentServer?cid=1205129234448&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205127835799&amp;tabName=galerie&amp;c=Page&amp;site=RORO4_ENGINE -->
-                <li><a href="Noul_Kuga/PreturisiPromotii#primaryTabs" class=" "  data-ajaxlink="/cs/ContentServer?cid=1205129234448&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205132037865&amp;tabName=PreturisiPromotii&amp;c=Page&amp;site=RORO4_ENGINE">PRETURI SI PROMOTII</a>
+                <li><a href="Noul_Kuga/PreturisiPromotii#primaryTabs" class=" "
+                       data-ajaxlink="/cs/ContentServer?cid=1205129234448&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205132037865&amp;tabName=PreturisiPromotii&amp;c=Page&amp;site=RORO4_ENGINE">PRETURI
+                        SI PROMOTII</a>
                     <!-- secondary tabs -->
                     <!--  midPageTabId : 1205132036316 -->
                 </li>
@@ -416,7 +421,7 @@
                     <!-- secondary tabs -->
                     <!--  midPageTabId : 1205127835016 -->
                 </li>
-                                <li><a href="Noul_Kuga/caracteristici#primaryTabs" class=" "
+                <li><a href="Noul_Kuga/caracteristici#primaryTabs" class=" "
                        data-ajaxlink="/cs/ContentServer?cid=1205129234448&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205127842606&amp;tabName=caracteristici&amp;c=Page&amp;site=RORO4_ENGINE">Caracteristici</a>
                     <!-- secondary tabs -->
                     <!--  midPageTabId : 1205127839319 -->

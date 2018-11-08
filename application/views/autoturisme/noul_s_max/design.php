@@ -338,7 +338,7 @@
 
             <p>
 
-            <p>Design exterior Ford S-MAX</p>
+            <p>Pregatit, sportiv, energic.</p>
             </p>
         </div>
         <div class="content-block">
@@ -354,7 +354,7 @@
 
             <p>
 
-            <p>Stil spate Ford S-MAX</p>
+            <p>Flexibilitatea si stilul personificate.</p>
             </p>
         </div>
         <div class="content-block last">
@@ -367,25 +367,62 @@
 
             <p>
 
-            <p>Stil dinamic Ford S-MAX</p>
+            <p>
+                Detalii superbe peste tot.
+            </p>
             </p>
         </div>
     </article>
+
     <article class='three-column'>
         <div class="content-block">
             <img
-                    src="/assets/img/s_max/1214513578950.jpg"
-                    alt="Ford S-MAX Rear Exterior"/><span class="fv-overlay-icon"></span>
+                src="/assets/img/s_max/12145578269.jpg"
+                alt="Ford S-MAX Exterior Design"/>
+            <span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
             </h3>
 
             <p>
 
-            <p>Exterior spate Ford S-MAX</p>
+            <p>
+                Luminat intens. Cu adevarat inteligent.
+            </p>
+            </p>
+        </div>
+        <div class="content-block">
+            <img
+                src="/assets/img/s_max/12145577688.jpg"
+                alt="Ford S-MAX Rear Styling"/>
+            <span class="fv-overlay-icon">
+
+            </span>
+
+            <h3 class="bigHeading02">
+            </h3>
+
+            <p>
+
+            <p>Un profil detaliat</p>
+            </p>
+        </div>
+        <div class="content-block last">
+            <img
+                src="/assets/img/s_max/1214578867.jpg"
+                alt=""/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+            </h3>
+
+            <p>
+
+            <p>Sportiv? Categoric</p>
             </p>
         </div>
     </article>
+
+
 </div>
 <!--  tabTitle : Interior :: btfTabContent : 1205090683422 :: tabContent :  -->
   <div id='tab2' class="secondary-tab-content">
@@ -402,46 +439,90 @@
         </p>
     </header>
     <article class='three-column'>
-        <div class="content-block">
-            <img
-                    src="/assets/img/s_max/1214513577104.jpg"
-                    alt="Ford S-MAX Interior Design"/><span class="fv-overlay-icon"></span>
+          <div class="content-block">
+              <img
+                  src="/assets/img/s_max/1214513577104.jpg"
+                  alt="Ford S-MAX Interior Design"/><span class="fv-overlay-icon"></span>
 
-            <h3 class="bigHeading02">
-            </h3>
+              <h3 class="bigHeading02">
+              </h3>
 
-            <p>
+              <p>
 
-            <p>Design interior Ford S-MAX</p>
-            </p>
-        </div>
-        <div class="content-block">
-            <img
-                    src="/assets/img/s_max/1214513576855.jpg"
-                    alt="Ford S-MAX Interior Styling"/><span class="fv-overlay-icon"></span>
+              <p>Design interior Ford S-MAX</p>
+              </p>
+          </div>
+          <div class="content-block">
+              <img
+                  src="/assets/img/s_max/1214513576855.jpg"
+                  alt="Ford S-MAX Interior Styling"/><span class="fv-overlay-icon"></span>
 
-            <h3 class="bigHeading02">
-            </h3>
+              <h3 class="bigHeading02">
+              </h3>
 
-            <p>
+              <p>
 
-            <p>Stil interior Ford S-MAX</p>
-            </p>
-        </div>
-        <div class="content-block last">
-            <img
-                    src="/assets/img/s_max/1214513577771.jpg"
-                    alt="Ford S-MAX Active Park Assist/Interior"/><span class="fv-overlay-icon"></span>
+              <p>Stil interior Ford S-MAX</p>
+              </p>
+          </div>
+          <div class="content-block last">
+              <img
+                  src="/assets/img/s_max/1214513577771.jpg"
+                  alt="Ford S-MAX Active Park Assist/Interior"/><span class="fv-overlay-icon"></span>
 
-            <h3 class="bigHeading02">
-            </h3>
+              <h3 class="bigHeading02">
+              </h3>
 
-            <p>
+              <p>
 
-            <p>Sistem de asistenta activa la parcare/Interior Ford S-MAX</p>
-            </p>
-        </div>
-    </article>
+              <p>Plafon panoramic pentru o senzatie mai luminoasa</p>
+              </p>
+          </div>
+      </article>
+
+      <article class='three-column'>
+          <div class="content-block">
+              <img
+                  src="/assets/img/s_max/12145135704.jpg"
+                  alt="Ford S-MAX Interior Design"/><span class="fv-overlay-icon"></span>
+
+              <h3 class="bigHeading02">
+              </h3>
+
+              <p>
+
+              <p>Spatiu flexibil de pana la sapte persoane</p>
+              </p>
+          </div>
+          <div class="content-block">
+              <img
+                  src="/assets/img/s_max/1214576855.jpg"
+                  alt="Ford S-MAX Interior Styling"/><span class="fv-overlay-icon"></span>
+
+              <h3 class="bigHeading02">
+              </h3>
+
+              <p>
+
+              <p>Inconjurat de spatiu</p>
+              </p>
+          </div>
+          <div class="content-block last">
+              <img
+                  src="/assets/img/s_max/1213577771.jpg"
+                  alt="Ford S-MAX Active Park Assist/Interior"/><span class="fv-overlay-icon"></span>
+
+              <h3 class="bigHeading02">
+              </h3>
+
+              <p>
+
+              <p>Sistem de scaune inteligent</p>
+              </p>
+          </div>
+      </article>
+
+
 </div>
 <!--  tabTitle : Jante :: btfTabContent : 1205090680485 :: tabContent :  -->
 <div id='tab3' class="secondary-tab-content">
@@ -693,7 +774,7 @@
             </p>
         </div>
     </article>
-</div> -- >
+</div>
 <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
 <!-- BEGIN [MidPageTabs] -->
 <!--<div id='tab1' class="mp-tab-wrapper">

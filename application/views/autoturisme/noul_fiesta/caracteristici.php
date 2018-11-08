@@ -1,4 +1,3 @@
-
 <script type="text/javascript">
     // mobile sniffer
     ForceRedirectUserAgents = 'android,iphone,blackberry';
@@ -300,197 +299,318 @@
 <div class="innertab-wrapper">
 <!--  tabTitle : Experienta la volan :: btfTabContent : 1205135247936 :: tabContent :  -->
 <div id='tab1' class="secondary-tab-content">
-    <header class="intro-header">
-        <h1 class="bigHeading">
-            Cu adevarat inteligent
-        </h1>
-        <span class="highlighter"></span>
+<header class="intro-header">
+    <h1 class="bigHeading">
+        Cu adevarat inteligent
+    </h1>
+    <span class="highlighter"></span>
 
-        <p class="intro-text">
+    <p class="intro-text">
 
-        <p>Tehnologia trebuie sa aiba intotdeauna un scop. Atunci cand pornesti noul Ford Fiesta, dai viata unei game
-            complete de caracteristici si sisteme inteligente. De exemplu, Asistenta activa la parcare, Tempomatul
-            adaptiv, Asistenta la pastrarea benzii, Recunoasterea indicatoarelor rutiere...<br> Pregateste-te sa te
-            bucuri de tehnologii atat de inteligente si de utile, incat te vei intreba cum de
-        <nobr>te-ai</nobr>
-        descurcat fara ele pana acum.</p>
+    <p>Tehnologia trebuie sa aiba intotdeauna un scop. Atunci cand pornesti noul Ford Fiesta, dai viata unei game
+        complete de caracteristici si sisteme inteligente. De exemplu, Asistenta activa la parcare, Tempomatul
+        adaptiv, Asistenta la pastrarea benzii, Recunoasterea indicatoarelor rutiere...<br> Pregateste-te sa te
+        bucuri de tehnologii atat de inteligente si de utile, incat te vei intreba cum de
+    <nobr>te-ai</nobr>
+    descurcat fara ele pana acum.</p>
+    </p>
+</header>
+<article class="content-column left">
+    <div class="img-column"><img
+            src="/assets/img/1214606261011.jpg"
+            alt="Intrari si iesiri din parcare fara stres"/><span class="fv-overlay-icon"></span></a></div>
+    <div class="content">
+        <h3 class="bigHeading02">
+            Tempomat care se poate adapta automat la conditiile de trafic
+        </h3>
+
+        <p>
+
+        <p>Cu ajutorul tehnologiei tempomatului adaptiv, alegi viteza cu care doresti sa te deplasezi, iar sistemul
+            o va mentine constanta. Daca senzorul RADAR incorporat detecteaza un vehicul in fata, acesta iti va
+            incetini vehiculul, pentru a mentine o distanta prestabilita. De indata ce drumul din fata devine liber,
+            sistemul va accelera pana la viteza aleasa.</p>
         </p>
-    </header>
-    <article class="content-column left">
-        <div class="img-column"> <img
-                    src="/assets/img/1214606261011.jpg"
-                    alt="Intrari si iesiri din parcare fara stres"/><span class="fv-overlay-icon"></span></a></div>
-        <div class="content">
-            <h3 class="bigHeading02">
-                Intrari si iesiri din parcare fara stres
-            </h3>
+    </div>
+</article>
+<article class="content-column right">
+    <div class="content">
+        <h3 class="bigHeading02">
+            Intrari si iesiri din parcare fara stres
+        </h3>
 
-            <p>
+        <p>
 
-            <p>Parcarea poate fi cu adevarat o&nbsp;bataie de cap. Dar nu si cu Fiesta. Si aceasta deoarece sistemul de
-                Asistenta activa la parcare foloseste o&nbsp;combinatie de tehnologii pentru
-            <nobr>a-ti</nobr>
-            face mai mult decat sa te directioneze in locurile de parcare. Sistemul de asistenta la iesirea din parcare
-            te ajuta si sa iesi din acestea. Sistemul pentru parcare paralela si perpendiculara poate sa detecteze daca
-            masina are loc
-            <nobr>intr-un</nobr>
-            anumit spatiu si sa te bage cu spatele in locul respectiv. Iar sistemul de asistenta la parcarea laterala te
-            atentioneaza, de asemenea, daca exista obstacole in lateral.</p>
-            </p>
-        </div>
-    </article>
-    <article class="content-column right">
-        <div class="content">
-            <h3 class="bigHeading02">
-                Tempomat care se poate adapta automat
-            </h3>
+        <p>Parcarea poate fi cu adevarat o bataie de cap. Dar nu si cu Fiesta. Si aceasta deoarece sistemul de
+            Asistenta activa la parcare foloseste o combinatie de tehnologii pentru a-ti face mai mult decat sa te
+            directioneze in locurile de parcare. Sistemul de asistenta la iesirea din parcare te ajuta si sa iesi
+            din acestea. Sistemul pentru parcare paralela si perpendiculara poate sa detecteze daca masina are loc
+            intr-un anumit spatiu si sa te bage cu spatele in locul respectiv. Iar sistemul de asistenta la parcarea
+            laterala te atentioneaza, de asemenea, daca exista obstacole in lateral.</p>
+        </p>
+    </div>
+    <div class="img-column"><img
+            src="/assets/img/1214606262306.jpg"
+            alt=" Tempomat care se poate adapta automat"/><span class="fv-overlay-icon"></span></a></div>
+</article>
+<article class='two-column'>
+    <div class="content-block">
+        <img
+            src="/assets/img/1214606267415.jpg"
+            alt="Un sistem avansat care te ajuta sa pastrezi banda de rulare"/><span
+            class="fv-overlay-icon"></span>
 
-            <p>
+        <h3 class="bigHeading02">
+            Tehnologie care vede ce tu nu poti vedea
+        </h3>
 
-            <p>Cu ajutorul tehnologiei Tempomat adaptiv, alegi viteza cu care doresti sa te deplasezi, iar sistemul o&nbsp;va
-                mentine constanta. Daca senzorul RADAR incorporat detecteaza o&nbsp;masina in fata, acesta va incetini
-                vehiculul tau Fiesta pentru a&nbsp;mentine o&nbsp;distanta prestabilita. De indata ce drumul din fata
-                este liber, sistemul va accelera din nou pana la viteza aleasa.</p>
-            </p>
-        </div>
-        <div class="img-column"> <img
-                    src="/assets/img/1214606262306.jpg"
-                    alt=" Tempomat care se poate adapta automat"/><span class="fv-overlay-icon"></span></a></div>
-    </article>
-    <article class='two-column'>
-        <div class="content-block">
-            <img
-                    src="/assets/img/1214606267415.jpg"
-                    alt="Un sistem avansat care te ajuta sa pastrezi banda de rulare"/><span
-                    class="fv-overlay-icon"></span>
+        <p>
 
-            <h3 class="bigHeading02">
-                Un sistem avansat care te ajuta sa pastrezi banda de rulare
-            </h3>
+        <p>Un Sistem de asistenta pentru unghiul mort foloseste senzori RADAR care pot scana unghiurile moarte de pe
+            ambele parti ale vehiculului tau Fiesta. Si daca detecteaza un vehicul pe care tu nu il poti vedea, o
+            lumina portocalie afisata in mod vizibil in oglinda laterala de pe partea corespunzatoare se va aprinde
+            pentru a te avertiza. Daca iesi cu spatele dintr-un loc de parcare si ai vizibilitate redusa asupra
+            situatiei traficului, Alerta la intersectarea cu traficul poate detecta vehicule care se apropie si
+            poate emite un sunet de avertizare. Aceasta tehnologie declanseaza, de asemenea, o lumina pe oglinda
+            retrovizoare exterioara: stanga sau dreapta, in functie de directia din care se apropie vehiculele.</p>
+        </p>
+    </div>
+    <div class="content-block last">
+        <img
+            src="/assets/img/1214606266099.jpg"
+            alt="Vede semnele de circulatie pe care le-ai putea rata"/><span class="fv-overlay-icon"></span>
 
-            <p>
+        <h3 class="bigHeading02">
+            Un sistem avansat care te ajuta sa pastrezi banda de rulare
+        </h3>
 
-            <p>Sistemul de mentinere a&nbsp;benzii de rulare utilizeaza o&nbsp;camera orientata in fata, pentru a&nbsp;detecta
-                daca ai iesit in mod accidental de pe banda ta de deplasare. Sistemul de avertizare la parasirea benzii
-                te avertizeaza apoi
-            <nobr>printr-o</nobr>
-            vibratie a&nbsp;volanului si prin afisarea unui indicator de avertizare vizuala. Daca reactionati mai greu
-            sau nu reactionati deloc, Sistemul de asistenta la pastrarea benzii iti poate oferi asistenta cu cuplul de
-            directie, pentru a&nbsp;te ajuta sa revii pe banda corecta. Aceasta tehnologie este conceputa pentru
-            suprafete rutiere cu mai multe benzi (precum autostrazile), asa ca se va dezactiva automat la viteze mai
-            mici de
-            <nobr>65 km/h,</nobr>
-            putand fi dezactivata si manual.</p>
-            </p>
-        </div>
-        <div class="content-block last">
-            <img
-                    src="/assets/img/1214606266099.jpg"
-                    alt="Vede semnele de circulatie pe care le-ai putea rata"/><span class="fv-overlay-icon"></span>
+        <p>
 
-            <h3 class="bigHeading02">
-                Vede semnele de circulatie pe care le-ai putea rata
-            </h3>
+        <p>Sistemul de mentinere a benzii de rulare utilizeaza o camera orientata in fata, pentru a detecta daca ai
+            iesit in mod accidental de pe banda ta de deplasare. Sistemul de avertizare la parasirea benzii te
+            avertizeaza apoi printr-o vibratie a volanului si prin afisarea unui indicator de avertizare vizuala.
+            Daca reactionati mai greu sau nu reactionati deloc, Sistemul de asistenta la pastrarea benzii iti poate
+            oferi asistenta cu cuplul de directie, pentru a te ajuta sa revii pe banda corecta. Aceasta tehnologie
+            este conceputa pentru suprafete rutiere cu mai multe benzi (precum autostrazile), asa ca se va dezactiva
+            automat la viteze mai mici de 65 km/h, putand fi dezactivata si manual.</p>
+        </p>
+    </div>
+</article>
 
-            <p>
+<article class='two-column'>
+    <div class="content-block">
+        <img
+            src="/assets/img/1214267415.jpg"
+            alt="Un sistem avansat care te ajuta sa pastrezi banda de rulare"/><span
+            class="fv-overlay-icon"></span>
 
-            <p>Indiferent daca semnele sunt pe marginea drumului sau deasupra acestuia, permanente sau temporare,
-                sistemul de Recunoastere a&nbsp;indicatoarelor rutiere le poate identifica. O&nbsp;pictograma cu semnul
-                respectiv de limitare a vitezei sau de interzicere a&nbsp;depasirii apare pe panoul de bord si se
-                schimba de fiecare data cand patrunzi
-            <nobr>intr-o</nobr>
-            zona cu o&nbsp;limita noua.</p>
-            </p>
-        </div>
-    </article>
-    <article class='three-column'>
-        <div class="content-block">
-            <img
-                    src="/assets/img/1214606265505.jpg"
-                    alt="Faza lunga automata. Te ajuta sa vezi, fara a-i orbi pe ceilalti soferi"/><span
-                    class="fv-overlay-icon"></span>
+        <h3 class="bigHeading02">
+            O dinamica a condusului adaptata pentru tine
+        </h3>
 
-            <h3 class="bigHeading02">
-                Faza lunga automata. Te ajuta sa vezi, fara
-                <nobr>a-i</nobr>
-                orbi pe ceilalti soferi
-            </h3>
-            <p>
+        <p>
 
-            <p>O functie utila pentru deplasarile pe timp de noapte, faza lunga automata comuta temporar la faza scurta
-                atunci cand detecteaza trafic din sens opus sau un alt autovehicul in fata, pentru
-            <nobr>a nu-i</nobr>
-            orbi pe ceilalti soferi. Ulterior, aceasta revine automat la faza lunga, asigurand vizibilitate maxima.</p>
-            </p>
-        </div>
-        <div class="content-block">
-            <img
-                    src="/assets/img/1214606262137.jpg"
-                    alt="Tehnologie care vede ce tu nu poti vedea"/><span class="fv-overlay-icon"></span>
+        <p>Fiesta Active este, deja, o masina flexibila. Dar poti personaliza si mai in detaliu experienta la volan,
+            ajustand reactia la acceleratie, responsivitatea directiei, ba chiar si rapiditatea cu care se schimba
+            vitezele. Modurile selectabile includ 'Normal', 'Eco' si 'Slippery' (Suprafete alunecoase).</p>
+        </p>
+    </div>
+    <div class="content-block last">
+        <img
+            src="/assets/img/1214666099.jpg"
+            alt="Vede semnele de circulatie pe care le-ai putea rata"/><span class="fv-overlay-icon"></span>
 
-            <h3 class="bigHeading02">
-                Tehnologie care vede ce tu nu poti vedea
-            </h3>
+        <h3 class="bigHeading02">
+            Vede semnele de circulatie pe care le-ai putea rata
+        </h3>
 
-            <p>
+        <p>
 
-            <p>Un Sistem de asistenta pentru unghiul mort foloseste senzori RADAR care pot scana unghiurile moarte de pe
-                ambele parti ale vehiculului tau Fiesta. Si daca detecteaza un vehicul pe care tu nu il poti vedea, o&nbsp;lumina
-                portocalie afisata in mod vizibil in oglinda laterala de pe partea corespunzatoare se va aprinde pentru
-                a&nbsp;te avertiza. Daca iesi cu spatele
-            <nobr>dintr-un</nobr>
-            loc de parcare si ai vizibilitate redusa asupra situatiei traficului, Alerta la intersectarea cu traficul
-            poate detecta vehicule care se apropie si poate emite un sunet de avertizare. Aceasta tehnologie
-            declanseaza, de asemenea, o&nbsp;lumina pe oglinda retrovizoare exterioara: stanga sau dreapta, in functie
-            de directia din care se apropie vehiculele.</p>
-            </p>
-        </div>
-        <div class="content-block last">
-            <img
-                    src="/assets/img/1214606266902.jpg"
-                    alt="Directie servoasistată care reactionează la orice situatie"/><span
-                    class="fv-overlay-icon"></span>
+        <p>Indiferent daca semnele sunt pe marginea drumului sau deasupra acestuia, permanente sau temporare,
+            Sistemul de recunoastere a indicatoarelor rutiere le poate identifica. O pictograma cu viteza respectiva
+            sau un semn de interzicere a depasirii apare pe panoul de bord si se schimba de fiecare data cand
+            patrunzi intr-o zona cu o limita noua.</p>
+        </p>
+    </div>
+</article>
 
-            <h3 class="bigHeading02">
-                Directie servoasistată care reactionează la orice situatie
-            </h3>
+<article class='two-column'>
+    <div class="content-block">
+        <img
+            src="/assets/img/121214267415.jpg"
+            alt="Un sistem avansat care te ajuta sa pastrezi banda de rulare"/><span
+            class="fv-overlay-icon"></span>
 
-            <p>
+        <h3 class="bigHeading02">
+            Te ajuta sa vezi, fara a-i orbi pe ceilalti soferi
+        </h3>
 
-            <p>Directia servoasistată electric (EPAS) se ajustează automat la viteza de rulare si la conditiile de drum.
-                La viteze reduse, sistemul face ca rotirea volanului să fie mai usoară, &icirc;mbunătătind
-                manevrabilitatea. La viteze ridicate, c&acirc;nd aveti nevoie de control mai mare, directia devine mai
-                rigidă. Acum, cu ajutorul controlului asupra devierii de la cursul normal, EPAS ia, de asemenea, &icirc;n
-                calcul, v&acirc;ntul care bate din fată si alte conditii de drum, &icirc;n timp ce controlul activ al
-                vibratiilor reduce vibratiile nedorite resimtite la nivelul volanului.</p>
-            </p>
-        </div>
-    </article>
+        <p>
+
+        <p>O functie utila pentru deplasarile pe timp de noapte, faza lunga automata, comuta temporar la faza scurta
+            atunci cand detecteaza trafic din sens opus sau un alt autovehicul in fata, pentru a nu-i orbi pe ceilalti
+            soferi. Apoi, sistemul revine automat la faza lunga, asigurand vizibilitate maxima.</p>
+        </p>
+    </div>
+    <div class="content-block last">
+        <img
+            src="/assets/img/12142666099.jpg"
+            alt="Vede semnele de circulatie pe care le-ai putea rata"/><span class="fv-overlay-icon"></span>
+
+        <h3 class="bigHeading02">
+            Directie servoasistata care reactioneaza la orice situatie
+        </h3>
+
+        <p>
+
+        <p>Directia servoasistata electric (EPAS) se ajusteaza automat la viteza de rulare si la conditiile de drum. La
+            viteze reduse, sistemul face ca rotirea volanului sa fie mai usoara, imbunatatind manevrabilitatea. La
+            viteze ridicate, cand ai nevoie de mai mult control , directia devine mai rigida. Acum, cu ajutorul
+            controlului asupra devierii de la cursul normal, EPAS ia de asemenea in calcul, vantul care bate din fata si
+            alte conditii de drum, in timp ce Controlul activ al vibratiilor reduce vibratiile nedorite, resimtite la
+            nivelul volanului.</p>
+        </p>
+    </div>
+</article>
+
+<article class='three-column'>
+    <div class="content-block">
+        <img
+            src="/assets/img/1214606265505.jpg"
+            alt="Faza lunga automata. Te ajuta sa vezi, fara a-i orbi pe ceilalti soferi"/><span
+            class="fv-overlay-icon"></span>
+
+        <h3 class="bigHeading02">
+            Asistenta de urgenta Ford SYNC
+        </h3>
+
+        <p>
+
+        <p>Un aspect important al tehnologiei Ford SYNC care iti poate salva viata este Asistenta de urgenta*. In cazul
+            putin probabil al unui accident, cand se activeaza airbagul sau se dezactiveaza pompa de carburant,
+            tehnologia poate folosi un telefon mobil imperecheat si conectat prin Bluetooth® pentru a efectua automat un
+            apel direct catre Serviciile de urgenta, in locul tau Poti alege sa intrerupi apelul sau sa discuti cu
+            personalul serviciului de urgenta, daca e cazul. Extrem de important, sistemul va furniza informatii vitale,
+            precum coordonatele tale GPS, chiar si atunci cand ti-ai pierdut cunostinta.</p>
+        </p>
+    </div>
+    <div class="content-block">
+        <img
+            src="/assets/img/1214606262137.jpg"
+            alt="Tehnologie care vede ce tu nu poti vedea"/><span class="fv-overlay-icon"></span>
+
+        <h3 class="bigHeading02">
+            Marsarier mai simplu si mai sigur
+        </h3>
+
+        <p>
+
+        <p>Stalpi opritori, biciclete, ziduri joase… Camera video pentru vedere spate iti arata tot ce se afla in
+            spatele masinii, pe un ecran integrat in consola centrala. Sistemul iti arata obiecte pe care le-ai putea
+            omite si in plus, afiseaza linii virtuale pentru a te ajuta sa parchezi si in cele mai inguste spatii.
+            Camera se activeaza automat cand selectezi treapta de marsarier.</p>
+        </p>
+    </div>
+    <div class="content-block last">
+        <img
+            src="/assets/img/1214606266902.jpg"
+            alt="Directie servoasistat? care reactioneaz? la orice situatie"/><span
+            class="fv-overlay-icon"></span>
+
+        <h3 class="bigHeading02">
+            Te ajuta sa pastrezi distanta
+        </h3>
+
+        <p>
+
+        <p>Atunci cand in fata ta se afla alt vehicul, panoul de bord iti poate indica distanta pana la acesta.
+            Indicatorul foloseste trei culori – de la gri, pentru distanta cea mai lunga, pana la rosu pentru cea mai
+            scurta. Poti ajusta sensibilitatea indicatorului pentru a il adapta stilului tau de condus.</p>
+        </p>
+    </div>
+</article>
+
+<article class='three-column'>
+    <div class="content-block">
+        <img
+            src="/assets/img/1214665505.jpg"
+            alt="Faza lunga automata. Te ajuta sa vezi, fara a-i orbi pe ceilalti soferi"/><span
+            class="fv-overlay-icon"></span>
+
+        <h3 class="bigHeading02">
+            Sistemul de avertizare a soferului isi da seama cand esti obosit
+        </h3>
+
+        <p>
+
+        <p>Sistemul de avertizare a soferului monitorizeaza constant stilul personal de condus si e conceput sa
+            detecteze orice variatie cauzata de oboseala. Daca sistemul detecteaza ca devii mai putin vigilent(a), o
+            pictograma de avertizare apare pe afisaj, sugerandu-ti sa iei o pauza. Daca gradul de vigilenta la volan
+            scade si mai mult, mesajul e repetat si insotit de un semnal sonor.</p>
+        </p>
+    </div>
+    <div class="content-block">
+        <img
+            src="/assets/img/1214262137.jpg"
+            alt="Tehnologie care vede ce tu nu poti vedea"/><span class="fv-overlay-icon"></span>
+
+        <h3 class="bigHeading02">
+            Un plus de control in cazul pornirilor in rampa
+        </h3>
+
+        <p>
+
+        <p>Sistemul de asistenta la pornirea din rampa impiedica temporar alunecarea in spate sau in fata, cand pornesti
+            din panta. Sistemul functioneaza prin mentinerea presiunii la nivelul sistemului de franare pentru un
+            interval suplimentar de 2-3 secunde, asigurandu-ti mai mult timp si control, cand muti piciorul de pe pedala
+            de frana, pe cea de acceleratie. Acest sistem este de asemenea util cand opresti si pornesti autovehiculul
+            pe suprafete alunecoase.</p>
+        </p>
+    </div>
+    <div class="content-block last">
+        <img
+            src="/assets/img/1214902.jpg"
+            alt="Directie servoasistat? care reactioneaz? la orice situatie"/><span
+            class="fv-overlay-icon"></span>
+
+        <h3 class="bigHeading02">
+            Drumuri mai putin obositoare, mai economice
+        </h3>
+
+        <p>
+
+        <p>Tempomatul prevazut cu dispozitivul ajustabil de limitare a vitezei te ajuta sa-ti mentii vehiculul in limita
+            de viteza prestabilita de tine. Te poate ajuta sa economisesti combustibil, sa reduci situatiile de depasire
+            a vitezei si, la fel ca toate sistemele de control al vitezei, iti permite sa mentii viteza aleasa fara sa
+            fi nevoit sa tii piciorul pe pedala de acceleratie.</p>
+        </p>
+    </div>
+</article>
+
+
 </div>
 <!--  tabTitle : Performanta si eficienta :: btfTabContent : 1205135250900 :: tabContent :  -->
 <div id='tab2' class="secondary-tab-content">
     <header class="intro-header">
         <h1 class="bigHeading">
-            Bucura-te de performanta. Imbratiseaza eficienta.
+            Performanta
         </h1>
         <span class="highlighter"></span>
 
         <p class="intro-text">
 
         <p>De ce sa alegi intre performanta si eficienta? Cu noul Ford Fiesta le poti avea pe ambele. Motorul Ford
-            EcoBoost pe benzina, de
-        <nobr>1,0 litri,</nobr>
-        este castigator al premiului Motorul international al anului de cinci ori*, iar acum este la dispozitia ta.
-        Tehnologia avansata te ajuta sa economisesti combustibil si sa reduci poluarea, iar dinamica de condus
-        sofisticata si manevrabilitatea precisa iti asigura o&nbsp;experienta la volan placuta si fara niciun compromis.<br>
-        <br> <span style="font-size: smaller;">*La categoria sub 1,0 litri</span></p>
+            EcoBoost pe benzina, de 1,0 litri, este castigator al premiului Motorul international al anului de cinci
+            ori*, iar acum este la dispozitia ta. Tehnologia avansata te ajuta sa economisesti combustibil si sa reduci
+            poluarea, iar dinamica de condus sofisticata si manevrabilitatea precisa iti asigura o experienta la volan
+            placuta si fara niciun compromis.</p>
         </p>
     </header>
     <article class="content-column left">
-        <div class="img-column"> <img
-                    src="/assets/img/1214606262218.jpg"
-                    alt="Mai multa putere. Mai multa eficienta. Mai multa placere."/><span
-                    class="fv-overlay-icon"></span></a></div>
+        <div class="img-column"><img
+                src="/assets/img/1214606262218.jpg"
+                alt="Mai multa putere. Mai multa eficienta. Mai multa placere."/><span
+                class="fv-overlay-icon"></span></a></div>
         <div class="content">
             <h3 class="bigHeading02">
                 Mai multa putere. Mai multa eficienta. Mai multa placere.
@@ -518,27 +638,22 @@
 
             <p>
 
-            <p>Preferi un motor diesel? Atunci alege motorul TDCi de
-            <nobr>1,5 litri,</nobr>
-            care dezvolta nu mai putin de 85&nbsp;CP si ofera un consum de numai
-            <nobr>3,5 l/100 km,</nobr>
-            cu emisii de CO<sub>2</sub> de numai 88*&nbsp;g/km. Daca doresti si mai multa putere, plus eficienta, un
-            motor de
-            <nobr>120 CP</nobr>
-            iti ofera
-            <nobr>3,2 l/100 km</nobr>
-            si emisii de CO<sub>2</sub> de 89&nbsp;g/km.<br> <br> <span style="font-size: smaller;">*Doar cu pneuri de vara, de 15&nbsp;inchi.</span></p>
+            <p>Preferi un motor diesel
+                ? Atunci alege motorul TDCi de 1,5 litri, care dezvolta nu mai putin de 85 CP si ofera un consum de
+                numai 3,5 l/100 km, cu emisii de CO2 de numai 88* g/km. Daca doresti si mai multa putere, plus
+                eficienta, un motor de 120 CP iti ofera 3,2 l/100 km si emisii de CO2 de 89 g/km.
+            </p>
             </p>
         </div>
-        <div class="img-column"> <img
-                    src="/assets/img/1214606267578.jpg"
-                    alt="Puterea diesel"/><span class="fv-overlay-icon"></span></a></div>
+        <div class="img-column"><img
+                src="/assets/img/1214606267578.jpg"
+                alt="Puterea diesel"/><span class="fv-overlay-icon"></span></a></div>
     </article>
     <article class='two-column'>
         <div class="content-block">
             <img
-                    src="/assets/img/1214606264105.jpg"
-                    alt="Foloseste mai putin combustibil cu functia Auto"/><span class="fv-overlay-icon"></span>
+                src="/assets/img/1214606264105.jpg"
+                alt="Foloseste mai putin combustibil cu functia Auto"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Foloseste mai putin combustibil cu functia Auto<br>Start-Stop
@@ -556,9 +671,9 @@
             </p>
         </div>
         <div class="content-block last">
-           <img
-                    src="/assets/img/1214606266634.jpg"
-                    alt="Eficienta prin simpla apasare a unui buton"/><span class="fv-overlay-icon"></span>
+            <img
+                src="/assets/img/1214606266634.jpg"
+                alt="Eficienta prin simpla apasare a unui buton"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Eficienta prin simpla apasare a unui buton
@@ -574,283 +689,606 @@
             </p>
         </div>
     </article>
+
+    <article class='two-column'>
+        <div class="content-block">
+            <img
+                src="/assets/img/121460105.jpg"
+                alt="Foloseste mai putin combustibil cu functia Auto"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+                Manuala sau automata? Tu decizi
+            </h3>
+
+            <p>
+
+            <p>Gama de transmisii a fost gandita pentru a te ajuta sa profiti la maximum de motorizarea pe care o alegi.
+                Ai la dispozitie optiuni manuale – una cu 5 si doua cu 6 viteze – precum si o transmisie automata cu 6
+                viteze. </p>
+            </p>
+        </div>
+        <div class="content-block last">
+            <img
+                src="/assets/img/121466634.jpg"
+                alt="Eficienta prin simpla apasare a unui buton"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+                Aerodinamica mai buna pentru economie mai mare
+            </h3>
+
+            <p>
+
+            <p>Cand conduci cu viteza redusa, Sistemul activ cu obturator pentru grila tine orificiile de ventilatie de
+                la nivelul grilei deschise, pentru a raci motorul. Cand prinzi viteza, acesta se poate inchide automat,
+                imbunatatind aerodinamica si ajutand la economisirea combustibilului. In timp, aceasta tehnologie poate
+                face o mare diferenta in privinta economiei de combustibil.</p>
+            </p>
+        </div>
+    </article>
+
+    <article class='two-column'>
+        <div class="content-block">
+            <img
+                src="/assets/img/12144105.jpg"
+                alt="Foloseste mai putin combustibil cu functia Auto"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+                Motoare care indeplinesc standard riguroase
+            </h3>
+
+            <p>
+
+            <p>Indiferent ce motorizare alegi pentru EcoSport, te vei bucura sa stii ca toate optiunile indeplinesc
+                standardele pentru emisii Euro 6. Pentru motoarele pe benzina, standardul Euro 6 inseamna ca motorul nu
+                poate produce mai mult de 1,0g/km de monoxid de carbon, 0,10 g/km de hydrocarbon, 0,06 g/km de oxizi de
+                azot si 0,005 g/km de particule. (* Aplicabil doar motoarelor cu injectie directa.)</p>
+            </p>
+        </div>
+        <div class="content-block last">
+            <img
+                src="/assets/img/1606266634.jpg"
+                alt="Eficienta prin simpla apasare a unui buton"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+                Reincarca-ti bateria mai eficient
+            </h3>
+
+            <p>
+
+            <p>Spre deosebire de sistemele conventionale, sistemul de incarcare regenerativ inteligent reincarca bateria
+                doar cand este nevoie si, ori de cate ori este posibil, evita realizarea acestei operatiuni cand apesi
+                pedala de acceleratie. Acest lucru poate reduce si mai mult consumul de combustibil si nivelul de
+                emisii.</p>
+            </p>
+        </div>
+    </article>
 </div>
 <!--  tabTitle : Confort :: btfTabContent : 1205135247643 :: tabContent :  -->
 <div id='tab3' class="secondary-tab-content">
-    <header class="intro-header">
-        <h1 class="bigHeading">
-            Relaxare si tonicitate. Valoare si inteligenta.
-        </h1>
-        <span class="highlighter"></span>
+<header class="intro-header">
+    <h1 class="bigHeading">
+        Confort
+    </h1>
+    <span class="highlighter"></span>
 
-        <p class="intro-text">
+    <p class="intro-text">
 
-        <p>Daca tehnologiile inteligente functioneaza fara probleme in casa ta, ar trebui sa faca la fel si in masina.
-            De aceea, noul Ford Fiesta este echipat cu SYNC&nbsp;3, pentru
-        <nobr>a-ti</nobr>
-        usura viata, cu B&amp;O&nbsp;PLAY pentru a iti face calatoriile mai distractive si cu un acoperis panoramic ce
-        poate fi deschis, pentru a&nbsp;face ca fiecare deplasaresa fie si mai placuta.
-        <nobr>Pregateste-te</nobr>
-        sa descoperi toate acestea si multe altele
-        <nobr>intr-un</nobr>
-        spatiu care iti ofera confortul si utilitatea la care visezi.</p>
+    <p>Daca tehnologiile inteligente functioneaza fara probleme in casa ta, ar trebui sa faca la fel si in masina.
+        De aceea, noul Ford Fiesta este echipat cu SYNC 3, pentru a-ti usura viata, cu B&O PLAY pentru a iti face
+        calatoriile mai distractive si cu un acoperis panoramic ce poate fi deschis, pentru a face ca fiecare
+        deplasaresa fie si mai placuta. Pregateste-te sa descoperi toate acestea si multe altele intr-un spatiu care
+        iti ofera confortul si utilitatea la care visezi.</p>
+    </p>
+</header>
+<article class="content-column left">
+    <div class="img-column"><img
+            src="/assets/img/1214606265415.jpg"
+            alt="Muzica ta favorita, asa cum ar trebui sa se auda"/><span class="fv-overlay-icon"></span></a>
+    </div>
+    <div class="content">
+        <h3 class="bigHeading02">
+            Tehnologie fara cusur, pe care o poti controla vocal
+        </h3>
+
+        <p>
+
+        <p>Ford SYNC 3* este un sistem de ultima ora ce iti permite sa fii conectat(a) in permanenta si sa
+            controlezi telefonul, muzica si sistemul de navigatie cu ajutorul unor comenzi vocale intuitive sau al
+            unui ecran tactil color de 8”. Se conecteaza la Apple CarPlay si Android Auto, iar cu AppLink, poti sa
+            accesezi unele dintre aplicatiile tale preferate de pe smartphone, inclusiv Spotify. Live Traffic te
+            poate ajuta sa eviti ambuteiajele. Si poti chiar sa soliciti o lista cu restaurantele locale, rostind,
+            pur si simplu, „I'm hungry” (Mi-e foame) sau poti accesa Ghidul Michelin pentru a te ajuta sa alegi
+            locuri unde sa mananci si sa faci rezervarile.</p>
         </p>
-    </header>
-    <article class="content-column left">
-        <div class="img-column"> <img
-                    src="/assets/img/1214606265415.jpg"
-                    alt="Muzica ta favorita, asa cum ar trebui sa se auda"/><span class="fv-overlay-icon"></span></a>
-        </div>
-        <div class="content">
-            <h3 class="bigHeading02">
-                Muzica ta favorita, asa cum ar trebui sa se auda
-            </h3>
+    </div>
+</article>
+<article class="content-column right">
+    <div class="content">
+        <h3 class="bigHeading02">
+            Muzica ta favorita, asa cum ar trebui sa se auda
+        </h3>
 
-            <p>
+        <p>
 
-            <p>Oricare ar fi gusturile tale, muzica merita sa sune asa cum a&nbsp;intentionat artistul. Si exact asa se
-                intampla in noul Fiesta. De ce? Deoarece este disponibil cu B&amp;O&nbsp;PLAY. Acest sistem audio
-                premium de 675&nbsp;wati ofera un sunet bogat si puternic, printr-un sistem ce include 10&nbsp;difuzoare,
-                woofer si subwoofer. Iar aceasta tehnologie avansata a&nbsp;fost special conceputa, dezvoltata si
-                reglata pentru noul Fiesta de catre specialistii in acustica ai <a
-                    HREF="http://www.ford.ro/Tehnologie/Inteligenta/b-and-o-play"><span
-                        style="color: rgb(0, 0, 255);"><u>B&amp;O PLAY</u></span></a>. Așa ca mareste volumul si
-                bucura-te de trupele si piesele favorite in sala de concerte a&nbsp;masinii tale.</p>
-            </p>
-        </div>
-    </article>
-    <article class="content-column right">
-        <div class="content">
-            <h3 class="bigHeading02">
-                Tehnologie fara cusur, pe care o&nbsp;poti controla vocal
-            </h3>
+        <p>Oricare ar fi gusturile tale, muzica merita sa sune asa cum a intentionat artistul. Si exact asa se
+            intampla in noul Fiesta. De ce? Deoarece este disponibil cu B&O PLAY. Acest sistem audio premium de 675
+            wati ofera un sunet bogat si puternic, printr-un sistem ce include 10 difuzoare, woofer si subwoofer.
+            Iar aceasta tehnologie avansata a fost special conceputa, dezvoltata si reglata pentru noul Fiesta de
+            catre specialistii in acustica ai B&O PLAY. Asa ca mareste volumul si bucura-te de trupele si piesele
+            favorite in sala de concerte a masinii tale.</p>
+        </p>
+    </div>
+    <div class="img-column"><img
+            src="/assets/img/1214606264883.jpg"
+            alt="Tehnologie fara cusur, pe care o poti controla vocal"/><span
+            class="fv-overlay-icon"></span></a></div>
+</article>
+<article class='two-column'>
+    <div class="content-block">
+        <img
+            src="/assets/img/1214606261800.jpg"
+            alt=""/><span
+            class="fv-overlay-icon"></span>
 
-            <p>
+        <h3 class="bigHeading02">
+            Plafon panoramic mare, pentru un spatiu mai luminos si mai aerisit
+        </h3>
 
-            <p>Ford <a HREF="http://www.ford.ro/Tehnologie/Inteligenta/SYNC"><span style="color: rgb(0, 0, 255);"><u>SYNC
-                            3</u></span></a> este un sistem de ultima ora ce iti permite sa fii conectat(a) in
-                permanenta si sa controlezi telefonul, muzica si sistemul de navigatie cu ajutorul unor comenzi vocale
-                intuitive sau al unui ecran tactil color de 8&rdquo;. Se conecteaza la Apple CarPlay si Android Auto,
-                iar cu AppLink, poti sa accesezi unele dintre aplicatiile tale preferate de pe smartphone, inclusiv
-                Spotify. Live Traffic te poate ajuta sa eviti ambuteiajele. Si poti chiar sa soliciti o&nbsp;lista cu
-                restaurantele locale, rostind, pur si simplu, &bdquo;I'm hungry&rdquo; (Mi-e foame) sau poti accesa
-                Ghidul Michelin pentru a te ajuta sa alegi locuri unde sa mananci si sa faci rezervarile.</p>
-            </p>
-        </div>
-        <div class="img-column"><img
-                    src="/assets/img/1214606264883.jpg"
-                    alt="Tehnologie fara cusur, pe care o poti controla vocal"/><span
-                    class="fv-overlay-icon"></span></a></div>
-    </article>
-    <article class='two-column'>
-        <div class="content-block">
-           <img
-                    src="/assets/img/1214606261800.jpg"
-                    alt="Plafon panoramic mare, pentru un spatiu mai luminos si mai aerisit"/><span
-                    class="fv-overlay-icon"></span>
+        <p>
 
-            <h3 class="bigHeading02">
-                Plafon panoramic mare, pentru un spatiu mai luminos si mai aerisit
-            </h3>
+        <p>Spre deosebire de majoritatea masinilor de marime similara, noul Ford Fiesta poate fi dotat, optional, cu
+            un plafon panoramic din sticla, format din doua parti. Acesta ori se deschide prin rabatare, ori se
+            gliseaza sub partea din spate a&nbsp;plafonului, pentru a&nbsp;crea un interior luminos si aerisit. In
+            timp ce plafonul permite patrunderea luminii naturale, geamul care reflecta lumina razelor mentine
+            racoarea si te protejeaza de razele UV daunatoare. Un parasolar actionat electric iti permite, de
+            asemenea, sa acoperi sau sa descoperi plafonul,
+        <nobr>printr-o</nobr>
+        simpla apasare de buton.</p>
+        </p>
+    </div>
+    <div class="content-block last">
+        <img
+            src="/assets/img/1214606267162.jpg"
+            alt="Masina ta Fiesta. Exact asa cum o doresti"/><span class="fv-overlay-icon"></span>
 
-            <p>
+        <h3 class="bigHeading02">
+            Masina ta Fiesta. Exact asa cum o&nbsp;doresti
+        </h3>
 
-            <p>Spre deosebire de majoritatea masinilor de marime similara, noul Ford Fiesta poate fi dotat, optional, cu
-                un plafon panoramic din sticla, format din doua parti. Acesta ori se deschide prin rabatare, ori se
-                gliseaza sub partea din spate a&nbsp;plafonului, pentru a&nbsp;crea un interior luminos si aerisit. In
-                timp ce plafonul permite patrunderea luminii naturale, geamul care reflecta lumina razelor mentine
-                racoarea si te protejeaza de razele UV daunatoare. Un parasolar actionat electric iti permite, de
-                asemenea, sa acoperi sau sa descoperi plafonul,
-            <nobr>printr-o</nobr>
-            simpla apasare de buton.</p>
-            </p>
-        </div>
-        <div class="content-block last">
-           <img
-                    src="/assets/img/1214606267162.jpg"
-                    alt="Masina ta Fiesta. Exact asa cum o doresti"/><span class="fv-overlay-icon"></span>
+        <p>
 
-            <h3 class="bigHeading02">
-                Masina ta Fiesta. Exact asa cum o&nbsp;doresti
-            </h3>
+        <p>Doresti sa iti personalizezi noul Fiesta si sa il faci cu adevarat al tau? Dispui de numeroase optiuni
+            pentru a&nbsp;face exact acest lucru. De la culori de exterior solide, metalice, in doua nuante si
+            speciale la accente de interior, stiluri de tapiterie si cusaturi, plus modele variate de jante…
+            Indiferent cum doresti sa arate masina ta, vei gasi totul in pachetele noastre pentru personalizarea
+            vehiculului.</p>
+        </p>
+    </div>
+</article>
+<article class='three-column'>
+    <div class="content-block">
+        <img
+            src="/assets/img/1214606264358.jpg"
+            alt="Loc pentru a v? întinde picioarele"/><span class="fv-overlay-icon"></span>
 
-            <p>
+        <h3 class="bigHeading02">
+            Loc pentru a va întinde picioarele
+        </h3>
 
-            <p>Doresti sa iti personalizezi noul Fiesta si sa il faci cu adevarat al tau? Dispui de numeroase optiuni
-                pentru a&nbsp;face exact acest lucru. De la culori de exterior solide, metalice, in doua nuante si
-                speciale la accente de interior, stiluri de tapiterie si cusaturi, plus modele variate de jante…
-                Indiferent cum doresti sa arate masina ta, vei gasi totul in pachetele noastre pentru personalizarea
-                vehiculului.</p>
-            </p>
-        </div>
-    </article>
-    <article class='three-column'>
-        <div class="content-block">
-            <img
-                    src="/assets/img/1214606264358.jpg"
-                    alt="Loc pentru a vă întinde picioarele"/><span class="fv-overlay-icon"></span>
+        <p>
 
-            <h3 class="bigHeading02">
-                Loc pentru a&nbsp;vă întinde picioarele
-            </h3>
+        <p>Printr-o utilizare inteligentă a spatiului, noul Ford Fiesta iti oferă acum mai mult loc la picioare,
+            atât în fată, cât si în spate. Si, deoarece scaunele din spate au spatare subtiri, sculptate, pasagerii
+            pot sta si mai în spate.</p>
+        </p>
+    </div>
+    <div class="content-block">
+        <img
+            src="/assets/img/1214606261101.jpg"
+            alt="Scaune si volan care iti tin de cald"/><span class="fv-overlay-icon"></span>
 
-            <p>
+        <h3 class="bigHeading02">
+            Scaune si volan care iti tin de cald
+        </h3>
 
-            <p>Printr-o utilizare inteligentă a&nbsp;spatiului, noul Ford Fiesta iti oferă acum mai mult loc la
-                picioare, at&acirc;t &icirc;n fată, c&acirc;t si &icirc;n spate. Si, deoarece scaunele din spate au
-                spatare subtiri, sculptate, pasagerii pot sta si mai &icirc;n spate.</p>
-            </p>
-        </div>
-        <div class="content-block">
-            <img
-                    src="/assets/img/1214606261101.jpg"
-                    alt="Scaune si volan care iti tin de cald"/><span class="fv-overlay-icon"></span>
+        <p>
 
-            <h3 class="bigHeading02">
-                Scaune si volan care iti tin de cald
-            </h3>
+        <p>Sunt disponibile, optional, scaune incalzite, atat pentru sofer, cat si pentru pasagerul din fata. Exista
+            trei setari de incalzire diferite, pe care le poti stabili cu usurinta prin intermediul comutatoarelor
+            cu buton, care controleaza scaunele incalzite din stanga si din dreapta, o&nbsp;lumina rosie
+            aprinzandu-se pentru a&nbsp;indica setarea nivelului de incalzire ales. Indiferent daca este o&nbsp;dimineata
+            friguroasa, o&nbsp;zi racoroasa sau o&nbsp;noapte geroasa, volanul incalzit iti va incalzi cu siguranta
+            mainile mai bine decat o&nbsp;pereche de manusi.</p>
+        </p>
+    </div>
+    <div class="content-block last">
+        <img
+            src="/assets/img/1214606266814.jpg"
+            alt="Sistemul Key-free inseamna mai putine griji"/><span class="fv-overlay-icon"></span>
 
-            <p>
+        <h3 class="bigHeading02">
+            Sistemul Key-free inseamna mai putine griji
+        </h3>
 
-            <p>Sunt disponibile, optional, scaune incalzite, atat pentru sofer, cat si pentru pasagerul din fata. Exista
-                trei setari de incalzire diferite, pe care le poti stabili cu usurinta prin intermediul comutatoarelor
-                cu buton, care controleaza scaunele incalzite din stanga si din dreapta, o&nbsp;lumina rosie
-                aprinzandu-se pentru a&nbsp;indica setarea nivelului de incalzire ales. Indiferent daca este o&nbsp;dimineata
-                friguroasa, o&nbsp;zi racoroasa sau o&nbsp;noapte geroasa, volanul incalzit iti va incalzi cu siguranta
-                mainile mai bine decat o&nbsp;pereche de manusi.</p>
-            </p>
-        </div>
-        <div class="content-block last">
-            <img
-                    src="/assets/img/1214606266814.jpg"
-                    alt="Sistemul Key-free inseamna mai putine griji"/><span class="fv-overlay-icon"></span>
+        <p>
 
-            <h3 class="bigHeading02">
-                Sistemul Key-free inseamna mai putine griji
-            </h3>
+        <p>Cand te apropii de masina, sistemul Ford KeyFree detecteaza imediat cheia cu telecomanda, chiar daca se
+            afla in buzunar sau in geanta. Usile se descuie, iar dupa ce te asezi, nu este nevoie de vreo cheie de
+            contact. Apasa ambreiajul, actioneaza butonul de pornire Ford Power si motorul prinde viata.</p>
+        </p>
+    </div>
+</article>
 
-            <p>
+<article class='three-column'>
+    <div class="content-block">
+        <img
+            src="/assets/img/12606264358.jpg"
+            alt="Loc pentru a v? întinde picioarele"/><span class="fv-overlay-icon"></span>
 
-            <p>Cand te apropii de masina, sistemul Ford KeyFree detecteaza imediat cheia cu telecomanda, chiar daca se
-                afla in buzunar sau in geanta. Usile se descuie, iar dupa ce te asezi, nu este nevoie de vreo cheie de
-                contact. Apasa ambreiajul, actioneaza butonul de pornire Ford Power si motorul prinde viata.</p>
-            </p>
-        </div>
-    </article>
+        <h3 class="bigHeading02">
+            Solutie inteligenta pentru telefoanele mobile
+        </h3>
+
+        <p>
+
+        <p>My Ford Dock este un detaliu de design – aici iti poti depozita telefonul intelligent, MP# player-ul sau
+            dispozitivul de navigatie, astfel icnat sa le poti vedea fara a iti lua privirea de la drum. Statia de
+            andocare este plasata deasupra consolei centrale si este prevazuta cu un capac ce se poate bloca pentru a
+            fixa dispozitivul.</p>
+        </p>
+    </div>
+    <div class="content-block">
+        <img
+            src="/assets/img/12146061101.jpg"
+            alt="Scaune si volan care iti tin de cald"/><span class="fv-overlay-icon"></span>
+
+        <h3 class="bigHeading02">
+            Spatiu pentru orice
+        </h3>
+
+        <p>
+
+        <p>Habitaclul este atent proiectat, pentru a profita la maximum de fiecare milimetru patrat de spatiu –
+            beneficiezi, in functie de modelul ales, de pana la 19 spatii diferite de depozitare. Printre ele se numara
+            o ‘tavita media’ in fata schimbatorului, unde iti poti aseza dispozitivele mobile; acestea nu vor aluneca
+            pentru ca tavita are o podea cauciucata. Tot acolo vei gasi si o priza USB, pentru a incarca foarte
+            convenabil dispozitivele.</p>
+        </p>
+    </div>
+    <div class="content-block last">
+        <img
+            src="/assets/img/12146266814.jpg"
+            alt="Sistemul Key-free inseamna mai putine griji"/><span class="fv-overlay-icon"></span>
+
+        <h3 class="bigHeading02">
+            Pentru informare si divertisment
+        </h3>
+
+        <p>
+
+        <p>Fiesta iti ofera patru niveluri diferite de sisteme de informatii si divertisment. Sistemul de baza include
+            printer altele un radio hi-fi, sase difuzoare, Bluetooth, doua prize USB. Sistemul de top iti aduce un radio
+            DAB, ecran tactil color, de 8”, compatibilitate cu Apple CarPlay si Android Auto, sapte difuzoare, SYNC 3 cu
+            Bluetooth si control vocal, precum si multe alte functii.</p>
+        </p>
+    </div>
+</article>
+
+<article class="content-column left">
+    <div class="img-column"><img
+            src="/assets/img/12146261800.jpg"
+            alt="Muzica ta favorita, asa cum ar trebui sa se auda"/><span class="fv-overlay-icon"></span></a>
+    </div>
+    <div class="content">
+        <h3 class="bigHeading02">
+            Utilizarea in comun a masinii, fara probleme, cu ajutorul caracteristicii MyKey
+        </h3>
+
+        <p>
+
+        <p>MyKey iti permite sa setezi limita maxima de viteza, semnalul care sa atraga atentia asupra purtarii centurii
+            de siguranta si chiar volumul sistemului audio. Aceasta tehnologie este conceputa pentru a iti asigura
+            linistea atunci cand imprumuti masina unui prieten sau unui membru al familiei, deoarece poti programa
+            restrictiile dorite pentru cheia respectiva. Poti pastra personal cheia de „admin” si chiar sa ai mai multe
+            exemplare din ambele chei, daca doresti.</p>
+        </p>
+    </div>
+</article>
+<article class="content-column right">
+    <div class="content">
+        <h3 class="bigHeading02">
+            Iluminare ambientala, pentru un interior contemporan
+        </h3>
+
+        <p>
+
+        <p>Iluminarea ambientala iti permite sa adaugi in habitaclu o nuanta subtila si sofisticata de culoare, atunci
+            cand circuli noaptea. </p>
+        </p>
+    </div>
+    <div class="img-column"><img
+            src="/assets/img/12146267162.jpg"
+            alt="Tehnologie fara cusur, pe care o poti controla vocal"/><span
+            class="fv-overlay-icon"></span></a></div>
+</article>
+
+<article class="content-column left">
+    <div class="img-column"><img
+            src="/assets/img/121461800.jpg"
+            alt="Muzica ta favorita, asa cum ar trebui sa se auda"/><span class="fv-overlay-icon"></span></a>
+    </div>
+    <div class="content">
+        <h3 class="bigHeading02">
+            Curata parbrizul rapid cu Quickclear
+        </h3>
+
+        <p>
+
+        <p>Aceasta dotare inteligenta e creata pentru a-ti permite sa pornesti rapid in diminetile geroase. Trebuie doar
+            sa atingi un buton si filamente extrem de subtiri se supraincalzesc, pentru a curata parbrizul de gheata,
+            ceata si abur, precum si pentru a ajuta la dezghetarea stergatoarelor. Sistemul actioneaza in cateva
+            secunde, chiar si la temperaturi negative.</p>
+        </p>
+    </div>
+</article>
+
+<article class='three-column'>
+    <div class="content-block">
+        <img
+            src="/assets/img/106264358.jpg"
+            alt=""/><span class="fv-overlay-icon"></span>
+
+        <h3 class="bigHeading02">
+            Seteaza temperatura dorita
+        </h3>
+
+        <p>
+
+        <p>Cu ajutorul Sistemului optional de climatizare automata, selecteaza pur si simplu temperatura interioara
+            dorita, iar aceasta va mentine cu ajutorul sistemului avansat de climatizare..</p>
+        </p>
+    </div>
+    <div class="content-block">
+        <img
+            src="/assets/img/121461101.jpg"
+            alt="Scaune si volan care iti tin de cald"/><span class="fv-overlay-icon"></span>
+
+        <h3 class="bigHeading02">
+            Oglinzi care se pot proteja singuree
+        </h3>
+
+        <p>
+
+        <p>Pentru a evita deteriorarea accidentala, oglinzile laterale rabatabile electric (optionale) se pliaza catre
+            interior, dupa ce ai parcat. Cand sunt rabatate, oglinzile protejeaza de asemenea, elegantele indicatoare
+            integrate.</p>
+        </p>
+    </div>
+    <div class="content-block last">
+        <img
+            src="/assets/img/121466814.jpg"
+            alt="Sistemul Key-free inseamna mai putine griji"/><span class="fv-overlay-icon"></span>
+
+        <h3 class="bigHeading02">
+            Evita zgarieturile enervante
+        </h3>
+
+        <p>
+
+        <p>Nu e deloc greu sa lovesti portiera, atunci cand parchezi in locuri inguste. Dar, in fiesta, la deschiderea
+            portierei se declanseaza o bariera protectoare, care are grija de vopseaua ta si de cea a masinilor din
+            jur.</p>
+        </p>
+    </div>
+</article>
+
+
 </div>
 <!--  tabTitle : Siguranta si securitate :: btfTabContent : 1205135251608 :: tabContent :  -->
 <div id='tab4' class="secondary-tab-content">
-    <header class="intro-header">
-        <h1 class="bigHeading">
-            Siguranta si protectia ta sunt prioritare
-        </h1>
-        <span class="highlighter"></span>
+<header class="intro-header">
+    <h1 class="bigHeading">
+        Siguranta
+    </h1>
+    <span class="highlighter"></span>
 
-        <p class="intro-text">
+    <p class="intro-text">
 
-        <p>Noul Ford Fiesta incorporeaza o&nbsp;serie de <a HREF="http://www.ford.ro/Tehnologie"><span
-                    style="color: rgb(0, 0, 255);"><u>tehnologii avansate</u></span></a>, concepute pentru a&nbsp;te
-            proteja pe tine, pasagerii tai si vehiculul, in cazul unui accident. Printre dotarile esentiale se numara
-            Sistemul de oprire activa in oras, cel de Asistenta la franarea de urgenta si cel de Asistenta la
-            stabilizarea remorcii. Mai sunt disponibile multe alte sisteme, unele dintre acestea avand rolul de a&nbsp;preveni
-            accidentele.</p>
+    <p>Noul Ford Fiesta incorporeaza o serie de tehnologii avansate, concepute pentru a te proteja pe tine,
+        pasagerii tai si vehiculul, in cazul unui accident. Printre dotarile esentiale se numara Sistemul de
+        asistenta pre-coliziune cu detectare a pietonilor, sistemul de avertizare in caz de pericol si franare de
+        urgenta, precum si cel de Asistenta la stabilizarea remorcii. Mai sunt disponibile multe alte sisteme, unele
+        dintre acestea avand rolul de a preveni accidentele.</p>
+    </p>
+</header>
+<article class='two-column'>
+    <div class="content-block">
+        <img
+            src="/assets/img/1214606265152.jpg"
+            alt="Airbaguri menite sa te protejeze din orice unghi"/><span class="fv-overlay-icon"></span>
+
+        <h3 class="bigHeading02">
+            Un sistem care poate reduce gravitatea accidentelor sau le poate evita
+        </h3>
+
+        <p>
+
+        <p>Sistemul de asistenta pre-coliziune detecteaza vehiculele si pietonii de pe drumul din fata sau pe cei
+            care s-ar putea intersecta cu traseul vehiculului si te avertizeaza cu privire la prezenta acestora.
+            Daca nu reactionezi, sistemul aplica automat franele. Aceasta tehnologie e conceputa pentru a ajuta sa
+            reduci riscul accidentelor sau pentru a le evita complet, functionand la viteze de pana la 80 km/h.</p>
         </p>
-    </header>
-    <article class='two-column'>
-        <div class="content-block">
-            <img
-                    src="/assets/img/1214606265152.jpg"
-                    alt="Airbaguri menite sa te protejeze din orice unghi"/><span class="fv-overlay-icon"></span>
+    </div>
+    <div class="content-block last">
+        <img
+            src="/assets/img/1214606260931.jpg"
+            alt="Securitate de inalt nivel"/><span class="fv-overlay-icon"></span>
 
-            <h3 class="bigHeading02">
-                Airbaguri menite sa te protejeze din orice unghi
-            </h3>
+        <h3 class="bigHeading02">
+            Airbaguri menite sa te protejeze din orice unghi
+        </h3>
 
-            <p>
+        <p>
 
-            <p>Pe langa airbagurile frontale pentru pasagerul din fata si sofer, airbagurile laterale ofera protectie la
-                nivelul toracelui si sunt concepute pentru a&nbsp;indeparta ocupantul de zona de impact. Pot, de
-                asemenea, sa ridice bratul ocupantului, asigurand un spatiu mai bun intre acesta si structura
-                periculoasa. Airbagurile tip cortina asigura o&nbsp;acoperire maxima, iar tetierele ofera protectie in
-                cazul unui impact
-            <nobr>fata-spate.</nobr>
-            Cu dispozitive de pretensionare a&nbsp;centurilor de siguranta si limitatoare de sarcina in fata si in
-            spate, plus sisteme de reamintire pentru centura de siguranta, Fiesta te ajuta sa iti pui siguranta pe
-            primul loc.</p>
-            </p>
-        </div>
-        <div class="content-block last">
-            <img
-                    src="/assets/img/1214606260931.jpg"
-                    alt="Securitate de inalt nivel"/><span class="fv-overlay-icon"></span>
+        <p>Pe langa airbagurile frontale pentru pasagerul din fata si sofer, airbagurile laterale ofera protectie la
+            nivelul toracelui si sunt concepute pentru a indeparta ocupantul de zona de impact. Pot, de asemenea, sa
+            ridice bratul ocupantului, asigurand un spatiu mai bun intre acesta si structura periculoasa.
+            Airbagurile tip cortina asigura o acoperire maxima, iar tetierele ofera protectie in cazul unui impact
+            fata-spate. Cu dispozitive de pretensionare a centurilor de siguranta si limitatoare de sarcina in fata
+            si in spate, plus sisteme de reamintire pentru centura de siguranta, Fiesta te ajuta sa iti pui
+            siguranta pe primul loc.</p>
+        </p>
+    </div>
+</article>
+<article class='three-column'>
+    <div class="content-block">
+        <img
+            src="/assets/img/1214606261555.jpg"
+            alt="Sisteme avansate pentru o franare mai controlata"/><span class="fv-overlay-icon"></span>
 
-            <h3 class="bigHeading02">
-                Securitate de inalt nivel
-            </h3>
+        <h3 class="bigHeading02">
+            Securitate de inalt nivel
+        </h3>
 
-            <p>
+        <p>
 
-            <p>Poate fi montat un sistem de securitate Thatcham de categoria&nbsp;1, acesta incluzand o&nbsp;alarma de
-                perimetru si un sistem de blocare dubla. Cu blocarea dubla, o&nbsp;usa nu poate fi deschisa din
-                interior, nici macar daca cineva a&nbsp;incercat sa intre in masina, spargand un geam lateral. Pentru a&nbsp;activa
-                blocarea dubla, tot ce trebuie sa faci este sa apesi de doua ori butonul de incuiere de pe tocul
-                cheii.</p>
-            </p>
-        </div>
-    </article>
-    <article class='three-column'>
-        <div class="content-block">
-            <img
-                    src="/assets/img/1214606261555.jpg"
-                    alt="Sisteme avansate pentru o franare mai controlata"/><span class="fv-overlay-icon"></span>
+        <p>Poate fi montat un sistem de securitate Thatcham de categoria 1, acesta incluzand o alarma de perimetru
+            si un sistem de blocare dubla. Cu blocarea dubla, o usa nu poate fi deschisa din interior, nici macar
+            daca cineva a incercat sa intre in masina, spargand un geam lateral. Pentru a activa blocarea dubla, tot
+            ce trebuie sa faci este sa apesi de doua ori butonul de incuiere de pe tocul cheii.</p>
+        </p>
+    </div>
+    <div class="content-block">
+        <img
+            src="/assets/img/1214606261350.jpg"
+            alt="Asigura siguranta remorcii"/><span class="fv-overlay-icon"></span>
 
-            <h3 class="bigHeading02">
-                Sisteme avansate pentru o franare mai controlata
-            </h3>
+        <h3 class="bigHeading02">
+            Sisteme avansate pentru o franare mai controlata
+        </h3>
 
-            <p>
+        <p>
 
-            <p>Sistemul de franare cu anti-blocare roti (ABS) si distributia electronica a&nbsp;fortei de franare
-                asigura o&nbsp;franare mai bine controlata. Sistemul de asistenta la franarea de urgentă ajuta vehiculul
-                sa franeze mai eficient in cazul unei situatii de urgenta. Sistemul functioneaza prin detectarea
-                presiunii aplicate de sofer pe pedala de frana si prin cresterea automata a&nbsp;acestei presiuni, daca
-                este cazul.</p>
-            </p>
-        </div>
-        <div class="content-block">
-            <img
-                    src="/assets/img/1214606261350.jpg"
-                    alt="Asigura siguranta remorcii"/><span class="fv-overlay-icon"></span>
+        <p>Sistemul de franare cu anti-blocare roti (ABS) si distributia electronica a fortei de franare asigura o
+            franare mai bine controlata. Sistemul de asistenta la franarea de urgentă ajuta vehiculul sa franeze mai
+            eficient in cazul unei situatii de urgenta. Sistemul functioneaza prin detectarea presiunii aplicate de
+            sofer pe pedala de frana si prin cresterea automata a acestei presiuni, daca este cazul.</p>
+        </p>
+    </div>
+    <div class="content-block last">
+        <img
+            src="/assets/img/1214606261721.jpg"
+            alt="Un avertisment in spate, atunci cand franezi brusc"/><span class="fv-overlay-icon"></span>
 
-            <h3 class="bigHeading02">
-                Asigura siguranta remorcii
-            </h3>
+        <h3 class="bigHeading02">
+            Mentinerea in siguranta pe banda de rulare a remorcii
+        </h3>
 
-            <p>
+        <p>
 
-            <p>Sistemul de Asistenta la stabilizarea remorcii detecteaza balansul sau &ldquo;serpuirea&rdquo; remorcii
-                si reduce automat viteza masinii, pentru a&nbsp;contribui la eliminarea problemei; rezultatul este o&nbsp;remorcare
-                mult mai controlata. Sistemul incetineste vehiculul prin reducerea cuplului motor si cresterea treptata
-                a&nbsp;fortei de franare.</p>
-            </p>
-        </div>
-        <div class="content-block last">
-            <img
-                    src="/assets/img/1214606261721.jpg"
-                    alt="Un avertisment in spate, atunci cand franezi brusc"/><span class="fv-overlay-icon"></span>
+        <p>Sistemul de stabilizare a remorcii detecteaza „serpuirea” sau balansarea remorcii si reduce viteza
+            vehiculului pentru a ajuta la corectarea problemei, facand ca remorcarea sa fie mai controlata. Sistemul
+            incetineste vehiculul, reducand cuplul motorului si crescand treptat presiunea franelor pe toate
+            rotile.</p>
+        </p>
+    </div>
+</article>
 
-            <h3 class="bigHeading02">
-                Un avertisment in spate, atunci cand franezi brusc
-            </h3>
+<article class="content-column left">
+    <div class="img-column"><img
+            src="/assets/img/121462800.jpg"
+            alt="Muzica ta favorita, asa cum ar trebui sa se auda"/><span class="fv-overlay-icon"></span></a>
+    </div>
+    <div class="content">
+        <h3 class="bigHeading02">
+            Siguranta ta, prioritatea noastra
+        </h3>
 
-            <p>
+        <p>
 
-            <p>Daca trebuie sa franezi puternic intr-o situatie de urgenta, luminile de avarii se aprind automat pentru
-                a-i avertiza pe ceilalti soferi. Luminile de frana se vor aprinde si ele intermitent, avertizand in
-                avans vehiculele din spate cu privire la o&nbsp;situatie posibil periculoasa.</p>
-            </p>
-        </div>
-    </article>
+        <p>Noul Fiesta din generatia urmatoare integreaza o serie de tehnologii avansate, concepute pentru a te
+            proteja pe tine, pasagerii tai si vehiculul, in caz de accident. Printre dotarile esentiale se numara si
+            Sistemul de oprire activa in oras, protectoarele de margini pentru portiere si SYNC 3 cu asistenta de
+            urgenta. Mai sunt disponibile multe alte sisteme, unele avand rolul de a preveni accidentele.</p>
+        </p>
+    </div>
+</article>
+<article class="content-column right">
+    <div class="content">
+        <h3 class="bigHeading02">
+            Siguranta de cinci stele
+        </h3>
+
+        <p>
+
+        <p>Euro NCAP este cea mai reputata organizatie europeana pentru evaluarea independent a caracteristicilor de
+            siguranta. Organizatia evalueaza siguranta oricarui nou vehicul, folosind masuratori foarte riguroase.
+            Iar rezultatul confirma angajamentul Ford pentru siguranta: punctaj maxim, de cinci stele. </p>
+        </p>
+    </div>
+    <div class="img-column"><img
+            src="/assets/img/121467162.jpg"
+            alt="Tehnologie fara cusur, pe care o poti controla vocal"/><span
+            class="fv-overlay-icon"></span></a></div>
+</article>
+
+<article class="content-column left">
+    <div class="img-column"><img
+            src="/assets/img/12146231800.jpg"
+            alt="Muzica ta favorita, asa cum ar trebui sa se auda"/><span class="fv-overlay-icon"></span></a>
+    </div>
+    <div class="content">
+        <h3 class="bigHeading02">
+            Mentine controlul, indiferent de conditii
+        </h3>
+
+        <p>
+
+        <p>Controlul electronic al stabilitatii monitorizeaza constant progresul vehiculului tau. Aceasta detecteaza
+            devierile de la traseul ales, ca in cazul in care autovehiculul incepe sa patineze si corecteaza automat
+            pozitia pe drum a autovehiculului, ajutandu-te sa mentii controlul asupra acestuia.</p>
+        </p>
+    </div>
+</article>
+
+<article class="content-column right">
+    <div class="content">
+        <h3 class="bigHeading02">
+            Putere suplimentara pentru franare de urgenta
+        </h3>
+
+        <p>
+
+        <p>Sistemul de asistenta la franarea de urgenta ajuta vehiculul sa atinga eficienta maxima de franare in cazul
+            unei situatii de urgenta. Este controlat automat prin intermediul Sistemului de control electronic al
+            stabilitatii, care detecteaza presiunea pe care o aplici pe pedala de frana si creste automat aceasta
+            presiune, daca este cazul. </p>
+        </p>
+    </div>
+    <div class="img-column"><img
+            src="/assets/img/12146712362.jpg"
+            alt="Tehnologie fara cusur, pe care o poti controla vocal"/><span
+            class="fv-overlay-icon"></span></a></div>
+</article>
+
+<article class="content-column left">
+    <div class="img-column"><img
+            src="/assets/img/12112146231800.jpg"
+            alt="Muzica ta favorita, asa cum ar trebui sa se auda"/><span class="fv-overlay-icon"></span></a>
+    </div>
+    <div class="content">
+        <h3 class="bigHeading02">
+            Avertizare timpurie in cazul unei pene
+        </h3>
+
+        <p>
+
+        <p>Daca vreunul dintre pneuri incepe sa piarda presiune in timpul deplasarii, sistemul de monitorizare a
+            presiunii in pneuri (TPMS) te avertizeaza imediat, prin aprinderea unei pictograme pe panoul de bord.</p>
+        </p>
+    </div>
+</article>
+
 </div>
 <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
 <!-- BEGIN [MidPageTabs] -->

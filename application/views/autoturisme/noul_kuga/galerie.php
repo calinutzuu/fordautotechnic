@@ -304,33 +304,29 @@
 <div id='tab1' class="secondary-tab-content">
     <header class="intro-header">
         <h1 class="bigHeading">
-            SIMBOLUL SIGURANTEI DE SINE
+           Exterior
         </h1>
         <span class="highlighter"></span>
 
         <p class="intro-text">
 
-        <p>Designul noului Kuga sugereaza ca autoturismul se afla in permanenta in miscare, chiar si atunci cand sta pe
-            loc.<br> <br> Iar aceste linii si contururi fluide nu au doar rol stilistic, ci contribuie si la eficienta
-            aerodinamica exceptionala a&nbsp;autoturismului.<br> <br> Cat despre siguranta de sine pe care o
-            proiecteaza &ndash; aceasta este vine ca dotare standard.</p>
-        </p>
-    </header>
-    <header class="intro-header">
-        <h1 class="bigHeading">
-        </h1>
-        <span class="highlighter"></span>
 
-        <p class="intro-text">
-
-        <p></p>
-        <center>
-            <iframe height="480" frameborder="0" width="853" allowfullscreen=""
-                    src="https://www.youtube.com/embed/P9JmXOCT-y4?rel=0&amp;showinfo=0"></iframe>
-        </center>
-        <p></p>
-        </p>
     </header>
+    <!-- <header class="intro-header">
+         <h1 class="bigHeading">
+         </h1>
+         <span class="highlighter"></span>
+
+            <p class="intro-text">
+
+           <p></p>
+           <center>
+              <iframe height="480" frameborder="0" width="853" allowfullscreen=""
+                       src="https://www.youtube.com/embed/P9JmXOCT-y4?rel=0&amp;showinfo=0"></iframe>
+         </center>
+         <p></p>
+         </p>
+    </header>-->
     <article class='three-column'>
         <div class="content-block">
             <img

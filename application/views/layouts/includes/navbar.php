@@ -44,9 +44,9 @@
     <li role="menuitem" class=""><a role="link" data-selenium="doormat_car_selection Fiesta"
                                     class="om_he_pv_np "
                                     href="/Autoturisme/noul-fiesta">NOUL FORD FIESTA</a></li>
-    <li role="menuitem" class=""><a role="link" data-selenium="doormat_car_selection B-MAX"
+  <!--  <li role="menuitem" class=""><a role="link" data-selenium="doormat_car_selection B-MAX"
                                     class="om_he_pv_np "
-                                    href="/Autoturisme/NoulB-MAX">B-MAX</a></li>
+                                    href="/Autoturisme/NoulB-MAX">B-MAX</a></li>  -->
   <!--  <li role="menuitem" class=""><a role="link"
                                     data-selenium="doormat_car_selection EcoSport"
                                     class="om_he_pv_np " href="/Autoturisme/Noul-EcoSport">EcoSport</a>  -->
@@ -87,8 +87,7 @@
     </li>
     <li role="menuitem" class=""><a role="link"
                                     data-selenium="doormat_car_selection Noul S-MAX"
-                                    class="om_he_pv_np " href="/Autoturisme/Noul-S-MAX">Noul
-            S-MAX</a></li>
+                                    class="om_he_pv_np " href="/Autoturisme/Noul-S-MAX">S-MAX</a></li>
     <li role="menuitem" class="branded vignale"><a role="link"
                                                    data-selenium="doormat_car_selection S-MAX Vignale"
                                                    class="om_he_pv_np "
