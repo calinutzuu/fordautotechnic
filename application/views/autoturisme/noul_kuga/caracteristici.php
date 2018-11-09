@@ -840,305 +840,183 @@
 </div>
 <!--  tabTitle : Confort si functionalitate :: btfTabContent : 1205127838789 :: tabContent :  -->
 <div id='tab3' class="secondary-tab-content">
-<header class="intro-header">
-    <h1 class="bigHeading">
-        Confort
-    </h1>
-    <span class="highlighter"></span>
-
-    <p class="intro-text">
-
-    <p>Intr-un Ford Kuga, fiecare functie tine cont in primul rand de nevoile tale. Asadar, relaxeaza-te si bucura-te de
-        calatorie in timp ce o serie de tehnologii inteligente lucreaza pentru tine.
-    </p>
-    </p>
-</header>
-<article class="content-column left">
-    <div class="img-column"><img
-            src="/assets/img/kuga/1214576853065.jpg"
-            alt="Ford Kuga interior, steering wheel, gearshift, centre console, SYNC3 with Voice Control and Touchscreen"/><span
-            class="fv-overlay-icon"></span></a></div>
-    <div class="content">
-        <h3 class="bigHeading02">
-            Cea mai avansata tehnologie hands-free
-        </h3>
-
-        <p>
-
-        <p>Ford SYNC&nbsp;3 cu comanda vocala si ecran tactil iti permite sa controlezi muzica, sa initiezi si sa
-            preiei apeluri de pe telefonul mobil, utilizand comenzi vocale directe si naturale. Poti sa redai
-            melodii de pe o unitate USB sau MP3/iPod<sup>&reg;</sup> sau sa redai in flux muzica de pe un telefon
-            compatibil Bluetooth<sup>&reg;</sup>. In plus, sistemul citeste cu voce tare chiar si mesajele text pe
-            care le primesti. De asemenea, poti folosi ecranul tactil de&nbsp;8&rdquo;, care recunoaste gesturi de
-            atingere si glisare pentru a&nbsp;iti oferi o&nbsp;navigare simpla si intuitiva.<br> <br> <span
-                style="font-size: smaller;">*Marca si siglele Bluetooth<sup>&reg;</sup> sunt oferite si detinute de Bluetooth SIG Inc si orice utilizare a&nbsp;acestor marci de catre Ford Motor Company Limited si de catre companiile sale partenere se face in baza unei licente. Alte marci inregistrate si denumiri comerciale apartin proprietarilor lor.</span>
-        </p>
-        </p>
-    </div>
-</article>
-<article class='two-column'>
-    <div class="content-block">
-        <img src="#" alt=""/>
-
-        <h3 class="bigHeading02">
-            Hayon cu deschidere hands-free pentru deschidere<br>si inchidere fara efort
-        </h3>
-
-        <p>
-
-        <p>Daca ai mainile ocupate, iar masina detecteaza in apropiere tocul cheii KeyFree, nu trebuie decat sa
-            misti piciorul sub bara de protectie din spate si&nbsp;hayonul se va deschide (sau se va inchide)
-            automat.</p>
-        </p>
-    </div>
-    <div class="content-block last">
-        <img src="#" alt=""/>
-
-        <h3 class="bigHeading02">
-        </h3>
-
-        <p>
-
-        <p>
-            <centre>
-                <iframe width="478" height="269"
-                        src="https://www.youtube.com/embed/h6YXOO6Srs0?list=PLH2Xw3mppUJG_d-Y9qvYu-BIIF8B5YeBo&amp;showinfo=0&amp;theme=light&amp;rel=0&amp;modestbranding=1&amp;color=white&amp;cc_load_policy=1&amp;hl=en"
-                        frameborder="0" allowfullscreen></iframe>
-            </centre>
-        </p>
-        </p>
-    </div>
-</article>
-<article class='two-column'>
-    <div class="content-block">
-        <img
-            src="/assets/img/kuga/1214576854910.jpg"
-            alt="Ford Kuga interior, front seats and panoramic roof"/><span class="fv-overlay-icon"></span></a>
-
-        <h3 class="bigHeading02">
-            Plafon panoramic mare, pentru un spatiu mai luminos si mai aerisit
-        </h3>
-
-        <p>
-
-        <p>Noul Kuga poate fi dotat, optional, cu un plafon panoramic din sticla, format din doua parti, care ori se
-            deschide prin rabatare, ori se gliseaza sub partea din spate a plafonului, pentru a crea un interior
-            luminos si aerisit. In timp ce plafonul permite patrunderea luminii naturale, geamul care reflecta
-            lumina razelor mentine racoarea si te protejeaza de razele UV daunatoare. Un parasolar actionat electric
-            iti permite, de asemenea, sa acoperi sau sa descoperi plafonul, printr-o simpla apasare de buton. </p>
-        </p>
-    </div>
-    <div class="content-block last">
-        <img
-            src="/assets/img/kuga/1214576850036.jpg"
-            alt="Ford Kuga interior, heated steering wheel and dashboard"/><span class="fv-overlay-icon"></span>
-
-        <h3 class="bigHeading02">
-            Caldura, chiar si in zilele friguroase
-        </h3>
-
-        <p>
-
-        <p>Alege scaunele din piele si cele doua scaune din fata vor fi incalzite pentru a&nbsp;iti maximiza
-            confortul. Iar atunci cand te afli la volan, vei tolera mult mai usor zilele geroase multumita unui
-            volan incalzit.</p>
-        </p>
-    </div>
-</article>
-<article class='two-column'>
-    <div class="content-block">
-        <img
-            src="/assets/img/kuga/1214576856223.jpg"
-            alt="Ford Kuga windscreen, Quickclear"/><span class="fv-overlay-icon"></span>
-
-        <h3 class="bigHeading02">
-            Curata-ti parbrizul repede, cu Quickclear
-        </h3>
-
-        <p>
-
-        <p>Aceasta dotare inteligenta este creata pentru a iti permite sa pornesti rapid in diminetile geroase. Nu
-            trebuie decat sa atingi un buton si filamente extrem de subtiri se supraincalzesc pentru a curata
-            parbrizul de gheata, ceata si abur, precum si pentru a ajuta la dezghetarea stergatoarelor. Sistemul
-            actioneaza in cateva secunde, chiar si la temperaturi negative.</p>
-        </p>
-    </div>
-    <div class="content-block last">
-        <img
-            src="/assets/img/kuga/1214576858676.jpg"
-            alt="red Ford Kuga exterior, windscreen with wipers"/><span class="fv-overlay-icon"></span>
-
-        <h3 class="bigHeading02">
-            Stergatoare care se regleaza automat, in functie de ploaie
-        </h3>
-
-        <p>
-
-        <p>Stergatoarele de parbriz cu senzor de ploaie se activeaza in secunda in care detecteaza stropi de apa pe
-            parbrizul autoautoturismului, iar apoi isi regleaza viteza pentru a face fata oricaror conditii meteo.
-            Poti alege unul dintre cele sase niveluri de sensibilitate, care determina cat de multa umiditate
-            trebuie sa se acumuleze inainte ca stergatoarele sa intre in actiune pentru a o indeparta. Stergatoarele
-            cu senzor de ploaie sunt disponibile ca dotare optionala cu farurile automate.</p>
-        </p>
-    </div>
-</article>
-<article class='two-column'>
-    <div class="content-block">
-        <img
-            src="/assets/img/kuga/1214576852897.jpg"
-            alt="Ford Kuga interior, Electronic Parking Brake"/><span class="fv-overlay-icon"></span>
-
-        <h3 class="bigHeading02">
-            Frana de parcare cu buton
-        </h3>
-
-        <p>
-
-        <p>O frana electronica de parcare inteligenta face ca maneta traditionala sa fie de acum doar o amintire.
-            Prin intermediul consolei centrale, acum poti actiona fara efort frana de parcare cu un simplu
-            comutator. Pe langa faptul ca iti face viata mai usoara, aceasta caracteristica utila iti asigura si mai
-            mult spatiu de depozitare.</p>
-        </p>
-    </div>
-    <div class="content-block last">
-        <img
-            src="/assets/img/kuga/1214576851455.jpg"
-            alt="Ford KugaSYNC3, premium Sony system, with DAB radio"/><span class="fv-overlay-icon"></span>
-
-        <h3 class="bigHeading02">
-            Sunet de inalta fidelitate
-        </h3>
-
-        <p>
-
-        <p>Un sistem audio de inalta calitate este inclus in pachetul de dotari standard cu Ford SYNC&nbsp;3 si
-            asigura o claritate exceptionala a sunetului in intreaga masina. Un sistem Sony premium optional, cu
-            radio DAB, iti ofera o experienta de sunet superioara.</p>
-        </p>
-    </div>
-</article>
-<article class='three-column'>
-    <div class="content-block">
-        <img
-            src="/assets/img/kuga/1214576852378.jpg"
-            alt="Ford Kuga interior, gearshift and air conditioning control, Dual zone Electronic Automatic Temperature Control"/><span
-            class="fv-overlay-icon"></span></a>
-
-        <h3 class="bigHeading02">
-            Regleaza temperatura ideala pentru tine si pentru pasager
-        </h3>
-
-        <p>
-
-        <p>Cu ajutorul Sistemului de climatizare automata cu zona dubla de control (dotare optionala), poti selecta
-            temperaturile pe care tu si pasagerul din fata le preferati, iar sistemul le va mentine cu ajutorul
-            tehnologiei avansate de climatizare.</p>
-        </p>
-    </div>
-    <div class="content-block">
-        <img
-            src="/assets/img/kuga/1214576858006.jpg"
-            alt="Ford Kuga interior, Ford KeyFree System, keyfob"/><span class="fv-overlay-icon"></span>
-
-        <h3 class="bigHeading02">
-            Accesul fara cheie face viata mai usoara
-        </h3>
-
-        <p>
-
-        <p>Cand te apropii de masina, sistemul Ford KeyFree detecteaza imediat cheia cu telecomanda, chiar daca se
-            afla in buzunar sau in geanta. Usile se descuie, iar dupa ce te asezi, nu este nevoie de vreo cheie de
-            contact. Apasa ambreiajul, actioneaza butonul de pornire Ford Power si motorul porneste.</p>
-        </p>
-    </div>
-    <div class="content-block last">
-        <img
-            src="/assets/img/kuga/1214576848712.jpg"
-            alt="Ford Kuga interior, dashboard, MyKey®"/><span class="fv-overlay-icon"></span>
-
-        <h3 class="bigHeading02">
-            Utilizare in comun a masinii fara probleme, cu ajutorul caracteristicii MyKey<sup>®</sup>
-        </h3>
-
-        <p>
-
-        <p>Aceasta tehnologie iti permite sa setezi limita maxima de viteza, sa setezi un semnal care sa atraga
-            atentia asupra purtarii centurii de siguranta si chiar sa controlezi volumul sistemului audio. Fiind
-            creata pentru a iti asigura linistea atunci cand imprumuti masina unui prieten sau unui membru al
-            familiei, tehnologia Ford MyKey<sup>&reg;</sup> este usor de utilizat. Trebuie doar sa introduci cheia
-            de contact, sa pornesti masina si sa urmezi instructiunile pentru a programa restrictiile dorite pentru
-            cheia respectiva: Ford MyKey<sup>&reg;</sup>. Poti pastra personal cheia de &bdquo;admin&rdquo; si chiar
-            sa ai mai multe exemplare din ambele chei, daca doresti.</p>
-        </p>
-    </div>
-</article>
-<article class='three-column'>
-    <div class="content-block">
-        <img
-            src="/assets/img/kuga/1214576848795.jpg"
-            alt="grey Ford Kuga exterior, power-foldable heated mirror"/><span
-            class="fv-overlay-icon"></span>
-
-        <h3 class="bigHeading02">
-            Cu oglinzi care se pot plia singure
-        </h3>
-
-        <p>
-
-        <p>Este usor sa deteriorezi oglinzile laterale atunci cand intri sau iesi din spatii stramte sau cand esti
-            parcat pe o strada ingusta. Oglinzile laterale pliabile electric, optionale, te pot ajuta sa eviti acest
-            lucru, pliindu-se catre interior la atingerea unui buton. Si pentru ca sunt incalzite, poti pleca la
-            drum mai repede in diminetile geroase.</p>
-        </p>
-    </div>
-    <div class="content-block">
-        <img
-            src="/assets/img/kuga/1214576857757.jpg"
-            alt="Ford Kuga interior with blue ambient lighting, leather front seats, steering wheel and centre console"/><span
-            class="fv-overlay-icon"></span>
-
-        <h3 class="bigHeading02">
-            Culori care se asorteaza cu starea ta de spirit
-        </h3>
-
-        <p>
-
-        <p>Iluminarea ambientala a noului Kuga evidentiaza cu o lumina subtila consola centrala, buzunarele din
-            portiere, manerele portierelor si spatiile pentru picioare din fata. Cu sapte culori de accent diferite,
-            de la rosu cald la albastru rece, poti alege cate o&nbsp;nuanta pentru fiecare zi a saptamanii.</p>
-        </p>
-    </div>
-    <div class="content-block last">
-        <img
-            src="/assets/img/kuga/1214576854240.jpg"
-            alt="Ford Kuga interior, auto-dimming rear-view mirror"/><span class="fv-overlay-icon"></span>
-
-        <h3 class="bigHeading02">
-            O oglinda retrovizoare cu functie anti-orbire
-        </h3>
-
-        <p>
-
-        <p>Vei conduce mai usor pe timp de noapte daca nu esti orbit in mod constant de farurile autoautoturismelor
-            care se deplaseaza in spatele tau. De aceea, oglinda retrovizoare heliomata automata a noului Kuga
-            detecteaza automat reflexia farurilor din spate si reduce stralucirea luminii reflectate.</p>
-        </p>
-    </div>
-</article>
-</div>
-<!--  tabTitle : Siguranta si securitate :: btfTabContent : 1205127841428 :: tabContent :  -->
-<div id='tab4' class="secondary-tab-content">
     <header class="intro-header">
         <h1 class="bigHeading">
-            SIGURANTA TA ESTE PRIORITARA
+            Confort
         </h1>
         <span class="highlighter"></span>
 
         <p class="intro-text">
 
-        <p>In noul Kuga, siguranta si securitatea ta si a&nbsp;pasagerilor tai sunt extrem de importante. Numeroasele
-            masuri de siguranta
-            sunt concepute pentru a&nbsp;iti oferi niveluri ridicate de protectie pentru linistea ta.
+        <p>Intr-un Ford Kuga, fiecare functie tine cont in primul rand de nevoile tale. Asadar, relaxeaza-te si
+            bucura-te de
+            calatorie in timp ce o serie de tehnologii inteligente lucreaza pentru tine.
+        </p>
+        </p>
+    </header>
+    <article class="content-column left">
+        <div class="img-column"><img
+                src="/assets/img/kuga/1214576853065.jpg"
+                alt="Ford Kuga interior, steering wheel, gearshift, centre console, SYNC3 with Voice Control and Touchscreen"/><span
+                class="fv-overlay-icon"></span></a></div>
+        <div class="content">
+            <h3 class="bigHeading02">
+                Cea mai avansata tehnologie hands-free
+            </h3>
+
+            <p>
+
+            <p>Ford SYNC&nbsp;3 cu comanda vocala si ecran tactil iti permite sa controlezi muzica, sa initiezi si sa
+                preiei apeluri de pe telefonul mobil, utilizand comenzi vocale directe si naturale. Poti sa redai
+                melodii de pe o unitate USB sau MP3/iPod<sup>&reg;</sup> sau sa redai in flux muzica de pe un telefon
+                compatibil Bluetooth<sup>&reg;</sup>. In plus, sistemul citeste cu voce tare chiar si mesajele text pe
+                care le primesti. De asemenea, poti folosi ecranul tactil de&nbsp;8&rdquo;, care recunoaste gesturi de
+                atingere si glisare pentru a&nbsp;iti oferi o&nbsp;navigare simpla si intuitiva.<br> <br>
+            </p>
+            </p>
+        </div>
+    </article>
+
+    <article class="content-column right">
+        <div class="img-column"><img
+                src="/assets/img/kuga/14576853065.jpg"
+                alt="Ford Kuga interior, steering wheel, gearshift, centre console, SYNC3 with Voice Control and Touchscreen"/><span
+                class="fv-overlay-icon"></span></a></div>
+        <div class="content">
+            <h3 class="bigHeading02">
+                Hayon cu deschidere hands-free pentru deschidere si inchidere fara efort
+            </h3>
+
+            <p>
+
+            <p>Daca ai mainile ocupate, iar masina detecteaza in apropiere tocul cheii KeyFree, nu trebuie decat sa
+                misti
+                piciorul sub bara de protectie din spate si hayonul se va deschide (sau se va inchide) automat.
+            </p>
+            </p>
+        </div>
+    </article>
+
+    <article class='two-column'>
+        <div class="content-block">
+            <img
+                src="/assets/img/kuga/1214576854910.jpg"
+                alt="Ford Kuga interior, front seats and panoramic roof"/><span class="fv-overlay-icon"></span></a>
+
+            <h3 class="bigHeading02">
+                Plafon panoramic pentru o senzatie mai luminoasa si mai aerisita
+            </h3>
+
+            <p>
+
+            <p>La apasarea unui buton, parasolarul actionat electric din plafon gliseaza, permitand luminii naturale sa
+                treaca prin plafonul panoramic. In acelasi timp, geamul care reflecta lumina razelor mentine racoarea si
+                te protejeaza de razele UV daunatoare. </p>
+            </p>
+        </div>
+        <div class="content-block last">
+            <img
+                src="/assets/img/kuga/1214576850036.jpg"
+                alt="Ford Kuga interior, heated steering wheel and dashboard"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+                Caldura, chiar si in zilele friguroase
+            </h3>
+
+            <p>
+
+            <p>Alege scaunele din piele si cele doua scaune din fata vor fi incalzite pentru a&nbsp;iti maximiza
+                confortul. Iar atunci cand te afli la volan, vei tolera mult mai usor zilele geroase multumita unui
+                volan incalzit.</p>
+            </p>
+        </div>
+    </article>
+    <article class='two-column'>
+        <div class="content-block">
+            <img
+                src="/assets/img/kuga/1214576856223.jpg"
+                alt="Ford Kuga windscreen, Quickclear"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+                Curata-ti parbrizul repede, cu Quickclear
+            </h3>
+
+            <p>
+
+            <p>Aceasta dotare inteligenta este creata pentru a iti permite sa pornesti rapid in diminetile geroase. Nu
+                trebuie decat sa atingi un buton si filamente extrem de subtiri se supraincalzesc pentru a curata
+                parbrizul de gheata, ceata si abur, precum si pentru a ajuta la dezghetarea stergatoarelor. Sistemul
+                actioneaza in cateva secunde, chiar si la temperaturi negative.</p>
+            </p>
+        </div>
+        <div class="content-block last">
+            <img
+                src="/assets/img/kuga/1214576858676.jpg"
+                alt="red Ford Kuga exterior, windscreen with wipers"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+                Stergatoare care se regleaza automat, in functie de ploaie
+            </h3>
+
+            <p>
+
+            <p>Stergatoarele de parbriz cu senzor de ploaie se activeaza in secunda cand detecteaza stropi de apa pe
+                parbrizul autovehiculului, iar apoi isi regleaza viteza pentru a face fata oricaror conditii meteo. Poti
+                alege din mai multe niveluri de sensibilitate, care determina cat de multa umiditate trebuie sa se
+                acumuleze inainte ca stergatoarele sa se activeze.</p>
+            </p>
+        </div>
+    </article>
+    <article class='two-column'>
+        <div class="content-block">
+            <img
+                src="/assets/img/kuga/1214576852897.jpg"
+                alt="Ford Kuga interior, Electronic Parking Brake"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+                Frana de parcare cu buton
+            </h3>
+
+            <p>
+
+            <p>O frana electronica de parcare inteligenta face ca maneta traditionala sa fie de acum doar o amintire.
+                Prin intermediul consolei centrale, acum poti actiona fara efort frana de parcare cu un simplu
+                comutator. Pe langa faptul ca iti face viata mai usoara, aceasta caracteristica utila iti asigura si mai
+                mult spatiu de depozitare.</p>
+            </p>
+        </div>
+        <div class="content-block last">
+            <img
+                src="/assets/img/kuga/1214576851455.jpg"
+                alt="Ford KugaSYNC3, premium Sony system, with DAB radio"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+                Sunet de inalta fidelitate
+            </h3>
+
+            <p>
+
+            <p>Un sistem audio de inalta calitate este inclus in pachetul de dotari standard cu Ford SYNC&nbsp;3 si
+                asigura o claritate exceptionala a sunetului in intreaga masina. Un sistem Sony premium optional, cu
+                radio DAB, iti ofera o experienta de sunet superioara.</p>
+            </p>
+        </div>
+    </article>
+
+</div>
+<!--  tabTitle : Siguranta si securitate :: btfTabContent : 1205127841428 :: tabContent :  -->
+<div id='tab4' class="secondary-tab-content">
+    <header class="intro-header">
+        <h1 class="bigHeading">
+            Siguranta
+        </h1>
+        <span class="highlighter"></span>
+
+        <p class="intro-text">
+
+        <p>Intr-un Kuga, siguranta ta si a pasagerilor este extrem importanta. Exista o lista linistitor de lunga de
+            masuri de siguranta, concepute pentru a-ti oferi tie si pasagerilor tai, protectie de nivel inalt, pentru
+            linistea voastra sufleteasca.
         </p>
         </p>
     </header>
@@ -1149,13 +1027,13 @@
                 class="fv-overlay-icon"></span></a></div>
         <div class="content">
             <h3 class="bigHeading02">
-                Pentru a evita coliziunile la viteza mica, noul Ford Kuga franeaza in locul tau
+                Evita coliziunile la viteze reduse
             </h3>
 
             <p>
 
             <p>Sistemul Active City Stop te ajuta sa eviti sau sa reduci efectele unei coliziuni in trafic lent sau la
-                viteze sub 50&nbsp;km/h. Daca sistemul detecteaza ca autoturismul din fata s-a oprit brusc, va actiona
+                viteze sub 50 km/h. Daca sistemul detecteaza ca autoturismul din fata s-a oprit brusc, va actiona
                 automat franele.</p>
             </p>
         </div>
@@ -1177,116 +1055,95 @@
                 alt="Ford Kuga front seat airbags, a driver’s knee airbag, curtain airbags and side airbags in the front row"/><span
                 class="fv-overlay-icon"></span></a></div>
     </article>
-    <article class='two-column'>
-        <div class="content-block">
-            <img
-                src="/assets/img/kuga/1214576850619.jpg"
-                alt="Ford Kuga Ford SYNC with Emergency Assistance"/><span class="fv-overlay-icon"></span>
 
-            <h3 class="bigHeading02">
-                Ford SYNC cu Asistenta de urgenta: poate suna dupa ajutor in locul tau
-            </h3>
-
-            <p>
-
-            <p>Un aspect important al tehnologiei Ford SYNC care iti poate salva viata este Asistenta de urgenta*. In
-                cazul putin probabil al unui accident, atunci cand se activeaza airbagul sau se dezactiveaza pompa de
-                combustibil, tehnologia te poate ajuta sa efectuezi un apel direct la Serviciile de urgenta. Daca este
-                cazul, poti alege sa intrerupi apelul sau sa discuti personal, daca este necesar. Un aspect extrem de
-                important este faptul ca sistemul va furniza informatii vitale, precum coordonatele tale GPS, chiar si
-                in cazul in care ti-ai pierdut cunostinta.*<br>
-                <br>
-                <span style="font-size: smaller;">*Asistenta de urgenta Ford este disponibila in peste 40 de tari din Europa. Aceasta caracteristica functioneaza atunci cand este conectata cu un telefon mobil compatibil pe care il aveti la dumneavoastra, in momentul in care un airbag este declansat (cu exceptia airbagurilor pentru genunchi) sau atunci cand un senzor care inregistreaza o coliziune intrerupe pompa de combustibil. Functia de mesagerie si Asistenta de urgenta nu sunt acceptate in toate limbile europene. Consultati site-ul Web Ford local pentru cele mai recente informatii.</span>
-                <see p="" latest="" for="" website="" ford="" local="" your=""></see>
-            </p>
-            </p>
-        </div>
-        <div class="content-block last">
-            <img
-                src="/assets/img/kuga/1214576851206.jpg"
-                alt="Ford Kuga ISOFIX child seat"/><span class="fv-overlay-icon"></span>
-
+    <article class="content-column left">
+        <div class="img-column"><img
+                src="/assets/img/kuga/12146857494.jpg"
+                alt="frozen white Ford Kuga on the road, active city stop"/><span
+                class="fv-overlay-icon"></span></a></div>
+        <div class="content">
             <h3 class="bigHeading02">
                 Ajutor pentru mentinerea copiilor in siguranta
             </h3>
 
             <p>
 
-            <p>Noul Ford Kuga este conceput pentru a tine copiii mici in siguranta in fiecare calatorie. Si este dotat
-                cu puncte ISOFIX pentru fixarea scaunului pentru copil in spate, asa ca poti folosi cu usurinta doua
-                scaune pentru copii.</p>
+            <p>Ford Kuga este conceput pentru a tine copiii mici in siguranta in fiecare calatorie. Si este dotat cu
+                puncte ISOFIX pentru fixarea scaunului pentru copil in spate, asa ca poti folosi cu usurinta doua scaune
+                pentru copii.</p>
             </p>
         </div>
     </article>
-    <article class='three-column'>
-        <div class="content-block">
-            <img
-                src="/assets/img/kuga/1214576857923.jpg"
-                alt="grey Ford Kuga rear view on the road"/><span class="fv-overlay-icon"></span>
-
+    <article class="content-column right">
+        <div class="content">
             <h3 class="bigHeading02">
-                Controlul electronic al stabilitatii te ajuta sa mentii controlul
+                Mentine controlul, indiferent de conditii
             </h3>
 
             <p>
 
-            <p>Conceput pentru a&nbsp;te ajuta sa mentii controlul, Sistemul de control electronic al stabilitatii (ESC)
-                monitorizeaza in mod constant deplasarea masinii, detecteaza orice abateri de la traseul ales (daca
-                autoturismul incepe sa patineze, de exemplu) si te ajuta automat la corectarea pozitiei de drum. </p>
+            <p>Controlul electronic al stabilitatii monitorizeaza constant progresul vehiculului tau. Aceasta detecteaza
+                devierile de la traseul ales, ca in cazul in care autovehiculul incepe sa patineze si corecteaza automat
+                pozitia pe drum a autovehiculului, ajutandu-te sa mentii controlul asupra acestuia.</p>
             </p>
         </div>
-        <div class="content-block">
-            <img
-                src="/assets/img/kuga/1214576854068.jpg"
-                alt="frozen white Ford Kuga on the road in the night, anti-lock braking system, emergency brake assist, electronic brake-force distribution"/><span
-                class="fv-overlay-icon"></span>
+        <div class="img-column"><img
+                src="/assets/img/kuga/1216858248.jpg"
+                alt="Ford Kuga front seat airbags, a driver’s knee airbag, curtain airbags and side airbags in the front row"/><span
+                class="fv-overlay-icon"></span></a></div>
+    </article>
 
+    <article class="content-column left">
+        <div class="img-column"><img
+                src="/assets/img/kuga/1214681257494.jpg"
+                alt="frozen white Ford Kuga on the road, active city stop"/><span
+                class="fv-overlay-icon"></span></a></div>
+        <div class="content">
             <h3 class="bigHeading02">
                 Sisteme avansate pentru o franare mai controlata
             </h3>
 
             <p>
 
-            <p>Sistemul de franare cu anti-blocare roti (ABS) si distributia electronica a fortei de franare (EBD)
-                asigura o franare mai bine controlata. Sistemul de asistenta la franarea de urgenta (EBA) ajuta
-                autoturismul Kuga sa atinga eficienta maxima de franare in cazul unei situatii de urgenta. Sistemul
-                functioneaza prin detectarea presiunii aplicate de sofer pe pedala de frana si prin cresterea automata a
-                acestei presiuni, daca este cazul.</p>
+            <p>Sistemul de franare cu anti-blocare roti (ABS) si distributia electronica a fortei de franare se combina
+                pentru a asigura o franare mai bine controlata. </p>
             </p>
         </div>
-        <div class="content-block last">
-            <img
-                src="/assets/img/kuga/1214576848878.jpg"
-                alt="Ford Kuga EURO NCAP 5-star safety rating"/><span class="fv-overlay-icon"></span></a>
-
+    </article>
+    <article class="content-column right">
+        <div class="content">
             <h3 class="bigHeading02">
-                Evaluare a sigurantei de 5 stele
+                Siguranta de 5 stele
             </h3>
 
             <p>
 
-            <p>Noul Kuga este dotat cu un pachet de siguranta excelent, acesta incluzand totul, de la airbaguri standard
-                pentru sofer si pasager, airbaguri laterale si tip cortina si un airbag pentru genunchii soferului, pana
-                la o&nbsp;serie de noi tehnologii avansate in acest segment, precum Active City Stop si Asistenta de
-                urgenta. </p>
+            <p>Ca dovada a capacitatii sale de a te proteja pe tine si pe pasagerii tai, vehiculul a obtinut un
+                calificativ de 5 stele din partea Euro NCAP.</p>
             </p>
         </div>
+        <div class="img-column"><img
+                src="/assets/img/kuga/121612858248.jpg"
+                alt="Ford Kuga front seat airbags, a driver’s knee airbag, curtain airbags and side airbags in the front row"/><span
+                class="fv-overlay-icon"></span></a></div>
     </article>
+
+
 </div>
 <!--  tabTitle : Utilitate :: btfTabContent : 1205127845471 :: tabContent :  -->
 <div id='tab5' class="secondary-tab-content">
     <header class="intro-header">
         <h1 class="bigHeading">
-            ESTI PREGATIT DE ACTIUNE?<br><br>NOUL KUGA ESTE!
+            Utilitate
         </h1>
         <span class="highlighter"></span>
 
         <p class="intro-text">
 
-        <p>Nu trebuie decat sa privesti noul Kuga si te vei simti de neoprit.<br> <br> Si nu este de mirare. Acesta este
-            un autoturism construit pentru a&nbsp;te ajuta sa dai frau liber spiritului de aventura. Astfel, dispune de
-            toate caracteristicile si tehnologiile necesare pentru a&nbsp;te duce la sportul, jocul sau activitatea
-            preferata...</p>
+        <p>Te uiti la Kuga si te simti de neoprit.
+
+            Sa nu te mire. E un vehicul construit pentru a te ajuta sa dai frau liber spiritului de aventura. Are toate
+            functille si tehnologiile necesare pentru a te duce catre sportul, jocul sau activitatea ta preferata...</p>
         </p>
     </header>
     <article class="content-column left">
@@ -1309,15 +1166,13 @@
     <article class="content-column right">
         <div class="content">
             <h3 class="bigHeading02">
-                Mentinerea remorcii pe banda<br>de rulare
+                Bancheta usor pliabila
             </h3>
 
             <p>
 
-            <p>Sistemul de stabilizare a&nbsp;remorcii detecteaza &bdquo;serpuirea&rdquo; sau balansarea remorcii si
-                reduce viteza autoturismului pentru a&nbsp;ajuta la corectarea problemei, facand ca remorcarea sa fie
-                mai controlata. Sistemul incetineste autoturismul, reducand cuplul motorului si crescand treptat
-                presiunea franelor pe roti.</p>
+            <p>Bancheta usor pliabila se imparte 60:40 si poate fi rabatata printr-o operatie simpla, cu o singura mana,
+                pentru a crea mai mult spatiu in spate.</p>
             </p>
         </div>
         <div class="img-column"><img
@@ -1364,55 +1219,19 @@
             </p>
         </div>
     </article>
-    <article class='three-column'>
-        <div class="content-block">
-            <img
-                src="/assets/img/kuga/1214576858421.jpg"
-                alt="Ford Kuga spacious interior, easy-fold rear seats "/><span class="fv-overlay-icon"></span>
-
-            <h3 class="bigHeading02">
-                Bancheta usor pliabila
-            </h3>
-
-            <p>
-
-            <p>Bancheta usor pliabila se imparte
-            <nobr>60:40</nobr>
-            si poate fi rabatata printr-o operatie simpla, cu o&nbsp;singura mana, pentru a&nbsp;crea mai mult spatiu in
-            spate.</p>
-            </p>
-        </div>
-        <div class="content-block">
-            <img
-                src="/assets/img/kuga/1214576852461.jpg"
-                alt="red Ford Kuga rear view, optional roof rails"/><span class="fv-overlay-icon"></span>
-
+    <article class="content-column left">
+        <div class="img-column"><img
+                src="/assets/img/kuga/121457123858761.jpg"
+                alt="frozen white Ford Kuga tow bar"/><span class="fv-overlay-icon"></span></a></div>
+        <div class="content">
             <h3 class="bigHeading02">
                 Transporta mai multe cu sinele optionale pentru plafon
             </h3>
 
             <p>
 
-            <p>Sinele optionale pentru plafon pot imbunatati caracterul practic si imaginea noului tau Kuga. Sunt, de
-                asemenea, necesare pentru montarea de bare transversale si a&nbsp;altor accesorii. </p>
-            </p>
-        </div>
-        <div class="content-block last">
-            <img
-                src="/assets/img/kuga/1214576853155.jpg"
-                alt="grey Ford Kuga wheel, tyre rressure monitoring system"/><span
-                class="fv-overlay-icon"></span>
-
-            <h3 class="bigHeading02">
-                Te avertizeaza daca pneurile pierd presiune
-            </h3>
-
-            <p>
-
-            <p>Intotdeauna este important sa mentii presiunea corecta in pneuri, pentru a&nbsp;te ajuta sa economisesti
-                combustibil, sa protejezi pneurile si sa fii in siguranta. De aceea, senzorii monitorizeaza constant
-                fiecare roata si te alerteaza daca apare o&nbsp;problema, astfel incat sa poti trage pe dreapta, sa
-                verifici si sa umfli pneul sau sa schimbi roata.</p>
+            <p>Sinele optionale pentru plafon pot imbunatati caracterul practic si imaginea Fordului Kuga. Sunt, de
+                asemenea, necesare pentru montarea de bare transversale si a altor accesorii.</p>
             </p>
         </div>
     </article>

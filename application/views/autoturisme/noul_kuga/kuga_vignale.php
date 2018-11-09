@@ -1,4 +1,3 @@
-
 <script type="text/javascript">
     // mobile sniffer
     ForceRedirectUserAgents = 'android,iphone,blackberry';
@@ -277,7 +276,9 @@
                     <!-- secondary tabs -->
                     <!--  midPageTabId : 1205127844706 -->
                 </li>
-                <li><a href="/Autoturisme/Noul_Kuga/PreturisiPromotii#primaryTabs" class=" "  data-ajaxlink="/cs/ContentServer?cid=1205129234448&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205132037865&amp;tabName=PreturisiPromotii&amp;c=Page&amp;site=RORO4_ENGINE">PRETURI SI PROMOTII</a>
+                <li><a href="/Autoturisme/Noul_Kuga/PreturisiPromotii#primaryTabs" class=" "
+                       data-ajaxlink="/cs/ContentServer?cid=1205129234448&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205132037865&amp;tabName=PreturisiPromotii&amp;c=Page&amp;site=RORO4_ENGINE">PRETURI
+                        SI PROMOTII</a>
                     <!-- secondary tabs -->
                     <!--  midPageTabId : 1205132036316 -->
                 </li>
@@ -322,67 +323,92 @@
                             <div id='tab1' class="secondary-tab-content">
                                 <header class="intro-header">
                                     <h1 class="bigHeading">
-                                        Un SUV dinamic cu accente premium
+                                        O tenta de modern, un aspect atemporal
                                     </h1>
+                                    <img
+                                        src="/assets/img/kuga/123432.jpg"
+                                        alt="Ford Kuga Vignale luxorious interior, hand-crafted with premium materials, steering wheel, dashboard, centre console with SYNC 3 and automatic gearbox"/>
                                     <span class="highlighter"></span>
 
-                                    <p class="intro-text">
-
-                                    <p>Ford Kuga Vignale este expresia stilului si a&nbsp;rafinamentului. Liniile
-                                        dinamice sunt puse in valoare de accente de design elegante, executate cu
-                                        maiestrie, din materiale premium. Intreaga experienta este si mai mult
-                                        imbunatatita cu o&nbsp;gama larga de servicii, iar in Ford Store vei gasi un
-                                        Manager de relatii cu clientii Vignale dedicat. <br>
-                                        <br>
-                                        <a href="http://vignale.ford.ro/ro-RO/" target="_blank"><span
-                                                style="color: rgb(0, 0, 255);"><u>Explore Ford Vignale</u></span></a>
-                                    </p>
-                                    </p>
+                                    <br><br>
                                 </header>
-                                <article class='three-column'>
+                                <article class='two-column'>
                                     <div class="content-block">
                                         <img
-                                                src="/assets/img/kuga/1214576851963.jpg"
-                                                alt="Ford Kuga Vignale luxorious interior, hand-crafted with premium materials, steering wheel, dashboard, centre console with SYNC 3 and automatic gearbox"/><span
-                                                class="fv-overlay-icon"></span>
+                                            src="/assets/img/kuga/127684319.jpg"
+                                            alt="Ford Kuga interior stowage areas"/><span
+                                            class="fv-overlay-icon"></span>
 
                                         <h3 class="bigHeading02">
+                                            Experienta la volan
                                         </h3>
 
                                         <p>
 
-                                        <p>Detalii exceptionale intr-o cabina luxoasa</p>
-                                        </p>
-                                    </div>
-                                    <div class="content-block">
-                                        <img
-                                                src="/assets/img/kuga/1214576853321.jpg"
-                                                alt="Ford Kuga Vignale exterior, front view parking in front of offices"/><span
-                                                class="fv-overlay-icon"></span>
-
-                                        <h3 class="bigHeading02">
-                                        </h3>
-
-                                        <p>
-
-                                        <p>Linii dinamice, note de design elegante</p>
+                                        <p>Kuga Vignale ofera stil de ultima generatie si niveluri superioare de
+                                            rafinament, pentru o experienta exceptionala la volan. Cu ajutorul unei game
+                                            de tehnologii avansate de Asistenta a soferului, inclusiv SYNC 3 si cu
+                                            ajutorul Asistentei active la parcare, te vei simti mereu in control, de
+                                            fiecare data cand urci la volan. </p>
                                         </p>
                                     </div>
                                     <div class="content-block last">
                                         <img
-                                                src="/assets/img/kuga/1214576856587.jpg"
-                                                alt="Ford Kuga Vignale luxorious interior, hand-crafted with premium materials"/><span
-                                                class="fv-overlay-icon"></span>
+                                            src="/assets/img/kuga/1216856140.jpg"
+                                            alt="Ford Kuga spacious interior, luggage compartment floor with a hidden compartment below"/><span
+                                            class="fv-overlay-icon"></span>
 
                                         <h3 class="bigHeading02">
+                                            Confort
                                         </h3>
 
                                         <p>
 
-                                        <p>Un interior executat manual cu materiale premium</p>
+                                        <p>Fiecare functie din Kuga Vignale tine cont in primul rand de nevoile tale. De
+                                            la comunicare hands-free, la reactie la schimbarea conditiilor de drum, gama
+                                            sa de tehnologii inteligente exista pentru a face fiecare calatorie mai
+                                            sigura, mai eficienta si mai placuta.
                                         </p>
                                     </div>
                                 </article>
+                                <article class='two-column'>
+                                    <div class="content-block">
+                                        <img
+                                            src="/assets/img/kuga/127623484319.jpg"
+                                            alt="Ford Kuga interior stowage areas"/><span
+                                            class="fv-overlay-icon"></span>
+
+                                        <h3 class="bigHeading02">
+                                            Performanta
+                                        </h3>
+
+                                        <p>
+
+                                        <p>Perfomanta care te umple de multumire si reactii line, combinate cu o
+                                            impresionanta eficienta a consumului de combustibil si emisii reduse. Kuga
+                                            Vignale e pachetul complet de precizie.</p>
+                                        </p>
+                                    </div>
+                                    <div class="content-block last">
+                                        <img
+                                            src="/assets/img/kuga/1216843256140.jpg"
+                                            alt="Ford Kuga spacious interior, luggage compartment floor with a hidden compartment below"/><span
+                                            class="fv-overlay-icon"></span>
+
+                                        <h3 class="bigHeading02">
+                                            Liniste sufleteasca
+                                        </h3>
+
+                                        <p>
+
+                                        <p>Siguranta si protectia ta sunt importante pentru noi. De aceea Kuga Vignale
+                                            ofera o lunga lista de functii de siguranta, fiecare destinata sa ofere
+                                            protectie la nivel inalt, tie si pasagerilor tai.
+                                        </p>
+                                    </div>
+                                </article>
+
+
                             </div>
                             <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
                             <!-- BEGIN [MidPageTabs] -->
