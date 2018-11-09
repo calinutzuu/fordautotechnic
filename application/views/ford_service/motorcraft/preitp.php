@@ -613,8 +613,19 @@ return false;"
                             </div>
                             <div class='BTIarticleBody'>
                                 <div class='BTIarticleText'>
-                                    <div><em><span style="font-size: x-small;">Reparatiile necesare in urma verificarii reprezinta servicii contra cost si se comanda separat. Inspectia se face in service-uri autorizate R.A.R. Alte detalii aferente ofertei sunt disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de reparatori autorizati Ford.
-Perioada derularii acestei campanii: 01 Iunie 2018 - 31 August 2018. </span></em>
+                                    <div><em><span style="font-size: x-small;">
+
+Imaginile si informatiile prezentate pe acest site sunt oferite cu titlu informativ. Este posibil ca imaginile sa nu infatiseze exclusiv specificatii disponibile in Europa si/sau in Romania. Culorile pot diferi, in realitate, in functie de ecranul calculatorului sau dispozitivului mobil. Anumite accesorii si/sau optionale pot fi disponibile contra cost.
+
+Politica Ford este una de dezvoltare continua a produselor. Ne rezervam dreptul de a modifica, in orice moment, specificatiile, culorile, modelele si elementele ilustrate si descrise pe acest site, cu respectarea prevederilor legale.
+<br><br>
+    [*]
+
+    Reparațiile necesare în urma verificării reprezintă servicii contra cost și se comandă separat. Inspecția se face in service-uri autorizate R.A.R. Alte detalii aferente ofertei sunt disponibile în paginile de promoție detaliate pe ford.ro și în rețeaua de reparatori autorizați Ford.
+
+    Perioada derularii acestei campanii: 15 August 2018 - 31 Decembrie 2018.
+
+ </span></em>
                                     </div>
                                 </div>
                             </div>

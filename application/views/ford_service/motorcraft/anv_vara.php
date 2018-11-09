@@ -220,7 +220,7 @@
                         </div>
                     </div>
                 </li>
-                <li><p>Anvelope de vara</p></li>
+                <li><p>Anvelope de iarna</p></li>
             </ul>
             <div class="navdivider"></div>
             <ul id="nextSteps" class="nextSteps">

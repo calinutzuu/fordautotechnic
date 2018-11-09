@@ -371,7 +371,7 @@
                    </li> -->
 
                 <li id='menu1205094747812' class=''>
-                    <a href='Motorcraft/AnvelopeVara'/>Anvelope de vara</a>
+                    <a href='Motorcraft/AnvelopeVara'/>Anvelope de iarna</a>
                     <script type="text/javascript">
                         document.id('menu1205094747812').addClass("navnextSteps");
                     </script>
@@ -529,13 +529,13 @@
             </div>
             <div class='BTIarticleBody'>
                 <div class='BTIarticleText'>
-                    <div><h2><font size="2">Anvelope vara</font></h2>
+                    <div><h2><font size="2">Anvelope de iarna</font></h2>
 
                         <div></div>
                         <div><strong><br> de la <span style="color: rgb(0, 0, 128);"><span
                                         style="font-size: medium;"><span
-                                            style="font-size: x-large;">151 lei </span></span></span></strong><br>
-                            <br> <br> <br> <a HREF="/FordService/Motorcraft/AnvelopeVara">&gt;Anvelope vara<br></a>
+                                            style="font-size: x-large;">174 lei </span></span></span></strong><br>
+                            <br> <br> <br> <a HREF="/FordService/Motorcraft/AnvelopeVara">&gt;Anvelope de iarna<br></a>
                         </div>
                     </div>
                 </div>
@@ -720,12 +720,9 @@
         </div>
         <div class='BTIarticleBody'>
             <div class='BTIarticleText'>
-                <div><em>Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin TVA conform
-                        legislatiei in vigoare. Oferta nu include componentele tehnologice, este supusa termenilor si
-                        conditiilor afisate si este valabila in limita stocului disponibil. De asemenea, oferta se poate
-                        modifica in functie de seria de sasiu. Alte detalii aferente ofertei sunt disponibile in
-                        paginile de promotie detaliate pe ford.ro si in reteaua de reparatori autorizati Ford. <br>
-                        Perioada derularii acestei campanii: 01 Iunie 2018 - 31 August 2018
+                <div><em>*
+                        Toate prețurile afișate în această ofertă sunt prețuri recomandate în lei, conțin TVA conform legislației în vigoare și includ prețul manoperei. Oferta nu include componentele tehnologice. Oferta NU SE APLICA autovehiculelor utilitare echipate cu roți duble spate. De asemenea, această ofertă este supusă termenilor și condițiilor afișate, este valabilă în limita stocului disponibil și se poate modifica în funcție de seria de sasiu. Alte detalii aferente ofertei sunt disponibile în paginile de promoție detaliate pe ford.ro și în rețeaua de reparatori autorizați Ford.
+                        Perioada derulării acestei campanii: 15 August 2018 – 31 Decembrie 2018
                         <br>
                     </em></div>
             </div>

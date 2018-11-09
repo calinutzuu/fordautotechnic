@@ -524,8 +524,14 @@
                                         </tr>
                                         </tbody>
                                     </table>
-                                    <div><br> <br> <em>*Toate preturile afisate in aceasta oferta sunt preturi recomandate in lei, contin TVA conform legislatiei in vigoare si includ pretul manoperei. Oferta nu include componentele tehnologice. Oferta NU SE APLICA autovehiculelor utilitare echipate cu roti duble spate. De asemenea, aceasta oferta este supusa termenilor si conditiilor afisate, este valabila in limita stocului disponibil si se poate modifica in functie de seria de sasiu. Alte detalii aferente ofertei sunt disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de reparatori autorizati Ford.
-                                            Perioada derularii acestei campanii: 01 Iunie 2018 - 31 August 2018. </em></div>
+                                    <div><br> <br> <em>Imaginile si informatiile prezentate pe acest site sunt oferite cu titlu informativ. Este posibil ca imaginile sa nu infatiseze exclusiv specificatii disponibile in Europa si/sau in Romania. Culorile pot diferi, in realitate, in functie de ecranul calculatorului sau dispozitivului mobil. Anumite accesorii si/sau optionale pot fi disponibile contra cost.
+
+                                            Politica Ford este una de dezvoltare continua a produselor. Ne rezervam dreptul de a modifica, in orice moment, specificatiile, culorile, modelele si elementele ilustrate si descrise pe acest site, cu respectarea prevederilor legale.
+                                            <br><br>
+                                            [*]
+
+                                            Toate prețurile afișate în această ofertă sunt prețuri recomandate în lei, conțin TVA conform legislației în vigoare și includ prețul manoperei. Oferta nu include componentele tehnologice. Oferta NU SE APLICA autovehiculelor utilitare echipate cu roți duble spate. De asemenea, această ofertă este supusă termenilor și condițiilor afișate, este valabilă în limita stocului disponibil și se poate modifica în funcție de seria de sasiu. Alte detalii aferente ofertei sunt disponibile în paginile de promoție detaliate pe ford.ro și în rețeaua de reparatori autorizați Ford.
+                                            Perioada derulării acestei campanii: 15 August 2018 – 31 Decembrie 2018</em></div>
                                 </div>
                             </div>
                         </div>

@@ -213,7 +213,7 @@
                             <li class=''>
                                 <a href='../Service'>Service</a></li>
                             <li class=''>
-                                <a href='../Anvelope'>Anvelope de vara</a></li>
+                                <a href='../Anvelope'>Anvelope de iarna</a></li>
                             <li class=''>
                                 <a href='../Pre-verificareITP'>Pre-verificare I.T.P.</a></li>
                             <li class=''>
@@ -225,7 +225,7 @@
                         </div>
                     </div>
                 </li>
-                <li><p>Anvelope de vara</p></li>
+                <li><p>Anvelope de iarna</p></li>
             </ul>
             <div class="navdivider"></div>
             <ul id="nextSteps" class="nextSteps">
@@ -284,7 +284,7 @@
 <div style="height: 115px">&nbsp;</div>
 <div id="container_center">
     <div class="center_item">
-        <div class="btoArticleTitle"><h1><font size="5">Anvelope vara Ford C-MAX</font></h1></div>
+        <div class="btoArticleTitle"><h1><font size="5">Anvelope de iarna Ford C-MAX</font></h1></div>
         <div class="btoArticleText">
             <div class="btoArticleAbstract">
                 <div>E usor sa găseşti anvelopele potrivite modelui tau Ford C-MAX. <br> <br> <img
@@ -476,62 +476,59 @@ return false;"
                                                 <td style="text-align: center;" valign="middle" width="25 %">PRET</td>
                                             </tr>
                                             <tr>
-                                                <td class="CusTab-light" valign="middle" width="25 %">195/65 R15 91T TL
-                                                    HIGH PERFORMANCE TG
+                                                <td class="CusTab-light" valign="middle" width="25 %">195/65 R15 91H TL WINTER 1 TG
                                                 </td>
                                                 <td class="CusTab-light" style="text-align: center;" valign="middle"
                                                     width="25 %">Motorcraft
                                                 </td>
                                                 <td class="CusTab-light-pric" style="text-align: center;"
-                                                    valign="middle" width="25 %"><span style="font-size: medium;">176 lei  </span>
+                                                    valign="middle" width="25 %"><span style="font-size: medium;">203 lei  </span>
                                                 </td>
                                             </tr>
                                             <tr tr="" class="CusTab-dark">
-                                                <td valign="middle" width="25 %">195/65 R15 91T TL ENERGY SAVER+ GRNX
-                                                    MI
+                                                <td valign="middle" width="25 %">195/65 R15 91T TL ALPIN 5 MI
                                                 </td>
                                                 <td style="text-align: center;" valign="middle" width="25 %">Michelin
                                                 </td>
                                                 <td class="CusTab-light-pric" style="text-align: center;"
-                                                    valign="middle" width="25 %"><span style="font-size: medium;">324 lei  </span>
+                                                    valign="middle" width="25 %"><span style="font-size: medium;">325 lei  </span>
                                                 </td>
                                             </tr>
                                             <tr tr="" class="CusTab-light">
-                                                <td valign="middle" width="25 %">195/65 R15 91H TL G-GRIP GO</td>
+                                                <td valign="middle" width="25 %">195/65R15 91TTL GFORCE WIN2</td>
                                                 <td style="text-align: center;" valign="middle" width="25 %">
                                                     BFGoodrich
                                                 </td>
                                                 <td class="CusTab-light-pric" style="text-align: center;"
-                                                    valign="middle" width="25 %"><span style="font-size: medium;">231 lei  </span>
+                                                    valign="middle" width="25 %"><span style="font-size: medium;">248 lei  </span>
                                                 </td>
                                             </tr>
                                             <tr tr="" class="CusTab-dark">
-                                                <td valign="middle" width="25 %">205/55 R16 91H TL HIGH PERFORMANCE TG
+                                                <td valign="middle" width="25 %">205/55 R16 94H XL WINTER 1 TG
                                                 </td>
                                                 <td style="text-align: center;" valign="middle" width="25 %">
                                                     Motorcraft
                                                 </td>
                                                 <td class="CusTab-light-pric" style="text-align: center;"
-                                                    valign="middle" width="25 %"><span style="font-size: medium;">182 lei  </span>
+                                                    valign="middle" width="25 %"><span style="font-size: medium;">221 lei  </span>
                                                 </td>
                                             </tr>
                                             <tr tr="" class="CusTab-light">
-                                                <td valign="middle" width="25 %">205/55 R16 91H TL ENERGY SAVER+ GRNX
-                                                    MI
+                                                <td valign="middle" width="25 %">205/55 R16 91T TL ALPIN 5 MI
                                                 </td>
                                                 <td style="text-align: center;" valign="middle" width="25 %">Michelin
                                                 </td>
                                                 <td class="CusTab-light-pric" style="text-align: center;"
-                                                    valign="middle" width="25 %"><span style="font-size: medium;">377 lei  </span>
+                                                    valign="middle" width="25 %"><span style="font-size: medium;">470 lei  </span>
                                                 </td>
                                             </tr>
                                             <tr tr="" class="CusTab-dark">
-                                                <td valign="middle" width="25 %">205/55 R16 91H TL G-GRIP GO</td>
+                                                <td valign="middle" width="25 %">205/55R16 91HTL GFORCE WIN2</td>
                                                 <td style="text-align: center;" valign="middle" width="25 %">
                                                     BFGoodrich
                                                 </td>
                                                 <td class="CusTab-light-pric" style="text-align: center;"
-                                                    valign="middle" width="25 %"><span style="font-size: medium;">260 lei  </span>
+                                                    valign="middle" width="25 %"><span style="font-size: medium;">292 lei  </span>
                                                 </td>
                                             </tr>
                                             </tbody>
@@ -547,14 +544,26 @@ return false;"
                                     </div>
                                     <div class='BTIarticleBody'>
                                         <div class='BTIarticleText'>
-                                            <div><em>Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin
-                                                    TVA conform legislatiei in vigoare. Oferta nu include montajul, echilibrarea si
-                                                    sistemul de monitorizare a presiunii in anvelope. De asemenea, oferta se poate
-                                                    modifica in functie de seria de sasiu. Alte detalii aferente ofertei sunt
-                                                    disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de
-                                                    reparatori autorizati Ford.<br>
-                                                    Perioada derularii acestei campanii: 1 Iunie 2018 - 31 August 2018.<br>
+                                            <div><em>Alegerea anvelopelor, a marcii si a pretului <br>
+
+                                                    Pentru a-ti facilita alegerea, am inclus in oferta produse care se incadreaza in trei categorii de pret: anvelope premium, marca Michelin; anvelope de calitate, marca BF Goodrich, precum si anvelope de buget, marca Motorcraft (Tigar).
+                                                    <br>
+                                                    ● Toate preturile recomandate de vanzare includ TVA.<br>
+                                                    ● In plus, toate anvelopele sosesc insotite de un control de siguranta al tuturor elementelor (standard).<br>
+                                                    ● Toate operatiunile sunt executate de tehnicieni instruiti de Ford.<br>
+                                                    <br> <br>
+                                                    [*]
+
+
+                                                    Imaginile si informatiile prezentate pe acest site sunt oferite cu titlu informativ. Este posibil ca imaginile sa nu infatiseze exclusiv specificatii disponibile in Europa si/sau in Romania. Culorile pot diferi, in realitate, in functie de ecranul calculatorului sau dispozitivului mobil. Anumite accesorii si/sau optionale pot fi disponibile contra cost.
+
+                                                    Politica Ford este una de dezvoltare continua a produselor. Ne rezervam dreptul de a modifica, in orice moment, specificatiile, culorile, modelele si elementele ilustrate si descrise pe acest site, cu respectarea prevederilor legale.
+                                                    <br> <br>
+                                                    Toate prețurile afișate în această ofertă sunt prețuri recomandate și conțin TVA conform legislației în vigoare Oferta nu include montajul, echilibrarea și sistemul de monitorizare a presiunii în anvelope. De asemenea, oferta se poate modifica în funcție de seria de sasiu. Alte detalii aferente ofertei sunt disponibile în paginile de promoție detaliate pe ford.ro și în rețeaua de reparatori autorizați Ford.
+                                                    Perioada derulării acestei campanii: 15 August 2018 – 31 Decembrie 2018
+                                                    <br>
                                                     * Anvelopele Motorcraft sunt marca Tigar
+
                                                 </em></div>
                                         </div>
                                     </div>

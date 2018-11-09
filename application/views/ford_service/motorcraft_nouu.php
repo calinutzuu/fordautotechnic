@@ -204,7 +204,7 @@
                     </script>
                 </li>
                 <li id='menu1205094744286' class=''>
-                    <a href='Motorcraft/Anvelope.html'/>Anvelope de vara</a>
+                    <a href='Motorcraft/Anvelope.html'/>Anvelope de iarna</a>
                     <div id="navsubmenu" class="navsubmenu">
                         <div class="navsubmenutop">
                         </div>
