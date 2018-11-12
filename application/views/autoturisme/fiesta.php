@@ -73,12 +73,12 @@
                 {}
             ]}, "interiorImages": {"options": [
                 {}
-            ]}}, "brand": "Ford", "vehicleType": "PV", "catalogId": "11414", "nameplate": "Fiesta", "labelAvailableFrom": "De la", "formattedCurrency": "RON13,550", "nameplateText": "Asemenea unui smartphone nou-nou\u0163, Ford Fiesta \u00EEmbin\u0103 stilul contemporan cu tehnologia de v\u00E2rf.", "imagePack": true, "hideVehicleImage": false, "facebookImagePath": "/cs/Storage/EP2COM_ENGInE/_vip/1205059875759/00C_YYQ/8W5/9NJ/R83/1/0/FiestaTitBlazerBlueLHD3dr_Front_00001.jpg", "facebookAppId": "facebookAppId", "images": ["/assets/img/fiesta/FiestaTitBlazerBlueLHD3dr_Front_00001.jpg"], "billBoardImagePath": null, "backgroundImagePath": ["null", "null", "null"], "disclaimerTextColor": [null, null, null], "current": true, "cid": "1205119060175", "cta": [
+            ]}}, "brand": "Ford", "vehicleType": "PV", "catalogId": "11414", "nameplate": "Fiesta ST", "labelAvailableFrom": "De la", "formattedCurrency": "RON13,550", "nameplateText": "Asemenea unui smartphone nou-nou\u0163, Ford Fiesta \u00EEmbin\u0103 stilul contemporan cu tehnologia de v\u00E2rf.", "imagePack": true, "hideVehicleImage": false, "facebookImagePath": "/cs/Storage/EP2COM_ENGInE/_vip/1205059875759/00C_YYQ/8W5/9NJ/R83/1/0/FiestaTitBlazerBlueLHD3dr_Front_00001.jpg", "facebookAppId": "facebookAppId", "images": ["/assets/img/fiesta/FiestaTitBlazerBlueLHD3dr_Front_00001.jpg"], "billBoardImagePath": null, "backgroundImagePath": ["null", "null", "null"], "disclaimerTextColor": [null, null, null], "current": true, "cid": "1205119060175", "cta": [
                 {"linkTitle": "MODELE Fiesta", "linkURL": "/Autoturisme/Fiesta/Modele", "linkType": "primary", "linkTarget": "", "omid": "va"},
                 {"linkTitle": "DESCARC\u0102 BRO\u015EUR\u0102 ", "linkURL": "\/SBE\/BrosuriSiPreturi", "linkType": "tertiary", "linkTarget": "_blank", "omid": "tr"},
                 {"linkTitle": "\u00CENSCRIE-TE LA TEST DRIVE ", "linkURL": "\/SBE\/TestDrive\/TestDriveAutoturisme?shopcode=00C&derivcode=8W5", "linkType": "tertiary", "linkTarget": "_blank", "omid": "tr"},
                 {"linkTitle": "VREAU SĂ FIU INFORMAT(Ă) ", "linkURL": "/SBE/VreauSaFiuInformata", "linkType": "tertiary", "linkTarget": "", "omid": "tr"}
-            ], "social": {"facebook": "https://facebook.com", "facebookPage": "fordromania"}, "disclaimer": "Modelul prezentat este un Fiesta Titanium. Imagine cu titlul de prezentare.", "seriesCode": "8W5", "uscCode": "00C", "supportSelector": "true", "supportSeries": "true", "presId": "1205035170415", "promos": [
+            ], "social": {"facebook": "https://facebook.com", "facebookPage": "fordromania"}, "disclaimer": "Imagini cu titlu de prezentare; pot include caracteristici sau dotari optionale indisponibile pe piata locala.", "seriesCode": "8W5", "uscCode": "00C", "supportSelector": "true", "supportSeries": "true", "presId": "1205035170415", "promos": [
                 {"imagePath": "/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobwhere=1214553887403&blobkey=id", "overlay": false, "link": "/cs/ContentServer?pagename=RORO4_ENGINE/EP2/common/promo/M48_PromoBlock&c=Promo_C&cid=1205113209680", "text": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vezi detaliile ofertei"}
             ], "idf": {"options": [
                 {"dataOverlay": {"mediaType": "Flash", "height": "439", "width": "780"}, "iconURL": "/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobheader=image%2Fjpg&blobwhere=1214480084185&blobkey=id", "link": "/cs/ContentServer?cid=1205028944450&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Flash_C&amp;site=RORO4_ENGINE", "videoSrc": [
@@ -117,16 +117,10 @@
                 <div class="name-plate-text">
                     <p class="intro"></p>
 
-                    <h1 class="bigHeading">
-                        <span data-selenium="XA_namePlate" itemprop="member" class="nameplate boldTxt">Fiesta</span>
-                        <span data-selenium="XA_model" itemprop="model" itemscope
-                              itemtype="http://schema.org/Organization" class="mark">Ford</span>
-                        <!--The price -->
-                    </h1>
+
                     <!--The blurb -->
                     <p class="blurb">
-                        Asemenea unui smartphone nou-nouţ, Ford Fiesta &icirc;mbină stilul contemporan cu tehnologia de
-                        v&acirc;rf.
+
                     </p>
                 </div>
             </div>
@@ -351,28 +345,43 @@
                             <div id='tab1' class="secondary-tab-content">
                                 <header class="intro-header">
                                     <h1 class="bigHeading">
-                                        FORD <b>FIESTA</b>
+                                        NOUL FORD <b>FIESTA ST</b>
                                     </h1>
                                     <span class="highlighter"></span>
 
-                                    <p class="intro-text">
 
-                                    <p>Asemenea unui smartphone performant si actual, Ford Fiesta imbina stilul
-                                        contemporan cu tehnologia de varf. Fiecare dotare este creata pentru a te ajuta
-                                        sa profiti la maximum de orice zi. <br><br> Cu Ford SYNC poti selecta o piesa de
-                                        pe un USB sau un MP3/iPod<sup>&reg;</sup> sau sa o redai de pe mobil. Sistemul
-                                        iti permite sa efectuezi si sa primesti apeluri utilizand vocea si chiar citeste
-                                        mesajele text cu voce tare, astfel incat poti pastra legatura cu prietenii si
-                                        familia din mers. <br><br> In plus, nici nu va fi nevoie sa te opresti prea des
-                                        pentru a alimenta: motorul nostru premiat 1.0 EcoBoost imbina puterea
-                                        satisfacatoare cu un consum de combustibil exceptional, de pana la 4,3 l/100 km.
-                                        <br><br> Datorita tehnologiilor inovatoare, fiecare clipa de condus va fi <a
-                                            HREF="Fiesta/Caracteristici"><u>sigura</u></a>, <a
-                                            HREF="Fiesta/Caracteristici"><u>confortabila</u></a>, <a
-                                            HREF="Fiesta/Caracteristici"><u>interactiva</u></a> si distractiva. Iar
-                                        masina este disponibila in 12 <a HREF="Fiesta/Accesorii"><u>culori </u></a>atractive.
                                     </p>
-                                    </p>
+
+                                    <article class="content-column right">
+                                        <div class="content">
+                                            <h3 class="bigHeading02">
+                                                Noul Ford Fiesta ST
+                                            </h3>
+
+                                            <p>
+
+                                            <p>200 CP de zambet satisfacut</p>
+                                            </p>
+                                        </div>
+                                        <div class="img-column"><img
+                                                src="/assets/img/fiesta/1210588059.jpg"
+                                                alt="Ford Fiesta"/></div>
+                                    </article>
+                                    <article class="content-column left">
+                                        <div class="img-column"><img
+                                                src="/assets/img/fiesta/12103288059.jpg"
+                                                alt="Ford Fiesta Key-free"/></div>
+                                        <div class="content">
+                                            <h3 class="bigHeading02">
+                                                Noul Ford Fiesta ST
+                                            </h3>
+
+                                            <p>
+
+                                            <p>Formula Distractiei</p>
+                                            </p>
+                                        </div>
+                                    </article>
                                 </header>
                             </div>
                             <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
@@ -412,7 +421,7 @@
                 <!--  isBtfTab  -->
                 <!--  tabUrl /cs/ContentServer?cid=1205119060175&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205110357769&amp;tabName=Accesorii&amp;c=Page&amp;site=RORO4_ENGINE -->
                 <li><a href="Fiesta/Accesorii#primaryTabs" class=" "
-                       data-ajaxlink="/cs/ContentServer?cid=1205119060175&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205110357769&amp;tabName=Accesorii&amp;c=Page&amp;site=RORO4_ENGINE">Accesorii</a>
+                       data-ajaxlink="/cs/ContentServer?cid=1205119060175&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205110357769&amp;tabName=Accesorii&amp;c=Page&amp;site=RORO4_ENGINE">Galerie</a>
                     <!-- secondary tabs -->
                     <!--  midPageTabId : 1205110355283 -->
                 </li>
@@ -422,8 +431,8 @@
                        data-ajaxlink="/cs/ContentServer?cid=1205119060175&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205120512109&amp;tabName=PreturiSiPromotii&amp;c=Page&amp;site=RORO4_ENGINE">PRETURI
                         SI PROMOTII</a>
                     <!-- secondary tabs -->
-                    <!--  midPageTabId : 1205031008741 -->
-                </li> -->
+                    <!--  midPageTabId : 1205031008741
+                </li>
                 <li><a href="st-line#primaryTabs" class=" "
                        data-ajaxlink="/cs/ContentServer?cid=1205119060175&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205123138157&amp;tabName=st-line&amp;c=Page&amp;site=RORO4_ENGINE">ST-Line</a>
                     <!-- secondary tabs -->

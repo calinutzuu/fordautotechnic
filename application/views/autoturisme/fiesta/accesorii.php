@@ -75,7 +75,7 @@
                 {"linkTitle": "DESCARC\u0102 BRO\u015EUR\u0102 ", "linkURL": "\/SBE\/BrosuriSiPreturi", "linkType": "tertiary", "linkTarget": "_blank", "omid": "tr"},
                 {"linkTitle": "\u00CENSCRIE-TE LA TEST DRIVE ", "linkURL": "\/SBE\/TestDrive\/TestDriveAutoturisme?shopcode=00C&derivcode=8W5", "linkType": "tertiary", "linkTarget": "_blank", "omid": "tr"},
                 {"linkTitle": "VREAU SĂ FIU INFORMAT(Ă) ", "linkURL": "/SBE/VreauSaFiuInformata", "linkType": "tertiary", "linkTarget": "", "omid": "tr"}
-            ], "social": {"facebook": "https://facebook.com", "facebookPage": "fordromania"}, "disclaimer": "Modelul prezentat este un Fiesta Titanium. Imagine cu titlul de prezentare.", "seriesCode": "8W5", "uscCode": "00C", "supportSelector": "true", "supportSeries": "true", "presId": "1205035170415", "promos": [
+            ], "social": {"facebook": "https://facebook.com", "facebookPage": "fordromania"}, "disclaimer": "Imagini cu titlu de prezentare; pot include caracteristici sau dotari optionale indisponibile pe piata locala.", "seriesCode": "8W5", "uscCode": "00C", "supportSelector": "true", "supportSeries": "true", "presId": "1205035170415", "promos": [
                 {"imagePath": "/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobwhere=1214553887403&blobkey=id", "overlay": false, "link": "/cs/ContentServer?pagename=RORO4_ENGINE/EP2/common/promo/M48_PromoBlock&c=Promo_C&cid=1205113209680", "text": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vezi detaliile ofertei"}
             ], "idf": {"options": [
                 {"dataOverlay": {"mediaType": "Flash", "height": "439", "width": "780"}, "iconURL": "/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobheader=image%2Fjpg&blobwhere=1214480084185&blobkey=id", "link": "/cs/ContentServer?cid=1205028944450&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Flash_C&amp;site=RORO4_ENGINE", "videoSrc": [
@@ -114,16 +114,10 @@
                 <div class="name-plate-text">
                     <p class="intro"></p>
 
-                    <h1 class="bigHeading">
-                        <span data-selenium="XA_namePlate" itemprop="member" class="nameplate boldTxt">Fiesta</span>
-                        <span data-selenium="XA_model" itemprop="model" itemscope
-                              itemtype="http://schema.org/Organization" class="mark">Ford</span>
-                        <!--The price -->
-                    </h1>
+
                     <!--The blurb -->
                     <p class="blurb">
-                        Asemenea unui smartphone nou-nouţ, Ford Fiesta &icirc;mbină stilul contemporan cu tehnologia de
-                        v&acirc;rf.
+
                     </p>
                 </div>
             </div>
@@ -347,19 +341,30 @@
                 <!--  tabUrl /cs/ContentServer?cid=1205119060175&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205110357769&amp;tabName=Accesorii&amp;c=Page&amp;site=RORO4_ENGINE -->
                 <!-- IntoID ::: articleAssetId -->
                 <li class="selected"><a href="Accesorii#primaryTabs"
-                                        data-ajaxlink="/cs/ContentServer?cid=1205119060175&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205110357769&amp;tabName=Accesorii&amp;c=Page&amp;site=RORO4_ENGINE">Accesorii</a>
+                                        data-ajaxlink="/cs/ContentServer?cid=1205119060175&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205110357769&amp;tabName=Accesorii&amp;c=Page&amp;site=RORO4_ENGINE">Galerie</a>
                     <!--This is where the main content for the selected tab will go -->
                     <!-- secondary tabs -->
                     <div class="secondary-tabs tab-content">
                         <nav class="sub-nav">
                             <ul>
-                                <li><a href='#tab1' class='omt_tabName'> ACCESORII</a></li>
+                                <li><a href='#tab1' class='omt_tabName'> Galerie</a></li>
                             </ul>
                         </nav>
                         <!-- isBtfTab : from MidPageTabs true -->
                         <div class="innertab-wrapper">
                             <!--  tabTitle :  ACCESORII :: btfTabContent : 1205119642235 :: tabContent :  -->
                             <div id='tab1' class="secondary-tab-content">
+                                <header class="intro-header">
+                                    <h1 class="bigHeading">
+                                        Noul Ford Fiesta ST
+                                    </h1>
+                                    <span class="highlighter"></span>
+
+                                    <p class="intro-text">
+
+                                    <p>Exterior</p>
+                                    </p>
+                                </header>
                                 <article class='three-column'>
                                     <div class="content-block">
                                        <img
@@ -367,58 +372,205 @@
                                                 alt="Acesories"/><span class="fv-overlay-icon"></span>
 
                                         <h3 class="bigHeading02">
-                                            Accesorii Ford Fiesta
+                                            Aderenta ca de menghina la fiecare curba.
                                         </h3>
 
-                                        <p>
 
-                                        <p><a class="js-overlay" data-media-overlay="{"
-                                              href="../../cs/ContentServerf46a?pagename=ENGInE/EP2/common/media/MediaOverlay&amp;c=Video_C&amp;cid=1205110348347&amp;site=ENGInE"
-                                              title="Accesorii Ford Fiesta" target="_blank"
-                                              onClick="triggerOverlay('/cs/ContentServer?pagename=ENGInE/Overlay_C/ShowOverlay%26pubid=1204961250932%26c=Overlay_C%26cid=1205119657881%26overlayheight=439%26overlaywidth=780' ,'overlay','Accesorii%20Ford%20Fiesta','Close','439','780'); return false;">Accesorii
-                                                Ford Fiesta</a></p>
-                                        </p>
                                     </div>
                                     <div class="content-block">
-                                        <a href="../../cs/ContentServer0a60?cid=1205119659597&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                                           class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+                                        <img
                                                 src="/assets/img/fiesta/1214560590069.jpg"
                                                 alt="Lifestyle Collection"/><span class="fv-overlay-icon"></span></a>
 
                                         <h3 class="bigHeading02">
-                                            Jante aliaj Ford Fiesta
+                                            Se face una cu soseaua
                                         </h3>
 
-                                        <p>
 
-                                        <p>
-                                            <a onClick="triggerOverlay('/cs/ContentServer?pagename=ENGInE/Overlay_C/ShowOverlay%26pubid=1204961250932%26c=Overlay_C%26cid=1205119657914%26overlayheight=439%26overlaywidth=780' ,'overlay','Jante%20aliaj%20Ford%20Fiesta','Close','439','780'); return false;"
-                                               target="_blank" title="Jante aliaj Ford Fiesta"
-                                               href="../../cs/ContentServerbe20?pagename=ENGInE/EP2/common/media/MediaOverlay&amp;c=Video_C&amp;cid=1205110349447&amp;site=ENGInE"
-                                               data-media-overlay="{" class="js-overlay">Jante aliaj Ford Fiesta</a></p>
-                                        </p>
                                     </div>
                                     <div class="content-block last">
-                                        <a href="../../cs/ContentServerd63a?cid=1205119659394&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-                                           class="js-overlay" data-media-overlay='{"height":439, "width":780}'><img
+                                        <img
                                                 src="/assets/img/fiesta/1214560589986.jpg"
                                                 alt="Lifestyle Collection"/><span class="fv-overlay-icon"></span></a>
 
                                         <h3 class="bigHeading02">
-                                            Lifestyle Collection - Ford Fiesta
+                                            Design atletic din orice unghi.
                                         </h3>
 
-                                        <p>
 
-                                        <p><a class="js-overlay" data-media-overlay="{"
-                                              href="../../cs/ContentServer108c?pagename=ENGInE/EP2/common/media/MediaOverlay&amp;c=Video_C&amp;cid=1205110350948&amp;site=ENGInE"
-                                              title="Lifestyle Collection - Ford Fiesta" target="_blank"
-                                              onClick="triggerOverlay('/cs/ContentServer?pagename=ENGInE/Overlay_C/ShowOverlay%26pubid=1204961250932%26c=Overlay_C%26cid=1205119658360%26overlayheight=439%26overlaywidth=780' ,'overlay','Lifestyle%20Collection%20-%20Ford%20Fiesta','Close','439','780'); return false;">Lifestyle
-                                                Collection - Ford Fiesta</a></p>
-                                        </p>
                                     </div>
                                 </article>
+
+                                <article class='three-column'>
+                                    <div class="content-block">
+                                        <img
+                                            src="/assets/img/fiesta/12145589901.jpg"
+                                            alt="Acesories"/><span class="fv-overlay-icon"></span>
+
+                                        <h3 class="bigHeading02">
+                                            Spoiler spate aerodynamic.
+                                        </h3>
+
+
+                                    </div>
+                                    <div class="content-block">
+                                        <img
+                                            src="/assets/img/fiesta/121260590069.jpg"
+                                            alt="Lifestyle Collection"/><span class="fv-overlay-icon"></span></a>
+
+                                        <h3 class="bigHeading02">
+                                            Evacuare dubla.
+                                        </h3>
+
+
+                                    </div>
+                                    <div class="content-block last">
+                                        <img
+                                            src="/assets/img/fiesta/1214569986.jpg"
+                                            alt="Lifestyle Collection"/><span class="fv-overlay-icon"></span></a>
+
+                                        <h3 class="bigHeading02">
+                                            Faruri LED inteligente, extrem de stralucitoare.
+                                        </h3>
+
+
+                                    </div>
+                                </article>
+
+                                <article class='three-column'>
+                                    <div class="content-block">
+                                        <img
+                                            src="/assets/img/fiesta/1214235589901.jpg"
+                                            alt="Acesories"/><span class="fv-overlay-icon"></span>
+
+                                        <h3 class="bigHeading02">
+                                            Jante unice, din aliaj.
+                                        </h3>
+
+
+                                    </div>
+                                    <div class="content-block">
+                                        <img
+                                            src="/assets/img/fiesta/12132605069.jpg"
+                                            alt="Lifestyle Collection"/><span class="fv-overlay-icon"></span></a>
+
+                                        <h3 class="bigHeading02">
+                                            Noul Ford Focus ST
+                                        </h3>
+
+
+                                    </div>
+
+                                </article>
                             </div>
+<br>
+                            <header class="intro-header">
+
+                                <span class="highlighter"></span>
+
+                                <p class="intro-text">
+
+                                <p>Interior</p>
+                                </p>
+                            </header>
+                            <article class='three-column'>
+                                <div class="content-block">
+                                    <img
+                                        src="/assets/img/fiesta/121443560589901.jpg"
+                                        alt="Acesories"/><span class="fv-overlay-icon"></span>
+
+                                    <h3 class="bigHeading02">
+                                        Comenzi la indemana.
+                                    </h3>
+
+
+                                </div>
+                                <div class="content-block">
+                                    <img
+                                        src="/assets/img/fiesta/121590069.jpg"
+                                        alt="Lifestyle Collection"/><span class="fv-overlay-icon"></span></a>
+
+                                    <h3 class="bigHeading02">
+                                        Scaune Recaro marcate ST.
+                                    </h3>
+
+
+                                </div>
+                                <div class="content-block last">
+                                    <img
+                                        src="/assets/img/fiesta/121489986.jpg"
+                                        alt="Lifestyle Collection"/><span class="fv-overlay-icon"></span></a>
+
+                                    <h3 class="bigHeading02">
+                                        Materiale premium.
+                                    </h3>
+
+
+                                </div>
+                            </article>
+
+                            <article class='three-column'>
+                                <div class="content-block">
+                                    <img
+                                        src="/assets/img/fiesta/160589901.jpg"
+                                        alt="Acesories"/><span class="fv-overlay-icon"></span>
+
+                                    <h3 class="bigHeading02">
+                                        Volan sport marcat ST.
+                                    </h3>
+
+
+                                </div>
+                                <div class="content-block">
+                                    <img
+                                        src="/assets/img/fiesta/12176590069.jpg"
+                                        alt="Lifestyle Collection"/><span class="fv-overlay-icon"></span></a>
+
+                                    <h3 class="bigHeading02">
+                                        SYNC 3, cu ecran tactil color, de 8”.
+                                    </h3>
+
+
+                                </div>
+                                <div class="content-block last">
+                                    <img
+                                        src="/assets/img/fiesta/147489986.jpg"
+                                        alt="Lifestyle Collection"/><span class="fv-overlay-icon"></span></a>
+
+                                    <h3 class="bigHeading02">
+                                        Cusaturi contrastante la scaune.
+                                    </h3>
+
+
+                                </div>
+                            </article>
+
+                            <article class='three-column'>
+                                <div class="content-block">
+                                    <img
+                                        src="/assets/img/fiesta/11260589901.jpg"
+                                        alt="Acesories"/><span class="fv-overlay-icon"></span>
+
+                                    <h3 class="bigHeading02">
+                                        Scaune Recaro marcate ST.
+                                    </h3>
+
+
+                                </div>
+                                <div class="content-block">
+                                    <img
+                                        src="/assets/img/fiesta/1217069.jpg"
+                                        alt="Lifestyle Collection"/><span class="fv-overlay-icon"></span></a>
+
+                                    <h3 class="bigHeading02">
+                                        Interior ST
+                                    </h3>
+
+
+                                </div>
+
+                            </article>
+
                             <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
                             <!-- BEGIN [MidPageTabs] -->
                             <!--<div id='tab1' class="mp-tab-wrapper">
@@ -448,18 +600,18 @@
                 </li>
                 <!--  isBtfTab  -->
                 <!--  tabUrl /cs/ContentServer?cid=1205119060175&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205120512109&amp;tabName=PreturiSiPromotii&amp;c=Page&amp;site=RORO4_ENGINE -->
-                <li><a href="PreturiSiPromotii#primaryTabs" class=" "
+      <!--          <li><a href="PreturiSiPromotii#primaryTabs" class=" "
                        data-ajaxlink="/cs/ContentServer?cid=1205119060175&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205120512109&amp;tabName=PreturiSiPromotii&amp;c=Page&amp;site=RORO4_ENGINE">PRETURI
                         SI PROMOTII</a>
                     <!-- secondary tabs -->
                     <!--  midPageTabId : 1205031008741 -->
                 </li>
-                <li><a href="st-line#primaryTabs" class=" "
+           <!--     <li><a href="st-line#primaryTabs" class=" "
                        data-ajaxlink="/cs/ContentServer?cid=1205119060175&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205123138157&amp;tabName=st-line&amp;c=Page&amp;site=RORO4_ENGINE">ST-Line</a>
                     <!-- secondary tabs -->
-                    <!--  midPageTabId : 1205123138087 -->
+                    <!--  midPageTabId : 1205123138087
                 </li>
-
+-->
             </ul>
         </nav>
     </div>
