@@ -144,7 +144,7 @@ filter: none;
             ]}}, "brand": "Ford", "vehicleType": "PV", "catalogId": "NONE", "nameplate": "Focus", "labelAvailableFrom": "&nbsp;", "formattedCurrency": "", "nameplateText": '', "imagePack": false, "hideVehicleImage": false, "facebookImagePath": "", "facebookAppId": "facebookAppId", "images": [], "billBoardImagePath": null, "backgroundImagePath": ["/assets/img/1214656621320.jpg", "null", "null"], "disclaimerTextColor": [null, null, null], "current": true, "cid": "1205157310294", "cta": [
                 {"linkTitle": "DESCARC\u0102 BRO\u015EUR\u0102 ", "linkURL": "\/SBE\/BrosuriSiPreturi", "linkType": "primary", "linkTarget": "_blank", "omid": "va"},
                 {"linkTitle": "\u00CENSCRIE-TE LA TEST DRIVE ", "linkURL": "\/SBE\/TestDrive\/TestDriveAutoturisme?shopcode=AUTHORED&derivcode=AUTHORED", "linkType": "tertiary", "linkTarget": "_blank", "omid": "tr"}
-            ], "social": {"facebook": "https://facebook.com", "facebookPage": "fordromania"}, "disclaimer": "Modelul prezentat este un Focus {1}. Imagine cu titlul de prezentare.", "seriesCode": "AUTHORED", "uscCode": "AUTHORED", "presId": "1205157308484", "promos": [], "idf": {"options": []}}
+            ], "social": {"facebook": "https://facebook.com", "facebookPage": "fordromania"}, "disclaimer": "Imagini cu titlu de prezentare; pot include caracteristici sau dotari optionale indisponibile pe piata locala.", "seriesCode": "AUTHORED", "uscCode": "AUTHORED", "presId": "1205157308484", "promos": [], "idf": {"options": []}}
         ]} || {};
         var retrieveUserOptions = JSON.parse(localStorage.getItem('userSelection')) || {};
         //FranciB: injecting and changing user selected angle image trigger by mid page tabs and on page reload.
@@ -170,19 +170,7 @@ filter: none;
             </ul>
             <div itemscope itemtype="http://schema.org/Product" id="nameplateDetails" class="nameplate-vehicle">
                 <!--the text description-->
-                <div class="name-plate-text">
-                    <p class="intro">ALL NEW </p>
 
-                    <h1 class="bigHeading">
-                        <span data-selenium="XA_namePlate" itemprop="member" class="nameplate boldTxt">Focus</span>
-                        <span data-selenium="XA_model" itemprop="model" itemscope
-                              itemtype="http://schema.org/Organization" class="mark">Ford</span>
-                        <!--The price -->
-                    </h1>
-                    <!--The blurb -->
-                    <p class="blurb">
-                    </p>
-                </div>
             </div>
         </div>
         <nav class="vehicle-tools" id="vehicleTools"></nav>
@@ -356,192 +344,362 @@ filter: none;
 <section id="primary-tab-content" class="nameplate-tab-content" data-dynamic-tabcontent="true"
          data-siteterm-backtotop="Back To Top !!!">
 <div class="tab-wrapper">
-    <nav class="tabs" id="primaryTabs">
-        <ul>
-            <!--  isBtfTab true -->
-            <!--  tabUrl /cs/ContentServer?cid=1205157310294&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE -->
-            <li><a href="/Autoturisme/focus-2018" class=" "
-                   data-ajaxlink="/cs/ContentServer?cid=1205157310294&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE">Prezentare
-                    Generala</a>
-                <!-- secondary tabs -->
-                <!--  midPageTabId : 1205157310024 -->
-            </li>
-            <!--  isBtfTab  -->
-            <!--  tabUrl /cs/ContentServer?cid=1205157310294&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205157309754&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE -->
-            <!-- IntoID ::: articleAssetId -->
-            <li class="selected"><a href="Design#primaryTabs"
-                                    data-ajaxlink="/cs/ContentServer?cid=1205157310294&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205157309754&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE">Design</a>
-                <!--This is where the main content for the selected tab will go -->
-                <!-- secondary tabs -->
-                <div class="secondary-tabs tab-content">
-                    <nav class="sub-nav">
-                        <ul>
-                            <li><a href='#tab1' class='omt_tabName'>Gallery</a></li>
-                        </ul>
-                    </nav>
-                    <!-- isBtfTab : from MidPageTabs true -->
-                    <div class="innertab-wrapper">
-                        <!--  tabTitle : Gallery :: btfTabContent : 1205157310156 :: tabContent :  -->
-                        <div id='tab1' class="secondary-tab-content">
-                            <article class='three-column'>
-                                <div class="content-block">
-                                    <img
-                                        src="/assets/img/1214656620816.jpg"
-                                        alt="Ford Focus parked by trees"/><span class="fv-overlay-icon"></span>
+<nav class="tabs" id="primaryTabs">
+<ul>
+<!--  isBtfTab true -->
+<!--  tabUrl /cs/ContentServer?cid=1205157310294&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE -->
+<li><a href="/Autoturisme/focus-2018" class=" "
+       data-ajaxlink="/cs/ContentServer?cid=1205157310294&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE">Prezentare
+        Generala</a>
+    <!-- secondary tabs -->
+    <!--  midPageTabId : 1205157310024 -->
+</li>
+<!--  isBtfTab  -->
+<!--  tabUrl /cs/ContentServer?cid=1205157310294&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205157309754&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE -->
+<!-- IntoID ::: articleAssetId -->
+<li class="selected"><a href="Design#primaryTabs"
+                        data-ajaxlink="/cs/ContentServer?cid=1205157310294&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205157309754&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE">Design</a>
+</li>
 
-                                    <h3 class="bigHeading02">
-                                    </h3>
+<li><a href="Caracteristici#primaryTabs" class=" "
+       data-ajaxlink="/cs/ContentServer?cid=1205157310294&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205157309754&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE">Caracteristici</a>
+    <!-- secondary tabs -->
+    <!--  midPageTabId : 1205157310370 -->
+</li>
 
-                                    <p>
 
-                                    <p>Aspect uimitor: Focus ST-Line.</p>
-                                    </p>
-                                </div>
-                                <div class="content-block">
-                                    <img
-                                        src="/assets/img/1214656621345.jpg"
-                                        alt="Ford Focus interior rear seats view"/><span
-                                        class="fv-overlay-icon"></span>
+<!--This is where the main content for the selected tab will go -->
+<!-- secondary tabs -->
+<div class="secondary-tabs tab-content">
+<header class="intro-header"><br>
 
-                                    <h3 class="bigHeading02">
-                                    </h3>
+    <h1 class="bigHeading">
+        Un aspect nou, iesit din comun
+    </h1>
+    <span class="highlighter"></span>
+    <br>
 
-                                    <p>
+</header>
 
-                                    <p>Mai mult spatiu pentru cap, picioare si coate.</p>
-                                    </p>
-                                </div>
-                                <div class="content-block last">
-                                    <img
-                                        src="/assets/img/1214656620902.jpg"
-                                        alt="Ford Focus parked by the beach"/><span
-                                        class="fv-overlay-icon"></span>
+<nav class="sub-nav">
+    <ul>
+        <li><a href='#tab1' class='omt_tabName'>Gallery</a></li>
+    </ul>
+</nav>
+<!-- isBtfTab : from MidPageTabs true -->
+<div class="innertab-wrapper">
+<!--  tabTitle : Gallery :: btfTabContent : 1205157310156 :: tabContent :  -->
+<div id='tab1' class="secondary-tab-content">
+    <article class='three-column'>
+        <div class="content-block">
+            <img
+                src="/assets/img/1214656620816.jpg"
+                alt="Ford Focus parked by trees"/><span class="fv-overlay-icon"></span>
 
-                                    <h3 class="bigHeading02">
-                                    </h3>
+            <h3 class="bigHeading02">
+            </h3>
 
-                                    <p>
+            <p>
 
-                                    <p>Mergi pe un drum nou cu Focus Active.</p>
-                                    </p>
-                                </div>
-                            </article>
-                            <article class='three-column'>
-                                <div class="content-block">
-                                    ><img
-                                        src="/assets/img/1214656620630.jpg"
-                                        alt="Ford Focus interior cockpit view"/><span
-                                        class="fv-overlay-icon"></span>
+            <p>Atractia aventurarii in oras.</p>
+            </p>
+        </div>
+        <div class="content-block">
+            <img
+                src="/assets/img/1214656621345.jpg"
+                alt="Ford Focus interior rear seats view"/><span
+                class="fv-overlay-icon"></span>
 
-                                    <h3 class="bigHeading02">
-                                    </h3>
+            <h3 class="bigHeading02">
+            </h3>
 
-                                    <p>
+            <p>
 
-                                    <p>Un design contemporan, conceput in jurul nevoilor tale.</p>
-                                    </p>
-                                </div>
-                                <div class="content-block">
-                                    <img
-                                        src="/assets/img/1214656621431.jpg"
-                                        alt="Ford Focus interior cockpit view"/><span
-                                        class="fv-overlay-icon"></span>
+            <p>O alura irezistibila.</p>
+            </p>
+        </div>
+        <div class="content-block last">
+            <img
+                src="/assets/img/1214656620902.jpg"
+                alt="Ford Focus parked by the beach"/><span
+                class="fv-overlay-icon"></span>
 
-                                    <h3 class="bigHeading02">
-                                    </h3>
+            <h3 class="bigHeading02">
+            </h3>
 
-                                    <p>
+            <p>
 
-                                    <p>O cabina moderna, spatioasa.</p>
-                                    </p>
-                                </div>
-                                <div class="content-block last">
-                                    <img
-                                        src="/assets/img/1214656620988.jpg"
-                                        alt="Ford Focus turning corner side view"/><span
-                                        class="fv-overlay-icon"></span>
+            <p>Bucura-te de un peisaj diferit. </p>
+            </p>
+        </div>
+    </article>
+    <article class='three-column'>
+        <div class="content-block">
+            <img
+                src="/assets/img/1214656620630.jpg"
+                alt="Ford Focus interior cockpit view"/><span
+                class="fv-overlay-icon"></span>
 
-                                    <h3 class="bigHeading02">
-                                    </h3>
+            <h3 class="bigHeading02">
+            </h3>
 
-                                    <p>
+            <p>
 
-                                    <p>Dinamic. Incitant. Puternic.</p>
-                                    </p>
-                                </div>
-                            </article>
-                            <article class='three-column'>
-                                <div class="content-block">
-                                    <img
-                                        src="/assets/img/1214656621161.jpg"
-                                        alt="Ford Focus rear load space view"/><span
-                                        class="fv-overlay-icon"></span>
+            <p>Design exterior rafinat.</p>
+            </p>
+        </div>
+        <div class="content-block">
+            <img
+                src="/assets/img/1214656621431.jpg"
+                alt="Ford Focus interior cockpit view"/><span
+                class="fv-overlay-icon"></span>
 
-                                    <h3 class="bigHeading02">
-                                    </h3>
+            <h3 class="bigHeading02">
+            </h3>
 
-                                    <p>
+            <p>
 
-                                    <p>Spatiu de incarcare impresionant, cu trapa pentru schiuri.</p>
-                                    </p>
-                                </div>
-                                <div class="content-block">
-                                    <img
-                                        src="/assets/img/1214656621075.jpg"
-                                        alt="Ford Focus side view"/><span class="fv-overlay-icon"></span>
+            <p>O viziune mai ampla.</p>
+            </p>
+        </div>
+        <div class="content-block last">
+            <img
+                src="/assets/img/1214656620988.jpg"
+                alt="Ford Focus turning corner side view"/><span
+                class="fv-overlay-icon"></span>
 
-                                    <h3 class="bigHeading02">
-                                    </h3>
+            <h3 class="bigHeading02">
+            </h3>
 
-                                    <p>
+            <p>
 
-                                    <p>Un profil suplu, contemporan.</p>
-                                    </p>
-                                </div>
-                                <div class="content-block last">
-                                    <img
-                                        src="/assets/img/1214656621517.jpg"
-                                        alt="Ford Focus parked on grass"/><span class="fv-overlay-icon"></span>
+            <p>Lasa sa patrunda lumina.</p>
+            </p>
+        </div>
+    </article>
+    <article class='three-column'>
+        <div class="content-block">
+            <img
+                src="/assets/img/1214656621161.jpg"
+                alt="Ford Focus rear load space view"/><span
+                class="fv-overlay-icon"></span>
 
-                                    <h3 class="bigHeading02">
-                                    </h3>
+            <h3 class="bigHeading02">
+            </h3>
 
-                                    <p>
+            <p>
 
-                                    <p>O imagine irezistibila</p>
-                                    </p>
-                                </div>
-                            </article>
-                        </div>
-                        <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
-                        <!-- BEGIN [MidPageTabs] -->
-                        <!--<div id='tab1' class="mp-tab-wrapper">
+            <p>Conceput pentru evadari din rutina.</p>
+            </p>
+        </div>
+        <div class="content-block">
+            <img
+                src="/assets/img/1214656621075.jpg"
+                alt="Ford Focus side view"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+            </h3>
+
+            <p>
+
+            <p>Aspect uimitor: Focus ST-Line. </p>
+            </p>
+        </div>
+        <div class="content-block last">
+            <img
+                src="/assets/img/1214656621517.jpg"
+                alt="Ford Focus parked on grass"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+            </h3>
+
+            <p>
+
+            <p>Scapa de rutina.</p>
+            </p>
+        </div>
+    </article>
+
+    <article class='three-column'>
+        <div class="content-block">
+            <img
+                src="/assets/img/12656621161.jpg"
+                alt="Ford Focus rear load space view"/><span
+                class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+            </h3>
+
+            <p>
+
+            <p>Obisnuieste-te cu clasa business. </p>
+            </p>
+        </div>
+        <div class="content-block">
+            <img
+                src="/assets/img/12146521075.jpg"
+                alt="Ford Focus side view"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+            </h3>
+
+            <p>
+
+            <p>De ce sa te pierzi in multime? </p>
+            </p>
+        </div>
+
+    </article>
+
+    <header class="intro-header">
+        <h1 class="bigHeading">
+            Relaxeaza-te si bucura-te de ambianta
+        </h1>
+        <span class="highlighter"></span>
+
+        <p class="intro-text">
+
+        <p>Urca in noul Focus si vei simti imediat ca tu, impreuna cu pasagerii tai, va veti bucura din plin de
+            calatorie. Liniile clare, curate se combina cu o aranjare a comenzilor care le pune pe toate la indemana ta,
+            in timp ce designul si exceptionala atentie la detalii creeaza un spatiu care te relaxeaza si stimuleaza in
+            acelasi timp.</p>
+        </p>
+    </header>
+
+    <article class='three-column'>
+        <div class="content-block">
+            <img
+                src="/assets/img/1214621161.jpg"
+                alt="Ford Focus rear load space view"/><span
+                class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+            </h3>
+
+            <p>
+
+            <p>Intotdeauna pozitia de condus perfecta. </p>
+            </p>
+        </div>
+        <div class="content-block">
+            <img
+                src="/assets/img/12146561075.jpg"
+                alt="Ford Focus side view"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+            </h3>
+
+            <p>
+
+            <p>Un schimbator de viteze rotativ, sub forma de cadran, pentru un interior mai curat si mai ordonat.  </p>
+            </p>
+        </div>
+        <div class="content-block last">
+            <img
+                src="/assets/img/1216621517.jpg"
+                alt="Ford Focus parked on grass"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+            </h3>
+
+            <p>
+
+            <p>Materiale premium, in intregul vehicul. </p>
+            </p>
+        </div>
+    </article>
+
+    <article class='three-column'>
+        <div class="content-block">
+            <img
+                src="/assets/img/121462341161.jpg"
+                alt="Ford Focus rear load space view"/><span
+                class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+            </h3>
+
+            <p>
+
+            <p>Extraordinar de spatios in interior.  </p>
+            </p>
+        </div>
+        <div class="content-block">
+            <img
+                src="/assets/img/1214436561075.jpg"
+                alt="Ford Focus side view"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+            </h3>
+
+            <p>
+
+            <p>Spatiu pentru toate dispozitivele tale.   </p>
+            </p>
+        </div>
+        <div class="content-block last">
+            <img
+                src="/assets/img/121546621517.jpg"
+                alt="Ford Focus parked on grass"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+            </h3>
+
+            <p>
+
+            <p>Un spatiu in stil contemporan, conceput in jurul nevoilor tale. </p>
+            </p>
+        </div>
+    </article>
+
+    <article class='three-column'>
+        <div class="content-block">
+            <img
+                src="/assets/img/1214623415161.jpg"
+                alt="Ford Focus rear load space view"/><span
+                class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+            </h3>
+
+            <p>
+
+            <p>O cabina ultramoderna si spatioasa. </p>
+            </p>
+        </div>
+
+    </article>
+
+</div>
+<!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
+<!-- BEGIN [MidPageTabs] -->
+<!--<div id='tab1' class="mp-tab-wrapper">
 <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Gallery</a></h2> -->
-                        <!--</div>-->
-                        <!-- END [MidPageTabs] -->
-                        <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
-                        <!-- BEGIN [MidPageTabs] -->
-                        <!--<div id='tab1' class="mp-tab-wrapper">
+<!--</div>-->
+<!-- END [MidPageTabs] -->
+<!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
+<!-- BEGIN [MidPageTabs] -->
+<!--<div id='tab1' class="mp-tab-wrapper">
 <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Gallery</a></h2> -->
-                        <!--</div>-->
-                        <!-- END [MidPageTabs] -->
-                        <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
-                        <!-- BEGIN [MidPageTabs] -->
-                        <!--<div id='tab1' class="mp-tab-wrapper">
+<!--</div>-->
+<!-- END [MidPageTabs] -->
+<!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
+<!-- BEGIN [MidPageTabs] -->
+<!--<div id='tab1' class="mp-tab-wrapper">
 <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Gallery</a></h2> -->
-                        <!--</div>-->
-                        <!-- END [MidPageTabs] -->
-                        <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
-                        <!-- BEGIN [MidPageTabs] -->
-                        <!--<div id='tab1' class="mp-tab-wrapper">
+<!--</div>-->
+<!-- END [MidPageTabs] -->
+<!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
+<!-- BEGIN [MidPageTabs] -->
+<!--<div id='tab1' class="mp-tab-wrapper">
 <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Gallery</a></h2> -->
-                        <!--</div>-->
-                        <!-- END [MidPageTabs] -->
-                    </div>
-                </div>
-            </li>
-        </ul>
-    </nav>
+<!--</div>-->
+<!-- END [MidPageTabs] -->
+</div>
+</div>
+</li>
+</ul>
+</nav>
 </div>
 <article class="nameplate-main-content" id="tabs">
 </article>

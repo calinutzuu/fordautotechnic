@@ -126,6 +126,8 @@ $route['Autoturisme/NewFocusST/Design'] = 'autoturisme/focus_st/design';
 $route['Autoturisme/NewFocusST/PrezentareGenerala'] = 'autoturisme/focus_st/prezentare';
 $route['Autoturisme/NewFocusST'] = 'autoturisme/focus_st/index';
 
+
+$route['Autoturisme/focus-2018/Caracteristici'] = 'autoturisme/focus_2018/caracteristici_f18';
 $route['Autoturisme/focus-2018/Design'] = 'autoturisme/focus_2018/design';
 $route['Autoturisme/focus-2018'] = 'autoturisme/focus_2018/index';
 

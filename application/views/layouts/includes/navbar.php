@@ -60,6 +60,12 @@
                                     class="om_he_pv_np " href="/Autoturisme/Focus">Focus</a>
     </li>
     <li role="menuitem" class=""><a role="link"
+                                    data-selenium="doormat_car_selection Tourneo Courier"
+                                    class="om_he_pv_np "
+                                    href="/Autoturisme/focus-2018">Noul Focus
+        </a></li>
+
+    <li role="menuitem" class=""><a role="link"
                                     data-selenium="doormat_car_selection Focus ST"
                                     class="om_he_pv_np " href="/Autoturisme/NewFocusST">Focus
             ST</a></li>
@@ -113,11 +119,7 @@
                                     class="om_he_pv_np "
                                     href="/Autoturisme/Noul-Ford-Tourneo-Courier">Tourneo
             Courier</a></li>
-    <li role="menuitem" class=""><a role="link"
-                                    data-selenium="doormat_car_selection Tourneo Courier"
-                                    class="om_he_pv_np "
-                                    href="/Autoturisme/focus-2018">Noul Focus
-        </a></li>
+
     <li role="menuitem" class=""><a role="link"
                                     data-selenium="doormat_car_selection Noul Ford GT"
                                     class="om_he_pv_np " href="https://www.fordgt.com/ro_ro/performance/gt/">Noul
@@ -210,20 +212,20 @@
     <!--  TODO : breadcrumb navigation, viewAs and search field html fragment goes here  -->
 <div class="topContainer">
     <div id="fr" class="fr">
-        <form class="searchBox fl" method="get" action="http://www.ford.ro/cs/ContentServer" role="search">
-            <fieldset>
-                <legend class="visuallyhidden">Search</legend>
-                <div class="leftcap">
-                    <label for="s" class="fl">
-                        <span class="visuallyhidden">Search</span>
-                        <input class="searchField" type="search" name="s" id="s"
-                               placeholder="Introducere termen de c?utare" value="" maxlength="250" autocomplete="off"/>
-                    </label>
-                </div>
-                <input type="hidden" name="pagename" value="RORO4_ENGINE/LayoutSearchResults_EP2"/>
-                <input type="hidden" name="c" value="Page"/>
-                <input type="hidden" name="cid" value="1204961327794"/>
-                <input class="find om_he_se" type="submit" name="Search" value="Search"/>
+        <!--      <form class="searchBox fl" method="get" action="http://www.ford.ro/cs/ContentServer" role="search">
+                 <fieldset>
+                     <legend class="visuallyhidden">Search</legend>
+                     <div class="leftcap">
+                         <label for="s" class="fl">
+                             <span class="visuallyhidden">Search</span>
+                             <input class="searchField" type="search" name="s" id="s"
+                                    placeholder="Introducere termen de c?utare" value="" maxlength="250" autocomplete="off"/>
+                         </label>
+                     </div>
+                     <input type="hidden" name="pagename" value="RORO4_ENGINE/LayoutSearchResults_EP2"/>
+                     <input type="hidden" name="c" value="Page"/>
+                     <input type="hidden" name="cid" value="1204961327794"/>
+                    <input class="find om_he_se" type="submit" name="Search" value="Search"/> -->
             </fieldset>
         </form>
     </div>

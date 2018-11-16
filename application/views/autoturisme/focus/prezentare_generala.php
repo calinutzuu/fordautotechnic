@@ -84,7 +84,7 @@
                 {"linkTitle": "DESCARC\u0102 BRO\u015EUR\u0102 ", "linkURL": "\/SBE\/BrosuriSiPreturi", "linkType": "tertiary", "linkTarget": "_blank", "omid": "tr"},
                 {"linkTitle": "\u00CENSCRIE-TE LA TEST DRIVE ", "linkURL": "\/SBE\/TestDrive\/TestDriveAutoturisme?shopcode=00L&derivcode=1TH", "linkType": "tertiary", "linkTarget": "_blank", "omid": "tr"},
                 {"linkTitle": "VREAU SĂ FIU INFORMAT(Ă) ", "linkURL": "/SBE/VreauSaFiuInformata", "linkType": "tertiary", "linkTarget": "", "omid": "tr"}
-            ], "social": {"facebook": "https://facebook.com", "facebookPage": ""}, "disclaimer": "Modelul prezentat este un Focus  Titanium. Imagine cu titlul de prezentare.", "seriesCode": "1TH", "uscCode": "00L", "supportSelector": "true", "supportSeries": "true", "presId": "1205072254052", "promos": [
+            ], "social": {"facebook": "https://facebook.com", "facebookPage": ""}, "disclaimer": "magini cu titlu de prezentare; pot include caracteristici sau dotari optionale indisponibile pe piata locala.", "seriesCode": "1TH", "uscCode": "00L", "supportSelector": "true", "supportSeries": "true", "presId": "1205072254052", "promos": [
                 {"imagePath": "/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobwhere=1214553887403&blobkey=id", "overlay": false, "link": "/cs/ContentServer?pagename=RORO4_ENGINE/EP2/common/promo/M48_PromoBlock&c=Promo_C&cid=1205113210234", "text": "Oferta speciala prin programul rabla!"}
             ], "idf": {"options": [
                 {"dataOverlay": {"mediaType": "Image", "height": "435", "width": "780"}, "iconURL": "/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobheader=image%2Fjpg&blobwhere=1214481906810&blobkey=id", "link": "/cs/ContentServer?cid=1205072236108&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE", "videoSrc": [
@@ -124,16 +124,10 @@
                 <div class="name-plate-text">
                     <p class="intro"></p>
 
-                    <h1 class="bigHeading">
-                        <span data-selenium="XA_namePlate" itemprop="member" class="nameplate boldTxt">Focus </span>
-                        <span data-selenium="XA_model" itemprop="model" itemscope
-                              itemtype="http://schema.org/Organization" class="mark"></span>
-                        <!--The price -->
-                    </h1>
+
                     <!--The blurb -->
                     <p class="blurb">
-                        Cu un exterior complet restilizat, mai sculptat, si cu un spatiu in cabina mai avansat si mai
-                        sofisticat ca niciodata, acesta este cel mai rafinat Focus de pana acum.
+
                     </p>
                 </div>
             </div>
@@ -343,7 +337,7 @@
                 <!--  isBtfTab true -->
                 <!--  tabUrl /cs/ContentServer?cid=1205072239086&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE -->
                 <!-- IntoID ::: articleAssetId -->
-                <li class="selected"><a href="PrezentareGenerala#primaryTabs"
+                <li class="selected"><a href="Focus/PrezentareGenerala#primaryTabs"
                                         data-ajaxlink="/cs/ContentServer?cid=1205072239086&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE">Prezentare
                         generala</a>
                     <!--This is where the main content for the selected tab will go -->
@@ -364,45 +358,94 @@
                                     </h1>
                                     <span class="highlighter"></span>
 
-                                    <p class="intro-text">
 
-                                    <p>Cu un exterior complet restilizat, mai sculptural, si cu un spatiu in cabina mai
-                                        avansat si mai sofisticat ca niciodata, acesta este cel mai rafinat Focus de
-                                        pana acum. <br> <br> Acest model din generatia urmatoare integreaza, de
-                                        asemenea, o gama larga de noi tehnologii remarcabile. De exemplu, Ford SYNC 2 cu
-                                        comanda vocala si ecran tactil de 8&rdquo; iti permite sa controlezi in mod
-                                        intuitiv sistemele de navigatie, divertisment si climatizare ale masinii, doar
-                                        cu ajutorul vocii. Sistemul de asistenta activa la parcare a fost imbunatatit
-                                        pentru a-ti usura parcarile paralele, cat si pe cele perpendiculare. <br> <br> O
-                                        gama larga de motoare pe benzina si diesel de ultima generatie iti ofera
-                                        echilibrul perfect dintre putere si economie de combustibil, iar transmisia
-                                        PowerShift avansata si schimbarile treptelor de viteza cu un schimbator cu
-                                        padele maximizeaza performanta si eficienta.</p>
-                                    </p>
                                 </header>
+
+
+                                <article class="content-column left">
+                                    <div class="img-column"><img
+                                            src="/assets/img/noul_focus/12160587976.jpg"
+                                            alt="Ford Fiesta Key-free"/></div>
+                                    <div class="content">
+                                        <h3 class="bigHeading02">
+                                            O priveliste magnifica
+                                        </h3>
+
+
+                                    </div>
+                                </article>
+                                <article class="content-column right">
+                                    <div class="content">
+                                        <h3 class="bigHeading02">
+                                            Privelistea din interior e si ea uimitoare
+                                        </h3>
+
+                                    </div>
+                                    <div class="img-column"><img
+                                            src="/assets/img/noul_focus/12160587794.jpg"
+                                            alt="Ford Fiesta - Volan"/></div>
+                                </article>
+
+                                <article class="content-column left">
+                                    <div class="img-column"><img
+                                            src="/assets/img/noul_focus/1216052387976.jpg"
+                                            alt="Ford Fiesta Key-free"/></div>
+                                    <div class="content">
+                                        <h3 class="bigHeading02">
+                                            Extrem de eficient
+                                        </h3>
+
+
+                                    </div>
+                                </article>
+
+                                <article class="content-column right">
+                                    <div class="content">
+                                        <h3 class="bigHeading02">
+                                            Aerodinamica nu a aratat niciodata asa de bine
+                                        </h3>
+
+                                    </div>
+                                    <div class="img-column"><img
+                                            src="/assets/img/noul_focus/121687794.jpg"
+                                            alt="Ford Fiesta - Volan"/></div>
+                                </article>
+
+                                <article class="content-column left">
+                                    <div class="img-column"><img
+                                            src="/assets/img/noul_focus/12387976.jpg"
+                                            alt="Ford Fiesta Key-free"/></div>
+                                    <div class="content">
+                                        <h3 class="bigHeading02">
+                                            O asemanare izbitoare
+                                        </h3>
+
+
+                                    </div>
+                                </article>
                             </div>
                             <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
                             <!-- BEGIN [MidPageTabs] -->
                             <!--<div id='tab1' class="mp-tab-wrapper">
-                            <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Prezentare</a></h2> -->
+<h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Prezentare</a></h2> -->
                             <!--</div>-->
                             <!-- END [MidPageTabs] -->
                             <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
                             <!-- BEGIN [MidPageTabs] -->
                             <!--<div id='tab1' class="mp-tab-wrapper">
-                            <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Prezentare</a></h2> -->
+<h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Prezentare</a></h2> -->
                             <!--</div>-->
                             <!-- END [MidPageTabs] -->
                             <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
                             <!-- BEGIN [MidPageTabs] -->
                             <!--<div id='tab1' class="mp-tab-wrapper">
-                            <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Prezentare</a></h2> -->
+<h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Prezentare</a></h2> -->
                             <!--</div>-->
                             <!-- END [MidPageTabs] -->
                             <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
                             <!-- BEGIN [MidPageTabs] -->
                             <!--<div id='tab1' class="mp-tab-wrapper">
-                            <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Prezentare</a></h2> -->
+<h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Prezentare</a></h2> -->
                             <!--</div>-->
                             <!-- END [MidPageTabs] -->
                         </div>
@@ -410,12 +453,12 @@
                 </li>
                 <!--  isBtfTab  -->
                 <!--  tabUrl /cs/ContentServer?cid=1205072239086&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205076077684&amp;tabName=PreturisiPromotii&amp;c=Page&amp;site=RORO4_ENGINE -->
-                <li><a href="PreturisiPromotii#primaryTabs" class=" "
-                       data-ajaxlink="/cs/ContentServer?cid=1205072239086&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205076077684&amp;tabName=PreturisiPromotii&amp;c=Page&amp;site=RORO4_ENGINE">PRETURI
-                        SI PROMOTII</a>
-                    <!-- secondary tabs -->
-                    <!--  midPageTabId : 1205086024824 -->
-                </li>
+                <!--  <li><a href="Focus/PreturisiPromotii#primaryTabs" class=" "
+                         data-ajaxlink="/cs/ContentServer?cid=1205072239086&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205076077684&amp;tabName=PreturisiPromotii&amp;c=Page&amp;site=RORO4_ENGINE">PRETURI
+                          SI PROMOTII</a>
+                      <!-- secondary tabs -->
+                <!--  midPageTabId : 1205086024824
+            </li> -->
                 <!--  isBtfTab  -->
                 <!--  tabUrl /cs/ContentServer?cid=1205072239086&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205072240450&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE -->
                 <li><a href="Design#primaryTabs" class=" "
@@ -430,21 +473,18 @@
                     <!-- secondary tabs -->
                     <!--  midPageTabId : 1205094681946 -->
                 </li>
-                <li><a href="st-line#primaryTabs" class=" "
+                <!--  isBtfTab  -->
+                <!--  tabUrl /cs/ContentServer?cid=1205072239086&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205123137602&amp;tabName=st-line&amp;c=Page&amp;site=RORO4_ENGINE -->
+             <!--   <li><a href="Focus/st-line#primaryTabs" class=" "
                        data-ajaxlink="/cs/ContentServer?cid=1205072239086&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205123137602&amp;tabName=st-line&amp;c=Page&amp;site=RORO4_ENGINE">ST-Line</a>
                     <!-- secondary tabs -->
                     <!--  midPageTabId : 1205123137429 -->
-                </li>
+                </li> -->
             </ul>
         </nav>
     </div>
     <article class="nameplate-main-content" id="tabs">
     </article>
-    <!-- Bredcrumb Schema implementation for Primary Tabs-->
-    <nav class="breadCrumb" role="navigation" style="display: none">
-        <ul itemscope itemtype="http://schema.org/BreadcrumbList">
-        </ul>
-    </nav>
     <script class="script.EP2_Tab_Bootstrap">
         var __links = document.querySelectorAll('.omt_tabName'), i;
         for (i = 0; i < __links.length; ++i) {

@@ -10,6 +10,13 @@ class focus_2018 extends CI_Controller
     }
 
 
+    public function caracteristici_f18()
+    {
+        $this->template
+            ->title('Noul Focus - Design', 'Ford AutoTechnic')
+            ->build('autoturisme/focus_2018/caracteristici_f18');
+    }
+
     public function design()
     {
         $this->template

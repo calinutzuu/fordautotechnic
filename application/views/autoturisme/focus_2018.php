@@ -54,7 +54,7 @@
             ]}}, "brand": "Ford", "vehicleType": "PV", "catalogId": "NONE", "nameplate": "Focus", "labelAvailableFrom": "&nbsp;", "formattedCurrency": "", "nameplateText": '', "imagePack": false, "hideVehicleImage": false, "facebookImagePath": "", "facebookAppId": "facebookAppId", "images": [], "billBoardImagePath": null, "backgroundImagePath": ["/assets/img/1214656621320.jpg", "null", "null"], "disclaimerTextColor": [null, null, null], "current": true, "cid": "1205157310294", "cta": [
                 {"linkTitle": "DESCARC\u0102 BRO\u015EUR\u0102 ", "linkURL": "\/SBE\/BrosuriSiPreturi", "linkType": "primary", "linkTarget": "_blank", "omid": "va"},
                 {"linkTitle": "\u00CENSCRIE-TE LA TEST DRIVE ", "linkURL": "\/SBE\/TestDrive\/TestDriveAutoturisme?shopcode=AUTHORED&derivcode=AUTHORED", "linkType": "tertiary", "linkTarget": "_blank", "omid": "tr"}
-            ], "social": {"facebook": "https://facebook.com", "facebookPage": "fordromania"}, "disclaimer": "Modelul prezentat este un Focus {1}. Imagine cu titlul de prezentare.", "seriesCode": "AUTHORED", "uscCode": "AUTHORED", "presId": "1205157308484", "promos": [], "idf": {"options": []}}
+            ], "social": {"facebook": "https://facebook.com", "facebookPage": "fordromania"}, "disclaimer": "Imagini cu titlu de prezentare; pot include caracteristici sau dotari optionale indisponibile pe piata locala.", "seriesCode": "AUTHORED", "uscCode": "AUTHORED", "presId": "1205157308484", "promos": [], "idf": {"options": []}}
         ]} || {};
         var retrieveUserOptions = JSON.parse(localStorage.getItem('userSelection')) || {};
         //FranciB: injecting and changing user selected angle image trigger by mid page tabs and on page reload.
@@ -80,19 +80,7 @@
             </ul>
             <div itemscope itemtype="http://schema.org/Product" id="nameplateDetails" class="nameplate-vehicle">
                 <!--the text description-->
-                <div class="name-plate-text">
-                    <p class="intro">ALL NEW </p>
 
-                    <h1 class="bigHeading">
-                        <span data-selenium="XA_namePlate" itemprop="member" class="nameplate boldTxt">Focus</span>
-                        <span data-selenium="XA_model" itemprop="model" itemscope
-                              itemtype="http://schema.org/Organization" class="mark">Ford</span>
-                        <!--The price -->
-                    </h1>
-                    <!--The blurb -->
-                    <p class="blurb">
-                    </p>
-                </div>
             </div>
         </div>
         <nav class="vehicle-tools" id="vehicleTools"></nav>
@@ -266,199 +254,203 @@
 <section id="primary-tab-content" class="nameplate-tab-content" data-dynamic-tabcontent="true"
          data-siteterm-backtotop="Back To Top !!!">
 <div class="tab-wrapper">
-<nav class="tabs" id="primaryTabs">
-<ul>
-    <!--  isBtfTab true -->
-    <!--  tabUrl /cs/ContentServer?cid=1205157310294&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE -->
-    <!-- IntoID ::: articleAssetId -->
-    <li class="selected"><a href="focus-2018/PrezentareGenerala#primaryTabs"
-                            data-ajaxlink="/cs/ContentServer?cid=1205157310294&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE">Prezentare
-            Generala</a>
-        <!--This is where the main content for the selected tab will go -->
-        <!-- secondary tabs -->
-        <div class="secondary-tabs tab-content">
-            <nav class="sub-nav">
-                <ul>
-                    <li><a href='#tab1' class='omt_tabName'>Overview</a></li>
-                </ul>
-            </nav>
-            <!-- isBtfTab : from MidPageTabs true -->
-            <div class="innertab-wrapper">
-                <!--  tabTitle : Overview :: btfTabContent : 1205157310326 :: tabContent :  -->
-                <div id='tab1' class="secondary-tab-content">
-                    <header class="intro-header">
-                        <h1 class="bigHeading">
-                            NOUL FORD <strong>FOCUS</strong>
-                        </h1>
-                        <span class="highlighter"></span>
+    <nav class="tabs" id="primaryTabs">
+        <ul>
+            <!--  isBtfTab true -->
+            <!--  tabUrl /cs/ContentServer?cid=1205157310294&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE -->
+            <!-- IntoID ::: articleAssetId -->
+            <li class="selected"><a href="focus-2018/PrezentareGenerala#primaryTabs"
+                                    data-ajaxlink="/cs/ContentServer?cid=1205157310294&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;c=Page&amp;site=RORO4_ENGINE">Prezentare
+                    Generala</a>
+                <!--This is where the main content for the selected tab will go -->
+                <!-- secondary tabs -->
+                <div class="secondary-tabs tab-content">
+                    <nav class="sub-nav">
+                        <ul>
+                            <li><a href='#tab1' class='omt_tabName'>Overview</a></li>
+                        </ul>
+                    </nav>
+                    <!-- isBtfTab : from MidPageTabs true -->
+                    <div class="innertab-wrapper">
+                        <!--  tabTitle : Overview :: btfTabContent : 1205157310326 :: tabContent :  -->
+                        <div id='tab1' class="secondary-tab-content">
+                            <header class="intro-header">
+                                <h1 class="bigHeading">
+                                    NOUL FORD <strong>FOCUS</strong>
+                                </h1>
+                                <span class="highlighter"></span>
 
-                        <p class="intro-text">
+                                <p class="intro-text">
 
-                        <p>Ia tot ce stii si iubesti la Focus, adauga un nou nivel de design inteligent,
-                            stil modern aparte si mai mult spatiu ca oricand. Acum combina-le cu o
-                            conectivitate extrem de avansata si o gama de tehnologii exceptionale de
-                            asistenta a soferului, pe care le vei aprecia din plin. Acesta e noul Focus. Iar
-                            in curand le vei putea descoperi pe toate si te vei convinge.</p>
-                        </p>
-                    </header>
-                    <article class="content-column left">
-                        <div class="img-column"> <img
-                                    src="/assets/img/1214656621240.jpg"
-                                    alt="Focus driving in tunnel"/><span class="fv-overlay-icon"></span>
+                                <p>Ia tot ce stii si iubesti la Focus, adauga un nou nivel de design inteligent,
+                                    stil modern aparte si mai mult spatiu ca oricand. Acum combina-le cu o
+                                    conectivitate extrem de avansata si o gama de tehnologii exceptionale de
+                                    asistenta a soferului, pe care le vei aprecia din plin. Acesta e noul Focus. Iar
+                                    in curand le vei putea descoperi pe toate si te vei convinge.</p>
+                                </p>
+                            </header>
+                            <article class="content-column left">
+                                <div class="img-column"><img
+                                        src="/assets/img/12146521240.jpg"
+                                        alt="Focus driving in tunnel"/><span class="fv-overlay-icon"></span>
+                                </div>
+                                <div class="content">
+                                    <h3 class="bigHeading02">
+                                        Tehnologie cu un scop
+                                    </h3>
+
+                                    <p>
+
+                                    <p>Noul Focus e construit sa-ti imbunatateasca experienta la volan, in toate
+                                        modurile posibile. Aceasta masina de urmatoarea generatie e plina de
+                                        caracteristici avansate, cum ar fi tehnologii de asistenta a soferului, inclusiv
+                                        tempomat adaptiv, cu functie de pornire-oprire si centrare pe banda de mers, si
+                                        Asistenta activa la parcare, versiunea 2. Impreuna, aceste tehnologii
+                                        inteligente te pot ajuta sa gestionezi acceleratia, franarea si chiar directia.
+                                        Vorbim de tehnologie care implica in asa masura lipsa efortului, incat te vei
+                                        mira cum te-ai descurcat pana acum fara aceasta. </p>
+                                    </p>
+                                </div>
+                            </article>
+                            <article class="content-column right">
+                                <div class="content">
+                                    <h3 class="bigHeading02">
+                                        Confortabil si conectat
+                                    </h3>
+
+                                    <p>
+
+                                    <p>Linii curate, aranjament suplu si aspect rafinat. Interiorul noului Focus e mult
+                                        mai confortabil, sic si spatios, ca la modelele anterioare. E de asemenea, mult
+                                        mai conectat. Ford SYNC 3 cu comanda vocala te mentine in siguranta, la comanda
+                                        telefonului, divertismentului si navigatiei. Descarca aplicatia FordPass pe
+                                        smartphoneul tau si deblocheaza si mai multe functii SYNC 3, cum ar fi „Trafic
+                                        in direct”, „Cautare parcare” si „Puncte de interes”.</p>
+                                    </p>
+                                </div>
+                                <div class="img-column"><img
+                                        src="/assets/img/12146621854.jpg"
+                                        alt="Ford Focus interior cockpit view"/><span
+                                        class="fv-overlay-icon"></span></a></div>
+                            </article>
+                            <article class="content-column left">
+                                <div class="img-column"><img
+                                        src="/assets/img/12146521596.jpg"
+                                        alt="Ford Focus interior transmission view"/><span
+                                        class="fv-overlay-icon"></span></div>
+                                <div class="content">
+                                    <h3 class="bigHeading02">
+                                        Puterea pe care o doresti si eficienta de care ai nevoie
+                                    </h3>
+
+                                    <p>
+
+                                    <p>Noul Focus este disponibil cu o gama de motoare puternice, care insa economisesc
+                                        combustibil, toate completate de cutii de viteze automate, cu 8 trepte de
+                                        viteza, sau manuale, cu 6 trepte de viteza. Designul exterior a fost de asemenea
+                                        modelat, pentru a crea o forma atat atletica, cat si aerodinamica, in acelasi
+                                        timp contribuind la imbunatatirea si mai mare a eficientei.</p>
+                                    </p>
+                                </div>
+                            </article>
+                            <article class="content-column right">
+                                <div class="content">
+                                    <h3 class="bigHeading02">
+                                        Siguranta ta. Prioritatea noastra.
+                                    </h3>
+
+                                    <p>
+
+                                    <p>O serie de tehnologii inteligente sunt concepute pentru a te proteja, pe
+                                        tine, familia ta si colegii de trafic. De exemplu, franarea activa si
+                                        Sistemul de asistenta pre-coliziune cu detectarea pietonilor si ciclistilor,
+                                        te pot avertiza in privinta eventualelor coliziuni si pot frana automat,
+                                        daca tu nu reactionezi la timp.</p>
+                                    </p>
+                                </div>
+                                <div class="img-column"><img
+                                        src="/assets/img/1214656621682.jpg"
+                                        alt="Ford Focus smart technology animation"/><span
+                                        class="fv-overlay-icon"></span></div>
+                            </article>
+                            <article class="content-column left">
+                                <div class="img-column"><img
+                                        src="/assets/img/1214656621768.jpg"
+                                        alt="Ford Focus side view"/><span class="fv-overlay-icon"></span>
+                                </div>
+                                <div class="content">
+                                    <h3 class="bigHeading02">
+                                        Spatiu pentru orice
+                                    </h3>
+
+                                    <p>
+
+                                    <p>Interiorul complet nou utilizeaza fiecare milimetru patrat, pentru a-ti oferi
+                                        cel mai adaptabil Focus posibil. Exista un spatiu generos pentru cap,
+                                        picioare si coate, in fata si in spatele vehiculului, astfel incat si cel
+                                        mai inalt pasager sa poata sta confortabil. Scaunele din spate se pot diviza
+                                        60/40 si se pot rabata aproape complet, pentru a maximiza spatiul pentru
+                                        bagaje. Podeaua spatiului de incarcare a marfii e reglabila si poate fi
+                                        ridicata, pentru a-ti oferi un compartiment de depozitare ascuns, sau poate
+                                        fi coborata, pentru a crea mai mult spatiu.</p>
+                                    </p>
+                                </div>
+                            </article>
+                            <header class="intro-header">
+                                <h1 class="bigHeading">
+                                </h1>
+                                <span class="highlighter"></span>
+
+                                <p class="intro-text">
+
+                                <p><span style="font-size: x-small;">*</span><span style="font-size: x-small;">Imagini si informatii cu titlu de prezentare. Anumite modele si/sau dotari pot fi disponibile doar in anumite regiuni geografice. Detalii despre disponibilitatea modelelor si dotarilor: la cel mai apropiat dealer Ford.</span>
+                                </p>
+                                </p>
+                            </header>
                         </div>
-                        <div class="content">
-                            <h3 class="bigHeading02">
-                                Tehnologie cu un scop
-                            </h3>
-
-                            <p>
-
-                            <p>Noul Focus e construit sa-ti imbunatateasca experienta la volan, in toate
-                                modurile posibile.<br><br>
-                                Aceasta masina de urmatoarea generatie e plina de caracteristici avansate,
-                                cum ar fi tehnologii de asistenta a soferului, inclusiv tempomat adaptiv, cu
-                                functie de pornire-oprire si centrare pe banda de mers, si Asistenta activa
-                                la parcare, versiunea 2. Impreuna, aceste tehnologii inteligente te pot
-                                ajuta sa gestionezi acceleratia, franarea si chiar directia. Vorbim de
-                                tehnologie care implica in asa masura lipsa efortului, incat te vei mira cum
-                                te-ai descurcat pana acum fara aceasta. </p>
-                            </p>
-                        </div>
-                    </article>
-                    <article class="content-column right">
-                        <div class="content">
-                            <h3 class="bigHeading02">
-                                Confortabil si conectat
-                            </h3>
-
-                            <p>
-
-                            <p>Linii curate, aranjament suplu si aspect rafinat. Interiorul noului Focus e
-                                mult mai confortabil, sic si spatios, ca la modelele anterioare. E de
-                                asemenea, mult mai conectat. Ford SYNC 3 cu comanda vocala te mentine in
-                                siguranta, la comanda telefonului, divertismentului si navigatiei. Descarca
-                                aplicatia FordPass pe smartphoneul tau si deblocheaza si mai multe functii
-                                SYNC 3, cum ar fi „Trafic in direct”, „Cautare parcare” si „Puncte de
-                                interes”.</p>
-                            </p>
-                        </div>
-                        <div class="img-column"><img
-                                    src="/assets/img/1214656621854.jpg"
-                                    alt="Ford Focus interior cockpit view"/><span
-                                    class="fv-overlay-icon"></span></a></div>
-                    </article>
-                    <article class="content-column left">
-                        <div class="img-column"> <img
-                                    src="/assets/img/1214656621596.jpg"
-                                    alt="Ford Focus interior transmission view"/><span
-                                    class="fv-overlay-icon"></span></div>
-                        <div class="content">
-                            <h3 class="bigHeading02">
-                                Puterea pe care o doresti si eficienta de care ai nevoie
-                            </h3>
-
-                            <p>
-
-                            <p>Noul Focus este disponibil cu o gama de motoare puternice, care insa
-                                economisesc combustibil, toate completate de cutii de viteze automate, cu 8
-                                trepte de viteza, sau manuale, cu 6 trepte de viteza. Designul exterior a
-                                fost de asemenea modelat, pentru a crea o forma atat atletica, cat si
-                                aerodinamica, in acelasi timp contribuind la imbunatatirea si mai mare a
-                                eficientei.</p>
-                            </p>
-                        </div>
-                    </article>
-                    <article class="content-column right">
-                        <div class="content">
-                            <h3 class="bigHeading02">
-                                Siguranta ta. Prioritatea noastra.
-                            </h3>
-
-                            <p>
-
-                            <p>O serie de tehnologii inteligente sunt concepute pentru a te proteja, pe
-                                tine, familia ta si colegii de trafic. De exemplu, franarea activa si
-                                Sistemul de asistenta pre-coliziune cu detectarea pietonilor si ciclistilor,
-                                te pot avertiza in privinta eventualelor coliziuni si pot frana automat,
-                                daca tu nu reactionezi la timp.</p>
-                            </p>
-                        </div>
-                        <div class="img-column"> <img
-                                    src="/assets/img/1214656621682.jpg"
-                                    alt="Ford Focus smart technology animation"/><span
-                                    class="fv-overlay-icon"></span></div>
-                    </article>
-                    <article class="content-column left">
-                        <div class="img-column"> <img
-                                    src="/assets/img/1214656621768.jpg"
-                                    alt="Ford Focus side view"/><span class="fv-overlay-icon"></span>
-                        </div>
-                        <div class="content">
-                            <h3 class="bigHeading02">
-                                Spatiu pentru orice
-                            </h3>
-
-                            <p>
-
-                            <p>Interiorul complet nou utilizeaza fiecare milimetru patrat, pentru a-ti oferi
-                                cel mai adaptabil Focus posibil. Exista un spatiu generos pentru cap,
-                                picioare si coate, in fata si in spatele vehiculului, astfel incat si cel
-                                mai inalt pasager sa poata sta confortabil. Scaunele din spate se pot diviza
-                                60/40 si se pot rabata aproape complet, pentru a maximiza spatiul pentru
-                                bagaje. Podeaua spatiului de incarcare a marfii e reglabila si poate fi
-                                ridicata, pentru a-ti oferi un compartiment de depozitare ascuns, sau poate
-                                fi coborata, pentru a crea mai mult spatiu.</p>
-                            </p>
-                        </div>
-                    </article>
-                    <header class="intro-header">
-                        <h1 class="bigHeading">
-                        </h1>
-                        <span class="highlighter"></span>
-
-                        <p class="intro-text">
-
-                        <p><span style="font-size: x-small;">*</span><span style="font-size: x-small;">Imagini si informatii cu titlu de prezentare. Anumite modele si/sau dotari pot fi disponibile doar in anumite regiuni geografice. Detalii despre disponibilitatea modelelor si dotarilor: la cel mai apropiat dealer Ford.</span>
-                        </p>
-                        </p>
-                    </header>
+                        <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
+                        <!-- BEGIN [MidPageTabs] -->
+                        <!--<div id='tab1' class="mp-tab-wrapper">
+        <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Overview</a></h2> -->
+                        <!--</div>-->
+                        <!-- END [MidPageTabs] -->
+                        <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
+                        <!-- BEGIN [MidPageTabs] -->
+                        <!--<div id='tab1' class="mp-tab-wrapper">
+        <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Overview</a></h2> -->
+                        <!--</div>-->
+                        <!-- END [MidPageTabs] -->
+                        <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
+                        <!-- BEGIN [MidPageTabs] -->
+                        <!--<div id='tab1' class="mp-tab-wrapper">
+        <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Overview</a></h2> -->
+                        <!--</div>-->
+                        <!-- END [MidPageTabs] -->
+                        <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
+                        <!-- BEGIN [MidPageTabs] -->
+                        <!--<div id='tab1' class="mp-tab-wrapper">
+        <h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Overview</a></h2> -->
+                        <!--</div>-->
+                        <!-- END [MidPageTabs] -->
+                    </div>
                 </div>
-                <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
-                <!-- BEGIN [MidPageTabs] -->
-                <!--<div id='tab1' class="mp-tab-wrapper">
-<h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Overview</a></h2> -->
-                <!--</div>-->
-                <!-- END [MidPageTabs] -->
-                <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
-                <!-- BEGIN [MidPageTabs] -->
-                <!--<div id='tab1' class="mp-tab-wrapper">
-<h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Overview</a></h2> -->
-                <!--</div>-->
-                <!-- END [MidPageTabs] -->
-                <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
-                <!-- BEGIN [MidPageTabs] -->
-                <!--<div id='tab1' class="mp-tab-wrapper">
-<h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Overview</a></h2> -->
-                <!--</div>-->
-                <!-- END [MidPageTabs] -->
-                <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
-                <!-- BEGIN [MidPageTabs] -->
-                <!--<div id='tab1' class="mp-tab-wrapper">
-<h2><a href='#tab1' class="mp-tab omt_xd_mt_ti">Overview</a></h2> -->
-                <!--</div>-->
-                <!-- END [MidPageTabs] -->
-            </div>
-        </div>
-    </li>
-    <!--  isBtfTab  -->
-    <!--  tabUrl /cs/ContentServer?cid=1205157310294&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205157309754&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE -->
-    <li><a href="focus-2018/Design#primaryTabs" class=" "
-           data-ajaxlink="/cs/ContentServer?cid=1205157310294&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205157309754&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE">Design</a>
-        <!-- secondary tabs -->
-        <!--  midPageTabId : 1205157310370 -->
-    </li>
-</ul>
-</nav>
+            </li>
+            <li><a href="focus-2018/Design#primaryTabs" class=" "
+                   data-ajaxlink="/cs/ContentServer?cid=1205157310294&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205157309754&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE">Galerie</a>
+                <!-- secondary tabs -->
+                <!--  midPageTabId : 1205157310370 -->
+            </li>
+            <!--  isBtfTab  -->
+            <!--  tabUrl /cs/ContentServer?cid=1205157310294&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205157309754&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE -->
+            <li><a href="focus-2018/Caracteristici#primaryTabs" class=" "
+                   data-ajaxlink="/cs/ContentServer?cid=1205157310294&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205157309754&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE">Caracteristici</a>
+                <!-- secondary tabs -->
+                <!--  midPageTabId : 1205157310370 -->
+            </li>
+
+
+        </ul>
+    </nav>
 </div>
 <article class="nameplate-main-content" id="tabs">
 </article>

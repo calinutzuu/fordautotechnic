@@ -4,12 +4,68 @@
 <div id="hpCarousel" role="listbox">
 <!--Rendering the Image Panel-->
 
+<article role="option">
+    <a class="carImg" href="#img1"><img src="/assets/img/blakfriday_1.jpg"
+                                        alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt; &lt;/span&gt;&lt;/span&gt;"
+                                        role="presentation"></a>
+<br>
+    <div class="innerBox posTopRight WhiteText">
+        <br><br>
+        <div class="">
+            <h2 class="bigHeading02">
+                 <span style="font-size:28px;"><span style="font-family:FordAntennaRegular;"> </span><span
+                         style="font-family:FordAntennaBlack;"> </span></span>
+            </h2>
+
+            <p class="captionTxt">
+                <span style="font-size:18px;"><span style="font-family:FordAntennaRegular;"> </span></span>
+            </p>
+
+            <div class="btnwrapper">
+                <div class="btnLink light">
+                    <a role="button" class="om_ca_in" href="https://www.ford.ro/cumpara/alege-modelul/promotii-ford/ford-black-friday-autoturisme">Afl&#259; mai
+                        multe</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</article>
+
+<article role="option">
+    <a class="carImg" href="#img1"><img src="/assets/img/blakfriday_2.jpg"
+                                        alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt; &lt;/span&gt;&lt;/span&gt;"
+                                        role="presentation"></a>
+
+    <div class="innerBox posTopLeft WhiteText">
+        <br><br>
+        <div class="">
+            <h2 class="bigHeading02">
+                 <span style="font-size:28px;"><span style="font-family:FordAntennaRegular;"> </span><span
+                         style="font-family:FordAntennaBlack;"> </span></span>
+            </h2>
+
+            <p class="captionTxt">
+                <span style="font-size:18px;"><span style="font-family:FordAntennaRegular;"> </span></span>
+            </p>
+
+            <div class="btnwrapper">
+                <div class="btnLink light">
+                    <a role="button" class="om_ca_in" href="https://www.ford.ro/cumpara/alege-modelul/promotii-ford/ford-black-friday-comerciale">Afl&#259; mai
+                        multe</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</article>
+
+
     <article role="option">
         <a class="carImg" href="#img1"><img src="/assets/img/rabla19.jpg"
                                             alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt; &lt;/span&gt;&lt;/span&gt;"
                                             role="presentation"></a>
 
-        <div class="innerBox posBottomLeft WhiteText">
+        <div class="innerBox posTopLeft WhiteText">
+            <br><br><br><br>
             <div class="">
                 <h2 class="bigHeading02">
                  <span style="font-size:28px;"><span style="font-family:FordAntennaRegular;"> </span><span
@@ -30,7 +86,9 @@
         </div>
     </article>
 
-    <article role="option">
+
+
+ <!--   <article role="option">
         <a class="carImg" href="#img1"><img src="/assets/img/business_weeks.jpg"
                                             alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt; &lt;/span&gt;&lt;/span&gt;"
                                             role="presentation"></a>
@@ -54,9 +112,9 @@
                 </div>
             </div>
         </div>
-    </article>
+    </article> -->
 
-<article role="option">
+<!--<article role="option">
     <a class="carImg" href="#img1"><img
             src="/assets/img/1214656780122.jpg"
             alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt;Este timpul sa decizi&lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt;&lt;/span&gt;&lt;/span&gt;"
@@ -81,7 +139,7 @@
             </div>
         </div>
     </div>
-</article>
+</article> -->
 
 
 

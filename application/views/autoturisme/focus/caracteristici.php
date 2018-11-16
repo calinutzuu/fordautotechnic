@@ -1,4 +1,3 @@
-
 <script type="text/javascript">
     // mobile sniffer
     ForceRedirectUserAgents = 'android,iphone,blackberry';
@@ -83,7 +82,7 @@
                 {"linkTitle": "DESCARC\u0102 BRO\u015EUR\u0102 ", "linkURL": "\/SBE\/BrosuriSiPreturi", "linkType": "tertiary", "linkTarget": "_blank", "omid": "tr"},
                 {"linkTitle": "\u00CENSCRIE-TE LA TEST DRIVE ", "linkURL": "\/SBE\/TestDrive\/TestDriveAutoturisme?shopcode=00L&derivcode=1TH", "linkType": "tertiary", "linkTarget": "_blank", "omid": "tr"},
                 {"linkTitle": "VREAU SĂ FIU INFORMAT(Ă) ", "linkURL": "/SBE/VreauSaFiuInformata", "linkType": "tertiary", "linkTarget": "", "omid": "tr"}
-            ], "social": {"facebook": "https://facebook.com", "facebookPage": ""}, "disclaimer": "Modelul prezentat este un Focus  Titanium. Imagine cu titlul de prezentare.", "seriesCode": "1TH", "uscCode": "00L", "supportSelector": "true", "supportSeries": "true", "presId": "1205072254052", "promos": [
+            ], "social": {"facebook": "https://facebook.com", "facebookPage": ""}, "disclaimer": "Imagini cu titlu de prezentare; pot include caracteristici sau dotari optionale indisponibile pe piata locala", "seriesCode": "1TH", "uscCode": "00L", "supportSelector": "true", "supportSeries": "true", "presId": "1205072254052", "promos": [
                 {"imagePath": "/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobwhere=1214553887403&blobkey=id", "overlay": false, "link": "/cs/ContentServer?pagename=RORO4_ENGINE/EP2/common/promo/M48_PromoBlock&c=Promo_C&cid=1205113210234", "text": "Oferta speciala prin programul rabla!"}
             ], "idf": {"options": [
                 {"dataOverlay": {"mediaType": "Image", "height": "435", "width": "780"}, "iconURL": "/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobheader=image%2Fjpg&blobwhere=1214481906810&blobkey=id", "link": "/cs/ContentServer?cid=1205072236108&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE", "videoSrc": [
@@ -123,16 +122,10 @@
                 <div class="name-plate-text">
                     <p class="intro"></p>
 
-                    <h1 class="bigHeading">
-                        <span data-selenium="XA_namePlate" itemprop="member" class="nameplate boldTxt">Focus </span>
-                        <span data-selenium="XA_model" itemprop="model" itemscope
-                              itemtype="http://schema.org/Organization" class="mark"></span>
-                        <!--The price -->
-                    </h1>
+
                     <!--The blurb -->
                     <p class="blurb">
-                        Cu un exterior complet restilizat, mai sculptat, si cu un spatiu in cabina mai avansat si mai
-                        sofisticat ca niciodata, acesta este cel mai rafinat Focus de pana acum.
+
                     </p>
                 </div>
             </div>
@@ -349,12 +342,12 @@
 </li>
 <!--  isBtfTab  -->
 <!--  tabUrl /cs/ContentServer?cid=1205072239086&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205076077684&amp;tabName=PreturisiPromotii&amp;c=Page&amp;site=RORO4_ENGINE -->
-<li><a href="PreturisiPromotii#primaryTabs" class=" "
+<!--  <li><a href="PreturisiPromotii#primaryTabs" class=" "
        data-ajaxlink="/cs/ContentServer?cid=1205072239086&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205076077684&amp;tabName=PreturisiPromotii&amp;c=Page&amp;site=RORO4_ENGINE">PRETURI
         SI PROMOTII</a>
     <!-- secondary tabs -->
-    <!--  midPageTabId : 1205086024824 -->
-</li>
+<!--  midPageTabId : 1205086024824
+</li> -->
 <!--  isBtfTab  -->
 <!--  tabUrl /cs/ContentServer?cid=1205072239086&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205072240450&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE -->
 <li><a href="Design#primaryTabs" class=" "
@@ -397,20 +390,21 @@
     </p>
 </header>
 <article class="content-column left">
-    <div class="img-column"> <img
-                src="/assets/img/noul_focus/1214559172960.jpg"
-                alt="Ford SYNC 2"/><span class="fv-overlay-icon"></span></div>
+    <div class="img-column"><img
+            src="/assets/img/noul_focus/1214559172960.jpg"
+            alt="Ford SYNC 2"/><span class="fv-overlay-icon"></span></div>
     <div class="content">
         <h3 class="bigHeading02">
-            Cea mai recenta tehnologie hands-free
+            Sesizeaza vehiculele pe care le-ai putea rata
         </h3>
 
         <p>
 
-        <p>Ford SYNC 2 cu comanda vocala si ecran tactil duce sistemul de informatii si divertisment la un nivel
-            superior, prin adaugarea unui ecran tactil color de 8&rdquo;, optional. Acest afisaj de inalta rezolutie iti
-            ofera controlul intuitiv asupra mai multor functii cheie, inclusiv telefon, sistem audio, climatizare si,
-            optional, navigatie, prin intermediul vocii sau al atingerii.</p>
+        <p>Alerta la intersectarea cu traficul face parte din Sistemul de asistenta pentru unghiul mort. Cand iesi cu
+            spatele dintr-un loc de parcare si ai vizibilitate redusa asupra traficului, alerta la intersectarea cu
+            traficul poate detecta vehiculele care se apropie si poate emite un sunet de avertizare. Aceasta tehnologie
+            aprinde si o lumina in oglinda retrovizoare exterioara (stanga sau dreapta, in functie de directia din care
+            se apropie vehiculele).</p>
         </p>
     </div>
 </article>
@@ -422,51 +416,53 @@
 
         <p>
 
-        <p>Tehnologia imbunatatita de asistenta activa la parcare te poate ajuta sa parchezi fara ajutorul mainilor, in
-            locuri de parcare dispuse paralel, usurandu-ti, de asemenea, parcarea in spatii dispuse perpendicular
-            (precum parcarile cu mai multe etaje). Tehnologia poate detecta un spatiu, controland apoi directia in timp
-            ce tu rulezi cu spatele pentru a ocupa locul. In plus, sistemul de asistenta la iesirea din parcare este
-            proiectat pentru a te ajuta sa iesi din cele mai stramte spatii</p>
+        <p>Sistemul activ de asistenta la parcare te ajuta sa parchezi in spatii cu doar 20% mai lungi sau mai late
+            decat autovehiculul. Pur si simplu, apesi un buton, iar senzorii acestui sistem inovator vor identifica
+            spatiul suficient de mare, cand treci pe langa el. Apoi sistemul va prelua controlul directiei iar tu doar
+            actionezi pedala de acceleratie, cutia de viteze si frana (urmarind instructiunile de pe ecran si semnalele
+            sonore).</p>
         </p>
     </div>
-    <div class="img-column"> <img
-                src="/assets/img/noul_focus/1214559170894.jpg"
-                alt="Asistenţă activă la parcare"/><span class="fv-overlay-icon"></span></div>
+    <div class="img-column"><img
+            src="/assets/img/noul_focus/1214559170894.jpg"
+            alt="Asistenţă activă la parcare"/><span class="fv-overlay-icon"></span></div>
 </article>
 <article class='two-column'>
     <div class="content-block">
         <img
-                src="/assets/img/noul_focus/1214559172875.jpg"
-                alt="Ford Focus - interior"/><span class="fv-overlay-icon"></span>
+            src="/assets/img/noul_focus/1214559172875.jpg"
+            alt="Ford Focus - interior"/><span class="fv-overlay-icon"></span>
 
         <h3 class="bigHeading02">
-            Schimba treptele de viteza rapid, cu varfurile degetelor
+            Un sistem avansat care te ajuta sa pastrezi banda de rulare
         </h3>
 
         <p>
 
-        <p>Alege o transmisie automata si vei beneficia de optiunea Comenzi de schimbare automata, cu padele, in stilul
-            masinilor de mare performanta. Padelele sunt fixate pe ambele parti ale volanului si, cu ajutorul comenzilor
-            din dreapta pentru trecerea in treapta superioara si stanga pentru treapta inferioara, poti schimba rapid
-            treptele de viteza cu varfurile degetelor, chiar si in viraje</p>
+        <p>Sistemul de mentinere a benzii de rulare utilizeaza o camera orientata in fata, pentru a detecta daca ai
+            iesit accidental de pe banda ta de deplasare. Sistemul de avertizare la parasirea benzii te avertizeaza apoi
+            printr-o vibratie a volanului si prin afisarea unui indicator de avertizare vizuala. Daca reactionezi mai
+            greu sau nu reactionezi deloc, Sistemul de asistenta la mentinerea benzii iti poate oferi asistenta cu
+            cuplul de directie, pentru a te ajuta sa revii pe banda corecta. Aceasta tehnologie e conceputa pentru
+            suprafete rutiere cu mai multe benzi (precum autostrazile), asadar se va dezactiva automat la viteze mai
+            mici de 65 km/h, putand fi dezactivata si manual.</p>
         </p>
     </div>
     <div class="content-block last">
         <img
-                src="/assets/img/noul_focus/1214559170190.jpg"
-                alt="Ford Power Shift"/><span class="fv-overlay-icon"></span>
+            src="/assets/img/noul_focus/1214559170190.jpg"
+            alt="Ford Power Shift"/><span class="fv-overlay-icon"></span>
 
         <h3 class="bigHeading02">
-            Ford PowerShift. Rapid si cu economie de combustibil
+            Te ajuta sa pastrezi o distanta de siguranta
         </h3>
 
         <p>
 
-        <p>Imbinand confortul asigurat de transmisia automata cu controlul asociat unei cutii de viteze manuale, aceasta
-            cutie de viteze avansata, cu sase trepte de viteza, preselecteaza urmatoarea treapta pentru tine, pentru a
-            nu pierde din putere atunci cand treci de la o treapta de viteza la alta. Schimbarile de trepte uluitor de
-            rapide si uniforme ale PowerShift fac din condus o experienta mai placuta, economisind in acelasi timp
-            combustibil si reducand emisiile de CO<sub>2</sub>, in comparatie cu o transmisie automata obisnuita.</p>
+        <p>Panoul de bord e prevazut cu o functie de indicare a distantei. Aceasta afiseaza in mod continuu distanta,
+            pana la vehiculul din fata si aprinde un sistem de pictograme colorate ca luminile de semafor, in functie de
+            setarile de proximitate alese. Alerta de distanta te poate avertiza, de asemenea, printr-un simbol de
+            avertizare rosu, daca te apropii prea mult de vehiculul din fata.</p>
         </p>
     </div>
 </article>
@@ -477,36 +473,34 @@
             alt="Noul Ford Focus"/>
 
         <h3 class="bigHeading02">
-            Ajutor atunci cand franezi la viteze mai mari
+            Vede semnele de circulatie pe care le-ai putea rata
         </h3>
 
         <p>
 
-        <p>Sistemul de franare activa reprezinta o dotare de siguranta noua si inovatoare, care functioneaza atunci cand
-            te deplasezi cu viteze de peste 50 km/h (pe autostrada, de exemplu). Tehnologia utilizeaza un RADAR pentru a
-            scana drumul din fata si, daca stabileste ca este posibila o coliziune, te va avertiza. Daca nu reactionezi,
-            sistemul incarca frana si incepe sa franeze pentru a te ajuta sa incetinesti. La viteze mai mici de 50 km/h,
-            o alta tehnologie va sta la dispozitie pentru a te ajuta: Active City Stop. Combinate, aceste doua
-            tehnologii iti ofera siguranta asistentei la franare la toate vitezele.</p>
+        <p>Indiferent daca semnele sunt pe marginea drumului sau deasupra acestuia, permanente sau temporare, Sistemul
+            de recunoastere a indicatoarelor rutiere le poate identifica. O pictograma cu viteza respectiva sau un semn
+            de interzicere a depasirii apare pe panoul de bord si se schimba de fiecare data cand patrunzi intr-o zona
+            cu o limita noua.</p>
         </p>
     </div>
     <div class="content-block last">
         <img
-                src="/assets/img/noul_focus/1214559172708.jpg"
-                alt="Active City Stop"/><span class="fv-overlay-icon"></span>
+            src="/assets/img/noul_focus/1214559172708.jpg"
+            alt="Active City Stop"/><span class="fv-overlay-icon"></span>
 
         <h3 class="bigHeading02">
-            Ajuta la un condus mai sigur in oras
+            Ajutor cand franezi la viteze mai mari
         </h3>
 
         <p>
 
-        <p>Accidentele in trafic la viteza mica, cu opriri si porniri frecvente, au loc mult prea des (mai ales pe
-            strazile aglomerate din orase). Sistemul Active City Stop este conceput pentru a te ajuta sa le eviti sau sa
-            reduci impactul acestora. Daca sistemul detecteaza ca masina din fata s-a oprit brusc, iar tu te deplasezi
-            cu mai putin de 50 km/h, va actiona automat franele. Ca dovada a caracterului sau inovator, tehnologia
-            Active City Stop a primit premiul Advanced oferit de Euro NCAP pentru siguranta.*<br> <br>
-            <small>*Acordat pentru Ford Focus 2013.</small>
+        <p>Sistemul de franare activa e o functie de siguranta inovatoare, care se activeaza cand te deplasezi cu viteze
+            de peste 50 km/h (pe autostrada, de exemplu). Tehnologia utilizeaza un RADAR pentru a scana drumul din fata
+            iar daca detecteaza o posibila coliziune, te va avertiza. Daca nu reactionezi, sistemul pre-incarca frana si
+            incepe sa franeze pentru a te ajuta sa incetinesti. La viteze mai mici de 50 km/h, o alta tehnologie iti sta
+            la dispozitie pentru a te ajuta: Oprire activa in oras. Combinate, cele doua tehnologii iti ofera siguranta
+            asistentei la franare, la toate vitezele.</small>
         </p>
         </p>
     </div>
@@ -514,42 +508,80 @@
 <article class='three-column'>
     <div class="content-block">
         <img
-                src="/assets/img/noul_focus/1214559171929.jpg"
-                alt="Atentionare in caz de pericole"/><span class="fv-overlay-icon"></span>
+            src="/assets/img/noul_focus/1214559171929.jpg"
+            alt="Atentionare in caz de pericole"/><span class="fv-overlay-icon"></span>
 
         <h3 class="bigHeading02">
-            Atentionare in caz de pericole
+            Tempomat care se poate adapta automat la conditiile de trafic
         </h3>
 
         <p>
 
-        <p>In timp ce parchezi, senzorii de pe aripile din spate pot detecta pericolele de pe fiecare parte a masinii si
-            te pot atentiona, ajutandu-te sa le eviti.</p>
+        <p>Cu ajutorul tehnologiei tempomatului adaptiv, alegi viteza cu care doresti sa te deplasezi, iar sistemul o va
+            mentine constanta. Daca senzorul RADAR incorporat detecteaza un vehicul in fata, acesta iti va incetini
+            vehiculul, pentru a mentine o distanta prestabilita. De indata ce drumul din fata devine liber, sistemul va
+            accelera pana la viteza aleasa.</p>
         </p>
     </div>
     <div class="content-block">
-        <a href="../../cs/ContentServer8419.html?cid=1205072235856&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE"
-           class="js-overlay" data-media-overlay='{"height":780, "width":439}'><img
-                src="/assets/img/noul_focus/1214559172439.jpg"
-                alt="Alertă la intersectarea cu traficul"/><span class="fv-overlay-icon"></span></a>
+        <img
+            src="/assets/img/noul_focus/1214559172439.jpg"
+            alt="Alertă la intersectarea cu traficul"/><span class="fv-overlay-icon"></span>
 
         <h3 class="bigHeading02">
-            Sesizeaza vehiculele pe care tu le-ai putea rata
+            Un sistem care poate reduce gravitatea accidentelor sau le poate evita
         </h3>
 
         <p>
 
-        <p>Alerta la intersectarea cu traficul este o tehnologie in intregime noua, care face acum parte din Sistemul de
-            asistenta pentru unghiul mort (BLIS). Atunci cand iesi cu spatele dintr-un loc de parcare si ai vizibilitate
-            redusa asupra situatiei traficului, Alerta la intersectarea cu traficul detecteaza vehiculele care se
-            apropie si emite un sunet de avertizare. Aceasta tehnologie declanseaza o lumina pe oglinda retrovizoare
-            exterioara (stanga sau dreapta, in functie de directia din care se apropie vehiculele).</p>
+        <p>Sistemul de asistenta pre-coliziune detecteaza vehiculele si pietonii de pe drumul din fata sau pe cei care
+            s-ar putea intersecta cu traseul vehiculului si te avertizeaza cu privire la prezenta acestora. Daca nu
+            reactionezi, sistemul aplica automat franele. Aceasta tehnologie e conceputa pentru a ajuta sa reduci riscul
+            accidentelor sau pentru a le evita complet, functionand la viteze de pana la 80 km/h.</p>
         </p>
     </div>
     <div class="content-block last">
         <img
             src="/assets/img/noul_focus/1214559173218.jpg"
             alt="Sistem de asistenţă pentru unghiul mort"/>
+
+        <h3 class="bigHeading02">
+            Ford PowerShift. Rapid si cu economie de combustibil
+        </h3>
+
+        <p>
+
+        <p>Imbinand confortul asigurat de transmisia automata cu controlul asociat unei cutii de viteze manuale, aceasta
+            cutie de viteze avansata, cu 6 trepte de viteza, preselecteaza urmatoarea treapta pentru tine, pentru a nu
+            pierde din putere cand treci de la o treapta de viteza, la alta. Schimbarile de trepte uluitor de rapide si
+            line ale Ford PowerShift fac din condus o experienta mai placuta, economisind in acelasi timp combustibil si
+            reducand emisiile de CO2 in comparatie cu o cutie de viteze automata obisnuita.</p>
+        </p>
+    </div>
+</article>
+<article class='three-column'>
+    <div class="content-block">
+        <img
+            src="/assets/img/noul_focus/1214559173633.jpg"
+            alt="Alertă şi indicator de distanţă"/><span class="fv-overlay-icon"></span>
+
+        <h3 class="bigHeading02">
+            Faruri bixenon ultra-stralucitoare, cu consum redus de energie
+        </h3>
+
+        <p>
+
+        <p>Farurile bi-xenon cu iluminat adaptiva schimba automat modelul de iluminare al fasciculului farului, pentru a
+            aplica cea mai buna distribuire a luminii in situatia de condus data. Astfel, se asigura faptul ca este
+            generat automat cel mai eficient model de iluminat, pentru orice situatie de condus, de la autostrazi la
+            strazile din orase. Aceasta tehnologie include o functie de reducere automata a intensitatii luminii, cand
+            este detectat un vehicul care se apropie din sens opus.</p>
+        </p>
+    </div>
+    <div class="content-block">
+        <img
+            src="/assets/img/noul_focus/1214559170729.jpg"
+            alt="Sistem de avertizare a şoferului"/><span class="fv-overlay-icon"></span>
 
         <h3 class="bigHeading02">
             Oglinzi care vad ce tu nu poti vedea
@@ -564,12 +596,10 @@
             tehnologie complet noua, Alerta la intersectarea cu traficul.</p>
         </p>
     </div>
-</article>
-<article class='three-column'>
-    <div class="content-block">
+    <div class="content-block last">
         <img
-                src="/assets/img/noul_focus/1214559173633.jpg"
-                alt="Alertă şi indicator de distanţă"/><span class="fv-overlay-icon"></span>
+            src="/assets/img/noul_focus/1214559172270.jpg"
+            alt="Un sistem avansat, care te ajuta sa-ti pastrezi banda"/><span class="fv-overlay-icon"></span>
 
         <h3 class="bigHeading02">
             Te ajuta sa vezi, fara a-i orbi pe ceilalti soferi
@@ -577,46 +607,9 @@
 
         <p>
 
-        <p>O functie utila pentru deplasarile pe timp de noapte, faza lunga automata comuta temporar la faza scurta
+        <p>O functie utila pentru deplasarile pe timp de noapte, faza lunga automata, comuta temporar la faza scurta
             atunci cand detecteaza trafic din sens opus sau un alt autovehicul in fata, pentru a nu-i orbi pe ceilalti
-            soferi. Aceasta revine apoi automat la faza lunga, oferindu-ti vizibilitate maxima. Faza lunga automata este
-            disponibila ca dotare optionala cu Avertizarea de mentinere a benzii.</p>
-        </p>
-    </div>
-    <div class="content-block">
-        <img
-                src="/assets/img/noul_focus/1214559170729.jpg"
-                alt="Sistem de avertizare a şoferului"/><span class="fv-overlay-icon"></span>
-        <h3 class="bigHeading02">
-            Esti obosit? Sistemul de avertizare a soferului poate simti acest lucru
-        </h3>
-
-        <p>
-
-        <p>Sistemul de avertizare a soferului monitorizeaza constant stilul personal de condus si este conceput sa
-            detecteze orice variatie cauzata de oboseala. Daca sistemul detecteaza ca devii mai putin vigilent, o
-            pictograma de avertizare apare pe afisaj, sugerandu-ti sa iei o pauza. Daca gradul de vigilenta la volan
-            scade si mai mult, mesajul este repetat si este insotit de un semnal sonor.</p>
-        </p>
-    </div>
-    <div class="content-block last">
-        <img
-                src="/assets/img/noul_focus/1214559172270.jpg"
-                alt="Un sistem avansat, care te ajuta sa-ti pastrezi banda"/><span class="fv-overlay-icon"></span>
-
-        <h3 class="bigHeading02">
-            Un sistem avansat, care te ajuta sa-ti pastrezi banda
-        </h3>
-
-        <p>
-
-        <p>Sistemul de mentinere a benzii de rulare utilizeaza o camera orientata in fata, pentru a detecta daca ai
-            iesit in mod accidental de pe banda ta de deplasare. Sistemul de avertizare la parasirea benzii te
-            avertizeaza apoi printr-o vibratie a volanului si prin afisarea unui indicator de avertizare vizuala. Daca
-            reactionezi mai greu sau nu reactionezi deloc, Sistemul de asistenta la pastrarea benzii iti poate oferi
-            asistenta la directie, pentru a te ajuta sa revii pe banda corecta. Aceasta tehnologie este conceputa pentru
-            suprafete rutiere cu mai multe benzi (precum autostrazile), asa ca se va dezactiva automat la viteze mai
-            mici de 65 km/h, putand fi dezactivata si manual.</p>
+            soferi. Apoi, sistemul revine automat la faza lunga, asigurand vizibilitate maxima.</p>
         </p>
     </div>
 </article>
@@ -627,410 +620,247 @@
             alt="Tempomat adaptiv"/>
 
         <h3 class="bigHeading02">
-            Tempomat care se poate adapta automat
+            Sistemul de avertizare a soferului isi da seama cand esti obosit
         </h3>
 
         <p>
 
-        <p>Cu ajutorul tehnologiei Tempomat Adaptiv, alege viteza cu care doresti sa te deplasezi, iar sistemul o va
-            mentine constanta. Daca senzorul RADAR incorporat detecteaza un vehicul in fata, acesta va incetini masina
-            pentru a mentine o distanta prestabilita. De indata ce drumul din fata este liber, sistemul va accelera pana
-            la viteza aleasa.</p>
+        <p>Sistemul de avertizare a soferului monitorizeaza constant stilul personal de condus si e conceput sa
+            detecteze orice variatie cauzata de oboseala. Daca sistemul detecteaza ca devii mai putin vigilent(a), o
+            pictograma de avertizare apare pe afisaj, sugerandu-ti sa iei o pauza. Daca gradul de vigilenta la volan
+            scade si mai mult, mesajul e repetat si insotit de un semnal sonor.</p>
         </p>
     </div>
     <div class="content-block">
         <img
-                src="/assets/img/noul_focus/1214559170282.jpg"
-                alt="Alertă şi indicator de distanţă"/><span class="fv-overlay-icon"></span>
+            src="/assets/img/noul_focus/1214559170282.jpg"
+            alt="Alertă şi indicator de distanţă"/><span class="fv-overlay-icon"></span>
 
         <h3 class="bigHeading02">
-            Te ajuta sa pastrezi o distanta de siguranta
+            Un plus de control in cazul pornirilor in rampa
         </h3>
 
         <p>
 
-        <p>Panoul de bord este prevazut cu o functie de indicare a distantei. Aceasta afiseaza in mod continuu distanta
-            pana la vehiculul din fata si aprinde un sistem de pictograme colorate ca luminile de semafor, in functie de
-            setarile de proximitate alese. Alerta de distanta te poate avertiza, de asemenea, printr-un simbol de
-            avertizare rosu, daca te apropii prea mult de vehiculul din fata.</p>
+        <p>Sistemul de asistenta la pornirea din rampa impiedica temporar alunecarea in spate sau in fata, cand pornesti
+            din panta. Sistemul functioneaza prin mentinerea presiunii la nivelul sistemului de franare pentru un
+            interval suplimentar de 2-3 secunde, asigurandu-ti mai mult timp si control, cand muti piciorul de pe pedala
+            de frana, pe cea de acceleratie. Acest sistem este de asemenea util cand opresti si pornesti autovehiculul
+            pe suprafete alunecoase.</p>
         </p>
     </div>
-    <div class="content-block last">
-        <img
-                src="/assets/img/noul_focus/1214559172013.jpg"
-                alt="Faruri inteligente"/><span class="fv-overlay-icon"></span>
-        <h3 class="bigHeading02">
-            Faruri inteligente
-        </h3>
 
-        <p>
-
-        <p>Farurile bi-xenon sunt prevazute cu un sistem avansat de iluminare adaptiva, care se adapteaza in mod
-            inteligent la situatia de condus. In functie de tipul de drum, aceasta tehnologie comuta automat intre patru
-            tipuri diferite de modele de faza, pentru a-ti asigura cea mai buna distributie a luminii. Sistemul poate
-            include, de asemenea, lumini pentru viraje, care se misca in functie de schimbarile de directie.</p>
-        </p>
-    </div>
 </article>
+
+</div>
+<!--  tabTitle : Performanta si eficienta :: btfTabContent : 1205119221593 :: tabContent :  -->
+<div id='tab2' class="secondary-tab-content">
+<header class="intro-header">
+    <h1 class="bigHeading">
+        Putere si eficienta: bucura-te de amandoua
+    </h1>
+    <span class="highlighter"></span>
+
+    <p class="intro-text">
+
+    <p>Tehnologia motorului joaca un rol cheie in cazul modelului Focus, ajutand atat la reducerea costurilor de
+        functionare, cat si a emisiilor, asigurand in acelasi timp niveluri optime de putere si performanta. Gama
+        include acum ca optiune un motor pe benzina EcoBoost de 1,5 litri. Acesta include sistemul Auto-Start-Stop,
+        iar economia la combustibil a fost sporita si mai mult in intreaga gama. Toate motoarele noi au fost
+        proiectate pentru a respecta standardele stricte ale clasei de emisii Euro 6. O versiune avansata a
+        puternicului motor EcoBoost de 1 litru reduce deja emisiile la mai putin de 100 g/km CO<sub>2</sub>.</p>
+    </p>
+</header>
+
 <article class="content-column left">
-    <div class="img-column"> <img
-                src="/assets/img/noul_focus/1214559173458.jpg"
-                alt="Volan nou"/><span class="fv-overlay-icon"></span></div>
+    <div class="img-column"><img
+            src="/assets/img/noul_focus/1214559172176.jpg"
+            alt="Putere si eficienta fara compromis"/><span class="fv-overlay-icon"></span></div>
     <div class="content">
         <h3 class="bigHeading02">
-            Un volan care iti pune totul la indemana
+            EcoBoost 1,0L
         </h3>
 
         <p>
 
-        <p>Un volan nou, cu trei spite, a fost special proiectat in mod ergonomic pentru Ford Focus. practicabilitatea,
-            cat si vizibilitatea panoului de bord al masinii tale. Pentru un plus de confort, de ce sa nu alegi noul
-            volan incalzit, disponibil optional?</p>
+        <p>O noua versiune a surprinzator de puternicului motor EcoBoost de 1 l va asigura emisii de CO2 sub 100
+            g/km: este primul vehicul de familie non-hibrid, pe benzina, din Europa, care sa ofere acest lucru.</p>
         </p>
     </div>
 </article>
 <article class="content-column right">
     <div class="content">
         <h3 class="bigHeading02">
-            Depozitare inteligenta pentru dispozitivele tale inteligente
+            Putere si eficienta fara compromis
         </h3>
 
         <p>
 
-        <p>Consola centrala incorporeaza un spatiu pentru smartphone-uri si alte dispozitive mobile. Este prevazuta cu
-            un port USB pentru conectivitate si alimentare, precum si un covoras de cauciuc pentru a te ajuta sa tii
-            obiectele personale in siguranta.</p>
+        <p>Motorul pe benzina Ford EcoBoost, de 1,5 litri, ofera un consum redus si emisii scazute… fara a
+            compromite puterea si manevrabilitatea.</p>
         </p>
     </div>
-    <div class="img-column"> <img
-                src="/assets/img/noul_focus/1214559170547.jpg"
-                alt="Consolă centrală prevăzută cu un port USB"/><span class="fv-overlay-icon"></span></div>
+    <div class="img-column"><img
+            src="/assets/img/noul_focus/1214559172093.jpg"
+            alt="Putere diesel cu emisii reduse"/><span class="fv-overlay-icon"></span></div>
 </article>
 <article class='two-column'>
     <div class="content-block">
         <img
-            src="/assets/img/noul_focus/1214559172793.jpg"
-            alt="Sistemul Ford KeyFree"/>
+            src="/assets/img/noul_focus/1214559170985.jpg"
+            alt="Indicator de schimbare a treptei de viteză"/>
 
         <h3 class="bigHeading02">
-            Sistemul Key-free inseamna mai putine griji
+            O optiune noua
         </h3>
 
         <p>
 
-        <p>Sistemul Ford KeyFree iti permite sa inchizi si sa deschizi masina fara sa scoti cheia din buzunar sau din
-            poseta: ideal pentru situatiile in care aveti mainile ocupate cu altceva.</p>
+        <p>Motorul de 1,5L TDCi este unul nou, bazat pe cel de 1,6L TDCi. Acesta e disponibil in doua versiuni de
+            putere – una de 95 CP, dar si una de 120 CP (fata de 115 CP de pe versiunea de 1,6L). In acelasi timp,
+            acest motor maximizeaza economia de combustibil si reducere nivelul de emisii. Motorul este momentan
+            disponibil cu o cutie de viteze manuala cu 6 trepte, precum si cu una automata pe versiunea de 120 CP.
+
+            Motorul diesel de 2,0 litri este, de asemenea, nou si este disponibil in variante cu 150 CP si cu
+            transmisie manuala sau automata PowerShift, cu 6 trepte de viteza. Acest nou motor diesel asigura o
+            reducere semnificativa a emisiilor fata de varianta diesel de 2,0 litri pe care o inlocuieste.</p>
         </p>
     </div>
     <div class="content-block last">
         <img
-            src="/assets/img/noul_focus/1214559170813.jpg"
-            alt="Ford Power"/>
+            src="/assets/img/noul_focus/1214559171067.jpg"
+            alt="Sistem activ cu obturator pentru grilă"/>
 
         <h3 class="bigHeading02">
-            Porneste masina prin simpla atingere a unui buton
+            Control maxim in viraje
         </h3>
 
         <p>
 
-        <p>Nu mai este nevoie sa folosesi cheia. Trebuie doar sa actionezi butonul de pornire Ford Power in timp ce tii
-            ambreiajul apasat (sau pedala de frana pe modelul cu transmisie automata) si motorul prinde viata.</p>
+        <p>Controlul vectorului de cuplu de torsiune culege informatii privind suprafata de rulare de 100 de ori pe
+            secunda. (Aceasta inseamna de 33 ori mai repede decat o clipire din ochi.) Cu ajutorul acestor
+            informatii, sistemul echilibreaza puterea transmisa la nivelul fiecareia dintre cele doua roti din fata.
+            Acest lucru maximizeaza aderenta si imbunatateste manevrabilitatea, ajutandu-te sa parcurgi virajele, in
+            zonele serpuite ale drumului.</p>
         </p>
     </div>
 </article>
 <article class='two-column'>
     <div class="content-block">
         <img
-            src="/assets/img/noul_focus/1214559170638.jpg"
-            alt="Ford MyKey"/>
+            src="/assets/img/noul_focus/1214559171479.jpg"
+            alt="Auto-Start-Stop"/>
 
         <h3 class="bigHeading02">
-            Utilizarea in comun a masinii, fara probleme, cu ajutorul caracteristicii MyKey®
+            Schimba treptele de viteza rapid, cu varfurile degetelor
         </h3>
 
         <p>
 
-        <p>Aceasta noua tehnologie iti permite sa setezi limita maxima de viteza, sa setezi un semnal care sa atraga
-            atentia asupra purtarii centurii de siguranta si chiar sa controlezi volumul sistemului audio. Trebuie doar
-            sa introduci cheia in contact, sa pornesti masina si sa urmaresti instructiunile simple pentru a programa
-            restrictiile dorite pentru cheia respectiva. Poti pastra personal cheia de &bdquo;admin&rdquo; si chiar sa
-            ai mai multe exemplare din ambele chei, daca doresti. Ford MyKey&reg; este usor de utilizat si este
-            conceputa pentru a-ti asigura linistea atunci cand imprumuti masina unui prieten sau unui membru al
-            familiei.</p>
+        <p>Alege o transmisie automata si vei beneficia de optiunea Comenzi de schimbare automata, cu padele, in
+            stilul masinilor de mare performanta. Padelele sunt fixate pe ambele parti ale volanului si, cu ajutorul
+            comenzilor din dreapta pentru trecerea in treapta superioara si stanga pentru treapta inferioara, poti
+            schimba rapid treptele de viteza cu varfurile degetelor, chiar si in viraje</p>
         </p>
     </div>
     <div class="content-block last">
         <img
-            src="/assets/img/noul_focus/1214559173378.jpg"
-            alt="Ştergătoare de parbriz cu senzor de ploaie"/>
+            src="/assets/img/noul_focus/1214559171232.jpg"
+            alt="Încărcare regenerativă inteligentă"/><span class="fv-overlay-icon"></span>
 
         <h3 class="bigHeading02">
-            Stergatoare care se regleaza automat, in functie de ploaie
+            Schimbari ale treptelor de viteza, mai eficiente din punct de vedere al consumului de combustibil
         </h3>
 
         <p>
 
-        <p>Stergatoarele de parbriz cu senzor de ploaie se activeaza in secunda in care detecteaza stropi de apa pe
-            parbrizul autovehiculului, iar apoi isi regleaza viteza pentru a face fata oricaror conditii meteo. Poti
-            alege unul dintre cele sase niveluri de sensibilitate, care determina cat de multa umiditate trebuie sa se
-            acumuleze inainte ca stergatoarele sa se activeze.</p>
+        <p>Un indicator luminos de pe panoul de bord iti arata momentul optim de schimbare a treptei de viteza,
+            pentru o eficienta maxima a consumului de combustibil. Aceasta reprezinta o modalitate simpla si
+            eficienta, de a asigura deplasari cat mai economice.</p>
         </p>
     </div>
 </article>
-<article class='three-column'>
+
+<article class='two-column'>
     <div class="content-block">
         <img
-            src="/assets/img/noul_focus/1214559172628.jpg"
-            alt="Oglinzile laterale pliabile electric"/>
+            src="/assets/img/noul_focus/1214171479.jpg"
+            alt="Auto-Start-Stop"/>
 
         <h3 class="bigHeading02">
-            Oglinzi laterale care se pot proteja singure
+            Un ajutor pentru a conduce mai eficient
         </h3>
 
         <p>
 
-        <p>Pentru a evita deteriorarea accidentala, oglinzile laterale pliabile electric se pliaza catre interior dupa
-            ce ai parcat. Atunci cand sunt rabatate, oglinzile protejeaza, de asemenea, elegantele indicatoare
-            integrate.</p>
-        </p>
-    </div>
-    <div class="content-block">
-        <img
-            src="/assets/img/noul_focus/1214559173549.jpg"
-            alt="Ford Easy Fuel"/>
-
-        <h3 class="bigHeading02">
-            Ford Easy-Fuel, pentru alimentari fara probleme
-        </h3>
-
-        <p>
-
-        <p>Aceasta tehnologie utila face sa fie practic imposibila alimentarea gresita a masinii, deoarece duza pompei
-            nu se va potrivi. Si pentru ca Easy-Fuel este un sistem fara buson, nu vei mai avea de-a face niciodata cu
-            un buson murdar.</p>
+        <p>Sistemul inovator Ford Eco Mode evalueaza continuu efectele stilului personal de condus asupra consumului
+            de combustibil. Acesta analizeaza viteza, schimbarea treptelor de viteza, franarea si nivelurile de
+            anticipare, plus raportul personal de deplasari pe distante scurte si lungi. Apoi, software-ul
+            inteligent it ofera recomandari legate de modul de imbunatatire a economiei de combustibil.</p>
         </p>
     </div>
     <div class="content-block last">
         <img
-            src="/assets/img/noul_focus/1214559171320.jpg"
-            alt="Parbriz Quickclear"/>
+            src="/assets/img/noul_focus/1214171232.jpg"
+            alt="Încărcare regenerativă inteligentă"/><span class="fv-overlay-icon"></span>
 
         <h3 class="bigHeading02">
-            Curata parbrizul rapid cu Quickclear
+            Folosesti mai putin combustibil, cu functia pornire-oprire automata
         </h3>
 
         <p>
 
-        <p>Aceasta dotare inteligenta este creata pentru a-ti permite sa pornesti rapid in diminetile geroase. Trebuie
-            doar sa apesi pe un buton, iar sistemul poate sa dezghete parbrizul in cateva secunde, chiar si la
-            temperaturi scazute.</p>
+        <p>Atunci cand te opresti la semafor sau cand astepti intr-o coloana, aceasta tehnologie poate opri automat
+            motorul (fara a opri insa alimentarea sistemelor esentiale, precum farurile, aerul conditionat, radioul
+            si sistemul Ford SYNC). De indata ce esti gata sa pleci de pe loc, apasa, ca de obicei, pe pedala de
+            ambreiaj si selecteaza prima treapta de viteza sau apasa pedala de acceleratie, in cazul unei transmisii
+            automate, iar sistemul porneste din nou motorul. Sistemul Auto-Start-Stop e deosebit de eficient in
+            orase, unde poate reduce consumul de combustibil cu pana la 10% (in mediul urban).</p>
         </p>
     </div>
 </article>
-</div>
-<!--  tabTitle : Performanta si eficienta :: btfTabContent : 1205119221593 :: tabContent :  -->
-<div id='tab2' class="secondary-tab-content">
-    <header class="intro-header">
-        <h1 class="bigHeading">
-            Putere si eficienta: bucura-te de amandoua
-        </h1>
-        <span class="highlighter"></span>
 
-        <p class="intro-text">
+<article class='two-column'>
+    <div class="content-block">
+        <img
+            src="/assets/img/noul_focus/121434171479.jpg"
+            alt="Auto-Start-Stop"/>
 
-        <p>Tehnologia motorului joaca un rol cheie in cazul modelului Focus, ajutand atat la reducerea costurilor de
-            functionare, cat si a emisiilor, asigurand in acelasi timp niveluri optime de putere si performanta. Gama
-            include acum ca optiune un motor pe benzina EcoBoost de 1,5 litri. Acesta include sistemul Auto-Start-Stop,
-            iar economia la combustibil a fost sporita si mai mult in intreaga gama. Toate motoarele noi au fost
-            proiectate pentru a respecta standardele stricte ale clasei de emisii Euro 6. O versiune avansata a
-            puternicului motor EcoBoost de 1 litru reduce deja emisiile la mai putin de 100 g/km CO<sub>2</sub>.</p>
+        <h3 class="bigHeading02">
+            Reincarca-ti bateria mai eficient
+        </h3>
+
+        <p>
+
+        <p>Spre deosebire de sistemele conventionale, sistemul de incarcare regenerativ inteligent reincarca bateria
+            doar cand este nevoie si, ori de cate ori este posibil, evita realizarea acestei operatiuni cand apesi
+            pedala de acceleratie. Acest lucru poate reduce si mai mult consumul de combustibil si nivelul de
+            emisii.</p>
         </p>
-    </header>
-    <header class="intro-header">
-        <h1 class="bigHeading">
-            Motorizare
-        </h1>
-        <span class="highlighter"></span>
+    </div>
+    <div class="content-block last">
+        <img
+            src="/assets/img/noul_focus/121417321232.jpg"
+            alt="Încărcare regenerativă inteligentă"/><span class="fv-overlay-icon"></span>
 
-        <p class="intro-text">
+        <h3 class="bigHeading02">
+            Aerodinamica mai buna pentru economie mai mare
+        </h3>
 
-        <p>O gama larga de motoare avansate asigura puterea modelului Focus. Toate au capacitati si randamente diferite,
-            iar acestea sunt cele mai recente adaugiri la gama existenta. Pentru o comparatie completa, consulta
-            sectiunea cu Fapte si Statistici.</p>
+        <p>
+
+        <p>Cand conduci cu viteza redusa, Sistemul activ cu obturator pentru grila tine orificiile de ventilatie de la
+            nivelul grilei deschise, pentru a raci motorul. Cand prinzi viteza, acesta se poate inchide automat,
+            imbunatatind aerodinamica si ajutand la economisirea combustibilului. In timp, aceasta tehnologie poate face
+            o mare diferenta in privinta economiei de combustibil.</p>
         </p>
-    </header>
-    <header class="intro-header">
-        <h1 class="bigHeading">
-            EcoBoost 1,0L
-        </h1>
-        <span class="highlighter"></span>
+    </div>
+</article>
 
-        <p class="intro-text">
 
-        <p>O noua versiune a surprinzator de puternicului motor EcoBoost de 1 l va asigura emisii de CO<sub>2</sub> sub
-            100 g/km: este primul vehicul de familie non-hibrid, pe benzina, din Europa, care sa ofere acest lucru.</p>
-        </p>
-    </header>
-    <article class="content-column left">
-        <div class="img-column"> <img
-                    src="/assets/img/noul_focus/1214559172176.jpg"
-                    alt="Putere si eficienta fara compromis"/><span class="fv-overlay-icon"></span></div>
-        <div class="content">
-            <h3 class="bigHeading02">
-                Putere si eficienta fara compromis
-            </h3>
 
-            <p>
 
-            <p>Motorul EcoBoost de 1,5 litri reprezinta o noua completare la gama de succes EcoBoost. Motorul a fost
-                redus in mod inteligent de la modelul EcoBoost de 1,6 litri, pentru a asigura un nivel mai redus al
-                emisiilor si o economie de combustibil mai mare&hellip; fara a compromite puterea si manevrabilitatea.
-                Disponibil in: variante de 150 sau 180 CP si cu transmisie manuala cu 6 trepte de viteza. Incepand din
-                primavara anului 2015 va fi disponibila si o varianta automata.</p>
-            </p>
-        </div>
-    </article>
-    <article class="content-column right">
-        <div class="content">
-            <h3 class="bigHeading02">
-                Putere diesel cu emisii reduse
-            </h3>
 
-            <p>
-
-            <p>Motorul diesel de 2,0 litri este, de asemenea, nou si este disponibil in variante cu 150 CP si cu
-                transmisie manuala sau automata PowerShift, cu 6 trepte de viteza. Acest nou motor diesel asigura o
-                reducere semnificativa a emisiilor fata de varianta diesel de 2,0 litri pe care o inlocuieste.</p>
-            </p>
-        </div>
-        <div class="img-column"> <img
-                    src="/assets/img/noul_focus/1214559172093.jpg"
-                    alt="Putere diesel cu emisii reduse"/><span class="fv-overlay-icon"></span></div>
-    </article>
-    <article class='two-column'>
-        <div class="content-block">
-            <img
-                src="/assets/img/noul_focus/1214559170985.jpg"
-                alt="Indicator de schimbare a treptei de viteză"/>
-
-            <h3 class="bigHeading02">
-                Schimbari ale treptelor de viteza mai eficiente din punct de vedere al consumului de combustibil
-            </h3>
-
-            <p>
-
-            <p>Indicatorul de schimbare a vitezei de pe panoul de bord iti arata momentul optim de schimbare a treptei
-                de viteza, pentru o eficienta maxima a consumului de combustibil. Aceasta reprezinta o modalitate simpla
-                si eficienta de a asigura deplasari cat mai economice.</p>
-            </p>
-        </div>
-        <div class="content-block last">
-            <img
-                src="/assets/img/noul_focus/1214559171067.jpg"
-                alt="Sistem activ cu obturator pentru grilă"/>
-
-            <h3 class="bigHeading02">
-                Aerodinamicitate mai buna pentru economie mai mare
-            </h3>
-
-            <p>
-
-            <p>Atunci cand conduci cu viteza redusa, sistemul de inchidere automata a grilei radiatorului tine
-                orificiile de ventilatie de la nivelul grilei deschise pentru a raci motorul. Cand prinzi viteza, acesta
-                se poate inchide automat, imbunatatind aerodinamicitatea si ajutand la economisirea de combustibil. In
-                timp, aceasta tehnologie poate face o mare diferenta.</p>
-            </p>
-        </div>
-    </article>
-    <article class='two-column'>
-        <div class="content-block">
-            <img
-                src="/assets/img/noul_focus/1214559171479.jpg"
-                alt="Auto-Start-Stop"/>
-
-            <h3 class="bigHeading02">
-                Foloseste mai putin combustibil cu functia Auto-Start-Stop
-            </h3>
-
-            <p>
-
-            <p>Atunci cand te opresti la semafor sau cand astepti intr-o coloana, Auto Start-Stop poate opri automat
-                motorul (fara a opri insa alimentarea sistemelor esentiale, precum ventilatia, radioul si Ford SYNC). De
-                indata ce esti gata de plecarea de pe loc, apasa pe pedala de ambreiaj si selecteaza prima treapta de
-                viteza, ca de obicei, iar sistemul porneste din nou motorul. Sistemul Auto-Start-Stop este deosebit de
-                eficient in oras.</p>
-            </p>
-        </div>
-        <div class="content-block last">
-            <img
-                    src="/assets/img/noul_focus/1214559171232.jpg"
-                    alt="Încărcare regenerativă inteligentă"/><span class="fv-overlay-icon"></span>
-
-            <h3 class="bigHeading02">
-                Reincarca-ti bateria mai eficient
-            </h3>
-
-            <p>
-
-            <p>Spre deosebire de sistemele conventionale, sistemul de incarcare regenerativa inteligenta reincarca
-                bateria doar atunci cand este nevoie si, ori de cate ori este posibil, evita realizarea acestei
-                operatiuni atunci cand apasati pedala de acceleratie. Acest lucru poate reduce si mai mult consumul de
-                combustibil si nivelul de emisii.</p>
-            </p>
-        </div>
-    </article>
-    <article class='three-column'>
-        <div class="content-block">
-            <img
-                src="/assets/img/noul_focus/1214559173300.jpg"
-                alt="Ford EcoMode"/>
-
-            <h3 class="bigHeading02">
-                Un ajutor pentru a conduce mai eficient
-            </h3>
-
-            <p>
-
-            <p>Sistemul inovator Ford Eco Mode evalueaza in mod continuu efectele stilului personal de condus asupra
-                consumului de combustibil. Acesta analizeaza viteza, schimbarea treptelor de viteza, franarea si
-                nivelurile de anticipare, plus raportul personal de deplasari pe distante scurte si lungi. Apoi,
-                software-ul inteligent iti ofera recomandari legate de modul de imbunatatire a economiei de
-                combustibil.</p>
-            </p>
-        </div>
-        <div class="content-block">
-            <img
-                src="/assets/img/noul_focus/1214559171402.jpg"
-                alt="Sistem de control al vectorului de cuplu"/>
-
-            <h3 class="bigHeading02">
-                Control maxim la viraje
-            </h3>
-
-            <p>
-
-            <p>Controlul vectorului de cuplu echilibreaza cuplul motorului intre rotile din fata, pentru a se potrivi
-                tipului de carosabil si conditiilor de condus. Actionand de 100 de ori pe secunda, sistemul este de 33
-                de ori mai rapid decat o clipire din ochi. Ceea ce inseamna o aderenta mai buna si manevrabilitate de
-                precizie extrema, dupa cum vei descoperi in momentul accelerarii in curbe.</p>
-            </p>
-        </div>
-        <div class="content-block last">
-            <img
-                src="/assets/img/noul_focus/1214559173051.jpg"
-                alt="Sistem de suspensie spate"/>
-
-            <h3 class="bigHeading02">
-                O calatorie mai rafinata
-            </h3>
-
-            <p>
-
-            <p>Un sistem de suspensie spate multi-brat Control Blade iti asigura o deplasare lina si reactii extrem de
-                precise, feedback intuitiv de la drum si o calatorie silentioasa, chiar si in timpul accelerarii.</p>
-            </p>
-        </div>
-    </article>
 </div>
 <!--  tabTitle : Siguranta si securitate :: btfTabContent : 1205119222398 :: tabContent :  -->
 <div id='tab3' class="secondary-tab-content">
@@ -1055,164 +885,134 @@
         </p>
     </header>
     <article class="content-column left">
-        <div class="img-column"> <img
-                    src="/assets/img/noul_focus/1214484329875.jpg"
-                    alt="EPS"/><span class="fv-overlay-icon"></span></div>
+        <div class="img-column"><img
+                src="/assets/img/noul_focus/1214484329875.jpg"
+                alt="EPS"/><span class="fv-overlay-icon"></span></div>
         <div class="content">
             <h3 class="bigHeading02">
-                ESP
+                Avertizare timpurie in cazul unei pene
             </h3>
 
             <p>
 
-            <p>Sistemul ESP al modelului Focus include noua caracteristica Stabilitate tranzitionala imbunatatita,
-                asigurand o mai buna stabilitate in timpul manevrelor de evitare si oferind mai mult control
-                soferului.</p>
+            <p>Daca vreunul dintre pneuri incepe sa piarda presiune in timpul deplasarii, Sistemul de monitorizare a
+                presiunii in pneuri (TPMS) te avertizeaza imediat, prin aprinderea unei pictograme pe panoul de
+                bord.</p>
             </p>
         </div>
     </article>
     <article class="content-column right">
         <div class="content">
             <h3 class="bigHeading02">
-                Controlul tractiunii
+                CPremii Euro NCAP Advanced, pentru siguranta ta
             </h3>
 
             <p>
 
-            <p>Sistemul este mereu activ, insa acum exista optiunea de a trece la modul &bdquo;Control al tractiunii
-                dezactivat&rdquo;, care permite o rotire mai rapida a rotilor, pentru a imbunatati tractiunea in
-                situatii specifice si foarte solicitante, cum ar fi atunci cand traseul e acoperit de un strat adanc de
-                zapada, noroi sau nisip.</p>
+            <p>Sistemul de oprire activa, precum si cele de mentinere a benzii de rulare, de avertizare a soferului si
+                de avertizare privind obstacolele din fata au castigat, fiecare, cate un premiu Euro NCAP Advanced - cea
+                mai mare distinctie acordata de Organizatia Independenta pentru Siguranta din Europa. Aceasta
+                recunoastere este acordata doar celor mai avansate tehnologii auto menite sa evite accidentele si sa
+                minimizeze efectele negative din timpul si de dupa un accident. Mai mult, faptul ca gama Ford a castigat
+                un total de 7 premii Euro NCAP Advanced pentru inovatii menite sa te protejeze este o dovada a
+                angajamentului asumat de Ford cu privire la siguranta ta.</p>
             </p>
         </div>
-        <div class="img-column"> <img
-                    src="/assets/img/noul_focus/1214484329958.jpg"
-                    alt="Controlul tracţiunii"/><span class="fv-overlay-icon"></span></div>
+        <div class="img-column"><img
+                src="/assets/img/noul_focus/1214484329958.jpg"
+                alt="Controlul tracţiunii"/><span class="fv-overlay-icon"></span></div>
     </article>
     <article class='two-column'>
         <div class="content-block">
             <img
-                    src="/assets/img/noul_focus/1214484330047.jpg"
-                    alt="Asistenţă pre-coliziune"/><span class="fv-overlay-icon"></span>
+                src="/assets/img/noul_focus/1214484330047.jpg"
+                alt="Asistenţă pre-coliziune"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
-                Asistenta pre-coliziune
+                Evita coliziunile la viteze reduse
             </h3>
 
             <p>
 
-            <p>Sistemul de asistenta pre-coliziune este activ pe intreg intervalul de viteza, detectand obiecte in
-                miscare. Daca detecteaza probabilitatea unei coliziuni si nu sesizeaza nicio reactie din partea
-                soferului, sistemul trimite un mesaj de avertizare vizuala si acustica pe panoul de bord (Avertizare
-                frontala) si apoi aplica o forta de franare medie.</p>
-            </p>
-        </div>
-        <div class="content-block last">
-            <img
-                    src="/assets/img/noul_focus/1214484330132.jpg"
-                    alt="Active City Stop"/><span class="fv-overlay-icon"></span>
-
-            <h3 class="bigHeading02">
-                Active City Stop
-            </h3>
-
-            <p>
-
-            <p>Tehnologia inovatoare Active City Stop ajuta soferul sa evite coliziunile in trafic lent si la viteze de
-                pana la 50 km/h. Asistenta este oferita in mod continuu, sistemul masurand distanta pana la vehiculul
-                din fata, atunci cand se afla unul in apropiere. Daca sistemul detecteaza ca masina din fata a incetinit
+            <p>Tehnologia inovatoare „Oprire activa in oras” il ajuta pe sofer sa evite coliziunile in trafic lent si la
+                viteze de pana la 50 km/h. Asistenta este oferita continuu, sistemul masurand distanta pana la vehiculul
+                din fata, cand acesta se afla in apropiere. Daca sistemul detecteaza ca vehiculul din fata a incetinit
                 in mod neasteptat, va actiona franele automat.</p>
             </p>
         </div>
+        <div class="content-block last">
+            <img
+                src="/assets/img/noul_focus/1214484330132.jpg"
+                alt="Active City Stop"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+                Sisteme coordonate de siguranta, care se activeaza intr-o fractiune de secunda
+            </h3>
+
+            <p>
+
+            <p>Ford Focus este echipat cu un avansat Sistem inteligent de protectie (IPS), care coordoneaza mai multe
+                sisteme de siguranta pentru a proteja atat soferul, cat si pasagerii.
+                Caroseria rigida, proiectata pentru a absorbi socurile, este produsa dintr-un otel performant, rezistent
+                la tensiuni mari. La aceasta se adauga o serie de airbaguri pentru protejarea pasagerilor si a
+                soferului, precum si o coloana de directie si pedale care se pliaza in directia opusa soferului,
+                reducand riscul de ranire in cazul unui accident.</p>
+            </p>
+        </div>
     </article>
     <article class='two-column'>
         <div class="content-block">
             <img
-                    src="/assets/img/noul_focus/1214484329380.jpg"
-                    alt="Faruri bi-xenon"/><span class="fv-overlay-icon"></span>
+                src="/assets/img/noul_focus/1214484329380.jpg"
+                alt="Faruri bi-xenon"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
-                Faruri bi-xenon ultra-stralucitoare, cu consum redus de energie
+                Mentine controlul, indiferent de conditii
             </h3>
 
             <p>
 
-            <p>Farurile bi-xenon cu iluminare adaptiva schimba automat modelul de iluminare al fasciculului farului,
-                pentru a aplica o iluminare imbunatatita pentru orice situatie de condus, de la autostrazi la strazile
-                din orase. Aceasta tehnologie include o functie de reducere automata a intensitatii luminii atunci cand
-                este detectat un vehicul care se apropie din sens opus.</p>
+            <p>Controlul electronic al stabilitatii monitorizeaza constant progresul vehiculului tau. Aceasta detecteaza
+                devierile de la traseul ales, ca in cazul in care autovehiculul incepe sa patineze si corecteaza automat
+                pozitia pe drum a autovehiculului, ajutandu-te sa mentii controlul asupra acestuia.</p>
             </p>
         </div>
         <div class="content-block last">
             <img
-                    src="/assets/img/noul_focus/1214484329463.jpg"
-                    alt="Fază lungă automată"/><span class="fv-overlay-icon"></span>
+                src="/assets/img/noul_focus/1214484329463.jpg"
+                alt="Fază lungă automată"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
-                Faza lunga automata - va ajuta sa vedeti, fara a-i orbi pe ceilalti
+                Sistemul de avertizare pentru centura ofera o siguranta mai mare
             </h3>
 
             <p>
 
-            <p>Un ajutor util pentru condusul pe timp de noapte, Faza lunga automata se asigura ca soferul se poate
-                concentra mai bine asupra drumului, deoarece sistemul activeaza si dezactiveaza automat faza lunga in
-                timpul noptii, in functie de iluminatul stradal, traficul din sens opus si traficul din fata.</p>
+            <p>Aceasta caracteristica te ajuta sa veghezi asupra sigurantei pasagerilor din spate atunci cand te
+                deplasezi. Sistemul ofera o avertizare vizuala si sonora daca pasagerii de pe oricare scaun nu au
+                centura de siguranta pusa.</p>
             </p>
         </div>
     </article>
-    <article class='three-column'>
+
+    <article class='two-column'>
         <div class="content-block">
             <img
-                    src="/assets/img/noul_focus/1214484329550.jpg"
-                    alt="Sistem de monitorizare a presiunii din pneuri"/><span class="fv-overlay-icon"></span>
+                src="/assets/img/noul_focus/1214171479.jpg"
+                alt="Auto-Start-Stop"/>
 
             <h3 class="bigHeading02">
-                Sistem de monitorizare a presiunii din pneuri (TPMS)
+                Sisteme avansate pentru o franare mai controlata
             </h3>
 
             <p>
 
-            <p>Sistemul monitorizeaza presiunea pneurilor, si emite un semnal de avertizare atunci cand aceasta este
-                scazuta.</p>
+            <p>Sistemul de franare cu anti-blocare roti (ABS) si distributia electronica a fortei de franare se combina pentru a asigura o franare mai bine controlata. </p>
             </p>
         </div>
-        <div class="content-block">
-            <img
-                    src="/assets/img/noul_focus/1214484329633.jpg"
-                    alt="Sistemul de asistenţă la păstrarea benzii"/><span class="fv-overlay-icon"></span>
 
-            <h3 class="bigHeading02">
-                Doua sisteme avansate care va ajuta sa va pastrati banda
-            </h3>
-
-            <p>
-
-            <p>Sistemul de asistenta la pastrarea benzii va oferi asistenta sistemului de directie, daca detecteaza ca
-                sunteti pe cale sa schimbati banda fara sa semnalizati. <br> <br> In plus, Sistemul de avertizare la
-                parasirea benzii va avertizeaza printr-o vibratie a volanului si prin afisarea unui indicator de
-                avertizare vizuala pe afisajul de bord daca sistemul detecteaza ca vehiculul se deplaseaza accidental
-                inspre marcajele benzii.</p>
-            </p>
-        </div>
-        <div class="content-block last">
-            <img
-                    src="/assets/img/noul_focus/1214484329716.jpg"
-                    alt="Sistem de avertizare pentru unghiul mort"/><span class="fv-overlay-icon"></span>
-
-            <h3 class="bigHeading02">
-                Sistem de avertizare pentru unghiul mort
-            </h3>
-
-            <p>
-
-            <p>Utilizand senzori radar, sistemul de avertizare pentru unghiul mort este conceput pentru a detecta
-                obiecte aflate in afara campului tau vizual. Senzorii sunt amplasati pe ambele parti ale masinii si va
-                avertizeaza in mod activ cu privire la eventuale situatii periculoase, prin intermediul unei lumini
-                portocalii afisate in mod vizibil in oglinda laterala. Sporeste atentia soferului in situatii cu trafic
-                pe mai multe benzi, precum autostrazile.</p>
-            </p>
-        </div>
     </article>
+
 </div>
 <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
 <!-- BEGIN [MidPageTabs] -->
@@ -1241,11 +1041,11 @@
 </div>
 </div>
 </li>
-<li><a href="st-line#primaryTabs" class=" "
-       data-ajaxlink="/cs/ContentServer?cid=1205072239086&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205123137602&amp;tabName=st-line&amp;c=Page&amp;site=RORO4_ENGINE">ST-Line</a>
-    <!-- secondary tabs -->
-    <!--  midPageTabId : 1205123137429 -->
-</li>
+<!--  <li><a href="st-line#primaryTabs" class=" "
+      data-ajaxlink="/cs/ContentServer?cid=1205072239086&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205123137602&amp;tabName=st-line&amp;c=Page&amp;site=RORO4_ENGINE">ST-Line</a>
+   <!-- secondary tabs -->
+<!--  midPageTabId : 1205123137429
+</li>   -->
 </ul>
 </nav>
 </div>

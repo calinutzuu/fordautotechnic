@@ -83,7 +83,7 @@
                 {"linkTitle": "DESCARC\u0102 BRO\u015EUR\u0102 ", "linkURL": "\/SBE\/BrosuriSiPreturi", "linkType": "tertiary", "linkTarget": "_blank", "omid": "tr"},
                 {"linkTitle": "\u00CENSCRIE-TE LA TEST DRIVE ", "linkURL": "\/SBE\/TestDrive\/TestDriveAutoturisme?shopcode=00L&derivcode=1TH", "linkType": "tertiary", "linkTarget": "_blank", "omid": "tr"},
                 {"linkTitle": "VREAU SĂ FIU INFORMAT(Ă) ", "linkURL": "/SBE/VreauSaFiuInformata", "linkType": "tertiary", "linkTarget": "", "omid": "tr"}
-            ], "social": {"facebook": "https://facebook.com", "facebookPage": ""}, "disclaimer": "Modelul prezentat este un Focus  Titanium. Imagine cu titlul de prezentare.", "seriesCode": "1TH", "uscCode": "00L", "supportSelector": "true", "supportSeries": "true", "presId": "1205072254052", "promos": [
+            ], "social": {"facebook": "https://facebook.com", "facebookPage": ""}, "disclaimer": "Imagini cu titlu de prezentare; pot include caracteristici sau dotari optionale indisponibile pe piata locala.", "seriesCode": "1TH", "uscCode": "00L", "supportSelector": "true", "supportSeries": "true", "presId": "1205072254052", "promos": [
                 {"imagePath": "/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobwhere=1214553887403&blobkey=id", "overlay": false, "link": "/cs/ContentServer?pagename=RORO4_ENGINE/EP2/common/promo/M48_PromoBlock&c=Promo_C&cid=1205113210234", "text": "Oferta speciala prin programul rabla!"}
             ], "idf": {"options": [
                 {"dataOverlay": {"mediaType": "Image", "height": "435", "width": "780"}, "iconURL": "/cs/BlobServer?blobtable=MungoBlobs&blobcol=urldata&blobheader=image%2Fjpg&blobwhere=1214481906810&blobkey=id", "link": "/cs/ContentServer?cid=1205072236108&amp;pagename=RORO4_ENGINE%2FEP2%2Fcommon%2Fmedia%2FMediaOverlay&amp;c=Image_C&amp;site=RORO4_ENGINE", "videoSrc": [
@@ -123,16 +123,10 @@
                 <div class="name-plate-text">
                     <p class="intro"></p>
 
-                    <h1 class="bigHeading">
-                        <span data-selenium="XA_namePlate" itemprop="member" class="nameplate boldTxt">Focus </span>
-                        <span data-selenium="XA_model" itemprop="model" itemscope
-                              itemtype="http://schema.org/Organization" class="mark"></span>
-                        <!--The price -->
-                    </h1>
+
                     <!--The blurb -->
                     <p class="blurb">
-                        Cu un exterior complet restilizat, mai sculptat, si cu un spatiu in cabina mai avansat si mai
-                        sofisticat ca niciodata, acesta este cel mai rafinat Focus de pana acum.
+
                     </p>
                 </div>
             </div>
@@ -349,12 +343,12 @@
 </li>
 <!--  isBtfTab  -->
 <!--  tabUrl /cs/ContentServer?cid=1205072239086&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205076077684&amp;tabName=PreturisiPromotii&amp;c=Page&amp;site=RORO4_ENGINE -->
-<li><a href="PreturisiPromotii#primaryTabs" class=" "
+<!--  <li><a href="PreturisiPromotii#primaryTabs" class=" "
        data-ajaxlink="/cs/ContentServer?cid=1205072239086&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205076077684&amp;tabName=PreturisiPromotii&amp;c=Page&amp;site=RORO4_ENGINE">PRETURI
         SI PROMOTII</a>
     <!-- secondary tabs -->
-    <!--  midPageTabId : 1205086024824 -->
-</li>
+    <!--  midPageTabId : 1205086024824
+</li> -->
 <!--  isBtfTab  -->
 <!--  tabUrl /cs/ContentServer?cid=1205072239086&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205072240450&amp;tabName=Design&amp;c=Page&amp;site=RORO4_ENGINE -->
 <!-- IntoID ::: articleAssetId -->
@@ -367,7 +361,7 @@
     <ul>
         <li><a href='#tab1' class='omt_tabName'>Exterior</a></li>
         <li><a href='#tab2' class='omt_tabName'>Interior</a></li>
-        <li><a href='#tab3' class='omt_tabName'>Jante</a></li>
+    <!--    <li><a href='#tab3' class='omt_tabName'>Jante</a></li> -->
     </ul>
 </nav>
 <!-- isBtfTab : from MidPageTabs true -->
@@ -379,12 +373,8 @@
             Exterior
         </h1>
         <span class="highlighter"></span>
+<br>
 
-        <p class="intro-text">
-
-        <p>Stilizare indrazneata, detalii si caracteristici de design superbe, precum noua grila si luminile spate
-            optimizate, se combina pentru a face din modelul Focus combinatia perfecta de forma si functie.</p>
-        </p>
     </header>
     <article class='three-column'>
         <div class="content-block">
@@ -396,7 +386,7 @@
 
             <p>
 
-            <p>Ford Focus - varianta in 4 usi</p>
+            <p>Puternic si eficient. </p>
             </p>
         </div>
         <div class="content-block">
@@ -409,7 +399,7 @@
 
             <p>
 
-            <p>Ford Focus - varianta in 4 usi</p>
+            <p>Profil dinamic si modern.</p>
             </p>
         </div>
         <div class="content-block last">
@@ -422,7 +412,7 @@
 
             <p>
 
-            <p>Ford Focus - varianta in 4 usi</p>
+            <p>Linii aerodinamice.</p>
             </p>
         </div>
     </article>
@@ -437,7 +427,7 @@
 
             <p>
 
-            <p>Ford Focus - varianta in 4 usi</p>
+            <p>Detalii superbe din fiecare unghi.</p>
             </p>
         </div>
         <div class="content-block">
@@ -450,7 +440,7 @@
 
             <p>
 
-            <p>Ford Focus - varianta in 4 usi</p>
+            <p>Forma rafinamentului.</p>
             </p>
         </div>
         <div class="content-block last">
@@ -463,7 +453,7 @@
 
             <p>
 
-            <p>Ford Focus - varianta in 5 usi</p>
+            <p>Un aspect fara compromisuri. </p>
             </p>
         </div>
     </article>
@@ -478,7 +468,7 @@
 
             <p>
 
-            <p>Ford Focus - varianta in 5 usi</p>
+            <p>Focus, fara nicio indoiala.i</p>
             </p>
         </div>
         <div class="content-block">
@@ -491,7 +481,7 @@
 
             <p>
 
-            <p>Ford Focus - varianta in 5 usi</p>
+            <p>Un model combi cu o prezenta reala pe sosea.</p>
             </p>
         </div>
         <div class="content-block last">
@@ -504,7 +494,7 @@
 
             <p>
 
-            <p>Ford Focus - varianta in 5 usi</p>
+            <p>Experienta Focus, in forma unui model combi.</p>
             </p>
         </div>
     </article>
@@ -519,7 +509,7 @@
 
             <p>
 
-            <p>Ford Focus - varianta in 5 usi</p>
+            <p>Un aspect uimitor, sculptat.</p>
             </p>
         </div>
         <div class="content-block">
@@ -531,64 +521,12 @@
 
             <p>
 
-            <p>Ford Focus - varianta Wagon</p>
+            <p>Optimizat pentru eficienta.</p>
             </p>
         </div>
-        <div class="content-block last">
-            <img
-                    src="/assets/img/noul_focus/1214556270794.jpg"
-                    alt="Ford Focus - varianta Wagon"/><span class="fv-overlay-icon"></span>
 
-            <h3 class="bigHeading02">
-            </h3>
-
-            <p>
-
-            <p>Ford Focus - varianta Wagon</p>
-            </p>
-        </div>
     </article>
-    <article class='three-column'>
-        <div class="content-block">
-            <img
-                    src="/assets/img/noul_focus/1214556269345.jpg"
-                    alt="Ford Focus - varianta Wagon"/><span class="fv-overlay-icon"></span>
 
-            <h3 class="bigHeading02">
-            </h3>
-
-            <p>
-
-            <p>Ford Focus - varianta Wagon</p>
-            </p>
-        </div>
-        <div class="content-block">
-            <img
-                    src="/assets/img/noul_focus/1214556269729.jpg"
-                    alt="Ford Focus - varianta Wagon"/><span class="fv-overlay-icon"></span>
-
-            <h3 class="bigHeading02">
-            </h3>
-
-            <p>
-
-            <p>Ford Focus - varianta Wagon</p>
-            </p>
-        </div>
-        <div class="content-block last">
-            <img
-                    src="/assets/img/noul_focus/1214556270396.jpg"
-                    alt="Ford Focus - varianta Wagon"/><span class="fv-overlay-icon"></span>
-
-            <h3 class="bigHeading02">
-            </h3>
-
-            <p>
-
-            <p>Ford Focus - varianta Wagon</p>
-            </p>
-        </div>
-    </article>
 </div>
 <!--  tabTitle : Interior :: btfTabContent : 1205119214988 :: tabContent :  -->
 <div id='tab2' class="secondary-tab-content">
@@ -598,12 +536,7 @@
         </h1>
         <span class="highlighter"></span>
 
-        <p class="intro-text">
 
-        <p>Reproiectat in intregime, interiorul duce rafinamentul unui Focus la nivelul urmator. Atat stilul, cat si
-            calitatea sunt dublate de substanta, dispunerea in spatiu punand fiecare comanda, dotare si spatiu de
-            depozitare inteligenta la indemana, in mod intuitiv.</p>
-        </p>
     </header>
     <article class='three-column'>
         <div class="content-block">
@@ -616,7 +549,7 @@
 
             <p>
 
-            <p>Ford Focus - interior</p>
+            <p>Fiecare comanda la indemna ta.</p>
             </p>
         </div>
         <div class="content-block">
@@ -629,9 +562,81 @@
 
             <p>
 
-            <p>Ford Focus - interior</p>
+            <p>Comenzi intuitive, la indemana.</p>
             </p>
         </div>
+        <div class="content-block last">
+            <img
+                src="/assets/img/noul_focus/12162693928.jpg"
+                alt="Ford Focus "/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+            </h3>
+
+            <p>
+
+            <p>Tehnologia hands-free SYNC 3.</p>
+            </p>
+        </div>
+    </article>
+
+    <article class='three-column'>
+        <div class="content-block">
+            <img
+                src="/assets/img/noul_focus/1214267501.jpg"
+                alt="Ford Focus - interior"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+            </h3>
+
+            <p>
+
+            <p>Spatiu si confort pentru o capacitate pana la cinci persoane. </p>
+            </p>
+        </div>
+        <div class="content-block">
+            <img
+                src="/assets/img/noul_focus/1219172879.jpg"
+                alt="Ford Focus - interior"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+            </h3>
+
+            <p>
+
+            <p>Materiale de inalta calitate si atentie la detalii.</p>
+            </p>
+        </div>
+        <div class="content-block last">
+            <img
+                src="/assets/img/noul_focus/12693928.jpg"
+                alt="Ford Focus "/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+            </h3>
+
+            <p>
+
+            <p>Design interior rafinat, contemporan.</p>
+            </p>
+        </div>
+    </article>
+
+    <article class='three-column'>
+        <div class="content-block">
+            <img
+                src="/assets/img/noul_focus/121443267501.jpg"
+                alt="Ford Focus - interior"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+            </h3>
+
+            <p>
+
+            <p>Caracteristici de ultima generatie, la indemana. </p>
+            </p>
+        </div>
+
     </article>
 </div>
 <!--  tabTitle : Jante :: btfTabContent : 1205119216819 :: tabContent :  -->
@@ -771,11 +776,11 @@
     <!-- secondary tabs -->
     <!--  midPageTabId : 1205094681946 -->
 </li>
-<li><a href="st-line#primaryTabs" class=" "
+<!--   <li><a href="st-line#primaryTabs" class=" "
        data-ajaxlink="/cs/ContentServer?cid=1205072239086&amp;pagename=ENGInE%2FEP2%2Fbody%2Fcars%2Fxaxis_detailed%2FStateChangeJSON&amp;pid=1205123137602&amp;tabName=st-line&amp;c=Page&amp;site=RORO4_ENGINE">ST-Line</a>
     <!-- secondary tabs -->
     <!--  midPageTabId : 1205123137429 -->
-</li>
+</li>  -->
 </ul>
 </nav>
 </div>

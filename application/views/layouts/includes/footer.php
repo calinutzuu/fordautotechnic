@@ -11,6 +11,7 @@
       <!--  <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/Noul-EcoSport"> EcoSport</a></h4></dd> -->
         <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/NoulEcosport"> EcoSport</a></h4></dd>
         <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/Focus"> Focus</a></h4></dd>
+        <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/focus-2018"> Noul Focus</a></h4></dd>
         <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/NewFocusST"> The New Focus ST</a></h4></dd>
         <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/FocusRS"> Focus RS</a></h4></dd>
         <dd><h4><a class='sbe om_fo_ff_li ' href="/Autoturisme/NoulC-MAX"> Noul C-MAX</a></h4></dd>
