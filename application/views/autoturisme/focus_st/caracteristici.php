@@ -1,4 +1,3 @@
-
 <script type="text/javascript">
     // mobile sniffer
     ForceRedirectUserAgents = 'android,iphone,blackberry';
@@ -296,7 +295,7 @@
 <div class="secondary-tabs tab-content">
 <nav class="sub-nav">
     <ul>
-        <li><a href='#tab1' class='omt_tabName'>EXPERIENTA CONDUSULUI</a></li>
+        <li><a href='#tab1' class='omt_tabName'>EXPERIENTA LA VOLAN</a></li>
         <li><a href='#tab2' class='omt_tabName'>PERFORMANTA SI EFICIENTA</a></li>
         <li><a href='#tab3' class='omt_tabName'>CONFORT SI COMODITATE</a></li>
         <li><a href='#tab4' class='omt_tabName'>SIGURANTA SI SECURITATE</a></li>
@@ -308,20 +307,36 @@
 <div id='tab1' class="secondary-tab-content">
     <header class="intro-header">
         <h1 class="bigHeading">
-            PUNE MANA PE VOLAN SI PREIA CONTROLUL.
+            Experienta la volan
         </h1>
         <span class="highlighter"></span>
 
         <p class="intro-text">
 
-        <p>Tehnologii inovatoare, design inteligent, proiectare de precizie: la volanul noului Focus ST esti conectat la
-            drum, dar si la muzica, mesaje si apeluri telefonice, chiar si in miscare.</p>
+        <p>CTehnologii inovatoare, design inteligent, proiectare precisa: la volanul noului Focus ST esti conectat la
+            drum, dar si la muzica, mesaje si apeluri telefonice, chiar si in miscare. </p>
         </p>
     </header>
     <article class="content-column left">
-        <div class="img-column"> <img
-                    src="/assets/img/focus_st/1214556049228.jpg"
-                    alt="Sports Suspenssion "/><span class="fv-overlay-icon"></span></div>
+        <div class="img-column"><img
+                src="/assets/img/focus_st/1214556049228.jpg"
+                alt="Sports Suspenssion "/><span class="fv-overlay-icon"></span></div>
+        <div class="content">
+            <h3 class="bigHeading02">
+                Control maxim in viraje
+            </h3>
+
+            <p>
+
+            <p>Controlul vectorului de cuplu de torsiune culege informatii privind suprafata de rulare de 100 de ori pe
+                secunda. (Aceasta inseamna de 33 ori mai repede decat o clipire din ochi.) Cu ajutorul acestor
+                informatii, sistemul echilibreaza puterea transmisa la nivelul fiecareia dintre cele doua roti din fata.
+                Acest lucru maximizeaza aderenta si imbunatateste manevrabilitatea, ajutandu-te sa parcurgi virajele, in
+                zonele serpuite ale drumului.</p>
+            </p>
+        </div>
+    </article>
+    <article class="content-column right">
         <div class="content">
             <h3 class="bigHeading02">
                 Suspensie sport, in stilul masinilor de curse
@@ -334,31 +349,95 @@
                 coborat, aducand centrul de greutate mai aproape de drum, pentru viraje mai precise.</p>
             </p>
         </div>
+        <div class="img-column"><img
+                src="/assets/img/focus_st/1214556047382.jpg"
+                alt="Electronic Power Assisted Steering"/><span class="fv-overlay-icon"></span></div>
     </article>
-    <article class="content-column right">
+    <article class="content-column left">
+        <div class="img-column"><img
+                src="/assets/img/focus_st/1214556047803.jpg"
+                alt="Electronic Transition Stability"/><span class="fv-overlay-icon"></span></div>
         <div class="content">
             <h3 class="bigHeading02">
-                Manevre si viraje fara efort
+                Sesizeaza vehiculele pe care le-ai putea rata
             </h3>
 
             <p>
 
-            <p>Sistemul de directie asistata electric (EPAS) se regleaza automat pentru a permite virarea mai simpla si
-                mai usoara la parcarea intr-un spatiu restrans si virarea mai ferma pentru mai mult control pe
-                autostrada.</p>
+            <p>Alerta la intersectarea cu traficul face parte din Sistemul de asistenta pentru unghiul mort. Cand iesi
+                cu spatele dintr-un loc de parcare si ai vizibilitate redusa asupra traficului, alerta la intersectarea
+                cu traficul poate detecta vehiculele care se apropie si poate emite un sunet de avertizare. Aceasta
+                tehnologie aprinde si o lumina in oglinda retrovizoare exterioara (stanga sau dreapta, in functie de
+                directia din care se apropie vehiculele).</p>
+            </p>
+        </div>
+    </article>
+    <article class="content-column right">
+        <div class="content">
+            <h3 class="bigHeading02">
+                Vede semnele de circulatie pe care le-ai putea rata
+            </h3>
+
+            <p>
+
+            <p>Indiferent daca semnele sunt pe marginea drumului sau deasupra acestuia, permanente sau temporare,
+                Sistemul de recunoastere a indicatoarelor rutiere le poate identifica. O pictograma cu viteza respectiva
+                sau un semn de interzicere a depasirii apare pe panoul de bord si se schimba de fiecare data cand
+                patrunzi intr-o zona cu o limita noua.</p>
             </p>
         </div>
         <div class="img-column"><img
-                    src="/assets/img/focus_st/1214556047382.jpg"
-                    alt="Electronic Power Assisted Steering"/><span class="fv-overlay-icon"></span></div>
+                src="/assets/img/focus_st/1214556050087.jpg"
+                alt="Mai mult control"/><span class="fv-overlay-icon"></span></div>
     </article>
     <article class="content-column left">
-        <div class="img-column"> <img
-                    src="/assets/img/focus_st/1214556047803.jpg"
-                    alt="Electronic Transition Stability"/><span class="fv-overlay-icon"></span></div>
+        <div class="img-column"><img
+                src="/assets/img/focus_st/1214556048976.jpg"
+                alt=" "/><span class="fv-overlay-icon"></span></div>
         <div class="content">
             <h3 class="bigHeading02">
-                Schimbati directia: pastrati controlul
+                Preia comanda cu tehnologia avansata hands-free cu SYNC 3
+            </h3>
+
+            <p>
+
+            <p>SYNC 3 este cea mai avansata versiune de pana acum. Este mai rapida si mai usor de utilizat, cu comenzi
+                vocale imbunatatite si mai multe functii. Noua interfata are butoane mai mari pentru o utilizare mai
+                facila, iar ecranul tactil colorat recunoaste acum gesturi de strangere si glisare specifice
+                smartphoneurilor si tabletelor pentru o navigare si mai intuitiva. SYNC 3 include, de asemenea,
+                aplicatiile AppLink, CarPlay si Android Auto*, pentru a afisa informatiile smartphoneului tau pe ecranul
+                tactil.</p>
+            </p>
+        </div>
+    </article>
+    <article class="content-column right">
+        <div class="content">
+            <h3 class="bigHeading02">
+                Directie servoasistata care reactioneaza la orice situatie
+            </h3>
+
+            <p>
+
+            <p>Directia servoasistata electric (EPAS) se ajusteaza automat la viteza de rulare si la conditiile de drum.
+                La viteze reduse, sistemul face ca rotirea volanului sa fie mai usoara, imbunatatind manevrabilitatea.
+                La viteze ridicate, cand ai nevoie de mai mult control , directia devine mai rigida. Acum, cu ajutorul
+                controlului asupra devierii de la cursul normal, EPAS ia de asemenea in calcul, vantul care bate din
+                fata si alte conditii de drum, in timp ce Controlul activ al vibratiilor reduce vibratiile nedorite,
+                resimtite la nivelul volanului.</p>
+            </p>
+        </div>
+        <div class="img-column"><img
+                src="/assets/img/focus_st/1214556049396.jpg"
+                alt="Ford SYNC 2 with Voice Control and Touchscreen"/><span class="fv-overlay-icon"></span>
+        </div>
+    </article>
+    <article class="content-column left">
+        <div class="img-column"><img
+                src="/assets/img/focus_st/1214556047887.jpg"
+                alt="Cross Traffic Alert"/><span class="fv-overlay-icon"></span></div>
+        <div class="content">
+            <h3 class="bigHeading02">
+                Schimba directia: pastreaza controlul
             </h3>
 
             <p>
@@ -367,80 +446,6 @@
                 programului avansat ESP in trei etape). Detectand stabilitatea vehiculului si comenzile soferului,
                 sistemul poate reactiona si poate raspunde pentru a te ajuta sa mentii precizia si controlul atunci cand
                 schimbi benzile sau depasesti.</p>
-            </p>
-        </div>
-    </article>
-    <article class="content-column right">
-        <div class="content">
-            <h3 class="bigHeading02">
-                Mai mult control si mai multa distractie in viraje
-            </h3>
-
-            <p>
-
-            <p>Prin echilibrarea cuplului motorului intre rotile din fata, pentru a se potrivi tipului de carosabil si
-                conditiilor de condus, Controlul electronic al vectorului de cuplu iti asigura aderenta, incredere si
-                manevrare precisa atunci cand accelerezi in timpul virajelor.</p>
-            </p>
-        </div>
-        <div class="img-column"> <img
-                    src="/assets/img/focus_st/1214556050087.jpg"
-                    alt="Mai mult control"/><span class="fv-overlay-icon"></span></div>
-    </article>
-    <article class="content-column left">
-        <div class="img-column"> <img
-                    src="/assets/img/focus_st/1214556048976.jpg"
-                    alt=" "/><span class="fv-overlay-icon"></span></div>
-        <div class="content">
-            <h3 class="bigHeading02">
-                Construit pentru a oferi putere
-            </h3>
-
-            <p>
-
-            <p>Noul Focus ST este disponibil cu un motor diesel capabil sa dezvolte pana la 185 CP cu un cuplu de 400 Nm
-                si un motor pe benzina cu 250 CP si cuplu de 345 Nm. Astfel, au fost proiectate special sisteme de
-                motorizare noi, pentru a livra aceasta putere fara nicio problema, asigurand tractiune exceptionala pe
-                rotile din fata, chiar si in conditii de accelerare puternica.</p>
-            </p>
-        </div>
-    </article>
-    <article class="content-column right">
-        <div class="content">
-            <h3 class="bigHeading02">
-                Cea mai recenta tehnologie hands-free
-            </h3>
-
-            <p>
-
-            <p>Ford SYNC 2 cu comanda vocala si ecran tactil este un sistem de informatii si divertisment avansat, care
-                include un ecran tactil color de 8&rdquo;, optional. Acest afisaj de inalta rezolutie iti ofera
-                controlul intuitiv asupra mai multor functii cheie, inclusiv telefon, sistem audio, climatizare si,
-                optional, navigatie, prin intermediul vocii sau al atingerii.</p>
-            </p>
-        </div>
-        <div class="img-column"> <img
-                    src="/assets/img/focus_st/1214556049396.jpg"
-                    alt="Ford SYNC 2 with Voice Control and Touchscreen"/><span class="fv-overlay-icon"></span>
-        </div>
-    </article>
-    <article class="content-column left">
-        <div class="img-column"> <img
-                    src="/assets/img/focus_st/1214556047887.jpg"
-                    alt="Cross Traffic Alert"/><span class="fv-overlay-icon"></span></div>
-        <div class="content">
-            <h3 class="bigHeading02">
-                Sesizeaza vehiculele pe care tu le-ai putea rata
-            </h3>
-
-            <p>
-
-            <p>Alerta la intersectarea cu traficul este o tehnologie in intregime noua, care face acum parte din
-                Sistemul de asistenta pentru unghiul mort (BLIS). Atunci cand iesi cu spatele dintr-un loc de parcare si
-                ai vizibilitate redusa asupra situatiei traficului, Alerta la intersectarea cu traficul poate detecta
-                vehicule care se apropie si poate emite un sunet de avertizare. Aceasta tehnologie declanseaza o lumina
-                pe oglinda retrovizoare exterioara (stanga sau dreapta, in functie de directia din care se apropie
-                vehiculele).</p>
             </p>
         </div>
     </article>
@@ -464,9 +469,9 @@
         </p>
     </header>
     <article class="content-column left">
-        <div class="img-column"> <img
-                    src="/assets/img/focus_st/1214556049060.jpg"
-                    alt="2.0-litre EcoBoost engine"/><span class="fv-overlay-icon"></span></div>
+        <div class="img-column"><img
+                src="/assets/img/focus_st/1214556049060.jpg"
+                alt="2.0-litre EcoBoost engine"/><span class="fv-overlay-icon"></span></div>
         <div class="content">
             <h3 class="bigHeading02">
                 Experienta EcoBoost
@@ -499,14 +504,14 @@
                 (50-75 mph) in doar 9,7 secunde.</p>
             </p>
         </div>
-        <div class="img-column"> <img
-                    src="/assets/img/focus_st/1214556051457.jpg"
-                    alt="Ford Focus ST Exterior"/><span class="fv-overlay-icon"></span></div>
+        <div class="img-column"><img
+                src="/assets/img/focus_st/1214556051457.jpg"
+                alt="Ford Focus ST Exterior"/><span class="fv-overlay-icon"></span></div>
     </article>
     <article class="content-column left">
-        <div class="img-column"> <img
-                    src="/assets/img/focus_st/1214556050275.jpg"
-                    alt="6 speed"/><span class="fv-overlay-icon"></span></div>
+        <div class="img-column"><img
+                src="/assets/img/focus_st/1214556050275.jpg"
+                alt="6 speed"/><span class="fv-overlay-icon"></span></div>
         <div class="content">
             <h3 class="bigHeading02">
                 Transmisie automata cu 6 trepte, optionala
@@ -526,8 +531,8 @@
     <article class='three-column'>
         <div class="content-block">
             <img
-                    src="/assets/img/focus_st/1214556047389.jpg"
-                    alt="Electronic Power Assisted Steering"/><span class="fv-overlay-icon"></span>
+                src="/assets/img/focus_st/1214556047389.jpg"
+                alt="Electronic Power Assisted Steering"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Un ajutor pentru a conduce mai eficient
@@ -544,8 +549,8 @@
         </div>
         <div class="content-block">
             <img
-                    src="/assets/img/focus_st/1214556048899.jpg"
-                    alt="Auto-Start-Stop"/><span class="fv-overlay-icon"></span>
+                src="/assets/img/focus_st/1214556048899.jpg"
+                alt="Auto-Start-Stop"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Folosesti mai putin combustibil cu functia Auto-Start-Stop
@@ -561,8 +566,8 @@
         </div>
         <div class="content-block last">
             <img
-                    src="/assets/img/focus_st/1214556049830.jpg"
-                    alt="6-speed manual gearbox"/><span class="fv-overlay-icon"></span>
+                src="/assets/img/focus_st/1214556049830.jpg"
+                alt="6-speed manual gearbox"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Accelerare prin toate treptele de viteza
@@ -581,9 +586,9 @@
     </article>
     <article class='three-column'>
         <div class="content-block">
-           <img
-                    src="/assets/img/focus_st/1214556048566.jpg"
-                    alt="Ford Eco Mode system"/><span class="fv-overlay-icon"></span>
+            <img
+                src="/assets/img/focus_st/1214556048566.jpg"
+                alt="Ford Eco Mode system"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Reincarca-ti bateria mai eficient
@@ -597,9 +602,9 @@
             </p>
         </div>
         <div class="content-block">
-           <img
-                    src="/assets/img/focus_st/1214556048734.jpg"
-                    alt="Active Grille Shutter"/><span class="fv-overlay-icon"></span>
+            <img
+                src="/assets/img/focus_st/1214556048734.jpg"
+                alt="Active Grille Shutter"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Aerodinamicitate mai buna pentru economie mai mare
@@ -615,8 +620,8 @@
         </div>
         <div class="content-block last">
             <img
-                    src="/assets/img/focus_st/1214556049918.jpg"
-                    alt="Shift Indicator"/><span class="fv-overlay-icon"></span>
+                src="/assets/img/focus_st/1214556049918.jpg"
+                alt="Shift Indicator"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Schimbari ale treptelor de viteza mai eficiente din punct de vedere al consumului de combustibil
@@ -650,8 +655,8 @@
     <article class='three-column'>
         <div class="content-block">
             <img
-                    src="/assets/img/focus_st/1214556049151.jpg"
-                    alt="New three-spoke steering wheel"/><span class="fv-overlay-icon"></span>
+                src="/assets/img/focus_st/1214556049151.jpg"
+                alt="New three-spoke steering wheel"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Un volan care iti pune totul la indemana
@@ -666,8 +671,8 @@
         </div>
         <div class="content-block">
             <img
-                    src="/assets/img/focus_st/1214556048146.jpg"
-                    alt="Storage Bin With USB"/><span class="fv-overlay-icon"></span>
+                src="/assets/img/focus_st/1214556048146.jpg"
+                alt="Storage Bin With USB"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Depozitare inteligenta pentru dispozitivele tale inteligente
@@ -681,9 +686,9 @@
             </p>
         </div>
         <div class="content-block last">
-           <img
-                    src="/assets/img/focus_st/1214556049742.jpg"
-                    alt="Ford Ford KeyFree System"/><span class="fv-overlay-icon"></span>
+            <img
+                src="/assets/img/focus_st/1214556049742.jpg"
+                alt="Ford Ford KeyFree System"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Sistemul Key-free inseamna mai putine griji
@@ -700,8 +705,8 @@
     <article class='three-column'>
         <div class="content-block">
             <img
-                    src="/assets/img/focus_st/1214556048314.jpg"
-                    alt="Ford Power Starter Button"/><span class="fv-overlay-icon"></span>
+                src="/assets/img/focus_st/1214556048314.jpg"
+                alt="Ford Power Starter Button"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Porneste masina prin simpla atingere a unui buton
@@ -716,8 +721,8 @@
         </div>
         <div class="content-block">
             <img
-                    src="/assets/img/focus_st/1214556050006.jpg"
-                    alt="Worry-free car sharing with MyKey"/><span class="fv-overlay-icon"></span>
+                src="/assets/img/focus_st/1214556050006.jpg"
+                alt="Worry-free car sharing with MyKey"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Utilizarea in comun a masinii, fara probleme, cu ajutorul caracteristicii MyKey<sup>®</sup>
@@ -734,8 +739,8 @@
         </div>
         <div class="content-block last">
             <img
-                    src="/assets/img/focus_st/1214556048230.jpg"
-                    alt="Rain sensing wipers"/><span class="fv-overlay-icon"></span>
+                src="/assets/img/focus_st/1214556048230.jpg"
+                alt="Rain sensing wipers"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Stergatoare care se regleaza automat, in functie de ploaie
@@ -753,8 +758,8 @@
     <article class='three-column'>
         <div class="content-block">
             <img
-                    src="/assets/img/focus_st/1214556047978.jpg"
-                    alt="Wing mirrors that can protect themselves"/><span class="fv-overlay-icon"></span>
+                src="/assets/img/focus_st/1214556047978.jpg"
+                alt="Wing mirrors that can protect themselves"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Oglinzi care se pot proteja singure
@@ -769,8 +774,8 @@
         </div>
         <div class="content-block">
             <img
-                    src="/assets/img/focus_st/1214556048062.jpg"
-                    alt="Ford Easy-Fuel, for foolproof filling-up"/><span class="fv-overlay-icon"></span>
+                src="/assets/img/focus_st/1214556048062.jpg"
+                alt="Ford Easy-Fuel, for foolproof filling-up"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Ford Easy-Fuel, pentru alimentari fara probleme
@@ -784,9 +789,9 @@
             </p>
         </div>
         <div class="content-block last">
-           <img
-                    src="/assets/img/focus_st/1214556048398.jpg"
-                    alt="Quick clear"/><span class="fv-overlay-icon"></span>
+            <img
+                src="/assets/img/focus_st/1214556048398.jpg"
+                alt="Quick clear"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
                 Curata parbrizul rapid cu Quickclear
@@ -803,264 +808,264 @@
 </div>
 <!--  tabTitle : SIGURANTA SI SECURITATE :: btfTabContent : 1205116177197 :: tabContent :  -->
 <div id='tab4' class="secondary-tab-content">
-    <header class="intro-header">
-        <h1 class="bigHeading">
-            SIGURANTA TA: INTOTDEAUNA PRIORITATEA NUMARUL UNU
-        </h1>
-        <span class="highlighter"></span>
+<header class="intro-header">
+    <h1 class="bigHeading">
+        SIGURANTA TA: INTOTDEAUNA PRIORITATEA NUMARUL UNU
+    </h1>
+    <span class="highlighter"></span>
 
-        <p class="intro-text">
+    <p class="intro-text">
 
-        <p>Performanta inalta cere un nivel ridicat de siguranta. Iar noul Focus ST este echipat cu o gama completa de
-            masuri avansate, pentru a-ti oferi protectie si siguranta.</p>
+    <p>Performanta inalta cere un nivel ridicat de siguranta. Iar noul Focus ST este echipat cu o gama completa de
+        masuri avansate, pentru a-ti oferi protectie si siguranta.</p>
+    </p>
+</header>
+<article class="content-column left">
+    <div class="img-column"><img
+            src="/assets/img/focus_st/1214556047467.jpg"
+            alt="Intelligent Protection System"/><span class="fv-overlay-icon"></span></div>
+    <div class="content">
+        <h3 class="bigHeading02">
+            Sistemele de siguranta coordonate se activeaza intr-o fractiune de secunda
+        </h3>
+
+        <p>
+
+        <p>Focus ST este echipat cu un sistem inteligent de protectie avansat (IPS), care coordoneaza o serie de
+            sisteme de siguranta pentru a-ti asigura protectie maxima tie si pasagerilor tai. Pe langa o caroserie
+            care absoarbe impactul, o serie de airbaguri ajuta la protejarea ocupantilor masinii. Coloana de
+            directie si pedalele sunt, de asemenea, concepute pentru a se retrage la distanta de sofer, ajutand la
+            reducerea riscului de accidentare in cazul unui accident.</p>
         </p>
-    </header>
-    <article class="content-column left">
-        <div class="img-column"> <img
-                    src="/assets/img/focus_st/1214556047467.jpg"
-                    alt="Intelligent Protection System"/><span class="fv-overlay-icon"></span></div>
-        <div class="content">
-            <h3 class="bigHeading02">
-                Sistemele de siguranta coordonate se activeaza intr-o fractiune de secunda
-            </h3>
+    </div>
+</article>
+<article class="content-column right">
+    <div class="content">
+        <h3 class="bigHeading02">
+            Comutator ESP
+        </h3>
 
-            <p>
+        <p>
 
-            <p>Focus ST este echipat cu un sistem inteligent de protectie avansat (IPS), care coordoneaza o serie de
-                sisteme de siguranta pentru a-ti asigura protectie maxima tie si pasagerilor tai. Pe langa o caroserie
-                care absoarbe impactul, o serie de airbaguri ajuta la protejarea ocupantilor masinii. Coloana de
-                directie si pedalele sunt, de asemenea, concepute pentru a se retrage la distanta de sofer, ajutand la
-                reducerea riscului de accidentare in cazul unui accident.</p>
-            </p>
-        </div>
-    </article>
-    <article class="content-column right">
-        <div class="content">
-            <h3 class="bigHeading02">
-                Comutator ESP
-            </h3>
+        <p>Poti comuta intre doua moduri ale sistemului ESP. Modul Sport iti ofera controlul total asupra cuplului
+            motorului, in timp ce interventiile franei ESP sunt reduse, pentru a permite un stil de condus mai
+            sportiv. Controlul tractiunii este, de asemenea, dezactivat, pentru a genera o invartire mai mare a
+            rotilor, pentru tractiune imbunatatita in situatii specifice, solicitante. ESP si Controlul tractiunii
+            pot fi dezactivate complet prin intermediul &bdquo;Modului Off (Dezactivat)&rdquo;.</p>
+        </p>
+    </div>
+    <div class="img-column"><img
+            src="/assets/img/focus_st/1214556049480.jpg"
+            alt="Electronic Stability Programme"/><span class="fv-overlay-icon"></span></div>
+</article>
+<article class="content-column left">
+    <div class="img-column"><img
+            src="/assets/img/focus_st/1214556047298.jpg"
+            alt="Anti-lock braking system"/><span class="fv-overlay-icon"></span></div>
+    <div class="content">
+        <h3 class="bigHeading02">
+            Sisteme avansate pentru o franare mai controlata
+        </h3>
 
-            <p>
+        <p>
 
-            <p>Poti comuta intre doua moduri ale sistemului ESP. Modul Sport iti ofera controlul total asupra cuplului
-                motorului, in timp ce interventiile franei ESP sunt reduse, pentru a permite un stil de condus mai
-                sportiv. Controlul tractiunii este, de asemenea, dezactivat, pentru a genera o invartire mai mare a
-                rotilor, pentru tractiune imbunatatita in situatii specifice, solicitante. ESP si Controlul tractiunii
-                pot fi dezactivate complet prin intermediul &bdquo;Modului Off (Dezactivat)&rdquo;.</p>
-            </p>
-        </div>
-        <div class="img-column"> <img
-                    src="/assets/img/focus_st/1214556049480.jpg"
-                    alt="Electronic Stability Programme"/><span class="fv-overlay-icon"></span></div>
-    </article>
-    <article class="content-column left">
-        <div class="img-column"> <img
-                    src="/assets/img/focus_st/1214556047298.jpg"
-                    alt="Anti-lock braking system"/><span class="fv-overlay-icon"></span></div>
-        <div class="content">
-            <h3 class="bigHeading02">
-                Sisteme avansate pentru o franare mai controlata
-            </h3>
+        <p>Un sistem de franare cu anti-blocare roti (ABS) rafinat si distributia electronica a fortei de franare
+            (EBD) conlucreaza pentru a asigura o franare mai bine controlata. Ansamblul franei a fost, de asemenea,
+            imbunatatit pentru a garanta reactii mai rapide.</p>
+        </p>
+    </div>
+</article>
+<article class="content-column right">
+    <div class="content">
+        <h3 class="bigHeading02">
+            Ajuta la un condus mai sigur in oras
+        </h3>
 
-            <p>
+        <p>
 
-            <p>Un sistem de franare cu anti-blocare roti (ABS) rafinat si distributia electronica a fortei de franare
-                (EBD) conlucreaza pentru a asigura o franare mai bine controlata. Ansamblul franei a fost, de asemenea,
-                imbunatatit pentru a garanta reactii mai rapide.</p>
-            </p>
-        </div>
-    </article>
-    <article class="content-column right">
-        <div class="content">
-            <h3 class="bigHeading02">
-                Ajuta la un condus mai sigur in oras
-            </h3>
+        <p>Accidentele in trafic la viteza mica, cu opriri si porniri frecvente, au loc mult prea des (mai ales pe
+            strazile aglomerate din orase). Sistemul de oprire activa in oras este conceput pentru a te ajuta sa le
+            eviti sau sa reduci impactul acestora. Daca sistemul detecteaza ca masina din fata incetineste brusc,
+            iar tu te deplasezi cu mai putin de 50 km/h, va actiona automat franele.</p>
+        </p>
+    </div>
+    <div class="img-column"><img
+            src="/assets/img/focus_st/1214556048475.jpg"
+            alt="Active City Stop"/><span class="fv-overlay-icon"></span></div>
+</article>
+<article class="content-column left">
+    <div class="img-column"><img
+            src="/assets/img/focus_st/1214556047719.jpg"
+            alt="Bi-Xenon Headlamps with Adaptive Lighting "/><span class="fv-overlay-icon"></span></div>
+    <div class="content">
+        <h3 class="bigHeading02">
+            Faruri bi-xenon cu consum redus de energie
+        </h3>
 
-            <p>
+        <p>
 
-            <p>Accidentele in trafic la viteza mica, cu opriri si porniri frecvente, au loc mult prea des (mai ales pe
-                strazile aglomerate din orase). Sistemul de oprire activa in oras este conceput pentru a te ajuta sa le
-                eviti sau sa reduci impactul acestora. Daca sistemul detecteaza ca masina din fata incetineste brusc,
-                iar tu te deplasezi cu mai putin de 50 km/h, va actiona automat franele.</p>
-            </p>
-        </div>
-        <div class="img-column"> <img
-                    src="/assets/img/focus_st/1214556048475.jpg"
-                    alt="Active City Stop"/><span class="fv-overlay-icon"></span></div>
-    </article>
-    <article class="content-column left">
-        <div class="img-column"> <img
-                    src="/assets/img/focus_st/1214556047719.jpg"
-                    alt="Bi-Xenon Headlamps with Adaptive Lighting "/><span class="fv-overlay-icon"></span></div>
-        <div class="content">
-            <h3 class="bigHeading02">
-                Faruri bi-xenon cu consum redus de energie
-            </h3>
+        <p>De la autostrazi la strazi din mediul urban, farurile bi-xenon cu iluminare adaptiva schimba automat
+            modelul de iluminare al fasciculului, oferind cea mai buna iluminare pentru o varietate de situatii de
+            condus. De asemenea, farurile isi reduc automat intensitatea luminii atunci cand este detectat un
+            vehicul care se apropie din sens opus.</p>
+        </p>
+    </div>
+</article>
+<article class="content-column right">
+    <div class="content">
+        <h3 class="bigHeading02">
+            Doua sisteme avansate care te ajuta sa iti pastrezi banda
+        </h3>
 
-            <p>
+        <p>
 
-            <p>De la autostrazi la strazi din mediul urban, farurile bi-xenon cu iluminare adaptiva schimba automat
-                modelul de iluminare al fasciculului, oferind cea mai buna iluminare pentru o varietate de situatii de
-                condus. De asemenea, farurile isi reduc automat intensitatea luminii atunci cand este detectat un
-                vehicul care se apropie din sens opus.</p>
-            </p>
-        </div>
-    </article>
-    <article class="content-column right">
-        <div class="content">
-            <h3 class="bigHeading02">
-                Doua sisteme avansate care te ajuta sa iti pastrezi banda
-            </h3>
+        <p>Sistemul de asistenta la pastrarea benzii iti va oferi asistenta sistemului de directie daca detecteaza
+            ca esti pe cale sa schimbi banda fara sa semnalizezi. Iar daca vehiculul se deplaseaza accidental catre
+            marcajele benzii, Sistemul de avertizare la parasirea benzii te avertizeaza printr-o vibratie a
+            volanului si prin afisarea unui semnal vizual pe afisajul de bord.</p>
+        </p>
+    </div>
+    <div class="img-column"><img
+            src="/assets/img/focus_st/1214556048643.jpg"
+            alt="Lane Keeping Aid"/><span class="fv-overlay-icon"></span></div>
+</article>
+<article class='two-column'>
+    <div class="content-block">
+        <img
+            src="/assets/img/focus_st/1214556049652.jpg"
+            alt="Hill Start Assist"/><span class="fv-overlay-icon"></span>
 
-            <p>
+        <h3 class="bigHeading02">
+            Un plus de control in cazul pornirilor in rampa
+        </h3>
 
-            <p>Sistemul de asistenta la pastrarea benzii iti va oferi asistenta sistemului de directie daca detecteaza
-                ca esti pe cale sa schimbi banda fara sa semnalizezi. Iar daca vehiculul se deplaseaza accidental catre
-                marcajele benzii, Sistemul de avertizare la parasirea benzii te avertizeaza printr-o vibratie a
-                volanului si prin afisarea unui semnal vizual pe afisajul de bord.</p>
-            </p>
-        </div>
-        <div class="img-column"> <img
-                    src="/assets/img/focus_st/1214556048643.jpg"
-                    alt="Lane Keeping Aid"/><span class="fv-overlay-icon"></span></div>
-    </article>
-    <article class='two-column'>
-        <div class="content-block">
-            <img
-                    src="/assets/img/focus_st/1214556049652.jpg"
-                    alt="Hill Start Assist"/><span class="fv-overlay-icon"></span>
+        <p>
 
-            <h3 class="bigHeading02">
-                Un plus de control in cazul pornirilor in rampa
-            </h3>
+        <p>Sistemul de asistenta la pornirea din rampa impiedica alunecarea in spate atunci cand pornesti din panta.
+            Sistemul functioneaza prin mentinerea presiunii la nivelul sistemului de fanare pentru un interval
+            suplimentar de 2,5 secunde, asigurandu-ti mai mult timp si control atunci cand muti piciorul de pe
+            pedala de frana pe cea de acceleratie.</p>
+        </p>
+    </div>
+    <div class="content-block last">
+        <img
+            src="/assets/img/focus_st/1214556049567.jpg"
+            alt="Driver Alert"/><span class="fv-overlay-icon"></span></a>
 
-            <p>
+        <h3 class="bigHeading02">
+            Sistemul de avertizare a soferului isi da seama cand esti obosit
+        </h3>
 
-            <p>Sistemul de asistenta la pornirea din rampa impiedica alunecarea in spate atunci cand pornesti din panta.
-                Sistemul functioneaza prin mentinerea presiunii la nivelul sistemului de fanare pentru un interval
-                suplimentar de 2,5 secunde, asigurandu-ti mai mult timp si control atunci cand muti piciorul de pe
-                pedala de frana pe cea de acceleratie.</p>
-            </p>
-        </div>
-        <div class="content-block last">
-            <img
-                    src="/assets/img/focus_st/1214556049567.jpg"
-                    alt="Driver Alert"/><span class="fv-overlay-icon"></span></a>
+        <p>
 
-            <h3 class="bigHeading02">
-                Sistemul de avertizare a soferului isi da seama cand esti obosit
-            </h3>
+        <p>Sistemul de avertizare a soferului monitorizeaza constant stilul personal de condus si detecteaza orice
+            variatie cauzata de oboseala soferului. Daca te simti obosit, pe afisaj apare o pictograma de
+            avertizare, care iti sugereaza sa faci o pauza.</p>
+        </p>
+    </div>
+</article>
+<article class='three-column'>
+    <div class="content-block">
+        <img
+            src="/assets/img/focus_st/1214556048817.jpg"
+            alt="Auto High Beam"/><span class="fv-overlay-icon"></span>
 
-            <p>
+        <h3 class="bigHeading02">
+            Faza lunga automata. Te ajuta sa vezi, fara a-i orbi pe ceilalti
+        </h3>
 
-            <p>Sistemul de avertizare a soferului monitorizeaza constant stilul personal de condus si detecteaza orice
-                variatie cauzata de oboseala soferului. Daca te simti obosit, pe afisaj apare o pictograma de
-                avertizare, care iti sugereaza sa faci o pauza.</p>
-            </p>
-        </div>
-    </article>
-    <article class='three-column'>
-        <div class="content-block">
-            <img
-                    src="/assets/img/focus_st/1214556048817.jpg"
-                    alt="Auto High Beam"/><span class="fv-overlay-icon"></span>
+        <p>
 
-            <h3 class="bigHeading02">
-                Faza lunga automata. Te ajuta sa vezi, fara a-i orbi pe ceilalti
-            </h3>
+        <p>Un ajutor util pentru condusul pe timp de noapte, Faza lunga automata se asigura ca te poti concentra
+            doar asupra drumului, deoarece sistemul activeaza si dezactiveaza automat faza lunga in timpul noptii,
+            in functie de iluminatul stradal, traficul din sens opus si traficul din fata.</p>
+        </p>
+    </div>
+    <div class="content-block">
+        <img
+            src="/assets/img/focus_st/1214556047642.jpg"
+            alt="Auto-dimming rear-view mirror"/><span class="fv-overlay-icon"></span>
 
-            <p>
+        <h3 class="bigHeading02">
+            O oglinda retrovizoare cu functie anti-orbire
+        </h3>
 
-            <p>Un ajutor util pentru condusul pe timp de noapte, Faza lunga automata se asigura ca te poti concentra
-                doar asupra drumului, deoarece sistemul activeaza si dezactiveaza automat faza lunga in timpul noptii,
-                in functie de iluminatul stradal, traficul din sens opus si traficul din fata.</p>
-            </p>
-        </div>
-        <div class="content-block">
-            <img
-                    src="/assets/img/focus_st/1214556047642.jpg"
-                    alt="Auto-dimming rear-view mirror"/><span class="fv-overlay-icon"></span>
+        <p>
 
-            <h3 class="bigHeading02">
-                O oglinda retrovizoare cu functie anti-orbire
-            </h3>
+        <p>Sofatul pe timp de noapte ar fi mai usor daca nu ai fi orbit in mod constant de farurile autovehiculelor
+            din spate. Oglinda retrovizoare heliomata inovatoare detecteaza automat reflexia farurilor din spate si
+            reduce stralucirea luminii reflectate.</p>
+        </p>
+    </div>
+    <div class="content-block last">
+        <img
+            src="/assets/img/focus_st/1214556047221.jpg"
+            alt="New Ford Focus"/><span class="fv-overlay-icon"></span>
 
-            <p>
+        <h3 class="bigHeading02">
+            Avertizare timpurie in cazul unei pene
+        </h3>
 
-            <p>Sofatul pe timp de noapte ar fi mai usor daca nu ai fi orbit in mod constant de farurile autovehiculelor
-                din spate. Oglinda retrovizoare heliomata inovatoare detecteaza automat reflexia farurilor din spate si
-                reduce stralucirea luminii reflectate.</p>
-            </p>
-        </div>
-        <div class="content-block last">
-            <img
-                    src="/assets/img/focus_st/1214556047221.jpg"
-                    alt="New Ford Focus"/><span class="fv-overlay-icon"></span>
+        <p>
 
-            <h3 class="bigHeading02">
-                Avertizare timpurie in cazul unei pene
-            </h3>
+        <p>Daca vreunul dintre pneuri incepe sa piarda presiune in timpul deplasarii, sistemul de monitorizare a
+            presiunii in pneuri (TPMS) te avertizeaza prin aprinderea unei pictograme pe panoul de bord, oferindu-ti
+            sansa sa opresti in siguranta si sa remediezi problema.</p>
+        </p>
+    </div>
+</article>
+<article class='three-column'>
+    <div class="content-block">
+        <img
+            src="/assets/img/focus_st/1214556047137.jpg"
+            alt="Blind Spot Information System"/><span class="fv-overlay-icon"></span>
 
-            <p>
+        <h3 class="bigHeading02">
+            Tehnologia care iti indica autovehiculele pe care nu le poti vedea
+        </h3>
 
-            <p>Daca vreunul dintre pneuri incepe sa piarda presiune in timpul deplasarii, sistemul de monitorizare a
-                presiunii in pneuri (TPMS) te avertizeaza prin aprinderea unei pictograme pe panoul de bord, oferindu-ti
-                sansa sa opresti in siguranta si sa remediezi problema.</p>
-            </p>
-        </div>
-    </article>
-    <article class='three-column'>
-        <div class="content-block">
-            <img
-                    src="/assets/img/focus_st/1214556047137.jpg"
-                    alt="Blind Spot Information System"/><span class="fv-overlay-icon"></span>
+        <p>
 
-            <h3 class="bigHeading02">
-                Tehnologia care iti indica autovehiculele pe care nu le poti vedea
-            </h3>
+        <p>Sistemul de asistenta pentru unghiul mort utilizeaza senzori radar pentru a identifica autovehiculele
+            care se pot afla in unghiul mort. Acestea sunt amplasate pe ambele parti ale masinii si te avertizeaza
+            in mod activ cu privire la situatii potential periculoase, prin intermediul unei lumini portocalii
+            afisate in mod vizibil in oglinda laterala.</p>
+        </p>
+    </div>
+    <div class="content-block">
+        <img
+            src="/assets/img/focus_st/1214556047558.jpg"
+            alt="Speed Limiter"/><span class="fv-overlay-icon"></span>
 
-            <p>
+        <h3 class="bigHeading02">
+            Seteaza propria limita de viteza, iar noul Focus ST o va respecta
+        </h3>
 
-            <p>Sistemul de asistenta pentru unghiul mort utilizeaza senzori radar pentru a identifica autovehiculele
-                care se pot afla in unghiul mort. Acestea sunt amplasate pe ambele parti ale masinii si te avertizeaza
-                in mod activ cu privire la situatii potential periculoase, prin intermediul unei lumini portocalii
-                afisate in mod vizibil in oglinda laterala.</p>
-            </p>
-        </div>
-        <div class="content-block">
-            <img
-                    src="/assets/img/focus_st/1214556047558.jpg"
-                    alt="Speed Limiter"/><span class="fv-overlay-icon"></span>
+        <p>
 
-            <h3 class="bigHeading02">
-                Seteaza propria limita de viteza, iar noul Focus ST o va respecta
-            </h3>
+        <p>Fiind integrat in cadrul tempomatului, dispozitivul de limitare a vitezei iti permite sa iti setezi
+            propria viteza maxima. Apoi, masina va respecta aceasta viteza, pentru ca tu sa te poti concentra
+            exclusiv asupra drumului. Atunci cand vrei sa maresti viteza, apasa pur si simplu pe pedala de
+            acceleratie pentru a dezactiva sistemul.</p>
+        </p>
+    </div>
+    <div class="content-block last">
+        <img
+            src="/assets/img/focus_st/1214556049319.jpg"
+            alt=" "/>
 
-            <p>
+        <h3 class="bigHeading02">
+            Sistem de reamintire pentru utilizarea centurii de siguranta, pentru un plus de siguranta
+        </h3>
 
-            <p>Fiind integrat in cadrul tempomatului, dispozitivul de limitare a vitezei iti permite sa iti setezi
-                propria viteza maxima. Apoi, masina va respecta aceasta viteza, pentru ca tu sa te poti concentra
-                exclusiv asupra drumului. Atunci cand vrei sa maresti viteza, apasa pur si simplu pe pedala de
-                acceleratie pentru a dezactiva sistemul.</p>
-            </p>
-        </div>
-        <div class="content-block last">
-            <img
-                src="/assets/img/focus_st/1214556049319.jpg"
-                alt=" "/>
+        <p>
 
-            <h3 class="bigHeading02">
-                Sistem de reamintire pentru utilizarea centurii de siguranta, pentru un plus de siguranta
-            </h3>
-
-            <p>
-
-            <p>Aceasta functie te ajuta sa garantezi siguranta si protectia pasagerilor in timp ce va deplasati cu
-                autovehiculul. In cazul in care unul dintre pasageri nu si-a fixat centura de siguranta, sistemul
-                declanseaza alertele sonore si vizuale.</p>
-            </p>
-        </div>
-    </article>
+        <p>Aceasta functie te ajuta sa garantezi siguranta si protectia pasagerilor in timp ce va deplasati cu
+            autovehiculul. In cazul in care unul dintre pasageri nu si-a fixat centura de siguranta, sistemul
+            declanseaza alertele sonore si vizuale.</p>
+        </p>
+    </div>
+</article>
 </div>
 <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
 <!-- BEGIN [MidPageTabs] -->

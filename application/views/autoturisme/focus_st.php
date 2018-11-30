@@ -1,4 +1,3 @@
-
 <script type="text/javascript">
     // mobile sniffer
     ForceRedirectUserAgents = 'android,iphone,blackberry';
@@ -55,7 +54,7 @@
                 {"linkTitle": "DESCARC\u0102 BRO\u015EUR\u0102 ", "linkURL": "\/SBE\/BrosuriSiPreturi", "linkType": "primary", "linkTarget": "_blank", "omid": "va"},
                 {"linkTitle": "\u00CENSCRIE-TE LA TEST DRIVE ", "linkURL": "\/SBE\/TestDrive\/TestDriveAutoturisme?shopcode=AUTHORED&derivcode=AUTHORED", "linkType": "tertiary", "linkTarget": "_blank", "omid": "tr"},
                 {"linkTitle": "VREAU SĂ FIU INFORMAT(Ă) ", "linkURL": "/SBE/VreauSaFiuInformata", "linkType": "tertiary", "linkTarget": "", "omid": "tr"}
-            ], "social": {"facebook": "https://facebook.com", "facebookPage": "fordromania"}, "disclaimer": "Modelul prezentat este un Focus ST", "seriesCode": "AUTHORED", "uscCode": "AUTHORED", "presId": "1205035165459", "promos": [], "idf": {"options": []}}
+            ], "social": {"facebook": "https://facebook.com", "facebookPage": "fordromania"}, "disclaimer": "Imagini cu titlu de prezentare; pot include caracteristici sau dotari optionale indisponibile pe piata locala.", "seriesCode": "AUTHORED", "uscCode": "AUTHORED", "presId": "1205035165459", "promos": [], "idf": {"options": []}}
         ]} || {};
         var retrieveUserOptions = JSON.parse(localStorage.getItem('userSelection')) || {};
         //FranciB: injecting and changing user selected angle image trigger by mid page tabs and on page reload.
@@ -85,15 +84,10 @@
                 <div class="name-plate-text">
                     <p class="intro"></p>
 
-                    <h1 class="bigHeading">
-                        <span data-selenium="XA_namePlate" itemprop="member" class="nameplate boldTxt">Focus ST</span>
-                        <span data-selenium="XA_model" itemprop="model" itemscope
-                              itemtype="http://schema.org/Organization" class="mark">Ford</span>
-                        <!--The price -->
-                    </h1>
+
                     <!--The blurb -->
                     <p class="blurb">
-                        Experienta Focus&hellip; imbunatatita.
+
                     </p>
                 </div>
             </div>
@@ -302,59 +296,91 @@
 
                                     <p class="intro-text">
 
-                                    <p>Performanta testata pe pista si eficienta remarcabila, tehnologie avansata si
-                                        design de ultima ora: noul Focus ST iti ofera toate acestea intr-un singur
-                                        pachet senzational. <br>
-                                        <br>
-                                        Cu un exterior restilizat si sculptat in mod exceptional si cu o cabina mai
-                                        eficienta si mai sofisticata, acesta este cel mai rafinat Focus ST fabricat
-                                        vreodata. <br>
-                                        <br>
-                                        Acest model din noua generatie integreaza o gama larga de tehnologii
-                                        remarcabile. De exemplu, Ford SYNC 2 cu comanda vocala si ecran tactil de 8&rdquo;
-                                        iti permite sa controlezi sistemele de navigatie, divertisment si climatizare
-                                        ale masinii, cu ajutorul vocii sau al atingerilor. <br>
-                                        <br>
-                                        O gama larga de motoare de ultima generatie iti ofera o combinatie bine
-                                        echilibrata de putere si economie de combustibil, incluzand un motor pe benzina
-                                        de 2,0 litri si 250 CP si, pentru prima data pe un Focus ST, un puternic motor
-                                        diesel de 185 CP.</p>
+                                    <p>Design ce amplifica performanta </p>
                                     </p>
                                 </header>
                                 <article class="content-column left">
-                                    <div class="img-column"> <img
-                                                src="/assets/img/focus_st/1214556045300.jpg"
-                                                alt=" "/><span class="fv-overlay-icon"></span></div>
+                                    <div class="img-column"><img
+                                            src="/assets/img/focus_st/1214556045300.jpg"
+                                            alt=" "/><span class="fv-overlay-icon"></span></div>
                                     <div class="content">
                                         <h3 class="bigHeading02">
+                                            Control maxim in viraje
                                         </h3>
 
                                         <p>
 
-                                        <p>Acest model de ultima generatie incorporeaza o gama ampla de tehnologii
-                                            remarcabile. Spre exemplu, Sistemul Ford SYNC cu comanda vocala si ecran
-                                            tactil iti permite sa controlezi sistemele de navigatie, de divertisment si
-                                            pe cel de climatizare fie prin comenzi vocale fie prin comenzi pe ecran.</p>
+                                        <p>Controlul vectorului de cuplu de torsiune culege informatii privind suprafata
+                                            de rulare de 100 de ori pe secunda. (Aceasta inseamna de 33 ori mai repede
+                                            decat o clipire din ochi.) Cu ajutorul acestor informatii, sistemul
+                                            echilibreaza puterea transmisa la nivelul fiecareia dintre cele doua roti
+                                            din fata. Acest lucru maximizeaza aderenta si imbunatateste
+                                            manevrabilitatea, ajutandu-te sa parcurgi virajele, in zonele serpuite ale
+                                            drumului.</p>
                                         </p>
                                     </div>
                                 </article>
                                 <article class="content-column right">
                                     <div class="content">
                                         <h3 class="bigHeading02">
+                                            Te ajuta sa vezi, fara a-i orbi pe ceilalti soferi
                                         </h3>
 
                                         <p>
 
-                                        <p>O gama de motoare de inalta performanta furnizeaza echilibrul perfect intre
-                                            putere si consum redus; printre ele se numara o versiune pe benzina, de 2,0
-                                            litri si 250 de cai putere, dar si o motorizare diesel (disponibila pentru
-                                            intaia oara pe Focus ST) care furnizeaza 185 CP.</p>
+                                        <p>O functie utila pentru deplasarile pe timp de noapte, faza lunga automata,
+                                            comuta temporar la faza scurta atunci cand detecteaza trafic din sens opus
+                                            sau un alt autovehicul in fata, pentru a nu-i orbi pe ceilalti soferi. Apoi,
+                                            sistemul revine automat la faza lunga, asigurand vizibilitate maxima.</p>
                                         </p>
                                     </div>
-                                    <div class="img-column"> <img
-                                                src="/assets/img/focus_st/1214556045402.jpg"
-                                                alt=" "/><span class="fv-overlay-icon"></span></div>
+                                    <div class="img-column"><img
+                                            src="/assets/img/focus_st/1214556045402.jpg"
+                                            alt=" "/><span class="fv-overlay-icon"></span></div>
                                 </article>
+
+                                <article class="content-column left">
+                                    <div class="img-column"><img
+                                            src="/assets/img/focus_st/12145560300.jpg"
+                                            alt=" "/><span class="fv-overlay-icon"></span></div>
+                                    <div class="content">
+                                        <h3 class="bigHeading02">
+                                            Experienta EcoBoost
+                                        </h3>
+
+                                        <p>
+
+                                        <p>Turbocompresor, tehnologie de sincronizare variabila independenta a camelor
+                                            duble, injectie directa de combustibil de inalta presiune: motorul EcoBoost
+                                            de 2,0 litri si 250 CP le utilizeaza pe toate pentru a ajunge (la modelul cu
+                                            5 usi) de la 0 la 100 km/h in doar 6,5 secunde si pentru a atinge o viteza
+                                            maxima de 248 km/h (limitata). Acest motor din aluminiu usor reactioneaza
+                                            excelent la comenzi si este exceptional de eficient, oferind accelerare
+                                            rapida prin treptele de viteza si un cuplu maxim disponibil de la doar 2.000
+                                            rpm.</p>
+                                        </p>
+                                    </div>
+                                </article>
+                                <article class="content-column right">
+                                    <div class="content">
+                                        <h3 class="bigHeading02">
+                                            Evita coliziunile la viteze reduse
+                                        </h3>
+
+                                        <p>
+
+                                        <p>Tehnologia inovatoare „Oprire activa in oras” il ajuta pe sofer sa evite
+                                            coliziunile in trafic lent si la viteze de pana la 50 km/h. Asistenta este
+                                            oferita continuu, sistemul masurand distanta pana la vehiculul din fata,
+                                            cand acesta se afla in apropiere. Daca sistemul detecteaza ca vehiculul din
+                                            fata a incetinit in mod neasteptat, va actiona franele automat.</p>
+                                        </p>
+                                    </div>
+                                    <div class="img-column"><img
+                                            src="/assets/img/focus_st/12145545402.jpg"
+                                            alt=" "/><span class="fv-overlay-icon"></span></div>
+                                </article>
+
                             </div>
                             <!--  tabTitle :  :: btfTabContent :  :: tabContent :  -->
                             <!-- BEGIN [MidPageTabs] -->

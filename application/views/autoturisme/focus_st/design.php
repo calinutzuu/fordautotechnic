@@ -50,7 +50,7 @@
                 {"linkTitle": "DESCARC\u0102 BRO\u015EUR\u0102 ", "linkURL": "\/SBE\/BrosuriSiPreturi", "linkType": "primary", "linkTarget": "_blank", "omid": "va"},
                 {"linkTitle": "\u00CENSCRIE-TE LA TEST DRIVE ", "linkURL": "\/SBE\/TestDrive\/TestDriveAutoturisme?shopcode=AUTHORED&derivcode=AUTHORED", "linkType": "tertiary", "linkTarget": "_blank", "omid": "tr"},
                 {"linkTitle": "VREAU SĂ FIU INFORMAT(Ă) ", "linkURL": "/SBE/VreauSaFiuInformata", "linkType": "tertiary", "linkTarget": "", "omid": "tr"}
-            ], "social": {"facebook": "https://facebook.com", "facebookPage": "fordromania"}, "disclaimer": "Modelul prezentat este un Focus ST", "seriesCode": "AUTHORED", "uscCode": "AUTHORED", "presId": "1205035165459", "promos": [], "idf": {"options": []}}
+            ], "social": {"facebook": "https://facebook.com", "facebookPage": "fordromania"}, "disclaimer": "Imagini cu titlu de prezentare; pot include caracteristici sau dotari optionale indisponibile pe piata locala.", "seriesCode": "AUTHORED", "uscCode": "AUTHORED", "presId": "1205035165459", "promos": [], "idf": {"options": []}}
         ]} || {};
         var retrieveUserOptions = JSON.parse(localStorage.getItem('userSelection')) || {};
         //FranciB: injecting and changing user selected angle image trigger by mid page tabs and on page reload.
@@ -80,15 +80,10 @@
                 <div class="name-plate-text">
                     <p class="intro"></p>
 
-                    <h1 class="bigHeading">
-                        <span data-selenium="XA_namePlate" itemprop="member" class="nameplate boldTxt">Focus ST</span>
-                        <span data-selenium="XA_model" itemprop="model" itemscope
-                              itemtype="http://schema.org/Organization" class="mark">Ford</span>
-                        <!--The price -->
-                    </h1>
+
                     <!--The blurb -->
                     <p class="blurb">
-                        Experienta Focus&hellip; imbunatatita.
+
                     </p>
                 </div>
             </div>
@@ -308,11 +303,7 @@
 
         <p class="intro-text">
 
-        <p>Profilul lat si aerodinamic al noului Focus ST, impreuna cu stilul sau indraznet, exprima in mod clar
-            intentiile acestui model. Caracteristicile precum capota sculptata dinamic, farurile inguste si teava de
-            esapament dubla, hexagonala, pozitionata central, creeaza un aspect de neconfundat. Designul inteligent,
-            influentat de masinile de curse sporeste, de asemenea, performanta, aerodinamica, forta de apasare si
-            aderenta masinii.</p>
+        <p></p>
         </p>
     </header>
     <article class='three-column'>
@@ -326,7 +317,7 @@
 
             <p>
 
-            <p>Focus ST exterior in culoarea Tangerine Scream</p>
+            <p>Aspectul ST inconfundabil.</p>
             </p>
         </div>
         <div class="content-block">
@@ -339,7 +330,7 @@
 
             <p>
 
-            <p>Focus ST diesel</p>
+            <p>Eficienta optimizata.</p>
             </p>
         </div>
         <div class="content-block last">
@@ -352,7 +343,7 @@
 
             <p>
 
-            <p>Focus ST diesel si benzina</p>
+            <p>Atitudine mareata, imbratisand drumul.</p>
             </p>
         </div>
     </article>
@@ -367,7 +358,7 @@
 
             <p>
 
-            <p>Focus ST exterior in culoarea Tangerine Scream</p>
+            <p>O imagine puternica, sofisticata.</p>
             </p>
         </div>
         <div class="content-block">
@@ -380,7 +371,7 @@
 
             <p>
 
-            <p>Focus ST exterior in culoarea Frozen White</p>
+            <p>Impunator pe orice fundal.</p>
             </p>
         </div>
         <div class="content-block last">
@@ -393,7 +384,7 @@
 
             <p>
 
-            <p>Focus ST wagon, exterior in culoarea Stealth</p>
+            <p>Design inteligent, inspirat de masinile de curse.</p>
             </p>
         </div>
     </article>
@@ -408,7 +399,7 @@
 
             <p>
 
-            <p>Focus ST in culoarea Race Red</p>
+            <p>Faruri super-inguste, ultra-stralucitoare. </p>
             </p>
         </div>
         <div class="content-block">
@@ -420,7 +411,7 @@
             </h3>
 
             <p>
-                Focus ST exterior in culoarea Tangerine Scream
+                Forta de apasare si aderenta maxima, dupa design.
             </p>
         </div>
         <div class="content-block last">
@@ -433,30 +424,51 @@
 
             <p>
 
-            <p>Focus ST exterior in culoarea Tangerine Scream</p>
+            <p>Spoiler spate si teava de esapament dubla.</p>
             </p>
         </div>
     </article>
+    <article class='three-column'>
+        <div class="content-block">
+            <img
+                src="/assets/img/focus_st/12556053843.jpg"
+                alt=" "/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+            </h3>
+
+            <p>
+
+            <p>Linii si detalii aerodinamice, indraznete.  </p>
+            </p>
+        </div>
+        <div class="content-block">
+            <img
+                src="/assets/img/focus_st/1216053248.jpg"
+                alt=" "/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+            </h3>
+
+            <p>
+                Jante impresionante, inspirate de cele ale masinilor sportive.
+            </p>
+        </div>
+
+    </article>
+
 </div>
 <!--  tabTitle : INTERIOR :: btfTabContent : 1205116173847 :: tabContent :  -->
 <div id='tab2' class="secondary-tab-content">
     <header class="intro-header">
         <h1 class="bigHeading">
-            TOATE TEHNOLOGIILE LA COMANDA TA
+            Interior
         </h1>
         <span class="highlighter"></span>
 
         <p class="intro-text">
 
-        <p>Intra in cabina si, in timp ce te asezi confortabil in scaunul sport Recaro cu design ergonomic (cu suporturi
-            laterale optionale) si puni mainile pe volanul cu baza plata, te vei simti imediat conectat. <br>
-            <br>
-            O dispunere inteligenta a lucrurilor iti pune la indemana comenzile si caracteristicile principale, in mod
-            intuitiv. Iar pedalele special proiectate fac ca puterea exceptionala a noului ST sa iti stea efectiv la
-            picioare. <br>
-            <br>
-            Un grup suplimentar de trei indicatoare de bord &ndash; o marca ST &ndash; este plasat pe consola de bord si
-            afiseaza informatii despre presiunea turbocompresorului, temperatura si presiunea uleiului.</p>
+        <p></p>
         </p>
     </header>
     <article class='three-column'>
@@ -470,7 +482,7 @@
 
             <p>
 
-            <p>Focus ST Habitaclu</p>
+            <p>Fiecare comanda se afla la indemana, intuitiv. </p>
             </p>
         </div>
         <div class="content-block">
@@ -483,7 +495,7 @@
 
             <p>
 
-            <p>Focus ST Volan si consola centrala</p>
+            <p>Scaune Recaro, concepute ergonomic.</p>
             </p>
         </div>
         <div class="content-block last">
@@ -496,7 +508,49 @@
 
             <p>
 
-            <p>Focus ST Pedale</p>
+            <p>Pedale si curele pentru pedale, concepute special.</p>
+            </p>
+        </div>
+    </article>
+
+    <article class='three-column'>
+        <div class="content-block">
+            <img
+                src="/assets/img/focus_st/12145052909.jpg"
+                alt="Ford Focus ST Interior"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+            </h3>
+
+            <p>
+
+            <p>Rafinament ultra-modern.</p>
+            </p>
+        </div>
+        <div class="content-block">
+            <img
+                src="/assets/img/focus_st/1556053503.jpg"
+                alt="Ford Focus ST Interior"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+            </h3>
+
+            <p>
+
+            <p>Functii si instrumente de masura, acolo unde ai nevoie de ele.</p>
+            </p>
+        </div>
+        <div class="content-block last">
+            <img
+                src="/assets/img/focus_st/12145052305.jpg"
+                alt="Ford Focus ST Interior"/><span class="fv-overlay-icon"></span>
+
+            <h3 class="bigHeading02">
+            </h3>
+
+            <p>
+
+            <p>Pedale si curele pentru pedale, concepute special.</p>
             </p>
         </div>
     </article>
