@@ -80,12 +80,7 @@
                 <div class="name-plate-text">
                     <p class="intro"></p>
 
-                    <h1 class="bigHeading">
-                        <span data-selenium="XA_namePlate" itemprop="member" class="nameplate boldTxt">Focus ST</span>
-                        <span data-selenium="XA_model" itemprop="model" itemscope
-                              itemtype="http://schema.org/Organization" class="mark">Ford</span>
-                        <!--The price -->
-                    </h1>
+
                     <!--The blurb -->
                     <p class="blurb">
                         Experienta Focus&hellip; imbunatatita.
