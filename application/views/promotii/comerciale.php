@@ -26,7 +26,7 @@
         <section class="mid-page-content">
             <div class="tab-content">
 
-         <article class="content-column centered">
+      <!--   <article class="content-column centered">
                     <div class="img-column">
                             <img
                                 src="/assets/img/1214657252419.jpg"
@@ -51,7 +51,7 @@
                             alt="Business Weeks "/><span class="fv-overlay-icon">
                         </p>
                     </div>
-                </article>
+                </article>  -->
 
                 <!--       <article class="content-column centered">
                            <div class="content centered">
