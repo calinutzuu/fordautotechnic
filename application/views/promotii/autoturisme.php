@@ -66,7 +66,7 @@
     </div>
 </article>  -->
 
-<article class="content-column left">
+<!--<article class="content-column left">
     <div class="img-column"><img
             src="/assets/img/rabla18_1.jpg"
             alt="Ford Fiesta Active "/><span class="fv-overlay-icon"></span></div>
@@ -96,7 +96,7 @@
             alt="Ford Fiesta Active "/><span class="fv-overlay-icon">
         </p>
     </div>
-</article>
+</article> -->
 <!-- <article class="content-column left">
      <div class="img-column"><img
              src="/assets/img/1214657762922.jpg"
