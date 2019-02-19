@@ -109,7 +109,7 @@
                             <br>
                             Tel: 0743 158 044
                             <br>
-                            Email: <a href="mailto:crcro@ford.com">adi.brezeanu@fordautotechnic.ro</a>
+                            Email: <a href="mailto:crcro@ford.com">adrian.brezeanu@fordautotechnic.ro</a>
                             <br>
                         </blockquote>
                         <blockquote><strong> GARANTII </strong><br>
