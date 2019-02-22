@@ -5,7 +5,7 @@
 <!--Rendering the Image Panel-->
 
 <article role="option">
-    <a class="carImg" href="#img1"><img src="/assets/img/vehicule_comercial_19"
+    <a class="carImg" href="#img1"><img src="/assets/img/vehicule_comercial_19.jpg"
                                         alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt; &lt;/span&gt;&lt;/span&gt;"
                                         role="presentation"></a>
 
