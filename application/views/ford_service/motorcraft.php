@@ -507,7 +507,7 @@
                 <div class='BTIarticleText'>
                     <div><h2><font size="2">Ford Service</font></h2><br><span
                             style="color: rgb(0,0,128)">&nbsp; <strong><span
-                                    style="font-size: x-large">349 lei</span></strong><strong><span
+                                    style="font-size: x-large">379 lei</span></strong><strong><span
                                     style="font-size: x-large">&nbsp;</span></strong></span><br><br><br><br><a
                             HREF="/FordService/Motorcraft/Service">&gt; Ford Service</a></div>
                 </div>

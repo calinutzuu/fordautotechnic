@@ -428,7 +428,7 @@
                     <div class="BTIImage">
                         <div class="imgNonZoom">
                             <img
-                                src="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214565085206&amp;blobkey=id"
+                                src="/assets/img/service/1214565085206.jpg"
                                 border="0" width="97"
                                 height="97"
                                 alt="Ford Batteries"
@@ -510,20 +510,20 @@
                                     </tr>
                                     <tr class="CusTab-dark">
                                         <td style="vertical-align: top; text-align: center;" class="CusTab-dark-left">Schimb baterie</td>
-                                        <td style="vertical-align: top;"><span style="font-size: large;">327 lei </span><br></td>
-                                        <td style="vertical-align: top;"><span style="font-size: large;">425 lei </span><br> <br>
+                                        <td style="vertical-align: top;"><span style="font-size: large;">339 lei </span><br></td>
+                                        <td style="vertical-align: top;"><span style="font-size: large;">440 lei </span><br> <br>
 
                                             <div></div>
                                         </td>
-                                        <td style="vertical-align: top;"><span style="font-size: large;">586 lei </span><br> <br>
+                                        <td style="vertical-align: top;"><span style="font-size: large;">604 lei </span><br> <br>
 
                                             <div></div>
                                         </td>
-                                        <td style="vertical-align: top;"><span style="font-size: large;">452 lei </span><br> <br>
+                                        <td style="vertical-align: top;"><span style="font-size: large;">461 lei </span><br> <br>
 
                                             <div></div>
                                         </td>
-                                        <td style="vertical-align: top;"><span style="font-size: large;">463 lei </span>
+                                        <td style="vertical-align: top;"><span style="font-size: large;">475 lei </span>
 
                                             <div></div>
                                         </td>
@@ -542,14 +542,18 @@
                     <div class='BTIarticleBody'>
                         <div class='BTIarticleText'>
                             <div><em>
+
+
                                     Imaginile si informatiile prezentate pe acest site sunt oferite cu titlu informativ. Este posibil ca imaginile sa nu infatiseze exclusiv specificatii disponibile in Europa si/sau in Romania. Culorile pot diferi, in realitate, in functie de ecranul calculatorului sau dispozitivului mobil. Anumite accesorii si/sau optionale pot fi disponibile contra cost.
 
                                     Politica Ford este una de dezvoltare continua a produselor. Ne rezervam dreptul de a modifica, in orice moment, specificatiile, culorile, modelele si elementele ilustrate si descrise pe acest site, cu respectarea prevederilor legale.
-                                    <br><br>
+
                                     [*]
 
-                                    Toate prețurile afișate în această ofertă sunt prețuri recomandate în lei, conțin TVA conform legislației în vigoare și includ prețul manoperei. Oferta nu include componentele tehnologice. Oferta NU SE APLICA autovehiculelor utilitare echipate cu roți duble spate. De asemenea, această ofertă este supusă termenilor și condițiilor afișate, este valabilă în limita stocului disponibil și se poate modifica în funcție de seria de sasiu. Alte detalii aferente ofertei sunt disponibile în paginile de promoție detaliate pe ford.ro și în rețeaua de reparatori autorizați Ford.
-                                    Perioada derulării acestei campanii: 15 August 2018 – 31 Decembrie 2018
+                                    Toate prețurile afișate în această ofertă sunt prețuri recomandate și conțin TVA conform legislației în vigoare. Pretul afișat mai sus nu conține taxa de 10% (taxa de depozit) pentru returnarea bateriei vechi (uzată) la schimb, conform legislației în vigoare.
+
+                                    De asemenea, această ofertă este supusă termenilor și condițiilor afișate, este valabilă în limita stocului disponibil și se poate modifica în funcție de specificațiile autovehiculului și seria de sasiu. Alte detalii aferente ofertei sunt disponibile în paginile de promoție detaliate pe ford.ro și în rețeaua de reparatori autorizați Ford.
+                                    Campanie valabila pana la data de 28 februarie 2019.
                                 </em></div>
                         </div>
                     </div>

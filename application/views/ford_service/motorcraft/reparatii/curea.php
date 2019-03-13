@@ -512,26 +512,30 @@
                                             <td class="CusTab-dark-left">Kit distributie benzina (inclusiv curea
                                                 accesorii)
                                             </td>
-                                            <td><span style="font-size: large">1.096 lei <br>             </span></td>
-                                            <td><span style="font-size: large">1.099 lei <br>             </span></td>
-                                            <td><span style="font-size: large">1.099 lei <br>             </span></td>
+                                            <td><span style="font-size: large">1.170 lei <br>             </span></td>
+                                            <td><span style="font-size: large">1.175 lei <br>             </span></td>
+                                            <td><span style="font-size: large">1.175 lei <br>             </span></td>
                                         </tr>
                                         <tr class="CusTab-light">
                                             <td class="CusTab-dark-left">Kit distributie diesel, cu pompa de apa</td>
-                                            <td><span style="font-size: large">1.195 lei <br>             </span></td>
-                                            <td><span style="font-size: large">1.362 lei <br>             </span></td>
-                                            <td><span style="font-size: large">1.420 lei <br>             </span></td>
+                                            <td><span style="font-size: large">1.270 lei <br>             </span></td>
+                                            <td><span style="font-size: large">1.460 lei <br>             </span></td>
+                                            <td><span style="font-size: large">1.510 lei <br>             </span></td>
                                         </tr>
                                         </tbody>
                                     </table>
-                                    <div><br> <br> <em>Imaginile si informatiile prezentate pe acest site sunt oferite cu titlu informativ. Este posibil ca imaginile sa nu infatiseze exclusiv specificatii disponibile in Europa si/sau in Romania. Culorile pot diferi, in realitate, in functie de ecranul calculatorului sau dispozitivului mobil. Anumite accesorii si/sau optionale pot fi disponibile contra cost.
+                                    <div><br> <br> <em>
+
+                                            Imaginile si informatiile prezentate pe acest site sunt oferite cu titlu informativ. Este posibil ca imaginile sa nu infatiseze exclusiv specificatii disponibile in Europa si/sau in Romania. Culorile pot diferi, in realitate, in functie de ecranul calculatorului sau dispozitivului mobil. Anumite accesorii si/sau optionale pot fi disponibile contra cost.
 
                                             Politica Ford este una de dezvoltare continua a produselor. Ne rezervam dreptul de a modifica, in orice moment, specificatiile, culorile, modelele si elementele ilustrate si descrise pe acest site, cu respectarea prevederilor legale.
-                                            <br><br>
+
                                             [*]
 
-                                            Toate prețurile afișate în această ofertă sunt prețuri recomandate în lei, conțin TVA conform legislației în vigoare și includ prețul manoperei. Oferta nu include componentele tehnologice. Oferta NU SE APLICA autovehiculelor utilitare echipate cu roți duble spate. De asemenea, această ofertă este supusă termenilor și condițiilor afișate, este valabilă în limita stocului disponibil și se poate modifica în funcție de seria de sasiu. Alte detalii aferente ofertei sunt disponibile în paginile de promoție detaliate pe ford.ro și în rețeaua de reparatori autorizați Ford.
-                                            Perioada derulării acestei campanii: 15 August 2018 – 31 Decembrie 2018</em></div>
+                                            Toate prețurile afișate în această ofertă sunt prețuri recomandate în lei, conțin TVA conform legislației în vigoare și includ prețul manoperei. Oferta nu include componentele tehnologice. Campania NU SE APLICĂ motorizărilor 1.8 diesel și 1.0 benzină. Această ofertă este supusă termenilor și condițiilor afisate și este valabilă în limita stocului disponibil. De asemenea, oferta se poate modifica în funcție de seria de sasiu. Alte detalii aferente ofertei sunt disponibile în paginile de promoție detaliate pe ford.ro și în rețeaua de reparatori autorizați Ford.
+                                            Campanie valabila pana la data de 28 februarie 2019.
+
+                                        </em></div>
                                 </div>
                             </div>
                         </div>

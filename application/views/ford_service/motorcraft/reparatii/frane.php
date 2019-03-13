@@ -531,25 +531,25 @@
                         </tr>
                         <tr class="CusTab-dark">
                             <td class="CusTab-dark-left">Inlocuire set placute de fr&acirc;na fata</td>
-                            <td><span style="font-size: large">290 lei <br>             </span></td>
-                            <td><span style="font-size: large">320 lei <br>             </span></td>
-                            <td><span style="font-size: large">350 lei <br>             </span></td>
-                            <td><span style="font-size: large">285 lei<br>             </span></td>
-                            <td><span style="font-size: large">327 lei <br>             </span></td>
+                            <td><span style="font-size: large">311 lei <br>             </span></td>
+                            <td><span style="font-size: large">341 lei <br>             </span></td>
+                            <td><span style="font-size: large">371 lei <br>             </span></td>
+                            <td><span style="font-size: large">306 lei<br>             </span></td>
+                            <td><span style="font-size: large">348 lei <br>             </span></td>
                         </tr>
                         <tr class="CusTab-light">
                             <td class="CusTab-light-left">Inlocuire set placute si discuri de fr&acirc;na fata</td>
-                            <td><span style="font-size: large">825 lei <br>             </span></td>
-                            <td><span style="font-size: large">950 lei <br>             </span></td>
-                            <td><span style="font-size: large">1.050 lei <br>             </span></td>
-                            <td><span style="font-size: large">975 lei <br>             </span></td>
-                            <td><span style="font-size: large">1.550 lei <br>             </span></td>
+                            <td><span style="font-size: large">852 lei <br>             </span></td>
+                            <td><span style="font-size: large">977 lei <br>             </span></td>
+                            <td><span style="font-size: large">1.077 lei <br>             </span></td>
+                            <td><span style="font-size: large">1.002 lei <br>             </span></td>
+                            <td><span style="font-size: large">1.577 lei <br>             </span></td>
                         </tr>
                         <tr class="CusTab-dark">
                             <td class="CusTab-dark-left">Schimb lichid de fr&acirc;na</td>
-                            <td><span style="font-size: large">135 lei </span></td>
-                            <td><span style="font-size: large">135 lei </span></td>
-                            <td><span style="font-size: large">135 lei </span></td>
+                            <td><span style="font-size: large">160 lei </span></td>
+                            <td><span style="font-size: large">160 lei </span></td>
+                            <td><span style="font-size: large">160 lei </span></td>
                             <td><span style="font-size: large">-<br>             </span></td>
                             <td><span style="font-size: large">-<br>             </span></td>
                         </tr>
@@ -574,14 +574,17 @@
                 <div><em>
 
 
+
                         Imaginile si informatiile prezentate pe acest site sunt oferite cu titlu informativ. Este posibil ca imaginile sa nu infatiseze exclusiv specificatii disponibile in Europa si/sau in Romania. Culorile pot diferi, in realitate, in functie de ecranul calculatorului sau dispozitivului mobil. Anumite accesorii si/sau optionale pot fi disponibile contra cost.
 
                         Politica Ford este una de dezvoltare continua a produselor. Ne rezervam dreptul de a modifica, in orice moment, specificatiile, culorile, modelele si elementele ilustrate si descrise pe acest site, cu respectarea prevederilor legale.
-                        <br><br>
+
                         [*]
 
                         Toate prețurile afișate în această ofertă sunt prețuri recomandate în lei, conțin TVA conform legislației în vigoare și includ prețul manoperei. Oferta nu include componentele tehnologice. Oferta NU SE APLICA autovehiculelor utilitare echipate cu roți duble spate. De asemenea, această ofertă este supusă termenilor și condițiilor afișate, este valabilă în limita stocului disponibil și se poate modifica în funcție de seria de sasiu. Alte detalii aferente ofertei sunt disponibile în paginile de promoție detaliate pe ford.ro și în rețeaua de reparatori autorizați Ford.
-                        Perioada derulării acestei campanii: 15 August 2018 – 31 Decembrie 2018
+                        Campanie valabila pana la data de 28 februarie 2019.
+
+
 
 
                     </em></div>

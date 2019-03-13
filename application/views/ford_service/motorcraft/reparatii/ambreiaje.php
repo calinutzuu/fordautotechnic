@@ -512,22 +512,26 @@
                                         </tr>
                                         <tr class="CusTab-dark">
                                             <td class="CusTab-dark-left">Inlocuire set ambreiaj (placa, disc, rulment)</td>
-                                            <td><span style="font-size: large"> 1.361 lei  <br>             </span></td>
-                                            <td><span style="font-size: large"> 1.645 lei  <br>             </span></td>
-                                            <td><span style="font-size: large"> 1.726 lei  <br>             </span></td>
-                                            <td><span style="font-size: large">&nbsp;1.730 lei  <br>             </span></td>
-                                            <td><span style="font-size: large">&nbsp;1.900 lei  <br>             </span></td>
+                                            <td><span style="font-size: large"> 1.518 lei  <br>             </span></td>
+                                            <td><span style="font-size: large"> 1.800 lei  <br>             </span></td>
+                                            <td><span style="font-size: large"> 1.890 lei  <br>             </span></td>
+                                            <td><span style="font-size: large">&nbsp;1.865 lei  <br>             </span></td>
+                                            <td><span style="font-size: large">&nbsp;1.920 lei  <br>             </span></td>
                                         </tr>
                                         </tbody>
                                     </table>
-                                    <br> <br> <em>Imaginile si informatiile prezentate pe acest site sunt oferite cu titlu informativ. Este posibil ca imaginile sa nu infatiseze exclusiv specificatii disponibile in Europa si/sau in Romania. Culorile pot diferi, in realitate, in functie de ecranul calculatorului sau dispozitivului mobil. Anumite accesorii si/sau optionale pot fi disponibile contra cost.
+                                    <br> <br> <em>
+
+                                        Imaginile si informatiile prezentate pe acest site sunt oferite cu titlu informativ. Este posibil ca imaginile sa nu infatiseze exclusiv specificatii disponibile in Europa si/sau in Romania. Culorile pot diferi, in realitate, in functie de ecranul calculatorului sau dispozitivului mobil. Anumite accesorii si/sau optionale pot fi disponibile contra cost.
 
                                         Politica Ford este una de dezvoltare continua a produselor. Ne rezervam dreptul de a modifica, in orice moment, specificatiile, culorile, modelele si elementele ilustrate si descrise pe acest site, cu respectarea prevederilor legale.
-                                        <br><br>
+
                                         [*]
 
-                                        Toate prețurile afișate în această ofertă sunt prețuri recomandate în lei, conțin TVA conform legislației în vigoare și includ prețul manoperei. Oferta nu include componentele tehnologice. Oferta NU SE APLICA autovehiculelor utilitare echipate cu roți duble spate. De asemenea, această ofertă este supusă termenilor și condițiilor afișate, este valabilă în limita stocului disponibil și se poate modifica în funcție de seria de sasiu. Alte detalii aferente ofertei sunt disponibile în paginile de promoție detaliate pe ford.ro și în rețeaua de reparatori autorizați Ford.
-                                        Perioada derulării acestei campanii: 15 August 2018 – 31 Decembrie 2018</em>
+                                        Toate prețurile afișate în această ofertă sunt prețuri recomandate în lei, conțin TVA conform legislației în vigoare și includ prețul manoperei. Oferta nu include componentele tehnologice. În cazul motoarelor Ecoboost, oferta NU INCLUDE rulmentul de presiune. De asemenea, această ofertă este supusă termenilor și condițiilor afișate, este valabilă în limita stocului disponibil și se poate modifica în funcție de seria de sasiu. Alte detalii aferente ofertei sunt disponibile în paginile de promoție detaliate pe ford.ro și în rețeaua de reparatori autorizați Ford.
+                                        Campanie valabila pana la data de 28 februarie 2019.
+
+
                                 </div>
                             </div>
                         </div>

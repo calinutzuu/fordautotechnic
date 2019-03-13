@@ -590,7 +590,7 @@ return false;"
                     <div>&nbsp;</div>
                     <div><strong><span style="color: rgb(0,0,0)">Doar</span> </strong><span
                             style="color: rgb(0,0,128)"><strong><span
-                                    style="font-size: x-large">349 lei</span></strong></span></div>
+                                    style="font-size: x-large">379 lei</span></strong></span></div>
                     <div><br></div>
                 </div>
             </div>
@@ -617,7 +617,7 @@ return false;"
 
                     <div>&nbsp;</div>
                     <div><strong>Doar <span style="color: rgb(0,0,128)"><span
-                                    style="font-size: x-large">369 lei</span></span></strong></div>
+                                    style="font-size: x-large">429 lei</span></span></strong></div>
                 </div>
             </div>
         </div>
@@ -629,8 +629,18 @@ return false;"
             <div class='BTIarticleBody'>
                 <div class='BTIarticleText'>
                     <div><em>
-                            *Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin TVA conform legislatiei in vigoare. Oferta nu include componentele tehnologice, este supusa termenilor si conditiilor afisate si este valabila in limita stocului disponibil. De asemenea, oferta se poate modifica in functie de seria de sasiu. Schimbul de ulei este inclus in preturile mentionate in limita a 5l pentru autoturisme si 7l pentru autoutilitare. Alte detalii aferente ofertei sunt disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de reparatori autorizati Ford.
-                            Perioada derularii acestei campanii: 1 Iunie 2018 - 31 August 2018.
+
+
+                            Imaginile si informatiile prezentate pe acest site sunt oferite cu titlu informativ. Este posibil ca imaginile sa nu infatiseze exclusiv specificatii disponibile in Europa si/sau in Romania. Culorile pot diferi, in realitate, in functie de ecranul calculatorului sau dispozitivului mobil. Anumite accesorii si/sau optionale pot fi disponibile contra cost.
+
+                            Politica Ford este una de dezvoltare continua a produselor. Ne rezervam dreptul de a modifica, in orice moment, specificatiile, culorile, modelele si elementele ilustrate si descrise pe acest site, cu respectarea prevederilor legale.
+
+                            [*]
+
+                            Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin TVA conform legislatiei in vigoare. Oferta nu include componentele tehnologice, este supusa termenilor si conditiilor afisate si este valabila in limita stocului disponibil. De asemenea, oferta se poate modifica in functie de seria de sasiu. Schimbul de ulei este inclus in preturile mentionate in limita a 5l pentru autoturisme si 7l pentru autoutilitare. Alte detalii aferente ofertei sunt disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de reparatori autorizati Ford.
+                            Campanie valabila pana la data de 28 februarie 2019.
+
+
                         </em></div>
                 </div>
             </div>

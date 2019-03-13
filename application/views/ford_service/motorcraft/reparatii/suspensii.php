@@ -515,31 +515,35 @@
                                         </tr>
                                         <tr class="CusTab-dark">
                                             <td class="CusTab-dark-left">Set amortizoare spate</td>
-                                            <td><span style="font-size: large">435 lei <br>             </span></td>
-                                            <td><span style="font-size: large">550 lei <br>             </span></td>
-                                            <td><span style="font-size: large">600 lei <br>             </span></td>
-                                            <td><span style="font-size: large">472 lei </span></td>
+                                            <td><span style="font-size: large">455 lei <br>             </span></td>
+                                            <td><span style="font-size: large">610 lei <br>             </span></td>
+                                            <td><span style="font-size: large">640 lei <br>             </span></td>
+                                            <td><span style="font-size: large">489 lei </span></td>
                                             <td><span style="font-size: large">-</span></td>
                                         </tr>
                                         <tr class="CusTab-light">
                                             <td class="CusTab-dark-left">Set amortizoare fata</td>
-                                            <td><span style="font-size: large">560 lei <br>             </span></td>
-                                            <td><span style="font-size: large">625 lei <br>             </span></td>
-                                            <td><span style="font-size: large">760 lei <br>             </span></td>
-                                            <td><span style="font-size: large">588 lei </span></td>
-                                            <td><span style="font-size: large">1.610 lei </span></td>
+                                            <td><span style="font-size: large">595 lei <br>             </span></td>
+                                            <td><span style="font-size: large">665 lei <br>             </span></td>
+                                            <td><span style="font-size: large">830 lei <br>             </span></td>
+                                            <td><span style="font-size: large">626 lei </span></td>
+                                            <td><span style="font-size: large">1.649 lei </span></td>
                                         </tr>
                                         </tbody>
                                     </table>
                                 </div>
-                                <br> <em>Imaginile si informatiile prezentate pe acest site sunt oferite cu titlu informativ. Este posibil ca imaginile sa nu infatiseze exclusiv specificatii disponibile in Europa si/sau in Romania. Culorile pot diferi, in realitate, in functie de ecranul calculatorului sau dispozitivului mobil. Anumite accesorii si/sau optionale pot fi disponibile contra cost.
+                                <br> <em>
+
+                                    Imaginile si informatiile prezentate pe acest site sunt oferite cu titlu informativ. Este posibil ca imaginile sa nu infatiseze exclusiv specificatii disponibile in Europa si/sau in Romania. Culorile pot diferi, in realitate, in functie de ecranul calculatorului sau dispozitivului mobil. Anumite accesorii si/sau optionale pot fi disponibile contra cost.
 
                                     Politica Ford este una de dezvoltare continua a produselor. Ne rezervam dreptul de a modifica, in orice moment, specificatiile, culorile, modelele si elementele ilustrate si descrise pe acest site, cu respectarea prevederilor legale.
-                                    <br><br>
+
                                     [*]
 
-                                    Toate prețurile afișate în această ofertă sunt prețuri recomandate în lei, conțin TVA conform legislației în vigoare și includ prețul manoperei. Oferta nu include componentele tehnologice. Oferta NU SE APLICA autovehiculelor utilitare echipate cu roți duble spate. De asemenea, această ofertă este supusă termenilor și condițiilor afișate, este valabilă în limita stocului disponibil și se poate modifica în funcție de seria de sasiu. Alte detalii aferente ofertei sunt disponibile în paginile de promoție detaliate pe ford.ro și în rețeaua de reparatori autorizați Ford.
-                                    Perioada derulării acestei campanii: 15 August 2018 – 31 Decembrie 2018 </em></div>
+                                    Toate prețurile afișate în această ofertă sunt prețuri recomandate în lei, conțin TVA conform legislației în vigoare și includ prețul manoperei. Oferta nu include componentele tehnologice. De asemenea, această ofertă este supusă termenilor și condițiilor afișate, este valabilă în limita stocului disponibil și se poate modifica în funcție de seria de sasiu. NU SE APLICA anumitor modele de autovehicule (spre exemplu: modelul Fiesta fabricat ulterior anului 2012; modelul Focus fabricat în intervalul 2011-2015; modelul S-Max/Galaxy fabricate în intervalul 2006-2015). Alte detalii aferente ofertei sunt disponibile în paginile de promoție detaliate pe ford.ro și în rețeaua de reparatori autorizați Ford.
+                                    Campanie valabila pana la data de 28 februarie 2019.
+
+                                </em></div>
                         </div>
                     </div>
                 </div>
