@@ -371,7 +371,7 @@
                    </li> -->
 
                 <li id='menu1205094747812' class=''>
-                    <a href='Motorcraft/AnvelopeVara'/>Anvelope de iarna</a>
+                    <a href='Motorcraft/AnvelopeVara'/>Anvelope de vara</a>
                     <script type="text/javascript">
                         document.id('menu1205094747812').addClass("navnextSteps");
                     </script>
@@ -529,13 +529,13 @@
             </div>
             <div class='BTIarticleBody'>
                 <div class='BTIarticleText'>
-                    <div><h2><font size="2">Anvelope de iarna</font></h2>
+                    <div><h2><font size="2">Anvelope de vara</font></h2>
 
                         <div></div>
                         <div><strong><br> de la <span style="color: rgb(0, 0, 128);"><span
                                         style="font-size: medium;"><span
-                                            style="font-size: x-large;">174 lei </span></span></span></strong><br>
-                            <br> <br> <br> <a HREF="/FordService/Motorcraft/AnvelopeVara">&gt;Anvelope de iarna<br></a>
+                                            style="font-size: x-large;">168 lei </span></span></span></strong><br>
+                            <br> <br> <br> <a HREF="/FordService/Motorcraft/AnvelopeVara">&gt;Anvelope de vara<br></a>
                         </div>
                     </div>
                 </div>
@@ -668,7 +668,7 @@
                     <div><h2><font size="2">Verificare vizuala sistem A/C </font></h2> <br> <span
                             style="color: rgb(0, 0, 0);"><strong> </strong></span><span
                             style="color: rgb(0, 0, 128);"><strong><span
-                                    style="font-size: x-large;">30 lei</span></strong></span><span
+                                    style="font-size: x-large;">40 lei</span></strong></span><span
                             style="color: red"><span style="color:#425968"><br> <div><strong><span
                                             style="font-size: medium;"><br>  </span></strong></div> </span></span><a
                             HREF="/FordService/Motorcraft/Reparatii/AerConditionat">&gt;Verificare aer
@@ -698,7 +698,7 @@
                 <div class='BTIarticleText'>
                     <div><h2><font size="2">Stergatoare de parbriz</font></h2> <br> <span
                             style="color: rgb(0, 0, 0);"><strong>de la <span style="color: rgb(0, 0, 128);"><span
-                                        style="font-size: x-large;">145 lei</span></span></strong></span><br> <br>
+                                        style="font-size: x-large;">148 lei</span></span></strong></span><br> <br>
                         <a HREF="/FordService/Motorcraft/Reparatii/Stergatoare">&gt;Stergatoare de parbriz</a></div>
                 </div>
             </div>

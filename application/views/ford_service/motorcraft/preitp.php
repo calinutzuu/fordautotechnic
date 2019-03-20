@@ -343,7 +343,7 @@
                     </script>
                 </li>
                 <li id='menu1205094744286' class=''>
-                    <a href='Anvelope'/>Anvelope de iarna</a>
+                    <a href='Anvelope'/>Anvelope de vara</a>
                     <div id="navsubmenu" class="navsubmenu">
                         <div class="navsubmenutop">
                         </div>
@@ -615,15 +615,18 @@ return false;"
                                 <div class='BTIarticleText'>
                                     <div><em><span style="font-size: x-small;">
 
+
+
 Imaginile si informatiile prezentate pe acest site sunt oferite cu titlu informativ. Este posibil ca imaginile sa nu infatiseze exclusiv specificatii disponibile in Europa si/sau in Romania. Culorile pot diferi, in realitate, in functie de ecranul calculatorului sau dispozitivului mobil. Anumite accesorii si/sau optionale pot fi disponibile contra cost.
 
 Politica Ford este una de dezvoltare continua a produselor. Ne rezervam dreptul de a modifica, in orice moment, specificatiile, culorile, modelele si elementele ilustrate si descrise pe acest site, cu respectarea prevederilor legale.
-<br><br>
+
     [*]
 
     Reparațiile necesare în urma verificării reprezintă servicii contra cost și se comandă separat. Inspecția se face in service-uri autorizate R.A.R. Alte detalii aferente ofertei sunt disponibile în paginile de promoție detaliate pe ford.ro și în rețeaua de reparatori autorizați Ford.
+    Campanie valabila pana la data de 31 mai 2019.
 
-    Perioada derularii acestei campanii: 15 August 2018 - 31 Decembrie 2018.
+
 
  </span></em>
                                     </div>
