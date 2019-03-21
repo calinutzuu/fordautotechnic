@@ -638,7 +638,7 @@ return false;"
                             [*]
 
                             Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin TVA conform legislatiei in vigoare. Oferta nu include componentele tehnologice, este supusa termenilor si conditiilor afisate si este valabila in limita stocului disponibil. De asemenea, oferta se poate modifica in functie de seria de sasiu. Schimbul de ulei este inclus in preturile mentionate in limita a 5l pentru autoturisme si 7l pentru autoutilitare. Alte detalii aferente ofertei sunt disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de reparatori autorizati Ford.
-                            Campanie valabila pana la data de 28 februarie 2019.
+                            Campanie valabila pana la data de 31 mai 2019.
 
 
                         </em></div>

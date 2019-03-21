@@ -720,9 +720,16 @@
         </div>
         <div class='BTIarticleBody'>
             <div class='BTIarticleText'>
-                <div><em>*
-                        Toate prețurile afișate în această ofertă sunt prețuri recomandate în lei, conțin TVA conform legislației în vigoare și includ prețul manoperei. Oferta nu include componentele tehnologice. Oferta NU SE APLICA autovehiculelor utilitare echipate cu roți duble spate. De asemenea, această ofertă este supusă termenilor și condițiilor afișate, este valabilă în limita stocului disponibil și se poate modifica în funcție de seria de sasiu. Alte detalii aferente ofertei sunt disponibile în paginile de promoție detaliate pe ford.ro și în rețeaua de reparatori autorizați Ford.
-                        Perioada derulării acestei campanii: 15 August 2018 – 31 Decembrie 2018
+                <div><em>
+
+                        Imaginile si informatiile prezentate pe acest site sunt oferite cu titlu informativ. Este posibil ca imaginile sa nu infatiseze exclusiv specificatii disponibile in Europa si/sau in Romania. Culorile pot diferi, in realitate, in functie de ecranul calculatorului sau dispozitivului mobil. Anumite accesorii si/sau optionale pot fi disponibile contra cost.
+
+                        Politica Ford este una de dezvoltare continua a produselor. Ne rezervam dreptul de a modifica, in orice moment, specificatiile, culorile, modelele si elementele ilustrate si descrise pe acest site, cu respectarea prevederilor legale.
+
+                        [*]
+
+                        Toate prețurile afișate în această ofertă sunt prețuri recomandate și conțin TVA conform legislației în vigoare. Oferta nu include componentele tehnologice, este supusă termenilor și condițiilor afișate și este valabilă în limita stocului disponibil. De asemenea, oferta se poate modifica în funcție de seria de sasiu. Alte detalii aferente ofertei sunt disponibile în paginile de promoție detaliate pe ford.ro și în rețeaua de reparatori autorizați Ford.
+                        Campanie valabila pana la data de 31 mai 2019.
                         <br>
                     </em></div>
             </div>
