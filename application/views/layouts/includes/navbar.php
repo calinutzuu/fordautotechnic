@@ -1,6 +1,7 @@
 <header class="global" role="banner">
 <div id="headerContent">
-<ul role="list" title="Salt la o anumită secțiune a paginii" class="skip">
+
+    <ul role="list" title="Salt la o anumită secțiune a paginii" class="skip">
     <li role="listitem"><a role="link" href="#sbe">Salt la instrumentele pentru clienți Ford</a></li>
     <li role="listitem"><a role="link" href="#mainTopNav">Salt la navigarea principală</a></li>
 </ul>

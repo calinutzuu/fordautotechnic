@@ -412,9 +412,11 @@
             <a title="" href="/FordService/Motorcraft" class="om_ho_st_cv">Ford Service</a>
         </div>
     </div>
-    <object data = "http://cvp-ford.getodata.ro/api/show/ford/" type = "text/html" width = "100%" height  = "40%" style="background-color:#fff">
+    <object data = "http://cvp-ford.getodata.ro/api/show/ford/" type = "text/html" width = "100%" height  = "40%" style="margin-bottom:-60px">
         Se incarca...
     </object>
+
+
 
 </section>
 </div>
