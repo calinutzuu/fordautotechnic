@@ -376,6 +376,7 @@
 <!--Rendering the Image Panel-->
 
 <!--Image Panel End-->
+
 </div>
 </section>
 </article>
@@ -411,8 +412,14 @@
             <a title="" href="/FordService/Motorcraft" class="om_ho_st_cv">Ford Service</a>
         </div>
     </div>
+    <object data = "http://cvp-ford.getodata.ro/api/show/ford/" type = "text/html" width = "100%" height  = "40%" style="background-color:#fff">
+        Se incarca...
+    </object>
+
 </section>
 </div>
+
+
 <script type="text/javascript">
     var fw_carousel_animate = 'scrollHorz'; //we can have 'fade', 'shuffle, 'scrollHorz' etc..
     var fw_carousel_timer = 7000;
