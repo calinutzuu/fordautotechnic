@@ -1,0 +1,168 @@
+
+
+/* unvisited link */
+a:link {
+  color: white;
+  text-decoration:none;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+}
+
+/* mouse over link */
+a:hover {
+  color: #ffba01;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+} 
+
+
+@font-face {
+  font-family: fordFont;
+  src: url(Ford_Fonts/FordAntenna-Light.otf);
+}
+
+@media only screen and (min-width: 1445px){
+	#customerViewpoint{
+		position:absolute;
+		width:1445px;
+		height:91px;
+		background-color: #1e394d;
+	}
+
+	#CVlogo{
+		position:absolute;
+		width:297px;
+		height:32px;
+		right:100px;
+		top:25px;
+	}
+
+	#CVstars{
+		position:absolute;
+		width:100px;
+		height:20px;
+		top:34px;
+		left:100px;
+	}
+
+	#CVrating{
+		position:absolute;
+		font-family: fordFont;
+		font-size:17px;
+		position:absolute;
+		color:#ffffff;
+		top:32px;
+		left:230px;
+	}
+
+	#CVreviewlink{
+		position:absolute;
+		font-family: fordFont;
+		position:absolute;
+		font-size:17px;
+		top:55px;
+		left:230px;
+		text-decoration:none;
+		color:#318bbb;
+	}
+}
+
+@media only screen and (min-width: 960px) and (max-width:1444px){
+	#customerViewpoint{
+		position:absolute;
+		width:960px;
+		height:91px;
+		background-color: #1e394d;
+	}
+
+	#CVlogo{
+		position:absolute;
+		width:240px;
+		height:26px;
+		right:50px;
+		top:28px;
+	}
+
+	#CVstars{
+		position:absolute;
+		width:100px;
+		height:20px;
+		top:34px;
+		left:50px;
+	}
+
+	#CVrating{
+		position:absolute;
+		font-family: fordFont;
+		font-size:15px;
+		position:absolute;
+		color:#ffffff;
+		top:34px;
+		left:170px;
+	}
+
+	#CVreviewlink{
+		position:absolute;
+		font-family: fordFont;
+		position:absolute;
+		font-size:15px;
+		top:55px;
+		left:170px;
+		text-decoration:none;
+		color:#318bbb;
+	}
+}
+
+@media only screen and (max-width:959px){
+	#customerViewpoint{
+		position:absolute;
+		width:450px;
+		height:91px;
+		background-color: #1e394d;
+	}
+
+	#CVlogo{
+		position:absolute;
+		width:180px;
+		height:20px;
+		right:20px;
+		top:20px;
+	}
+
+	#CVrating{
+		position:absolute;
+		font-family: fordFont;
+		font-size:15px;
+		position:absolute;
+		color:#ffffff;
+		top:55px;
+		left:32px;
+	}
+
+	#CVreviewlink{
+		position:absolute;
+		font-family: fordFont;
+		position:absolute;
+		font-size:13px;
+		top:55px;
+		right:20px;
+		text-decoration:none;
+		color:#318bbb;
+	}
+
+	#CVstars{
+		position:absolute;
+		width:100px;
+		height:20px;
+		top:22px;
+		left:30px;
+	}
+}
+
+

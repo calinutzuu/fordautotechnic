@@ -29,6 +29,12 @@
     <script src="<?=base_url('assets/js/EngineJSGlobals.js')?>"></script>
     <script src="<?=base_url('assets/js/grouped.js')?>"></script>
     <script src="<?=base_url('assets/js/engine_script_messaging_core.js')?>"></script>
+
+    <!--cvp file includes -->
+     <script src="<?=base_url('assets/cvp/cvp.js')?>"></script>
+     <link href="<?=base_url('assets/cvp/cvp.css')?>" type="text/css" rel="stylesheet">
+
+     
 </head>
 <body id="default" itemscope itemtype="http://schema.org/WebPage">
 <div id="wrapper">
