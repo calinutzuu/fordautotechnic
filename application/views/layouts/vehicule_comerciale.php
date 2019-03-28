@@ -64,6 +64,15 @@
     <?php include_once('includes/navbar.php') ?>
 
     <div id="frame">
+    	
+<div id="customerViewpoint" width="60%">
+	<div id="CVstars"></div>
+	<div id="CVrating"></div>
+	<div id="CVreviewlink"><a href="https://www.ford.ro/reprezentante#/search/AUTO%20TECHNIC%20S.R.L./dealer/FordRB10300%20%20ROM/" target="_blank">View available reviews</a></div>
+	<img id="CVlogo" src="<?=base_url('assets/cvp/cv_logo.png')?>">
+</div>
+
+
         <?php echo $template['body']; ?>
     </div>
     <?php include_once('includes/footer.php') ?>>
