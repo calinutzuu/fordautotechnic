@@ -24,11 +24,11 @@
 		thisStarImg.style.height = "19px;";
 		thisStarImg.style.left = (starLoc * 20) + "px";
 		if(thisStar == 0){
-			thisStarImg.src = "cv_star_blank.png";
+			thisStarImg.src = "../assets/cvp/cv_star_blank.png";
 		} else if(thisStar == 1){
-			thisStarImg.src = "cv_star_half.png";
+			thisStarImg.src = "../assets/cvp/cv_star_half.png";
 		} else if(thisStar == 2){
-			thisStarImg.src = "cv_star_full.png";
+			thisStarImg.src = "../assets/cvp/cv_star_full.png";
 		}
 		document.getElementById("CVstars").appendChild(thisStarImg);
 	}
