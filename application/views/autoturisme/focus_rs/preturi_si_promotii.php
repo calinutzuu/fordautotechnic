@@ -324,7 +324,7 @@
                                           HREF="http://www.ford.ro/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheadervalue1=attachment%3Bfilename%3D%22Lista_de_preturi_Ford_Focus_RS.pdf%22&amp;blobheadervalue2=abinary%3Bcharset%3DUTF-8&amp;blobheadername1=Content-Disposition&amp;blobheadername2=MDT-Type&amp;blobheader=application%2Fpdf&amp;blobwhere=1214548002111&amp;blobkey=id"
                                           CLASS="download"
                                           onClick="if (typeof sford == 'object') omnitureLinkDownloadClick('brand:pricelist download:vehicle:confirm:<nameplate>','event15,event43','','event: pricelist:pdf','download pricelist:vehicle','pdf download','',false,'ford focus rs','2015','car');">Descarcă
-                                            lista de preturi a noului Ford Focus RS.</a></p>
+                                            lista de preturi Ford Focus RS.</a></p>
 
                                     <p>Fişierul &icirc;n format PDF a fost creat pentru a-ti permite să vizualizezi şi
                                         să tipăreşti fişiere fără a avea nevoie de programul &icirc;n care au fost

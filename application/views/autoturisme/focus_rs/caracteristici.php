@@ -323,7 +323,7 @@
 
         <p class="intro-text">
 
-        <p>In noul Focus RS, esti inconjurat de tehnologii inteligente.<br>
+        <p>In Focus RS, esti inconjurat de tehnologii inteligente.<br>
             <br>
             Fiecare dintre acestea joaca un rol anume, insa toate au un singur scop:
             sa iti permita sa te bucuri la maximum de capacitatile masinii.
@@ -362,7 +362,7 @@
 
             <p>
 
-            <p>In noul Focus RS, detii controlul complet asupra felului in care masina se deplaseaza si se comporta: pe
+            <p>In Focus RS, detii controlul complet asupra felului in care masina se deplaseaza si se comporta: pe
                 drum sau pe pista de circuit. Printr-o simpla actionare a unui comutator poti schimba intre setarile
                 Normal, Sport sau Pista. Fiecare mod ajusteaza sistemul de tractiune integrala, comenzile de amortizare,
                 sistemele de Control electronic al stabilitatii si ABS, reactia coloanei de directie si a motorului si
@@ -389,7 +389,7 @@
             <p>
 
             <p>Suspensia avansata „Öhlins Tenneco”, rigidizata si inspirata de masinile de curse, te ajuta sa
-                supraveghezi strict comportamentul noului Focus RS in orice moment. Aceasta imbunatateste tinuta de drum
+                supraveghezi strict comportamentul Focusului RS in orice moment. Aceasta imbunatateste tinuta de drum
                 si controlul, ajutandu-te sa stabilesti o conexiune cu drumul si sa ai parte de o reactie remarcabila si
                 extrem de rapida a sistemului de directie. Pentru condusul pe pista, amortizoarele comutabile cu doua
                 moduri ofera o setare chiar si mai ferma, pentru ca tu sa te poti bucura de senzatiile cursei cu
@@ -579,7 +579,7 @@
             <p>
 
             <p>Echipat cu discuri frontale ventilate, de 350 mm, si etriere monobloc Brembo din aluminiu, cu patru
-                pistoane, noul Focus RS incorporeaza cel mai puternic sistem de franare montat vreodata pe un model RS.
+                pistoane, Focus RS incorporeaza cel mai puternic sistem de franare montat vreodata pe un model RS.
                 Designul inteligent maximizeaza racirea franelor, ajutand la evitarea atenuarii, chiar si in conditii de
                 utilizare dura, pe pista. Iar discurile frontale sunt prevazute si cu lamele de ventilare, pentru o
                 racire superioara.</p>
@@ -724,7 +724,7 @@
 
             <p>
 
-            <p>Caracterul de inalta performanta al noului Focus RS este completat de scaunele sport Recaro. Proiectate
+            <p>Caracterul de inalta performanta al Focus RS este completat de scaunele sport Recaro. Proiectate
                 ergonomic, acestea prezinta emblema RS specifica si panouri Nitrous Blue. Pernele laterale te vor
                 sustine in siguranta si in mod confortabil in timpul condusului de inalta performanta. De asemenea, sunt
                 disponibile, optional, scaune tip cochilie Recaro RS, cu panouri autentice, din material textil cu
@@ -868,7 +868,7 @@
                 alt="Ford Focus RS on the road - Speed Limiter"/><span class="fv-overlay-icon"></span>
 
             <h3 class="bigHeading02">
-                Seteaza propria limita de viteza, iar noul Focus RS o va respecta
+                Seteaza propria limita de viteza, iar Focus RS o va respecta
             </h3>
 
             <p>

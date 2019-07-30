@@ -298,7 +298,7 @@
                             <div id='tab1' class="secondary-tab-content">
                                 <header class="intro-header">
                                     <h1 class="bigHeading">
-                                        NOUL FORD <strong>FOCUS RS</strong>
+                                        FORD <strong>FOCUS RS</strong>
                                     </h1>
                                     <span class="highlighter"></span>
 
@@ -306,7 +306,7 @@
 
                                     <p>350 CP, viteza maxima de 266 km/h si acceleratie laterala de 1 g. <br>
                                         <br>
-                                        Motorul EcoBoost de 2,3 litri cu care este dotat noul Focus RS
+                                        Motorul EcoBoost de 2,3 litri cu care este dotat Focus RS
                                         prezinta statistici impresionante.
                                         <br>
                                         <br>
@@ -361,7 +361,7 @@
                                             incorporeaza injectie directa de combustibil, sistem de distributie dual
                                             (admisie-evacuare) si turbocompresor cu canal dublu. <br>
                                             <br>
-                                            Toate ajustate si calibrate in mod specific pentru noul Focus RS, iar
+                                            Toate ajustate si calibrate in mod specific pentru Focus RS, iar
                                             rezultatul este: putere maxima de 350 CP si cuplu maxim de 440 Nm (470 Nm
                                             supraalimentat). <br>
                                             <br>

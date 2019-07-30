@@ -314,7 +314,7 @@
 
         <p class="intro-text">
 
-        <p>Aspectul noului Focus RS a fost
+        <p>Aspectul Focus RS a fost
             dictat de performanta si promovat de stil.
             <br>
             <br>
@@ -461,7 +461,7 @@
 
         <p class="intro-text">
 
-        <p>De indata ce intri in noul Focus RS, vei sti
+        <p>De indata ce intri in Focus RS, vei sti
             ca ai patruns intr-un spatiu ce iti este dedicat tie, soferului.
             <br>
             <br>
@@ -667,7 +667,7 @@
 
         <p class="intro-text">
 
-        <p>Alege culoarea in care crezi ca arata cel mai bine noul Focus RS.</p>
+        <p>Alege culoarea in care crezi ca arata cel mai bine  Focus RS.</p>
         </p>
     </header>
     <article class='three-column'>
