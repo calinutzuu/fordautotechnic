@@ -178,65 +178,7 @@
 -->
 
 <article role="option">
-    <a class="carImg" href="#img1"><img src="/assets/img/ford_dec.jpg"
-                                        alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt; &lt;/span&gt;&lt;/span&gt;"
-                                        role="presentation"></a>
-
-    <div class="innerBox posTopRight WhiteText">
-        <br><br><br><br>
-        <div class="">
-            <h2 class="bigHeading02">
-                 <span style="font-size:28px;"><span style="font-family:FordAntennaRegular;"> </span><span
-                         style="font-family:FordAntennaBlack;"> </span></span>
-            </h2>
-
-            <p class="captionTxt">
-                <span style="font-size:18px;"><span style="font-family:FordAntennaRegular;"> </span></span>
-            </p>
-
-            <div class="btnwrapper">
-                <div class="btnLink light">
-                    <a role="button" class="om_ca_in" href="https://www.ford.ro/autoturisme/noul-puma/promotii/persoane-juridice">Afla mai multe</a>
-                </div>
-            </div>
-        </div>
-
-    </div>
-
-
-</article>
-
-<article role="option">
-    <a class="carImg" href="#img1"><img src="/assets/img/rabla_dec.jpg"
-                                        alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt; &lt;/span&gt;&lt;/span&gt;"
-                                        role="presentation"></a>
-
-    <div class="innerBox posBottomLeft WhiteText">
-        <br><br><br><br>
-        <div class="">
-            <h2 class="bigHeading02">
-                 <span style="font-size:28px;"><span style="font-family:FordAntennaRegular;"> </span><span
-                         style="font-family:FordAntennaBlack;"> </span></span>
-            </h2>
-
-            <p class="captionTxt">
-                <span style="font-size:18px;"><span style="font-family:FordAntennaRegular;"> </span></span>
-            </p>
-
-            <div class="btnwrapper">
-                <div class="btnLink light">
-                    <a role="button" class="om_ca_in" href="https://www.ford.ro/cumpara/alege-modelul/promotii-ford/programul-ford-rabla">Afla mai multe</a>
-                </div>
-            </div>
-        </div>
-
-    </div>
-
-
-</article>
-
-<article role="option">
-    <a class="carImg" href="#img1"><img src="/assets/img/transit_dec.jpg"
+    <a class="carImg" href="#img1"><img src="/assets/img/ford_electrice.jpg"
                                         alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt; &lt;/span&gt;&lt;/span&gt;"
                                         role="presentation"></a>
 
@@ -254,7 +196,7 @@
 
             <div class="btnwrapper">
                 <div class="btnLink light">
-                    <a role="button" class="om_ca_in" href="https://www.ford.ro/service/service-si-intretinere/motorcraft">Afla mai multe</a>
+                    <a role="button" class="om_ca_in" href="https://www.ford.ro/cumpara/exploreaza/electric">Afla mai multe</a>
                 </div>
             </div>
         </div>
@@ -264,20 +206,12 @@
 
 </article>
 
-
-
-
-
-
-
-
-
 <article role="option">
-    <a class="carImg" href="#img1"><img src="/assets/img/kuga_nov_2.jpg"
+    <a class="carImg" href="#img1"><img src="/assets/img/ford_electrice_p2.jpg"
                                         alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt; &lt;/span&gt;&lt;/span&gt;"
                                         role="presentation"></a>
 
-    <div class="innerBox posBottomLeft WhiteText">
+    <div class="innerBox posTopLeft WhiteText">
         <br><br><br><br>
         <div class="">
             <h2 class="bigHeading02">
@@ -291,7 +225,95 @@
 
             <div class="btnwrapper">
                 <div class="btnLink light">
-                    <a role="button" class="om_ca_in" href="https://www.ford.ro/autoturisme/kuga/promotii/persoane-fizice">Afla mai multe</a>
+                    <a role="button" class="om_ca_in" href="https://www.ford.ro/cumpara/exploreaza/electric">Afla mai multe</a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+</article>
+
+<article role="option">
+    <a class="carImg" href="#img1"><img src="/assets/img/mustang_e2.jpg"
+                                        alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt; &lt;/span&gt;&lt;/span&gt;"
+                                        role="presentation"></a>
+
+    <div class="innerBox posTopLeft WhiteText">
+        <br><br><br><br>
+        <div class="">
+            <h2 class="bigHeading02">
+                 <span style="font-size:28px;"><span style="font-family:FordAntennaRegular;"> </span><span
+                         style="font-family:FordAntennaBlack;"> </span></span>
+            </h2>
+
+            <p class="captionTxt">
+                <span style="font-size:18px;"><span style="font-family:FordAntennaRegular;"> </span></span>
+            </p>
+
+            <div class="btnwrapper">
+                <div class="btnLink light">
+                    <a role="button" class="om_ca_in" href="https://www.ford.ro/autoturisme/mustang-mach-e">Afla mai multe</a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+</article>
+
+<article role="option">
+    <a class="carImg" href="#img1"><img src="/assets/img/puma_ok.jpg"
+                                        alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt; &lt;/span&gt;&lt;/span&gt;"
+                                        role="presentation"></a>
+
+    <div class="innerBox posTopLeft WhiteText">
+        <br><br><br><br>
+        <div class="">
+            <h2 class="bigHeading02">
+                 <span style="font-size:28px;"><span style="font-family:FordAntennaRegular;"> </span><span
+                         style="font-family:FordAntennaBlack;"> </span></span>
+            </h2>
+
+            <p class="captionTxt">
+                <span style="font-size:18px;"><span style="font-family:FordAntennaRegular;"> </span></span>
+            </p>
+
+            <div class="btnwrapper">
+                <div class="btnLink light">
+                    <a role="button" class="om_ca_in" href="https://www.ford.ro/autoturisme/noul-puma">Afla mai multe</a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+</article>
+
+
+<article role="option">
+    <a class="carImg" href="#img1"><img src="/assets/img/kuga_hybrid.jpg"
+                                        alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt; &lt;/span&gt;&lt;/span&gt;"
+                                        role="presentation"></a>
+
+    <div class="innerBox posTopRight WhiteText">
+        <br><br><br><br>
+        <div class="">
+            <h2 class="bigHeading02">
+                 <span style="font-size:28px;"><span style="font-family:FordAntennaRegular;"> </span><span
+                         style="font-family:FordAntennaBlack;"> </span></span>
+            </h2>
+
+            <p class="captionTxt">
+                <span style="font-size:18px;"><span style="font-family:FordAntennaRegular;"> </span></span>
+            </p>
+
+            <div class="btnwrapper">
+                <div class="btnLink light">
+                    <a role="button" class="om_ca_in" href="https://www.ford.ro/autoturisme/noul-kuga">Afla mai multe</a>
                 </div>
             </div>
         </div>
@@ -305,7 +327,7 @@
 
 
 
-
+<!--
 
 
 <article role="option">
@@ -335,7 +357,7 @@
     </div>
 
 
-</article>
+</article>  -->
 <!--
 <article role="option">
     <a class="carImg" href="#img1"><img src="/assets/img/service/motor_primavara.jpg"

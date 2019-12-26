@@ -10,7 +10,7 @@
 <div id="logo">
     <h1 class="bigHeading visuallyhidden">Ford</h1>
     <a href="http://www.ford.ro/">
-        <img src='<?=base_url('assets/img/logo_ford.png')?>' role="presentation" alt="Ford">
+        <img src='<?=base_url('assets/img/logo_ford1.png')?>' role="presentation" alt="Ford">
     </a>
 
     <h1 class="bigHeading visuallyhidden">Ford</h1>
