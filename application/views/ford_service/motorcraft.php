@@ -535,7 +535,7 @@
                         <div></div>
                         <div><strong><br> de la <span style="color: rgb(0, 0, 128);"><span
                                         style="font-size: medium;"><span
-                                            style="font-size: x-large;">168 lei </span></span></span></strong><br>
+                                            style="font-size: x-large;">175 lei </span></span></span></strong><br>
                             <br> <br> <br> <a HREF="/FordService/Motorcraft/AnvelopeVara">&gt;Anvelope de vara<br></a>
                         </div>
                     </div>

@@ -503,7 +503,7 @@ return false;"
                                                     width="25 %">Motorcraft*
                                                 </td>
                                                 <td style="text-align: center;" class="CusTab-light-pric"
-                                                    valign="middle" width="25 %"><span style="font-size: medium;">277 lei*</span>
+                                                    valign="middle" width="25 %"><span style="font-size: medium;">290 lei*</span>
                                                 </td>
                                             </tr>
                                             <tr class="CusTab-dark" tr="">
@@ -512,7 +512,7 @@ return false;"
                                                 <td style="text-align: center;" valign="middle" width="25 %">BFGoodrich
                                                 </td>
                                                 <td style="text-align: center;" class="CusTab-light-pric"
-                                                    valign="middle" width="25 %"><span style="font-size: medium;">384 lei*</span>
+                                                    valign="middle" width="25 %"><span style="font-size: medium;">400 lei*</span>
                                                 </td>
                                             </tr>
                                             <tr class="CusTab-light" tr="">
@@ -522,7 +522,7 @@ return false;"
                                                     Michelin
                                                 </td>
                                                 <td style="text-align: center;" class="CusTab-light-pric"
-                                                    valign="middle" width="25 %"><span style="font-size: medium;">536 lei*</span>
+                                                    valign="middle" width="25 %"><span style="font-size: medium;">564 lei*</span>
                                                 </td>
                                             </tr>
                                             <tr class="CusTab-dark" tr="">
@@ -532,7 +532,7 @@ return false;"
                                                     Motorcraft*
                                                 </td>
                                                 <td style="text-align: center;" class="CusTab-light-pric"
-                                                    valign="middle" width="25 %"><span style="font-size: medium;">310 lei*</span>
+                                                    valign="middle" width="25 %"><span style="font-size: medium;">325 lei*</span>
                                                 </td>
                                             </tr>
                                             <tr class="CusTab-light" tr="">
@@ -541,7 +541,7 @@ return false;"
                                                 <td style="text-align: center;" valign="middle" width="25 %">BFGoodrich
                                                 </td>
                                                 <td style="text-align: center;" class="CusTab-light-pric"
-                                                    valign="middle" width="25 %"><span style="font-size: medium;">364 lei*</span>
+                                                    valign="middle" width="25 %"><span style="font-size: medium;">379 lei*</span>
                                                 </td>
                                             </tr>
                                             <tr class="CusTab-dark" tr="">
@@ -551,7 +551,7 @@ return false;"
                                                     Michelin
                                                 </td>
                                                 <td style="text-align: center;" class="CusTab-light-pric"
-                                                    valign="middle" width="25 %"><span style="font-size: medium;">477 lei*</span>
+                                                    valign="middle" width="25 %"><span style="font-size: medium;">492 lei*</span>
                                                 </td>
                                             </tr>
                                             <tr class="CusTab-light" tr="">
@@ -561,7 +561,7 @@ return false;"
                                                     Motorcraft*
                                                 </td>
                                                 <td style="text-align: center;" class="CusTab-light-pric"
-                                                    valign="middle" width="25 %"><span style="font-size: medium;">338 lei*</span>
+                                                    valign="middle" width="25 %"><span style="font-size: medium;">396 lei*</span>
                                                 </td>
                                             </tr>
                                             <tr class="CusTab-dark" tr="">
@@ -570,7 +570,7 @@ return false;"
                                                 <td style="text-align: center;" valign="middle" width="25 %">BFGoodrich
                                                 </td>
                                                 <td style="text-align: center;" class="CusTab-light-pric"
-                                                    valign="middle" width="25 %"><span style="font-size: medium;">500 lei*</span>
+                                                    valign="middle" width="25 %"><span style="font-size: medium;">594 lei*</span>
                                                 </td>
                                             </tr>
                                             <tr class="CusTab-light" tr="">
@@ -580,7 +580,7 @@ return false;"
                                                     Michelin
                                                 </td>
                                                 <td style="text-align: center;" class="CusTab-light-pric"
-                                                    valign="middle" width="25 %"><span style="font-size: medium;">673 lei*</span>
+                                                    valign="middle" width="25 %"><span style="font-size: medium;">706 lei*</span>
                                                 </td>
                                             </tr>
                                             <tr class="CusTab-dark" tr="">
@@ -602,7 +602,6 @@ return false;"
                                                     valign="middle" width="25 %"><span style="font-size: medium;">531 lei*</span>
                                                 </td>
                                             </tr>
-
                                             <tr class="CusTab-dark" tr="">
                                                 <td valign="middle" width="25 %">235/65 R16C 115/113R
                                                 </td>
@@ -610,7 +609,7 @@ return false;"
                                                     Michelin
                                                 </td>
                                                 <td style="text-align: center;" class="CusTab-light-pric"
-                                                    valign="middle" width="25 %"><span style="font-size: medium;">712 lei*</span>
+                                                    valign="middle" width="25 %"><span style="font-size: medium;">822 lei*</span>
                                                 </td>
                                             </tr>
 

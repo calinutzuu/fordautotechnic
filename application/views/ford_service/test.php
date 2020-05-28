@@ -1,46 +1,58 @@
-<table width="100%">
-    <tbody><tr><th valign="middle"
-                   style="text-align: left;" width="34%">Dimensiuni</th>
-        <th
-            valign="middle" style="text-align: left;"
-            width="33%">Marca</th>
-        <th valign="middle"
-            style="text-align: left;"
-            width="33%">Pret<br />
-        </th>
-    </tr>
-    <tr><td
-            valign="middle">175/65 R14 82T<br />
-        </td>
-        <td
-            valign="top"><p>Motorcraft<sup data-disclosure="*"
-                                           class="gux-disclosure"
-                                           tabindex="0"><span>*</span></sup><br />
-            </p>
-        </td>
-        <td
-            valign="top">168 lei<sup data-disclosure="*"
-                                     class="gux-disclosure"
-                                     tabindex="0"><span>*</span></sup><br />
-        </td>
-    </tr>
-    <tr><td>175/65 R14 82T<br />
-        </td>
-        <td><p>BFGoodrich<br />
-            </p>
-        </td>
-        <td
-            valign="top">211 lei<sup data-disclosure="*"
-                                     class="gux-disclosure"
-                                     tabindex="0"><span>*</span></sup><br />
-        </td>
-    </tr>
-    <tr><td>175/65 R14 82T<br />
-        </td>
-        <td>Michelin<br />
-        </td>
-        <td>283 lei<sup
-                data-disclosure="*" class="gux-disclosure" tabindex="0"><span>*</span></sup></td>
-    </tr>
-
-    </tbody></table>
+<td>Motorcraft<br />
+</td>
+<td>307 lei<br />
+</td>
+</tr><tr><td>185/75 R 16C 104/102R TL AGILIS ALPIN MI<br />
+    </td>
+    <td>Michelin<br />
+    </td>
+    <td>597 lei<br />
+    </td>
+</tr><tr><td>195/75 R 16C 107/105R TL CARGO WINTE<br />
+    </td>
+    <td>Motorcraft<br />
+    </td>
+    <td>345 lei<br />
+    </td>
+</tr><tr><td>195/75 R 16C 107/105R TL ACTIVAN WINTER GO<br />
+    </td>
+    <td>BFGoodrich</td>
+    <td>387 lei<br />
+    </td>
+</tr><tr><td>195/75 R 16C 107/105R TL AGILIS ALPIN MI<br />
+    </td>
+    <td>Michelin<br />
+    </td>
+    <td>534 lei</td>
+</tr><tr><td>215/75 R 16C 113/111R TL CARGO SPEED WINTER TG<br />
+    </td>
+    <td>Motorcraft<br />
+    </td>
+    <td>376 lei<br />
+    </td>
+</tr><tr><td>215/75 R 16C 116/114R TL ACTIVAN WINTER GO<br />
+    </td>
+    <td>BFGoodrich</td>
+    <td>536 lei<br />
+    </td>
+</tr><tr><td>215/75 R 16C 116/114R TL AGILIS ALPIN MI<br />
+    </td>
+    <td>Michelin<br />
+    </td>
+    <td>777 lei<br />
+    </td>
+</tr><tr><td>235/65 R 16C 115/113R TL CARGO SPEED WINTER TG<br />
+    </td>
+    <td>Motorcraft<br />
+    </td>
+    <td>396 lei<br />
+    </td>
+</tr><tr><td>235/65 R 16C 115/113R TL ACTIVAN WIN<br />
+    </td>
+    <td>BFGoodrich</td>
+    <td>594 lei</td>
+</tr><tr><td>235/65R16C 115/113R AGILIS ALPIN<br />
+    </td>
+    <td>Michelin</td>
+    <td>822 lei</td>
+</tr></tbody></table>
