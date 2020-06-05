@@ -631,14 +631,33 @@ return false;"
                     <div><em>
 
 
-                            Imaginile si informatiile prezentate pe acest site sunt oferite cu titlu informativ. Este posibil ca imaginile sa nu infatiseze exclusiv specificatii disponibile in Europa si/sau in Romania. Culorile pot diferi, in realitate, in functie de ecranul calculatorului sau dispozitivului mobil. Anumite accesorii si/sau optionale pot fi disponibile contra cost.
 
-                            Politica Ford este una de dezvoltare continua a produselor. Ne rezervam dreptul de a modifica, in orice moment, specificatiile, culorile, modelele si elementele ilustrate si descrise pe acest site, cu respectarea prevederilor legale.
+
+                            Imaginile și informațiile prezentate pe acest site sunt oferite exclusiv cu titlu informativ și nu au valoare contractuală. Este posibil că imaginile să nu înfățișeze exclusiv specificații disponibile în Europa și/sau în România. Culorile pot diferi, în realitate, în funcție de ecranul calculatorului sau ale dispozitivului mobil de pe care se vizualizează produsele dar și de luminozitatea din mediul ambiental în care sunt prezentate sau vizualizate produsele. Anumite accesorii și/sau opționale pot fi disponibile contra cost.
+
+                            Este esențială contactarea distribuitorilor Ford înainte de încheierea contractelor de achiziție a produselor.
+
+                            Politica Ford este una de dezvoltare continuă a produselor. Ne rezervăm dreptul de a modifica fără preaviz/notificare prealabilă, în orice moment specificațiile, culorile, modelele și elementele ilustrate și descrise pe acest site.
+
+                            Legislația europeană și națională în materia procedurii de testare a valorilor de emisii și consum WLTP nu oferă un nivel de claritate suficient, în acest moment, în ceea ce privește valorile (de emisii și consum) înregistrate de autovehiculele asupra cărora s-au efectuat modificări constructive (“conversii”) prin intermediul carosierilor autorizați. În mod specific, în acest moment, legislația nu abordează suficient de clar problematica efectuării conversiilor înainte de punerea în circulație. De aceea, pentru evitarea situațiilor incerte, recomandăm efectuarea conversiei ulterior înmatriculării.
 
                             [*]
 
-                            Toate preturile afisate in aceasta oferta sunt preturi recomandate si contin TVA conform legislatiei in vigoare. Oferta nu include componentele tehnologice, este supusa termenilor si conditiilor afisate si este valabila in limita stocului disponibil. De asemenea, oferta se poate modifica in functie de seria de sasiu. Schimbul de ulei este inclus in preturile mentionate in limita a 5l pentru autoturisme si 7l pentru autoutilitare. Alte detalii aferente ofertei sunt disponibile in paginile de promotie detaliate pe ford.ro si in reteaua de reparatori autorizati Ford.
-                            Campanie valabila pana la data de 31 mai 2019.
+                            Preț de vânzare cu amănuntul recomandat și neobligatoriu; prețul include taxa pe valoarea adăugată (TVA), dar nu include eventuale bonusuri sau reduceri din cadrul unor campanii promoționale. Vă rugăm contactați dealerii autorizați Ford pentru detalii contractuale și tehnice (inclusiv consum și emisii) înainte de achiziție.
+                            [ **]
+
+                            Preț de vânzare recomandat și neobligatoriu; prețul nu include TVA sau taxe/accize guvernamentale sau costul plăcuțelor de înscriere în circulație provizorii, eventualele bonusuri sau reduceri din cadrul unor campanii promoționale. Vă rugăm contactați dealerii autorizați Ford pentru detalii contractuale și tehnice (inclusiv consum și emisii) înainte de achiziție.
+                            [ ***]
+
+                            Preț standard de vânzare, fără TVA, acesta nu include, printre altele, costul livrării către Dealer, taxe/accize guvernamentale, costul plăcuțelor provizorii, eventualele bonusuri sau reduceri din cadrul unor campanii promoționale. Vă rugăm contactați dealerii autorizați Ford pentru detalii contractuale și tehnice înainte de achiziție.
+                            [ ****]
+
+                            Toate prețurile afișate în această ofertă sunt prețuri recomandate și conțin TVA conform legislației în vigoare. Oferta nu include componentele tehnologice, este supusă termenilor și condițiilor afișate și este valabilă în limita stocului disponibil. De asemenea, oferta se poate modifica în funcție de seria de sasiu. Alte detalii aferente ofertei sunt disponibile în paginile de promoție detaliate pe ford.ro și în rețeaua de reparatori autorizați Ford. Campanie valabilă până la data de 30 Iunie 2020.
+                            [ *****]
+
+                            Campanie valabilă până la data de 30 Iunie 2020.
+
+
 
 
                         </em></div>
@@ -657,7 +676,7 @@ return false;"
 </div>
 <div class="center_item">
     <div class="mid_page_promo">
-        <a href='https://wwwprod-ro.engine.ford.com/SBE/OSBOV?dc=10300' target="_self" >
+        <a href='https://www.ford.ro/service/masina-mea/programare-service#!/vehicle-step?dc=10300' target="_self" >
             <img src="/assets/img/1214613372064.jpg" border="0" alt="Programari service" title="Programari service"  height = '113'  width = '557' />
         </a>
     </div>

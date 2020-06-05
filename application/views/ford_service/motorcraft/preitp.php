@@ -703,7 +703,7 @@ Politica Ford este una de dezvoltare continua a produselor. Ne rezervam dreptul 
 </div>
 
 <div class="mid_page_promo">
-    <a href='https://wwwprod-ro.engine.ford.com/SBE/OSBOV?dc=10300' target="_self">
+    <a href='https://www.ford.ro/service/masina-mea/programare-service#!/vehicle-step?dc=10300' target="_self">
         <img src="/assets/img/1214613372064.jpg" border="0" alt="Programari service" title="Programari service"
              height='113' width='557'/>
     </a>
@@ -724,7 +724,7 @@ Politica Ford este una de dezvoltare continua a produselor. Ne rezervam dreptul 
     <div class="right_item">
         <!--<START_SSP001 >-->
         <!--  <div class="skyscraper_promo">
-              <a href='https://wwwprod-ro.engine.ford.com/SBE/OSBOV?dc=10300' target="_self">
+              <a href='https://www.ford.ro/service/masina-mea/programare-service#!/vehicle-step?dc=10300' target="_self">
                   <img src="/assets/img/service/1214513078990.jpg" border="0" alt="Book an Appointment"
                        title="Book an Appointment" height='185' width='185'/>
               </a>

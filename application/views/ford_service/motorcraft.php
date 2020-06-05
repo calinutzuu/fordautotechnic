@@ -568,7 +568,29 @@
                 </div>
             </div>
         </div>
-
+        <div class="BTIItemSecond">
+            <div class="BTIImage">
+                <div class="imgNonZoom">
+                    <img
+                        src="/assets/img/1214513079684.jpg"
+                        border="0" width="97"
+                        height="97"
+                        alt="Ford Tyres"
+                        title="Ford Tyres"
+                        style="border: solid 1px #999999;">
+                </div>
+            </div>
+            <div class="BTIarticleTitle">
+            </div>
+            <div class='BTIarticleBody'>
+                <div class='BTIarticleText'>
+                    <div><h2><font size="2">Reparaţii uzuale<br> </font></h2> <strong><br> <span
+                                style="color: rgb(0, 0, 128);"><span style="font-size: medium;"><span
+                                        style="font-size: x-large;"> </span></span></span></strong><br> <br>
+                        <br> <a HREF="/FordService/Motorcraft/Reparatii">&gt;Reparaţii uzuale</a></div>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 
@@ -625,96 +647,8 @@
         </div>
     </div>
 </div> -->
-<div class="BTIRow">
-    <div class="BTITwoItems">
-        <div class="BTIItem">
-            <div class="BTIImage">
-                <div class="imgNonZoom">
-                    <img
-                        src="/assets/img/service/1214513079598.jpg"
-                        border="0" width="97"
-                        height="97"
-                        alt="Ford Repairs"
-                        title="Ford Repairs"
-                        style="border: solid 1px #999999;">
-                </div>
-            </div>
-            <div class="BTIarticleTitle">
-            </div>
-            <div class='BTIarticleBody'>
-                <div class='BTIarticleText'>
-                    <div><h2><font size="2">Reparaţii uzuale<br> </font></h2> <strong><br> de la&nbsp; <span
-                                style="color: rgb(0, 0, 128);"><span style="font-size: medium;"><span
-                                        style="font-size: x-large;">290 lei</span></span></span></strong><br> <br>
-                        <br> <a HREF="/FordService/Motorcraft/Reparatii">&gt;Reparaţii uzuale</a></div>
-                </div>
-            </div>
-        </div>
-        <div class="BTIItemSecond">
-            <div class="BTIImage">
-                <div class="imgNonZoom">
-                    <img
-                        src="/assets/img/1214609482801.jpg"
-                        border="0" width="97"
-                        height="97"
-                        alt="Verificare vizuala sistem A/C "
-                        title="Verificare vizuala sistem A/C "
-                        style="border: solid 1px #999999;">
-                </div>
-            </div>
-            <div class="BTIarticleTitle">
-            </div>
-            <div class='BTIarticleBody'>
-                <div class='BTIarticleText'>
-                    <div><h2><font size="2">Verificare vizuala sistem A/C </font></h2> <br> <span
-                            style="color: rgb(0, 0, 0);"><strong> </strong></span><span
-                            style="color: rgb(0, 0, 128);"><strong><span
-                                    style="font-size: x-large;">40 lei</span></strong></span><span
-                            style="color: red"><span style="color:#425968"><br> <div><strong><span
-                                            style="font-size: medium;"><br>  </span></strong></div> </span></span><a
-                            HREF="/FordService/Motorcraft/Reparatii/AerConditionat">&gt;Verificare aer
-                            conditionat</a></div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="BTIRow">
-    <div class="BTITwoItems">
-        <div class="BTIItem">
-            <div class="BTIImage">
-                <div class="imgNonZoom">
-                    <img
-                        src="/assets/img/service/1214609482715.jpg"
-                        border="0" width="97"
-                        height="97"
-                        alt="Stergatoare de parbriz "
-                        title="Stergatoare de parbriz "
-                        style="border: solid 1px #999999;">
-                </div>
-            </div>
-            <div class="BTIarticleTitle">
-            </div>
-            <div class='BTIarticleBody'>
-                <div class='BTIarticleText'>
-                    <div><h2><font size="2">Stergatoare de parbriz</font></h2> <br> <span
-                            style="color: rgb(0, 0, 0);"><strong>de la <span style="color: rgb(0, 0, 128);"><span
-                                        style="font-size: x-large;">148 lei</span></span></strong></span><br> <br>
-                        <a HREF="/FordService/Motorcraft/Reparatii/Stergatoare">&gt;Stergatoare de parbriz</a></div>
-                </div>
-            </div>
-        </div>
-        <div class="BTIItemSecond">
-            <div class="BTIarticleTitle">
-            </div>
-            <div class='BTIarticleBody'>
-                <div class='BTIarticleText'>
-                    <div></div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+
+
 <div class="BTIRow">
     <div class="BTIOneItem">
         <div class="BTIarticleTitle">
@@ -723,14 +657,33 @@
             <div class='BTIarticleText'>
                 <div><em>
 
-                        Imaginile si informatiile prezentate pe acest site sunt oferite cu titlu informativ. Este posibil ca imaginile sa nu infatiseze exclusiv specificatii disponibile in Europa si/sau in Romania. Culorile pot diferi, in realitate, in functie de ecranul calculatorului sau dispozitivului mobil. Anumite accesorii si/sau optionale pot fi disponibile contra cost.
 
-                        Politica Ford este una de dezvoltare continua a produselor. Ne rezervam dreptul de a modifica, in orice moment, specificatiile, culorile, modelele si elementele ilustrate si descrise pe acest site, cu respectarea prevederilor legale.
+
+                        Imaginile și informațiile prezentate pe acest site sunt oferite exclusiv cu titlu informativ și nu au valoare contractuală. Este posibil că imaginile să nu înfățișeze exclusiv specificații disponibile în Europa și/sau în România. Culorile pot diferi, în realitate, în funcție de ecranul calculatorului sau ale dispozitivului mobil de pe care se vizualizează produsele dar și de luminozitatea din mediul ambiental în care sunt prezentate sau vizualizate produsele. Anumite accesorii și/sau opționale pot fi disponibile contra cost.
+
+                        Este esențială contactarea distribuitorilor Ford înainte de încheierea contractelor de achiziție a produselor.
+
+                        Politica Ford este una de dezvoltare continuă a produselor. Ne rezervăm dreptul de a modifica fără preaviz/notificare prealabilă, în orice moment specificațiile, culorile, modelele și elementele ilustrate și descrise pe acest site.
+
+                        Legislația europeană și națională în materia procedurii de testare a valorilor de emisii și consum WLTP nu oferă un nivel de claritate suficient, în acest moment, în ceea ce privește valorile (de emisii și consum) înregistrate de autovehiculele asupra cărora s-au efectuat modificări constructive (“conversii”) prin intermediul carosierilor autorizați. În mod specific, în acest moment, legislația nu abordează suficient de clar problematica efectuării conversiilor înainte de punerea în circulație. De aceea, pentru evitarea situațiilor incerte, recomandăm efectuarea conversiei ulterior înmatriculării.
 
                         [*]
 
-                        Toate prețurile afișate în această ofertă sunt prețuri recomandate și conțin TVA conform legislației în vigoare. Oferta nu include componentele tehnologice, este supusă termenilor și condițiilor afișate și este valabilă în limita stocului disponibil. De asemenea, oferta se poate modifica în funcție de seria de sasiu. Alte detalii aferente ofertei sunt disponibile în paginile de promoție detaliate pe ford.ro și în rețeaua de reparatori autorizați Ford.
-                        Campanie valabila pana la data de 31 mai 2019.
+                        Preț de vânzare cu amănuntul recomandat și neobligatoriu; prețul include taxa pe valoarea adăugată (TVA), dar nu include eventuale bonusuri sau reduceri din cadrul unor campanii promoționale. Vă rugăm contactați dealerii autorizați Ford pentru detalii contractuale și tehnice (inclusiv consum și emisii) înainte de achiziție.
+                        [ **]
+
+                        Preț de vânzare recomandat și neobligatoriu; prețul nu include TVA sau taxe/accize guvernamentale sau costul plăcuțelor de înscriere în circulație provizorii, eventualele bonusuri sau reduceri din cadrul unor campanii promoționale. Vă rugăm contactați dealerii autorizați Ford pentru detalii contractuale și tehnice (inclusiv consum și emisii) înainte de achiziție.
+                        [ ***]
+
+                        Preț standard de vânzare, fără TVA, acesta nu include, printre altele, costul livrării către Dealer, taxe/accize guvernamentale, costul plăcuțelor provizorii, eventualele bonusuri sau reduceri din cadrul unor campanii promoționale. Vă rugăm contactați dealerii autorizați Ford pentru detalii contractuale și tehnice înainte de achiziție.
+                        [ ****]
+
+                        Toate prețurile afișate în această ofertă sunt prețuri recomandate și conțin TVA conform legislației în vigoare. Oferta nu include componentele tehnologice, este supusă termenilor și condițiilor afișate și este valabilă în limita stocului disponibil. De asemenea, oferta se poate modifica în funcție de seria de sasiu. Alte detalii aferente ofertei sunt disponibile în paginile de promoție detaliate pe ford.ro și în rețeaua de reparatori autorizați Ford. Campanie valabilă până la data de 30 Iunie 2020.
+                        [ *****]
+
+                        Campanie valabilă până la data de 30 Iunie 2020.
+
+
                         <br>
                     </em></div>
             </div>
@@ -738,7 +691,7 @@
     </div>
 </div>
 <div class="mid_page_promo">
-    <a href='https://wwwprod-ro.engine.ford.com/SBE/OSBOV?dc=10300' target="_self">
+    <a href='https://www.ford.ro/service/masina-mea/programare-service#!/vehicle-step?dc=10300' target="_self">
         <img src="/assets/img/1214613372064.jpg" border="0" alt="Programari service" title="Programari service"
              height='113' width='557'/>
     </a>
@@ -864,7 +817,7 @@
 <div class="right_item">
     <!--<START_SSP001 >-->
     <div class="skyscraper_promo">
-        <a href='https://wwwprod-ro.engine.ford.com/SBE/OSBOV?dc=10300' target="_self">
+        <a href='https://www.ford.ro/service/masina-mea/programare-service#!/vehicle-step?dc=10300' target="_self">
             <img
                 src="/assets/img/service/1214513078990.jpg"
                 border="0" alt="Book an Appointment" title="Book an Appointment" height='185' width='185'/>
