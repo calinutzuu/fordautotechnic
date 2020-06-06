@@ -76,11 +76,7 @@
                         <br>
                         Email: <a href="mailto:crcro@ford.com">dorel.babusanu@fordautotechnic.ro</a>
                         <br><br>
-                        Sef Atelier : <b>Dobrea Catalin</b>
-                        <br>
-                        Tel: 0737 992 855
-                        <br>
-                        Email: <a href="mailto:crcro@ford.com">catalin.dobrea@fordautotechnic.ro</a>
+
 
                         <blockquote><strong> ATELIER MECANICA </strong><br>
                             Receptioner Service : <b>Pop Radu</b>

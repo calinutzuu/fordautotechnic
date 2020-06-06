@@ -30,15 +30,15 @@
         <div class="cookie-closebtn"><a id="closeBtnID" class="icon closeBtn" href="#" title="Close">Close</a></div>
         <p>
 
-        <p align="left">Fişierele de tip cookie sunt esenţiale pentru ca dumneavoastră să utilizaţi la maximum site-ul
-            nostru Web. De fapt, aproape toate site-urile Web utilizează acest tip de fişiere. Fişierele de tip cookie
-            stochează preferinţele dumneavoastră şi alte informaţii care ne ajută să ne &icirc;mbunătăţim site-ul Web -
-            dar nu vă faceţi griji, nicio informaţie colectată de pe site-ul nostru nu vă identifică &icirc;n mod
-            personal. Puteţi afla mai multe despre fişierele de tip cookie şi despre cum puteţi să le controlaţi cu
-            ajutorul setărilor dumneavoastră de navigare din Ghidul Ford privind fişierele de tip cookie.</p>
+        <p align="left">Fi?ierele de tip cookie sunt esen?iale pentru ca dumneavoastr? s? utiliza?i la maximum site-ul
+            nostru Web. De fapt, aproape toate site-urile Web utilizeaz? acest tip de fi?iere. Fi?ierele de tip cookie
+            stocheaz? preferin?ele dumneavoastr? ?i alte informa?ii care ne ajut? s? ne &icirc;mbun?t??im site-ul Web -
+            dar nu v? face?i griji, nicio informa?ie colectat? de pe site-ul nostru nu v? identific? &icirc;n mod
+            personal. Pute?i afla mai multe despre fi?ierele de tip cookie ?i despre cum pute?i s? le controla?i cu
+            ajutorul set?rilor dumneavoastr? de navigare din Ghidul Ford privind fi?ierele de tip cookie.</p>
         <a id="linkID" class="link"
            href="../../../Footer/GhidulFordPrivindFisiereleDeTipCookiea41f.html?intcmp=other-nwp-cookies-cookie-alert-link">
-            Aflați mai multe </a>
+            Afla?i mai multe </a>
         </p>
     </div>
 </div>
@@ -438,11 +438,11 @@
                     </div>
                     <div class='BTIarticleBody'>
                         <div class='BTIarticleText'>
-                            <div><strong><span style="font-size: medium">Solutia ce permite un cost corect</span></strong><br>
+                            <div><strong><span style="font-size: medium">Pentru schimbari de viteza fara efort.</span></strong><br>
                                 <ul>
-                                    <li>Ajustata la v&acirc;rsta autovehiculului tau</li>
-                                    <li>Piese remanufacturate, cu respectarea specificatiilor Ford</li>
-                                    <li>Pret recomandat, care include piesele si manopera</li>
+                                    <li>Ambreiajul din vehiculul tau Ford este o piesa complexa, conceputa sa te ajute sa schimbi vitezele repede, lin si eficient.</li>
+                                    <li>Cum durata de viata a ambreiajului depinde de stilul tau de condus, este important sa fii atent la semnele de uzura.</li>
+                                    <li>Tehnicienii Ford vor fi incantati sa faca aceasta verificare pentru tine.</li>
                                 </ul>
                                 <div>
                                     <style type="text/css">        .floatedTable {
@@ -512,25 +512,39 @@
                                         </tr>
                                         <tr class="CusTab-dark">
                                             <td class="CusTab-dark-left">Inlocuire set ambreiaj (placa, disc, rulment)</td>
-                                            <td><span style="font-size: large"> 1.518 lei  <br>             </span></td>
-                                            <td><span style="font-size: large"> 1.800 lei  <br>             </span></td>
+                                            <td><span style="font-size: large"> 1.594 lei  <br>             </span></td>
                                             <td><span style="font-size: large"> 1.890 lei  <br>             </span></td>
-                                            <td><span style="font-size: large">&nbsp;1.865 lei  <br>             </span></td>
-                                            <td><span style="font-size: large">&nbsp;1.920 lei  <br>             </span></td>
+                                            <td><span style="font-size: large"> 1.985 lei  <br>             </span></td>
+                                            <td><span style="font-size: large"> 2.016 lei  <br>             </span></td>
+                                            <td><span style="font-size: large"> 1.958 lei  <br>             </span></td>
                                         </tr>
                                         </tbody>
                                     </table>
                                     <br> <br> <em>
 
-                                        Imaginile si informatiile prezentate pe acest site sunt oferite cu titlu informativ. Este posibil ca imaginile sa nu infatiseze exclusiv specificatii disponibile in Europa si/sau in Romania. Culorile pot diferi, in realitate, in functie de ecranul calculatorului sau dispozitivului mobil. Anumite accesorii si/sau optionale pot fi disponibile contra cost.
 
-                                        Politica Ford este una de dezvoltare continua a produselor. Ne rezervam dreptul de a modifica, in orice moment, specificatiile, culorile, modelele si elementele ilustrate si descrise pe acest site, cu respectarea prevederilor legale.
+
+                                        Imaginile și informațiile prezentate pe acest site sunt oferite exclusiv cu titlu informativ și nu au valoare contractuală. Este posibil că imaginile să nu înfățișeze exclusiv specificații disponibile în Europa și/sau în România. Culorile pot diferi, în realitate, în funcție de ecranul calculatorului sau ale dispozitivului mobil de pe care se vizualizează produsele dar și de luminozitatea din mediul ambiental în care sunt prezentate sau vizualizate produsele. Anumite accesorii și/sau opționale pot fi disponibile contra cost.
+
+                                        Este esențială contactarea distribuitorilor Ford înainte de încheierea contractelor de achiziție a produselor.
+
+                                        Politica Ford este una de dezvoltare continuă a produselor. Ne rezervăm dreptul de a modifica fără preaviz/notificare prealabilă, în orice moment specificațiile, culorile, modelele și elementele ilustrate și descrise pe acest site.
+
+                                        Legislația europeană și națională în materia procedurii de testare a valorilor de emisii și consum WLTP nu oferă un nivel de claritate suficient, în acest moment, în ceea ce privește valorile (de emisii și consum) înregistrate de autovehiculele asupra cărora s-au efectuat modificări constructive (“conversii”) prin intermediul carosierilor autorizați. În mod specific, în acest moment, legislația nu abordează suficient de clar problematica efectuării conversiilor înainte de punerea în circulație. De aceea, pentru evitarea situațiilor incerte, recomandăm efectuarea conversiei ulterior înmatriculării.
 
                                         [*]
 
-                                        Toate prețurile afișate în această ofertă sunt prețuri recomandate în lei, conțin TVA conform legislației în vigoare și includ prețul manoperei. Oferta nu include componentele tehnologice . De asemenea, această ofertă este supusă termenilor și condițiilor afișate, este valabilă în limita stocului disponibil și se poate modifica în funcție de seria de sasiu. Alte detalii aferente ofertei sunt disponibile în paginile de promoție detaliate pe ford.ro și în rețeaua de reparatori autorizați Ford.
-                                        Campanie valabila pana la data de 31 mai 2019.
+                                        Preț de vânzare cu amănuntul recomandat și neobligatoriu; prețul include taxa pe valoarea adăugată (TVA), dar nu include eventuale bonusuri sau reduceri din cadrul unor campanii promoționale. Vă rugăm contactați dealerii autorizați Ford pentru detalii contractuale și tehnice (inclusiv consum și emisii) înainte de achiziție.
+                                        [ **]
 
+                                        Preț de vânzare recomandat și neobligatoriu; prețul nu include TVA sau taxe/accize guvernamentale sau costul plăcuțelor de înscriere în circulație provizorii, eventualele bonusuri sau reduceri din cadrul unor campanii promoționale. Vă rugăm contactați dealerii autorizați Ford pentru detalii contractuale și tehnice (inclusiv consum și emisii) înainte de achiziție.
+                                        [ ***]
+
+                                        Preț standard de vânzare, fără TVA, acesta nu include, printre altele, costul livrării către Dealer, taxe/accize guvernamentale, costul plăcuțelor provizorii, eventualele bonusuri sau reduceri din cadrul unor campanii promoționale. Vă rugăm contactați dealerii autorizați Ford pentru detalii contractuale și tehnice înainte de achiziție.
+                                        [ ****]
+
+                                        Toate prețurile afișate în această ofertă sunt prețuri recomandate în lei, conțin TVA conform legislației în vigoare și includ prețul manoperei. Oferta nu include componentele tehnologice. În cazul motoarelor Ecoboost, oferta NU INCLUDE rulmentul de presiune. De asemenea, această ofertă este supusă termenilor și condițiilor afișate, este valabilă în limita stocului disponibil și se poate modifica în funcție de seria de sasiu. Alte detalii aferente ofertei sunt disponibile în paginile de promoție detaliate pe ford.ro și în rețeaua de reparatori autorizați Ford.
+                                        Campanie valabila pana la data de 30 Iunie 2020.
 
                                 </div>
                             </div>
@@ -587,7 +601,7 @@
 <!-- <Start> -->
 </div>
 
-</div>
+
 <!-- Engine tag - loading 'Layout4_EP2::SystemFooter' -->
 <!-- Loading sitesetup -->
 <!-- 'Layout4_EP2' is calling DoubleClick from 'SystemFooter' -->
@@ -755,10 +769,10 @@
 <script>
     var TagIT = TagIT || {};
 </script>
-<script
+<script>
     src='../../../cs/ContentServer45dd?cid=1&amp;isMobile=false&amp;pagename=RORO4_ENGINE%2Fscript%2Ftagit%2Fassembler&amp;require=NONE&amp;location=load&amp;c=Page'
     defer></script>
-<script
+<script>
     src='../../../cs/ContentServerd3e7?cid=1&amp;isMobile=false&amp;pagename=RORO4_ENGINE%2Fscript%2Ftagit%2Fstatic&amp;require=NONE&amp;location=load&amp;c=Page'></script>
 </body>
 

@@ -440,16 +440,11 @@
         <div class='BTIarticleBody'>
             <div class='BTIarticleText'>
                 <div><strong><span
-                            style="font-size: medium;">Puterea de a te opri pe care poţi conta</span></strong><br>
-                    <br> Sistemul de fr&acirc;nare reprezintă un element-cheie pentru conceptul de
-                    siguranţă; prin urmare, verificarea sa periodică este vitală. <br> <br> Kiturile cu
-                    plăcuţe de fr&acirc;nă Motorcraft sunt special concepute pentru modelul tău Ford; cu
-                    ele, scapi de griji şi beneficiezi şi de reparaţii la un &icirc;nalt nivel calitativ.
-                    <br> <br> După cum poti constata din tabelul de mai jos, discurile şi plăcuţele nostre
-                    de fr&acirc;nă vin şi la un preţ prietenos. <br> <br> Prin urmare, &icirc;n
-                    cazul &icirc;n care doreşti o verificare, &icirc;nlocuire sau reparaţie a sistemului de
-                    fr&acirc;nare efectuată la cel mai apropiat Dealer Ford, te rugăm să fixezi o
-                    programare.
+                            style="font-size: medium;">Sistem de franare</span></strong><br>
+                    <br> Elemente de franare la preturi competitive pentru vehiculul tau Ford: putere de oprire pe care te poti baza.
+                    Sistemul de franare este un element esential de siguranta , asadar verificarea periodica a vehiculului tau
+                    este vitala <br> <br> Seturile de placute de frana Ford Motorcraft sunt special concepute si adaptate pentru masina ta Ford.
+                    <br> <br> Dupa cum poti constata din tabelul de mai jos, discurile si placutele noastre de frana vin si la un pret prietenos.  <br> <br> Prin urmare, in cazul in care doresti o verificare, inlocuire sau reparatie a sistemului de franare efectuata la cel mai apropiat Dealer Ford, te rugam sa fixezi o programare.
                 </div>
             </div>
         </div>
@@ -461,7 +456,7 @@
         </div>
         <div class='BTIarticleBody'>
             <div class='BTIarticleText'>
-                <h2><font size="2">Plăcuţe de fr&acirc;nă la preţuri competitive pentru modelul tău Ford</font></h2>
+                <h2><font size="2"> </font></h2>
 
                 <div>
                     <style type="text/css">        .floatedTable {
@@ -531,35 +526,34 @@
                         </tr>
                         <tr class="CusTab-dark">
                             <td class="CusTab-dark-left">Inlocuire set placute de fr&acirc;na fata</td>
-                            <td><span style="font-size: large">311 lei <br>             </span></td>
-                            <td><span style="font-size: large">341 lei <br>             </span></td>
-                            <td><span style="font-size: large">371 lei <br>             </span></td>
-                            <td><span style="font-size: large">306 lei<br>             </span></td>
-                            <td><span style="font-size: large">348 lei <br>             </span></td>
+                            <td><span style="font-size: large">327 lei <br>             </span></td>
+                            <td><span style="font-size: large">358 lei <br>             </span></td>
+                            <td><span style="font-size: large">390 lei <br>             </span></td>
+                            <td><span style="font-size: large">321 lei<br>             </span></td>
+                            <td><span style="font-size: large">365 lei <br>             </span></td>
                         </tr>
                         <tr class="CusTab-light">
                             <td class="CusTab-light-left">Inlocuire set placute si discuri de fr&acirc;na fata</td>
-                            <td><span style="font-size: large">852 lei <br>             </span></td>
-                            <td><span style="font-size: large">977 lei <br>             </span></td>
-                            <td><span style="font-size: large">1.077 lei <br>             </span></td>
-                            <td><span style="font-size: large">1.002 lei <br>             </span></td>
-                            <td><span style="font-size: large">1.577 lei <br>             </span></td>
+                            <td><span style="font-size: large">895 lei <br>             </span></td>
+                            <td><span style="font-size: large">1026 lei <br>             </span></td>
+                            <td><span style="font-size: large">1.131 lei <br>             </span></td>
+                            <td><span style="font-size: large">1.052 lei <br>             </span></td>
+                            <td><span style="font-size: large">1.656 lei <br>             </span></td>
                         </tr>
                         <tr class="CusTab-dark">
                             <td class="CusTab-dark-left">Schimb lichid de fr&acirc;na</td>
-                            <td><span style="font-size: large">160 lei </span></td>
-                            <td><span style="font-size: large">160 lei </span></td>
-                            <td><span style="font-size: large">160 lei </span></td>
+                            <td><span style="font-size: large">168 lei </span></td>
+                            <td><span style="font-size: large">168 lei </span></td>
+                            <td><span style="font-size: large">168 lei </span></td>
                             <td><span style="font-size: large">-<br>             </span></td>
                             <td><span style="font-size: large">-<br>             </span></td>
                         </tr>
                         </tbody>
                     </table>
-                    <br> <br> Toate kiturile cu plăcuţe de fr&acirc;nă Motorcraft au fost &icirc;mbunătăţite şi
-                    testate &icirc;n concordanţă cu cele mai stricte directive Ford şi sunt special concepute pentru
-                    modelele Ford. <br> <br> De asemenea, şi-au demonstrat longevitatea mulţumită rezistenţei la
-                    temperaturi &icirc;nalte, oferind comfortul necesar chiar şi &icirc;n condiţiile unei sarcini mari
-                    pe pneu.
+                    <br> <br> Toate kiturile cu placute de frana Motorcraft au fost imbunatatite si testate in
+                    concordanta cu cele mai stricte directive Ford si sunt special concepute pentru modelele Ford.
+                    <br> <br> De asemenea, si-au demonstrat longevitatea multumita rezistentei la temperaturi
+                    inalte, oferind comfortul necesar chiar si in conditiile unei sarcini mari pe pneu.
                 </div>
             </div>
         </div>
@@ -575,14 +569,31 @@
 
 
 
-                        Imaginile si informatiile prezentate pe acest site sunt oferite cu titlu informativ. Este posibil ca imaginile sa nu infatiseze exclusiv specificatii disponibile in Europa si/sau in Romania. Culorile pot diferi, in realitate, in functie de ecranul calculatorului sau dispozitivului mobil. Anumite accesorii si/sau optionale pot fi disponibile contra cost.
 
-                        Politica Ford este una de dezvoltare continua a produselor. Ne rezervam dreptul de a modifica, in orice moment, specificatiile, culorile, modelele si elementele ilustrate si descrise pe acest site, cu respectarea prevederilor legale.
+
+                        Imaginile și informațiile prezentate pe acest site sunt oferite exclusiv cu titlu informativ și nu au valoare contractuală. Este posibil că imaginile să nu înfățișeze exclusiv specificații disponibile în Europa și/sau în România. Culorile pot diferi, în realitate, în funcție de ecranul calculatorului sau ale dispozitivului mobil de pe care se vizualizează produsele dar și de luminozitatea din mediul ambiental în care sunt prezentate sau vizualizate produsele. Anumite accesorii și/sau opționale pot fi disponibile contra cost.
+
+                        Este esențială contactarea distribuitorilor Ford înainte de încheierea contractelor de achiziție a produselor.
+
+                        Politica Ford este una de dezvoltare continuă a produselor. Ne rezervăm dreptul de a modifica fără preaviz/notificare prealabilă, în orice moment specificațiile, culorile, modelele și elementele ilustrate și descrise pe acest site.
+
+                        Legislația europeană și națională în materia procedurii de testare a valorilor de emisii și consum WLTP nu oferă un nivel de claritate suficient, în acest moment, în ceea ce privește valorile (de emisii și consum) înregistrate de autovehiculele asupra cărora s-au efectuat modificări constructive (“conversii”) prin intermediul carosierilor autorizați. În mod specific, în acest moment, legislația nu abordează suficient de clar problematica efectuării conversiilor înainte de punerea în circulație. De aceea, pentru evitarea situațiilor incerte, recomandăm efectuarea conversiei ulterior înmatriculării.
 
                         [*]
 
-                        Toate prețurile afișate în această ofertă sunt prețuri recomandate în lei, conțin TVA conform legislației în vigoare și includ prețul manoperei. Oferta nu include componentele tehnologice . De asemenea, această ofertă este supusă termenilor și condițiilor afișate, este valabilă în limita stocului disponibil și se poate modifica în funcție de seria de sasiu. Alte detalii aferente ofertei sunt disponibile în paginile de promoție detaliate pe ford.ro și în rețeaua de reparatori autorizați Ford.
-                        Campanie valabila pana la data de 31 mai 2019.
+                        Preț de vânzare cu amănuntul recomandat și neobligatoriu; prețul include taxa pe valoarea adăugată (TVA), dar nu include eventuale bonusuri sau reduceri din cadrul unor campanii promoționale. Vă rugăm contactați dealerii autorizați Ford pentru detalii contractuale și tehnice (inclusiv consum și emisii) înainte de achiziție.
+                        [ **]
+
+                        Preț de vânzare recomandat și neobligatoriu; prețul nu include TVA sau taxe/accize guvernamentale sau costul plăcuțelor de înscriere în circulație provizorii, eventualele bonusuri sau reduceri din cadrul unor campanii promoționale. Vă rugăm contactați dealerii autorizați Ford pentru detalii contractuale și tehnice (inclusiv consum și emisii) înainte de achiziție.
+                        [ ***]
+
+                        Preț standard de vânzare, fără TVA, acesta nu include, printre altele, costul livrării către Dealer, taxe/accize guvernamentale, costul plăcuțelor provizorii, eventualele bonusuri sau reduceri din cadrul unor campanii promoționale. Vă rugăm contactați dealerii autorizați Ford pentru detalii contractuale și tehnice înainte de achiziție.
+                        [ ****]
+
+                        Toate prețurile afișate în această ofertă sunt prețuri recomandate în lei, conțin TVA conform legislației în vigoare și includ prețul manoperei. Oferta nu include componentele tehnologice. Oferta NU SE APLICA autovehiculelor utilitare echipate cu roți duble spate. De asemenea, această ofertă este supusă termenilor și condițiilor afișate, este valabilă în limita stocului disponibil și se poate modifica în funcție de seria de sasiu. Alte detalii aferente ofertei sunt disponibile în paginile de promoție detaliate pe ford.ro și în rețeaua de reparatori autorizați Ford.
+                        Campanie valabila pana la data de 30 Iunie 2020.
+
+
 
 
                     </em></div>
