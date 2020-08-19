@@ -178,7 +178,7 @@
 -->
 
 <article role="option">
-    <a class="carImg" href="#img1"><img src="/assets/img/pand1.jpg"
+    <a class="carImg" href="#img1"><img src="/assets/img/site1.jpg"
                                         alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt; &lt;/span&gt;&lt;/span&gt;"
                                         role="presentation"></a>
 
@@ -194,11 +194,7 @@
                 <span style="font-size:18px;"><span style="font-family:FordAntennaRegular;"> </span></span>
             </p>
 
-            <div class="btnwrapper">
-                <div class="btnLink light">
-                    <a role="button" class="om_ca_in" href="https://www.ford.ro/cumpara/alege-modelul/promotii-ford/campania-6-luni-fara-griji">Afla mai multe</a>
-                </div>
-            </div>
+
 
         </div>
 
@@ -206,7 +202,7 @@
 
 
 </article>
-
+<!--
 <article role="option">
     <a class="carImg" href="#img1"><img src="/assets/img/pand2.jpg"
                                         alt="&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:FordAntennaRegular;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-family:FordAntennaBlack;&quot;&gt; &lt;/span&gt;&lt;/span&gt;"
